@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workflows/02 PARA_Starter_Kit_v2/2. Areas/Personal Development/A spellbinding reading of Hermann Hesse's 100-year-old love letter to trees.md",
+                "file": "ReadMe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A spellbinding reading of Hermann Hesse's 100-year-old love letter to trees"
+              "title": "ReadMe"
             }
           }
         ],
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spellbindi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,6 +193,7 @@
   },
   "active": "7663e37762848f36",
   "lastOpenFiles": [
+    "Workflows/02 PARA_Starter_Kit_v2/2. Areas/Personal Development/A spellbinding reading of Hermann Hesse's 100-year-old love letter to trees.md",
     "ReadMe.md",
     "Ideaverse/Home.md",
     "LizardsFromOuterSpace/002- Zettelkasten.md",

@@ -1,4 +1,4 @@
-# Lizard Men From Outer Space
+I have rece# Lizard Men From Outer Space
 
 This is a notes collection obtained from an obsidian user's forum posts. Enter here: [[002- Zettelkasten]].
 Source: [Obsidian Forum](https://forum.obsidian.md/t/obsidian-zettelkasten/1999)
