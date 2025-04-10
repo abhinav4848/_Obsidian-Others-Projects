@@ -1,0 +1,2 @@
+# Compiling 
+Compiling follows along the same lines as summarizing, whereby you are deciding what information is worth taking notes on in our infoglut society. This is an important skill to have because we have a limited amount of time on earth, so a certain amount of efficiency is necessary. 

@@ -1,0 +1,2 @@
+# ROI of Knowledge Work Tasks
+You get different return on investments for the various tasks involved in knowledge work. For example, while memorization is necessary, it has limited “ROI” because we tend to have easy access to information in 2020. Cognitive Skills ([[079- Cognitive Skills]]), such as acquiring metacognitive knowledge will have a greater payback as it leads to your overall improvement and has a larger utility.

@@ -1,0 +1,8 @@
+# Links
+Links are pointers that allow for easy navigation between related notes. **Internal Links** are connections between notes within the program. For Obsidian these take the form of tags (link to a custom selection of notes), index (File Explorer), and links to other notes within the note itself. **External Links** are connections between a note and either an external program, most commonly a web page.
+
+You can think of links as serving both a specific and general purpose. The specific purpose is to point you towards a set of information you are looking for. This is what the file explorer and search function are for. The general purpose of links is to inform you of related information to what you are searching for. If you think about the information surprisal ([[117- Information Surprisal and Utility]]) factor of a link, then the best ones are those that point you towards additional information that you were unaware of.
+
+The additional information can either be specific or contextual. A contextual link can point you towards the wider context of information. A note about my father sits in the wider context of his social relationships (family, work, community, etc). A helpful contextual link would point you towards the wider context of a note that you didn’t know about. A specific link would be linking to another related concept, such that you [fabricate serendipity between notes](https://sociologica.unibo.it/article/view/8350/8270).
+
+Related [[094- Connections (knowledge)]] & [[130- Quality of Connections]]. 

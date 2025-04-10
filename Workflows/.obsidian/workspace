@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "975fed1a77f53014",
+    "type": "split",
+    "children": [
+      {
+        "id": "25ecc1122f7e8bbf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01 Obsidian Workflows.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "814ecf11b1aca3aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "391bab216633ccd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b6e246d0202b995",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "65a08034cf6aae02",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "25de7199cfdfaced",
+    "type": "split",
+    "children": [
+      {
+        "id": "172293c44b2558fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "819fe018985fe154",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Obsidian Workflows.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "25ecc1122f7e8bbf",
+  "lastOpenFiles": [
+    "01 Obsidian Workflows.md"
+  ]
+}

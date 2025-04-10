@@ -1,0 +1,2 @@
+# Goal for my Zettelkasten
+**Goal for my Zettelkasten** is to create and further develop models ([[044- Model]]) that can referenced during events or internalized for everyday use. My primary focus is on developing models that revolve around knowledge work and improving ones life. Those two concepts ([[043- Concept]]) are closely tied together because having a good environment and set of habits will help facilitate [deep knowledge work](https://www.calnewport.com/books/deep-work/).

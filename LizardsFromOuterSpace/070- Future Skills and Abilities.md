@@ -1,0 +1,8 @@
+# Future Skills and Abilities
+Professionals of the future need to adopt more flexibility in how they work.
+
+This means meeting people where they are at, engaging with them over social media or other more preferable platforms [(Susskind 2015, pg 106)](https://forum.obsidian.md/t/obsidian-zettelkasten/1999/10). Imagine being able to instant message your doctor.
+
+Future professionals will need to be able to take advantage of the increase and availability of data to come to insights. This involves both the collection and analyzing of data. Either the professionals themselves will work directly with the data or use a middle man that understands both the data and industry [(Susskind 2015, pg 107)](https://forum.obsidian.md/t/obsidian-zettelkasten/1999/10). They will also need to get better at working with new and emerging technology. Those who can effective work alongside machines will see an increase in efficiency and effectiveness (e.g. [Advanced Chess](https://www.wikiwand.com/en/Advanced_chess)).
+
+The final need is for workers to widen their tool set, either through the effective use of technology or introducing a multi-disciplinary approach [(Susskind 2015, 108-109)](https://forum.obsidian.md/t/obsidian-zettelkasten/1999/10). Imagine a “self-help coach” but who has extensive training, such that they work with doctors and psychologists. Taking a more holistic approach to fixing oneself.

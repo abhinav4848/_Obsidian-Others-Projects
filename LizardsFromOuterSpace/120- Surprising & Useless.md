@@ -1,0 +1,4 @@
+# Surprising & Useless
+Using the previous example ([[119- Surprising & Useful Information]]), say the information in the documentary was incorrect. Say that history shows that the science behind it isn’t valid. Such that when you go and try to make the same transition, it fails. This has slight utility because it removes an avenue of exploration. It can also be useful in the sense that surprising and useless information sometimes provides entertainment (e.g. bigfoot documentaries).
+
+In the end you want to avoid this type of information if you can because it is a waste of time. It is better to engage with surprising and useful information ([[119- Surprising & Useful Information]]). This is often why I prefer books by authoritative sources. While they can still be false and therefore useless, they are more likely to be correct than non authoritative sources.

@@ -1,0 +1,3 @@
+**116 - 21st Century Skills** are the skills ([[103- Skill]]) needed to work with newly emerging technology in the 21st century. This often involves being able to interface with computers in order to do more efficient knowledge work ([[068- Knowledge work]]). This involves both the production of new knowledge and communication of knowledge.
+
+See [[071- Future Roles]] and [[070- Future Skills and Abilities]]. 

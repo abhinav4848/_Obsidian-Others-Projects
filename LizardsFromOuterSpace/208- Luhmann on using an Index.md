@@ -1,0 +1,7 @@
+# **Luhmann on using an Index**
+
+Having a number sequence allows for the creation of an index that facilitates note retrieval
+
+> **3. Register.** Considering the absence of a systematic order, we must regulate the process of rediscovery of notes, for we cannot rely on our memory of numbers. (The alternation of numbers and alphabetic characters in numbering the slips helps memory and is an optical aid when we search for them, but it is insufficient. Therefore we need a register of keywords that we constantly update. The (fixed) numbers of the particular slips is also indispensable for the register. Another complementary aid can be the bibliographical apparatus. Bibliographical notes which we extract from the literature, should be captured inside the card index. Books, articles, etc., which we have actually read, should be put on a separate slip with bibliographical information in a separate box. You will then not only be able to determine after some time what you actually read and what you only noted to prepare reading, but you can also add numbered links to the notes, which are based on this work or were suggested by it. This proves to be helpful because our own memory—others will have similar experiences to mine—works in part with key words and in part with author’s names.
+
+**Source -** [Communicating with Slip Boxes: An Empirical Account - essay by Niklas Luhmann](http://luhmann.surge.sh/communicating-with-slip-boxes)

@@ -1,0 +1,2 @@
+# Surprising and Useful Information
+An example of this would be the documentary [game changers](https://gamechangersmovie.com/). For the purpose of this example, lets pretend that the information is true and the science is solid. I haven’t evaluated it so I’m not weighing in on its validity. Given that, the information in the documentary is **surprising** because it challenges the traditional narrative of the necessity of meat for strength. But it is also **useful** because you can act on the information to improve your own health.

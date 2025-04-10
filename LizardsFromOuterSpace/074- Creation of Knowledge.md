@@ -1,0 +1,7 @@
+Creation of [[073- Knowledge]] - There are two different ways I think about the creation of knowledge, a private and public way.
+
+The first is the **private creation of knowledge**, which is essentially learning. It means taking information and going through the memory process ([[029- Core Note Functions in Memory]]), which turns it into knowledge. This can be done on a [shallow level](https://www.wikiwand.com/en/Rote_learning), which is necessary but not sufficient (spin off into 17b1 #todo). In contrast, when done correctly, you are going one step further and structure building ([[052- Structure building framework]]) with the information.
+
+The second way is the **public creation of knowledge**, which encompasses cutting edge research and the [remixing](https://www.everythingisaremix.info/watch-the-series)/rethinking of ideas. The remixing of ideas can take the form of synthesizing existing knowledge (e.g. [Ryan Holiday 2](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy)’s [Notebox](https://ryanholiday.net/the-notecard-system-the-key-for-remembering-organizing-and-using-everything-you-read/), [Mark Manson](https://www.goodreads.com/book/show/43808723-everything-is-f-cked), etc - what I’d call the remix genre) or reformulation of existing knowledge. The later is typically done in educational settings, with [articles and blog posts](https://maggieappleton.com/essays).
+
+Creation of knowledge is on of the pillars that cognitive skills (17f) are geared towards (e.g. critical, creative, and three dimensional thinking - 10e5).

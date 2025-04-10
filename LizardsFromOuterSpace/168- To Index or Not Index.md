@@ -1,0 +1,4 @@
+# To Index or Not Index
+To Index ([[026- Index]]) or Not Index- something I’ve been contemplating is the utility ([[170- Utility]]) of an index. My first thought is that indexes are unnecessary in a digital zettelkasten because you have a search function. In a physical zettelkasten, you need some way of pointing you towards the location of topics when it isn’t obvious. In a digital zettelkasten, this isn’t necessary.
+
+An index in a digital zettelkasten can be useful for quicker retrieval of note sequences. If I search the term “index” in the universal search tool, it will bring up every occurrence of the word index. While that can be useful, it isn’t what I’m trying to do. Instead I’m trying to find the start of my notes on the topic of index. By having the word logged into a manual index, I can go straight to the correct note instead of having to figure out in the search tool which result is the right one.

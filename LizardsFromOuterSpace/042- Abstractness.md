@@ -1,0 +1,3 @@
+**Abstractness** is “the universality of a concept ([[043- Concept]]) or rule ([[045- Rule]]” [(Wozniak 2020)](https://supermemo.guru/wiki/Abstract_knowledge). Abstractness often tracks along side applicability ([[041- Applicability]]) because abstract knowledge ([[039- Abstract Knowledge]]) has gone through generalization ([[040- Generalization]]), which allows it to apply to a wider set of situations. 
+
+You have to be careful though because if knowledge becomes too **abstract** than it loses its meaning and ceases to be applicable. If I’ve removed so many details that you can’t make sense of some information then it is of no use. 

@@ -1,0 +1,3 @@
+**Abstract Knowledge** is information that has gone through the process of generalization ([[040- Generalization]]) to produce knowledge that is highly applicable ([[041- Applicability]]) because of its abstractness ([[039- Abstract Knowledge]]) [(Wozniak 2020) 66](https://supermemo.guru/wiki/Abstract_knowledge).
+
+It is the type of knowledge you typically want to acquire because it is just more useful as you can apply it to a wider set of situations (e.g. [General Thinking Concepts](https://fs.blog/mental-models/#general_thinking_concepts))

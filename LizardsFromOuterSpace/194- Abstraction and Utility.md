@@ -1,0 +1,4 @@
+# Abstraction and Utility
+our inclination and ever increasing march towards mastering the art of abstraction comes from its utility in the world would be my guess. Over time we have seen an increase in IQ ([Flynn Effect](https://www.wikiwand.com/en/Flynn_effect)), with some thinking it in part has to do with our increasing amount of knowledge work that deals with manipulating abstract ideas.
+
+**I think we are inclined towards abstraction because it allows us to use new information in a wider context, therefore gaining utility.** You can generalize from the specifics, then use that information as a rough estimation.

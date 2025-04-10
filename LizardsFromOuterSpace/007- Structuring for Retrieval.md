@@ -1,0 +1,5 @@
+# Structuring for Retrieval
+
+An important aspect of the zettelkasten ([[002- Zettelkasten]]) to understand is that Luhmann’s method of structure facilitated his end use case (writing). He created sequences of notes (1 - 1a -1b - 1c, called Luhmann ID), which allowed him to easily pull out all the notes on a given topic when he needed them. Otherwise he could have just used a numbered list for notes (1, 2, 3, 4, 5, new note 6) where the newest note is just the highest number.
+
+What all this suggests is that you should keep in mind how you plan on using your zettelkasten when you start to add [066- Layers of structure](066-%20Layers%20of%20structure.md). Do you plan on using it for writing like Luhmann did? Or do you strictly want to use it as a reference system? Or are you using it to build external [044- Model](044-%20Model.md), that once finished, become [058- Mental Models](058-%20Mental%20Models.md)?

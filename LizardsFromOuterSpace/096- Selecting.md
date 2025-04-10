@@ -1,0 +1,3 @@
+**Selecting** is the process you used to **retrieve the information** you are looking for. Typically people use [finding devices] that help you by [[095- Sorting]] the information or using a [search algorithm](https://www.wikiwand.com/en/Search_algorithm).
+
+To start the selection process, you need a information trigger. In memory terminology this would be known as a [[197- Retrieval Cues]], whether it be a word on a page, something someone says, or an evocative smell.

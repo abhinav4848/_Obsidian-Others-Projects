@@ -1,0 +1,3 @@
+**Sorting** is when you systematically arrange items into separate groups based on common features ([Oxford Dictionary](https://www.lexico.com/en/definition/sort)). Typically this is done to make the storage ([[053- Storing]]) and retrieval (5c) of information easier. It can also be used in a more exploratory way to learn more about your notes.
+
+Sorting methods have emerged from the need to add [[092- Structure]] to large bodies of information that emerged from the [information overload] involved with [evolving mediums].

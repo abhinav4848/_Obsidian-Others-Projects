@@ -1,0 +1,2 @@
+# Problem Solving 
+is one of the key ways you can add value to the world. It is the process where all the other cognitive skills ([[079- Cognitive Skills]]) come to fruition and is the driving focus behind [Creative Productivity Project](https://forum.obsidian.md/t/obsidian-zettelkasten/1999/51). It is an important skill to have even if you aren’t directly solving problems and instead contributing to the knowledge base.

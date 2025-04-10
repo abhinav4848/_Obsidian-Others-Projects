@@ -1,0 +1,15 @@
+# Future Roles
+In the book _The Future of the Professions: How Technology Will Transform the Work of Human Experts_, author Richard Susskind lays out 12 different roles that will emerge from a “post-professional society”:
+
+- **Craftspeople** - people who “craft” stuff that require a difficult skill set, such that they can’t be easily replaced by para-professionals or crowd sourced.
+- **Assistants** - people who aren’t experts but help out the above mentioned craftspeople (e.g. associates in law firms).
+- **Para-professionals** - will take over the spot of experts with the help of ever increasingly competent systems and tools.
+- **Empathizers** - people with extremely good people skills, which will always be important because we have a sociality that is ingrained in our [evolutionary biology](https://www.wikiwand.com/en/Social_evolution). [Machines 1](https://www.wikiwand.com/en/Paro_(robot)) will fill the gap, but people who can afford the help of other people will prefer doing so.
+- **R&D Workers** - research and development will always be desired for the creation of new technology that can allow for a greater reach of solutions or make them more effective.
+- **Knowledge Engineers** - people who will be designing systems that draw on the sources of existing expertise to disseminate knowledge to the wider public and para-professionals. Early examples may be wikipedia or [thoughtCo](https://www.thoughtco.com/).
+- **Process Analysts** - will be the ones deconstructing the work of experts to create the systems and tools used by the above mentioned para-professionals.
+- **Moderators** - people with deep insight who will help guide the centralization of expertise knowledge either from the masses or a pool of experts. Essentially making sure the quality of “the body of knowledge” stays high.
+- **Designers** - People who think up and design the various systems described above. If a service or system isn’t well made then people aren’t going to want to use it. You see this with the high salary and importance of [UX designers](https://www.wikiwand.com/en/User_experience_design).
+- **System Providers** - people who are actually providing the systems that the knowledge base is built on, whether it be a foundation (e.g. [Wikipedia](https://wikimediafoundation.org/)) or a private company (e.g. [Quora](https://www.quora.com/)).
+- **Data Scientists** - pretty straight forward [field 3](https://www.wikiwand.com/en/Data_science). People who are able to work with [big data](https://www.wikiwand.com/en/Big_data) and come to insights. Two of my data related products are [pudding.cool](https://pudding.cool/) and [quid](https://quid.com/).
+- **Systems Engineers** - are the people creating our [dumb machine helpers](https://www.amazon.com/Artificial-Intelligence-Guide-Thinking-Humans-ebook/dp/B07MYWPQSK/) (AI, Big Data Systems, etc) or [AI overlords 3](https://www.amazon.com/gp/product/B00LOOCGB2/)

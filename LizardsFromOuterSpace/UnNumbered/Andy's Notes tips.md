@@ -1,0 +1,6 @@
+- [Write about what you read](https://notes.andymatuschak.org/zg3fYweZpbHeBTpcYke5mF4ZfrJutYcQEtFo) - because knowledge work should accrete and Evergreen note-writing helps reading efforts
+- [most people read ineffectively](https://notes.andymatuschak.org/z432siNjuY9G8bTsnSugyHPB1YoZWgup6eMB3) - Evergreen note-writing helps reading efforts accumulate, but most people don’t do this
+- [How to Take Smart Notes - Ahrens](https://notes.andymatuschak.org/z6o5eS2DnpMwe2HnHyhgQAmmGkRCtkKina73u) - Writing ntoes feels like a huge time imposition, but that’s in comparison to an imaginary baseline: reading without writing notes is often all lost time… Evergreen note-writing helps reading efforts accumulate.
+- [Collecting material feels more useful than it usually is](https://notes.andymatuschak.org/z8QSUyNdq3CMK79KSnCW7QTR1MPHEFi4Q2LY8) - Instead, we should write about what you read, because Evergreen note-writing helps reading efforts accumulate. And to help steer ourselves… effectively
+- [§Note-writing systems](https://notes.andymatuschak.org/zhmLXArqiCMDr9Q13ViqN3hh3SmrKzjQxWAr) - Evergreen note-writing helps reading effors accumulate
+- **Source** - [Evergreen note-writing helps reading efforts accumulate](https://notes.andymatuschak.org/z6M8kex6kDF2FT6MWqAMDQddsqUr8sphLmyy1)
