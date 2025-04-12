@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "idea emergence",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7663e37762848f36",
+  "active": "e02a589a9b768801",
   "lastOpenFiles": [
     "Ideaverse/Atlas/Notes/Ideas/Bottom-up thinking.md",
     "ReadMe.md",
