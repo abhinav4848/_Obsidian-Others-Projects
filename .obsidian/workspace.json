@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Idea Emergence (defn)"
             }
-          },
-          {
-            "id": "56c540bb8a79395b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,8 +157,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -193,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56c540bb8a79395b",
+  "active": "7663e37762848f36",
   "lastOpenFiles": [
     "Ideaverse/Atlas/Notes/Ideas/Bottom-up thinking.md",
     "ReadMe.md",
