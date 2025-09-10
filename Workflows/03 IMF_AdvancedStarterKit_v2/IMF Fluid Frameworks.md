@@ -15,6 +15,6 @@ This is a deep rabbit hole, so for now, go to:
 
 We'll deal more with Fluid Frameworks in the next version. 
 
-See the inspiration for "fluid" categories at [[Fluid Taxonomies]].
+See the inspiration for "fluid" categories at [[Workflows/03 IMF_AdvancedStarterKit_v2/Fluid Taxonomies]].
 
 

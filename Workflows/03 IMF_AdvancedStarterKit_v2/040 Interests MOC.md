@@ -22,7 +22,7 @@ Despite some criticisms of the Dewey Decimal System, it's actually an excellent,
 - **300s - Social Sciences (People living/working in Society, Law, Gov, Corps, Groups)**
   - [[Rhetoric MOC]]
 - **400s - Language**
-  - [[Language MOC]]
+  - [[Workflows/03 IMF_AdvancedStarterKit_v2/Language MOC]]
   - [[Chinese Language MOC]]
   - [[English Language MOC]]
   - [[French Language MOC]]

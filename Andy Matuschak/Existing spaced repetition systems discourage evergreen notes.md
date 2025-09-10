@@ -1,8 +1,8 @@
 # Existing spaced repetition systems discourage evergreen notes
 
-Though notes in a [[Spaced repetition memory system]] are atomic in the same way as [[Evergreen notes]] ([[Evergreen notes should be atomic]]), they’re in many ways _too_ atomized ([[Traditional spaced repetition memory prompts are atomized]]). The form discourages incremental synthesis and distillation.
+Though notes in a [[Spaced repetition memory system]] are atomic in the same way as [[Andy Matuschak/Evergreen Notes]] ([[Evergreen notes should be atomic]]), they’re in many ways _too_ atomized ([[Traditional spaced repetition memory prompts are atomized]]). The form discourages incremental synthesis and distillation.
 
-The questions float in an undifferentiated mist, detached from any intrinsically meaningful context and not linked to relevant neighbors ([[Evergreen notes should be densely linked]]), and not especially meant to be accessed except within the review experience. They’re not meant to be durable, growing units; they’re meant to be disposable flotsam. All this could be fine, if they had a clear relationship with a separate system for [[Evergreen notes]], but they don’t.
+The questions float in an undifferentiated mist, detached from any intrinsically meaningful context and not linked to relevant neighbors ([[Evergreen notes should be densely linked]]), and not especially meant to be accessed except within the review experience. They’re not meant to be durable, growing units; they’re meant to be disposable flotsam. All this could be fine, if they had a clear relationship with a separate system for [[Andy Matuschak/Evergreen Notes]], but they don’t.
 
 Happily: [[The mnemonic medium can be extended to one’s personal notes]].
 

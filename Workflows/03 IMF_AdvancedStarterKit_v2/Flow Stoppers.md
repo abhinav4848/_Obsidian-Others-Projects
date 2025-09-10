@@ -17,7 +17,7 @@ Find which inhibitor (or two) is currently in the worst shape for you. It is lik
 **Low Motivation**
 **Low Self-Worth** — This covers any self-esteem issue: self-critiquing, the feeling of "not good enough," worrying too much, feeling ashamed, feeling anxious and overwhelmed.
 
-Now that we've seen the main Flow Stoppers, let's check out the main [[Solutions to Flow Stoppers]].
+Now that we've seen the main Flow Stoppers, let's check out the main [[Workflows/03 IMF_AdvancedStarterKit_v2/Solutions to Flow Stoppers]].
 
 ---
 

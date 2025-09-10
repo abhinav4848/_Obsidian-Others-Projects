@@ -24,4 +24,4 @@ It is robust, flexible, and able to match your changing needs—which are undoub
 
 
 [^1]: Yes, that means it's the "Index Maps and Frameworks framework", which is accurate in describing the overall framework.
-[^2]: The idea of structures or categories that help without limiting the user was given the name [[Fluid Taxonomies]], an excellent term coined by @mediapathic.
+[^2]: The idea of structures or categories that help without limiting the user was given the name [[Workflows/03 IMF_AdvancedStarterKit_v2/Fluid Taxonomies]], an excellent term coined by @mediapathic.

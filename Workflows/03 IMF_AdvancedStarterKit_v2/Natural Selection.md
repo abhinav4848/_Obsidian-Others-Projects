@@ -1,7 +1,7 @@
 # Natural Selection
 One of the most monumental of all concepts. So many fascinating angles. 
 
-[[Natural Selection]] is closely related to [[Hormesis]] and [[Antifragility]].
+[[Workflows/03 IMF_AdvancedStarterKit_v2/Natural Selection]] is closely related to [[Workflows/03 IMF_AdvancedStarterKit_v2/Hormesis]] and [[Workflows/03 IMF_AdvancedStarterKit_v2/Antifragility]].
 
 ## Wiki
 - [ ] #trim

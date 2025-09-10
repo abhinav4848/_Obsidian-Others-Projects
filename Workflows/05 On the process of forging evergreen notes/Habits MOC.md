@@ -3,4 +3,4 @@ links: [[010 Mind MOC]]
 
 # Habits MOC
 [[The neural formation of habits are additive]]
-[[The truest habit metaphors are additive]]
+[[Workflows/05 On the process of forging evergreen notes/_Incubation/The truest habit metaphors are additive]]

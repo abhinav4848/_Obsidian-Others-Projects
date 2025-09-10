@@ -2,7 +2,7 @@
 
 Brainstorming with others can create a fluid social context to exchange ideas, but when we brainstorm alone, we’re creating an expansive space to summon what we already “almost know.” The ideas we can have are primarily limited by our prior thinking and ideation in this space (see [[Leaps of insight emerge from prior thought]]).
 
-A brainstorm’s generative, uncritical mindset might lead to surprising results, but often we also use brainstorming as a practical way to brain-dump all our ideas about a subject in one place. That may be a sign that we haven’t designed our knowledge systems as described in [[Knowledge work should accrete]]. With [[Evergreen notes]] and dense associative structure (see [[Evergreen notes should be densely linked]]), our ideas are collected and distilled continuously. [[Evergreen note-writing helps insight accumulate]], so there’s less need for brainstorming because those insights have already emerged—and captured in an ongoing fashion—in one’s day-to-day work.
+A brainstorm’s generative, uncritical mindset might lead to surprising results, but often we also use brainstorming as a practical way to brain-dump all our ideas about a subject in one place. That may be a sign that we haven’t designed our knowledge systems as described in [[Knowledge work should accrete]]. With [[Andy Matuschak/Evergreen Notes]] and dense associative structure (see [[Evergreen notes should be densely linked]]), our ideas are collected and distilled continuously. [[Evergreen note-writing helps insight accumulate]], so there’s less need for brainstorming because those insights have already emerged—and captured in an ongoing fashion—in one’s day-to-day work.
 
 See also: [[Evergreen notes are a safe place to develop wild ideas]]
 

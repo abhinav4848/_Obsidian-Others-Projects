@@ -15,7 +15,7 @@ Welcome to the **Mind TOC**. First, let's define some overlapping meta-categorie
 -   [[Charlie Munger's Mental Models]]
 
 ### For Clarity, Problem-Solving, and Perspective
--   [[Levels of Magnification]] — Analyzing via three lenses.
+-   [[Ideaverse Lite/Atlas/Notes/Ideas/Levels of Magnification]] — Analyzing via three lenses.
 -   Thought Unpacking — ==Thinking critically and analytically.==
 -   [[Contextual Lenses]] — Broadening perspective
 

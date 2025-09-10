@@ -1,11 +1,11 @@
 # Meta-skills for Flowcreation
-What's the goal here? The goal is to Balance Challenge and Skill to get into flow. [[Balancing Challenge and Skill]] is basically the meta-meta-skill. On a conceptual level, that's what we're always trying to do when we're going after high quality experiences in life.
+What's the goal here? The goal is to Balance Challenge and Skill to get into flow. [[Workflows/03 IMF_AdvancedStarterKit_v2/Balancing Challenge and Skill]] is basically the meta-meta-skill. On a conceptual level, that's what we're always trying to do when we're going after high quality experiences in life.
 
 Here are the mental steps—the meta-skills—surrounding conscious flowcreation:
 
 1. Awareness of your current state
-2. Creating the [[Conditions of Flow]]
-3. Maintain your Flow — Check out the [[Four Factors of Flow]] and learn how you can use these factors to govern and control the levers of flow.
+2. Creating the [[Workflows/03 IMF_AdvancedStarterKit_v2/Conditions of Flow]]
+3. Maintain your Flow — Check out the [[Workflows/03 IMF_AdvancedStarterKit_v2/Four Factors of Flow]] and learn how you can use these factors to govern and control the levers of flow.
 4. Turnover and refresh yourself
 
 ### How Flowcreation skills relate to The Path of Excellence

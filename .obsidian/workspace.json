@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideaverse/Atlas/Notes/Ideas/Idea Emergence (defn).md",
+                "file": "LizardsFromOuterSpace/040- Generalization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Idea Emergence (defn)"
+              "title": "040- Generalization"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "inductive",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,20 +177,27 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7663e37762848f36",
+  "active": "e02a589a9b768801",
   "lastOpenFiles": [
+    "Ideaverse Lite/Home.md",
+    "ReadMe.md",
+    "Ideaverse Lite/Atlas/Maps/Concepts Map.md",
+    "Ideaverse Lite/Atlas/Maps/Course.md",
+    "Ideaverse Lite/Atlas/Maps/Efforts.md",
+    "Ideaverse Lite/Atlas/Notes/Ideas/Refraction Thinking.md",
+    "Ideaverse Lite/Atlas/Maps/Add.md",
+    "Ideaverse Lite/Atlas/Notes/Ideas/Idea Emergence (defn).md",
     "desktop.ini",
     "Ideaverse/Calendar/desktop.ini",
     "Workflows/02 PARA_Starter_Kit_v2/2. Areas/desktop.ini",
     "Workflows/02 PARA_Starter_Kit_v2/1. Projects/PARA Starter Kit/desktop.ini",
     "Workflows/02 PARA_Starter_Kit_v2/4. Archive/Obsdian Purple Theme/desktop.ini",
-    "Ideaverse/Atlas/Notes/Ideas/Bottom-up thinking.md",
-    "ReadMe.md",
+    "Ideaverse Lite/Atlas/Notes/Ideas/Bottom-up thinking.md",
     "Workflows/02 PARA_Starter_Kit_v2/2. Areas/Personal Development/A spellbinding reading of Hermann Hesse's 100-year-old love letter to trees.md",
-    "Ideaverse/Home.md",
     "LizardsFromOuterSpace/002- Zettelkasten.md",
     "Andy Matuschak/incremental reading (✔).md"
   ]

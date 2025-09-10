@@ -1,14 +1,14 @@
 # Antifragility
 *"If you strike me down I shall become more powerful than you can possibly imagine."* 
 - Getting **stronger from stressors**, more settled from shaking, more adaptable from attacks
-- It's a kind of on-the-fly [[Natural Selection]] 
+- It's a kind of on-the-fly [[Workflows/03 IMF_AdvancedStarterKit_v2/Natural Selection]] 
 
 ## Related
 - The Phoenix - reborn from the ashes of the dragon
 - The Hydra - cut off its head and two replace it
 - Obi-Wan Kenobi - *"If you strike me down I shall become more powerful than you can possibly imagine."*
 - Toughness, Resilience
-- [[Hormesis]]
+- [[Workflows/03 IMF_AdvancedStarterKit_v2/Hormesis]]
 - Blog: Anti-Fragile [[201509091056]] 
 
 ## Wiki

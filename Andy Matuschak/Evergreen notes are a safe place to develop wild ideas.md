@@ -7,7 +7,7 @@ Last edited time: January 18, 2024 7:55 PM
 
 When you have some inkling about a novel idea, it’s tempting to try to immediately write down the idea and develop it in-place. But often, that’s not possible, practically or emotionally: the idea may just not be solid enough yet to attack directly. The blank page may feel intimidating; the claims may still feel mushy.
 
-Instead, nurture the wild idea and let it develop over time by incrementally writing [[Evergreen notes]] about small facets of the idea. Those notes have much tighter scope: they just have to describe one atomic concept ([[Evergreen notes should be atomic]], [[Evergreen notes should be concept-oriented]]).
+Instead, nurture the wild idea and let it develop over time by incrementally writing [[Andy Matuschak/Evergreen Notes]] about small facets of the idea. Those notes have much tighter scope: they just have to describe one atomic concept ([[Evergreen notes should be atomic]], [[Evergreen notes should be concept-oriented]]).
 
 The idea doesn’t even initially have to be related to any pre-existing line of thought. But over time, you can incrementally connect it to other concepts, old or new. See also: [[Spaced repetition may be a helpful tool to incrementally develop inklings]].
 

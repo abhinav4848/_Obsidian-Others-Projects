@@ -6,7 +6,7 @@ Sort of like Goal Setting. The "What" of old Gold Setting terminology.
 ### Subsets of Direction
 
 - Goals — Goals basically define the Direction you're going to take.
-- Virtues — At the core of every decision we make are invisible values. The values of highest importance create your virtues, which are your most valuable abilities in which to be really skilled. It's important to define your own Virtues. I have my [[Four Virtues]].
+- Virtues — At the core of every decision we make are invisible values. The values of highest importance create your virtues, which are your most valuable abilities in which to be really skilled. It's important to define your own Virtues. I have my [[Workflows/03 IMF_AdvancedStarterKit_v2/Four Virtues]].
 
 ## Main Factors Governing Direction
 

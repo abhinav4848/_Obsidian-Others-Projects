@@ -19,7 +19,7 @@
 ---
 ### 3 Connecting Evergreen Notes
 - I knew immediately another related evergreen note to make. So I made the next one and linked to it:
-	- [[The truest habit metaphors are additive]]
+	- [[Workflows/05 On the process of forging evergreen notes/_Incubation/The truest habit metaphors are additive]]
 
 ### 4 Again, Mapping back to the Index
 - Then I followed the same process as above to map this note back to the Index.

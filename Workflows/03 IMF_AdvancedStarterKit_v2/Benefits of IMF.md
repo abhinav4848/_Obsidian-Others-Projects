@@ -30,9 +30,9 @@ There are months that go by where I don't open my digital library. Before adopti
 
 ### Improves Memory
 Because of the well-traveled structural pathways that the Index and Maps of Content encourage, my recall has improved. This makes sense because of three important factors that working with IMF structures encourages:
-1. [[Reps|Repetitions]] - I'm constantly returning to a home view and then re-launching into new directions in my digital library. 
-2. Conceptual Thinking - Making Content Maps forces you to really consider the unique qualities of the thought you're holding and how it relates to other thoughts. This type of deep, conceptual thinking strengthens neural connections—making [[Cobwebs into Cables|cobwebs into cables]].
-3. [[Spatial Context]] - Your main MOCs are numbered and always at the top of the sidebar (when sorted A to Z). This way, they act as a spatial map. We remember things much better when we have a *spatial constellation* of related things. 
+1. [[Workflows/03 IMF_AdvancedStarterKit_v2/Reps|Repetitions]] - I'm constantly returning to a home view and then re-launching into new directions in my digital library. 
+2. Conceptual Thinking - Making Content Maps forces you to really consider the unique qualities of the thought you're holding and how it relates to other thoughts. This type of deep, conceptual thinking strengthens neural connections—making [[Workflows/03 IMF_AdvancedStarterKit_v2/Cobwebs into Cables|cobwebs into cables]].
+3. [[Workflows/03 IMF_AdvancedStarterKit_v2/Spatial Context]] - Your main MOCs are numbered and always at the top of the sidebar (when sorted A to Z). This way, they act as a spatial map. We remember things much better when we have a *spatial constellation* of related things. 
 
 ### Increases Satisfaction
 We spend too much time with our notes not to experience joy with them. IMF structures allow you to fly around your digital library with the deftness of a surgeon and the joy of a chimpanzee swinging from branch to branch. 

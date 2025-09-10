@@ -13,7 +13,7 @@ Like other uses of simile, this example functions to help readers visualize the 
 - Achilles’ heel – a weakness a person may have. Achilles was invulnerable, except for his heel (achilles tendon).
 - Adonis – a handsome younger man; Aphrodite loved him.
 - Apollo – a physically perfect male; the God of music and light, Apollo was known for his physical beauty.
-- [[Cassandra]] – a person who continually predicts misfortune, but often is not believed.
+- [[Workflows/03 IMF_AdvancedStarterKit_v2/Cassandra]] – a person who continually predicts misfortune, but often is not believed.
 - Erotic – of or having to do with sexual passion or love. Eros was the Greek god of love.
 - Harpy – a predatory person or nagging woman. Comes from “harpy,” a foul creature that was part woman, part bird.
 - Helen – symbol of a beautiful woman; from Helen of Troy.

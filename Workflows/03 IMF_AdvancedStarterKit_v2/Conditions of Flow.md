@@ -17,9 +17,9 @@ Let's look at those three conditions of flow again, this time, relating them to 
 2. **Clear and immediate feedback** — How am I doing?
    - Clarity of [[Direction]] is the biggest factor here.
 3. **A balance between perceived challenge and skill** — If I'm not in flow, what can I do to help induce it?  
-   - Conceptually, this is the holy grail. Practically, you gotta deftly adjust your current situation. Technically, there are specific "recipes" to use that will help. [[Balancing Challenge and Skill]] is the most important condition because it's the result of every element that dictates quality experience: [[Direction]], [[Enthusiasm]], [[Attention]], and [[Energy]]. 
+   - Conceptually, this is the holy grail. Practically, you gotta deftly adjust your current situation. Technically, there are specific "recipes" to use that will help. [[Workflows/03 IMF_AdvancedStarterKit_v2/Balancing Challenge and Skill]] is the most important condition because it's the result of every element that dictates quality experience: [[Direction]], [[Enthusiasm]], [[Attention]], and [[Energy]]. 
 
-Now that we have a clear list of the conditions of flow, we need to relate them to the [[Four Factors of Flow]]. 
+Now that we have a clear list of the conditions of flow, we need to relate them to the [[Workflows/03 IMF_AdvancedStarterKit_v2/Four Factors of Flow]]. 
 
 ---
 [[FlowCreation TOC]]

@@ -26,7 +26,7 @@ Okay. You are feeling the start of overwhelm because you have 20 scattered notes
 MOCs are “overlays” that add relevant information but that don't affect the base content. 
 
 #### Allows for Flexibility
-MOCs are not hierarchical like a table of contents. They are [[Heterarchy|heterarchial]]. Meaning, you can have [[Maps of Content are swiss army knives|multiple maps organizing the same info in different ways]] to fit whatever persepective the note is for. 
+MOCs are not hierarchical like a table of contents. They are [[Workflows/03 IMF_AdvancedStarterKit_v2/Heterarchy|heterarchial]]. Meaning, you can have [[Maps of Content are swiss army knives|multiple maps organizing the same info in different ways]] to fit whatever persepective the note is for. 
 
 #### Encourages Relational Positioning
 This is where the fun starts as a wrestling match of relationships naturally takes hold in the mind, with the battle playing out in real-time on your map of contents!

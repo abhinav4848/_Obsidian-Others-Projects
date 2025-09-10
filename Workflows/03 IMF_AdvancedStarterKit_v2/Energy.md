@@ -1,5 +1,5 @@
 # Energy
-one of the: [[Four Factors of Flow]]
+one of the: [[Workflows/03 IMF_AdvancedStarterKit_v2/Four Factors of Flow]]
 
 
 ---
