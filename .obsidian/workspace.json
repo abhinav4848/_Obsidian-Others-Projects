@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LizardsFromOuterSpace/040- Generalization.md",
+                "file": "Ideaverse Lite/Atlas/Notes/Ideas/Emergence (defn).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "040- Generalization"
+              "title": "Emergence (defn)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inductive",
+                "query": "emergence ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,6 +184,10 @@
   },
   "active": "7663e37762848f36",
   "lastOpenFiles": [
+    "Ideaverse Lite/Atlas/Notes/Ideas/Bottom-up thinking.md",
+    "Ideaverse Lite/Atlas/Notes/Ideas/Idea Emergence (defn).md",
+    "LizardsFromOuterSpace/050- Connections aren’t immediate.md",
+    "LizardsFromOuterSpace/040- Generalization.md",
     "desktop.ini",
     "Ideaverse Lite/Home.md",
     "ReadMe.md",
@@ -191,12 +196,10 @@
     "Ideaverse Lite/Atlas/Maps/Efforts.md",
     "Ideaverse Lite/Atlas/Notes/Ideas/Refraction Thinking.md",
     "Ideaverse Lite/Atlas/Maps/Add.md",
-    "Ideaverse Lite/Atlas/Notes/Ideas/Idea Emergence (defn).md",
     "Ideaverse/Calendar/desktop.ini",
     "Workflows/02 PARA_Starter_Kit_v2/2. Areas/desktop.ini",
     "Workflows/02 PARA_Starter_Kit_v2/1. Projects/PARA Starter Kit/desktop.ini",
     "Workflows/02 PARA_Starter_Kit_v2/4. Archive/Obsdian Purple Theme/desktop.ini",
-    "Ideaverse Lite/Atlas/Notes/Ideas/Bottom-up thinking.md",
     "Workflows/02 PARA_Starter_Kit_v2/2. Areas/Personal Development/A spellbinding reading of Hermann Hesse's 100-year-old love letter to trees.md",
     "LizardsFromOuterSpace/002- Zettelkasten.md",
     "Andy Matuschak/incremental reading (✔).md"
