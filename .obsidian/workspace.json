@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideaverse Lite/Atlas/Notes/Ideas/Emergence (defn).md",
+                "file": "LizardsFromOuterSpace/055- External Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Emergence (defn)"
+              "title": "055- External Models"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "emergence ",
+                "query": "float number",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,26 +181,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7663e37762848f36",
+  "active": "e02a589a9b768801",
   "lastOpenFiles": [
+    "LizardsFromOuterSpace/044- Model.md",
+    "LizardsFromOuterSpace/055- External Models.md",
+    "LizardsFromOuterSpace/050- Connections aren’t immediate.md",
+    "Ideaverse Lite/Atlas/Notes/Ideas/Emergence (defn).md",
+    "float number IEEE standard.jpg",
+    "1649055027459 fitizen_almost_gets_harvested.jpg.md",
+    "1649055027459 fitizen_almost_gets_harvested.jpg",
+    "LizardsFromOuterSpace/212- Food rules as an example of external model.md",
+    "LizardsFromOuterSpace/055- Internal models.md",
+    "Ideaverse Lite/Atlas/Notes/Ideas/Divergence (defn).md",
+    "Ideaverse Lite/Home.md",
+    "LizardsFromOuterSpace/_Resources.md",
+    "LizardsFromOuterSpace/121- Unsurprising & Useful.md",
+    "LizardsFromOuterSpace/122- Unsurprising & Useless.md",
+    "LizardsFromOuterSpace/203- Zettelkasten Sales Pitch.md",
+    "LizardsFromOuterSpace/213- Reason for Note Sequences.md",
+    "LizardsFromOuterSpace/216- Luhmann’s Note Taking Problems.md",
+    "LizardsFromOuterSpace/217- Problem of Categorization.md",
+    "LizardsFromOuterSpace/226- Prior Knowledge in Public Information.md",
+    "LizardsFromOuterSpace/230- Summarization and Paraphrasing in Note Taking.md",
     "Ideaverse Lite/Atlas/Notes/Ideas/Bottom-up thinking.md",
     "Ideaverse Lite/Atlas/Notes/Ideas/Idea Emergence (defn).md",
-    "LizardsFromOuterSpace/050- Connections aren’t immediate.md",
     "LizardsFromOuterSpace/040- Generalization.md",
     "desktop.ini",
-    "Ideaverse Lite/Home.md",
     "ReadMe.md",
     "Ideaverse Lite/Atlas/Maps/Concepts Map.md",
     "Ideaverse Lite/Atlas/Maps/Course.md",
     "Ideaverse Lite/Atlas/Maps/Efforts.md",
     "Ideaverse Lite/Atlas/Notes/Ideas/Refraction Thinking.md",
-    "Ideaverse Lite/Atlas/Maps/Add.md",
     "Ideaverse/Calendar/desktop.ini",
     "Workflows/02 PARA_Starter_Kit_v2/2. Areas/desktop.ini",
     "Workflows/02 PARA_Starter_Kit_v2/1. Projects/PARA Starter Kit/desktop.ini",
-    "Workflows/02 PARA_Starter_Kit_v2/4. Archive/Obsdian Purple Theme/desktop.ini",
-    "Workflows/02 PARA_Starter_Kit_v2/2. Areas/Personal Development/A spellbinding reading of Hermann Hesse's 100-year-old love letter to trees.md",
-    "LizardsFromOuterSpace/002- Zettelkasten.md",
-    "Andy Matuschak/incremental reading (✔).md"
+    "Workflows/02 PARA_Starter_Kit_v2/4. Archive/Obsdian Purple Theme/desktop.ini"
   ]
 }
