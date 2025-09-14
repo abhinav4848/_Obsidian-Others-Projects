@@ -5,7 +5,7 @@ Author: Andy Matuschak
 Completion Status: Finished
 Last edited time: January 18, 2024 7:55 PM
 
-# **Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes**
+# Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes
 
 The Apollo program was an incredibly powerful [[Enabling environment]], but it did not emerge from a project aiming to give scientists lots of great opportunities for personal growth. Rather, it was about putting people on the moon (and, er, saving the world from the Soviets). The enabling environment was a byproduct of that deeply meaningful effort.
 

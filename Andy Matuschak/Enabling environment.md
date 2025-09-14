@@ -1,10 +1,8 @@
-# Enabling environment
-
 Type of Link: 📝 Article
 Author: Andy Matuschak
 Completion Status: To Start
 Last edited time: January 18, 2024 7:55 PM
-
+# Enabling environment
 An _enabling environment_ significantly expands its participants’ capacity to do things they find meaningful and important.
 
 Schools ostensibly aspire to this purpose, but [[Educational objectives often subvert themselves]] in large part because [[Enabling environments’ activities directly serve an intrinsically meaningful purpose]]. In general, [[Enabling environments focus on creating opportunities for growth and action, not on skill-building]]. 

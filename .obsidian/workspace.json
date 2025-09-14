@@ -27,26 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andy Matuschak/Enabling environment.md",
+                "file": "Andy Matuschak/B. F. Skinner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enabling environment"
+              "title": "B. F. Skinner"
             }
           },
           {
-            "id": "426d68eeaa732ac9",
+            "id": "1d51b0ebfa2621b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andy Matuschak/Human channel capacity increases with bits-per-chunk.md",
+                "file": "Andy Matuschak/incremental reading (✔).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Human channel capacity increases with bits-per-chunk"
+              "title": "incremental reading (✔)"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "salience of improvement",
+                "query": "tag:#linkrot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andy Matuschak/Human channel capacity increases with bits-per-chunk.md",
+                "file": "Andy Matuschak/incremental reading (✔).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Human channel capacity increases with bits-per-chunk"
+              "title": "Backlinks for incremental reading (✔)"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Andy Matuschak/Human channel capacity increases with bits-per-chunk.md",
+                "file": "Andy Matuschak/incremental reading (✔).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Human channel capacity increases with bits-per-chunk"
+              "title": "Outgoing links from incremental reading (✔)"
             }
           },
           {
@@ -209,34 +209,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "426d68eeaa732ac9",
+  "active": "1d51b0ebfa2621b1",
   "lastOpenFiles": [
-    "Andy Matuschak/Chunks in human cognition.md",
-    "Andy Matuschak/Span of working memory.md",
-    "Performance plateaus often require a change in approach to surmount.md",
-    "Practice efficacy is highly sensitive to method design.md",
-    "Expert coaches facilitate effective deliberate practice.md",
-    "Naive approaches to practice rapidly plateau.md",
-    "Purposeful practice, after Ericsson and Pool.md",
-    "Skill development requires challenging homeostasis.md",
-    "Andy Matuschak/People generally develop skills to a plateau and then stop.md",
-    "Salience of improvement drives skill development.md",
+    "ReadMe.md",
+    "Andy Matuschak/Where do ideas come from.md",
+    "Andy Matuschak/B. F. Skinner.md",
+    "Andy Matuschak/Knowledge workers usually have no specific methods for developing ideas over time.md",
+    "Andy Matuschak/Some kinds of creative insight depend on long-term memory.md",
+    "Andy Matuschak/Klein - Seeing What Others Don’t (2013).png",
+    "Andy Matuschak/Kevin Kelly.md",
+    "Andy Matuschak/The Independent Scholars Handbook - Richard Gross.md",
+    "Andy Matuschak/Brainstorming may often substitute for missing insight accretion systems.md",
+    "Andy Matuschak/Effective system design requires insights drawn from serious contexts of use.md",
+    "Andy Matuschak/Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes.md",
     "Andy Matuschak/Enabling environment.md",
-    "Andy Matuschak/Educational objectives often subvert themselves.md",
-    "Gumption.md",
-    "Andy Matuschak/Deep understanding requires (and is a result of) intense personal connection.md",
-    "Gumption transcends willpower and confidence.md",
-    "Andy Matuschak/Understanding requires effortful engagement.md",
-    "Grant Sanderson.md",
-    "Andy Matuschak/Constructivism.md",
-    "Situated learning.md",
-    "The cognitive revolution.md",
-    "Frederic Bartlett.md",
-    "Noam Chomsky.md",
-    "Transcendental method.md",
-    "Immanuel Kant.md",
-    "Tachistoscope.md",
-    "Cognitive science.md",
+    "Workflows/02 PARA_Starter_Kit_v2/1. Projects/Obsidian Theme/Things to look into.md",
+    "Workflows/02 PARA_Starter_Kit_v2/1. Projects/Obsidian Theme/obsidian.css.md",
+    "Andy Matuschak/Chase and Simon - Perception in chess.md",
+    "Andy Matuschak/Recoding can increase chunk size.md",
+    "Andy Matuschak/Expertise requires building sophisticated chunk recoding schemes.md",
+    "Andy Matuschak/Good practice encodes more effective chunk recoding schemes.md",
+    "Andy Matuschak/Purposeful practice, after Ericsson and Pool.md",
+    "Andy Matuschak/Performance plateaus often require a change in approach to surmount.md",
+    "Andy Matuschak/Powerful innovations often focus on creating new paradigms, not solving problems of the current context.md",
+    "Andy Matuschak/Span of working memory.md",
+    "Andy Matuschak/Human channel capacity increases with bits-per-chunk.md",
+    "Andy Matuschak/Chunks in human cognition.md",
+    "Andy Matuschak/channel capacity expands almost linearly with bits-per-chunk.png",
+    "Andy Matuschak/Practice efficacy is highly sensitive to method design.md",
+    "Andy Matuschak/Expert coaches facilitate effective deliberate practice.md",
+    "Andy Matuschak/Naive approaches to practice rapidly plateau.md",
     "float number IEEE standard.jpg",
     "1649055027459 fitizen_almost_gets_harvested.jpg",
     "desktop.ini",

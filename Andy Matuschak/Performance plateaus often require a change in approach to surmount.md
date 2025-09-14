@@ -7,13 +7,11 @@ Coaches can help here, since they’re generally familiar with the barriers you 
 Nicely summarized by “What got you here won’t get you there.” (Marshall Goldsmith).
 
 Empirical examples:
-
 - In a series of experiments on [[Span of working memory]], Chase and Ericsson report that their subject was stuck at a plateau until he replaced his initial strategy of rehearsal with a mnemonic technique (1981, p. 146–147).
 
-Related: [Powerful innovations often focus on creating new paradigms, not solving problems of the current context](https://notes.andymatuschak.org/zEd3Kv6pV5PF7hEJZT4khP)
+Related: [[Powerful innovations often focus on creating new paradigms, not solving problems of the current context]]
 
 ---
-
 ## References
 
 Chase, W. G., & Ericsson, A. (1981). Skilled memory. In A. Ericsson (Ed.), Cognitive skills and their acquisition (pp. 141–189). Erlbaum. [https://apps.dtic.mil/dtic/tr/fulltext/u2/a114635.pdf](https://apps.dtic.mil/dtic/tr/fulltext/u2/a114635.pdf)

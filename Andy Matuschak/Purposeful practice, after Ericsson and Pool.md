@@ -4,7 +4,7 @@ This type of practice is generally more characteristic of what produces experts;
 
 Because you’re always pushing yourself in this type of practice, success requires intense focus. You’ll also have to contend with the problems described in [[Performance plateaus often require a change in approach to surmount]].
 
-One possibly mechanism of action: [Good practice encodes more effective chunk recoding schemes](https://notes.andymatuschak.org/z3QWwvfYS5exfZE53dKwt7r).
+One possibly mechanism of action: [[Good practice encodes more effective chunk recoding schemes]](https://notes.andymatuschak.org/z3QWwvfYS5exfZE53dKwt7r). 
 
 ---
 ## References
