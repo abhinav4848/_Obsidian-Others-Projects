@@ -13,8 +13,8 @@
 
 # References
 - [Sosa, R. (2019). Accretion theory of ideation: Evaluation regimes for ideation stages. Design Science, 5, e23](https://notes.andymatuschak.org/z7rU9uGjjFJnLe57XqxpQ3V)
-- [Why Greatness Cannot Be Planned - Stanley and Lehman](https://notes.andymatuschak.org/zUVBM3NDu1efs6vkrUtqz2Z) #todo
+- [[Why Greatness Cannot Be Planned - Stanley and Lehman]] #todo
 - Seeing What Others Don’t - Gary Klein
 
-# Reference to source material
+# Source
 1. https://notes.andymatuschak.org/zLg3XjSSrDofz6cW3F6DESx

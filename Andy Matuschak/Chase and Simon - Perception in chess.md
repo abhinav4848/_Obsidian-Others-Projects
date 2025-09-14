@@ -4,7 +4,7 @@ Chase, W. G., & Simon, H. A. (1973). Perception in chess. _Cognitive Psychology
 
 In {de Groot} ({1965})’s experiments, chess masters could {reliably reconstruct chess boards} after only 5 seconds of viewing (novices couldn’t at all)—but critically, they couldn’t {reconstruct _random_ chess boards}.
 
-The authors suspect that de Groot’s results mean chess masters have an {ordinary limited} [Span of working memory](https://notes.andymatuschak.org/z3zo16mx2Dp3PB4J1ty1DGy), but that they perceive chess boards with {larger “chunk” sizes ([“Chunks” in human cognition](https://notes.andymatuschak.org/zXxUPAFZBthh97wAKBEj7Tq), [Human channel capacity increases with bits-per-chunk](https://notes.andymatuschak.org/zRTbHLYsFnL2hThAZL6tVqD))}. The implication is that chess mastery comes from {internalizing increasingly sophisticated representations of the board ([Recoding can increase chunk size](https://notes.andymatuschak.org/z3p78NbwsU2Pi1t3Q24psfB))}.
+The authors suspect that de Groot’s results mean chess masters have an {ordinary limited} [[Span of working memory]], but that they perceive chess boards with {larger “chunk” sizes ([[Chunks in human cognition|“Chunks” in human cognition]], [[Human channel capacity increases with bits-per-chunk]])}. The implication is that chess mastery comes from {internalizing increasingly sophisticated representations of the board ([[Recoding can increase chunk size]])}.
 
 They ran two experiments to test this hypothesis, using a master chess player, an advanced chess player, and a beginner.
 
@@ -20,7 +20,7 @@ The better chess players placed more pieces per trial (and hence took fewer tria
 
 The experimenters noticed that when players were in the recall phase, they’d place several pieces rapidly, then pause around two or more seconds, then repeat. They hypothesize that these pauses represent the time needed to recall each successive chunk. These patterns suggested that the better chess players were recalling more pieces in each chunk.
 
-Using this technique, the data suggest that better players were able to recall both more chunks and larger chunks in each trial. The authors hypothesize that better players don’t really have larger [Span of working memory](https://notes.andymatuschak.org/z3zo16mx2Dp3PB4J1ty1DGy), but they have a catalog of common configurations stored in long-term memory, and that some of the pauses represent some kind of hierarchical processing which relates the chunks to these memorized configurations.
+Using this technique, the data suggest that better players were able to recall both more chunks and larger chunks in each trial. The authors hypothesize that better players don’t really have larger [[Span of working memory]], but they have a catalog of common configurations stored in long-term memory, and that some of the pauses represent some kind of hierarchical processing which relates the chunks to these memorized configurations.
 
 ---
 # References

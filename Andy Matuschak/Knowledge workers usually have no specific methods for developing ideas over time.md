@@ -5,4 +5,4 @@ My intuition is that most knowledge workers develop ideas intuitively, often usi
 One possible solution: [[Evergreen note-writing helps insight accumulate]].
 
 # Source
-https://notes.andymatuschak.org/zQUKGy9JpHnWRDJh7X6yP9t
+1. Andy Link: https://notes.andymatuschak.org/zQUKGy9JpHnWRDJh7X6yP9t

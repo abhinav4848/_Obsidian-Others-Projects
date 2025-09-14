@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andy Matuschak/Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do.md",
+                "file": "Andy Matuschak/Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do"
-            }
-          },
-          {
-            "id": "53bef436ae21908e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Andy Matuschak/B. F. Skinner.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B. F. Skinner"
+              "title": "Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes"
             }
           },
           {
@@ -49,8 +35,7 @@
               "title": "incremental reading (✔)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andy Matuschak/incremental reading (✔).md",
+                "file": "Andy Matuschak/Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for incremental reading (✔)"
+              "title": "Backlinks for Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes"
             }
           },
           {
@@ -142,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Andy Matuschak/incremental reading (✔).md",
+                "file": "Andy Matuschak/Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from incremental reading (✔)"
+              "title": "Outgoing links from Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes"
             }
           },
           {
@@ -190,12 +175,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 230.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,12 +193,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d51b0ebfa2621b1",
+  "active": "7663e37762848f36",
   "lastOpenFiles": [
-    "ReadMe.md",
-    "Andy Matuschak/Where do ideas come from.md",
-    "Andy Matuschak/B. F. Skinner.md",
+    "Andy Matuschak/Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do.md",
     "Andy Matuschak/Knowledge workers usually have no specific methods for developing ideas over time.md",
+    "Andy Matuschak/Where do ideas come from.md",
+    "Andy Matuschak/Chase and Simon - Perception in chess.md",
+    "Why Greatness Cannot Be Planned - Stanley and Lehman.md",
+    "Andy Matuschak/B. F. Skinner.md",
+    "Andy Matuschak/incremental reading (✔).md",
+    "ReadMe.md",
     "Andy Matuschak/Some kinds of creative insight depend on long-term memory.md",
     "Andy Matuschak/Klein - Seeing What Others Don’t (2013).png",
     "Andy Matuschak/Kevin Kelly.md",
@@ -225,7 +213,6 @@
     "Andy Matuschak/Enabling environment.md",
     "Workflows/02 PARA_Starter_Kit_v2/1. Projects/Obsidian Theme/Things to look into.md",
     "Workflows/02 PARA_Starter_Kit_v2/1. Projects/Obsidian Theme/obsidian.css.md",
-    "Andy Matuschak/Chase and Simon - Perception in chess.md",
     "Andy Matuschak/Recoding can increase chunk size.md",
     "Andy Matuschak/Expertise requires building sophisticated chunk recoding schemes.md",
     "Andy Matuschak/Good practice encodes more effective chunk recoding schemes.md",
@@ -236,9 +223,6 @@
     "Andy Matuschak/Human channel capacity increases with bits-per-chunk.md",
     "Andy Matuschak/Chunks in human cognition.md",
     "Andy Matuschak/channel capacity expands almost linearly with bits-per-chunk.png",
-    "Andy Matuschak/Practice efficacy is highly sensitive to method design.md",
-    "Andy Matuschak/Expert coaches facilitate effective deliberate practice.md",
-    "Andy Matuschak/Naive approaches to practice rapidly plateau.md",
     "float number IEEE standard.jpg",
     "1649055027459 fitizen_almost_gets_harvested.jpg",
     "desktop.ini",
