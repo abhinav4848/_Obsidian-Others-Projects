@@ -3,16 +3,14 @@ Scrappy prototypes are great: they allow scrappy iteration and quick evaluation.
 That sounds like standard practice: of course systems have to be evaluated! But most system designers don’t take “serious” seriously: [[Tool-makers usually lack connection to a serious context of use]]. 
 Observing how your theories (represented in systems) interact with reality can yield insights which help improve your theories. The character of those insights will depend on the context in which the system was used. If the system isn’t used seriously, the insights will be more like those which a pure theorist could have seen. Those were possible without actually building a system.
 
-Pixar’s a good example of an organization which creates serious contexts of use, which in turn drive system design: [Pixar’s movies and technology development act as coupled flywheels](https://notes.andymatuschak.org/zB7bdhotesiTDgSjHwGr9i4).
+Pixar’s a good example of an organization which creates serious contexts of use, which in turn drive system design: [[Pixar’s movies and technology development act as coupled flywheels]]
 
 Common challenges:
-
 - [Great tool-makers are often not great tool-users, and vice-versa](https://notes.andymatuschak.org/zHSk5HpDyrSWCMN669Sg4HU)
 - [Groups researching tools for thought need enough capacity to build prototypes suitable for serious work](https://notes.andymatuschak.org/zYUNgBzgTATxnnNbzLFnuLF)
 
 Related theory:
-
-- [Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes](https://notes.andymatuschak.org/z2huUCj3ko99HdzFcmEDfZD)
+- [[Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes]] 
 - [Authored environments are significantly colored by authors’ motivations](https://notes.andymatuschak.org/z4wZFERkVVVVy6bN6BE8kQz)
 - [Powerful enabling environments focus on expert use](https://notes.andymatuschak.org/zY3aLuvtsYS54QnymGKFGwg)
 
@@ -37,3 +35,6 @@ Brooks, F. P., Jr. (1994). The Computer Scientist as Toolsmith II [ACM Allen Ne
 > Software-based researchers often strive to build systems containing high-level ideas that are likely to generalize, since those make for more compelling academic papers. However, we believe that trying to be too general actually hinders scale and sustainability. To build long-lasting software that can organically grow a large userbase, one must instead start specific.
 > 
 > In 2009 we created Python Tutor with a very specific goal in mind: to provide a convenient way for students and instructors (such as ourselves) to walk through Python code step-by-step and see the values of variables.
+
+# Source
+1. [Effective system design requires insights drawn from serious contexts of use](https://notes.andymatuschak.org/z7EQ2nVGus5B1rS9CqT18g6) 

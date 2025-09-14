@@ -1,0 +1,5 @@
+Per Michael: you probably would rather have Stradivarius make your violin than Joshua Bell, but you’d probably rather hear Joshua Bell play. Each activity—violin-making and violin-playing—requires virtuosic skill and a lifetime of practice. It’s very unlikely to find both abilities in the same person!
+
+Yet [[Great creative work is usually the product of a single person]]. This observation creates tension with [[Effective system design requires insights drawn from serious contexts of use]]: [Groups researching tools for thought need enough capacity to build prototypes suitable for serious work](https://notes.andymatuschak.org/zYUNgBzgTATxnnNbzLFnuLF). System designers often aren’t deep enough in an outside discipline to ground their work in their own serious use cases. Domain experts have the opposite problem: [Academic software interfaces generally aren’t suitable for serious use](https://notes.andymatuschak.org/zEiXiw8qdUzdsEMemnwXn25).
+
+So: [Deep collaborations between tool-makers and tool-users may support insight through making](https://notes.andymatuschak.org/zG1S2XhBhJa7PWeSkKna2Y2).

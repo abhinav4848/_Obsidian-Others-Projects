@@ -1,5 +1,3 @@
-# Internally-modulated learning is self-actualizing; externally-modulated learning is self-abnegating
-
 Type of Link: 📝 Article
 Category talked about: Learning
 Author: Andy Matuschak
@@ -18,6 +16,6 @@ This is one reason why [Enabling environments’ activities directly serve an i
 
 See also [Educational objectives often subvert themselves](Educational%20objectives%20often%20subvert%20themselves.md).
 
-# Reference
+# Source
 
-1.
+1. [Internally-modulated learning is self-actualizing; externally-modulated learning is self-abnegating](https://notes.andymatuschak.org/zXMrq3eeGJSZV9BqX1E35ex)

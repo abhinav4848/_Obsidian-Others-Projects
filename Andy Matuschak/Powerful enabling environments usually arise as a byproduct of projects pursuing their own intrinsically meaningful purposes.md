@@ -1,5 +1,3 @@
-# Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes
-
 Type of Link: 📝 Article
 Category talked about: Psychology
 Details: No further Notes linking at this time. 
@@ -9,13 +7,13 @@ Last edited time: January 18, 2024 7:55 PM
 
 # **Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes**
 
-The Apollo program was an incredibly powerful [Enabling environment](https://notes.andymatuschak.org/z492hGrHvRvJiEY9UfB4Mby), but it did not emerge from a project aiming to give scientists lots of great opportunities for personal growth. Rather, it was about putting people on the moon (and, er, saving the world from the Soviets). The enabling environment was a byproduct of that deeply meaningful effort.
+The Apollo program was an incredibly powerful [[Enabling environment]], but it did not emerge from a project aiming to give scientists lots of great opportunities for personal growth. Rather, it was about putting people on the moon (and, er, saving the world from the Soviets). The enabling environment was a byproduct of that deeply meaningful effort.
 
 Likewise, when Pixar created its revolutionary animation tools, many teams had been working on computer graphics for years, but Pixar’s systems emerged from a zealous pursuit of a storytelling dream: [Pixar’s movies and technology development act as coupled flywheels](Pixar’s%20movies%20and%20technology%20development%20act%20as%20coupled%20flywheels.md). 
 
 Cathedrals! University research labs! Mathematica! They all follow this pattern. 
 
-Practically speaking, such contexts provide deeply meaningful feedback: [Effective system design requires insights drawn from serious contexts of use](https://notes.andymatuschak.org/z7EQ2nVGus5B1rS9CqT18g6). They also avoid the issues described in [Authored environments are significantly colored by authors’ motivations](https://notes.andymatuschak.org/z4wZFERkVVVVy6bN6BE8kQz). But perhaps most importantly, these projects also provide the intense personal connection which makes great work possible.
+Practically speaking, such contexts provide deeply meaningful feedback: [[Effective system design requires insights drawn from serious contexts of use]]. They also avoid the issues described in [Authored environments are significantly colored by authors’ motivations](https://notes.andymatuschak.org/z4wZFERkVVVVy6bN6BE8kQz). But perhaps most importantly, these projects also provide the intense personal connection which makes great work possible.
 
 Some implications:
 
@@ -53,3 +51,4 @@ Quote from [Alan Kay](https://notes.andymatuschak.org/zFBZqhTcPEXWpvTLYjgb9qG)�
 # References
 
 1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zFuk9QqspNYHAgvzZc33ZGH&stackedNotes=zDXBGEWk7msyonQ2Ngnrf8h&stackedNotes=zB74H9CuWrosEuqve7jZyCo&stackedNotes=zRbqwbnhmVdfLtKxMCibMoX&stackedNotes=zH7AVUkqYYK7xmoAn8PTpAV&stackedNotes=z2qjVZKqSqrqkhFhvUpPDtd&stackedNotes=zQvbnYfHdG1gARTbtC4pje6&stackedNotes=zKBhqUkoRWoNV72aG21GYst&stackedNotes=zKzUzQENhyEDnuwPUhh2EQM&stackedNotes=zME6gV6mc1mQ2KDE5acyho8&stackedNotes=z2iksmfhifvy5a16Abv5MUW&stackedNotes=zHTevHGZQPu8QHpRhUmtsuK&stackedNotes=zSve33D7x1qe5WUjojDcM9y&stackedNotes=z2q7U5ZvXeDxXD6vXAbZb9a&stackedNotes=zWzVw2VM4TPjpKXnHUfLaso&stackedNotes=zMmH3GBLKotdP4t1sdSvEQJ&stackedNotes=zL7p6gaECTXdiirrFVSUTAW&stackedNotes=z5zoV8TdSds59vQEkqp3JEz&stackedNotes=zDKZVL9Fr1NnDRsQD2B4EW1&stackedNotes=z2huUCj3ko99HdzFcmEDfZD)
+2. Direct link: [Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes](https://notes.andymatuschak.org/z2huUCj3ko99HdzFcmEDfZD) 
