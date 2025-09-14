@@ -2,8 +2,7 @@
 
 One common workaround for [[Channel capacity of humans as information processors]] appears to be making a sequence of smaller observations, rather than a single complex absolute judgment. This only works if you can hold the sequence in your head, so it’s limited by your [[Span of working memory]]. Happily, [[Working memory span is mostly independent of item complexity]]. So you can increase your effective channel capacity by increasing the number of bits in each observed chunk ([[Chunks in human cognition]]).
 
-In this figure depicting data from Pollack (1953), channel capacity expands almost linearly with bits-per-chunk (Miller, 1956, p. 92).  
-![](https://notes.andymatuschak.org/D1D6C134-0ADF-461B-A6CB-3207BCE86933.png)
+In this figure depicting data from Pollack (1953), channel capacity expands almost linearly with bits-per-chunk (Miller, 1956, p. 92).  [](https://notes.andymatuschak.org/D1D6C134-0ADF-461B-A6CB-3207BCE86933.png)
 
 This effect is still limited by the [[Span of absolute judgment]], so to expand bits-per-chunk beyond 5, you’ll need to make chunks multidimensional ([[Human channel capacity increases with stimulus dimensionality]]).
 

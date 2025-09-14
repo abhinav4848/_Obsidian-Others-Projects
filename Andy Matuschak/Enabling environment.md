@@ -7,15 +7,15 @@ Last edited time: January 18, 2024 7:55 PM
 
 An _enabling environment_ significantly expands its participants’ capacity to do things they find meaningful and important.
 
-Schools ostensibly aspire to this purpose, but [[Educational objectives often subvert themselves]] in large part because [Enabling environments’ activities directly serve an intrinsically meaningful purpose](https://notes.andymatuschak.org/z3PJFWDZ7gar2ttawQTmBek). In general, [Enabling environments focus on creating opportunities for growth and action, not on skill-building](https://notes.andymatuschak.org/z7d63BYfJrd81VFE25jkcDd).
+Schools ostensibly aspire to this purpose, but [[Educational objectives often subvert themselves]] in large part because [[Enabling environments’ activities directly serve an intrinsically meaningful purpose]]. In general, [[Enabling environments focus on creating opportunities for growth and action, not on skill-building]]. 
 
 Many other social institutions represent powerful enabling environments. Highly functional corporations are often great examples of enabling environments. In these organizations, new employees might feel far more personally capable than they ever had before, even after many years of experience. Likewise, [Y Combinator](https://notes.andymatuschak.org/z9MxCsvv8DcHndqRECbxrRi) is an enabling environment.
 
-Great software environments are enabling environments. Photoshop expands experts’ range of artistic expression and unlocks previously-rarefied photo enhancement techniques for novices. Software development tools enable teenagers to make games and distribute them to millions at zero marginal cost. By contrast, [Most games aren’t enabling environments](https://notes.andymatuschak.org/zS7EYYnBEDPVcYdqCRTCi5Q), and [Educational games are a doomed approach to creating enabling environments](https://notes.andymatuschak.org/zUVBJdPc4kBud5fsLmPFpbw).
+Great software environments are enabling environments. Photoshop expands experts’ range of artistic expression and unlocks previously-rarefied photo enhancement techniques for novices. Software development tools enable teenagers to make games and distribute them to millions at zero marginal cost. By contrast, [Most games aren’t enabling environments](https://notes.andymatuschak.org/zS7EYYnBEDPVcYdqCRTCi5Q), and [Educational games are a doomed approach to creating enabling environments](https://notes.andymatuschak.org/zUVBJdPc4kBud5fsLmPFpbw). 
 
-Books and videos rarely deliver here: [Mass mediums are typically bad at helping people translate ideas to practice](https://notes.andymatuschak.org/zHjz9JSan5WNzDR7MXxjLix).
+Books and videos rarely deliver here: [Mass mediums are typically bad at helping people translate ideas to practice](https://notes.andymatuschak.org/zHjz9JSan5WNzDR7MXxjLix). 
 
-A collection of densely-connected [Evergreen notes](https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX) can be an enabling environment for the author: [Evergreen note-writing helps insight accumulate](https://notes.andymatuschak.org/z4EXkuLjdBrBZe7PVAGXc5a). (See also [Evergreen note-writing as fundamental unit of knowledge work](https://notes.andymatuschak.org/zR6RRbCfY5rFkiimFnaJZKB))
+A collection of densely-connected [[Evergreen notes]] can be an enabling environment for the author: [[Evergreen note-writing helps insight accumulate]]. (See also [[Evergreen note-writing as fundamental unit of knowledge work]])
 
 ## Designing enabling environments
 

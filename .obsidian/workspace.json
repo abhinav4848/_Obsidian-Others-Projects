@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Behaviorism.md",
+                "file": "Andy Matuschak/Enabling environment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Behaviorism"
+              "title": "Enabling environment"
+            }
+          },
+          {
+            "id": "426d68eeaa732ac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Andy Matuschak/Human channel capacity increases with bits-per-chunk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Human channel capacity increases with bits-per-chunk"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "heuristic",
+                "query": "salience of improvement",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReadMe.md",
+                "file": "Andy Matuschak/Human channel capacity increases with bits-per-chunk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ReadMe"
+              "title": "Backlinks for Human channel capacity increases with bits-per-chunk"
             }
           },
           {
@@ -128,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReadMe.md",
+                "file": "Andy Matuschak/Human channel capacity increases with bits-per-chunk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ReadMe"
+              "title": "Outgoing links from Human channel capacity increases with bits-per-chunk"
             }
           },
           {
@@ -172,17 +186,16 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,34 +209,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53bef436ae21908e",
+  "active": "426d68eeaa732ac9",
   "lastOpenFiles": [
-    "B. F. Skinner.md",
-    "John Watson.md",
-    "Classical conditioning.md",
-    "Ivan Pavlov.md",
-    "Operant conditioning.md",
-    "Behaviorism.md",
-    "The cognitive revolution.md",
-    "Andy Matuschak/Cognitive psychology.md",
-    "Cognitive science.md",
-    "Tachistoscope.md",
-    "Human Perception.md",
-    "Andy Matuschak/Constructivism.md",
-    "Andy Matuschak/Cognitivism.md",
-    "Andy Matuschak/Inquiry-based learning.md",
-    "Andy Matuschak/Understanding requires effortful engagement.md",
-    "Andy Matuschak/Deep understanding requires (and is a result of) intense personal connection.md",
-    "Comprehension - Kintsch.md",
-    "Andy Matuschak/Inspectional reading.md",
-    "Andy Matuschak/Reading comprehension.md",
-    "Andy Matuschak/Educational objectives often subvert themselves.md",
-    "Andy Matuschak/Internally-modulated learning is self-actualizing; externally modulated is self-abnegating.md",
+    "Andy Matuschak/Chunks in human cognition.md",
+    "Andy Matuschak/Span of working memory.md",
+    "Performance plateaus often require a change in approach to surmount.md",
+    "Practice efficacy is highly sensitive to method design.md",
+    "Expert coaches facilitate effective deliberate practice.md",
+    "Naive approaches to practice rapidly plateau.md",
+    "Purposeful practice, after Ericsson and Pool.md",
+    "Skill development requires challenging homeostasis.md",
+    "Andy Matuschak/People generally develop skills to a plateau and then stop.md",
+    "Salience of improvement drives skill development.md",
     "Andy Matuschak/Enabling environment.md",
-    "Andy Matuschak/Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes.md",
-    "Effective system design requires insights drawn from serious contexts of use.md",
-    "Andy Matuschak/Pixar’s movies and technology development act as coupled flywheels.md",
-    "Tool-makers usually lack connection to a serious context of use.md",
+    "Andy Matuschak/Educational objectives often subvert themselves.md",
+    "Gumption.md",
+    "Andy Matuschak/Deep understanding requires (and is a result of) intense personal connection.md",
+    "Gumption transcends willpower and confidence.md",
+    "Andy Matuschak/Understanding requires effortful engagement.md",
+    "Grant Sanderson.md",
+    "Andy Matuschak/Constructivism.md",
+    "Situated learning.md",
+    "The cognitive revolution.md",
+    "Frederic Bartlett.md",
+    "Noam Chomsky.md",
+    "Transcendental method.md",
+    "Immanuel Kant.md",
+    "Tachistoscope.md",
+    "Cognitive science.md",
     "float number IEEE standard.jpg",
     "1649055027459 fitizen_almost_gets_harvested.jpg",
     "desktop.ini",

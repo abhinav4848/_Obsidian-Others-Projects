@@ -5,7 +5,7 @@ Last edited time: January 18, 2024 7:55 PM
 
 # Educational objectives often subvert themselves
 
-[Some “educational” activities have intrinsically meaningful purposes](https://notes.andymatuschak.org/zLEjDywcZxWX1dibAHXi357), but in most educational environments, the primary concern is _cause others/oneself to know something_, which is generally not an intrinsically meaningful purpose (contra [Enabling environments’ activities directly serve an intrinsically meaningful purpose](https://notes.andymatuschak.org/z3PJFWDZ7gar2ttawQTmBek)).
+[Some “educational” activities have intrinsically meaningful purposes](https://notes.andymatuschak.org/zLEjDywcZxWX1dibAHXi357), but in most educational environments, the primary concern is _cause others/oneself to know something_, which is generally not an intrinsically meaningful purpose (contra [[Enabling environments’ activities directly serve an intrinsically meaningful purpose]]). 
 
 A fixation on learning outcomes is a fixation on what would normally be the effect of a deeper cause: an intrinsically meaningful purpose involving that material. By attempting to produce the effect without the cause, the teacher makes the students into dependents. He’s the source not only of expertise but also of purpose. In such a relationship, the teacher’s role is defined by his superiority. This often manifests as (unintentional) condescension.
 

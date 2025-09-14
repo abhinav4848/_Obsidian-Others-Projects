@@ -13,10 +13,9 @@ This is a pretty reasonable claim, given what we know about long-term memory, sc
 
 People who emphasize constructivism often (over-?)emphasize [[Inquiry-based learning]], discovery learning, problem-based learning, project-based learning, and other styles of learning which involve minimal guidance and explicit instruction. Instead, they tend to promote authentic interest, social embeddedness, complex naturalistic situations, and so on.
 
-As these emphases become stronger, we move into “radical constructivism”, which strongly opposes decontextualization, decomposition, and generally any kind of guided learning activity. RC advocates may claim that all knowledge is subjective, contextual, provisional, and/or interrelational; and that there can be no authorities. Radical constructivists usually insist that all learning be [[Inquiry-based learning]] and [Situated learning](https://notes.andymatuschak.org/zL7XdosCZ9qeCSSCrhcYfwY). It’s hard to reconcile these stronger views with the empirical realities of [[Cognitivism]].
+As these emphases become stronger, we move into “radical constructivism”, which strongly opposes decontextualization, decomposition, and generally any kind of guided learning activity. RC advocates may claim that all knowledge is subjective, contextual, provisional, and/or interrelational; and that there can be no authorities. Radical constructivists usually insist that all learning be [[Inquiry-based learning]] and [[Situated learning]]. It’s hard to reconcile these stronger views with the empirical realities of [[Cognitivism]].
 
 Does it work?
-
 - A review of the evidence
     - [Lee, H. S., & Anderson, J. R. (2013). Student Learning: What Has Instruction Got to Do With It? Annual Review of Psychology, 64(1), 445–469](https://notes.andymatuschak.org/zBtMjFiQKuh6VEuLw1V5UK2)
 - Attacks:

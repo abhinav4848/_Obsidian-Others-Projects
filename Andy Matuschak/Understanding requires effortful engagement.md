@@ -19,7 +19,7 @@ This notion is a core idea of [[Constructivism]], and it’s why naive transmis
 And Schopenhauer:
 > When we read, another person thinks for us: we merely repeat his mental process. … For the more one reads the fewer are the traces left of what one has read; the mind is like a tablet that has been written over and over. Hence it is impossible to reflect; and it is only by reflection that one can assimilate what one has read if one reads straight ahead without pondering over it later, what has been read does not take root, but is for the most part lost. Indeed, it is the same with mental as with bodily food: scarcely the fifth part of what a man takes is assimilated; the remainder passes off in evaporation, respiration, and the like.
 
-[Grant Sanderson](https://notes.andymatuschak.org/zWy4kCZkWZFxRYjW7fi6Egw) (2019-11-28):
+[[Grant Sanderson]] (2019-11-28):
 > You need to make eye contact with the idea.
 
 ---
