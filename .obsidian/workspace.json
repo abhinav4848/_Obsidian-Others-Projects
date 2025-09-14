@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LizardsFromOuterSpace/055- External Models.md",
+                "file": "Andy Matuschak/Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "055- External Models"
+              "title": "Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do"
+            }
+          },
+          {
+            "id": "53bef436ae21908e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tool-makers usually lack connection to a serious context of use.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tool-makers usually lack connection to a serious context of use"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "float number",
+                "query": "heuristic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 314.5044631958008
   },
   "right": {
     "id": "9870632db536340b",
@@ -181,10 +196,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e02a589a9b768801",
+  "active": "53bef436ae21908e",
   "lastOpenFiles": [
-    "LizardsFromOuterSpace/044- Model.md",
+    "Effective system design requires insights drawn from serious contexts of use.md",
+    "Tool-makers usually lack connection to a serious context of use.md",
+    "Where do ideas come from.md",
+    "Powerful innovations often focus on creating new paradigms, not solving problems of the current context.md",
+    "Andy Matuschak/Evergreen note-writing helps insight accumulate.md",
+    "Dyson claims idleness is necessary to the best creative work.md",
+    "Quit Your Job - Wolf Tivy.md",
+    "Andy Matuschak/Process over product.md",
+    "Knowledge workers usually have no specific methods for developing ideas over time.md",
+    "Andy Matuschak/Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do.md",
+    "Ideaverse Lite/Atlas/Notes/Ideas/Information that crosses our attentional filter becomes knowledge.md",
+    "Andy Matuschak/A rigid fixation on “focus” can harm creative work.md",
+    "Andy Matuschak/It’s hard to do difficult creative work for more than a few hours a day.md",
     "LizardsFromOuterSpace/055- External Models.md",
+    "LizardsFromOuterSpace/044- Model.md",
     "LizardsFromOuterSpace/050- Connections aren’t immediate.md",
     "Ideaverse Lite/Atlas/Notes/Ideas/Emergence (defn).md",
     "float number IEEE standard.jpg",
@@ -198,20 +226,7 @@
     "LizardsFromOuterSpace/121- Unsurprising & Useful.md",
     "LizardsFromOuterSpace/122- Unsurprising & Useless.md",
     "LizardsFromOuterSpace/203- Zettelkasten Sales Pitch.md",
-    "LizardsFromOuterSpace/213- Reason for Note Sequences.md",
-    "LizardsFromOuterSpace/216- Luhmann’s Note Taking Problems.md",
-    "LizardsFromOuterSpace/217- Problem of Categorization.md",
-    "LizardsFromOuterSpace/226- Prior Knowledge in Public Information.md",
-    "LizardsFromOuterSpace/230- Summarization and Paraphrasing in Note Taking.md",
-    "Ideaverse Lite/Atlas/Notes/Ideas/Bottom-up thinking.md",
-    "Ideaverse Lite/Atlas/Notes/Ideas/Idea Emergence (defn).md",
-    "LizardsFromOuterSpace/040- Generalization.md",
     "desktop.ini",
-    "ReadMe.md",
-    "Ideaverse Lite/Atlas/Maps/Concepts Map.md",
-    "Ideaverse Lite/Atlas/Maps/Course.md",
-    "Ideaverse Lite/Atlas/Maps/Efforts.md",
-    "Ideaverse Lite/Atlas/Notes/Ideas/Refraction Thinking.md",
     "Ideaverse/Calendar/desktop.ini",
     "Workflows/02 PARA_Starter_Kit_v2/2. Areas/desktop.ini",
     "Workflows/02 PARA_Starter_Kit_v2/1. Projects/PARA Starter Kit/desktop.ini",

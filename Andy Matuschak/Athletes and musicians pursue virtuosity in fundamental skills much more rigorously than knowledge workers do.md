@@ -1,5 +1,3 @@
-# Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do
-
 Type of Link: 📝 Article
 Category talked about: Psychology
 Author: Andy Matuschak
@@ -14,7 +12,7 @@ By comparison, [Knowledge work rarely involves deliberate practice](https://not
 
 1. reading ([People seem to forget most of what they read, and they mostly don’t notice](People%20seem%20to%20forget%20most%20of%20what%20they%20read,%20and%20they%20mostly%20don't%20notice.md)), 
 2. note-taking ([Note-writing practices are generally ineffective](Note-writing%20practices%20are%20generally%20ineffective.md)), 
-3. developing ideas over time ([Knowledge workers usually have no specific methods for developing ideas over time](https://notes.andymatuschak.org/zQUKGy9JpHnWRDJh7X6yP9t)).
+3. developing ideas over time ([[Knowledge workers usually have no specific methods for developing ideas over time]]).
 
 [Core practices in knowledge work are often ad-hoc](https://notes.andymatuschak.org/zPFYKBrsvL88opKh28UYxWv), and knowledge workers generally don’t seem to pursue a serious program of improving in those core skills. I suspect that this is in large part because the possibility of improvement isn’t salient: [Salience of improvement drives skill development](https://notes.andymatuschak.org/zQeW31KRF1tk2zCPPGWc7UD).
 

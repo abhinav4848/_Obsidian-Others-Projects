@@ -23,5 +23,5 @@ And if you can’t write even one atomic note on the idea you have, Spaced repet
 Related: [Better note-taking misses the point; what matters is “better thinking”](Better%20note-taking%20misses%20the%20point;%20what%20matters%20is%20“better%20thinking”.md) 
 
 # Reference
-
-1. [https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNqLdKMiTo9EHA9EWYGXs7b](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNqLdKMiTo9EHA9EWYGXs7b)
+1. [https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNqLdKMiTo9EHA9EWYGXs7b](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNqLdKMiTo9EHA9EWYGXs7b)=
+2. Simplified: [Evergreen note-writing helps insight accumulate](https://notes.andymatuschak.org/z4EXkuLjdBrBZe7PVAGXc5a) 
