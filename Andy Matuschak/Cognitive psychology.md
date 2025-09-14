@@ -1,12 +1,10 @@
-# Cognitive psychology
-
 Type of Link: 📝 Article
 Category talked about: Psychology
 Author: Andy Matuschak
 Completion Status: Started
 Last edited time: January 18, 2024 7:55 PM
 
-# **Cognitive psychology**
+# Cognitive psychology
 The study of the human [Mind](Mind.md) and mental processes, often with computational or information-theoretical models of the brain (see [Cognitivism](Cognitivism.md) for more on the theoretical framework).
 
 A hazy subset of [Cognitive science](https://notes.andymatuschak.org/z9S1FAfAadbdvdR5QWZyXug), cogpsy is focused particularly on humans and on mental phenomena, whereas cognitive science is more wide-ranging, including discussions of anthropology, linguistics, animal behavior, neurophysiology, artificial intelligence, etc.
