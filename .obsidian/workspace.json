@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andy Matuschak/Mind.md",
+                "file": "Ideaverse Merged/Atlas/Notes/Things/Antifragility.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mind"
+              "title": "Antifragility"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "supermemo",
+                "query": "analysis pa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andy Matuschak/Mind.md",
+                "file": "Ideaverse Merged/Atlas/Notes/Things/Antifragility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mind"
+              "title": "Backlinks for Antifragility"
             }
           },
           {
@@ -179,13 +179,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "172a5a0c434afc56",
+  "active": "e02a589a9b768801",
   "lastOpenFiles": [
+    "Workflows/03 IMF_AdvancedStarterKit_v2/Antifragility.md",
+    "Ideaverse Merged/Atlas/Notes/Ideas/Antifragility.md",
+    "Ideaverse Merged/Atlas/Notes/Things/Antifragility.md",
+    "Ideaverse Merged/Atlas/Dots/Things/Antifragility.md",
+    "Workflows/01 Obsidian Workflows.md",
+    "ReadMe.md",
+    "Andy Matuschak/Mind.md",
     "Andy Matuschak/Why Greatness Cannot Be Planned - Stanley and Lehman.md",
     "Andy Matuschak/supermemo.md",
     "Andy Matuschak/incremental reading.md",
     "Andy Matuschak/Piotr Wozniak.md",
-    "ReadMe.md",
     "Andy Matuschak/Cloze Deletion.md",
     "LizardsFromOuterSpace/230- Summarization and Paraphrasing in Note Taking.md",
     "Andy Matuschak/§Note-writing systems.md",
@@ -202,12 +208,6 @@
     "Ideaverse Merged/Home.md",
     "Andy Matuschak/Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes.md",
     "Ideaverse Merged/+/+ About +.md",
-    "Ideaverse Merged/Calendar/Notes/Past Years/2020-04-17 - Event on Dataview w Tres Brenan.md",
-    "Ideaverse Merged/Atlas/Notes/Ideas/A deeper dive into how ACE works.md",
-    "Ideaverse Merged/Atlas/Notes/Sources/1984 (book).md",
-    "Ideaverse Merged/Atlas/Utilities/+ About Utilities.md",
-    "Ideaverse Merged/Atlas/Notes/X/+ About these notes.md",
-    "Ideaverse Merged/Atlas/Notes/Sources/+ About Sources.md",
     "Ideaverse Merged/Atlas/Utilities/Images/flight-school-hotkey-wide.jpg",
     "Ideaverse Merged/Atlas/Utilities/Images/feynman-triangulation-3.png",
     "Ideaverse Merged/Atlas/Utilities/Images/feynman-triangulation-1.png",
