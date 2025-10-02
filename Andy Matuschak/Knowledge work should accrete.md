@@ -35,7 +35,7 @@ A [Spaced Repetition memory system](Spaced%20Repetition%20memory%20system.md) ac
 1. Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
     
     
-    > But most importantly, without a **permanent reservoir of ideas,** you will not be able to develop any major ideas ([[Idea Emergence (defn)]] & [[Leaps of insight emerge from prior thought]]) over a longer period of time because you are restricting yourself either to the length of a single project or the capacity of your memory. Exceptional ideas need much more than that.
+    > But most importantly, without a **permanent reservoir of ideas,** you will not be able to develop any major ideas ([[Ideaverse Merged/Atlas/Dots/Things/Idea Emergence (defn)]] & [[Leaps of insight emerge from prior thought]]) over a longer period of time because you are restricting yourself either to the length of a single project or the capacity of your memory. Exceptional ideas need much more than that.
     > 
     
     See [Writing notes helps develop exceptional ideas](https://www.notion.so/Writing-notes-helps-develop-exceptional-ideas-49568812eb6341ef82f546f6f3461295?pvs=21) 

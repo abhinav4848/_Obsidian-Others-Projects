@@ -7,7 +7,7 @@ Author: Andy Matuschak
 Completion Status: Finished
 Last edited time: January 18, 2024 7:55 PM
 
-See: [[Idea Emergence (defn)]]
+See: [[Ideaverse Merged/Atlas/Dots/Things/Idea Emergence (defn)]]
 
 # Leaps of insight emerge from prior thought
 
@@ -27,7 +27,7 @@ Ahrens, S. (2017). _How to Take Smart Notes: One Simple Technique to Boost Writ
 
 > Every intellectual endeavour starts from an already existing preconception, which then can be transformed during further inquires and can serve as a starting point for following endeavours. Basically, that is what Hans-Georg Gadamer called the hermeneutic circle (Gadamer 2004).
 
-> **Writing notes helps develop exceptional ideas:** But most importantly, without a permanent reservoir of ideas, you will not be able to develop any major ideas ([[Idea Emergence (defn)]]) over a longer period of time because you are restricting yourself either to the length of a single project or the capacity of your memory. Exceptional ideas need much more than that.
+> **Writing notes helps develop exceptional ideas:** But most importantly, without a permanent reservoir of ideas, you will not be able to develop any major ideas ([[Ideaverse Merged/Atlas/Dots/Things/Idea Emergence (defn)]]) over a longer period of time because you are restricting yourself either to the length of a single project or the capacity of your memory. Exceptional ideas need much more than that.
 
 > The things you are supposed to find in your head by brainstorming usually don’t have their origins in there. Rather, they come from the outside: through reading, having discussions and listening to others, through all the things that could have been accompanied and often even would have been improved by writing.
 

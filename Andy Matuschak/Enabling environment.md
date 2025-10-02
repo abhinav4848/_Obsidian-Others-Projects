@@ -13,7 +13,7 @@ Great software environments are enabling environments. Photoshop expands experts
 
 Books and videos rarely deliver here: [Mass mediums are typically bad at helping people translate ideas to practice](https://notes.andymatuschak.org/zHjz9JSan5WNzDR7MXxjLix). 
 
-A collection of densely-connected [[Evergreen notes]] can be an enabling environment for the author: [[Evergreen note-writing helps insight accumulate]]. (See also [[Evergreen note-writing as fundamental unit of knowledge work]])
+A collection of densely-connected [[Andy Matuschak/Evergreen Notes]] can be an enabling environment for the author: [[Evergreen note-writing helps insight accumulate]]. (See also [[Evergreen note-writing as fundamental unit of knowledge work]])
 
 ## Designing enabling environments
 

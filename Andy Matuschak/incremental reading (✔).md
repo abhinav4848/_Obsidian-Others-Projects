@@ -1,15 +1,12 @@
----
-andy_pending: true
----
-# incremental reading
-
 Type of Link: 📝 Article
 Category talked about: Learning, Reading
 Author: Andy Matuschak
 Completion Status: To Start
 Last edited time: January 18, 2024 7:55 PM
 
-.
+# Incremental reading
+
+Related: [[Spaced repetition systems can be used to program attention]]. 
 
 # Reference
 
