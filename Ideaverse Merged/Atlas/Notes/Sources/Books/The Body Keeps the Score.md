@@ -23,7 +23,7 @@ year: 2014
 yearXP: 2023
 yearXPL: "2023"
 bookStatus: partially read
-rating: 
+rating:
 bookLCSH:
   - Stress Disorders, Post-Traumatic—physiopathology
   - Stress Disorders, Post-Traumatic—therapy

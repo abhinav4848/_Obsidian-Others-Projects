@@ -1,5 +1,3 @@
-# How to Read a Book - Adler and van Doren
-
 Type of Link: 📝 Article
 Category talked about: Note taking, Reading
 Details: A Book Review by Andy Matuschak. Look at the Q&A style
@@ -7,7 +5,7 @@ Author: Andy Matuschak
 Completion Status: Finished
 Last edited time: January 18, 2024 7:55 PM
 
-# **How to Read a Book - Adler and van Doren**
+# How to Read a Book - Adler and van Doren
 
 The second edition, with van Doren, was published in {1972}.
 
