@@ -1,1 +1,1 @@
-Creator of [[Supermemo]] and popularizer of S[[Spaced Repetition memory system]] and [[Incremental reading]].
+Creator of [[supermemo]] and popularizer of S[[Spaced Repetition memory system]] and [[Incremental reading]].
