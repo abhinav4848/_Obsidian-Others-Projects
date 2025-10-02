@@ -38,7 +38,7 @@ It’s interesting to imagine a single interface malleable enough that I could d
 
 Some examples:
 
-- [incremental reading (✔)](incremental%20reading%20(✔).md)
+- [incremental reading](incremental%20reading.md)
 - [Timeful text](https://notes.andymatuschak.org/zAb9R6nYuTyN6PBC4rQY9aY) (Not worth linking)
 - [Spaced repetition may be a helpful tool to incrementally develop inklings](Spaced%20repetition%20may%20be%20a%20helpful%20tool%20to%20incrementally%20develop%20inklings.md)
 - [Spaced repetition can lower the stakes around destructive inbox-maintenance operations](https://notes.andymatuschak.org/zJ5Yzvba2729XKXivBBZ91J) (to-do lists, email, reading lists, etc)
