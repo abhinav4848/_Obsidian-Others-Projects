@@ -1,5 +1,3 @@
-# Dyson claims idleness is necessary to the best creative work
-
 > we can see the nature of the flaw which made his life ultimately tragic. His flaw was restlessness, an inborn inability to be idle. Intervals of idleness are probably essential to creative work on the highest level. Shakespeare, we are told, was habitually idle between plays. Oppenheimer was hardly ever idle.  
 > — in the essay “Oppenheimer” by Freeman Dyson, via [Michael Nielsen](https://notes.andymatuschak.org/Michael_Nielsen) (private link). 
 
