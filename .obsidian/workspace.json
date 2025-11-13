@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Dyson claims idleness is necessary to the best creative work"
             }
+          },
+          {
+            "id": "a9cbc979e8803168",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andy Matuschak/Dyson claims idleness is necessary to the best creative work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dyson claims idleness is necessary to the best creative work"
+              "title": "Backlinks"
             }
           },
           {
@@ -179,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e02a589a9b768801",
+  "active": "a9cbc979e8803168",
   "lastOpenFiles": [
     "desktop.ini",
     "Workflows/02 PARA_Starter_Kit_v2/2. Areas/Job/desktop.ini",
