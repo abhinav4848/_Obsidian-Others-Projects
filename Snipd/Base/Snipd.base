@@ -1,0 +1,83 @@
+filters:
+  and:
+    - from_snipd == true
+formulas:
+  open_show_url: link(note.show_url, 'Open in Snipd')
+  open_episode_url: link(note.episode_url, 'Open in Snipd')
+properties:
+  note.episode_title:
+    displayName: Episode Title
+  note.episode_duration_minutes:
+    displayName: Episode Duration Minutes
+  note.image_url:
+    displayName: Image URL
+  note.episode_publish_date:
+    displayName: Episode Publish Date
+  note.episode_export_date:
+    displayName: Episode Export Date
+  note.show_title:
+    displayName: Show Title
+  note.show_author:
+    displayName: Show Author
+  note.show_id:
+    displayName: Show ID
+  note.guests:
+    displayName: Guests
+  note.mentioned_books:
+    displayName: Mentioned Books
+  note.snips_count:
+    displayName: Snips Count
+  note.last_snip_date:
+    displayName: Last Snip Date
+  note.upload_type:
+    displayName: Upload Type
+  note.from_snipd:
+    displayName: Is from the Snipd app
+  formula.open_show_url:
+    displayName: Show URL
+  formula.open_episode_url:
+    displayName: Episode URL
+views:
+  - type: cards
+    name: Podcasts Cards
+    sort:
+      - property: last_snip_date
+        direction: DESC
+    image: note.image_url
+  - type: table
+    name: Podcasts
+    order:
+      - file.name
+      - show_title
+      - show_author
+      - guests
+      - snips_count
+      - episode_publish_date
+      - mentioned_books
+      - episode_duration_minutes
+      - formula.open_episode_url
+      - formula.open_show_url
+      - upload_type
+      - last_snip_date
+      - episode_export_date
+    sort:
+      - property: last_snip_date
+        direction: DESC
+    summaries:
+      snips_count: Sum
+    columns:
+      - file.name
+      - show_title
+      - show_author
+      - guests
+      - snips_count
+      - episode_publish_date
+      - mentioned_books
+      - episode_duration_minutes
+      - formula.open_episode_url
+      - formula.open_show_url
+      - upload_type
+      - last_snip_date
+      - episode_export_date
+    columnSize:
+      file.name: 338

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bd639e09f180706f",
+        "id": "7685c00b864f9134",
         "type": "tabs",
         "children": [
           {
-            "id": "bd4ef4c129dac7f6",
+            "id": "fa320fb4d901b7ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workflows/02 PARA_Starter_Kit_v2/1. Projects/PARA Starter Kit/Workflow.md",
+                "file": "Snipd/Data/Infinite Loops/Alex Danco — Speeches and Spells for the Kings and Priests (EP.283).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Workflow"
+              "title": "Alex Danco — Speeches and Spells for the Kings and Priests (EP.283)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5044631958008
+    "width": 327.5044631958008
   },
   "right": {
     "id": "9870632db536340b",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflows/02 PARA_Starter_Kit_v2/1. Projects/PARA Starter Kit/Workflow.md",
+                "file": "Snipd/Data/Infinite Loops/Alex Danco — Speeches and Spells for the Kings and Priests (EP.283).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Workflow"
+              "title": "Backlinks for Alex Danco — Speeches and Spells for the Kings and Priests (EP.283)"
             }
           },
           {
@@ -176,41 +176,49 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian42-brat:BRAT": false,
+      "snipd-official:Open Snipd base": false
     }
   },
-  "active": "bd4ef4c129dac7f6",
+  "active": "fa320fb4d901b7ac",
   "lastOpenFiles": [
-    "Workflows/02 PARA_Starter_Kit_v2/1. Projects/PARA Starter Kit/Methodology.md",
-    "Workflows/02 PARA_Starter_Kit_v2/1. Projects/PARA Starter Kit/Workflow.md",
-    "Andy Matuschak/Behaviorism.md",
-    "Andy Matuschak/B. F. Skinner.md",
-    "Andy Matuschak/Classical conditioning.md",
-    "Andy Matuschak/Operant conditioning.md",
-    "Andy Matuschak/Dyson claims idleness is necessary to the best creative work.md",
-    "desktop.ini",
-    "Workflows/02 PARA_Starter_Kit_v2/2. Areas/Job/desktop.ini",
-    "Workflows/02 PARA_Starter_Kit_v2/3. Resouces/Productivity/desktop.ini",
-    "Andy Matuschak/Quit Your Job - Wolf Tivy.md",
-    "Ideaverse Merged/Atlas/Notes/Sources/Books/Atomic Habits.md",
-    "Ideaverse Merged/Atlas/Dots/Things/Antifragility.md",
-    "Ideaverse Merged/Atlas/Notes/Sources/Books/The Body Keeps the Score.md",
-    "Andy Matuschak/Situated learning.md",
-    "Andy Matuschak/How to Read a Book - Adler and van Doren.md",
-    "Ideaverse Merged/Atlas/Notes/Things/Antifragility.md",
-    "Ideaverse Merged/Atlas/Notes/Ideas/Antifragility.md",
-    "Workflows/03 IMF_AdvancedStarterKit_v2/Antifragility.md",
-    "Workflows/01 Obsidian Workflows.md",
-    "ReadMe.md",
-    "Andy Matuschak/Mind.md",
-    "Andy Matuschak/Why Greatness Cannot Be Planned - Stanley and Lehman.md",
-    "Andy Matuschak/supermemo.md",
-    "Andy Matuschak/incremental reading.md",
-    "Andy Matuschak/Piotr Wozniak.md",
-    "Andy Matuschak/Cloze Deletion.md",
-    "LizardsFromOuterSpace/230- Summarization and Paraphrasing in Note Taking.md",
-    "Andy Matuschak/§Note-writing systems.md",
-    "Untitled.base",
+    "Snipd/Base/Snipd.base",
+    "Snipd/Data/The Knowledge Project/Laurie Santos_ The Pursuit of Happiness.md",
+    "Snipd/Data/The Building a Second Brain Podcast/Myth_ Building a Second Brain is just self-help for note-taking nerds.md",
+    "Snipd/Data/The Building a Second Brain Podcast",
+    "Snipd/Data/Huberman Lab/Ketamine_ Benefits and Risks for Depression, PTSD & Neuroplasticity.md",
+    "Snipd/Data/Founder's Journal/4 Characteristics Your Top Talent Should Have.md",
+    "Snipd/Data/Huberman Lab/LIVE EVENT Q&A_ Dr. Andrew Huberman at the Moore Theatre in Seattle.md",
+    "Snipd/Data/Huberman Lab",
+    "Snipd/Data/The Tim Ferriss Show/_672_ Seth Godin — The Pursuit of Meaning, The Life-Changing Power of Choosing Your Attitude, Overcoming Rejection, Life Lessons from Zig Ziglar, and.md",
+    "Snipd/Data/The Peter Attia Drive/_252 ‒ Latest insights on Alzheimer's disease, cancer, exercise, nutrition, and fasting _ Rhonda Patrick, Ph.D.md",
+    "Snipd/Data/The Art of Manliness/Overcome the Comfort Crisis.md",
+    "Snipd/Data/The Art of Manliness",
+    "Snipd/Data/Modern Wisdom/_653 - George Mack - Stop Wasting Your Life On Things That Don’t Matter.md",
+    "Snipd/Data/You Are Not So Smart/263 - The Truth Wins - Tom Stafford (rebroadcast).md",
+    "Snipd/Data/You Are Not So Smart",
+    "Snipd/Data/Speaking of Psychology/Revealing the Hidden Brain, with Shankar Vedantam.md",
+    "Snipd/Data/Speaking of Psychology",
+    "Snipd/Data/Founder's Journal/Learning How to Learn (Classic).md",
+    "Snipd/Data/Founder's Journal/Learning How to Think vs. What to Think.md",
+    "Snipd/Data/Hidden Brain/You 2.0_ How to Break Out of a Rut.md",
+    "Snipd/Data/The Colin and Samir Show/How Ali Abdaal makes $5,741,266.32 a year on YouTube.md",
+    "Snipd/Data/The Peter Attia Drive/_265 - Time, productivity, and purpose_ insights from Four Thousand Weeks _ Oliver Burkeman.md",
+    "Snipd/Data/Love Your Work/250. My Zettelkasten_ An Author's Digital Slip-Box Method Example (Using Plain-Text Software).md",
+    "Snipd/Data/Love Your Work",
+    "Snipd/Data/The Colin and Samir Show/An update from London.md",
+    "Snipd/Data/The Colin and Samir Show/7 habits of highly successful YouTubers.md",
+    "Snipd/Data/The Colin and Samir Show",
+    "Snipd/Data/Lord of the Rings Lorecast/1. The Creation Story_ The Ainulindalë.md",
+    "Snipd/Data/Lord of the Rings Lorecast",
+    "Snipd/Data/Founder's Journal/How I Built The Hustle w_ Sam Parr.md",
+    "Snipd/Data/My First Million/Syed Balkhi_ How He Went From $0 To +$100M Before Age 30.md",
+    "Snipd/Data/Founder's Journal/Accelerate Your Career _2_ Learning How to Learn (Classic).md",
+    "Snipd/Data/Founders/_299 Steve Jobs (Make Something Wonderful).md",
+    "Snipd/Data/Deep Dive with Ali Abdaal/5 Skills to Level Up Your Life - Season 6 Roundup.md",
+    "Snipd/Data/The Good Financial Cents Show w_ Jeff Rose, CFP®",
+    "Snipd/Data/The Goal Digger Podcast _ Top Business and Marketing Podcast for Creatives, Entrepreneurs, and Women in Business",
     "Ideaverse Merged/Atlas/Utilities/Images/flight-school-hotkey-wide.jpg",
     "Ideaverse Merged/Atlas/Utilities/Images/feynman-triangulation-3.png",
     "Ideaverse Merged/Atlas/Utilities/Images/feynman-triangulation-1.png",
@@ -218,10 +226,6 @@
     "Andy Matuschak/Klein - Seeing What Others Don’t (2013).png",
     "Andy Matuschak/channel capacity expands almost linearly with bits-per-chunk.png",
     "float number IEEE standard.jpg",
-    "1649055027459 fitizen_almost_gets_harvested.jpg",
-    "Ideaverse/Calendar/desktop.ini",
-    "Workflows/02 PARA_Starter_Kit_v2/2. Areas/desktop.ini",
-    "Workflows/02 PARA_Starter_Kit_v2/1. Projects/PARA Starter Kit/desktop.ini",
-    "Workflows/02 PARA_Starter_Kit_v2/4. Archive/Obsdian Purple Theme/desktop.ini"
+    "1649055027459 fitizen_almost_gets_harvested.jpg"
   ]
 }
