@@ -136,6 +136,14 @@ If your plugin does not need CSS, delete this file.
   font-size: 0.9em;
 }
 
+.snipd-input-error {
+  border-color: var(--text-error, #e74c3c) !important;
+}
+
+.snipd-property-error {
+  margin-top: 4px;
+}
+
 .snipd-auth-section {
   background-color: var(--background-secondary, rgba(0, 0, 0, 0.05));
   padding: 1.5rem;
@@ -183,4 +191,111 @@ If your plugin does not need CSS, delete this file.
 .snipd-reset-button {
   background-color: #e74c3c !important;
   color: white !important;
+}
+
+.modal {
+  min-width: 800px !important;
+  max-width: 1200px !important;
+}
+
+.modal-content {
+  max-width: 1200px !important;
+}
+
+.vertical-tab-content {
+  max-width: 1000px !important;
+}
+
+.snipd-additional-properties-container {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.snipd-additional-property-item {
+  background-color: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.snipd-additional-property-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.snipd-additional-property-header h4 {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.snipd-remove-property-button {
+  padding: 4px 8px;
+  font-size: 12px;
+  background-color: var(--background-modifier-error, #e74c3c);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.snipd-remove-property-button:hover {
+  background-color: var(--background-modifier-error-hover, #c0392b);
+}
+
+.snipd-add-property-button {
+  padding: 8px 16px;
+  font-size: 13px;
+  background-color: var(--interactive-accent);
+  color: var(--text-on-accent);
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 8px;
+}
+
+.snipd-add-property-button:hover {
+  background-color: var(--interactive-accent-hover);
+}
+
+.snipd-empty-properties-message {
+  color: var(--text-muted);
+  font-size: 13px;
+  font-style: italic;
+  padding: 16px;
+  text-align: center;
+  background-color: var(--background-secondary);
+  border: 1px dashed var(--background-modifier-border);
+  border-radius: 6px;
+}
+
+.snipd-insert-variable-container {
+  margin-top: 8px;
+}
+
+.snipd-insert-variable-button {
+  padding: 4px 8px;
+  font-size: 11px;
+  font-family: var(--font-monospace);
+  background-color: var(--background-primary);
+  color: var(--interactive-accent);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.snipd-insert-variable-button:hover {
+  background-color: var(--background-modifier-hover);
+  border-color: var(--interactive-accent);
+}
+
+.snipd-property-label {
+  display: block;
+  margin-top: 12px;
+  margin-bottom: 4px;
+  font-size: 12px;
+  font-weight: 600;
 }
