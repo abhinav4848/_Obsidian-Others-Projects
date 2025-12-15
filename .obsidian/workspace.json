@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snipd/Data/Infinite Loops/Alex Danco — Speeches and Spells for the Kings and Priests (EP.283).md",
+                "file": "LizardsFromOuterSpace/066a- PARA structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alex Danco — Speeches and Spells for the Kings and Priests (EP.283)"
+              "title": "066a- PARA structure"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "analysis pa",
+                "query": "para",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snipd/Data/Infinite Loops/Alex Danco — Speeches and Spells for the Kings and Priests (EP.283).md",
+                "file": "LizardsFromOuterSpace/066a- PARA structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Alex Danco — Speeches and Spells for the Kings and Priests (EP.283)"
+              "title": "Backlinks for 066a- PARA structure"
             }
           },
           {
@@ -183,6 +184,7 @@
   },
   "active": "fa320fb4d901b7ac",
   "lastOpenFiles": [
+    "Snipd/Data/Infinite Loops/Alex Danco — Speeches and Spells for the Kings and Priests (EP.283).md",
     "current_export_metadata.json",
     "desktop.ini",
     "Snipd/Base/Snipd.base",
@@ -213,7 +215,6 @@
     "Snipd/Data/The Colin and Samir Show/7 habits of highly successful YouTubers.md",
     "Snipd/Data/The Colin and Samir Show",
     "Snipd/Data/Lord of the Rings Lorecast/1. The Creation Story_ The Ainulindalë.md",
-    "Snipd/Data/Lord of the Rings Lorecast",
     "Snipd/Data/Founder's Journal/How I Built The Hustle w_ Sam Parr.md",
     "Snipd/Data/My First Million/Syed Balkhi_ How He Went From $0 To +$100M Before Age 30.md",
     "Snipd/Data/Founder's Journal/Accelerate Your Career _2_ Learning How to Learn (Classic).md",
