@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LizardsFromOuterSpace/066a- PARA structure.md",
+                "file": "LizardsFromOuterSpace/007- Structuring for Retrieval.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "066a- PARA structure"
+              "title": "007- Structuring for Retrieval"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LizardsFromOuterSpace/066a- PARA structure.md",
+                "file": "LizardsFromOuterSpace/007- Structuring for Retrieval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 066a- PARA structure"
+              "title": "Backlinks for 007- Structuring for Retrieval"
             }
           },
           {
@@ -184,6 +184,10 @@
   },
   "active": "fa320fb4d901b7ac",
   "lastOpenFiles": [
+    "LizardsFromOuterSpace/093- Layers of Structure in a Digital Zettelkasten.md",
+    "LizardsFromOuterSpace/009- Note Size.md",
+    "LizardsFromOuterSpace/009a- Paragraph.md",
+    "LizardsFromOuterSpace/066a- PARA structure.md",
     "Snipd/Data/Infinite Loops/Alex Danco — Speeches and Spells for the Kings and Priests (EP.283).md",
     "current_export_metadata.json",
     "desktop.ini",
@@ -216,10 +220,6 @@
     "Snipd/Data/The Colin and Samir Show",
     "Snipd/Data/Lord of the Rings Lorecast/1. The Creation Story_ The Ainulindalë.md",
     "Snipd/Data/Founder's Journal/How I Built The Hustle w_ Sam Parr.md",
-    "Snipd/Data/My First Million/Syed Balkhi_ How He Went From $0 To +$100M Before Age 30.md",
-    "Snipd/Data/Founder's Journal/Accelerate Your Career _2_ Learning How to Learn (Classic).md",
-    "Snipd/Data/Founders/_299 Steve Jobs (Make Something Wonderful).md",
-    "Snipd/Data/Deep Dive with Ali Abdaal/5 Skills to Level Up Your Life - Season 6 Roundup.md",
     "Ideaverse Merged/Atlas/Utilities/Images/flight-school-hotkey-wide.jpg",
     "Ideaverse Merged/Atlas/Utilities/Images/feynman-triangulation-3.png",
     "Ideaverse Merged/Atlas/Utilities/Images/feynman-triangulation-1.png",
