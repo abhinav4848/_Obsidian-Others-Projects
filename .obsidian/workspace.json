@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge work.md",
+                "file": "Andy Matuschak/Writing good spaced repetition memory prompts is hard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Knowledge work"
+              "title": "Writing good spaced repetition memory prompts is hard"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge work.md",
+                "file": "Andy Matuschak/Writing good spaced repetition memory prompts is hard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Knowledge work"
+              "title": "Backlinks for Writing good spaced repetition memory prompts is hard"
             }
           },
           {
@@ -176,7 +176,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -196,11 +197,12 @@
       "snipd-official:Open Snipd base": false
     }
   },
-  "active": "ec9232daba0acfd6",
+  "active": "2a493649ba70f40f",
   "lastOpenFiles": [
-    "We don’t know how to measure knowledge worker productivity.md",
-    "Knowledge work.md",
-    "§Knowledge work as serious discipline.md",
+    "Andy Matuschak/§Knowledge work as serious discipline.md",
+    "Andy Matuschak/Management science focuses on knowledge work at the level of the firm and the manager, not at the level of the individual.md",
+    "Andy Matuschak/We don’t know how to measure knowledge worker productivity.md",
+    "Andy Matuschak/Knowledge work.md",
     "Andy Matuschak/Most people read ineffectively.md",
     "Andy Matuschak/Evergreen note-writing helps reading efforts accumulate.md",
     "Andy Matuschak/People often struggle to remember details of prose text because they never processed them in the first place.md",
@@ -223,7 +225,6 @@
     "Andy Matuschak/Most people use notes as a bucket for storage or scratch thoughts.md",
     "Andy Matuschak/Skilful reading is often non-linear.md",
     "Andy Matuschak/The best way to read is highly contextual.md",
-    "Andy Matuschak/Edwards, P N (2005) How to Read a Book.md",
     "current_export_metadata.json",
     "Ideaverse Merged/Atlas/Dots/Statements/Questions",
     "Snipd/Base/Snipd.base",
