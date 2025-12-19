@@ -1,5 +1,5 @@
 # Prefer note titles with complete phrases to sharpen claims
-When writing [[Andy Matuschak/Evergreen Notes|Evergreen Notes]], I’ve found that using complete phrases as note titles helps maintain concept-orientation ([Evergreen notes should be concept-oriented](Evergreen%20notes%20should%20be%20concept-oriented.md)). For example: [[Educational objectives often subvert themselves]], [[Evergreen notes permit smooth incremental progress in writing (“incremental writing”)]].
+When writing [[Andy Matuschak/Evergreen Notes|Evergreen Notes]], I’ve found that using complete phrases as note titles helps maintain concept-orientation ([[Evergreen notes should be concept-oriented]]). For example: [[Educational objectives often subvert themselves]], [[Evergreen notes permit smooth incremental progress in writing (“incremental writing”)]].
 
 These are often declarative or imperative phrases making a strong claim. This puts pressure on me to adequately support the claim in the body. If I write a note but struggle to summarize it in a sharp title, that’s often a sign that my thinking is muddy or that this note is about several topics (contra [[Evergreen notes should be atomic]]). In both cases, the solution is to break the ideas down and write about the bits I understand best first.
 

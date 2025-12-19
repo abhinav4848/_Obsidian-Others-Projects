@@ -1,7 +1,7 @@
 # Many people view memory as unimportant to deep creative work
 When telling others that [[Spaced repetition memory systems make memory a choice]], people often react quite negatively: “What’s the point of memorizing all that stuff? Rote knowledge isn’t what matters: I want conceptual understanding, creativity, artistry, etc!”
 
-One response to this is to point out that in fact, [Spaced repetition memory systems can be used to develop conceptual understanding](Spaced%20repetition%20memory%20systems%20can%20be%20used%20to%20develop%20conceptual%20understanding.md). But it’s also important to take seriously the claims against the value of memorization. Some responses there:
+One response to this is to point out that in fact, [[Spaced repetition memory systems can be used to develop conceptual understanding]]. But it’s also important to take seriously the claims against the value of memorization. Some responses there:
 
 - [[Basic cognitive tasks rely on memory]]
 - [Some kinds of creative insight depend on long-term memory](https://notes.andymatuschak.org/zNW5jyTpU1v4XBQfTYwoM8Q)

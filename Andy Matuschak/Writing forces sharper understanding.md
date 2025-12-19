@@ -1,5 +1,5 @@
 # Writing forces sharper understanding
-Writing is a great way to put pressure on your thinking: it’s hard to summarize something you don’t sharply understand. By trying to explain an idea, you’ll naturally try multiple framings, flesh out its edges, and see new connections. This is part of why [Evergreen note-writing helps insight accumulate](Evergreen%20note-writing%20helps%20insight%20accumulate.md) and why you should [Write about what you read to internalize texts deeply](Write%20about%20what%20you%20read%20to%20internalize%20texts%20deeply.md).
+Writing is a great way to put pressure on your thinking: it’s hard to summarize something you don’t sharply understand. By trying to explain an idea, you’ll naturally try multiple framings, flesh out its edges, and see new connections. This is part of why [[Evergreen note-writing helps insight accumulate]] and why you should [[Write about what you read to internalize texts deeply]].
 
 The additional step of making associations and integrating that writing with prior notes (i.e. to create [[Andy Matuschak/Evergreen Notes|Evergreen Notes]], particularly since [[Evergreen notes should be concept-oriented]]) makes this effect even more powerful because you have to understand how a given idea relates to other ideas. And when you’re comparing the new ideas to the old, you can see what’s *not* being said in the new work.
 
@@ -16,7 +16,7 @@ This observation appears to be true even for non-prose writing: [Many eminent t
     - Writing forces sharper understanding
 - [Question-writing in the mnemonic medium may help the writer think about their topic](https://notes.andymatuschak.org/zASrUgV82dsvB2ZzJ39WmTP)
     - Because [Writing forces sharper understanding](https://notes.andymatuschak.org/zRbqwbnhmVdfLtKxMCibMoX), many thinkers will write an essay or a book in order to more deeply understand a topic. For similar reasons, writing questions in the mnemonic medium likely also helps writers understand their topic more deeply.
-- [§Note-writing systems](§Note-writing%20systems.md)
+- [[§Note-writing systems]]
     - Writing forces sharper understanding
 - [[How to Take Smart Notes - Ahrens]]
     - Writing while we read is a great way to monitor understanding: it’s hard to summarize something you don’t understand. The additional step of making associations and integrating that writing with prior notes makes this effect even more powerful. [Writing forces sharper understanding](https://notes.andymatuschak.org/zRbqwbnhmVdfLtKxMCibMoX)

@@ -7,7 +7,7 @@ Title of Atomic note should be Clear, Concise, & Distinct (Atomic). The title fo
 Try your best to have only one concept within a note. If a concept has multiple notes, that's fine.
 
 ## So how to write title **like APIs:**
-Some effective note “API design” techniques: 
+Some effective note “API design” techniques:  
 1. Separation of concerns ([[Evergreen notes should be atomic]]),
 2. Sharp titles ([[Prefer note titles with complete phrases to sharpen claims]] - declarative statements or questions so you have to support/answer in the body),
 3. Positive inflections/framings ([Prefer positive note titles to promote systematic theory](https://notes.andymatuschak.org/z63PA5ATVi8oyhyLgeGvL3p)- to promote better idea linking and systematic theory)

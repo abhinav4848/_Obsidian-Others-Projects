@@ -8,5 +8,4 @@ Without consistent ground to stand on, it’s difficult for knowledge workers to
 Because these processes aren’t considered systematically, knowledge workers typically don’t structure the outputs of these tasks so that they will accumulate into something more valuable over time (contra [[Knowledge work should accrete]]).
 
 # Reference
-
 1.

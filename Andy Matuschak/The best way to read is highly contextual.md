@@ -7,7 +7,6 @@ As Adler and van Doren put it: “Every book should be read no more slowly than 
 Digital reading experiences often fail to recognize this variability and instead reinforce the implicit default of linear, completionist reading.
 
 > Some books are to be tasted, others to be swallowed, and some few to be chewed and digested: that is, some books are to be read only in parts, others to be read, but not curiously, and some few to be read wholly, and with diligence and attention.
-> 
 
 —Francis Bacon
 

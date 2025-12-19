@@ -1,5 +1,5 @@
 # Literature notes are secondary and separate
-Because [Evergreen notes should be concept-oriented](Evergreen%20notes%20should%20be%20concept-oriented.md) reference-specific notes should be both brief and clearly separated from the note archive. They primarily exist to help you write durable notes.
+Because [[Evergreen notes should be concept-oriented]] reference-specific notes should be both brief and clearly separated from the note archive. They primarily exist to help you write durable notes.
 
 Literature notes are typically a lightweight synthesis of observations collected while reading (see [[How to collect observations while reading]]). We can keep a quick summary of the work and those observations around for later literature lookup, but the bulk of the value will already have been absorbed into our lasting notes (see [[How to process reading annotations into evergreen notes]]). The reference-specific notes are mostly useful for their links into those lasting notes ([[Are literature notes necessary if we have automatic universal backlinks]]?).
 

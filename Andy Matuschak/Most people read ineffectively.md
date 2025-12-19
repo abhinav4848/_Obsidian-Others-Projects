@@ -10,4 +10,4 @@
 [[Skilful reading is often non-linear]], but most people read linearly
 
 # Reference
-1. [https://notes.andymatuschak.org/z2Nv3jADtpYcgbCXww7nSEG](https://notes.andymatuschak.org/z2Nv3jADtpYcgbCXww7nSEG)
+1. [Andy Link](https://notes.andymatuschak.org/z2Nv3jADtpYcgbCXww7nSEG)

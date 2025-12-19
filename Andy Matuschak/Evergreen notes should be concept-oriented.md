@@ -11,7 +11,7 @@ If we read two books about exactly the same topic, we might easily link our note
 
 Organizing by concept makes note-taking a little harder, but in a useful way: when writing new notes, we have to find where they fit into the whole. So we explore some part of our prior web of notes, which may lead us somewhere unexpected.
 
-Over time, we accumulate notes which we can combine in increasingly complex ways ([[Evergreen note titles are like APIs]]) to produce novel insights ([Evergreen note-writing helps insight accumulate](Evergreen%20note-writing%20helps%20insight%20accumulate.md)).
+Over time, we accumulate notes which we can combine in increasingly complex ways ([[Evergreen note titles are like APIs]]) to produce novel insights ([[Evergreen note-writing helps insight accumulate]]).
 
 ---
 
