@@ -18,7 +18,7 @@ A few common exceptions to this policy:
 
 - I use nouns and noun phrases in note titles only to define core terms (which other notes generally orbit around). Examples: [Executable strategy](Executable%20strategy.md), [Enacted experience](Enacted%20experience.md), [Enabling environment](Enabling%20environment.md)
 - Outline notes (see [Create speculative outlines while you write](Create%20speculative%20outlines%20while%20you%20write.md)) like [§Note-writing systems](§Note-writing%20systems.md)
-- For more, see [Taxonomy of note types](Taxonomy%20of%20note%20types.md)
+- For more, see [[Taxonomy of note types]]
 
 I often begin by writing a note without knowing what the title will be. The title often emerges from the text as it’s written. When a note suggests a strong title with a clear claim, that’s a good sign that it’s starting to make sense. Related: [Evergreen note titles are like APIs](Evergreen%20note%20titles%20are%20like%20APIs.md) 
 

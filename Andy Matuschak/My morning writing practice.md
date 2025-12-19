@@ -20,7 +20,7 @@ After working through my writing inbox, I’ll focus my attention on my primary 
 - what new ideas am I excited about?
 - what are the most interesting things I know about this project?
 
-For these prompts, I’ll use my [Daily working log](Daily%20working%20log.md) as a scratch space, splatting a dozen or so one-liners into a haphazard bulleted list. After emptying my head, I’ll write about any that seem interesting. Usually that leads to rabbit holes which consume the rest of the session. I’ll add promising stragglers to my writing inbox for future days.
+For these prompts, I’ll use my [[Daily working log]] as a scratch space, splatting a dozen or so one-liners into a haphazard bulleted list. After emptying my head, I’ll write about any that seem interesting. Usually that leads to rabbit holes which consume the rest of the session. I’ll add promising stragglers to my writing inbox for future days.
 
 If those prompts don’t feel fruitful, I’ll use the time to [Write about what you read to internalize texts deeply](Write%20about%20what%20you%20read%20to%20internalize%20texts%20deeply.md). I’ve usually got a backlog of books and articles I’ve read but for which I haven’t yet written [Evergreen Notes](Evergreen%20Notes%208b05f5bf420f4caaad50f6fea2828638.md). If the prompts don’t feel fruitful for several days in a row, that’s a sign that I need to shake things up: my inputs aren’t high-variance enough, or I’m not giving myself the right kind of creative space, or I may need to re-evaluate my projects. My writing inbox should always feel like a cornucopia.
 

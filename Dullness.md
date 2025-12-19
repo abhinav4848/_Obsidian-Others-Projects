@@ -15,4 +15,6 @@ Q. Why do common cures (“tense all muscles”) work against dullness in medita
 A. They provide increased stimulus for the mind, decreasing the proportion of non-perceiving moments.
 
 ## References
- [[The Mind Illuminated - Culadasa]]
+ 1. [[The Mind Illuminated - Culadasa]]
+ 2. [Andy Link](https://notes.andymatuschak.org/zF3gSqhimNzCKYaWzm3rmUn?stackedNotes=z8dXowKop2xGp9UEVwXpG2Q&stackedNotes=zVNTDbWaVNxgTSPx3cNLDPc) 
+ 

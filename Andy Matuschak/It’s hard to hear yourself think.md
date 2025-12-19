@@ -1,15 +1,6 @@
-# It’s hard to hear yourself think
-
-Type of Link: 📝 Article
-Category talked about: Brain
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
-
 # **It’s hard to hear yourself think**
 
 Some related notes:
-
 - [Original thought requires solitude](Original%20thought%20requires%20solitude.md)
 - [Culturally default behaviors fill spare time with others’ ideas](Culturally%20default%20behaviors%20fill%20spare%20time%20with.md)
     - [People prefer doing to thinking](People%20prefer%20doing%20to%20thinking.md)
@@ -25,7 +16,7 @@ Exhortations which help: [[Get curious]]; [Get bored](Get%20bored.md); [Get p
 # Partial list of practices meant to produce deliberateness, receptivity
 
 - Wi-Fi defaults to off in the morning
-- Consistency in [My daily routine](https://notes.andymatuschak.org/zSve33D7x1qe5WUjojDcM9y)
+- Consistency in [[My daily routine]] 
 - Reminding myself that [[The high-order bit for my productivity is whether I complete a deeply-focused morning creative block]], recording/tracking whether that happens and the main blockers / helpers
 - Daily meditation
 - Simple, familiar background music

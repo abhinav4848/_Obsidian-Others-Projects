@@ -13,16 +13,16 @@ Last edited time: January 18, 2024 7:55 PM
 
 For me, the practice of writing and revising notes is, at its core, about trying to move up the following rough ladder:
 
-- Ephemeral scratchings in [Daily working log](Daily%20working%20log.md)
+- Ephemeral scratchings in [[Daily working log]]
 - Prompts and incomplete notes in writing inbox ([A writing inbox for transient and incomplete notes](A%20writing%20inbox%20for%20transient%20and%20incomplete%20notes.md)), which are meant to possibly become [Evergreen Notes](Evergreen%20Notes%208b05f5bf420f4caaad50f6fea2828638.md). These prompts may accumulate writing over time via spaced repetition (see [Spaced repetition may be a helpful tool to incrementally develop inklings](Spaced%20repetition%20may%20be%20a%20helpful%20tool%20to%20incrementally%20develop%20inklings.md))
 - [Evergreen Notes](Evergreen%20Notes%208b05f5bf420f4caaad50f6fea2828638.md), in increasingly complex stages of development:
     - stubs implicitly defined through backlinks ([Backlinks can be used to implicitly define nodes in knowledge management systems](https://notes.andymatuschak.org/zL9q21MA7ygsKVfvn6FwBMq)); e.g. [Note-writing system](https://notes.andymatuschak.org/zGKtrhpZ3hS8bw8UGL8hMTP), [Audiobooks](https://notes.andymatuschak.org/zG91aqpyGEiy8McMHAW7juq)
     - simple definitions for terms of art, little of my own added; e.g. [Span of absolute judgment](https://notes.andymatuschak.org/zMQK1sFXWbVMbSQAsjSTUvm), [**Spacing effect**](Spacing%20effect.md)
-    - [Bridge notes narrowly relate two adjacent terms](https://notes.andymatuschak.org/zRxv4aMPUXowy5bPAiKPJEy)
-    - precise, narrow declarative notes ([Prefer note titles with complete phrases to sharpen claims](Prefer%20note%20titles%20with%20complete%20phrases%20to%20sharpen%20claims.md)); e.g. [Human channel capacity increases with stimulus dimensionality](https://notes.andymatuschak.org/z86ZRZ5s5ykUzGD8v8d33ro)
-    - sometimes these are framed as questions, when evidence is too inconclusive to frame sharply; e.g. [To what extent is exceptional ability heritable?](To%20what%20extent%20is%20exceptional%20ability%20heritable.md), [To what extent can application prompts supplant recall prompts in the mnemonic medium?](https://notes.andymatuschak.org/zMPNEnSC5ihp5MNMdxNJNdJ)
+    - [[Bridge notes narrowly relate two adjacent terms]] 
+    - precise, narrow declarative notes ([[Prefer note titles with complete phrases to sharpen claims]]); e.g. [Human channel capacity increases with stimulus dimensionality](https://notes.andymatuschak.org/z86ZRZ5s5ykUzGD8v8d33ro)
+    - sometimes these are framed as questions, when evidence is too inconclusive to frame sharply; e.g. [To what extent is exceptional ability heritable?](To%20what%20extent%20is%20exceptional%20ability%20heritable.md), [To what extent can application prompts supplant recall prompts in the mnemonic medium?](https://notes.andymatuschak.org/zMPNEnSC5ihp5MNMdxNJNdJ) 
     - higher-level APIs ([Evergreen note titles are like APIs](Evergreen%20note%20titles%20are%20like%20APIs.md))
-    - notes abstracting over many other notes, e.g. [Educational games are a doomed approach to creating enabling environments](https://notes.andymatuschak.org/zUVBJdPc4kBud5fsLmPFpbw), [Reading texts on computers is unpleasant](https://notes.andymatuschak.org/z2bSwDuxY2Jbv1ntLKB3SL1)
+    - notes abstracting over many other notes, e.g. [Educational games are a doomed approach to creating enabling environments](https://notes.andymatuschak.org/zUVBJdPc4kBud5fsLmPFpbw), [[Reading texts on computers is unpleasant]]
     - personal terms of art, e.g. [Enacted experience](https://notes.andymatuschak.org/z92TGMiBsnraf5KXxSTNkBJ)
 - “Outline notes”, e.g. [§Enabling environments, games, and the Primer](https://notes.andymatuschak.org/zGSGS1UHDogPKtvZB5hdT2A)
 
