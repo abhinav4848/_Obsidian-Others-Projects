@@ -1,10 +1,12 @@
 ---
 up:
-  - "[[Concepts]]"
-related: []
-created: 2020-06-01
+  - "[[Concepts Map]]"
 in:
-- "[[Concepts]]"
+  - "[[Concepts]]"
+related: 
+created: 2020-06-01
+rank: 4
+says: Structure must be earned!
 ---
 
 > *[[Structure must be earned]]!* #source/quote/my 

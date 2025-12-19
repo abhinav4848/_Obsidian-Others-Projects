@@ -1,7 +1,6 @@
 ---
 up:
-  - "[[Sources Map]]"
-related: []
+  - "[[Collections]]"
 created: 2020-06-01
 tags:
   - map
@@ -9,7 +8,7 @@ tags:
 
 Welcome to your "commonplace book" of interesting tidbits you've collected. Try clicking on #source/quote to see a couple results. 
 
-> [[Sources Map]] | [[Ideaverse Merged/Atlas/Notes/Ideas/Commonplace Book]] | [[Bookshelf 📚]]
+> [[Collections]] | [[Ideaverse Merged/Atlas/Notes/Things/Commonplace Book]] | [[Bookshelf 📚]]
 
 NOTE: Since I removed the Quotes Pack from Ideaverse for Obsidian, most of the tags below won't populate results. 
 

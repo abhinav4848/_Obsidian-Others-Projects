@@ -4,7 +4,6 @@ up:
 related: []
 created: 2020-06-01
 ---
-
 For some reason I've called important habits a lot of different things over the years. (Maybe I should just call them "Important Habits".)
 
 - **Champion Habits** - a term used in a April 2010 speech.
@@ -15,14 +14,12 @@ For some reason I've called important habits a lot of different things over the 
 - **Power Habits** - December 2016
 - **Resiliency Routines** - habits to rebuild or maintain a sense of control in one's life (May 2018)
 - Others I don't use but that exist
-  - **Atomic Habits** - from James Clear (circa October 2019) At least I'm not alone with the affliction of trying to name really important habits.
+	- **Atomic Habits** - from James Clear (circa October 2019) At least I'm not alone with the affliction of trying to name really important habits.
 
-Related: [[Power Actions]], but that's for another time. (Not included in Ideaverse Lite)
+Related: [[Power Actions]], but that's for another time. (Not included in Ideaverse for Obsidian)
 
 %%
-
 ### Related
-
-PD Lists: 201511121539]]
+PD Lists: 201511121539]] 
 2018 Review: 201901250859
 %%

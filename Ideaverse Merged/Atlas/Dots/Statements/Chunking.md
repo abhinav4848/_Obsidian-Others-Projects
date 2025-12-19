@@ -1,17 +1,17 @@
 ---
 up:
-  - "[[Atlas/Notes/Vaults/Ideaverse/Atlas/Notes/Ideas/Deliberate Practice]]"
-related: []
+  - "[[Atlas/Notes/Vaults/Ideaverse/Atlas/Notes/Things/Deliberate Practice]]"
+related:
+  - "[[Ideaverse Merged/Atlas/Dots/Sources/Analogy as Core (talk)]]"
 created: 2020-06-01
 ---
-
-*It takes years of focused reps to chunk like an expert.*
+ *It takes years of focused reps to chunk like an expert.*
 
 Something tells me Tom Brady and Cam Newton see different things. Cam Newton might be 11 defenders. Something tells me Tom Brady sees larger movements and patterns in the defense that he can't even articulate—but he sees them and makes the right read. 
 
-That's how chunking intersects with expertise, intuition, and [[Atlas/Notes/Vaults/Ideaverse/Atlas/Notes/Ideas/Deliberate Practice]]. Speaking more to [[Ideaverse Merged/Atlas/Dots/People/K. Anders Ericsson (kit)]]'s work with chess masters, Ericsson noticed that chess masters retrieved knowledge from long term memory around meaningful game patterns that novices did not see or understand. It takes years of focused reps to chunk like an expert.
+That's how chunking intersects with expertise, intuition, and [[Atlas/Notes/Vaults/Ideaverse/Atlas/Notes/Things/Deliberate Practice]]. Speaking more to [[K. Anders Ericsson]]'s work with chess masters, Ericsson noticed that chess masters retrieved knowledge from long term memory around meaningful game patterns that novices did not see or understand. It takes years of focused reps to chunk like an expert.
 
-In [[Ideaverse Merged/Atlas/Notes/People/Douglas R. Hofstadter]]'s speech [[Ideaverse Merged/Atlas/Dots/Sources/Analogy as Core (talk)]], he says (paraphrased):
+In [[Ideaverse Merged/Atlas/Dots/People/Douglas R. Hofstadter]]'s speech [[Ideaverse Merged/Atlas/Dots/Sources/Analogy as Core (talk)]], he says (paraphrased):
 > ![[Ideaverse Merged/Atlas/Dots/Sources/Analogy as Core (talk)#^ffe150]]
 
 > [!NOTE]- Some links and content in this note have been removed.

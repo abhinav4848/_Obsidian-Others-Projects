@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Dots/Things/The forest entrance]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Things/The forest entrance]]"
 related: []
 created: 2020-06-01
 ---

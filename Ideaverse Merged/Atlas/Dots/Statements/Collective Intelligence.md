@@ -1,10 +1,8 @@
 ---
 up:
   - "[[Collective Intelligence MOC]]"
-related: []
 created: 2020-06-01
 ---
-
 Later...How would I define this??
 
 ### Wiki

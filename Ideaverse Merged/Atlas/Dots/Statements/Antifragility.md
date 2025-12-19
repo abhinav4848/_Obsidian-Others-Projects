@@ -1,14 +1,14 @@
 ---
 up:
   - "[[Concepts Map]]"
+in:
+  - "[[Concepts]]"
 related:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Natural Selection]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Things/Natural Selection]]"
 created: 2020-06-01
-tags:
-  - concept
+says: Stronger from stressors!
 ---
-
-*Stronger from stressors!*
+ *Stronger from stressors!*
 
 Obi-Wan Kenobi's quote from Star Wars always reminds me of Antifragility:
 
@@ -18,12 +18,12 @@ In a sideways way, this ties into the metaphor of the phoenix being reborn from 
 
 Using alliteration, it's: getting **stronger from stressors**, more settled from shaking, more adaptable from attacks.
 
-In a way, antifragility is a faster form of [[Ideaverse Merged/Atlas/Notes/Ideas/Natural Selection]].
+In a way, antifragility is a faster form of [[Ideaverse Merged/Atlas/Notes/Things/Natural Selection]].
 
 Antifragility is closely related to resilience/robustness, although resilience shouts *"Still standing after stressors!"*
 
 ### Unsorted
-- [[Ideaverse Merged/Atlas/Notes/Ideas/Hormesis]] and the [[Ideaverse Merged/Atlas/Notes/Ideas/Lindy Effect]]
+- [[Ideaverse Merged/Atlas/Notes/Things/Hormesis]] and the [[Ideaverse Merged/Atlas/Notes/Things/Lindy Effect]]
 - Eventually, tie this into my other thoughts: [[201509091056]] (not included in Ideaverse for Obsidian)
 
 ## References

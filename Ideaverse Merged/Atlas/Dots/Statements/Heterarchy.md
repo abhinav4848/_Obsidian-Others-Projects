@@ -1,7 +1,7 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Dots/Things/MOCs Overview]]"
-  - "[[Ideaverse Merged/Atlas/Dots/Things/Idea Emergence (defn)]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Things/MOCs Overview]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Things/Idea Emergence (defn)]]"
 related: []
 created: 2020-06-01
 ---
@@ -9,4 +9,4 @@ A heterarchy is an unranked (non-hierarchical) system of organization, or where 
 
 In a digital library, MOCs are the main example of a heterarchy.
 
-Go to: [[Ideaverse Merged/Atlas/Dots/Things/LYT Glossary]]
+Go to: [[Ideaverse Merged/Atlas/Notes/Things/LYT Glossary]]

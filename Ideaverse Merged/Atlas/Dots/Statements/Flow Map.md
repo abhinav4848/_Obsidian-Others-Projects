@@ -1,11 +1,11 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Dots/Things/FlowCreation MOC]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Things/FlowCreation MOC]]"
 related:
-  - "[[Ideaverse Merged/Atlas/Dots/People/Mihaly Csikszentmihalyi (kit)]]"
+  - "[[Mihaly Csikszentmihalyi]]"
 created: 2016-06-01
 ---
-The [[Ideaverse Merged/Atlas/Dots/Things/Flow Map]] is Dr. Mihaly Csikszentmihalyi's way to describe where [[Ideaverse Merged/Atlas/Dots/Things/Flow]] takes place in regards to the variables: Challenge and Skill. However he came about plotting the two variables against each, it's a landmark discovery. It's a lodestar to which I keep returning. It's the foundation much of my thinking and to my carving of that theory to practical, moment-to-moment application.
+The [[Ideaverse Merged/Atlas/Notes/Things/Flow Map]] is Dr. Mihaly Csikszentmihalyi's way to describe where [[Ideaverse Merged/Atlas/Notes/Things/Flow]] takes place in regards to the variables: Challenge and Skill. However he came about plotting the two variables against each, it's a landmark discovery. It's a lodestar to which I keep returning. It's the foundation much of my thinking and to my carving of that theory to practical, moment-to-moment application.
 
 ![[Ideaverse Merged/x/Images/flow-zone-channel.jpg]]
 
@@ -15,7 +15,7 @@ Later on, Dr. Mihaly used this version to show the different states of mind plot
 
 ### What is my Contribution to Flow Theory?
 
-My contribution to Flow Theory is just to expand on using the Flow Map as a practical tool to adjust one’s state of mind as needed—usually to create the [[Ideaverse Merged/Atlas/Dots/Things/Conditions of Flow]] ([[Ideaverse Merged/Atlas/Dots/Things/FlowCreation Theory]]).
+My contribution to Flow Theory is just to expand on using the Flow Map as a practical tool to adjust one’s state of mind as needed—usually to create the [[Ideaverse Merged/Atlas/Notes/Things/Conditions of Flow]] ([[Ideaverse Merged/Atlas/Notes/Things/FlowCreation Theory]]).
 
 Basically, Mihaly’s Flow Map can be used many times a day as a simple tool to identify one’s current state of mind. That’s the easy part.
 
@@ -24,11 +24,11 @@ The second part is all about how to take that knowledge to improve one’s state
 So you can use the Flow Map as a "State of Mind" Map—a useful guide to manage your state of mind from moment to moment.
 
 1. Find your current state of mind—Maybe ask, "What am I feeling?" or "Where's my head at?"
-2. Create the [[Ideaverse Merged/Atlas/Dots/Things/Conditions of Flow]]—This is where we can develop some [[Ideaverse Merged/Atlas/Dots/Things/FlowCreation Theory]] skills and tactics. 
+2. Create the [[Ideaverse Merged/Atlas/Notes/Things/Conditions of Flow]]—This is where we can develop some [[Ideaverse Merged/Atlas/Notes/Things/FlowCreation Theory]] skills and tactics. 
 
 Say, someone is anxious: they can point to "Anxiety" on the Flow Map and then have a few ideas how to get closer to "Optimal Experience" (Flow). See below:
 
-The obvious answer for creating the [[Ideaverse Merged/Atlas/Dots/Things/Conditions of Flow]] is to reduce the level of Challenge or to increase the level of Skill (as the map above shows).
+The obvious answer for creating the [[Ideaverse Merged/Atlas/Notes/Things/Conditions of Flow]] is to reduce the level of Challenge or to increase the level of Skill (as the map above shows).
 ![[Ideaverse Merged/x/Images/flow-map.png]]
 
-The less obvious answer is *HOW*. That's about developing some awareness and skills, along with having some tools and tactics handy. See more about that at [[Ideaverse Merged/Atlas/Dots/Things/FlowCreation Theory]]. 
+The less obvious answer is *HOW*. That's about developing some awareness and skills, along with having some tools and tactics handy. See more about that at [[Ideaverse Merged/Atlas/Notes/Things/FlowCreation Theory]]. 

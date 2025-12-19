@@ -1,10 +1,12 @@
 ---
 up:
-  - "[[Concepts]]"
-related: []
-created: 2017-01-01
+  - "[[Concepts Map]]"
 in:
-- "[[Concepts]]"
+  - "[[Concepts]]"
+related: 
+created: 2017-01-01
+rank: 4.5
+says: Reps, Reps, Reps.
 ---
  *"Reps, Reps, Reps."*   ^dbdd21
 
@@ -12,9 +14,9 @@ Learning, improving, deliberate practice…the underpinning of it all—the unsp
 
 In practicing a craft, just show up, and get reps: tiny reps, technical reps, reps from questions, reps by observation, reps by research, reps, reps, consistent, persistent reps! 
 
-Repetitions strengthen neural pathways, which I think of in terms of [[Ideaverse Merged/Atlas/Dots/Things/Cobwebs into Cables]].
+Repetitions strengthen neural pathways, which I think of in terms of [[Ideaverse Merged/Atlas/Notes/Things/Cobwebs into Cables]].
 
-When working on a specific craft, and when you've passed a threshold of basic competence, then it's valuable to identify specific areas to work on and to drill them deliberately. This is called [[Ideaverse Merged/Atlas/Dots/Things/Deliberate Practice]], a term coined by the "expert on experts" [[Ideaverse Merged/Atlas/Dots/People/K. Anders Ericsson (kit)]].
+When working on a specific craft, and when you've passed a threshold of basic competence, then it's valuable to identify specific areas to work on and to drill them deliberately. This is called [[Atlas/Notes/Vaults/Ideaverse/Atlas/Notes/Things/Deliberate Practice]], a term coined by the "expert on experts" [[K. Anders Ericsson]].
 
 > [!NOTE]- Some links and content in this note have been removed.
 > Because this is a vertical slice of my actual PKM system, I can't include everything in this vault and left out some notes and material for ease of navigation and understanding the concepts (rather than getting lost in the knowledge) as well as for privacy. 

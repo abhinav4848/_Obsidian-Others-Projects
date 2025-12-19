@@ -6,13 +6,13 @@ created: 2022-05-11
 modified: 2023-08-25
 ---
 
-# Ideaverse for Obsidian - Release Notes
+# Ideaverse for Obsidian 1.0 - Release Notes
 *Released 2023-08-30*
 **Headlines**
 - Introduced the [[Home]] note with ACE head spaces.
 	- Provide multiple examples of 
 	- Provided a basic ARC Framework (Add, Relate, Communicate) for developing ideas into outputs.
-- Introduced the [[Ideaverse Merged/Atlas/Notes/Ideas/ACE Folder Framework]].
+- Introduced the [[ACE Headspace]].
 	- Provided ACE with multiple notes and examples.
 - Introduced a working system for [[Efforts]] based on intensities. 
 	- Provided "Efforts" with multiple examples.

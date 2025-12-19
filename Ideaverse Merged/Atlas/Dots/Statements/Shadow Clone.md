@@ -1,12 +1,14 @@
 ---
 up:
+  - "[[Concepts Map]]"
+in:
   - "[[Concepts]]"
-  - "[[Cloning]]"
 related:
   - "[[Multiplicity]]"
+  - "[[Cloning]]"
 created: 2020-06-01
-in:
-- "[[Concepts]]"
+rank: 3.8
+says: Divide your energies to accomplish more, at the cost of increasing your fragility, exposure, and vulnerability
 ---
  _Divide your energies to accomplish more, at the cost of increasing your fragility, exposure, and vulnerability_
 
@@ -49,7 +51,7 @@ It is like a prism splitting a single light into many colors. It likely _comes f
 - It *causes* the dispersion of attention and effort.
 - It *contributes to* strategic diversions and ploys.
 - It is *negated by* [[Singularity]], the concept of being one and undivided.
-- It is *supercharged by* [[Ideaverse Merged/Atlas/Dots/Things/The Id]], the unconscious part of the personality that drives these duplications.
+- It is *supercharged by* [[Ideaverse Merged/Atlas/Notes/Things/The Id]], the unconscious part of the personality that drives these duplications.
 
 - It is _related to_ [[Parallel Computing]], [[Doppelgänger]], and [[Quantum Superposition]].
 

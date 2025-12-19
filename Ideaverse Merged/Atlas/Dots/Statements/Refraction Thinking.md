@@ -1,11 +1,14 @@
 ---
 up:
   - "[[Thinking Map]]"
-related: []
+in:
+  - "[[Concepts]]"
+related:
+  - "[[Lens-bending]]"
 created: 2019-01-01
 modified: 2023-03-22
-in:
-- "[[Concepts]]"
+rank: 4.2
+says: Thinking about ONE thing, through the lens of ANOTHER thing.
 ---
  *Thinking about ONE thing, through the lens of ANOTHER thing.*
 
@@ -34,7 +37,7 @@ Continue the essay: [[Concepts are prisms that bend the light around any thought
 ---
 
 ## More
-See [[Concepts]] for a bunch of excellent lenses to refract your thinking. Here are a few others that are nice to keep handy:
+See [[Concepts Map]] for a bunch of excellent lenses to refract your thinking. Here are a few others that are nice to keep handy:
 
 - The 7 Dimensions of Wellness
 - The 4 Stoic Virtues

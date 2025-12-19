@@ -1,10 +1,13 @@
 ---
 up:
-  - "[[Concepts]]"
-related: []
-created: 2020-06-01
+  - "[[Concepts Map]]"
 in:
-- "[[Concepts]]"
+  - "[[Concepts]]"
+related:
+  - "[[Spirited Away]]"
+created: 2020-06-01
+rank: 4.5
+says: I'm the self-destructive primal tension everybody harbors.
 ---
  *The self-destructive primal tension everybody harbors.*  
 
@@ -12,7 +15,7 @@ No-Face is a spirit in the 2001 Japanese animated film Spirited Away. According 
 
 - If "you are what you eat," No-Face eats the emotions of whatever is in front of it. It's reactive, not proactive.
 
-No-Face is aroused by (and absorbs) primal tension and aggressive drives, easily becoming a self-perpetuating feedback loop of hot emotions. It's essentially Freud's [[Ideaverse Merged/Atlas/Dots/Things/The Id|Id]].
+No-Face is aroused by (and absorbs) primal tension and aggressive drives, easily becoming a self-perpetuating feedback loop of hot emotions. It's essentially Freud's [[Ideaverse Merged/Atlas/Notes/Things/The Id|Id]].
 
 ### Handling No-Face
 `Do Not Engage!` — When the primal part of people take over, it's like they become No-Face. Do not perpetuate the aggression No-Face feeds off of. No-Face is best deflated by choosing not to respond aggressively (ie, sinking to its level), but rather by calling upon your reserves of discipline to enter a mindset of restraint and non-reaction; benevolence and patience—with an eye towards the well-being of the attacker while still holding your own.
@@ -20,9 +23,9 @@ No-Face is aroused by (and absorbs) primal tension and aggressive drives, easily
 In this way, you are not feeding the libido, but letting itself wear itself out. Just as No-Face's aggressions are dissipated by Chihiro in Spirited Away.
  
  There is an art to handling self-perpetuating aggressiveness. 
- Look to [[Ideaverse Merged/Atlas/Dots/Things/Aikido]] for more insights into deflecting and dissipating an attacker's energy.
+ Look to [[Ideaverse Merged/Atlas/Notes/Things/Aikido]] for more insights into deflecting and dissipating an attacker's energy.
 
 ### Related
-| [[Ideaverse Merged/Atlas/Dots/Things/Aikido]] | [[Ideaverse Merged/Atlas/Dots/Things/The Id]] | 
+| [[Ideaverse Merged/Atlas/Notes/Things/Aikido]] | [[Ideaverse Merged/Atlas/Notes/Things/The Id]] | 
 
 (previous thoughts: is *organum indifferens*, neither good nor evil; an emotion mirror, it becomes its environment)

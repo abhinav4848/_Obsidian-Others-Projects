@@ -1,15 +1,14 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/FlowCreation MOC]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Things/FlowCreation MOC]]"
 related: []
 created: 2020-06-01
 ---
-
-Think of Direction like "Goals." It's great to have goals, but there is a point of Diminishing Return. Too many goals creates too many Directions. Think of the [[Ideaverse Merged/Atlas/Notes/Ideas/evaporated in a thousand follies''|Abbe Faria's sage advice]] that too many goals make them all evaporate into *"a thousand follies."*
+Think of Direction like "Goals." It's great to have goals, but there is a point of Diminishing Return. Too many goals creates too many Directions. Think of the [[–evaporated in a thousand follies|Abbe Faria's sage advice]] that too many goals make them all evaporate into *"a thousand follies."*
 
 ### Subsets of Direction
 - Goals — Goals basically define the Direction you're going to take.
-- Virtues — At the core of every decision we make are invisible values. The values of highest importance create your virtues, which are your most valuable abilities in which to be really skilled. It's important to define your own Virtues. I have my [[Ideaverse Merged/Atlas/Notes/Ideas/Four Virtues]].
+- Virtues — At the core of every decision we make are invisible values. The values of highest importance create your virtues, which are your most valuable abilities in which to be really skilled. It's important to define your own Virtues. I have my [[Ideaverse Merged/Atlas/Notes/Things/Four Virtues]].
 
 ## Main Factors Governing Direction
 - Nature — Your DNA predisposes you to desire some things more than others

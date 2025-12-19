@@ -1,11 +1,12 @@
 ---
 up:
   - "[[Habits Map]]"
+in:
+  - "[[Concepts]]"
 related:
   - "[[Ideaverse Merged/Atlas/Notes/Ideas/Habits carry a ton of hidden inertia]]"
 created: 2020-06-01
-in:
-  - "[[Concepts]]"
+says: The more you feed me, the more I feed you.
 ---
  *"The more you feed me, the more I feed you." - Feedback Loop*
 

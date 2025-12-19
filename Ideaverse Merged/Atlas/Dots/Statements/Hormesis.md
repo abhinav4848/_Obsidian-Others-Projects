@@ -1,14 +1,15 @@
 ---
 up:
-  - "[[Concepts]]"
-related: []
-created: 2020-06-01
+  - "[[Concepts Map]]"
 in:
-- "[[Concepts]]"
+  - "[[Concepts]]"
+related: 
+created: 2020-06-01
+tags: []
 ---
  *Stronger from stressors.*
 
-Hormesis ties in tightly with [[Ideaverse Merged/Atlas/Dots/Things/Antifragility]].
+Hormesis ties in tightly with [[Ideaverse Merged/Atlas/Notes/Things/Antifragility]].
 
 > [!NOTE]- Some links and content in this note have been removed.
 > Because this is a vertical slice of my actual PKM system, I can't include everything in this vault and left out some notes and material for ease of navigation and understanding the concepts (rather than getting lost in the knowledge) as well as for privacy. 

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Dots/Things/MOCs Overview]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Things/MOCs Overview]]"
 related: []
 created: 2020-06-01
 ---

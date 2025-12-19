@@ -1,11 +1,13 @@
 ---
 up:
-  - "[[MOCs Overview]]"
-related: []
-created: 2020-06-01
+  - "[[Ideaverse Merged/Atlas/Notes/Things/MOCs Overview]]"
 in:
-- "[[Concepts]]"
-  - note/boat🚤
+  - "[[Concepts]]"
+related:
+created: 2020-06-01
+tags:
+  - note/connect🚤
+rank: 3
 ---
 The Ancient Greeks and Romans filled their minds with tomes of knowledge that they could recall when needed. 
 

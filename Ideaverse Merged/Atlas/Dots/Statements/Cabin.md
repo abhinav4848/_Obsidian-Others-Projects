@@ -1,4 +1,3 @@
-
 The cabin is my epicenter.
 
 •

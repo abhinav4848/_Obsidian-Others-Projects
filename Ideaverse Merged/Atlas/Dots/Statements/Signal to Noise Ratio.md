@@ -1,11 +1,14 @@
 ---
 up:
-  - "[[Concepts]]"
-related: []
-created: 2020-06-01
+  - "[[Concepts Map]]"
 in:
-- "[[Concepts]]"
-  - note/boat🚤
+  - "[[Concepts]]"
+related: 
+created: 2020-06-01
+tags:
+  - note/connect🚤
+rank: 4
+says: Just because you can, doesn't mean you should.
 ---
 
 > Just because you can, doesn't mean you should. 

@@ -1,11 +1,13 @@
 ---
-up: []
-related:
-  - "[[Like begets like]]"
-created: 2020-06-01
+up:
 in:
-- "[[Concepts]]"
-  - note/boat🚤
+  - "[[Concepts]]"
+related:
+  - "[[Ideaverse Merged/Atlas/Notes/Things/Like begets like]]"
+created: 2020-06-01
+tags:
+  - note/connect🚤
+rank: 3.9
 ---
 aka Immortal Gene
 

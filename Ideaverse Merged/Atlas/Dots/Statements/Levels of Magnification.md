@@ -1,11 +1,13 @@
 ---
 up:
   - "[[Thinking Map]]"
-related:
-  - "[[Ideaverse Merged/Atlas/Dots/Things/Refraction Thinking]]"
-created: 2018-06-18
 in:
   - "[[Concepts]]"
+related:
+  - "[[Ideaverse Merged/Atlas/Notes/Things/Refraction Thinking]]"
+created: 2018-06-18
+rank: 5
+says: There are many ways to look
 ---
 
 > [!NOTE]+
@@ -25,4 +27,4 @@ I have found it useful to use three different levels of magnification when looki
 - **Practical** (Meso) — No fancy language, just the actual how-to of something
 - **Technical** (Micro) — The nuts and bolts, diving deep into the specifics of a thing
 
-See also: [[Ideaverse Merged/Atlas/Dots/Things/Refraction Thinking]]
+See also: [[Ideaverse Merged/Atlas/Notes/Things/Refraction Thinking]]

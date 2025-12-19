@@ -22,7 +22,7 @@ created: 2020-06-01
 - **I've heard hierarchies and structures are bad.**
 	- That can be true. But it's also not true.
 	- Yes, a note buried deep in a series of cascading folders is harder to access. Folders act to limit a note's availability. They bury notes. This can be bad in that it reduces your potential *avenues towards note retrieval*. [^1] A note should be able to live freely and connect to as many notes as needed without restriction. 
-	- That's why MOCs (Maps of Content) are magicians: *they don't limit access; they curate it* (See [[Ideaverse Merged/Atlas/Notes/Ideas/Why Categories for Your Notes are a Good Idea]]). MOCs exist in parallel with all your other notes. It's like having the ability to turn on an augmented overlay on top of your existing notes. They add context without constraint, freedom without friction. (Read more on MOCs at [[Ideaverse Merged/Atlas/Dots/Things/MOCs Overview]])
+	- That's why MOCs (Maps of Content) are magicians: *they don't limit access; they curate it* (See [[Ideaverse Merged/Atlas/Notes/Ideas/Why Categories for Your Notes are a Good Idea]]). MOCs exist in parallel with all your other notes. It's like having the ability to turn on an augmented overlay on top of your existing notes. They add context without constraint, freedom without friction. (Read more on MOCs at [[Ideaverse Merged/Atlas/Notes/Things/MOCs Overview]])
 - **How much friction will it take to manage this over time and how will it all fare if there are periods of time when I don't take the minimum amount of care to keep it updated?**
 	- (@ryanjamurphy): There are “good” and “bad” kinds of knowledge management janitorial work. Good kinds involve discovering new insights and refining your knowledge, bad kinds involve distractions and degrade your work.
 	- (@nickmilo): I can only speak from experience, but I have gone months without looking at my digital library, many times. That's actually why I craved and created the home note and MOCs: so I could immediately reconnect with my notes. Maybe it's a philosophy, but everything should just manage itself after it's set up. I don't think of it as extra tasks.
@@ -50,7 +50,7 @@ Ideas are solutions to problems. They are original creations or thoughts. They a
 
 ---
 *Q: Okay then...What is LYT?*
-A: LYT stands for "Linking Your Thinking". It is a proven framework for knowledge management based on using links to enhance your thinking. It articulates the theory of [[Ideaverse Merged/Atlas/Dots/Things/Idea Emergence (defn)]], and uses higher-order notes called "Maps of Content" (MOCs). See [[Ideaverse Merged/Atlas/Dots/Things/LYT Frameworks]].
+A: LYT stands for "Linking Your Thinking". It is a proven framework for knowledge management based on using links to enhance your thinking. It articulates the theory of [[Ideaverse Merged/Atlas/Notes/Things/Idea Emergence (defn)]], and uses higher-order notes called "Maps of Content" (MOCs). See [[Ideaverse Merged/Atlas/Notes/Things/LYT Frameworks]].
 
 Use LYT to create your ideaverse. 
 
@@ -75,7 +75,7 @@ A: No you don't, especially when you have less than a couple hundred notes. But 
 
 ---
 *Q: What's an MOC?*
-A: An MOC stands for "Map of Content". MOCs may be the most important thinking tool you can use with your zettelkasten. [[Ideaverse Merged/Atlas/Dots/Things/MOCs Overview]]
+A: An MOC stands for "Map of Content". MOCs may be the most important thinking tool you can use with your zettelkasten. [[Ideaverse Merged/Atlas/Notes/Things/MOCs Overview]]
 
 ---
 *Q: How would you describe Maps of Content?*

@@ -1,11 +1,9 @@
 ---
 up:
-  - "[[Concepts]]"
+  - "[[Concepts Map]]"
   - "[[Thinking Map]]"
-related: []
+related: 
 created: 2020-06-01
-in:
-- "[[Concepts]]"
 ---
 
 ## Short List of Munger's Models

@@ -2,13 +2,12 @@
 up:
   - "[[Ideaverse Map]]"
 related:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Evergreen notes]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Things/Evergreen notes]]"
 created: 2020-06-01
 ---
-
 A BOAT note is a "Block of Atomic Thought" floating alone in an empty ocean... 🚤 ^706f5c
 
-- [[Ideaverse Merged/Atlas/Notes/Ideas/Evergreen notes]] are well-linked, fully formed members of society.
+- [[Ideaverse Merged/Atlas/Notes/Things/Evergreen notes]] are well-linked, fully formed members of society.
 - BOAT notes are teenagers: still growing and forming a unique personality.
 
 In this way:

@@ -1,12 +1,12 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Idea Emergence (defn)]]"
-related: []
+  - "[[Ideaverse Merged/Atlas/Notes/Things/Idea Emergence (defn)]]"
 created: 2020-06-01
 ---
+
 **Bottom-up thinking** is where your thinking is driven by encountering ideas and connecting/developing them organically. 
 
 PRO: Allows for emergent thinking.
 CON: Can feel a little too chaotic at times. 
 
-See: [[Ideaverse Merged/Atlas/Notes/Ideas/Idea Emergence (defn)]]
+See: [[Ideaverse Merged/Atlas/Notes/Things/Idea Emergence (defn)]]

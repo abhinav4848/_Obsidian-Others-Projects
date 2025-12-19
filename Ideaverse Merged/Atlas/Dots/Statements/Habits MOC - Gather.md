@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Dots/Things/The 3 Phases of MOCs]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Things/The 3 Phases of MOCs]]"
 related: []
 created: 2020-06-01
 ---
@@ -13,13 +13,13 @@ For our walkthrough, I decided to compile old notes I collected on the topic of 
 [[2013-03-10 Habit Planning]]
 [[2015-02-20 Habit Formation Research Article]]
 [[2015-02-20 Habit Concepts and Theory]]
-[[Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book)]]
+[[Atlas/Notes/Vaults/Ideaverse/Atlas/Notes/Sources/Atomic Habits (book)]]
 [[2019-01-25 Resiliency Routines]]
 
 I have only "gathered" the links. They are not organized yet. That happens in the next phase:
 
 ---
-Next: [[Ideaverse Merged/Atlas/Dots/Things/Habits MOC - Collide]]
+Next: [[Ideaverse Merged/Atlas/Notes/Things/Habits MOC - Collide]]
 
 
 

@@ -4,8 +4,7 @@ up:
 related: []
 created: 2011-06-01
 ---
-
-*Train to improve.*
+ *Train to improve.*
 
 ## Sources
 ### Performance Psychology

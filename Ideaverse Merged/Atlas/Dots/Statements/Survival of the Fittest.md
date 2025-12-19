@@ -3,8 +3,8 @@ up: []
 related: []
 created: 2017-06-01
 tags:
-  - note/boat🚤
-coined: "1864"
+  - note/connect🚤
+emerged: 1864
 ---
 
 

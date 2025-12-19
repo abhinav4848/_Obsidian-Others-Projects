@@ -22,5 +22,5 @@ So even though folders alone are rigid, if you expertly use Fluid Frameworks—i
 That's why we're here: to become skilled and confident with how we are deploying the tools that we have to structure our notes in the best way possible.
 
 ---
-- See the inspiration for using the term "fluid" at [[Ideaverse Merged/Atlas/Dots/Things/Fluid Taxonomies]].
+- See the inspiration for using the term "fluid" at [[Ideaverse Merged/Atlas/Notes/Things/Fluid Taxonomies]].
 - For more see: [[Ideaverse Merged/Atlas/Dots/Things/Benefits of LYT frameworks]]

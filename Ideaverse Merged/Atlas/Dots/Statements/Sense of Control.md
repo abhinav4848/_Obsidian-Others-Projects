@@ -3,7 +3,7 @@ up: []
 related: []
 created: 2020-06-01
 tags:
-  - note/boat🚤
+  - note/connect🚤
 ---
 a good example of a boat note
 

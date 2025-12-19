@@ -1,13 +1,13 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/LYT Mode Theme]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Things/LYT Mode Theme]]"
 related: []
 created: 2020-01-12
 dates: 2020 - 2022
 ---
 
 > [!NOTE]+ Should I use Cybertron or LYT Mode?
-> You should use the [[Ideaverse Merged/Atlas/Notes/Ideas/LYT Mode Theme]]. 
+> You should use the [[Ideaverse Merged/Atlas/Notes/Things/LYT Mode Theme]]. 
 > 
 > Cybertron has been replaced by it.
 > 
@@ -46,6 +46,6 @@ I use **Bold Words** for calling out nouny things (most of the time), and I'll u
 
 
 ##### And then there was a cassette player
-Working your way around bumpy bumps and stumpy stumps, your foot knocks against something. "That's not a rock," is your first thought, followed quickly by, "That's the sound of cheap plastic!" You look down and find a dusty cassette player. You've heard about these from your grandpa. After some time (longer than you'd like to admit), you find the eject button, and study the tape inside. On the back side, scrawled in blue pen, are the words: "In case of a focus emergency". You put the tape back in and [[Ideaverse Merged/Atlas/Notes/Ideas/In case of a focus emergency|press play]].
+Working your way around bumpy bumps and stumpy stumps, your foot knocks against something. "That's not a rock," is your first thought, followed quickly by, "That's the sound of cheap plastic!" You look down and find a dusty cassette player. You've heard about these from your grandpa. After some time (longer than you'd like to admit), you find the eject button, and study the tape inside. On the back side, scrawled in blue pen, are the words: "In case of a focus emergency". You put the tape back in and [[Ideaverse Merged/Atlas/Notes/Things/In case of a focus emergency|press play]].
 
 ---

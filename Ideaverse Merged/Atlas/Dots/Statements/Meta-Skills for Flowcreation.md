@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Dots/Things/FlowCreation MOC]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Things/FlowCreation MOC]]"
 related: []
 created: 2020-06-01
 ---
@@ -9,8 +9,8 @@ What's the goal here? The goal is to Balance Challenge and Skill to get into flo
 Here are the mental steps—the meta-skills—surrounding conscious flowcreation:
 
 1. Awareness of your current state
-2. Creating the [[Ideaverse Merged/Atlas/Dots/Things/Conditions of Flow]]
-3. Maintain your Flow — Check out the [[Ideaverse Merged/Atlas/Dots/Things/Four Factors of Flow]] and learn how you can use these factors to govern and control the levers of flow.
+2. Creating the [[Ideaverse Merged/Atlas/Notes/Things/Conditions of Flow]]
+3. Maintain your Flow — Check out the [[Ideaverse Merged/Atlas/Notes/Things/Four Factors of Flow]] and learn how you can use these factors to govern and control the levers of flow.
 4. Turnover and refresh yourself
 
 %%

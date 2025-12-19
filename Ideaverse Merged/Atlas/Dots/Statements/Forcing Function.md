@@ -1,11 +1,14 @@
 ---
 up:
-  - "[[Concepts]]"
-related: []
-created: 2020-06-01
+  - "[[Concepts Map]]"
 in:
-- "[[Concepts]]"
+  - "[[Concepts]]"
+related: 
+created: 2020-06-01
+tags:
   - note/develop🍃
+rank: 5
+says: I am the bumper guards for the bowling ball.
 ---
 Generally speaking, 
 *I am the bumper guards for the bowling ball.*

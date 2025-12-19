@@ -3,7 +3,7 @@ up:
   - "[[🌍 PKM Planet (OE)]]"
 related:
   - "[[LYT Notes 8]]"
-  - "[[📹 Videos (OE) (Example)]]"
+  - "[[Videos (OE) (Example)]]"
 created: 2021-04-19
 tags:
   - output/youtube☑️

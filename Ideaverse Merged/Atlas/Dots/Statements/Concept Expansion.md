@@ -1,12 +1,12 @@
 ---
 up:
   - "[[Concepts Map]]"
-related: []
+in:
+  - "[[Concepts]]"
+related:
+  - "[[Ideaverse Merged/Atlas/Dots/Sources/Analogy as Core (talk)]]"
 created: 2020-06-01
-tags:
-  - concept
 ---
-
 Take a word, any word, and just start using it in different ways. Each new instance expands our sense of the word.
 
 Here's [[Ideaverse Merged/Atlas/Dots/Sources/Analogy as Core (talk)]]'s example of shadow: a shadow from the sun…then a snow shadow…then a rain shadow…a familial shadow…in the shadow of a big event…the gulf stream. Suddenly instead of a tree casting a shadow on the ground, it's England casting a shadow on the northern parts of Scandinavia. 

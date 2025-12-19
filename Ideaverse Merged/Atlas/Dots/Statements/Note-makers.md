@@ -2,7 +2,7 @@
 up:
   - "[[Ideaverse Merged/Atlas/Dots/Things/On the process of note-making]]"
 related:
-  - "[[Ideaverse Merged/Atlas/Dots/Things/Note-takers]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Things/Note-takers]]"
   - "[[Note-making is good because...]]"
 created: 2020-05-20
 ---
@@ -14,7 +14,7 @@ This creates a positive feedback loop to encourage more active, engaged thinking
 
 Along with note-makers just generally being more interesting people to be around, they also are able to contribute much more value to their families, communities, and society as a whole.
 
-Contrast this ideal of the note-maker with the pandemic of [[Ideaverse Merged/Atlas/Dots/Things/Note-takers]].
+Contrast this ideal of the note-maker with the pandemic of [[Ideaverse Merged/Atlas/Notes/Things/Note-takers]].
 
 > [!NOTE]- Some links and content in this note have been removed.
 > Because this is a vertical slice of my actual PKM system, I can't include everything in this vault and left out some notes and material for ease of navigation and understanding the concepts (rather than getting lost in the knowledge) as well as for privacy. 
