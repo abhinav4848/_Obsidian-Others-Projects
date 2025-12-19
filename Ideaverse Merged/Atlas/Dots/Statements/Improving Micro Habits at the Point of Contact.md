@@ -5,8 +5,7 @@ related: []
 created: 2014-06-28
 modified: 2020-05-28
 ---
-
-**Micro Habits**: These are super tiny, hidden habits that happen without us usually being aware of them; but that can majorly impact our state of mind.
+ **Micro Habits**: These are super tiny, hidden habits that happen without us usually being aware of them; but that can majorly impact our state of mind.
 
 Micro Habits happen at a moment called "The Point of Contact"
 
@@ -22,7 +21,7 @@ The POC emerges out of the fog of the subconscious. Sometime we pinpoint it soon
 **The Dual Mind**
 The Dual Mind refers to the conscious/subconscious minds. 
 
-We need to develop the skills, awareness, and intuition to identify POCs that can derail our day; so we can effectively deal with them like a master in [[Ideaverse Merged/Atlas/Notes/Ideas/Aikido]] would.
+We need to develop the skills, awareness, and intuition to identify POCs that can derail our day; so we can effectively deal with them like a master in [[Ideaverse Merged/Atlas/Dots/Things/Aikido]] would.
 
 #### Two Micro Habits to improve:
 1. Recognize harmful POCs

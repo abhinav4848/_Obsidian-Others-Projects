@@ -3,10 +3,9 @@ up:
   - "[[Philosophy MOC (kit)]]"
 related: []
 created: 2010-06-01
-tags:
-  - concept
+in:
+- "[[Concepts]]"
 ---
-
 The concept was delivered by Edward James Olmos in Joaquin Phoenix's quasi-spoof movie "I'm Here". 
 
 Although the movie was hard to watch and not enjoyable, I appreciated that the journey of the Mountain Top Water Drop was essentially the through line of the film. It that sense, it's actually quite poetic.
@@ -20,7 +19,7 @@ Although the movie was hard to watch and not enjoyable, I appreciated that the j
 ### A daily cycle
 One way to look at this metaphor is on a daily cycle.
 
-A day's work takes you to the river, lake, or ocean. Sleep evaporates you into the clouds. Waking up puts you back as a [[Ideaverse Merged/Atlas/Notes/Ideas/Mountain Top Water Drop]]. ^7248b9
+A day's work takes you to the river, lake, or ocean. Sleep evaporates you into the clouds. Waking up puts you back as a [[Ideaverse Merged/Atlas/Dots/Things/Mountain Top Water Drop]]. ^7248b9
 
 ### Misc
 The Musician "Tha Playah" used this speech in his track "On The Edge".

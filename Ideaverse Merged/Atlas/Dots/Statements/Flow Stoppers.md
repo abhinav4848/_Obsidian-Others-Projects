@@ -1,10 +1,9 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/FlowCreation MOC]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Things/FlowCreation MOC]]"
 related: []
 created: 2020-06-01
 ---
-
 Find which inhibitor (or two) is currently in the worst shape for you. It is likely a completely different one than it was two hours ago. That's normal because we're constantly living, acting, and reacting to Life.
 
 ### Attention
@@ -22,4 +21,4 @@ Find which inhibitor (or two) is currently in the worst shape for you. It is lik
 **Low Motivation**
 **Low Self-Worth** — This covers any self-esteem issue: self-critiquing, the feeling of "not good enough," worrying too much, feeling ashamed, feeling anxious and overwhelmed.
 
-Now that we've seen the main Flow Stoppers, let's check out the main [[Ideaverse Merged/Atlas/Notes/Ideas/Solutions to Flow Stoppers]].
+Now that we've seen the main Flow Stoppers, let's check out the main [[Ideaverse Merged/Atlas/Dots/Things/Solutions to Flow Stoppers]].

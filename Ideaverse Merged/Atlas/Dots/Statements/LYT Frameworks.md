@@ -4,7 +4,6 @@ up:
 related: []
 created: 2020-06-01
 ---
-
 LYT stands for "Linking Your Thinking".
 
 The LYT framework super-charges your digital library by giving you the ability to use fluid frameworks—like MOCs and a Home note—to enhance your ability to find things, create things, and develop ideas over time.
@@ -22,8 +21,8 @@ LYT provides a framework for your notes. You can find them. You can work with th
 3. **Other Fluid Frameworks** -  Adding structure to your notes has gotten a bad rap lately. But if you know how to keep your frameworks fluid, you'll get the best of both worlds: order *and* chaos; excellent note retrieval *and* the serendipity of discovery. More on this later. <!--with fluid structures, The LYT Framework emphasizes linked frameworks.-->
 ---
 ## The forest keeps winding...
-You reach a particularly interesting fork in the overgrown trail. You can continue on the main path and read about the [[Ideaverse Merged/Atlas/Notes/Ideas/Benefits of LYT frameworks]].
+You reach a particularly interesting fork in the overgrown trail. You can continue on the main path and read about the [[Ideaverse Merged/Atlas/Dots/Things/Benefits of LYT frameworks]].
 
-Or you can start mapping the forest's unique landscape. Just go to: [[Ideaverse Merged/Atlas/Notes/Ideas/Set Up Your Home Note]].
+Or you can start mapping the forest's unique landscape. Just go to: [[Ideaverse Merged/Atlas/Dots/Things/Set Up Your Home Note]].
 
 Or, you can climb the tallest Ent-like tree to get your bearings at a note called [[Home]].

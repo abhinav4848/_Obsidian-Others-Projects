@@ -4,7 +4,6 @@ up:
 related: []
 created: 2020-06-01
 ---
-
 This is a brief overview of MOCs. An M—O—C is a cluster of information that maps "things" in context with other "things".
 
 - MOC stands for **Maps of Content** because these notes *map* the contents of some of your notes.
@@ -14,13 +13,13 @@ This is a brief overview of MOCs. An M—O—C is a cluster of information that 
 ## When to use MOCs
 The ability to know when and how to make an MOC is a key skill in overcoming overwhelm and project slowdown.
 
-Whenever you start to feel that tickle of overwhelm ([[Ideaverse Merged/Atlas/Notes/Ideas/Mental Squeeze Point]]), that's when you need to *become a cartographer of your own content* and create a new MOC. 
+Whenever you start to feel that tickle of overwhelm ([[Ideaverse Merged/Atlas/Dots/Things/Mental Squeeze Point]]), that's when you need to *become a cartographer of your own content* and create a new MOC. 
 
 For example, let's say you have 20 scattered notes on the project you’re making. Just like putting 20 index cards on an inviting rustic workbench, putting links to all 20 notes into a new MOCs is the digital equivalent.
 
 What is a mental squeeze point? 
 
-![[Ideaverse Merged/Atlas/Notes/Ideas/Mental Squeeze Point#^64cf60a6]]
+![[Ideaverse Merged/Atlas/Dots/Things/Mental Squeeze Point#^64cf60a6]]
 
 (That's from a bottom-up starting point. You will also want to use MOCs to make sense out of existing knowledge from a top-down starting point.)
 
@@ -32,5 +31,5 @@ What is a mental squeeze point?
 5. The MOC also **acts as a reminding tool** on a subject. Years later you can quickly return to it and remember, "Oh I remember now, that's what I thought about the how the evolution of fonts related to the broader movements of Art History!"
 6. The MOC **remains ready to evolve** as your thoughts grow, mature, develop complexity on a subject. 
 7. MOCs **maintain their fluidity**: As opposed to folders, MOCs are nondestructive, non-restrictive, non-limiting perspectives. Unlike a folder, you are not forced to use them to access your notes. MOCs are “overlays” that add relevant information but that don't affect your base level notes. 
-8. MOCs **allow for limitless flexibility**. Unlike folders or Table of Contents (TOC), MOCs are not hierarchical. They are [[Ideaverse Merged/Atlas/Notes/Ideas/Heterarchy|heterarchical]]. This means that different MOCs can map the same info in different ways, to fit whatever your current needs might be.
-9. MOCs **encourage "Relational Positioning"**: Don't argue with the Ancient Greeks and Romans about the [[Ideaverse Merged/Atlas/Notes/Ideas/Method of Loci|value of spatial relationships]]. It helps us remember better when ideas are not floating in isolation, but as a part of a spatial constellation.
+8. MOCs **allow for limitless flexibility**. Unlike folders or Table of Contents (TOC), MOCs are not hierarchical. They are [[Ideaverse Merged/Atlas/Dots/Things/Heterarchy|heterarchical]]. This means that different MOCs can map the same info in different ways, to fit whatever your current needs might be.
+9. MOCs **encourage "Relational Positioning"**: Don't argue with the Ancient Greeks and Romans about the [[Ideaverse Merged/Atlas/Dots/Things/Method of Loci|value of spatial relationships]]. It helps us remember better when ideas are not floating in isolation, but as a part of a spatial constellation.

@@ -5,7 +5,6 @@ related: []
 created: 2015-02-20
 modified: 2020-05-28
 ---
-
 To break through the a-curve plateau, we must get out of our newly established "automatic mindset", and return to a beginner's "cognitive mindset". 
 
 Physical development by strength training is the clearest example. 

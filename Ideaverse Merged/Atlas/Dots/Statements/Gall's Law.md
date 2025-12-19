@@ -1,10 +1,10 @@
 ---
 up:
-  - "[[Concepts Map]]"
+  - "[[Concepts]]"
 related: []
 created: 2020-06-01
-tags:
-  - concept
+in:
+- "[[Concepts]]"
 ---
 
 > *[[Structure must be earned]]!* #source/quote/my 

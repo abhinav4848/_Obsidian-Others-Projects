@@ -2,10 +2,10 @@
 up:
   - "[[Thinking Map]]"
 related:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Refraction Thinking]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Things/Refraction Thinking]]"
 created: 2018-06-18
-tags:
-  - concept
+in:
+  - "[[Concepts]]"
 ---
 
 > [!NOTE]+
@@ -25,4 +25,4 @@ I have found it useful to use three different levels of magnification when looki
 - **Practical** (Meso) — No fancy language, just the actual how-to of something
 - **Technical** (Micro) — The nuts and bolts, diving deep into the specifics of a thing
 
-See also: [[Ideaverse Merged/Atlas/Notes/Ideas/Refraction Thinking]]
+See also: [[Ideaverse Merged/Atlas/Dots/Things/Refraction Thinking]]

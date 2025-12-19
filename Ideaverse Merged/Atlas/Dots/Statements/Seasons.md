@@ -1,13 +1,12 @@
 ---
 up:
-  - "[[Concepts Map]]"
+  - "[[Concepts]]"
 related: []
 created: 2020-06-01
 tags:
   - note/develop🍃
 ---
-
-The seasons are a natural example of [[Ideaverse Merged/Atlas/Notes/Ideas/Yin and Yang]]...ebb and flow...It's usually a duality but it doesn't have to be a duality. Many things are cyclical: the seasons, perennials, period's for women, the moon, hunger and satiation...
+The seasons are a natural example of [[Ideaverse Merged/Atlas/Dots/Things/Yin and Yang]]...ebb and flow...It's usually a duality but it doesn't have to be a duality. Many things are cyclical: the seasons, perennials, period's for women, the moon, hunger and satiation...
 
 Other things may be cyclical and also be in stages, like how Hermann Hesse's characters (Siddhartha, Joseph Knecht) go through their different stages of life, similar to the idea of the stages of personal development (dependence, independence, interdependence), which both can map to the xy graph for progression overload—the idea behind building muscular strength through cumulative cycles. 
 - pre-industrial metaphor = grow

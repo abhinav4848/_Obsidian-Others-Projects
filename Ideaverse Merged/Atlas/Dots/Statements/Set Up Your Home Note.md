@@ -19,11 +19,11 @@ Your Home note is your north star, navigating you to your Maps of Content (MOCs)
 
 That's the basic process.
 
-Remember, the structure works *for you*, not the other way around (See [[Ideaverse Merged/Atlas/Notes/Ideas/Is LYT For Me]]). You can always just create thousands of notes without looking at the home note once. 
+Remember, the structure works *for you*, not the other way around (See [[Ideaverse Merged/Atlas/Dots/Things/Is LYT For Me]]). You can always just create thousands of notes without looking at the home note once. 
 
 ---
 ### Advanced steps
 1. In the [[Home]] note, start customizing the links to suit your personal needs. Less is more at the start of your journey. A bulleted list can be faster to work in (and easier to maintain) than a complicated table.
 2. Play around, break things. Some categories you thought would work won't. That's fine, just rejigger things until they work better for you.
 
-For more guidance on this, go to: [[Ideaverse Merged/Atlas/Notes/Ideas/Figuring out your Home MOCs]]
+For more guidance on this, go to: [[Ideaverse Merged/Atlas/Dots/Things/Figuring out your Home MOCs]]

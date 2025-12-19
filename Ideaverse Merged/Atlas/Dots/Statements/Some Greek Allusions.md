@@ -4,7 +4,6 @@ up:
 related: []
 created: 2020-06-01
 ---
-
 Many of the words we use today are actually allusions to historical figures and Greek Gods. Here are just a few examples:
 Greek
 
@@ -13,7 +12,7 @@ Like other uses of simile, this example functions to help readers visualize the 
 - Achilles’ heel – a weakness a person may have. Achilles was invulnerable, except for his heel (achilles tendon).
 - Adonis – a handsome younger man; Aphrodite loved him.
 - Apollo – a physically perfect male; the God of music and light, Apollo was known for his physical beauty.
-- [[Ideaverse Merged/Atlas/Notes/People/Cassandra]] – a person who continually predicts misfortune, but often is not believed.
+- [[Ideaverse Merged/Atlas/Dots/People/Cassandra]] – a person who continually predicts misfortune, but often is not believed.
 - Erotic – of or having to do with sexual passion or love. Eros was the Greek god of love.
 - Harpy – a predatory person or nagging woman. Comes from “harpy,” a foul creature that was part woman, part bird.
 - Helen – symbol of a beautiful woman; from Helen of Troy.

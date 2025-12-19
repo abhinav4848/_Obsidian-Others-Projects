@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/The 3 Phases of MOCs]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Things/The 3 Phases of MOCs]]"
 related: []
 created: 2020-06-01
 ---
@@ -13,7 +13,7 @@ Great work is accomplished during in this conceptual battle royale. The product 
 ## Day 1
 Naturally, excitedly, organically—without a task manager telling me what to do—I open up a note—[[2015-02-20 Habit Concepts and Theory]]—and I craft it into an evergreen note. But I when I try to name it, I realize it's too big, so I split it up into two evergreen notes:
 
-[[Ideaverse Merged/Atlas/Notes/Ideas/The neural formation of habits is additive - v1]]
+[[Ideaverse Merged/Atlas/Dots/Things/The neural formation of habits is additive - v1]]
 [[Ideaverse Merged/Atlas/Notes/Ideas/The truest habit metaphors are additive - v1]]
 
 And I have even more stuff remaining in that note but I haven't figured out what to call it yet.
@@ -37,29 +37,29 @@ Now look at your collected notes and the questions will just arrive, unforced: *
 
 You naturally work yourself into a state of Flow and time becomes timeless; effort effortless. Here were my results:
 
-- [[Ideaverse Merged/Atlas/Notes/Ideas/The neural formation of habits is additive]] - This note shrank. It went into other notes, most notably a new evergreen note on the evolutionary function of habits.
+- [[Ideaverse Merged/Atlas/Dots/Things/The neural formation of habits is additive]] - This note shrank. It went into other notes, most notably a new evergreen note on the evolutionary function of habits.
 	- [[Ideaverse Merged/Atlas/Notes/Ideas/The truest habit metaphors are additive]] - I already had this note
 - [[Ideaverse Merged/Atlas/Notes/Ideas/An asymptotic curve models the development of skills, strength, habits, and more]] - I wanted to single out the importance of a graph curve in describing habits and a bunch of other stuff
-	- [[Ideaverse Merged/Atlas/Notes/Ideas/The mechanism for breaking through development plateaus]] - The other half of the coin is figuring out how to "game" this curve to avoid plateaus to our developments
+	- [[Ideaverse Merged/Atlas/Dots/Things/The mechanism for breaking through development plateaus]] - The other half of the coin is figuring out how to "game" this curve to avoid plateaus to our developments
 
 --- 
-- [[Ideaverse Merged/Atlas/Notes/Ideas/Understanding the habit cycle and habitual cues]] - this started as notes from The Power of Habit, but I reduced its scope when I gave it a clear title.
-	- [[Ideaverse Merged/Atlas/Notes/Ideas/Charting out habit cycles in my life circa 2013]] - here's a practical way to chart out habits
+- [[Ideaverse Merged/Atlas/Dots/Things/Understanding the habit cycle and habitual cues]] - this started as notes from The Power of Habit, but I reduced its scope when I gave it a clear title.
+	- [[Ideaverse Merged/Atlas/Dots/Things/Charting out habit cycles in my life circa 2013]] - here's a practical way to chart out habits
 	- [[Ideaverse Merged/Atlas/Notes/Ideas/How Atomic Habits fit into the conversation on habits]] - I had notes from a book on habits, but tried to re-fashion it more tightly into the rest of this corpus on habits
 	- [[Ideaverse Merged/Atlas/Notes/Ideas/Resiliency Routines help regain a sense of control]] - this is partially a journal but it's valuable to the conversation on habits
-	- [[Ideaverse Merged/Atlas/Notes/Ideas/Words I've used to describe important habits]] - this is more like a journal; it's of limited value to others
+	- [[Ideaverse Merged/Atlas/Dots/Things/Words I've used to describe important habits]] - this is more like a journal; it's of limited value to others
 
 - [[Ideaverse Merged/Atlas/Notes/Ideas/Habit formation provides an evolutionary advantage]] - This was talked about in several notes, but it needed to be a foundational point.
 - [[Ideaverse Merged/Atlas/Notes/Ideas/Habits carry a ton of hidden inertia]] - While writing about how neural formations strengthen, I tried to figure out how to best express the hidden momentum of habits. It needed its own note.
 
-- [[Ideaverse Merged/Atlas/Notes/Ideas/Defining a habit]] - I realized I needed a note define the actual thing I've been talking about
+- [[Ideaverse Merged/Atlas/Dots/Things/Defining a habit]] - I realized I needed a note define the actual thing I've been talking about
 
 I also try to keep track of the standalone concepts I've roped in here:
-[[Ideaverse Merged/Atlas/Notes/Ideas/Feedback Loop]]
-[[Ideaverse Merged/Atlas/Notes/Ideas/Cobwebs into Cables]]
-[[Ideaverse Merged/Atlas/Notes/Ideas/Newton's Laws of Motion]]
-[[Ideaverse Merged/Atlas/Notes/Ideas/Natural Selection]]
-[[Ideaverse Merged/Atlas/Notes/Ideas/Survival of the Fittest]]
+[[Ideaverse Merged/Atlas/Dots/Things/Feedback Loop]]
+[[Ideaverse Merged/Atlas/Dots/Things/Cobwebs into Cables]]
+[[Ideaverse Merged/Atlas/Dots/Things/Newton's Laws of Motion]]
+[[Ideaverse Merged/Atlas/Dots/Things/Natural Selection]]
+[[Ideaverse Merged/Atlas/Dots/Things/Survival of the Fittest]]
 [[Selfish Gene TK]]
 
 ---

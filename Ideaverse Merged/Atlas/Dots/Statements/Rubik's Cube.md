@@ -1,10 +1,10 @@
 ---
 up:
-  - "[[Concepts Map]]"
+  - "[[Concepts]]"
 related: []
 created: 2020-06-01
-tags:
-  - concept
+in:
+- "[[Concepts]]"
 ---
 
 ### Themes
@@ -12,7 +12,7 @@ tags:
     - There can never be a white edge next to a white edge, therefore, there are constraints, meaning there are not infinite permutations, there are patterns, structure built into the chaos, but it's only chaos, unless you know what to look for, which is where practice and experience give help you see the patterns.
 - Pattern Recognition
     - When solving a cube, you're looking for a pattern. *If* this pattern, *then* that algorithm. 
-    - See [[Ideaverse Merged/Atlas/Notes/Ideas/OODA Loop]]
+    - See [[Ideaverse Merged/Atlas/Dots/Things/OODA Loop]]
 - Repetitions/Experience lead to Pattern Recognition and Muscle Memory
     - See Reps 
 - Multi-dimensional thinking

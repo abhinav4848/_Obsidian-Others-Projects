@@ -16,12 +16,12 @@ Can I share with you the basic process?
 	- [[2015-02-20 Habit Concepts and Theory]]
 - It's rough and less useful than it could be.
 - I made a new note to work in, and eventually it became this:
-	- [[Ideaverse Merged/Atlas/Notes/Ideas/The neural formation of habits is additive - v1]]
+	- [[Ideaverse Merged/Atlas/Dots/Things/The neural formation of habits is additive - v1]]
 - Now I have an evergreen note.
 - Can you see why the second note is so much more valuable?
 - Because now I can return to this note and add more valuable to it over time. 
 - That's what I did. A few days later, I returned to that note and developed it further:
-	- [[Ideaverse Merged/Atlas/Notes/Ideas/The neural formation of habits is additive]]
+	- [[Ideaverse Merged/Atlas/Dots/Things/The neural formation of habits is additive]]
 - "Wait a second!" You say. "Where did most of it go?"
 - That's the beauty. Through the *note-making* process, I realized my note was actually trying to say multiple things. 
 - And since I wanted to be able to link to each idea separately, I made them into separate notes. Here's the other one:
@@ -47,13 +47,13 @@ What am I even talking about here?
 
 I'm talking about **Maps of Content**—also known as MOCs.
 
-You simple must go through the [[Ideaverse Merged/Atlas/Notes/Ideas/The 3 Phases of MOCs]] to learn more about how to enhance your *note-making* using MOCs.
+You simple must go through the [[Ideaverse Merged/Atlas/Dots/Things/The 3 Phases of MOCs]] to learn more about how to enhance your *note-making* using MOCs.
 
 Before you click that link though, let's finish the big picture. 
 
 Do you see at the top of this note, how I have a link "up" to the [[Ideaverse Map]]? There is something powerful in linking your notes together. It allows you lightning fast navigation—especially back to your Home note. In this case, it's simple:
 
-- This note, [[Ideaverse Merged/Atlas/Notes/Ideas/On the process of note-making]]
+- This note, [[Ideaverse Merged/Atlas/Dots/Things/On the process of note-making]]
 	- ...leads back to [[Ideaverse Map]]...
 		- ...which leads back to the [[Home]] note!
 
@@ -63,5 +63,5 @@ Pretty awesome in my opinion.
 
 ---
 
-Next, learn about MOCs in [[Ideaverse Merged/Atlas/Notes/Ideas/The 3 Phases of MOCs]].
+Next, learn about MOCs in [[Ideaverse Merged/Atlas/Dots/Things/The 3 Phases of MOCs]].
 

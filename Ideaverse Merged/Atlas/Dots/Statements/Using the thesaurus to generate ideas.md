@@ -4,8 +4,7 @@ up:
 related: []
 created: 2020-06-01
 ---
-
-*Let's treat words like ideas*
+ *Let's treat words like ideas*
 
 This is an example of using something as fundamental as WORDS to generate ideas and opinions.
 

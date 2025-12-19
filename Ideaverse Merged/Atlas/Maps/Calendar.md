@@ -17,4 +17,4 @@ Our ideas and experiences are wrapped up in a linear movement we call **Time**. 
 
 Notes allow you to time travel. It's how Present You can receive messages from Past You and send messages to Future you. 
 
-Need help to [[Ideaverse Merged/Atlas/Dots/Things/Define your time-style]]?
+Need help to [[Define your time-style]]?

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[ Videos (OE) (Example)]]"
+  - "[[📹 Videos (OE) (Example)]]"
 related: []
 created: 2020-06-01
 tags:
@@ -64,10 +64,10 @@ Here's a test for you: Look at the notes you've taken from 2 to 3 years ago. How
 
 If the answer is none, or if it sounds like I'm speaking a foreign language, then you might benefit from learning how to make notes and link ideas that nourish your soul now, and keep growing in value long into the future. 
 
-There's [[Ideaverse Merged/Atlas/Notes/Ideas/The forest entrance|a workshop]] just for that. 
+There's [[Ideaverse Merged/Atlas/Dots/Things/The forest entrance|a workshop]] just for that. 
 
 %% *PSA* jingle "the more you know" %% 
 %% This is just another public service announcement from Linking Your Thinking! %%
 
 ---
-Next: [[Ideaverse Merged/Atlas/Notes/Ideas/What are higher-order notes]]
+Next: [[Ideaverse Merged/Atlas/Dots/Things/What are higher-order notes]]

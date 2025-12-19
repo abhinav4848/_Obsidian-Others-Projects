@@ -2,10 +2,9 @@
 up:
   - "[[Ideaverse Map]]"
 related:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Fluid Frameworks]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Things/Fluid Frameworks]]"
 created: 2020-06-01
 ---
-
 Fluid Taxonomies is a term coined by [[Steen Comer]], which came up in our conversations about MOCs and other ways of managing knowledge.
 
 Steen wrote:
@@ -34,4 +33,4 @@ Then to summarize the conversation, Steen riffed on the Discordian quote:
 
 Steen is one of those people who makes you think. Check out their stuff here: http://mediapathic.net
 
-Back to [[Ideaverse Merged/Atlas/Notes/Ideas/Fluid Frameworks]]
+Back to [[Ideaverse Merged/Atlas/Dots/Things/Fluid Frameworks]]

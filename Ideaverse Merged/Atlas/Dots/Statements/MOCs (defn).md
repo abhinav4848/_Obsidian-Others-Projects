@@ -1,10 +1,9 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/MOCs Overview]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Things/MOCs Overview]]"
 related: []
 created: 2020-06-01
 ---
-
 An M—O—C is a cluster of information that maps "things" in context with other "things".
 
 Practically, this means that MOCs can help you *gather, develop, and navigate ideas*. That's why its important to view MOC's as "mapping" notes. You are the map-maker. You are the cartographer. As you make and customize the map, you are making sense of some part of the world that matters to you.

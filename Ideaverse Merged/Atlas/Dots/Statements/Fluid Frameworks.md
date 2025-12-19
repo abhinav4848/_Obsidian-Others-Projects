@@ -4,8 +4,7 @@ up:
 related: []
 created: 2020-06-01
 ---
-
-*Fluid frameworks are non-rigid, highly-flexible organizing structures that you can use as needed.* When we talk about fluid frameworks in the "Linking Your Thinking" System, we're mainly referring to higher-order notes like MOCs and the Home note (but a balanced use of MOCs, folders, tags, and queries can also maintain a fluid structure).
+ *Fluid frameworks are non-rigid, highly-flexible organizing structures that you can use as needed.* When we talk about fluid frameworks in the "Linking Your Thinking" System, we're mainly referring to higher-order notes like MOCs and the Home note (but a balanced use of MOCs, folders, tags, and queries can also maintain a fluid structure).
 
 Fluid frameworks are not mutually exclusive. That means a note with its link in an MOC, doesn't exclusively live in the MOC note. A note can live and link freely. A note can be discovered in as many places as it's referenced. These are the fundamentals of linking notes together. 
 
@@ -23,5 +22,5 @@ So even though folders alone are rigid, if you expertly use Fluid Frameworks—i
 That's why we're here: to become skilled and confident with how we are deploying the tools that we have to structure our notes in the best way possible.
 
 ---
-- See the inspiration for using the term "fluid" at [[Ideaverse Merged/Atlas/Notes/Ideas/Fluid Taxonomies]].
-- For more see: [[Ideaverse Merged/Atlas/Notes/Ideas/Benefits of LYT frameworks]]
+- See the inspiration for using the term "fluid" at [[Ideaverse Merged/Atlas/Dots/Things/Fluid Taxonomies]].
+- For more see: [[Ideaverse Merged/Atlas/Dots/Things/Benefits of LYT frameworks]]

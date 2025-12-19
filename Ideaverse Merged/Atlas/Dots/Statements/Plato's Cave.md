@@ -8,10 +8,9 @@ tags:
 people:
   - "[[Plato]]"
 ---
+When you return and tell everyone their beliefs are wrong...What happens is the same thing that happened to [[Copernicus]] and [[Gallileo]] and [[Jesus]] and... They don't like that because they lose a [[Ideaverse Merged/Atlas/Dots/Things/Sense of Control]].
 
-When you return and tell everyone their beliefs are wrong...What happens is the same thing that happened to [[Copernicus]] and [[Gallileo]] and [[Jesus]] and... They don't like that because they lose a [[Ideaverse Merged/Atlas/Notes/Ideas/Sense of Control]].
-
-I relate this to [[Ideaverse Merged/Atlas/Notes/Ideas/Dimensions of Reality]], in which our friend "A Square" from [[1884 - Flatland]] faces a similar predicament. 
+I relate this to [[Ideaverse Merged/Atlas/Dots/Things/Dimensions of Reality]], in which our friend "A Square" from [[1884 - Flatland]] faces a similar predicament. 
 
 > [!NOTE]- Some links and content in this note have been removed.
 > Because this is a vertical slice of my actual PKM system, I can't include everything in this vault and left out some notes and material for ease of navigation and understanding the concepts (rather than getting lost in the knowledge) as well as for privacy. 

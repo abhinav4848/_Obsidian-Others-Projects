@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/FlowCreation MOC]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Things/FlowCreation MOC]]"
 related: []
 created: 2018-06-01
 modified: 2019-06-01

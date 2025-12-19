@@ -1,27 +1,26 @@
 ---
 up: []
 related:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/MOCs Overview]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Things/MOCs Overview]]"
 created: 2020-06-01
 ---
-
 Welcome to the walkthrough on MOCs. Maps of Content are one of the ultimate thinking tools. But how do you unlock this new superpower?
 
 In the real world it looks like this: you read something interesting on a topic—let's say on "habits"—and you make a note. 
 
 Later on, you make more notes on the same topic. Hmm, you say, "I'm starting to worry I might lose some of these ideas." 
 
-So to overcome this [[Ideaverse Merged/Atlas/Notes/Ideas/Mental Squeeze Point]], you go ahead and make a new special kind of note...
+So to overcome this [[Ideaverse Merged/Atlas/Dots/Things/Mental Squeeze Point]], you go ahead and make a new special kind of note...
 
 MOCs have three basic, overlapping phases. Here is the outline you can expect to follow:
 
-- [[Ideaverse Merged/Atlas/Notes/Ideas/The 3 Phases of MOCs]]
-	- [[Ideaverse Merged/Atlas/Notes/Ideas/Habits MOC - Gather]]
-	- [[Ideaverse Merged/Atlas/Notes/Ideas/Habits MOC - Collide]]
+- [[Ideaverse Merged/Atlas/Dots/Things/The 3 Phases of MOCs]]
+	- [[Ideaverse Merged/Atlas/Dots/Things/Habits MOC - Gather]]
+	- [[Ideaverse Merged/Atlas/Dots/Things/Habits MOC - Collide]]
 	- [[Habits Map]] - Navigate
-- [[Ideaverse Merged/Atlas/Notes/Ideas/The 3 Phases of MOCs, a coda]]
+- [[Ideaverse Merged/Atlas/Dots/Things/The 3 Phases of MOCs, a coda]]
 
 ---
 
-Next, go to [[Ideaverse Merged/Atlas/Notes/Ideas/Habits MOC - Gather]]
+Next, go to [[Ideaverse Merged/Atlas/Dots/Things/Habits MOC - Gather]]
 

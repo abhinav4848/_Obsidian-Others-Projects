@@ -4,7 +4,6 @@ up:
 related: []
 created: 2020-06-01
 ---
-
 Ideas are often forged in argument where opposing propositions are set against each other. 
 
 This is what happens when notes are placed in a room together and forced to figure things out. 

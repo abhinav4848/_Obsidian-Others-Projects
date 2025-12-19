@@ -4,7 +4,6 @@ up:
 related: []
 created: 2021-06-01
 ---
-
 This is amazing. I'm just typing. 
 
 Then I hit the publish button.

@@ -1,13 +1,12 @@
 ---
 up: []
 related:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Like begets like]]"
+  - "[[Like begets like]]"
 created: 2020-06-01
-tags:
-  - concept
+in:
+- "[[Concepts]]"
   - note/boat🚤
 ---
-
 aka Immortal Gene
 
 An individual organism is a throwaway Survival Machine for the self-replicating coded information which it contains. - Richard Dawkins

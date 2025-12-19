@@ -7,7 +7,6 @@ tags:
   - people
 dates: 100 - 170
 ---
-
 Ptolemy was a Greek guy living in Alexandria, Egypt, where the biggest library in the world was. 
 
 And so what did Ptolemy do? He read...and he looked at the stars a lot. 

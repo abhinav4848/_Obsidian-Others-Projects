@@ -1,13 +1,12 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/MOCs Overview]]"
+  - "[[MOCs Overview]]"
 related: []
 created: 2020-06-01
-tags:
-  - concept
+in:
+- "[[Concepts]]"
   - note/boat🚤
 ---
-
 The Ancient Greeks and Romans filled their minds with tomes of knowledge that they could recall when needed. 
 
 The underlying principle was the "Method of Loci" (loci being Latin for "places"). 

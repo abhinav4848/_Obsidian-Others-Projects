@@ -3,13 +3,13 @@ up:
   - "[[Charles Darwin]]"
 related: []
 created: 2020-06-01
-tags:
-  - concept
+in:
+- "[[Concepts]]"
   - note/tidy🧹
 ---
 One of the most monumental of all concepts. So many fascinating angles. 
 
-[[Ideaverse Merged/Atlas/Notes/Ideas/Natural Selection]] is closely related to [[Ideaverse Merged/Atlas/Notes/Ideas/Hormesis]] and [[Ideaverse Merged/Atlas/Notes/Ideas/Antifragility]].
+[[Ideaverse Merged/Atlas/Dots/Things/Natural Selection]] is closely related to [[Ideaverse Merged/Atlas/Dots/Things/Hormesis]] and [[Ideaverse Merged/Atlas/Dots/Things/Antifragility]].
 
 > [!NOTE]- Some links and content in this note have been removed.
 > Because this is a vertical slice of my actual PKM system, I can't include everything in this vault and left out some notes and material for ease of navigation and understanding the concepts (rather than getting lost in the knowledge) as well as for privacy. 

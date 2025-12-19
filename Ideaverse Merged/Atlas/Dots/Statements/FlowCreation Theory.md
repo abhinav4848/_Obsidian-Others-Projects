@@ -1,22 +1,25 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/FlowCreation MOC]]"
-related: []
+  - "[[Ideaverse Merged/Atlas/Dots/Things/FlowCreation MOC]]"
+related:
+  - "[[Ideaverse Merged/Atlas/Dots/Things/Conditions of Flow]]"
 created: 2020-06-01
 ---
 
-[[Ideaverse Merged/Atlas/Notes/Ideas/FlowCreation Theory]] is about creating the [[Ideaverse Merged/Atlas/Notes/Ideas/Conditions of Flow]], not actually Creating Flow, because Flow cannot directly be created. You can only create the conditions of flow, and give yourself the best chance of entering it. %%(Nick, go deeper at [[Flow, Insights, and Acting cannot be forced]] - not included in the Ideaverse for Obsidian)%%
+[[Ideaverse Merged/Atlas/Dots/Things/FlowCreation Theory]] is about creating the [[Ideaverse Merged/Atlas/Dots/Things/Conditions of Flow]], not actually Creating Flow, because Flow cannot directly be created. You can only create the conditions of flow, and give yourself the best chance of entering it. %%(Nick, go deeper at [[Flow, Insights, and Acting cannot be forced]] - not included in the Ideaverse Lite)%%
 
 Let's look at the Flow Map with a bunch of extra descriptors added:
-![[Ideaverse Merged/_attachments/flow-map.png]]
+![[Ideaverse Merged/x/Images/flow-map.png]]
 
 There are just two steps:
-1. Find your current state of mind—Maybe ask, "What am I feeling?" or "Where's my head at?" Use the [[Ideaverse Merged/Atlas/Notes/Ideas/Flow Map]] for this.
-2. Work on creating the [[Ideaverse Merged/Atlas/Notes/Ideas/Conditions of Flow]].
+
+1. Find your current state of mind—Maybe ask, "What am I feeling?" or "Where's my head at?" Use the [[Ideaverse Merged/Atlas/Dots/Things/Flow Map]] for this.
+2. Work on creating the [[Ideaverse Merged/Atlas/Dots/Things/Conditions of Flow]].
 
 It's that second step where some skills and tactics are important...
 
 ### Use specific Skills and Tactics to Create the Conditions of Flow
+
 There are four broad areas to cover when setting up the conditions for Flow. Here is an example of each:
 
 1. "I'm Anxious, I'm feeling confused." Do I know what to focus on right now? Am I doing the thing I should be doing right now? If this is the issue, then my Direction isn't solid. How can I improve my clarity about what to do? How can I reduce the amount of competing actions to take?
@@ -26,4 +29,4 @@ There are four broad areas to cover when setting up the conditions for Flow. Her
 
 ## Four Factors of Flow
 
-I have found that using the Flow Map to find your current State of Mind is a valuable exercise to improving it. Equally valuable is using it to find any glaring weaknesses in the elements that help create a good State of Mind. I have found that there are essentially [[Ideaverse Merged/Atlas/Notes/Ideas/Four Factors of Flow]]. They are: [[Ideaverse Merged/Atlas/Notes/Ideas/Direction (re Flow)]], [[Ideaverse Merged/Atlas/Notes/Ideas/Attention (re Flow)]], [[Ideaverse Merged/Atlas/Notes/Ideas/Enthusiasm (re Flow)]], and [[Ideaverse Merged/Atlas/Notes/Ideas/Energy (re Flow)]]. The best way to improve your experience is to identify what you're lacking, and then taking actions to strengthen that area.
+I have found that using the Flow Map to find your current State of Mind is a valuable exercise to improving it. Equally valuable is using it to find any glaring weaknesses in the elements that help create a good State of Mind. I have found that there are essentially [[Ideaverse Merged/Atlas/Dots/Things/Four Factors of Flow]]. They are: [[Ideaverse Merged/Atlas/Dots/Things/Direction (re Flow)]], [[Ideaverse Merged/Atlas/Dots/Things/Attention (re Flow)]], [[Ideaverse Merged/Atlas/Dots/Things/Enthusiasm (re Flow)]], and [[Ideaverse Merged/Atlas/Dots/Things/Energy (re Flow)]]. The best way to improve your experience is to identify what you're lacking, and then taking actions to strengthen that area.

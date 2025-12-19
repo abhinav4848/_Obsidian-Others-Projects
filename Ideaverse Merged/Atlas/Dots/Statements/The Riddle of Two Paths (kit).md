@@ -1,10 +1,9 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Trust the process (kit)]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Things/Trust the process (kit)]]"
 related: []
 created: 2020-02-16
 ---
-
 On your journey to happiness, you come to a fork in the road where upon two identical twin trolls with hooked noses and big, thick sausage fingers are lounging on five feet tall tree stumps eating rabbit. 
 
 You've heard of this place—and these trolls. One fork on the road leads to Happiness: where all your friends and family are waiting to throw you a party and play your favorite music and dance around the fire laughing.

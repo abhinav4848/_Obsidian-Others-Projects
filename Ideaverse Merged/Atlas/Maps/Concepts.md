@@ -12,7 +12,7 @@ Just like the primordial goop that collided together billions of years ago to sp
 ## Daily reminders of powerful concepts
 Why not string out these ideas into paragraphs? What a way to unearth hidden connections!
 
-Starting some days, I'll consider how to apply three *strategic* mental models: [[Ideaverse Merged/Atlas/Dots/Things/OODA Loop]], [[Ideaverse Merged/Atlas/Dots/Things/Levels of Magnification]], and [[Ideaverse Merged/Atlas/Dots/Things/Refraction Thinking]]. 
+Starting some days, I'll consider how to apply three *strategic* mental models: [[OODA Loop]], [[Ideaverse Merged/Atlas/Dots/Things/Levels of Magnification]], and [[Ideaverse Merged/Atlas/Dots/Things/Refraction Thinking]]. 
 
 For my work as an editor/AE in TV, I know to improve my craft means the steady application of getting [[Ideaverse Merged/Atlas/Dots/Things/Reps]], creating the conditions for [[Ideaverse Merged/Atlas/Dots/Things/Flow]], which involves environmental  [[Ideaverse Merged/Atlas/Dots/Things/Forcing Function|Forcing Functions]], and considering when I can multitask [[Ideaverse Merged/Atlas/Dots/Things/Shadow Clone]]. 
 

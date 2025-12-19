@@ -1,8 +1,8 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Is LYT For Me]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Things/Is LYT For Me]]"
 related:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/The Riddle of Two Paths (kit)]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Things/The Riddle of Two Paths (kit)]]"
   - "[[Ideaverse Merged/Atlas/Notes/Ideas/The Riddle IS the Answer (kit)]]"
 created: 2019-08-13
 ---

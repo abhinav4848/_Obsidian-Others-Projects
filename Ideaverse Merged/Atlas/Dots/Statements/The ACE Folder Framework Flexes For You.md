@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/ACE Folder Framework]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Things/ACE Folder Framework]]"
 created: 2023-08-06
 cssclasses:
   - wide-page
@@ -43,9 +43,6 @@ The navigator has more experience with knowledge management. That means they hav
 > > 		- Sources
 > > 		- Vaults
 > > 		- X
-> > 	- Utilities
-> > 		- Images
-> > 		- Templates
 > 
 > > [!NOTE]+ Atlas Commentary
 > > - When you have a forest of ideas, how do you not get lost? By putting your mapping notes in `Maps`. 

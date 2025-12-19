@@ -1,13 +1,12 @@
 ---
 up:
-  - "[[Concepts Map]]"
+  - "[[Concepts]]"
 related: []
 created: 2020-06-01
-tags:
-  - concept
+in:
+- "[[Concepts]]"
   - note/develop🍃
 ---
-
 Generally speaking, 
 *I am the bumper guards for the bowling ball.*
 but if used smartly,

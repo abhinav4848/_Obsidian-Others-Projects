@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Set Up Your Home Note]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Things/Set Up Your Home Note]]"
 related: []
 created: 2020-06-01
 ---

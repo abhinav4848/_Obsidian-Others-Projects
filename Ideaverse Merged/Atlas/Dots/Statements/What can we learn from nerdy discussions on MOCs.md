@@ -4,14 +4,13 @@ up:
 related: []
 created: 2020-06-01
 ---
-
 Sometimes the best way of understanding something is hearing what people have to say about it. 
 
 *What is an MOC, in 10 seconds?*
 
 - A non-exclusive folder with a completely customized organizational structure.
 - In an MOC, the party is always happening. It's the "room where it happens." Individual notes can “shadow-clone” themselves and essentially be in multiple parties simultaneous—interacting and developing complexity from each party at the same time!
-- Another way to consider MOCs is through "Idea Emergence". MOCs are [[Ideaverse Merged/Atlas/Notes/Ideas/Evergreen notes]], just at the next level of emergence.
+- Another way to consider MOCs is through "Idea Emergence". MOCs are [[Ideaverse Merged/Atlas/Dots/Things/Evergreen notes]], just at the next level of emergence.
 
 ---
 
@@ -24,7 +23,7 @@ Sometimes the best way of understanding something is hearing what people have to
 	- Making MOCs don't distract from note creating and writing, they *are* note creating and writing. 
 	- That's where the magic happens. 
 	- What is the magic? It's having a thinking tool that forces difficult conversations, that highlights holes in arguments, that shines a bright light on ideas that to be developed further. 
-	- See [[Ideaverse Merged/Atlas/Notes/Ideas/MOCs are Dialectics]] for more on this terribly awesome power. 
+	- See [[Ideaverse Merged/Atlas/Dots/Things/MOCs are Dialectics]] for more on this terribly awesome power. 
 
 ---
 

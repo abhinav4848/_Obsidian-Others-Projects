@@ -31,4 +31,8 @@ For as much complexity as there can be in PKM, managing efforts ***by intensity*
 
 ---
 
-You can see more about how these four intensities can become four folders: [[Ideaverse Merged/Atlas/Notes/Ideas/The ACE Folder Framework Flexes For You]].
+You can see more about how these four intensities can become four folders: [[Ideaverse Merged/Atlas/Dots/Things/The ACE Folder Framework Flexes For You]].
+
+## Related
+> [!Video]+ Youtube Video
+>[How to Manage Projects with Four Intensities - YouTube](https://youtu.be/Ew7ZBu4r8vg?si=n1ja6XNE3SHUeZlK)

@@ -16,7 +16,7 @@ Charles Duhigg made popular a three-step process of habit formation. Later, Jame
 
 For more, see [[Ideaverse Merged/Atlas/Notes/Ideas/How Atomic Habits fit into the conversation on habits]].
 
-Duhigg calls the most important habits "Keystone Habits". These are the special habits, that by doing, make all the other habits that much easier to accomplish. I've identified my keystone habits, which I'm coining as "resiliency routines" because my mindset has been forever altered by the concept of [[Ideaverse Merged/Atlas/Notes/Ideas/Antifragility]]. See which [[Ideaverse Merged/Atlas/Notes/Ideas/Resiliency Routines help regain a sense of control]].
+Duhigg calls the most important habits "Keystone Habits". These are the special habits, that by doing, make all the other habits that much easier to accomplish. I've identified my keystone habits, which I'm coining as "resiliency routines" because my mindset has been forever altered by the concept of [[Ideaverse Merged/Atlas/Dots/Things/Antifragility]]. See which [[Ideaverse Merged/Atlas/Notes/Ideas/Resiliency Routines help regain a sense of control]].
 
 ### Types of habitual cues
 1. Location
@@ -25,4 +25,4 @@ Duhigg calls the most important habits "Keystone Habits". These are the special 
 4. Other People
 5. Immediately preceding action
 
-Here's an example of me [[Ideaverse Merged/Atlas/Notes/Ideas/Charting out habit cycles in my life circa 2013]].
+Here's an example of me [[Ideaverse Merged/Atlas/Dots/Things/Charting out habit cycles in my life circa 2013]].

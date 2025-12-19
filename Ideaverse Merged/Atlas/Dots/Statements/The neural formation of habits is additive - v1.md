@@ -1,16 +1,15 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Habits MOC - Gather]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Things/Habits MOC - Gather]]"
 related: []
 created: 2020-06-01
 ---
-
 I attended a presentation of "Portraits of the Mind" by Carl Schoonover. He showed pictures of how dendrites grow spines for better connections to synapses. Carl showed a video of neural networks forming. Now more than ever, we are starting to witness the neural formation of habits.
 
 **My Thoughts**
-A habit is a mirror, it gives what you give it, and what you were given is what you'll give. It's the immediate expression of the law of [[Ideaverse Merged/Atlas/Notes/Ideas/Cause and Effect]]
+A habit is a mirror, it gives what you give it, and what you were given is what you'll give. It's the immediate expression of the law of [[Ideaverse Merged/Atlas/Dots/Things/Cause and Effect]]
 
-Change your mind to change your brain to change your mind. Reminds of a tautological [[Ideaverse Merged/Atlas/Notes/Ideas/Feedback Loop]].
+Change your mind to change your brain to change your mind. Reminds of a tautological [[Ideaverse Merged/Atlas/Dots/Things/Feedback Loop]].
 
 Just like Newton's Law of Conservation states that for every action there is an equal and opposite reaction; so with habits are that for every action, taking the same action again will require less effort. Neural connections were made and repeated actions optimize them. They become more efficient. 
 

@@ -1,17 +1,16 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/FlowCreation MOC]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Things/FlowCreation MOC]]"
 related: []
 created: 2020-06-01
 ---
-
-What's the goal here? The goal is to Balance Challenge and Skill to get into flow. [[Ideaverse Merged/Atlas/Notes/Ideas/Balancing Challenge and Skill]] is basically the meta-meta-skill. On a conceptual level, that's what we're always trying to do when we're going after high quality experiences in life.
+What's the goal here? The goal is to Balance Challenge and Skill to get into flow. [[Ideaverse Merged/Atlas/Dots/Things/Balancing Challenge and Skill]] is basically the meta-meta-skill. On a conceptual level, that's what we're always trying to do when we're going after high quality experiences in life.
 
 Here are the mental steps—the meta-skills—surrounding conscious flowcreation:
 
 1. Awareness of your current state
-2. Creating the [[Ideaverse Merged/Atlas/Notes/Ideas/Conditions of Flow]]
-3. Maintain your Flow — Check out the [[Ideaverse Merged/Atlas/Notes/Ideas/Four Factors of Flow]] and learn how you can use these factors to govern and control the levers of flow.
+2. Creating the [[Ideaverse Merged/Atlas/Dots/Things/Conditions of Flow]]
+3. Maintain your Flow — Check out the [[Ideaverse Merged/Atlas/Dots/Things/Four Factors of Flow]] and learn how you can use these factors to govern and control the levers of flow.
 4. Turnover and refresh yourself
 
 %%

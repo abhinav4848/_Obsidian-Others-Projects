@@ -4,8 +4,7 @@ up:
 related: []
 created: 2020-06-01
 ---
-
-**Progressive Ideation** is the process of relating and developing ideas over time. 
+ **Progressive Ideation** is the process of relating and developing ideas over time. 
 
 Through this process, your thinking efforts naturally compound.
 

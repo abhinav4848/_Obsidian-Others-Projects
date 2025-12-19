@@ -1,10 +1,9 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/The forest entrance]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Things/The forest entrance]]"
 related: []
 created: 2020-06-01
 ---
-
 When it comes to managing your digital knowledge, the following are some guiding values and principles to consider.
 
 *Your digital library should:*

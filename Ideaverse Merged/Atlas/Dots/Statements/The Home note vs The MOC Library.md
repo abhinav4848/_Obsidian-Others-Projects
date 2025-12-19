@@ -4,7 +4,6 @@ up:
 related: []
 created: 2020-06-01
 ---
-
 The [[Home|Home]] note is like the [[1942 - Foundation Series (1942-93)|First Foundation]], while the [[Library]] note is like the Second Foundation. 
 
 - The first foundation is about ingenuity and free will. 

@@ -1,20 +1,19 @@
 ---
 up:
-  - "[[Concepts Map]]"
+  - "[[Concepts]]"
 related: []
 created: 2020-06-01
-tags:
-  - concept
+in:
+- "[[Concepts]]"
 ---
-
-*“The art of sailing, rather than the art of rowing.” - Alan Watts*
+ *“The art of sailing, rather than the art of rowing.” - Alan Watts*
 
 Definition: a concept literally meaning “inexertion”, “inaction”, or “effortless action”. Alan Watts called wu wei “not forcing”.  
 
-This reminds me of [[Ideaverse Merged/Atlas/Notes/Ideas/Flow]], the wonderful concept by Mihaly C. 
+This reminds me of [[Ideaverse Merged/Atlas/Dots/Things/Flow]], the wonderful concept by Mihaly C. 
 It's similar to Flow in that action becomes effortless, but it's different in that...hmm, I see a venn diagram and there is much more overlapping than is not. I would say that Flow may inherently have more intention behind it, but the funny thing is that those intentions melt away once the state of Flow is achieved.
 
-I've experienced [[Ideaverse Merged/Atlas/Notes/Ideas/Wu wei]] in my life when I've chosen not to immediately act on something. (ADD EXAMPLE LATER) In that way, it would seem there are some overlaps between Wu wei and Stoicism. EXPLORE LATER
+I've experienced [[Ideaverse Merged/Atlas/Dots/Things/Wu wei]] in my life when I've chosen not to immediately act on something. (ADD EXAMPLE LATER) In that way, it would seem there are some overlaps between Wu wei and Stoicism. EXPLORE LATER
 
 ---
 Wu-wei is good because, if I were to view it through a Western lens, it has positive implications for stress management. Attempting to practice Wu-wei (as far as one can practice it without deliberately practicing it!), will help a person focus less on their "Circle of Concern" and more on their "Circle of Influence". Basically, practicing wu-wei can help us stop worrying about the things we can't control.

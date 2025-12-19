@@ -3,8 +3,8 @@ up:
   - "[[Thinking Map]]"
 related: []
 created: 2020-06-01
-tags:
-  - concept
+in:
+- "[[Concepts]]"
 ---
 
 > The faster you can: *observe* the changes in your environment, *orient* advantageously, *decide* on the best course of action, and actually *act* on that decision...the greater your chances of victory. ^ac47c8
@@ -31,7 +31,7 @@ The OODA loop is the decision cycle of observe, orient, decide, and act develope
 1. **Act**: First, the individual or organization that can go through *successful*, consecutive OODA Loops faster than their opponent will win the conflict... Second, rapid OODA Looping on your part “resets” your opponent’s OODA Loop by causing confusion – it sends them back to square one.
 
 ---
-The OODA Loop is not only a tool to win in battle. It is a learning engine that acts as a [[Ideaverse Merged/Atlas/Notes/Ideas/Feedback Loop]] that allows an individual or organization to thrive in a changing environment.
+The OODA Loop is not only a tool to win in battle. It is a learning engine that acts as a [[Ideaverse Merged/Atlas/Dots/Things/Feedback Loop]] that allows an individual or organization to thrive in a changing environment.
 
 ---
 ### Domains recommended by John Boyd
@@ -48,7 +48,7 @@ At face value, this list is without value. But if you dig into any domain, that'
 * Quantum Mechanics 
 
 ---
-Related: [[Ideaverse Merged/Atlas/Notes/Ideas/Munger's Mental Models]]
+Related: [[Ideaverse Merged/Atlas/Dots/Things/Munger's Mental Models]]
 
 Reference this tidbit for even more: "Tidbit - Tao of John Boyd - OODA Loop"
 

@@ -1,14 +1,13 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Habits MOC - Collide]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Things/Habits MOC - Collide]]"
 related:
   - "[[Isaac Newton]]"
 created: 2020-10-01
 year: 1686
-tags:
-  - concept
+in:
+  - "[[Concepts]]"
 ---
-
 In classical mechanics, Newton's laws of motion are three laws that describe the relationship between the motion of an object and the forces acting on it. The first law states that an object either remains at rest or continues to move at a constant velocity, unless it is acted upon by an external force.
 
 ## Newton's 1st Law of Motion

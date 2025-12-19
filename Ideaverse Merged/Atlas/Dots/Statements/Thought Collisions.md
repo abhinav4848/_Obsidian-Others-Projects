@@ -4,7 +4,6 @@ up:
 related: []
 created: 2020-06-01
 ---
-
 Ideas are forged from thoughts coming together and talking. 
 
 Why not figure out a way to have related thoughts talk to each other more frequently—and at a higher level of intensity?

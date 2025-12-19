@@ -4,10 +4,9 @@ up:
 related: []
 created: 2020-06-28
 ---
-
 First let's zoom out. Every note in a note library is a note. They come in two basic varieties: 
 
-1. A [[Ideaverse Merged/Atlas/Notes/Ideas/What is a note|note]] with mostly words
+1. A [[Ideaverse Merged/Atlas/Dots/Things/What is a note|note]] with mostly words
 2. A note with mostly links to other notes
 
 Let's agree for the moment that a "note-with-mostly-words" is less complex than a "note-with-mostly-links". 
