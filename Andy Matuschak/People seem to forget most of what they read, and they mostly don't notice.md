@@ -1,5 +1,4 @@
 # People seem to forget most of what they read, and they mostly don’t notice
-
 It seems that most people can remember only a few high-level details of a book weeks later—if that. A typical reader might spend hours finishing some serious non-fiction—then maybe it comes up at a dinner party, and they find you can remember like three sentences. Basically no detailed recall. Barely the gist!
 
 What’s more: people seem surprised when this happens. They seem to consistently overestimate how much they’re absorbing from a book.
@@ -11,7 +10,6 @@ See [[How rapidly do people forget practical knowledge]]?
 This observation is unfortunate for many reasons, but among them: [[Deep understanding requires detailed knowledge of fundamentals]] and [[Complex ideas may be hard to learn in part because their components overflow working memory]].
 
 For common objections: [[Many people view memory as unimportant to deep creative work]].
-
 # Reference
 1. [Link Andy](https://notes.andymatuschak.org/zL33c5cHy4bH7HvMcv2py9H) 
 - [Amlund et al - Repetitive Reading and Recall of Expository Text](https://notes.andymatuschak.org/zYC6VobiaBN2zDTd9otes7Y)

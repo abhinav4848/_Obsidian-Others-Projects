@@ -8,7 +8,7 @@ This practice is a rough kind of metacognitive support: [[Metacognitive support
 This observation appears to be true even for non-prose writing: [Many eminent thinkers need a writing surface to think](Many%20eminent%20thinkers%20need%20a%20writing%20surface%20to%20think.md). 
 
 # Backlinks
-- [Write about what you read to internalize texts deeply](Write%20about%20what%20you%20read%20to%20internalize%20texts%20deeply.md)
+- [[Write about what you read to internalize texts deeply]]
     - and in particular, Writing forces sharper understanding
 - [Peak - Ericsson and Pool](https://notes.andymatuschak.org/zEwJDpZiu1YQoXYznxioznL) 
     - “… as we looked for ways to make our message clearer to the reader, we would come up with new ways to think about deliberate practice ourselves. Researchers refer to this sort of writing as “knowledge transforming”… because the process of writing changes and adds to the knowledge that the writer had when starting out.” (75-76).  [[Writing forces sharper understanding]], [[Insight through making]]
