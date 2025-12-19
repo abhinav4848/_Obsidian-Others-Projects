@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andy Matuschak/Note-writing practices are generally ineffective.md",
+                "file": "Andy Matuschak/Knowledge work should accrete.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Note-writing practices are generally ineffective"
+              "title": "Knowledge work should accrete"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "link dilution",
+                "query": "Note-writing practices provide weak feedback",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andy Matuschak/Note-writing practices are generally ineffective.md",
+                "file": "Andy Matuschak/Knowledge work should accrete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Note-writing practices are generally ineffective"
+              "title": "Backlinks for Knowledge work should accrete"
             }
           },
           {
@@ -184,9 +184,11 @@
   },
   "active": "fa320fb4d901b7ac",
   "lastOpenFiles": [
-    "Andy Matuschak/Evergreen note-writing as fundamental unit of knowledge work.md",
     "Andy Matuschak/Note-writing practices are generally ineffective.md",
+    "Note-writing practices provide weak feedback.md",
     "Andy Matuschak/Most people take only transient notes.md",
+    "Andy Matuschak/Better note-taking misses the point; what matters is “better thinking”.md",
+    "Andy Matuschak/Evergreen note-writing as fundamental unit of knowledge work.md",
     "Evergreen Notes 8b05f5bf420f4caaad50f6fea2828638.md",
     "Fleeting Note d5e2031e3e8c477c9b1dc4bb19764bd0.md",
     "Andy Matuschak/Evergreen Notes.md",
@@ -209,8 +211,6 @@
     "Ideaverse Merged/Atlas/Dots/Statements/OODA Loop.md",
     "Workflows/03 IMF_AdvancedStarterKit_v2/Untitled 1.md",
     "current_export_metadata.json",
-    "Ideaverse Merged/Atlas/Dots/Statements/First Light, Last Light.md",
-    "Ideaverse Merged/Atlas/Dots/Statements/Effort Maestro.md",
     "Ideaverse Merged/Atlas/Dots/Statements/Questions",
     "Snipd/Base/Snipd.base",
     "desktop.ini",
