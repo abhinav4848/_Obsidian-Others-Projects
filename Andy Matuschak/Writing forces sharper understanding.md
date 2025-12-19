@@ -9,9 +9,9 @@ Last edited time: January 18, 2024 7:55 PM
 
 Writing is a great way to put pressure on your thinking: it’s hard to summarize something you don’t sharply understand. By trying to explain an idea, you’ll naturally try multiple framings, flesh out its edges, and see new connections. This is part of why [Evergreen note-writing helps insight accumulate](Evergreen%20note-writing%20helps%20insight%20accumulate.md) and why you should [Write about what you read to internalize texts deeply](Write%20about%20what%20you%20read%20to%20internalize%20texts%20deeply.md).
 
-The additional step of making associations and integrating that writing with prior notes (i.e. to create [Evergreen Notes](Evergreen%20Notes%208b05f5bf420f4caaad50f6fea2828638.md), particularly since [Evergreen notes should be concept-oriented](Evergreen%20notes%20should%20be%20concept-oriented.md)) makes this effect even more powerful because you have to understand how a given idea relates to other ideas. And when you’re comparing the new ideas to the old, you can see what’s *not* being said in the new work.
+The additional step of making associations and integrating that writing with prior notes (i.e. to create [[Evergreen Notes 8b05f5bf420f4caaad50f6fea2828638.md|Evergreen Notes]], particularly since [[Evergreen notes should be concept-oriented]]) makes this effect even more powerful because you have to understand how a given idea relates to other ideas. And when you’re comparing the new ideas to the old, you can see what’s *not* being said in the new work.
 
-This practice is a rough kind of metacognitive support: [Metacognitive supports as cognitive scaffolding](Metacognitive%20supports%20as%20cognitive%20scaffolding.md).
+This practice is a rough kind of metacognitive support: [[Metacognitive supports as cognitive scaffolding]].
 
 This observation appears to be true even for non-prose writing: [Many eminent thinkers need a writing surface to think](Many%20eminent%20thinkers%20need%20a%20writing%20surface%20to%20think.md). 
 

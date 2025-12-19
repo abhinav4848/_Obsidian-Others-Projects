@@ -1,14 +1,5 @@
 # Most explanatory media make participants run their own feedback loop
-
-Type of Link: 📝 Article
-Category talked about: Learning
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
-
-# **Most explanatory media make participants run their own feedback loops**
-
-[Learning requires metacognition](Learning%20requires%20metacognition.md). When learning something new from a text, readers must constantly ask themselves: did I understand that? what questions can I ask myself to check my understanding? should I reread that passage? should I consult a reference for background on that? etc.
+[[Learning requires metacognition]]. When learning something new from a text, readers must constantly ask themselves: did I understand that? what questions can I ask myself to check my understanding? should I reread that passage? should I consult a reference for background on that? etc.
 
 In other words, readers have to run their own feedback loops. When readers are focused on challenging object-level material, they may not be able to effectively perform this kind of metacognition; conversely, too much effort spent on evaluation, planning, and executive control may make it difficult to engage with difficult object-level material.
 

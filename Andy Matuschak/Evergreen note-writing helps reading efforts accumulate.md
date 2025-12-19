@@ -8,9 +8,9 @@ Last edited time: January 18, 2024 7:55 PM
 
 # **Evergreen note-writing helps reading efforts accumulate**
 
-It’s important to [[Write about what you read to internalize texts deeply]], but instead of just writing about the specific book you’re reading, you can (and should) write your notes such that your reading observations accumulate over time as they interact with each other and with your own ideas (see [Evergreen note-writing helps insight accumulate](Evergreen%20note-writing%20helps%20insight%20accumulate.md), [Knowledge work should accrete](Knowledge%20work%20should%20accrete.md)).
+It’s important to [[Write about what you read to internalize texts deeply]], but instead of just writing about the specific book you’re reading, you can (and should) write your notes such that your reading observations accumulate over time as they interact with each other and with your own ideas (see [[Evergreen note-writing helps insight accumulate]], [[Knowledge work should accrete]]).
 
-This is also why we write [Evergreen Notes](Evergreen%20Notes%208b05f5bf420f4caaad50f6fea2828638.md): so that if we encounter a book which discusses a concept we’ve already written about, we’re pushed to integrate new ideas with our prior conception. Certainly, we normally do this when we read, but we’re limited to our faulty memory of other works which might be related. The externalized note-taking system substantially removes this limitation.
+This is also why we write [[Andy Matuschak/Evergreen Notes|Evergreen Notes]]: so that if we encounter a book which discusses a concept we’ve already written about, we’re pushed to integrate new ideas with our prior conception. Certainly, we normally do this when we read, but we’re limited to our faulty memory of other works which might be related. The externalized note-taking system substantially removes this limitation.
 
 This is why part of why [[Evergreen notes should be concept-oriented]]: so that the structure of our notes pushes us to notice the relationships between the ideas in different texts—and in our own work (see [[Evergreen notes should be densely linked]], [[Notes should surprise you]]).
 

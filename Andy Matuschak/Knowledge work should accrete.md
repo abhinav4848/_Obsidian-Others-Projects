@@ -3,7 +3,7 @@ Many activities in [[068- Knowledge work]] seem to be ephemeral efforts, their o
 
 You might wake up to a really tricky email and realize that it connects to something you’ve been thinking about for a while. You might spend an hour writing a careful reply, capturing your latest thinking. And now… it lives in your “sent” folder, and briefly in the impression on your and your colleague’s mind. The effort accumulates only insofar as that work subtly influences your and your colleague’s thinking over time.
 
-Likewise, [**Most people take only transient notes**](Most%20people%20take%20only%20transient%20notes.md), though with effective practices, they’re an essential foundation; see [[Evergreen note-writing as fundamental unit of knowledge work]].
+Likewise, [[Most people take only transient notes]], though with effective practices, they’re an essential foundation; see [[Evergreen note-writing as fundamental unit of knowledge work]].
 
 > We should strive to design practices systems which yield compounding returns on our efforts as they accumulate over time.
 > 

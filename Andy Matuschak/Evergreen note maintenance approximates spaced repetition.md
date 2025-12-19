@@ -8,7 +8,7 @@ Last edited time: January 18, 2024 7:55 PM
 
 # **Evergreen note maintenance approximates spaced repetition**
 
-Because writing [Evergreen Notes](Evergreen%20Notes%208b05f5bf420f4caaad50f6fea2828638.md) with dense associative structure (see [Evergreen notes should be densely linked](Evergreen%20notes%20should%20be%20densely%20linked.md)) requires that we constantly reread and revise our past writing, this type of note-taking approximates spaced repetition.
+Because writing [[Andy Matuschak/Evergreen Notes|Evergreen Notes]] with dense associative structure (see [Evergreen notes should be densely linked](Evergreen%20notes%20should%20be%20densely%20linked.md)) requires that we constantly reread and revise our past writing, this type of note-taking approximates spaced repetition.
 
 In particular, the spaced repetition follows your present interests. If you stop reading or writing about a given topic, you’ll mostly never revisit it. If you’re regularly reading or writing about a topic, you’ll revisit that prior material fairly constantly.
 

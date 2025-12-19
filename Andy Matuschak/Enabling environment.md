@@ -1,7 +1,3 @@
-Type of Link: 📝 Article
-Author: Andy Matuschak
-Completion Status: To Start
-Last edited time: January 18, 2024 7:55 PM
 # Enabling environment
 An _enabling environment_ significantly expands its participants’ capacity to do things they find meaningful and important.
 

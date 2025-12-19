@@ -1,20 +1,11 @@
 # Metacognitive supports require dynamic, participatory environments
-
-Type of Link: 📝 Article
-Category talked about: Learning
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
-
-# **Metacognitive supports require dynamic, participatory environments**
-
 [Metacognition is inherently dynamic](Metacognition%20is%20inherently%20dynamic.md), so to design an environment which offers metacognitive supports, that environment must dynamically behave and respond to participants’ engagement with the material.
 
 Environments which are dynamic but non-participatory (like most “explorables”) have nothing to behave and respond *to.*
 
 Environments which are participatory but non-dynamic (like Make Magazine) can’t alter their message or behavior in response to participants’ actions.
 
-This is one reason that [Most explanatory media make participants run their own feedback loop](Most%20explanatory%20media%20make%20participants%20run%20their.md): most explanatory media are static.
+This is one reason that [[Most explanatory media make participants run their own feedback loop|Most explanatory media make participants run their own feedback loop]]: most explanatory media are static.
 
 Static media sometimes try to provide metacognitive supports by presenting fixed metacognitive “programs” for participants to “execute,” like “if you’re unfamiliar with the use of XOR in this context, consult page 240.” These are obviously limited; they still make the participant do lots of work.
 

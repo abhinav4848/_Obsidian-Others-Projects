@@ -8,10 +8,10 @@ Last edited time: January 18, 2024 7:55 PM
 
 Top-tier athletes are fanatically disciplined about improving their foundational skills—skills which transcend any sport, the same kind of agility drills you might see an army recruit do. Top-tier musicians do likewise: Lang Lang, for instance, is still working on his scales after 30 years as a concert pianist. They’re not just doing rote drills: they’re working to improve those skills critically, poring over performance videos and working with coaches.
 
-By comparison, [Knowledge work rarely involves deliberate practice](https://notes.andymatuschak.org/zMbCwoVdjsqPNyTRRr3phPN). Knowledge workers seem surprisingly unserious about honing fundamental skills like 
+By comparison, [[Knowledge work rarely involves deliberate practice]]. Knowledge workers seem surprisingly unserious about honing fundamental skills like 
 
 1. reading ([[People seem to forget most of what they read, and they mostly don’t notice]]), 
-2. note-taking ([Note-writing practices are generally ineffective](Note-writing%20practices%20are%20generally%20ineffective.md)), 
+2. note-taking ([[Note-writing practices are generally ineffective]]), 
 3. developing ideas over time ([[Knowledge workers usually have no specific methods for developing ideas over time]]).
 
 [Core practices in knowledge work are often ad-hoc](https://notes.andymatuschak.org/zPFYKBrsvL88opKh28UYxWv), and knowledge workers generally don’t seem to pursue a serious program of improving in those core skills. I suspect that this is in large part because the possibility of improvement isn’t salient: [Salience of improvement drives skill development](https://notes.andymatuschak.org/zQeW31KRF1tk2zCPPGWc7UD).

@@ -1,4 +1,4 @@
-- Perhaps most canonically represented by [Situated Learning - Lave and Wenger](https://notes.andymatuschak.org/zMhuu3pPa6FeNGYn3VfGCar)
+- Perhaps most canonically represented by [[Situated Learning - Lave and Wenger]]. 
 - Expressed more moderately in [The Reflective Practitioner - Donald Schön](https://notes.andymatuschak.org/z5wZoGy72FafNGd1AHgtghs)
 - Allied educational philosophies / methods: [[Constructivism]] (esp. radical constructivism), [Anchored instruction](https://notes.andymatuschak.org/zHZJPK2nrvAzRstzA6XdmoG), [Cognitive apprenticeship](https://notes.andymatuschak.org/zQgeXp15RWkzyiUv9WQsLtA)
 - Criticism
