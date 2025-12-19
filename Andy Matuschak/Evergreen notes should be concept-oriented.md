@@ -1,5 +1,5 @@
 # Evergreen notes should be concept-oriented
-It’s best to factor [Evergreen Notes](Evergreen%20Notes%208b05f5bf420f4caaad50f6fea2828638.md) by concept (rather than by author, book, event, project, topic, etc). This way, you discover connections across books and domains as you update and link to the note over time ([Evergreen notes should be densely linked](Evergreen%20notes%20should%20be%20densely%20linked.md)).
+It’s best to factor [[Andy Matuschak/Evergreen Notes|Evergreen Notes]] by concept (rather than by author, book, event, project, topic, etc). This way, you discover connections across books and domains as you update and link to the note over time ([Evergreen notes should be densely linked](Evergreen%20notes%20should%20be%20densely%20linked.md)).
 
 The most straightforward way to take notes is to start a new note for each book, each project, or each research topic. Because each note covers many concepts, it can be hard to find what you’ve written when a concept comes up again later: you have to remember the name of each book or project which dealt with the topic (by contrast: [[Evergreen notes should be atomic]]).
 

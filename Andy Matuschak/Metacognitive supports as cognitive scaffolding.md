@@ -7,7 +7,7 @@ On [Quantum Country](https://quantum.country/), our interleaved review sessions
 
 Games are particularly good at this:
 - [Games help players evaluate their developing skills](https://notes.andymatuschak.org/zJP88EJ3qnPdZLMFK9g4Boh) (not linking all 3 links)
-- [Games help players make and adapt plans](https://notes.andymatuschak.org/z8cCUawpidfMcH7bYE67CEf)
+- [Games help players make and adapt plans](https://notes.andymatuschak.org/z8cCUawpidfMcH7bYE67CEf) 
 
 # References
 

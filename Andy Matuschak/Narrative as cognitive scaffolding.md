@@ -5,7 +5,7 @@ As a narrative progresses, it highlights connections between elements which migh
 
 Narratives fuel emotional involvement by offering interpretation, possible implications, and connection to an invested author. Over time, the participant may build their own emotional involvement with the topic, but it can be helpful to scaffold this as well.
 
-See also: [Enacted experiences amplify the power of narrative](Enacted%20experiences%20amplify%20the%20power%20of%20narrative.md)
+See also: [[Enacted experiences amplify the power of narrative]]
 
 # References
 

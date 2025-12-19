@@ -3,7 +3,7 @@ People don’t want to forget an idea or a conversation or a task or quote from 
 
 In this conception, notes are a way to [Close open loops](Close%20open%20loops.md), not to accumulate insight. The “real” work happens outside the notes; the notes are just a reference system which stores information which might help, or a write-once pile of “messy” thoughts (Khoe). 
 
-These are not [Evergreen Notes](Evergreen%20Notes%208b05f5bf420f4caaad50f6fea2828638.md). Most “storage-oriented” notes will never be useful again ([[Most people take only transient notes]]). More importantly, this framing misses that it’s possible for note-writing to be the “real” work ([Evergreen note-writing as fundamental unit of knowledge work](Evergreen%20note-writing%20as%20fundamental%20unit%20of%20knowledge%20work.md)).
+These are not [[Andy Matuschak/Evergreen Notes|Evergreen Notes]]. Most “storage-oriented” notes will never be useful again ([[Most people take only transient notes]]). More importantly, this framing misses that it’s possible for note-writing to be the “real” work ([Evergreen note-writing as fundamental unit of knowledge work](Evergreen%20note-writing%20as%20fundamental%20unit%20of%20knowledge%20work.md)).
 
 # Reference
 1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB) 

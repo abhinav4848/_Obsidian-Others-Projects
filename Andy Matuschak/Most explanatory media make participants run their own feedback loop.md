@@ -5,7 +5,7 @@ In other words, readers have to run their own feedback loops. When readers are f
 
 The situation is perhaps slightly worse in video formats. In books, readers are in complete control of the pace, but in videos, there’s a default pace, and viewers must actively decide to subvert it.
 
-My theory as to why this is true: [Metacognitive supports require dynamic, participatory environments](Metacognitive%20supports%20require%20dynamic,%20participatory%20environments.md).
+My theory as to why this is true: [[Metacognitive supports require dynamic, participatory environments]].
 
 # References
 

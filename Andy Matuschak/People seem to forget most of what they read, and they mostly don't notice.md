@@ -6,11 +6,11 @@ What’s more: people seem surprised when this happens. They seem to consistentl
 
 Part of the problem here is [[People often struggle to remember details of prose text because they never processed them in the first place]].
 
-See [[How rapidly do people forget practical knowledge|How rapidly do people forget practical knowledge?]]
+See [[How rapidly do people forget practical knowledge]]?
 
 This observation is unfortunate for many reasons, but among them: [[Deep understanding requires detailed knowledge of fundamentals]] and [[Complex ideas may be hard to learn in part because their components overflow working memory]].
 
-For common objections: [Many people view memory as unimportant to deep creative work](Many%20people%20view%20memory%20as%20unimportant%20to%20deep%20creative%20work.md).
+For common objections: [[Many people view memory as unimportant to deep creative work]].
 
 # Reference
 1. [Link Andy](https://notes.andymatuschak.org/zL33c5cHy4bH7HvMcv2py9H) 

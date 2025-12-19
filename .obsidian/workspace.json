@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Situated Learning - Lave and Wenger.md",
+                "file": "Andy Matuschak/Chunks in human cognition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Situated Learning - Lave and Wenger"
+              "title": "Chunks in human cognition"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"do your own thinking\"",
+                "query": "\"contextual bac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Situated Learning - Lave and Wenger.md",
+                "file": "Andy Matuschak/Chunks in human cognition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Situated Learning - Lave and Wenger"
+              "title": "Backlinks for Chunks in human cognition"
             }
           },
           {
@@ -184,32 +184,32 @@
   },
   "active": "fa320fb4d901b7ac",
   "lastOpenFiles": [
-    "Apprenticeship.md",
-    "Cognitive apprenticeship.md",
-    "Tacit knowledge.md",
-    "The Reflective Practitioner - Donald Schön.md",
-    "The Sciences of the Artificial - Herb Simon.md",
-    "Situated Learning - Lave and Wenger.md",
-    "Novices in enabling environments often can’t do what’s enabled.md",
-    "Andy Matuschak/Situated learning.md",
-    "Enabling environments focus on doing what’s enabled.md",
-    "Andy Matuschak/Enabling environment.md",
-    "Knowledge work rarely involves deliberate practice.md",
-    "Typical work and performance environments don’t constitute deliberate practice.md",
-    "Andy Matuschak/Deliberate practice.md",
-    "Andy Matuschak/Expert coaches facilitate effective deliberate practice.md",
-    "Deliberate practice doesn’t have to be unenjoyable.md",
-    "Ideaverse Merged/Atlas/Dots/Statements/Deliberate Practice.md",
-    "Andy Matuschak/Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do.md",
-    "Andy Matuschak/Note-writing practices are generally ineffective.md",
-    "Andy Matuschak/Most people take only transient notes.md",
-    "Andy Matuschak/Most people use notes as a bucket for storage or scratch thoughts.md",
-    "Andy Matuschak/Knowledge work should accrete.md",
-    "Evergreen Notes 8b05f5bf420f4caaad50f6fea2828638.md",
-    "Andy Matuschak/Executable strategy for writing.md",
-    "Andy Matuschak/Evergreen note-writing helps insight accumulate.md",
-    "Andy Matuschak/My morning writing practice.md",
-    "Andy Matuschak/Pocket memo pad to capture into writing inbox while out.md",
+    "Andy Matuschak/Worked example effect.md",
+    "Andy Matuschak/Chunks in human cognition.md",
+    "Andy Matuschak/Spaced repetition memory prompts should usually focus on one atomic unit.md",
+    "Andy Matuschak/Working memory span is mostly independent of item  complexity.md",
+    "Andy Matuschak/Span of working memory.md",
+    "Andy Matuschak/Complex ideas may be hard to learn in part because their components overflow working memory.md",
+    "Andy Matuschak/Memory augmentation may make it easier to learn complex topics by decreasing working memory load.md",
+    "Andy Matuschak/Spaced repetition memory systems make memory a choice.md",
+    "Andy Matuschak/People seem to forget most of what they read, and they mostly don't notice.md",
+    "Andy Matuschak/Many people view memory as unimportant to deep creative work.md",
+    "Andy Matuschak/Piotr Wozniak - Effective learning - Twenty rules of formulating knowledge.md",
+    "Andy Matuschak/Learn before you memorize.md",
+    "Andy Matuschak/Spaced repetition memory prompts alone are a poor communications medium.md",
+    "Andy Matuschak/Narrative as cognitive scaffolding.md",
+    "Andy Matuschak/Enacted experiences amplify the power of narrative.md",
+    "Andy Matuschak/Enacted experiences can create intense personal connection to authored targets.md",
+    "Andy Matuschak/Cognitive scaffolding.md",
+    "Andy Matuschak/Fine-grained task progressions as cognitive scaffolding.md",
+    "Andy Matuschak/Cognitive load theory.md",
+    "Andy Matuschak/Element interactivity.md",
+    "Andy Matuschak/Constraints as cognitive scaffolding.md",
+    "Andy Matuschak/Contextual backlinks.md",
+    "Andy Matuschak/Prefer fine-grained associations.md",
+    "Andy Matuschak/Metacognitive supports require dynamic, participatory environments.md",
+    "Andy Matuschak/Metacognition is inherently dynamic.md",
+    "Andy Matuschak/Most explanatory media make participants run their own feedback loop.md",
     "current_export_metadata.json",
     "Ideaverse Merged/Atlas/Dots/Statements/Questions",
     "Snipd/Base/Snipd.base",

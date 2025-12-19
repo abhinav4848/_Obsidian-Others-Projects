@@ -1,13 +1,5 @@
 # Working memory span is mostly independent of item complexity
-
-Type of Link: 📝 Article
-Category talked about: Learning
-Author: Andy Matuschak
-Last edited time: January 18, 2024 7:55 PM
-
-# **Working memory span is mostly independent of item complexity**
-
-There are more than twice as many alphabetical letters as numeric digits, so you might expect that we could remember strings of digits about twice as long as strings of letters. But in fact, the typical [Span of working memory](Span%20of%20working%20memory.md) is about {six} letters and about {seven} digits (e.g. Crannell and Parrish, 1957).
+There are more than twice as many alphabetical letters as numeric digits, so you might expect that we could remember strings of digits about twice as long as strings of letters. But in fact, the typical [[Span of working memory]] is about {six} letters and about {seven} digits (e.g. Crannell and Parrish, 1957).
 
 See: [Chunks in human cognition](Chunks%20in%20human%20cognition.md)
 

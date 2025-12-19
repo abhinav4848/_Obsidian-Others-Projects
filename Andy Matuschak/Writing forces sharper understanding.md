@@ -1,15 +1,7 @@
 # Writing forces sharper understanding
-
-Type of Link: 📝 Article
-Category talked about: Learning, Note taking
-Author: Andy Matuschak
-Last edited time: January 18, 2024 7:55 PM
-
-# **Writing forces sharper understanding**
-
 Writing is a great way to put pressure on your thinking: it’s hard to summarize something you don’t sharply understand. By trying to explain an idea, you’ll naturally try multiple framings, flesh out its edges, and see new connections. This is part of why [Evergreen note-writing helps insight accumulate](Evergreen%20note-writing%20helps%20insight%20accumulate.md) and why you should [Write about what you read to internalize texts deeply](Write%20about%20what%20you%20read%20to%20internalize%20texts%20deeply.md).
 
-The additional step of making associations and integrating that writing with prior notes (i.e. to create [[Evergreen Notes 8b05f5bf420f4caaad50f6fea2828638.md|Evergreen Notes]], particularly since [[Evergreen notes should be concept-oriented]]) makes this effect even more powerful because you have to understand how a given idea relates to other ideas. And when you’re comparing the new ideas to the old, you can see what’s *not* being said in the new work.
+The additional step of making associations and integrating that writing with prior notes (i.e. to create [[Andy Matuschak/Evergreen Notes|Evergreen Notes]], particularly since [[Evergreen notes should be concept-oriented]]) makes this effect even more powerful because you have to understand how a given idea relates to other ideas. And when you’re comparing the new ideas to the old, you can see what’s *not* being said in the new work.
 
 This practice is a rough kind of metacognitive support: [[Metacognitive supports as cognitive scaffolding]].
 
@@ -17,18 +9,18 @@ This observation appears to be true even for non-prose writing: [Many eminent t
 
 # Backlinks
 - [Write about what you read to internalize texts deeply](Write%20about%20what%20you%20read%20to%20internalize%20texts%20deeply.md)
-    - and in particular, [[Writing forces sharper understanding]]
-- [Peak - Ericsson and Pool](https://notes.andymatuschak.org/zEwJDpZiu1YQoXYznxioznL)
+    - and in particular, Writing forces sharper understanding
+- [Peak - Ericsson and Pool](https://notes.andymatuschak.org/zEwJDpZiu1YQoXYznxioznL) 
     - “… as we looked for ways to make our message clearer to the reader, we would come up with new ways to think about deliberate practice ourselves. Researchers refer to this sort of writing as “knowledge transforming”… because the process of writing changes and adds to the knowledge that the writer had when starting out.” (75-76).  [[Writing forces sharper understanding]], [[Insight through making]]
 - [[It’s hard to hear yourself think]]
-    - [Writing forces sharper understanding](https://notes.andymatuschak.org/zRbqwbnhmVdfLtKxMCibMoX)
+    - Writing forces sharper understanding
 - [Question-writing in the mnemonic medium may help the writer think about their topic](https://notes.andymatuschak.org/zASrUgV82dsvB2ZzJ39WmTP)
     - Because [Writing forces sharper understanding](https://notes.andymatuschak.org/zRbqwbnhmVdfLtKxMCibMoX), many thinkers will write an essay or a book in order to more deeply understand a topic. For similar reasons, writing questions in the mnemonic medium likely also helps writers understand their topic more deeply.
 - [§Note-writing systems](§Note-writing%20systems.md)
-    - [Writing forces sharper understanding](https://notes.andymatuschak.org/zRbqwbnhmVdfLtKxMCibMoX)
+    - Writing forces sharper understanding
 - [[How to Take Smart Notes - Ahrens]]
     - Writing while we read is a great way to monitor understanding: it’s hard to summarize something you don’t understand. The additional step of making associations and integrating that writing with prior notes makes this effect even more powerful. [Writing forces sharper understanding](https://notes.andymatuschak.org/zRbqwbnhmVdfLtKxMCibMoX)
-    - Zettelkasten is more epistemologically honest, likely to find contrarian truths [Evergreen notes are a safe place to develop wild ideas](Evergreen%20notes%20are%20a%20safe%20place%20to%20develop%20wild%20ideas.md) [Writing forces sharper understanding](https://notes.andymatuschak.org/zRbqwbnhmVdfLtKxMCibMoX)
+    - Zettelkasten is more epistemologically honest, likely to find contrarian truths [[Evergreen notes are a safe place to develop wild ideas]], Writing forces sharper understanding. 
     - It’s hard to see what’s *not* said in a text. By integrating our reading observations with prior notes, we’re naturally confronted with rocks the author may have left unturned. [Writing forces sharper understanding](https://notes.andymatuschak.org/zRbqwbnhmVdfLtKxMCibMoX)
 
 # Reference

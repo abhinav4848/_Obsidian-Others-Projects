@@ -9,7 +9,7 @@ If you want to deeply internalize something you’re reading, the best way I kno
 - because [[Knowledge work should accrete]] and [[Evergreen note-writing helps reading efforts accumulate]]
 - indeed: **[[Most people read ineffectively]]** 
 
-For deep understanding, it’s not enough to just highlight or write marginalia in books: there isn’t much pressure to synthesize, connect, or to get to the heart of things. And they don’t add up to anything over time as you read more. Instead, write [Evergreen Notes](Evergreen%20Notes%208b05f5bf420f4caaad50f6fea2828638.md) as you read.
+For deep understanding, it’s not enough to just highlight or write marginalia in books: there isn’t much pressure to synthesize, connect, or to get to the heart of things. And they don’t add up to anything over time as you read more. Instead, write [[Andy Matuschak/Evergreen Notes|Evergreen Notes]] as you read.
 
 But of course, it doesn’t always make sense to read in this way: much of the time you’re not really trying to internalize the text deeply, and text may not be worthy of that much attention: [[The best way to read is highly contextual]].
 

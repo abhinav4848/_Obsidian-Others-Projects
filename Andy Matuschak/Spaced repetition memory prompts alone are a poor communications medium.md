@@ -1,13 +1,5 @@
 # Spaced repetition memory prompts alone are a poor communications medium
-
-Type of Link: 📝 Article
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
-
-# **Spaced repetition memory prompts alone are a poor communications medium**
-
-[Traditional spaced repetition memory prompts are atomized](https://notes.andymatuschak.org/zCjyEsQTBSY7MJf6KxXKXb9). (Not Linking) Each little prompt must stand on its own, presentable in any order at any time. But that makes it difficult to use the prompts to effectively communicate an idea which is itself highly structured and ordered. In practice, ideas generally depend on other ideas, and emotional salience requires relating those ideas to a meaningful larger whole (contra [Deep understanding requires (and is a result of) intense personal connection](Deep%20understanding%20requires%20(and%20is%20a%20result%20of)%20intense%20personal%20connection.md)). Narrative excels in these regards ([Narrative as cognitive scaffolding](Narrative%20as%20cognitive%20scaffolding.md)).
+[Traditional spaced repetition memory prompts are atomized](https://notes.andymatuschak.org/zCjyEsQTBSY7MJf6KxXKXb9). (Not Linking) Each little prompt must stand on its own, presentable in any order at any time. But that makes it difficult to use the prompts to effectively communicate an idea which is itself highly structured and ordered. In practice, ideas generally depend on other ideas, and emotional salience requires relating those ideas to a meaningful larger whole (contra [[Deep understanding requires (and is a result of) intense personal connection]]). Narrative excels in these regards ([[Narrative as cognitive scaffolding]]).
 
 One important implication: [Studying another person’s spaced repetition memory prompts is usually ineffective](https://notes.andymatuschak.org/zAPNwLWboaoymgEAPyUwjnT).
 

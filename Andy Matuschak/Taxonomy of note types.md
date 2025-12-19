@@ -1,11 +1,12 @@
 # Taxonomy of note types
 ==TODO: flesh this out; write a note for each note type; etc==
+#todo 
 
 For me, the practice of writing and revising notes is, at its core, about trying to move up the following rough ladder:
 
-- Ephemeral scratchings in [[Daily working log]]
-- Prompts and incomplete notes in writing inbox ([A writing inbox for transient and incomplete notes](A%20writing%20inbox%20for%20transient%20and%20incomplete%20notes.md)), which are meant to possibly become [Evergreen Notes](Evergreen%20Notes%208b05f5bf420f4caaad50f6fea2828638.md). These prompts may accumulate writing over time via spaced repetition (see [[Spaced repetition may be a helpful tool to incrementally develop inklings]])
-- [Evergreen Notes](Evergreen%20Notes%208b05f5bf420f4caaad50f6fea2828638.md), in increasingly complex stages of development:
+- Ephemeral scratchings in [[Daily working log]]. 
+- Prompts and incomplete notes in writing inbox ([[A writing inbox for transient and incomplete notes]]), which are meant to possibly become [[Andy Matuschak/Evergreen Notes|Evergreen Notes]]. These prompts may accumulate writing over time via spaced repetition (see [[Spaced repetition may be a helpful tool to incrementally develop inklings]])
+- [[Andy Matuschak/Evergreen Notes|Evergreen Notes]], in increasingly complex stages of development:
     - stubs implicitly defined through backlinks ([Backlinks can be used to implicitly define nodes in knowledge management systems](https://notes.andymatuschak.org/zL9q21MA7ygsKVfvn6FwBMq)); e.g. [Note-writing system](https://notes.andymatuschak.org/zGKtrhpZ3hS8bw8UGL8hMTP), [Audiobooks](https://notes.andymatuschak.org/zG91aqpyGEiy8McMHAW7juq)
     - simple definitions for terms of art, little of my own added; e.g. [Span of absolute judgment](https://notes.andymatuschak.org/zMQK1sFXWbVMbSQAsjSTUvm), [[Spacing effect]]
     - [[Bridge notes narrowly relate two adjacent terms]] 
