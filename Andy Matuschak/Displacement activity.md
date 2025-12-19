@@ -10,7 +10,7 @@ Last edited time: January 18, 2024 7:55 PM
 
 Displacement activities are self-soothing activities which people (and animals) perform when they’re highly motivated to perform multiple behaviors, as well as when they’re unable to or uncertain how to proceed. The behaviors are also associated with stress and anxiety.
 
-For example, people scratch their heads when they’re not sure which option to choose. Or they respond to urgent emails (or refresh social media) when they’re feeling anxious about challenging intellectual work: see also [Culturally default behaviors fill spare time with others’ ideas](Culturally%20default%20behaviors%20fill%20spare%20time%20with.md), [People prefer doing to thinking](People%20prefer%20doing%20to%20thinking.md). Animals tend to groom, preen, or scratch in similar situations.
+For example, people scratch their heads when they’re not sure which option to choose. Or they respond to urgent emails (or refresh social media) when they’re feeling anxious about challenging intellectual work: see also [[Culturally default behaviors fill spare time with others’ ideas]], [[People prefer doing to thinking]]. Animals tend to groom, preen, or scratch in similar situations.
 
 See also [Team environments make it easy to fool yourself with displacement activities](https://notes.andymatuschak.org/zJvNs8RLiC9kLMSeNCNfte9). (No need to link)
 

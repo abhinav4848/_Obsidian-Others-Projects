@@ -12,7 +12,7 @@ Tags are an easy way to relate heterogenous items, but they’re quite a low-sig
 
 All items with a given tag are presented as being related… but it’s hard to see how. They’re just a jumbled, unordered list.
 
-Some of those items are more relevant to a particular tag’s topic than others, so we should [Prefer explicit associations to inferred associations](Prefer%20explicit%20associations%20to%20inferred%20associations.md).
+Some of those items are more relevant to a particular tag’s topic than others, so we should [[Prefer explicit associations to inferred associations]].
 
 Some of those items have only a few sentences touching on a tag, but the tag is associated with the whole item. We should [Prefer fine-grained associations](Prefer%20fine-grained%20associations.md). Relatedly, tags are often pretty vague or broad. Better to link to associate ideas more precisely.
 

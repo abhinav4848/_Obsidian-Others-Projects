@@ -17,14 +17,13 @@ Indexes can also include other editorial content. For instance, an entry might n
 Both index entries and sophisticated tagging systems can be hierarchical.
 
 # In Zettelkasten
-
 Luhmann kept his index cards tightly curated. They were meant mostly as a jumping-off point: the inter-note associations are more important.
 
-[How should note tagging practices change with ranked link visualization?](How%20should%20note%20tagging%20practices%20change%20with%20ranked%20link%20visualization.md)
+[[How should note tagging practices change with ranked link visualization]]?
 
 # Reference
 
-1. Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*. [How to Take Smart Notes - Ahrens](How%20to%20Take%20Smart%20Notes%20-%20Ahrens.md) 
+1. Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*. [[How to Take Smart Notes - Ahrens]]
     
     > In the Zettelkasten, keywords can easily be added to a note like tags and will then show up in the index. They should be chosen carefully and sparsely. Luhmann would add the number of one or two (rarely more) notes next to a keyword in the index (Schmidt 2013, 171).
     > 

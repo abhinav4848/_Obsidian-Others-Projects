@@ -2,16 +2,16 @@
 
 Some related notes:
 - [Original thought requires solitude](Original%20thought%20requires%20solitude.md)
-- [Culturally default behaviors fill spare time with others’ ideas](Culturally%20default%20behaviors%20fill%20spare%20time%20with.md)
-    - [People prefer doing to thinking](People%20prefer%20doing%20to%20thinking.md)
+- [[Culturally default behaviors fill spare time with others’ ideas]] 
+    - [[People prefer doing to thinking]]
     - [Many people find difficult creative work mostly unpleasant in the moment](https://notes.andymatuschak.org/zTaenCxxdcffpPUAzq3iDmQ) (No access on Andy’s site- Unavailable note)
 - [[Conversation with others often emphasizes the most well-understood elements of an idea]] 
 - [[Writing forces sharper understanding]]
     - [[Do your own thinking]]
-    - [Literature notes are secondary and separate](Literature%20notes%20are%20secondary%20and%20separate.md)
+    - [[Literature notes are secondary and separate]]
 -  [[Deep research requires a slower pace than tech industry work]]
 
-Exhortations which help: [[Get curious]]; [Get bored](Get%20bored.md); [Get playful](Get%20playful.md) 
+Exhortations which help: [[Get curious]]; [[Get bored]]; [[Get playful]] 
 
 # Partial list of practices meant to produce deliberateness, receptivity
 

@@ -38,7 +38,7 @@ One other nice benefit of this approach: [Evergreen notes lower the emotional s
 # References
 
 1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zCknixwETdFm1MWdWPwMcXs&stackedNotes=zSKD44o2VTbQuQYqmjupo4B) 
-2. Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*. [How to Take Smart Notes - Ahrens](How%20to%20Take%20Smart%20Notes%20-%20Ahrens.md)
+2. Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*. [[How to Take Smart Notes - Ahrens]]
 3. [Preparing Fragments Helps You to Ease Into Writing • Zettelkasten Method](https://zettelkasten.de/posts/ease-into-writing/)
     
     > To see with clarity if your research backs up your text’s structure sufficiently, the next step is to assign notes from your Zettelkasten to the items of your outline. When an item of your outline seems to be neglected because you don’t have enough notes that fit, you can continue your research, focusing on the missing pieces. As soon as you’re confident you got enough coverage for a start, you string the notes’s contents together according to the outline. Thus you create the very first draft. That’s all it takes to move from a plan to outline to manuscript. Then you begin to re-write, organize the material and start to make the text coherent.

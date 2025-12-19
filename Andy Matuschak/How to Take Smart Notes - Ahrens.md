@@ -1,13 +1,4 @@
 # How to Take Smart Notes - Ahrens
-
-Type of Link: 📝 Article
-Category talked about: Note taking
-Author: Andy Matuschak
-Completion Status: Started
-Last edited time: January 18, 2024 7:55 PM
-
-# **How to Take Smart Notes - Ahrens**
-
 Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
 
 A core book on [[§Note-writing systems.md|§Note-writing systems]] practice. Sönke focuses largely on the benefits of a Zettelkasten for the academic writing process. One of the core ideas here is that creative writing can become relatively closed-form and actionable; it can be made executable, GTD-style, through a series of steps drawing on a densely-connected note system.
@@ -28,7 +19,6 @@ We should beware automatic linkages. [[Prefer explicit associations to inferred
 - Even though the Zettelkasten makes suggestions here, too, for example based on joint literature references, making good cross-references is a matter of serious thinking and a crucial part of the development of thoughts.
 
 # Advice on structuring the note archive
-
 In the future, you’re likely to be thinking about “the impact of X on Y,” not a specific book which had a point about that topic. By using [[Evergreen notes should be concept-oriented]], you can build an organizational structure which reflects the future contexts in which you’d likely want to see the ideas you’ve distilled.
 
 - Many students and academic writers think like the early ship owners when it comes to note-taking. They handle their ideas and findings in the way it makes immediate sense: If they read an interesting sentence, they underline it. If they have a comment to make, they write it into the margins. If they have an idea, they write it into their notebook, and if an article seems important enough, they make the effort and write an excerpt. Working like this will leave you with a lot of different notes in many different places. Writing, then, means to rely heavily on your brain to remember where and when these notes were written down. A text must then be conceptualised independently from these notes, which explains why so many resort to brainstorming to arrange the resources afterwards according to this preconceived idea.
@@ -44,7 +34,6 @@ No need to treat every subject exhaustively: just write down what seems likely t
 - Because the slip-box is not intended to be an encyclopedia, but a tool to think with, we don’t need to worry about completeness. We don’t need to write anything down just to bridge a gap in a note sequence. We only write if it helps us with our own thinking.
 
 # Relative to memory systems
-
 Flashcards need to be elaborated and embedded in a context.
 
 - The information on flashcards is neither elaborated on nor embedded in some form of context. Each flashcard stays isolated instead of being connected with the network of theoretical frames, our experiences or our latticework of mental models.
@@ -59,7 +48,7 @@ Limitations of memory
 
 # Notes help you think accurately
 
-Writing while we read is a great way to monitor understanding: it’s hard to summarize something you don’t understand. The additional step of making associations and integrating that writing with prior notes makes this effect even more powerful. [Writing forces sharper understanding](Writing%20forces%20sharper%20understanding.md)
+Writing while we read is a great way to monitor understanding: it’s hard to summarize something you don’t understand. The additional step of making associations and integrating that writing with prior notes makes this effect even more powerful. [[Writing forces sharper understanding]]
 
 - If we try to fool ourselves here and write down incomprehensible words, we will detect it in the next step when we try to turn our literature notes into permanent notes and try to connect them with others.
 - Writing notes and sorting them into the slip-box is nothing other than an attempt to understand the wider meaning of something. The slip-box forces us to ask numerous elaborating questions: What does it mean? How does it connect to … ? What is the difference between … ? What is it similar to?
@@ -69,7 +58,7 @@ Writing while we read is a great way to monitor understanding: it’s hard to su
 - described in his famous text about the Enlightenment: “Nonage [immaturity](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zFuk9QqspNYHAgvzZc33ZGH&stackedNotes=zDXBGEWk7msyonQ2Ngnrf8h&stackedNotes=zB74H9CuWrosEuqve7jZyCo&stackedNotes=zRbqwbnhmVdfLtKxMCibMoX&stackedNotes=zH7AVUkqYYK7xmoAn8PTpAV) is the inability to use one’s own understanding without another’s guidance. This nonage is self-imposed if its cause lies not in lack of understanding but in indecision and lack of courage to use one’s own mind without another’s guidance. Dare to know! (Sapere aude.) ‘Have the courage to use your own understanding,’ is therefore the motto of the Enlightenment.” (Kant 1784)
 - But the first question I asked myself when it came to writing the first permanent note for the slip-box was: What does this all mean for my own research and the questions I think about in my slip-box? This is just another way of asking: Why did the aspects I wrote down catch my interest?
 
-Zettelkasten is more epistemologically honest, likely to find contrarian truths [Evergreen notes are a safe place to develop wild ideas](Evergreen%20notes%20are%20a%20safe%20place%20to%20develop%20wild%20ideas.md) [[Writing forces sharper understanding]]
+Zettelkasten is more epistemologically honest, likely to find contrarian truths [[Evergreen notes are a safe place to develop wild ideas]] [[Writing forces sharper understanding]]
 
 - Developing arguments and ideas bottom-up instead of top-down is the first and most important step to opening ourselves up for insight.
 

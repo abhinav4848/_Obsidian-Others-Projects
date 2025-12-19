@@ -41,7 +41,7 @@ One key antidote: [[Write about what you read to internalize texts deeply]]
     
     > It is easy {in the world to live after the world’s opinion}; it is easy {in solitude to live after our own}; but the great man is he who {in the midst of the crowd} keeps {with perfect sweetness} {the independence of solitude}.
     > 
-7. [Edwards, P. N. (2005). How to Read a Book.](Edwards,%20P%20N%20(2005)%20How%20to%20Read%20a%20Book.md) 
+1. [[Edwards, P. N. (2005). How to Read a Book.]] 
     
     > Don’t wait for the author to hammer you over the head. Instead, from the very beginning, constantly generate hypotheses (“the main point of the book is that…”) and questions (“How does the author know that…?”) about the book.
     > 

@@ -1,14 +1,4 @@
 # Taxonomy of note types
-
-Type of Link: 📝 Article
-Category talked about: Note taking
-Score /5: ⭐️⭐️⭐️⭐️⭐️
-Author: Andy Matuschak
-Completion Status: Started
-Last edited time: January 18, 2024 7:55 PM
-
-# **Taxonomy of note types**
-
 ==TODO: flesh this out; write a note for each note type; etc==
 
 For me, the practice of writing and revising notes is, at its core, about trying to move up the following rough ladder:
@@ -17,17 +7,16 @@ For me, the practice of writing and revising notes is, at its core, about trying
 - Prompts and incomplete notes in writing inbox ([A writing inbox for transient and incomplete notes](A%20writing%20inbox%20for%20transient%20and%20incomplete%20notes.md)), which are meant to possibly become [Evergreen Notes](Evergreen%20Notes%208b05f5bf420f4caaad50f6fea2828638.md). These prompts may accumulate writing over time via spaced repetition (see [[Spaced repetition may be a helpful tool to incrementally develop inklings]])
 - [Evergreen Notes](Evergreen%20Notes%208b05f5bf420f4caaad50f6fea2828638.md), in increasingly complex stages of development:
     - stubs implicitly defined through backlinks ([Backlinks can be used to implicitly define nodes in knowledge management systems](https://notes.andymatuschak.org/zL9q21MA7ygsKVfvn6FwBMq)); e.g. [Note-writing system](https://notes.andymatuschak.org/zGKtrhpZ3hS8bw8UGL8hMTP), [Audiobooks](https://notes.andymatuschak.org/zG91aqpyGEiy8McMHAW7juq)
-    - simple definitions for terms of art, little of my own added; e.g. [Span of absolute judgment](https://notes.andymatuschak.org/zMQK1sFXWbVMbSQAsjSTUvm), [**Spacing effect**](Spacing%20effect.md)
+    - simple definitions for terms of art, little of my own added; e.g. [Span of absolute judgment](https://notes.andymatuschak.org/zMQK1sFXWbVMbSQAsjSTUvm), [[Spacing effect]]
     - [[Bridge notes narrowly relate two adjacent terms]] 
     - precise, narrow declarative notes ([[Prefer note titles with complete phrases to sharpen claims]]); e.g. [Human channel capacity increases with stimulus dimensionality](https://notes.andymatuschak.org/z86ZRZ5s5ykUzGD8v8d33ro)
-    - sometimes these are framed as questions, when evidence is too inconclusive to frame sharply; e.g. [To what extent is exceptional ability heritable?](To%20what%20extent%20is%20exceptional%20ability%20heritable.md), [To what extent can application prompts supplant recall prompts in the mnemonic medium?](https://notes.andymatuschak.org/zMPNEnSC5ihp5MNMdxNJNdJ) 
-    - higher-level APIs ([Evergreen note titles are like APIs](Evergreen%20note%20titles%20are%20like%20APIs.md))
+    - sometimes these are framed as questions, when evidence is too inconclusive to frame sharply; e.g. [[To what extent is exceptional ability heritable]]?, [To what extent can application prompts supplant recall prompts in the mnemonic medium?](https://notes.andymatuschak.org/zMPNEnSC5ihp5MNMdxNJNdJ) 
+    - higher-level APIs ([[Evergreen note titles are like APIs]])
     - notes abstracting over many other notes, e.g. [Educational games are a doomed approach to creating enabling environments](https://notes.andymatuschak.org/zUVBJdPc4kBud5fsLmPFpbw), [[Reading texts on computers is unpleasant]]
     - personal terms of art, e.g. [Enacted experience](https://notes.andymatuschak.org/z92TGMiBsnraf5KXxSTNkBJ)
-- “Outline notes”, e.g. [§Enabling environments, games, and the Primer](https://notes.andymatuschak.org/zGSGS1UHDogPKtvZB5hdT2A)
+- “Outline notes”, e.g. [§Enabling environments, games, and the Primer](https://notes.andymatuschak.org/zGSGS1UHDogPKtvZB5hdT2A) 
 
 Note types outside this ladder:
-
 - Proper noun notes
     - “Literature notes”, titled after a single work and meant primarily as linkages to other more durable notes, and as targets for backlinks. I write these roughly as “outline notes,” except for someone else’s ideas. For example: [Miller - The magical number seven, plus or minus two](https://notes.andymatuschak.org/zNCrrN6aGXeuiVXgnoiT7ND)
     - Likewise, but less commonly, I also have “person notes” (e.g. [Anand Agarawala](https://notes.andymatuschak.org/zLXY8Ru3EzeKyjhqoYgCJD7)) and “business notes” (e.g. [Confluent](https://notes.andymatuschak.org/zQ2vjssuHu3869yDHpTmYbm))
@@ -40,5 +29,4 @@ Tactically speaking, I usually denote a note’s “type” with a tag.
 Don’t over-obsess or over-formalize this stuff. Remember: [Better note-taking misses the point; what matters is “better thinking”](Better%20note-taking%20misses%20the%20point;%20what%20matters%20is%20“better%20thinking”.md).
 
 # Reference
-
 1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k&stackedNotes=zLhoRUyjKU665EY16u4XXJy&stackedNotes=zTDjZQbKAT9pALtsk2HfePx)

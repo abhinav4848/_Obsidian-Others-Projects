@@ -1,23 +1,13 @@
 # Notes should surprise you
-
-Type of Link: 📝 Article
-Category talked about: 2nd Brain, Note taking
-Author: Andy Matuschak
-Completion Status: Started
-Last edited time: January 18, 2024 7:55 PM
-
-# **Notes should surprise you**
-
 If reading and writing notes doesn’t lead to surprises, what’s the point?
 
 If we just wanted to remember things, we have spaced repetition for that. If we just wanted to understand a particular idea thoroughly in some local context, we wouldn’t bother maintaining a system of notes over time.
 
 This is why we have dense networks of links ([Evergreen notes should be densely linked](Evergreen%20notes%20should%20be%20densely%20linked.md)): so that searches help us see unexpected connections.
 
-This is why we take [Evergreen notes should be concept-oriented](Evergreen%20notes%20should%20be%20concept-oriented.md): so that when writing about an idea that seems new, we stumble onto what we’ve already written about it (perhaps unexpectedly).
+This is why we take [[Evergreen notes should be concept-oriented]]: so that when writing about an idea that seems new, we stumble onto what we’ve already written about it (perhaps unexpectedly).
 
 # References
-
 1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zKiPFE1KYieeAJs3cEaCtdf&stackedNotes=zYaWNLqGvd3uLPDXkhRoWoq)
 2. Luhmann, N. (1992). Communicating with Slip Boxes. In A. Kieserling (Ed.), & M. Kuehn (Trans.), *Universität als Milieu: Kleine Schriften* (pp. 53–61). Retrieved from [http://luhmann.surge.sh/communicating-with-slip-boxes](http://luhmann.surge.sh/communicating-with-slip-boxes)
 3. One of the most basic presuppositions of communication is that the partners can mutually surprise each other. Only in the way can information be produced in the respective other.

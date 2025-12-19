@@ -8,7 +8,7 @@ But still, I often find that I sit down to my desk for four hours without ever r
 
 Meditation certainly helps here: [Dullness and distraction in creative work may arise from the same causes as in meditation](Dullness%20and%20distraction%20in%20creative%20work%20may%20arise%20from%20the%20same%20causes%20as%20in%20meditation.md). The key does seem to be continuous metacognitive awareness. It also helps to [Get curious](Get%20curious.md) and [Get playful](Get%20playful.md). And part of it, I observe, is just practice. I spent many years doing quite task-oriented work. The project of moving into increasingly challenging creative work is in part the project of getting comfortable being lost, and still making progress while remaining lost. [[Deep research requires a slower pace than tech industry work]]
 
-Related: [It’s hard to hear yourself think](It’s%20hard%20to%20hear%20yourself%20think.md).
+Related: [[It’s hard to hear yourself think]].
 
 # References
 1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zFuk9QqspNYHAgvzZc33ZGH&stackedNotes=zDXBGEWk7msyonQ2Ngnrf8h&stackedNotes=zB74H9CuWrosEuqve7jZyCo&stackedNotes=zRbqwbnhmVdfLtKxMCibMoX&stackedNotes=zH7AVUkqYYK7xmoAn8PTpAV&stackedNotes=z2qjVZKqSqrqkhFhvUpPDtd&stackedNotes=zQvbnYfHdG1gARTbtC4pje6&stackedNotes=zKBhqUkoRWoNV72aG21GYst&stackedNotes=zKzUzQENhyEDnuwPUhh2EQM&stackedNotes=zME6gV6mc1mQ2KDE5acyho8&stackedNotes=z2iksmfhifvy5a16Abv5MUW&stackedNotes=zHTevHGZQPu8QHpRhUmtsuK&stackedNotes=zSve33D7x1qe5WUjojDcM9y&stackedNotes=z2q7U5ZvXeDxXD6vXAbZb9a&stackedNotes=zWTgG8ddRz5h1WbNMYnrnqX)

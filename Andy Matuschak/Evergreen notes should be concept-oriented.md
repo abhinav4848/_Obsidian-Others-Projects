@@ -1,16 +1,7 @@
 # Evergreen notes should be concept-oriented
-
-Type of Link: 📝 Article
-Category talked about: Note taking
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
-
-# **Evergreen notes should be concept-oriented**
-
 It’s best to factor [Evergreen Notes](Evergreen%20Notes%208b05f5bf420f4caaad50f6fea2828638.md) by concept (rather than by author, book, event, project, topic, etc). This way, you discover connections across books and domains as you update and link to the note over time ([Evergreen notes should be densely linked](Evergreen%20notes%20should%20be%20densely%20linked.md)).
 
-The most straightforward way to take notes is to start a new note for each book, each project, or each research topic. Because each note covers many concepts, it can be hard to find what you’ve written when a concept comes up again later: you have to remember the name of each book or project which dealt with the topic (by contrast: [Evergreen notes should be atomic](Evergreen%20notes%20should%20be%20atomic.md)).
+The most straightforward way to take notes is to start a new note for each book, each project, or each research topic. Because each note covers many concepts, it can be hard to find what you’ve written when a concept comes up again later: you have to remember the name of each book or project which dealt with the topic (by contrast: [[Evergreen notes should be atomic]]).
 
 When you read another book which discusses the same concept, you’ll write a new note on that book. With this approach, there’s no accumulation (contra [Knowledge work should accrete](Knowledge%20work%20should%20accrete.md)). Your new thoughts on the concept don’t combine with the old ones to form a stronger whole: you just have a scattered set of notes on the concept, perhaps referring to it by different names, each embedded in some larger document.
 
@@ -20,14 +11,11 @@ If we read two books about exactly the same topic, we might easily link our note
 
 Organizing by concept makes note-taking a little harder, but in a useful way: when writing new notes, we have to find where they fit into the whole. So we explore some part of our prior web of notes, which may lead us somewhere unexpected.
 
-Over time, we accumulate notes which we can combine in increasingly complex ways ([Evergreen note titles are like APIs](Evergreen%20note%20titles%20are%20like%20APIs.md)) to produce novel insights ([Evergreen note-writing helps insight accumulate](Evergreen%20note-writing%20helps%20insight%20accumulate.md)).
+Over time, we accumulate notes which we can combine in increasingly complex ways ([[Evergreen note titles are like APIs]]) to produce novel insights ([Evergreen note-writing helps insight accumulate](Evergreen%20note-writing%20helps%20insight%20accumulate.md)).
 
 ---
 
 # References
-
-# Reference
-
 1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k&stackedNotes=zLhoRUyjKU665EY16u4XXJy&stackedNotes=z2hQEhqWkdRLL9JUwfawZZx) 
 - [Extend Your Mind and Memory With a Zettelkasten • Zettelkasten Method](https://zettelkasten.de/posts/extend-your-mind-and-memory-with-a-zettelkasten)
     
@@ -43,7 +31,7 @@ Over time, we accumulate notes which we can combine in increasingly complex ways
     
     > We could try to generalize the experiences of Paris, Florence, New York under general concepts like “art” or “exhibitions,” or “crowding” (inter-actionistic), or “mass,” or “freedom” or “education,” in order to see how the slip box reacts. Usually it is more fruitful to look for formulations of problems that relate heterogeneous things with each other.
     > 
-- Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*. [How to Take Smart Notes - Ahrens](How%20to%20Take%20Smart%20Notes%20-%20Ahrens.md)
+- Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*. [[How to Take Smart Notes - Ahrens]]
     
     > In the old system, the question is: Under which topic do I store this note? In the new system, the question is: In which context will I want to stumble upon it again?
     > 

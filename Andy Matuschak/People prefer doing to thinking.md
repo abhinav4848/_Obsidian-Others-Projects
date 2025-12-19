@@ -12,9 +12,9 @@ The phrase comes from a paper from Timothy Wilson and colleagues, describing a v
 
 Related:
 
-- [Culturally default behaviors fill spare time with others’ ideas](Culturally%20default%20behaviors%20fill%20spare%20time%20with.md)
+- [Culturally default behaviors fill spare time with others’ ideas](Culturally%20default%20behaviors%20fill%20spare%20time%20with%20others’%20ideas.md)
 - [Many people find difficult creative work mostly unpleasant in the moment](https://notes.andymatuschak.org/zTaenCxxdcffpPUAzq3iDmQ) (Restricted note on Andy’s site)
-- [It’s hard to hear yourself think](It’s%20hard%20to%20hear%20yourself%20think.md)
+- [[It’s hard to hear yourself think]]
 
 ---
 

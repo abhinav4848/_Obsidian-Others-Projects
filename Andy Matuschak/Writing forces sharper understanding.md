@@ -16,24 +16,22 @@ This practice is a rough kind of metacognitive support: [Metacognitive supports
 This observation appears to be true even for non-prose writing: [Many eminent thinkers need a writing surface to think](Many%20eminent%20thinkers%20need%20a%20writing%20surface%20to%20think.md). 
 
 # Backlinks
-
 - [Write about what you read to internalize texts deeply](Write%20about%20what%20you%20read%20to%20internalize%20texts%20deeply.md)
-    - and in particular, [Writing forces sharper understanding](https://notes.andymatuschak.org/zRbqwbnhmVdfLtKxMCibMoX)
+    - and in particular, [[Writing forces sharper understanding]]
 - [Peak - Ericsson and Pool](https://notes.andymatuschak.org/zEwJDpZiu1YQoXYznxioznL)
-    - “… as we looked for ways to make our message clearer to the reader, we would come up with new ways to think about deliberate practice ourselves. Researchers refer to this sort of writing as “knowledge transforming”… because the process of writing changes and adds to the knowledge that the writer had when starting out.” (75-76). [Writing forces sharper understanding](https://notes.andymatuschak.org/zRbqwbnhmVdfLtKxMCibMoX), [Insight through making](Insight%20through%20making.md)
-- [It’s hard to hear yourself think](It’s%20hard%20to%20hear%20yourself%20think.md)
+    - “… as we looked for ways to make our message clearer to the reader, we would come up with new ways to think about deliberate practice ourselves. Researchers refer to this sort of writing as “knowledge transforming”… because the process of writing changes and adds to the knowledge that the writer had when starting out.” (75-76).  [[Writing forces sharper understanding]], [[Insight through making]]
+- [[It’s hard to hear yourself think]]
     - [Writing forces sharper understanding](https://notes.andymatuschak.org/zRbqwbnhmVdfLtKxMCibMoX)
 - [Question-writing in the mnemonic medium may help the writer think about their topic](https://notes.andymatuschak.org/zASrUgV82dsvB2ZzJ39WmTP)
     - Because [Writing forces sharper understanding](https://notes.andymatuschak.org/zRbqwbnhmVdfLtKxMCibMoX), many thinkers will write an essay or a book in order to more deeply understand a topic. For similar reasons, writing questions in the mnemonic medium likely also helps writers understand their topic more deeply.
 - [§Note-writing systems](§Note-writing%20systems.md)
     - [Writing forces sharper understanding](https://notes.andymatuschak.org/zRbqwbnhmVdfLtKxMCibMoX)
-- [How to Take Smart Notes - Ahrens](How%20to%20Take%20Smart%20Notes%20-%20Ahrens.md)
+- [[How to Take Smart Notes - Ahrens]]
     - Writing while we read is a great way to monitor understanding: it’s hard to summarize something you don’t understand. The additional step of making associations and integrating that writing with prior notes makes this effect even more powerful. [Writing forces sharper understanding](https://notes.andymatuschak.org/zRbqwbnhmVdfLtKxMCibMoX)
     - Zettelkasten is more epistemologically honest, likely to find contrarian truths [Evergreen notes are a safe place to develop wild ideas](Evergreen%20notes%20are%20a%20safe%20place%20to%20develop%20wild%20ideas.md) [Writing forces sharper understanding](https://notes.andymatuschak.org/zRbqwbnhmVdfLtKxMCibMoX)
     - It’s hard to see what’s *not* said in a text. By integrating our reading observations with prior notes, we’re naturally confronted with rocks the author may have left unturned. [Writing forces sharper understanding](https://notes.andymatuschak.org/zRbqwbnhmVdfLtKxMCibMoX)
 
 # Reference
-
 1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zFuk9QqspNYHAgvzZc33ZGH&stackedNotes=zDXBGEWk7msyonQ2Ngnrf8h&stackedNotes=zB74H9CuWrosEuqve7jZyCo&stackedNotes=zRbqwbnhmVdfLtKxMCibMoX&stackedNotes=z6Y1zo4evjFNUim1nHtL6Sv)
 - Kant, I. (1996). An answer to the question: What is enlightenment? In A. Wood (Ed.), & M. J. Gregor (Trans.), *Practical philosophy* (pp. 11–22). [https://doi.org/10.1017/CBO9780511813306.005](https://doi.org/10.1017/CBO9780511813306.005) (Original work published 1784)
     

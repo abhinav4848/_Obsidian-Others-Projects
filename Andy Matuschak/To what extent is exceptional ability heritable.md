@@ -1,18 +1,9 @@
 # To what extent is exceptional ability heritable?
-
-Type of Link: 📝 Article
-Category talked about: Learning
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
-
-# **To what extent is exceptional ability heritable?**
-
 Nature or nurture?
 
 This topic tends to be quite political—it’s hard to find even-handed writing on the subject. We can mostly only measure loose indicators, but be careful of the distinction between what’s being measured and what’s being claimed. For instance, Ericsson et al (1993, p. 364–365) present various non-associations between ability tests and expertise, but that’s not at all the same as demonstrating heritability.
 
-- [Exceptional ability usually can’t be predicted by general ability tests](Exceptional%20ability%20usually%20can’t%20be%20predicted%20by.md)
+- [[Exceptional ability usually can’t be predicted by general ability tests]] 
 - Exceptional ability may correlate with personality traits (which are somewhat heritable)
 - Physical attributes, like height and muscle density, are heritable, so exceptional athletic ability is at least partially heritable.
 - Minor heritable differences in ability may lead to higher natural performance in childhood, which may cause more practice, in a virtuous cycle (argued in Ericsson et al, 1993; central thesis of Coyle, 2009).

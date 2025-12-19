@@ -14,7 +14,7 @@ Tools like these can be helpful for scaffolding the associative process, and the
 
 ## First:
 
-the process of thinking about the relationships between items is part of how you can [Do your own thinking](Do%20your%20own%20thinking.md). It forces you to engage with new material more deeply.
+the process of thinking about the relationships between items is part of how you can [[Do your own thinking]]. It forces you to engage with new material more deeply.
 
 ## Second:
 
@@ -26,7 +26,7 @@ your terminology will evolve over time, so text-based linkages aren’t going to
 
 # References
 
-- Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*. [How to Take Smart Notes - Ahrens](How%20to%20Take%20Smart%20Notes%20-%20Ahrens.md)
+- Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.  [[How to Take Smart Notes - Ahrens]])
     
     > Even though the Zettelkasten makes suggestions here, too, for example based on joint literature references, making good cross-references is a matter of serious thinking and a crucial part of the development of thoughts.
     > 

@@ -16,7 +16,7 @@ Consider some hypothetical leap of insight you’d like to be able to make. To m
 
 By contrast, because [[Evergreen notes should be atomic]], they’re small enough in scope that you can start and finish one note in well under half an hour (see Evergreen notes permit smooth incremental progress in writing (“incremental writing”)). Yet each note you write represents an increment in your thinking about that specific idea, and each note enriches the broader network of links ([Evergreen notes should be densely linked](Evergreen%20notes%20should%20be%20densely%20linked.md)). Because these are [Evergreen Notes](Evergreen%20Notes%208b05f5bf420f4caaad50f6fea2828638.md), you now have a clear place to stand as you iterate on this specific idea.
 
-The notes you write will interact with materials you read ([Evergreen note-writing helps reading efforts accumulate](Evergreen%20note-writing%20helps%20reading%20efforts%20accumulate.md)) and will produce the foundations of new manuscripts (Executable strategy for writing).
+The notes you write will interact with materials you read ([[Evergreen note-writing helps reading efforts accumulate]]) and will produce the foundations of new manuscripts (Executable strategy for writing).
 
 And if you can’t write even one atomic note on the idea you have, Spaced repetition may be a helpful tool to incrementally develop inklings.
 
