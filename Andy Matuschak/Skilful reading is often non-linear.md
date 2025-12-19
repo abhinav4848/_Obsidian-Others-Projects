@@ -9,10 +9,7 @@ An interesting contrary argument in McCutcheon (2015):
 > 
 
 # Reference
-
-1. 
-
-[Edwards, P. N. (2005). How to Read a Book.](Edwards,%20P%20N%20(2005)%20How%20to%20Read%20a%20Book.md) :
+1. [[Edwards, P N (2005) How to Read a Book]] :
 
 > The purpose of reading books like these is to gain information. Here, finding out what happens — as quickly and easily as possible — is your main goal. So unless you’re stuck in prison with nothing else to do, NEVER read a non-fiction book from beginning to end.
 > 

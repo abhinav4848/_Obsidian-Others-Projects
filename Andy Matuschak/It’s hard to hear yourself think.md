@@ -46,5 +46,5 @@ Exhortations which help: [[Get curious]]; [[Get bored]]; [[Get playful]]
 
 Andrew Sutherland (founder of Quizlet) on his project: “My computer is full of other people’s thoughts.” (later): “I want to turn down the volume on other people’s thoughts.”
 
-# Source
-1. https://notes.andymatuschak.org/zWzVw2VM4TPjpKXnHUfLaso
+# Reference
+1. [Andy Link](https://notes.andymatuschak.org/zWzVw2VM4TPjpKXnHUfLaso)

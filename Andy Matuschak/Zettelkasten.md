@@ -10,3 +10,6 @@ Though Luhmann is often mentioned most in association with the concept, it appar
 Arno Schmidt, a modernist German author, used this method extensively and published a book called Zettels Traum (“Slip Dream”) which interpolates scholarly commentary (in a zettel-ish style) with a primary narrative. ([video](https://vimeo.com/6422567), [article](https://www.zinzin.com/observations/2013/who-was-arno-schmidt-and-what-is-zettels-traum-some-evidentiary-fragments/))
 
 See also: [[Similarities and differences between evergreen note-writing and Zettelkasten]]
+
+# Reference
+1. [Andy Link](https://notes.andymatuschak.org/zDcuS8A5uxGR8hQygsqP83A)

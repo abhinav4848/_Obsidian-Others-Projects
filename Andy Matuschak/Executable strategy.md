@@ -1,13 +1,5 @@
 # Executable strategy
-
-Type of Link: 📝 Article
-Category talked about: Business, Learning
-Author: Andy Matuschak
-Last edited time: January 18, 2024 7:55 PM
-
-# **Executable strategy**
-
-In creative work and in life, many goals seem unpredictable and unwieldy, reliant on hope and luck: starting a habit, getting in shape, writing a book, doing a research project, etc. (see [Core practices in knowledge work are often ad-hoc](Core%20practices%20in%20knowledge%20work%20are%20often%20ad-hoc.md))
+In creative work and in life, many goals seem unpredictable and unwieldy, reliant on hope and luck: starting a habit, getting in shape, writing a book, doing a research project, etc. (see [[Core practices in knowledge work are often ad-hoc]])
 
 Cleaning the kitchen isn’t like that. Even clearing out one’s inbox isn’t like that ([Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle](https://notes.andymatuschak.org/z2Pg1CbUyvjV4jEoqmr8Xua)). For many prosaic goals, you have **executable strategies**, which reliably achieve the goal with a predictable, manageable amount of effort. They’re a kind of metacognitive support ([Metacognitive supports as cognitive scaffolding](https://notes.andymatuschak.org/zL2zRTTRhWf1Lx4x9p2uCDt)).
 

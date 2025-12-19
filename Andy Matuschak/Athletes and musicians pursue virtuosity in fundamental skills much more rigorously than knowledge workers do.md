@@ -10,7 +10,7 @@ Top-tier athletes are fanatically disciplined about improving their foundational
 
 By comparison, [Knowledge work rarely involves deliberate practice](https://notes.andymatuschak.org/zMbCwoVdjsqPNyTRRr3phPN). Knowledge workers seem surprisingly unserious about honing fundamental skills like 
 
-1. reading ([People seem to forget most of what they read, and they mostly don’t notice](People%20seem%20to%20forget%20most%20of%20what%20they%20read,%20and%20they%20mostly%20don't%20notice.md)), 
+1. reading ([[People seem to forget most of what they read, and they mostly don’t notice]]), 
 2. note-taking ([Note-writing practices are generally ineffective](Note-writing%20practices%20are%20generally%20ineffective.md)), 
 3. developing ideas over time ([[Knowledge workers usually have no specific methods for developing ideas over time]]).
 

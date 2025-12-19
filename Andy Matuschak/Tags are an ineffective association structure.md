@@ -1,13 +1,4 @@
 # Tags are an ineffective association structure
-
-Type of Link: 📝 Article
-Category talked about: Note taking
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
-
-# **Tags are an ineffective association structure**
-
 Tags are an easy way to relate heterogenous items, but they’re quite a low-signal way of describing relationships.
 
 All items with a given tag are presented as being related… but it’s hard to see how. They’re just a jumbled, unordered list.

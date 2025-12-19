@@ -1,14 +1,5 @@
 # Indexed references vs. tags
-
-Type of Link: 📝 Article
-Category talked about: 2nd Brain, Note taking
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
-
-# **Indexed references vs. tags**
-
-Tagging is common in contemporary information systems, but [Tags are an ineffective association structure](Tags%20are%20an%20ineffective%20association%20structure.md). One more effective historical antecedent is the *index* in publishing.
+Tagging is common in contemporary information systems, but [[Tags are an ineffective association structure]]. One more effective historical antecedent is the *index* in publishing.
 
 Indexes don’t strive to include *every* relevant page number for a given term; instead, it includes a handful of top references. By contrast, the listing of items with a particular tag often becomes quite unwieldy.
 
@@ -22,7 +13,6 @@ Luhmann kept his index cards tightly curated. They were meant mostly as a jumpin
 [[How should note tagging practices change with ranked link visualization]]?
 
 # Reference
-
 1. Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*. [[How to Take Smart Notes - Ahrens]]
     
     > In the Zettelkasten, keywords can easily be added to a note like tags and will then show up in the index. They should be chosen carefully and sparsely. Luhmann would add the number of one or two (rarely more) notes next to a keyword in the index (Schmidt 2013, 171).
