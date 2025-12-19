@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andy Matuschak/Evergreen Notes.md",
+                "file": "Andy Matuschak/Note-writing practices are generally ineffective.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evergreen Notes"
+              "title": "Note-writing practices are generally ineffective"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andy Matuschak/Evergreen Notes.md",
+                "file": "Andy Matuschak/Note-writing practices are generally ineffective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Evergreen Notes"
+              "title": "Backlinks for Note-writing practices are generally ineffective"
             }
           },
           {
@@ -184,8 +184,13 @@
   },
   "active": "fa320fb4d901b7ac",
   "lastOpenFiles": [
-    "Ideaverse Merged/Atlas/Dots/Statements/Art of Link Curation.md",
+    "Andy Matuschak/Evergreen note-writing as fundamental unit of knowledge work.md",
+    "Andy Matuschak/Note-writing practices are generally ineffective.md",
+    "Andy Matuschak/Most people take only transient notes.md",
+    "Evergreen Notes 8b05f5bf420f4caaad50f6fea2828638.md",
+    "Fleeting Note d5e2031e3e8c477c9b1dc4bb19764bd0.md",
     "Andy Matuschak/Evergreen Notes.md",
+    "Ideaverse Merged/Atlas/Dots/Statements/Art of Link Curation.md",
     "Andy Matuschak/Enacted experiences amplify the power of narrative.md",
     "Andy Matuschak/Evergreen notes should be atomic.md",
     "Ideaverse Merged/Calendar/Logs/Idea Log (Example).md",
@@ -206,11 +211,6 @@
     "current_export_metadata.json",
     "Ideaverse Merged/Atlas/Dots/Statements/First Light, Last Light.md",
     "Ideaverse Merged/Atlas/Dots/Statements/Effort Maestro.md",
-    "Ideaverse Merged/Atlas/Dots/Statements/ARC Ideation.md",
-    "Ideaverse Merged/Atlas/Dots/Statements/ACE Headspace.md",
-    "Ideaverse Merged/Atlas/Notes/Things/OODA Loop.md",
-    "Ideaverse Merged/Atlas/Notes/Ideas/OODA Loop.md",
-    "Ideaverse Merged/Atlas/Dots/Things/OODA Loop.md",
     "Ideaverse Merged/Atlas/Dots/Statements/Questions",
     "Snipd/Base/Snipd.base",
     "desktop.ini",

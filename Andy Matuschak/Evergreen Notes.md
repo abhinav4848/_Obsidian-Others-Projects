@@ -2,11 +2,11 @@ _Evergreen notes_ are written and organized to evolve, contribute, and accumula
 
 It’s hard to write notes that are worth developing over time. These principles help:
 
-- [[Evergreen notes should be atomic]]
-- [[Evergreen notes should be concept-oriented]]
-- [[Evergreen notes should be densely linked]]
-- [[Prefer associative ontologies to hierarchical taxonomies]]
-- [[Write notes for yourself by default, disregarding audience]]
+- [[Evergreen notes should be atomic]] 
+- [[Evergreen notes should be concept-oriented]] 
+- [[Evergreen notes should be densely linked]] 
+- [[Prefer associative ontologies to hierarchical taxonomies]] 
+- [[Write notes for yourself by default, disregarding audience]] 
 
 This concept is of course enormously indebted to the notion of a [[Andy Matuschak/Zettelkasten]] Zettelkasten. See [[Similarities and differences between evergreen note-writing and Zettelkasten]].
 
