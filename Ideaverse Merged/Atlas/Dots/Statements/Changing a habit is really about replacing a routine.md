@@ -1,17 +1,17 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Dots/Things/Defining a habit]]"
-related:
-  - "[[Ideaverse Merged/Atlas/Dots/Statements/Habit formation provides an evolutionary advantage]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Defining a habit]]"
+related: []
 created: 2020-06-01
 ---
+
 Duhigg's book, while full of the requisite filler of long pop-science stories, breaks ground on providing a simple habit formation process.[^1] 
 
 Habits are incredibly resilient: in some cases, people with extensive brain damage who could not even remember where they lived could still adhere to their old habits and pick up new ones. This is because learning and maintaining habits happens in the *basal ganglia*, a part of your brain that can function normally even if the rest of your brain is damaged.
 
 Unfortunately, this resilience means that even if you kick a bad habit, like smoking, you will always be at risk of relapsing.
 
-Habits are simple cue-routine-reward loops that save effort and therefore endure. They are [[Ideaverse Merged/Atlas/Dots/Things/Natural Selection]] in action. See: [[Ideaverse Merged/Atlas/Dots/Statements/Habit formation provides an evolutionary advantage]].
+Habits are simple cue-routine-reward loops that save effort and therefore endure. They are [[Ideaverse Merged/Atlas/Notes/Ideas/Natural Selection]] in action. See: [[Ideaverse Merged/Atlas/Notes/Ideas/Habit formation provides an evolutionary advantage]].
 
 **Habits stick because they create craving.**
 
@@ -24,4 +24,4 @@ What Duhigg—and over 500 research articles who referenced Baumeister's work—
 
 **Following habits is not only a key part of our lives but also a key part of organizations and companies. All habits comprise a cue-routine-reward loop, and the easiest way to change this is to substitute the routine for something else while keeping the cue and reward the same. Achieving lasting change in life is difficult, but it can be done by focusing on important keystone habits such as willpower.**
 
-[^1]: Too simple perhaps, because in making the process super sticky with only 3 steps, he left out an important fourth step between Cue and Routine: Craving. James Clear picked up on this too and made it explicit in [[Ideaverse Merged/Atlas/Dots/Statements/How Atomic Habits fit into the conversation on habits]]
+[^1]: Too simple perhaps, because in making the process super sticky with only 3 steps, he left out an important fourth step between Cue and Routine: Craving. James Clear picked up on this too and made it explicit in [[Ideaverse Merged/Atlas/Notes/Ideas/How Atomic Habits fit into the conversation on habits]]

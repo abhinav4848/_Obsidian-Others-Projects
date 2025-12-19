@@ -2,7 +2,7 @@
 up:
   - "[[ACE Headspace]]"
 related:
-  - "[[Ideaverse Merged/Atlas/Notes/Statements/ACE helps you with context switching]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Statements/Statements/ACE helps you with context switching]]"
 created: 2023-08-21
 ---
  In PKM, there are three main headspaces (or "thinking orientations") to move between.

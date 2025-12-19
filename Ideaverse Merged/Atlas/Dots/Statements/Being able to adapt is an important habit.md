@@ -1,9 +1,11 @@
 ---
 up:
   - "[[Habits Map]]"
+related: []
 created: 2014-06-28
 modified: 2020-05-28
 ---
+
 No day is perfect. It's crucial to balance discipline with being flexible. Too much order is fragile. 
 
 If your morning isn't perfect, deal with it. Lamenting over an interrupted routine won't get you anything worth having.

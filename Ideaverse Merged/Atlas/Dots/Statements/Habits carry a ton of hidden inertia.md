@@ -2,10 +2,11 @@
 up:
   - "[[Habits Map]]"
 related:
-  - "[[Ideaverse Merged/Atlas/Dots/Things/Feedback Loop]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Feedback Loop]]"
 created: 2020-06-01
 ---
-While some [[Ideaverse Merged/Atlas/Dots/Things/Feedback Loop]]s show immediate results, many times progress is hidden until much further along in time. This type of progress, where it's not obvious and visible is basically "hidden inertia". 
+
+While some [[Ideaverse Merged/Atlas/Notes/Ideas/Feedback Loop]]s show immediate results, many times progress is hidden until much further along in time. This type of progress, where it's not obvious and visible is basically "hidden inertia". 
 
 > [!NOTE]- Some links and content in this note have been removed.
 > Because this is a vertical slice of my actual PKM system, I can't include everything in this vault and left out some notes and material for ease of navigation and understanding the concepts (rather than getting lost in the knowledge) as well as for privacy. 
@@ -16,7 +17,7 @@ Whatever is happening above ground, below ground it's like trying to push a rail
 
 Or really, this is another reason why [[Pace Layers]] are such a fundamentally powerful concept.
 
-This relates to one of my all-time favorite truisms: [[Ideaverse Merged/Atlas/Dots/Things/Like begets like]].
+This relates to one of my all-time favorite truisms: [[Ideaverse Merged/Atlas/Notes/Ideas/Like begets like]].
 
 And here are a couple other riffs on that: 
 

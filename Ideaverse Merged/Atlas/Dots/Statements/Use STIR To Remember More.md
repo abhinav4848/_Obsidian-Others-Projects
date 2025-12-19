@@ -4,7 +4,8 @@ up:
 related: []
 created: 2022-06-01
 ---
- *What will Future Me like to see?*
+
+*What will Future Me like to see?*
 
 "STIR" stands for:
 - **S**pace
@@ -19,7 +20,7 @@ Wildly, this maps to the universal ACE folder framework:
 - **C**alendar is for moments in TIME
 - **E**fforts are for actions & projects of IMPORTANCE
 
-See [[Ideaverse Merged/Atlas/Dots/Things/ACE Folder Framework]] for more.
+See [[Ideaverse Merged/Atlas/Notes/Ideas/ACE Folder Framework]] for more.
 
 ---
 ## Example of how STIR works in the real world
@@ -55,4 +56,4 @@ Here are alternative rhymes you might prefer:
 - Importance = Efforts
 - Relatedness = The links between them all
 
-See [[Ideaverse Merged/Atlas/Dots/Things/ACE Folder Framework]] for more.
+See [[Ideaverse Merged/Atlas/Notes/Ideas/ACE Folder Framework]] for more.

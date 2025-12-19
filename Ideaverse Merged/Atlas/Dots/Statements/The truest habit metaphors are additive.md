@@ -4,6 +4,7 @@ up:
 related: []
 created: 2014-01-01
 ---
+
 There are two metaphorical ways to talk about habits: additive and subtractive.
 
 **Subtractive**
@@ -12,7 +13,7 @@ When you repeat the same action, it's like walking the same path: eventually a t
 **Additive**
 When you repeat the same action, it's like adding another strand to a string: eventually that string becomes a rope, and that rope becomes a cable.
 
-I say additive is the truest metaphor for habit formation because that's what is happening in the brain. Actions cause specific neurons to connect. The more they connect, the more efficient they become at connecting. This is through dendrites growing spines (see [[Ideaverse Merged/Atlas/Dots/Things/The neural formation of habits is additive]]).
+I say additive is the truest metaphor for habit formation because that's what is happening in the brain. Actions cause specific neurons to connect. The more they connect, the more efficient they become at connecting. This is through dendrites growing spines (see [[Ideaverse Merged/Atlas/Notes/Ideas/The neural formation of habits is additive]]).
 
 To conclude, even those neural formations are additive.
 

@@ -1,10 +1,13 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Dots/Things/Trust the process (kit)]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Trust the process (kit)]]"
 related: []
 created: 2014-01-01
 modified: 2022-03-15
+tags:
+  - source/speech
 ---
+
 What's up with public restrooms having all those scribbles on the walls?
 
 - _Tina loves Joey."_

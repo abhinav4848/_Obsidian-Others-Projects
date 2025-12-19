@@ -1,10 +1,11 @@
 ---
 up:
-  - "[[Andy Matuschak/Evergreen Notes]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Evergreen notes]]"
 related:
-  - "[[Ideaverse Merged/Atlas/Dots/Statements/Note-making sharpens your thinking]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Note-making sharpens your thinking]]"
 created: 2020-06-01
 ---
+
 A second-order effect that results from "linking your thinking" is how much "Optionality" it offers. 
 
 Simply put, optionality is not feeling stuck.

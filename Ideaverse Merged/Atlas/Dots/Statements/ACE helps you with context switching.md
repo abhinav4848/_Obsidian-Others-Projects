@@ -1,8 +1,8 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Dots/Things/ACE Folder Framework]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Ideas/ACE Folder Framework]]"
 related:
-  - "[[Ideaverse Merged/Atlas/Dots/Statements/ACE honors the 3 head spaces of PKM]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Ideas/ACE honors the 3 head spaces of PKM]]"
 created: 2023-08-21
 ---
 It's hard to switch contexts. It's also hard to know when you should. ACE helps with that.

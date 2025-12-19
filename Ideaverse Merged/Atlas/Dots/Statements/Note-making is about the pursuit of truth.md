@@ -1,10 +1,11 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Dots/Things/On the process of note-making]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Ideas/On the process of note-making]]"
 related: []
 created: 2020-06-01
 ---
- *Where our attention goes, is where our meaning grows.*
+
+*Where our attention goes, is where our meaning grows.*
 
 So if we spend our time *making* notes, we are naturally trying to make sense of things. When we forge evergreen notes and make MOCs, we are forced to ask meaningful questions:
 
@@ -14,4 +15,4 @@ Sometimes we are intentional about finding meaning. Cue the angsty existential w
 
 Sometimes meaning bubbles up from just living and doing. This is *bottom-up* thinking.
 
-Despite our best efforts, meaning hits us from all directions. So, to grapple with this fluid pursuit of truth, we need to be able to think just as fluidly. [[Ideaverse Merged/Atlas/Dots/Things/Fluid Thinking]].
+Despite our best efforts, meaning hits us from all directions. So, to grapple with this fluid pursuit of truth, we need to be able to think just as fluidly. [[Ideaverse Merged/Atlas/Notes/Ideas/Fluid Thinking]].

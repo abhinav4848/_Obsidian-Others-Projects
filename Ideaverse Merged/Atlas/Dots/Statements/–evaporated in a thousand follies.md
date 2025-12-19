@@ -1,10 +1,13 @@
 ---
 up:
   - "[[Ideaverse Merged/Atlas/Dots/Things/Direction (re Flow)]]"
-related: []
+in:
+  - "[[Ideaverse Merged/Atlas/Maps/Quotes]]"
+by:
+  - "[[Alexandre Dumas]]"
+related:
 created: 2020-06-01
-tags:
-  - source/quote/100
+rank: 4
 ---
 Dantes asks, 
 
@@ -27,4 +30,4 @@ light, spark, explode, electricity, lightning, illumination
 
 I mash up this concept from [[Alexandre Dumas]] with the Large Hadron Collider in Switzerland in my LYT workshop lesson focused on [[Ideaverse Merged/Atlas/Dots/Things/Thought Collisions]].
 
-Over at [[Ideaverse Merged/Atlas/Dots/Things/MOCs are Dialectics]], we continue marinating in this pressure cooker of thought.
+Over at [[Ideaverse Merged/Atlas/Dots/Statements/Statements/MOCs are Dialectics]], we continue marinating in this pressure cooker of thought.

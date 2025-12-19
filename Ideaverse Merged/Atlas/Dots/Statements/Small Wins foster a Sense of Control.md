@@ -4,9 +4,10 @@ up:
 related: []
 created: 2020-06-01
 ---
+
 In the literature, which I've forgotten, one of the most apparent attributes in building up desired habits is the concept of small wins. 
 
-Small Wins encourage [[Ideaverse Merged/Atlas/Dots/Things/Flow]]; and Flow encourages itself, so it's fair to say that: Small Wins create a [[Ideaverse Merged/Atlas/Dots/Things/Feedback Loop]]. In terms of making notes in our PKM systems, [[Ideaverse Merged/Atlas/Dots/Things/Progressive Ideation]].
+Small Wins encourage [[Ideaverse Merged/Atlas/Notes/Ideas/Flow]]; and Flow encourages itself, so it's fair to say that: Small Wins create a [[Ideaverse Merged/Atlas/Notes/Ideas/Feedback Loop]]. In terms of making notes in our PKM systems, [[Ideaverse Merged/Atlas/Notes/Ideas/Progressive Ideation]].
 
 I remember one example from "The Happiness Advantage" by Shawn Achor. He wants to play the guitar more, so he removes it from the closet and places in prominently in his house. Now that he sees it, he plays it. This is also a strong instance of an important concept: [[Out of Sight, Out of Mind]]. 
 

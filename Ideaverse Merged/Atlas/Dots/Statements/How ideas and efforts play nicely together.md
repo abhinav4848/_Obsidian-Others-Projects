@@ -2,13 +2,13 @@
 up:
   - "[[Efforts]]"
 related:
-  - "[[Ideaverse Merged/Atlas/Dots/Statements/The big differences between efforts and projects]]"
-  - "[[Ideaverse Merged/Atlas/Dots/Statements/Why Efforts are Liberating]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Ideas/The big differences between efforts and projects]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Why Efforts are Liberating]]"
 created: 2020-06-01
 ---
 The best way to understand "efforts" is to walk through an example of how "efforts" naturally support existing ideas.
 
-For example, check out [[Ideaverse Merged/Atlas/Dots/Statements/Sensemaking happens by triangulation]]. It started out as an idea I had. I wanted to better understand what "sensemaking" was and how it worked. 
+For example, check out [[Ideaverse Merged/Atlas/Notes/Ideas/Sensemaking happens by triangulation]]. It started out as an idea I had. I wanted to better understand what "sensemaking" was and how it worked. 
 
 - So I made a new note. 
 - It was called "triangulation" 
@@ -19,7 +19,7 @@ For example, check out [[Ideaverse Merged/Atlas/Dots/Statements/Sensemaking happ
 - I felt the spark of wanting to share this idea.
 - ***That's when it became an effort!***
 - That forced the title to change one more time.
-	- So "Sensemaking through triangulation" became [[Ideaverse Merged/Atlas/Dots/Statements/Sensemaking happens by triangulation]]. Yes, that's much stronger.
+	- So "Sensemaking through triangulation" became [[Ideaverse Merged/Atlas/Notes/Ideas/Sensemaking happens by triangulation]]. Yes, that's much stronger.
 - Then I made it into a workshop lesson.
 - Then I replaced it in the workshop because I wanted to get us more on hands-up repetitions.
 - But I still liked the idea, so I rewrote it into a youtube video

@@ -1,11 +1,11 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Dots/Things/ACE Folder Framework]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Ideas/ACE Folder Framework]]"
 related:
-  - "[[Ideaverse Merged/Atlas/Dots/Statements/Use STIR To Remember More]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Use STIR To Remember More]]"
 created: 2023-08-21
 ---
-The reason why the [[Ideaverse Merged/Atlas/Dots/Things/ACE Folder Framework]] works is because it allows you to organize by *Intention*.
+The reason why the [[Ideaverse Merged/Atlas/Notes/Ideas/ACE Folder Framework]] works is because it allows you to organize by *Intention*.
 
 - You can use the **Atlas** ***to understand***,
 - You can use the **Calendar** ***to focus***,
@@ -14,7 +14,7 @@ The reason why the [[Ideaverse Merged/Atlas/Dots/Things/ACE Folder Framework]] w
 # A deeper dive into how ACE works
 To truly explain why ACE is the most universal folder system, we have to take a quick detour to talk about how we organize things.
 
-ACE works because it matches the "STI" of [[Ideaverse Merged/Atlas/Dots/Statements/Use STIR To Remember More|STIR]] (the universal elements of organizing).
+ACE works because it matches the "STI" of [[Ideaverse Merged/Atlas/Notes/Ideas/Use STIR To Remember More|STIR]] (the universal elements of organizing).
 
 - **A**tlas is for the **S**pace of ideas, assets, and knowledge, think "Knowledge is Power".
 - **C**alendar is for moments in **T**ime, like meeting notes, thoughts, and other jots.
@@ -95,11 +95,11 @@ What’s better, is that it actually works in practice. Even further, it truly i
 - Importance = Efforts
 - Relatedness? It's the links between them all.
 
-[[Ideaverse Merged/Atlas/Dots/Statements/Use STIR To Remember More]]
+[[Ideaverse Merged/Atlas/Notes/Ideas/Use STIR To Remember More]]
 
 ---
 ## Q: I used ACCESS, how do I adjust to ACE?
-While I liked the aesthetic of 6 folders, there is something too powerful in how ACE maps to [[Ideaverse Merged/Atlas/Dots/Statements/Use STIR To Remember More]]. Just put `Cards`, `Sources`, and `Special` under `Atlas` for now.
+While I liked the aesthetic of 6 folders, there is something too powerful in how ACE maps to [[Ideaverse Merged/Atlas/Notes/Ideas/Use STIR To Remember More]]. Just put `Cards`, `Sources`, and `Special` under `Atlas` for now.
 
 - Atlas
 	- Cards
@@ -108,7 +108,7 @@ While I liked the aesthetic of 6 folders, there is something too powerful in how
 - Calendar
 - Efforts
 
-Then, when you're ready, go to [[Ideaverse Merged/Atlas/Dots/Things/The ACE Folder Framework Flexes For You]] to customize it.
+Then, when you're ready, go to [[Ideaverse Merged/Atlas/Notes/Ideas/The ACE Folder Framework Flexes For You]] to customize it.
 
 ---
 

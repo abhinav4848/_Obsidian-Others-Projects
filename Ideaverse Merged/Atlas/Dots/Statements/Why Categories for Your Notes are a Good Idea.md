@@ -4,6 +4,7 @@ up:
 related: []
 created: 2020-06-01
 ---
+
 The idea that "categories are bad" hinges on a faulty notion that categories limit access and cause rigidity that inhibit organic thinking.
 
 That argument applies to a system of folders. It does not apply to more fluid structures. Let's explore...
@@ -33,7 +34,7 @@ Do you have more than 300 notes or so? You have categories. You just aren't call
 - Do you have "daily notes" or timestamped notes? Certainly seems like a category to me; and a rigid one at that! [^3] 
 If you only have notes that are directly linked to other notes—and nothing else—then you can truly say you have no categories. The price for no categorization is steep.
 
-Please read about the framework most likely to produce a paradigm shift in your knowledge management game: [[Ideaverse Merged/Atlas/Dots/Things/MOCs Overview]]. 
+Please read about the framework most likely to produce a paradigm shift in your knowledge management game: [[Ideaverse Merged/Atlas/Notes/Ideas/MOCs Overview]]. 
 
 ---
 

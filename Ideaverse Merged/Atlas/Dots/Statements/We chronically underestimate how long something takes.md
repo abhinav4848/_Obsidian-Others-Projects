@@ -6,7 +6,8 @@ created: 2020-06-01
 tags:
   - note/develop🍃
 ---
- *If you're confident about time management, you have a problem.*
+
+*If you're confident about time management, you have a problem.*
 
 Cognitive Bias...what's this called?
 

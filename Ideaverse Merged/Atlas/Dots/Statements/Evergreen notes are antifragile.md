@@ -1,10 +1,11 @@
 ---
 up:
-  - "[[Andy Matuschak/Evergreen Notes]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Evergreen notes]]"
 related: []
 created: 2020-06-01
 ---
-The most profound and revolutionary aspect of evergreen notes is that they exhibit [[Ideaverse Merged/Atlas/Dots/Things/Antifragility]]. The effects of this are hard to overstate.
+
+The most profound and revolutionary aspect of evergreen notes is that they exhibit [[Ideaverse Merged/Atlas/Notes/Ideas/Antifragility]]. The effects of this are hard to overstate.
 
 In essence, that means they grow more valuable as they encounter more stressors. I.e. As you encounter related ideas, you link them to your existing evergreen note—even if they directly contradict your existing note. 
 

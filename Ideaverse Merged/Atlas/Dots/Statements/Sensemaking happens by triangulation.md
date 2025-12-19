@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Dots/Things/MOCs Overview]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Ideas/MOCs Overview]]"
 created: 2022-01-01
 rank: "4"
 ---
@@ -28,16 +28,16 @@ Triangulation says *I am the ultimate sensemaking mechanism, to both the known a
 	- Use two known points to imagine a third point.
 
 ### Use two known points, to better understand a third point.
-![[Ideaverse Merged/x/Images/feynman-triangulation-1.png]]
+![[Ideaverse Merged/_attachments/feynman-triangulation-1.png]]
 
 
 ### Use two known points, to remember a forgotten third point.
-![[Ideaverse Merged/x/Images/feynman-triangulation-2.png]]
+![[Ideaverse Merged/_attachments/feynman-triangulation-2.png]]
 
 ### Use two known points to imagine a third point.
-![[Ideaverse Merged/x/Images/feynman-triangulation-3.png]]
+![[Ideaverse Merged/_attachments/feynman-triangulation-3.png]]
 
-**The third power of triangulation is basically [[Ideaverse Merged/Atlas/Dots/Things/Idea Emergence (defn)]]**. 
+**The third power of triangulation is basically [[Ideaverse Merged/Atlas/Notes/Ideas/Idea Emergence (defn)]]**. 
 
 So how does one improve their triangulation skills? By getting reps connecting ideas. 
 
@@ -117,18 +117,18 @@ Use two points, to *understand* a third point.
 
 **The 2nd power of triangulation**
 Use two points, to *remember* a third point.
-![[Ideaverse Merged/x/Images/feynman-triangulation-1.png]]
+![[Ideaverse Merged/_attachments/feynman-triangulation-1.png]]
 
 ---
 **The 2nd power of triangulation**
 Use two points, to *remember* a third point.
-![[Ideaverse Merged/x/Images/feynman-triangulation-2.png]]
+![[Ideaverse Merged/_attachments/feynman-triangulation-2.png]]
 
 ---
 **The 3rd power of triangulation**
 Use two points to *imagine* a third point.
 
-![[Ideaverse Merged/x/Images/feynman-triangulation-3.png]]
+![[Ideaverse Merged/_attachments/feynman-triangulation-3.png]]
 
 ---
 
@@ -267,8 +267,8 @@ You have an **Ideaverse**.
 
 # Scratchpad
 - [[Triangulation]] - plenty I haven't covered above for the sake of brevity
-- [[Ideaverse Merged/Atlas/Dots/Things/Spatial Context]] - haven't mentioned, out of space
-- [[Ideaverse Merged/Atlas/Dots/Things/Method of Loci]] - haven't mentioned, out of space
+- [[Ideaverse Merged/Atlas/Notes/Ideas/Spatial Context]] - haven't mentioned, out of space
+- [[Ideaverse Merged/Atlas/Notes/Ideas/Method of Loci]] - haven't mentioned, out of space
 - (Naturally leads to the next lesson, which covers 🥾Stronger tethers, Better Recall)
 - Reminders & Insights & Triangulation: What Idea Emergence gives us (Unit 6) - Triangulation (Feynman)
 

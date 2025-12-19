@@ -2,7 +2,7 @@
 up:
   - "[[Habits Map]]"
 related:
-  - "[[Ideaverse Merged/Atlas/Dots/Statements/Important habits preserve mental clarity and a sense of control]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Important habits preserve mental clarity and a sense of control]]"
 created: 2014-07-28
 modified: 2020-05-28
 ---
@@ -19,5 +19,5 @@ We live in the Information Age. The media - with its news, advertisements, and m
 
 Hopefully now it's clear that the Morning Journal is a fight for control over your life, because it's a battle for your mind. It's a fight for your authenticity. It's a war for the very essence of who you are. It reconnects you to you. It gets you back in touch with the most important voice you need to be listening to: yourself. 
 
-Next step: [[Ideaverse Merged/Atlas/Dots/Statements/Writing down daily goals in the morning is an important habit]]
+Next step: [[Ideaverse Merged/Atlas/Notes/Ideas/Writing down daily goals in the morning is an important habit]]
 

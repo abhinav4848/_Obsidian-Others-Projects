@@ -1,8 +1,8 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Dots/Things/ACE Folder Framework]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Ideas/ACE Folder Framework]]"
 related:
-  - "[[Ideaverse Merged/Atlas/Dots/Statements/ACE helps you with context switching]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Ideas/ACE helps you with context switching]]"
 created: 2023-08-21
 ---
 In PKM, there are three main Head Spaces to move between.

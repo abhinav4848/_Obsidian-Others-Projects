@@ -1,9 +1,10 @@
 ---
 up: []
 related:
-  - "[[+ About Dots]]"
+  - "[[Ideaverse Merged/Atlas/Notes/Ideas/+ About Ideas]]"
 created: 2020-06-01
 ---
+
 Information is everywhere. 
 
 > It is in a book / it is in a nook / it's absolutely everywhere you look. 
