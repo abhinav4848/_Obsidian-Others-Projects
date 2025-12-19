@@ -1,23 +1,13 @@
 # A reading inbox to capture possibly-useful references
-
-Type of Link: 📝 Article
-Category talked about: 2nd Brain, Note taking
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
-
-# **A reading inbox to capture possibly-useful references**
-
 To avoid a proliferation of anxiety-inducing browser tabs and a terrifying folder of PDFs, it’s important to have an automatic procedure for capturing references to readings which might prove useful.
 
 Once captured, each item in the inbox either:
-
 1. gets trashed (doesn’t look like it’s worth a detailed read after all)
-2. gets read in a serious fashion (i.e. [Write about what you read to internalize texts deeply](Write%20about%20what%20you%20read%20to%20internalize%20texts%20deeply.md))
+2. gets read in a serious fashion (i.e. [[Write about what you read to internalize texts deeply]])
 3. gets read shallowly and filed in the reference library
 4. (maybe) gets added to some other list like “recipes to be cooked”
 
-Importantly, this isn’t a “someday maybe” list. It doesn’t accumulate indefinitely, because then it wouldn’t be a reliable way to [Close open loops](Close%20open%20loops.md).
+Importantly, this isn’t a “someday maybe” list. It doesn’t accumulate indefinitely, because then it wouldn’t be a reliable way to [[Close open loops]].
 
 So, when constructing a reading inbox, the important considerations are:
 

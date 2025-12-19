@@ -12,10 +12,10 @@ If you want to deeply internalize something you’re reading, the best way I kno
 
 - because [Understanding requires effortful engagement](Understanding%20requires%20effortful%20engagement.md)
     - and in particular, [Writing forces sharper understanding](Writing%20forces%20sharper%20understanding.md)
-    - remember: [Collecting material feels more useful than it usually is](https://notes.andymatuschak.org/zQm6XAB3XXrXLHzF7gahpJ2)
-- because otherwise you won’t [Do your own thinking](https://notes.andymatuschak.org/zLdprTyt7Ca2z2LUGLtFMSs)
-- because [Knowledge work should accrete](Knowledge%20work%20should%20accrete.md) and [Evergreen note-writing helps reading efforts accumulate](Evergreen%20note-writing%20helps%20reading%20efforts%20accumulate.md)
-- indeed: [**Most people read ineffectively**](Most%20people%20read%20ineffectively.md)
+    - remember: [Collecting material feels more useful than it usually is](https://notes.andymatuschak.org/zQm6XAB3XXrXLHzF7gahpJ2) 
+- because otherwise you won’t [[Do your own thinking]]
+- because [[Knowledge work should accrete]] and [[Evergreen note-writing helps reading efforts accumulate]]
+- indeed: **[[Most people read ineffectively]]** 
 
 For deep understanding, it’s not enough to just highlight or write marginalia in books: there isn’t much pressure to synthesize, connect, or to get to the heart of things. And they don’t add up to anything over time as you read more. Instead, write [Evergreen Notes](Evergreen%20Notes%208b05f5bf420f4caaad50f6fea2828638.md) as you read.
 

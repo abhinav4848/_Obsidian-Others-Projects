@@ -10,7 +10,7 @@ Last edited time: January 18, 2024 7:55 PM
 
 Not to be confused with [How to Read a Book - Adler and van Doren](How%20to%20Read%20a%20Book%20-%20Adler%20and%20van%20Doren.md)
 
-General advice on how to read non-fiction effectively. Comments related to [Write about what you read to internalize texts deeply](Write%20about%20what%20you%20read%20to%20internalize%20texts%20deeply.md); [Skillful reading is often non-linear](https://notes.andymatuschak.org/zGyuqjqaSGWzT9ndJJVxiaw); [The best way to read is highly contextual](The%20best%20way%20to%20read%20is%20highly%20contextual.md).
+General advice on how to read non-fiction effectively. Comments related to [[Write about what you read to internalize texts deeply]]; [Skillful reading is often non-linear](https://notes.andymatuschak.org/zGyuqjqaSGWzT9ndJJVxiaw); [The best way to read is highly contextual](The%20best%20way%20to%20read%20is%20highly%20contextual.md).
 
 The author’s focus is on efficient and effective reading. You should be able to read a 300 page book in 6-8 hours, understand the key points, and perform some initial analysis, though you won’t necessarily have internalized all the details.
 

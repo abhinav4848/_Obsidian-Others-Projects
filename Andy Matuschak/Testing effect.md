@@ -22,7 +22,7 @@ Related: [Desirable difficulties, after Bjork](Desirable%20difficulties,%20afte
 
 It also seems to lead to more durable memory (Karpicke and Smith, 2012) and improved learning performance in general (Karpicke and Blunt, 2011) relative to [Elaborative encoding](Elaborative%20encoding.md)-based practice alone.
 
-[The testing effect may be diminished or inverted for immediate tests](The%20testing%20effect%20may%20be%20diminished%20or%20inverted%20for%20immediate%20tests.md) 
+[[The testing effect may be diminished or inverted for immediate tests]] 
 
 # Format
 

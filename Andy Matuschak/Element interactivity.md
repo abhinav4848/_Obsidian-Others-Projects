@@ -19,7 +19,7 @@ A. “The extent to which the elements of a task can be meaningfully learned wit
 - [Leahy, W., Hanham, J., & Sweller, J. (2015). High Element Interactivity Information During Problem Solving may Lead to Failure to Obtain the Testing Effect. Educational Psychology Review, 27(2), 291–304](https://notes.andymatuschak.org/zR7pUgEqqBEPq2eZvMpRrHX)
 - [Chen, O., Castro-Alonso, J. C., Paas, F., & Sweller, J. (2018). Undesirable difficulty effects in the learning of high-element interactivity materials. Frontiers in Psychology, 9](https://notes.andymatuschak.org/z2kL5dsbU6myECcr4Cn7ZGc)
 
-A whole issue in Ed Psy Rev about high element interactivity and the [Testing effect](Testing%20effect.md): [https://link.springer.com/journal/10648/volumes-and-issues/27-2](https://link.springer.com/journal/10648/volumes-and-issues/27-2)
+A whole issue in Ed Psy Rev about high element interactivity and the [[Testing effect]]: [https://link.springer.com/journal/10648/volumes-and-issues/27-2](https://link.springer.com/journal/10648/volumes-and-issues/27-2)
 
 # Reference
 

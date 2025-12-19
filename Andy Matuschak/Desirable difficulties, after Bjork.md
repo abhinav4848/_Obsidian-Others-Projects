@@ -1,11 +1,3 @@
-# Desirable difficulties, after Bjork
-
-Type of Link: 📝 Article
-Category talked about: Learning
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
-
 # **Desirable difficulties, after Bjork**
 
 Training activities can often be made more effective by introducing difficulties.
@@ -25,30 +17,23 @@ One consistent theme with all of these manipulations is that they reduce perform
 
 Worse, there may be difficult institutional barriers: trainers may be evaluated by immediate (not long-term) performance; or they may not have a chance to observe long-term performance.
 
-Besides this short-term reversal, students may avoid “desirable difficulties” because they believe their memory/understanding to be stronger than it really is. Bjork suggests that “training is frequently non-optimal because it fails to incorporate the variability, delays, uncertainties, and other challenges the learner can be expected to face in a real-world job setting of some kind” (see also [Transfer learning](Transfer%20learning.md)).
+Besides this short-term reversal, students may avoid “desirable difficulties” because they believe their memory/understanding to be stronger than it really is. Bjork suggests that “training is frequently non-optimal because it fails to incorporate the variability, delays, uncertainties, and other challenges the learner can be expected to face in a real-world job setting of some kind” (see also [[Transfer learning]]).
 
 ---
 
 Q. What counter-intuitive effect does increased difficulty have on performance in training tasks?
-
 A. It typically harms performance during training but improves it in long-term measures.
 
 Q. Why might learners believe that introducing difficulties into practice sessions makes them learn less well?
-
 A. Added difficulties will often harm performance during practice (while increasing long-term performance).
 
 Q. Why might coaches be institutionally disincentivized from adding desirable difficulties to practice activities?
-
 A. They might be evaluated by students’ short-term performance.
 
 Q. Why might trainers be unable to see the long-term impact of difficulties added to training exercises?
-
 A. The training timeline may be too short to see improvements which may come from more difficult training activities. Alternately, they may never get to see real-world performance of their pupils.
 
 # Reference
-
-1. 
-
-Bjork, R. A. (1994). Memory and Metamemory Considerations in the Training of Human Beings. In J. Metcalfe & A. Shimamura (Eds.), Metacognition: Knowing about Knowing (pp. 185–205). MIT Press.
-
-[Pyc, M. A., & Rawson, K. A. (2009). Testing the retrieval effort hypothesis: Does greater difficulty correctly recalling information lead to higher levels of memory? Journal of Memory and Language, 60(4), 437–447](https://notes.andymatuschak.org/z5zckzyAM1DwEQqt94qMpsd)
+1. Bjork, R. A. (1994). Memory and Metamemory Considerations in the Training of Human Beings. In J. Metcalfe & A. Shimamura (Eds.), Metacognition: Knowing about Knowing (pp. 185–205). MIT Press.
+2. [Pyc, M. A., & Rawson, K. A. (2009). Testing the retrieval effort hypothesis: Does greater difficulty correctly recalling information lead to higher levels of memory? Journal of Memory and Language, 60(4), 437–447](https://notes.andymatuschak.org/z5zckzyAM1DwEQqt94qMpsd)
+3. [Andy Link](https://notes.andymatuschak.org/zRTw8KaPErhSCyC2NYGHyP7?stackedNotes=z7ffiDfqTR9pPcEEUUbCL7C&stackedNotes=zYB7kwEFRu8QALcbzbcoy9T) 

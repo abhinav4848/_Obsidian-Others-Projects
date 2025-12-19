@@ -22,7 +22,7 @@ Per Kant:
 > Enlightenment is the human being’s emergence from his self-incurred minority. Minority is inability to make use of one’s own understanding without direction from another. This minority is self-incurred when its cause lies not in lack of understanding but in lack of resolution and courage to use it without direction from another. Sapere aude! Dare to be wise!
 > 
 
-One key antidote: [Write about what you read to internalize texts deeply](Write%20about%20what%20you%20read%20to%20internalize%20texts%20deeply.md)
+One key antidote: [[Write about what you read to internalize texts deeply]]
 
 # References
 

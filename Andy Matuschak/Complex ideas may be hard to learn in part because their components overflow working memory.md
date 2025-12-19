@@ -9,7 +9,7 @@ Last edited time: January 18, 2024 7:55 PM
 
 Ideas typically build on other ideas. Some directly combine a few prior insights; others might be difficult to express without special notation or terminology. When an idea has few dependencies (low [Element interactivity](Element%20interactivity.md)), you can introduce them all, then immediately express the idea: green means go; red means go; a green or red stoplight pointing right means you can or can’t turn right.
 
-But if you’ve just been introduced to a zoo of new terms, you probably won’t absorb much from a sentence which uses many of those terms at once. You can’t juggle all those terms in working memory at once, and you haven’t had time to encode any of them more durably. And so: [Memory augmentation may make it easier to learn complex topics by decreasing working memory load](Memory%20augmentation%20may%20make%20it%20easier%20to%20learn%20complex%20topics%20by%20decreasing%20working%20memory%20load.md).
+But if you’ve just been introduced to a zoo of new terms, you probably won’t absorb much from a sentence which uses many of those terms at once. You can’t juggle all those terms in working memory at once, and you haven’t had time to encode any of them more durably. And so: [[Memory augmentation may make it easier to learn complex topics by decreasing working memory load]].
 
 It’s not just a matter of timing. [People seem to forget most of what they read, and they mostly don’t notice](People%20seem%20to%20forget%20most%20of%20what%20they%20read,%20and%20they%20mostly%20don't%20notice.md), so even if you gave yourself time to absorb prerequisite ideas, you’d likely forget many of them.
 

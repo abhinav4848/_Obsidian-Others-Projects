@@ -1,14 +1,7 @@
 # Spaced repetition systems can be used to program attention
+# Spaced repetition systems can be used to program attention
 
-Type of Link: 📝 Article
-Category talked about: Learning, Note taking
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
-
-# **Spaced repetition systems can be used to program attention**
-
-[Spaced repetition memory systems make memory a choice](Spaced%20repetition%20memory%20systems%20make%20memory%20a%20choice.md), but the computerized component’s value lies specifically in dynamically scheduling and selecting questions to be reviewed. In some sense, the efficacy of a [Spaced Repetition memory system](Spaced%20Repetition%20memory%20system.md) comes from its power to *program your attention* ([Programmable attention](Programmable%20attention.md)). Think: “{cron} for your mind.” 
+[[Spaced repetition memory systems make memory a choice]], but the computerized component’s value lies specifically in dynamically scheduling and selecting questions to be reviewed. In some sense, the efficacy of a [[Spaced Repetition memory system]] comes from its power to *program your attention* ([[Programmable attention]]). Think: “{cron} for your mind.” 
 
 Manually making decisions about which cards to review would be far too taxing on a per-card basis. The transaction cost is too high. When that work is mostly outsourced, you can make a coarser decision—to devote your attention to SRS practice for 10 minutes—and then let your attention be directed by the machine within that block.
 
@@ -37,28 +30,23 @@ As a pianist, I have a huge number of technical exercises that I maintain: e.g. 
 It’s interesting to imagine a single interface malleable enough that I could define my piano exercises above as one sort of routine, and a SRS memory system as another routine—both special cases of a single general primitive.
 
 Some examples:
-
-- [incremental reading](incremental%20reading.md)
+- [[incremental reading]]
 - [Timeful text](https://notes.andymatuschak.org/zAb9R6nYuTyN6PBC4rQY9aY) (Not worth linking)
 - [[Spaced repetition may be a helpful tool to incrementally develop inklings]]
 -  [[Spaced repetition can lower the stakes around destructive inbox-maintenance operations]] (to-do lists, email, reading lists, etc)
 - [Readwise](https://notes.andymatuschak.org/zAt1K9ARQYguinoHH8cfaqQ)
 
 Related: 
-
-- For applications which can use the simple SRS flashcard format, see [Unusual applications of spaced repetition memory systems](Unusual%20applications%20of%20spaced%20repetition%20memory%20systems.md)
+- For applications which can use the simple SRS flashcard format, see [[Unusual applications of spaced repetition memory systems]]
 - [Spaced repetition systems as catechism](https://notes.andymatuschak.org/zPtcwHaKGoLEZRzSoScYXha)
 - [OS-level spaced repetition system](https://notes.andymatuschak.org/zNLoqjEVe5dheMKmTTyB9E3)
 
 # Related
-
 [**Evergreen note maintenance approximates spaced repetition**](Evergreen%20note%20maintenance%20approximates%20spaced%20repetition.md) 
-
 [Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle](https://notes.andymatuschak.org/z2Pg1CbUyvjV4jEoqmr8Xua), vs. using spaced-repetition to “approximate” inbox grooming.
 
-I use this concept to engage with my implementation of [A reading inbox to capture possibly-useful references](A%20reading%20inbox%20to%20capture%20possibly-useful%20references.md)
+I use this concept to engage with my implementation of [[A reading inbox to capture possibly-useful references]]
 
 # References
-
 1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k&stackedNotes=zLhoRUyjKU665EY16u4XXJy&stackedNotes=zTDjZQbKAT9pALtsk2HfePx&stackedNotes=zSK4LyrCbG9zDrdCWmcovUW&stackedNotes=zB92WZZ5baBHKZPPbWMbYEv&stackedNotes=z53zJy6y76MGuJuWW4Qvab9)
 2. Matuschak, A. (2019, December). *Taking knowledge work seriously*. Presented at the Stripe Convergence, San Francisco.
