@@ -30,7 +30,7 @@ As a pianist, I have a huge number of technical exercises that I maintain: e.g. 
 It’s interesting to imagine a single interface malleable enough that I could define my piano exercises above as one sort of routine, and a SRS memory system as another routine—both special cases of a single general primitive.
 
 Some examples:
-- [[incremental reading]]
+- [[Incremental reading]]
 - [Timeful text](https://notes.andymatuschak.org/zAb9R6nYuTyN6PBC4rQY9aY) (Not worth linking)
 - [[Spaced repetition may be a helpful tool to incrementally develop inklings]]
 -  [[Spaced repetition can lower the stakes around destructive inbox-maintenance operations]] (to-do lists, email, reading lists, etc)

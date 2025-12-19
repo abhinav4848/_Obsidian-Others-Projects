@@ -1,0 +1,10 @@
+# Collaborations between tool-makers and tool-users can best iterate via a sequence of different projects
+[[Deep collaborations between tool-makers and tool-users may support insight through making]], but one practical obstacle for the tool-user’s work is that [[It’s difficult to maintain emotional connection to a creative project across delays and breaks]]. The pair can learn plenty about their tool ideas as the tool-user deploys them in serious creative projects, but each project has limited scope for iteration.
+
+To see why, imagine that the tool-user has written a first draft of a book. Lessons from that draft prompt new iterations of the pair’s tool ideas. Though the tool-user may be plenty interested in those explorations, he’s likely not interested in totally rewriting the book using a new iteration of the tool. The tool can evolve a bit—particularly early in the drafting process—but it rapidly pushes against a gumption limit.
+
+If the tools involved in each creative project can only evolve a limited amount during the course of that project, then each project’s tool frontier is substantially determined by the state of the tools at the _start_ of the project. This challenge suggests that the pair can best evolve their ideas through a _sequence_ of creative projects.
+
+There’s a tension around the size of the projects in the sequence. Smaller projects will support more dramatic iteration in the tools—a higher “learning rate,” if you will. But small projects may not be sufficiently serious to develop the tool ideas ([[Effective system design requires insights drawn from serious contexts of use]]). Ideally, I suppose, the pair pursues the smallest sufficiently-serious projects they can.
+
+Unfortunately: [[It’s hard for independent researchers to find full-time collaborators]]. 

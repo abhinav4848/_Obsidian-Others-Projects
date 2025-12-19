@@ -34,6 +34,20 @@
               "icon": "lucide-file",
               "title": "Tools for thought collaboration seems to prefer either part-time contractor help, or deep full-time partners, with a big chasm between"
             }
+          },
+          {
+            "id": "d90183d8f8ff6f3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brooks, F. P., Jr. (1977). The computer “scientist” as toolsmith- Studies in interactive computer graphics. Information Processing, 625–634.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brooks, F. P., Jr. (1977). The computer “scientist” as toolsmith- Studies in interactive computer graphics. Information Processing, 625–634"
+            }
           }
         ],
         "currentTab": 1
@@ -176,8 +190,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,32 +212,32 @@
   },
   "active": "ec9232daba0acfd6",
   "lastOpenFiles": [
-    "Insight through making prefers bricolage to big design up front.md",
+    "Switching costs are high between software development and research thinking.md",
     "Tools for thought collaboration seems to prefer either part-time contractor help, or deep full-time partners, with a big chasm between.md",
+    "Mental states of deep software development and deep research thinking are mutually exclusive.md",
+    "Deep collaborations between tool-makers and tool-users may support insight through making.md",
+    "Groups researching tools for thought need enough capacity to build prototypes suitable for serious work.md",
+    "Academic software interfaces generally aren’t suitable for serious use.md",
+    "Collaborations between tool-makers and tool-users depend on building effective “armories” of tool ideas.md",
+    "Collaborations between tool-makers and tool-users can best iterate via a sequence of different projects.md",
+    "It’s hard for independent researchers to find full-time collaborators.md",
+    "I should consider asymmetric part-time collaborators.md",
+    "Andy Matuschak/Incremental reading.md",
+    "It’s difficult to maintain emotional connection to a creative project across delays and breaks.md",
+    "The best time to write about your lecture’s topic is around the time you deliver it.md",
+    "Talks and classes provide pressure and emotional fuel for understanding.md",
+    "Brooks, F. P., Jr. (1977). The computer “scientist” as toolsmith- Studies in interactive computer graphics. Information Processing, 625–634.md",
+    "Andy Matuschak/§Note-writing systems.md",
+    "Andy Matuschak/Most people read ineffectively.md",
+    "Focused software development work is self-abnegating.md",
+    "Tools for thought.md",
+    "Insight through making prefers bricolage to big design up front.md",
     "Premature scaling can stunt system iteration.md",
     "Andy Matuschak/About these notes.md",
     "Andy Matuschak/Better note-taking misses the point; what matters is “better thinking”.md",
     "Ideaverse Merged/Atlas/Dots/X/+ About these notes.md",
     "Ideaverse Merged/Atlas/Notes/X/+ About these notes.md",
     "Andy Matuschak/Retrieval practice.md",
-    "Andy Matuschak/Salience prompts.md",
-    "Andy Matuschak/Writing good spaced repetition memory prompts is hard.md",
-    "Andy Matuschak/§Knowledge work as serious discipline.md",
-    "Andy Matuschak/Management science focuses on knowledge work at the level of the firm and the manager, not at the level of the individual.md",
-    "Andy Matuschak/We don’t know how to measure knowledge worker productivity.md",
-    "Andy Matuschak/Knowledge work.md",
-    "Andy Matuschak/Most people read ineffectively.md",
-    "Andy Matuschak/Evergreen note-writing helps reading efforts accumulate.md",
-    "Andy Matuschak/People often struggle to remember details of prose text because they never processed them in the first place.md",
-    "Andy Matuschak/Element interactivity.md",
-    "Andy Matuschak/Memory augmentation may make it easier to learn complex topics by decreasing working memory load.md",
-    "Andy Matuschak/Complex ideas may be hard to learn in part because their components overflow working memory.md",
-    "Andy Matuschak/People seem to forget most of what they read, and they mostly don't notice.md",
-    "Andy Matuschak/Write about what you read to internalize texts deeply.md",
-    "Andy Matuschak/Writing forces sharper understanding.md",
-    "Andy Matuschak/People who write extensively about note-writing rarely have a serious context of use.md",
-    "Andy Matuschak/How to process reading annotations into evergreen notes.md",
-    "Andy Matuschak/Evergreen note-writing as fundamental unit of knowledge work.md",
     "current_export_metadata.json",
     "Ideaverse Merged/Atlas/Dots/Statements/Questions",
     "Snipd/Base/Snipd.base",

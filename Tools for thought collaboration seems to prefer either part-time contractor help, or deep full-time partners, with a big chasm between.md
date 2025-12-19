@@ -1,0 +1,9 @@
+# Tools for thought collaboration seems to prefer either part-time contractor help, or deep full-time partners, with a big chasm between
+
+A key problem for developing [[Tools for thought]] is that Mental states of deep software development and deep research thinking are mutually exclusive, and [[Switching costs are high between software development and research thinking]]. A natural response is to hire help—designers, engineers, project managers, etc. But a challenge I’ve noticed here is that because [Insight through making prefers bricolage to big design up front](https://notes.andymatuschak.org/zT2CnA38ERsCY2NKGw2thSL), it’s very difficult to externalize a long runway of legible work which can be accomplished by a typical contractor or intern. Most of the time I can only see a short distance ahead of myself. I’m sure I could get better at looking around corners, but I suspect there’s some immutable component of this too.
+
+And so, rather than a “full-time” intern or contractor joining me for some months at a time, it’d probably be better to work with such folks on a hourly or weekly basis, whenever I have something ready which needs help. Of course, this comes with significant switching cost!
+
+All the way at the other end of the spectrum, the alternative is to bring on a creative partner, with the necessary skill and context to autonomously identify and solve problems. But that’s awfully expensive, even if I could recruit such people!
+
+There’s a substantial chasm between these two points on the employment spectrum: hourly contractors, and deep full-time partners. I’d probably make a lot more progress if I could figure out how to make good use of a collaborator for months at a time.

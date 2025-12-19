@@ -15,7 +15,7 @@ For example:
   A: Ouagadougou
 ```
 
-In [[incremental reading]], simple sentences are converted to cloze deletions with a single click or keystroke.
+In [[Incremental reading]], simple sentences are converted to cloze deletions with a single click or keystroke.
 
 # Reference
 1. [Cloze deletion - supermemo.guru](https://supermemo.guru/wiki/Cloze_deletion)

@@ -20,7 +20,7 @@ Interestingly, no existing “read later” or reference management system fits 
 
 The reading inbox is an important release valve for things I encounter when on my smartphone (see [Use phones to collect and triage, not (usually) to read](Use%20phones%20to%20collect%20and%20triage,%20not%20(usually)%20to%20read.md)).
 
-Related: [incremental reading](incremental%20reading.md) 
+Related: [Incremental reading](Incremental%20reading.md) 
 
 # Reference
 
