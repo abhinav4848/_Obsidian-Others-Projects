@@ -21,4 +21,4 @@ I'm really feeling the need to create a new map of content around something I al
 Related: [[Ideaverse Merged/Atlas/Notes/Ideas/Feedback Loop]]
 
 ---
-You rest your weary feet by sitting on a nearby stump. As you do, you slow down, and suddenly, you catch a glimmer of something under rock and tree branch. It's an old, smashed scroll clasped in a gold-speckled ribbon. You [[Ideaverse Merged/Atlas/Notes/Ideas/Art of Link Curation|open it]].
+You rest your weary feet by sitting on a nearby stump. As you do, you slow down, and suddenly, you catch a glimmer of something under rock and tree branch. It's an old, smashed scroll clasped in a gold-speckled ribbon. You [[Art of Link Curation|open it]].
