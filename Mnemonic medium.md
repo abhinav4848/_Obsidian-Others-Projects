@@ -1,0 +1,91 @@
+# Mnemonic medium
+
+The mnemonic medium embeds a [[Spaced Repetition memory system]] within narrative prose.  [[Spaced repetition memory systems make memory a choice]], but they’ve suffered significant barriers to adoption. The mnemonic medium is designed to solve many of these problems.
+
+It was first used in [Quantum Country](https://notes.andymatuschak.org/zNVVrcxnkjk7pCabiBvaic1). I’m now working to expand its scope considerably in [Orbit](https://notes.andymatuschak.org/zDRdgSZguFsSj49gtbf1dJg). (see more [Substantive examples of the mnemonic medium](https://notes.andymatuschak.org/z7tvoovbepeoM99XZCSntef))
+
+- Key design properties:
+    - [The mnemonic medium gives structure to normally-atomized spaced repetition memory prompts](https://notes.andymatuschak.org/z8e98xn7t5QNHr5cf8oqjbJ)
+    - [The mnemonic medium supplies expert-authored prompts to remove the burden of prompt-writing](https://notes.andymatuschak.org/zPkuLaEFFPqkcWpLcPzbW6i)
+    - [Mnemonic medium prompts are interleaved into the reading experience](https://notes.andymatuschak.org/zTzb8spnoqzxs3mkvPKprmn)
+    - [The mnemonic medium may help scaffold prompt-writing through author-provided prompts](https://notes.andymatuschak.org/zJSUEFHrJLVspreiCpnAnKJ)
+    - [The mnemonic medium’s design relies on light-weight prompts](https://notes.andymatuschak.org/zCfJ4TfWWa24aKoRS7dpNc5)
+    - [The critical thing to optimize in spaced repetition memory systems is emotional connection to the review session and its contents](https://notes.andymatuschak.org/zPiRwRHQxGfF9Zej765PB8M)
+    - Secondary properties:
+    - [SRS retry mechanism](https://notes.andymatuschak.org/zHkEUb5tTkCJSYgmbDFqcMq)
+- Impact
+    - [Effects of the mnemonic medium on reader memory](https://notes.andymatuschak.org/zqetsQERteJhyPitmRoaeE)
+    - [What’s the big-picture impact of the mnemonic medium on readers?](https://notes.andymatuschak.org/zNGtyWTwns63fhzixGKZ1Bb)
+    - [The mnemonic medium keeps readers in contact with material over time](https://notes.andymatuschak.org/zCQuiDgcNqncwB6pTvhdRWk)
+- Hypotheses/questions
+    - Extending scope / scale:
+    - [How does the mnemonic medium’s efficacy vary across platform-knowledge-style topics?](https://notes.andymatuschak.org/zWhT8vaBTMNbStwKE9z8JpC)
+    - [How might the mnemonic medium enable readers in genres outside platform knowledge?](https://notes.andymatuschak.org/z6eSdsLVZLGWuR7m3WQGgAY)
+        - [Lessons learned from applying the mnemonic medium to non-technical texts](https://notes.andymatuschak.org/zG29usta2L9LLjkVbnvCzcV)
+        - [The mnemonic medium works well for linear primers in established fields](https://notes.andymatuschak.org/zP8MVDmomB7UrTddVY34E1B)
+        - [Memory augmentation can accelerate the unpleasant early stages of learning a subject](https://notes.andymatuschak.org/zQKe7JZs1CYqHBnLyDhMQYQ)—does the MM’s costs outweigh its benefits outside these contexts?
+    - [How might the mnemonic medium adapt to readers’ differing backgrounds and goals?](https://notes.andymatuschak.org/z3BAzmUnG7hvAmfhKytuCWF)
+    - [How might spaced repetition memory systems intervene when the student struggles with material?](https://notes.andymatuschak.org/z2hjUxMumvaotoFbPNdrg5W)
+    - Non-memory impact:
+    - [The mnemonic medium may push readers to read more slowly and attentively](https://notes.andymatuschak.org/z5aepnaCuu6XiPqB4LgBDkH)
+    - [Interleaved mnemonic medium prompts promote a feeling of safety](https://notes.andymatuschak.org/zWDbxJ2Ffc2EtFqvXMZEkte)
+    - [What if the mnemonic medium were reframed as a means to engage more deeply with a text?](https://notes.andymatuschak.org/zSKTbk3MzrCU4Dv9nFUrqS7)
+    - Different types of understanding
+    - [The mnemonic medium can help readers apply what they’ve learned through simple application prompts](https://notes.andymatuschak.org/zJoWJEpRvrjnm2zL3gdxBjg)
+    - [How might the mnemonic medium support readers in building more complex understanding?](https://notes.andymatuschak.org/z85VbMd4D4Z3SrYgaXENKAm)
+    - Towards virtuosic use:
+    - [Important attributes of good spaced repetition memory prompts](https://notes.andymatuschak.org/z9xavmmNq7xvNqzpnJ3HFXx)
+    - [What might constitute canonical uses of the mnemonic medium?](https://notes.andymatuschak.org/zGi5kDHJWeKAi2QdPQpNasj)
+    - [In what senses is the mnemonic medium more than an annotation layer on ordinary prose?](https://notes.andymatuschak.org/zM9UeA4hLHZBYD4kdAmbCNk)
+    - [Embedded prompt templates may actively scaffold prompt-writing for mnemonic medium readers](https://notes.andymatuschak.org/zGZAVcDnNSnWF3oPLn2JmQp)
+    - Benefit to author:
+    - [Question-writing in the mnemonic medium may help the writer think about their topic](https://notes.andymatuschak.org/zASrUgV82dsvB2ZzJ39WmTP)
+    - Optimization:
+    - [How should mnemonic medium review sets be spaced in the text?](https://notes.andymatuschak.org/z7wbDzsbvNe1Qm753vPe6Up)
+- Future directions
+    - [Idea-centric memory system](https://notes.andymatuschak.org/z7wCFe7MP9VeCVApcBLC7SN)
+    - [Taking emotion seriously](https://notes.andymatuschak.org/zLYGz27y8Ba6wbQLJbqyXkr): [How might we apply insights from the mnemonic medium to forms which focus on deep emotional connection?](https://notes.andymatuschak.org/zDG6oSEj3Z6x5eLuAZcDWUH)
+    - [Timeful text](https://notes.andymatuschak.org/zAb9R6nYuTyN6PBC4rQY9aY): [The mnemonic medium can be adapted to author an experience which unfolds over time](https://notes.andymatuschak.org/zKRrv2DmKp3VyDEp3oXrKXQ)
+    - [The mnemonic medium can generate interesting author analytics](https://notes.andymatuschak.org/zNMBiA9U8NpBHgJR384JC46)
+    - [The mnemonic medium can surface “proof of memory” social signals](https://notes.andymatuschak.org/zQLzzf8VcSgTHn75yiEU7mJ)
+    - [OS-level spaced repetition system](https://notes.andymatuschak.org/zNLoqjEVe5dheMKmTTyB9E3)
+    - [Turning any web page into the mnemonic medium](https://notes.andymatuschak.org/zW94dg4Wym9QNwo471EaKpV)
+    - [How might we adapt existing texts to the mnemonic medium, without participation of the author?](https://notes.andymatuschak.org/zLcjaBnM5J2VdvfYVHKSEfF)
+    - [Spaced everything](https://notes.andymatuschak.org/z9hscgkG2TeqgUtu3vAEW3U): [The mnemonic medium can be extended to one’s personal notes](https://notes.andymatuschak.org/zWWh96dE6YZYmDCoo37977X)
+    - Other host media types
+    - [Mnemonic video may present a smoother on-ramp to mass adoption than mnemonic text](https://notes.andymatuschak.org/zJuj1GF5zEQ6vWFhnK9PKcX)
+    - [Twitter threads could be an interesting context for the mnemonic medium](https://notes.andymatuschak.org/zJkR7LEzpMF7NzxuGZb1zwC)
+- Challenges
+    - [The early mnemonic medium’s structures are too rigid for others to help define the medium](https://notes.andymatuschak.org/zMYvLZwa3oW9oUYrz5B5et4)
+    - … to adoption by end-users:
+    - [Many people view memory as unimportant to deep creative work](https://notes.andymatuschak.org/z3R2EmEqQz6CVZifHWYMB7B)
+    - [The initial mnemonic medium is implicitly authoritarian in premise](https://notes.andymatuschak.org/zR5H2t4iYJECveXmu1DnYvS)
+        - [The mnemonic medium should give readers control over the prompts they collect](https://notes.andymatuschak.org/z8kPkXQZ3wVR5DfJ79uhnuz)
+    - [Mnemonic medium onboarding depends on a critical mass of content](https://notes.andymatuschak.org/zPUXHmQEkd33qkuTCnvKVL6)
+        - [Spaced repetition review sessions often become boring and detached without a steady stream of new prompts](https://notes.andymatuschak.org/zgpG2pyVtsVgvoXTj1dfDU)
+    - [Mass adoption of the mnemonic medium seems to require mass adoption of web publishing](https://notes.andymatuschak.org/z7qAUiBvoBGrsXVdxH7tj1M)
+        - [Reading texts on computers is unpleasant](https://notes.andymatuschak.org/z2bSwDuxY2Jbv1ntLKB3SL1)
+    - [Regular spaced repetition memory practice is an onerous habit to adopt](https://notes.andymatuschak.org/z3DiwZKDuLxMV17mt2nWH7y)
+        - [Spaced repetition memory systems don’t rapidly demonstrate their benefits](https://notes.andymatuschak.org/z8a6SPMmmTjzDGkbCmJP75Y)
+        - [Spaced repetition memory systems make you feel like your memory is worse than it really is](https://notes.andymatuschak.org/z7eDbmw9aUV7FCYYVstUQz4)
+    - … to efficacy:
+    - [Retrieval practice and transfer learning](https://notes.andymatuschak.org/zRTw8KaPErhSCyC2NYGHyP7) (I don’t think the MM performs very well here)
+    - [Active learning insights need memory support too](https://notes.andymatuschak.org/zJhkUm4qnimLAY38KdaMg2R)
+    - … for designers:
+    - [The dominant culture around spaced repetition memory systems is fixated on meaningless goals](https://notes.andymatuschak.org/z4ULp2KUgq3hBCJMWTUnLDX)
+    - [The mnemonic medium should be developed in a context where people really need fluency](https://notes.andymatuschak.org/The_mnemonic_medium_should_be_developed_in_a_context_where_people_really_need_fluency)
+    - [I can’t easily iterate on the design of the mnemonic medium by testing it on myself](https://notes.andymatuschak.org/z9BqARVT4NtZfph7FUZhcmJ)
+    - [Quantum Country lacks a coherent spatial representation of the mnemonic medium’s cards as objects](https://notes.andymatuschak.org/zPYQGQSsYZQbhhSe2R13xUM)
+    - [Extremely data-dense texts need a different mnemonic medium design](https://notes.andymatuschak.org/zFX1Dwhh5cUn8RXi3qbUYS6)
+    - [Aggressively scaling the mnemonic medium in 2020 is premature](https://notes.andymatuschak.org/zAMGD5ZWBpmzRD3tMgVqfg1)
+    - … for authors
+    - [Writing good prompts for others is likely harder than writing good prompts for oneself](https://notes.andymatuschak.org/z38RfesDX92VLV4En1AuMSv)
+    - [How often and where should mnemonic medium review areas be inserted?](https://notes.andymatuschak.org/zMRiwR4HFJHfFpyzLySREB9)
+    - [What kind of memory support do proofs want?](https://notes.andymatuschak.org/zHfnJGF5Y8e6uMJ2AK3bUR)
+- Other implementations
+    - [Login - Dawnguide](https://dawnguide.com/home)
+    - [TakeAway](https://notes.andymatuschak.org/zDqSzDqyvMJpUZ2aGfBogQh)
+    - [Thought Saver](https://notes.andymatuschak.org/zMEdfuUnanJcbi5TKxybiPs)
+
+# Reference
+1. [Andy Link](https://notes.andymatuschak.org/zKPv6qkSErdRGqyryvgS2wS) 

@@ -11,7 +11,7 @@ When processing these observations, you’ll want to be able to see the big pict
 Concretely, the approach I’m trying:
 
 - Physical books:
-    - Write couple-word thoughts on a slip of A7 paper ([Pocket memo pad to capture into writing inbox while out](Pocket%20memo%20pad%20to%20capture%20into%20writing%20inbox%20while%20out.md))
+    - Write couple-word thoughts on a slip of A7 paper ([[Pocket memo pad to capture into writing inbox while out]])
     - Draw a dot or line in the margin of interesting passages and dogear the page.
 - Web articles:
     - Copy+paste interesting excerpts into a single working note in my writing Inbox.

@@ -21,7 +21,7 @@ Systematically, we can generalize spaced repetition to:
 - feedback actions which modify a task’s subsequent priority
     - (for memory tasks, forgotten / remember modify the next due interval)
 
-Within a traditional flashcard-style system, you can use this observation to go far beyond memorization: see [Spaced repetition memory systems can be used to prompt application, synthesis, and creation](Spaced%20repetition%20memory%20systems%20can%20be%20used%20to%20prompt%20application,%20synthesis,%20and%20creation.md) and [Spaced repetition may be a helpful tool to develop or change habits](Spaced%20repetition%20may%20be%20a%20helpful%20tool%20to%20develop%20or%20change%20habits.md). [Spaced repetition prompt design is about designing tasks for your future self](https://notes.andymatuschak.org/z53zJy6y76MGuJuWW4Qvab9). 
+Within a traditional flashcard-style system, you can use this observation to go far beyond memorization: see [[Spaced repetition memory systems can be used to prompt application, synthesis, and creation]] and [[Spaced repetition may be a helpful tool to develop or change habits]]. [[Spaced repetition prompt design is about designing tasks for your future self]]. 
 
 But the core *concept*—automatically arranging and presenting tasks according to some expanding schedule—can be instantiated in many interfaces and domains. I call this notion [Spaced everything](https://notes.andymatuschak.org/z9hscgkG2TeqgUtu3vAEW3U).
 
@@ -40,8 +40,8 @@ Some examples:
 
 - [incremental reading](incremental%20reading.md)
 - [Timeful text](https://notes.andymatuschak.org/zAb9R6nYuTyN6PBC4rQY9aY) (Not worth linking)
-- [Spaced repetition may be a helpful tool to incrementally develop inklings](Spaced%20repetition%20may%20be%20a%20helpful%20tool%20to%20incrementally%20develop%20inklings.md)
-- [Spaced repetition can lower the stakes around destructive inbox-maintenance operations](https://notes.andymatuschak.org/zJ5Yzvba2729XKXivBBZ91J) (to-do lists, email, reading lists, etc)
+- [[Spaced repetition may be a helpful tool to incrementally develop inklings]]
+-  [[Spaced repetition can lower the stakes around destructive inbox-maintenance operations]] (to-do lists, email, reading lists, etc)
 - [Readwise](https://notes.andymatuschak.org/zAt1K9ARQYguinoHH8cfaqQ)
 
 Related: 

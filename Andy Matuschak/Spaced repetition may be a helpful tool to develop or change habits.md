@@ -35,7 +35,7 @@ You could memorize pieces of this with a [Spaced Repetition memory system](Spac
 
 After you’ve answered this type of prompt about a specific habit a few times, it’s often helpful to make much more specific prompts to reinforce that habit. For example ([via Kanjun, 2020-07-01](https://twitter.com/kanjun/status/1278501271226298368)): “When I pick up my toothbrush in the morning…” “…get my phone and open Anki.”
 
-This is an example of [Spaced repetition systems can be used to program attention ](Spaced%20repetition%20systems%20can%20be%20used%20to%20program%20attention.md).
+This is an example of [[Spaced repetition systems can be used to program attention]].
 
 # References
 

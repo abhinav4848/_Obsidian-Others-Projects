@@ -10,7 +10,7 @@ Last edited time: January 18, 2024 7:55 PM
 
 I use a perforated A7 memo pad (Maruman Mnemosyne N193A) to take transient notes while I’m out. Striking ideas from conversations, ideas while walking, and so on all get captured here. I usually include a bit of context to help orient me later: a date, a place, a person, etc.
 
-These notes don’t stay in the memo pad: it’s effectively an inbox which feeds [A writing inbox for transient and incomplete notes](A%20writing%20inbox%20for%20transient%20and%20incomplete%20notes.md). Intermittently, during [My morning writing practice](My%20morning%20writing%20practice.md), I process memo pad notes by developing them into [Evergreen Notes](Evergreen%20Notes%208b05f5bf420f4caaad50f6fea2828638.md), by transferring them into my writing inbox, or by discarding them.
+These notes don’t stay in the memo pad: it’s effectively an inbox which feeds [[A writing inbox for transient and incomplete notes]]. Intermittently, during [[My morning writing practice]], I process memo pad notes by developing them into [[Evergreen Notes 8b05f5bf420f4caaad50f6fea2828638.md|Evergreen Notes]], by transferring them into my writing inbox, or by discarding them.
 
 I tear off sheets as I process them, so I always know the notebook’s state: any non-blank pages still have to be processed.
 
