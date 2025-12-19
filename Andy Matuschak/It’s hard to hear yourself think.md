@@ -13,24 +13,24 @@ Some related notes:
 - [Original thought requires solitude](Original%20thought%20requires%20solitude.md)
 - [Culturally default behaviors fill spare time with others’ ideas](Culturally%20default%20behaviors%20fill%20spare%20time%20with.md)
     - [People prefer doing to thinking](People%20prefer%20doing%20to%20thinking.md)
-    - [Many people find difficult creative work mostly unpleasant in the moment](https://notes.andymatuschak.org/zTaenCxxdcffpPUAzq3iDmQ) (No access on Andy’s site)
-- [Conversation with others often emphasizes the most well-understood elements of an idea](https://notes.andymatuschak.org/zUVSwsgstnaSQ5XfxzEjSnF)
-- [Writing forces sharper understanding](https://notes.andymatuschak.org/zRbqwbnhmVdfLtKxMCibMoX)
-    - [Do your own thinking](Do%20your%20own%20thinking.md)
+    - [Many people find difficult creative work mostly unpleasant in the moment](https://notes.andymatuschak.org/zTaenCxxdcffpPUAzq3iDmQ) (No access on Andy’s site- Unavailable note)
+- [[Conversation with others often emphasizes the most well-understood elements of an idea]] 
+- [[Writing forces sharper understanding]]
+    - [[Do your own thinking]]
     - [Literature notes are secondary and separate](Literature%20notes%20are%20secondary%20and%20separate.md)
-- [Deep research requires a slower pace than tech industry work](https://notes.andymatuschak.org/zGeqdWaGnGqP86hZBTUvTBm)
+-  [[Deep research requires a slower pace than tech industry work]]
 
-Exhortations which help: [Get curious](Get%20curious.md); [Get bored](Get%20bored.md); [Get playful](Get%20playful.md) 
+Exhortations which help: [[Get curious]]; [Get bored](Get%20bored.md); [Get playful](Get%20playful.md) 
 
 # Partial list of practices meant to produce deliberateness, receptivity
 
 - Wi-Fi defaults to off in the morning
 - Consistency in [My daily routine](https://notes.andymatuschak.org/zSve33D7x1qe5WUjojDcM9y)
-- Reminding myself that [The high-order bit for my productivity is whether I complete a deeply-focused morning creative block](https://notes.andymatuschak.org/z2q7U5ZvXeDxXD6vXAbZb9a), recording/tracking whether that happens and the main blockers / helpers
+- Reminding myself that [[The high-order bit for my productivity is whether I complete a deeply-focused morning creative block]], recording/tracking whether that happens and the main blockers / helpers
 - Daily meditation
 - Simple, familiar background music
 - Lots of long walks, usually without audiobooks or podcasts
-- My notes (at least the important ones) contain mostly my own words ([Literature notes are secondary and separate](Literature%20notes%20are%20secondary%20and%20separate.md))
+- My notes (at least the important ones) contain mostly my own words ([[Literature notes are secondary and separate]])
 - Weekly, monthly, quarterly, annual reflection and planning exercises
 - Forest.app running on my phone while I work
 - Twitter, Mail, etc are not installed on my phone

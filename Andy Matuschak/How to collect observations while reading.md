@@ -1,14 +1,6 @@
 # How to collect observations while reading
 
-Type of Link: 📝 Article
-Category talked about: 2nd Brain, Note taking, Reading
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
-
-# **How to collect observations while reading**
-
-It’s important to [Write about what you read to internalize texts deeply](Write%20about%20what%20you%20read%20to%20internalize%20texts%20deeply.md), but it’s distracting to switch back and forth between reading and writing polished notes. Instead, collect insights in a lightweight way while you read. You can put them in [A writing inbox for transient and incomplete notes](A%20writing%20inbox%20for%20transient%20and%20incomplete%20notes.md). That'll [Close open loops](Close%20open%20loops.md), and you’ll process them later (see [How to process reading annotations into evergreen notes](How%20to%20process%20reading%20annotations%20into%20evergreen%20notes.md)).
+It’s important to [Write about what you read to internalize texts deeply](Write%20about%20what%20you%20read%20to%20internalize%20texts%20deeply.md), but it’s distracting to switch back and forth between reading and writing polished notes. Instead, collect insights in a lightweight way while you read. You can put them in [[A writing inbox for transient and incomplete notes]]. That'll [Close open loops](Close%20open%20loops.md), and you’ll process them later (see [How to process reading annotations into evergreen notes](How%20to%20process%20reading%20annotations%20into%20evergreen%20notes.md)).
 
 Annotations—even inline marginalia which include your own writing—have very little informational value. They’re atomized; they don’t relate to each other; they don’t add up to anything; they’re ultra-compressed; they’re largely unedited. That’s fine: think of them as just a reminder. They say “hey, look at this passage,” with a few words of context to jog your memory about what the passage was about.
 

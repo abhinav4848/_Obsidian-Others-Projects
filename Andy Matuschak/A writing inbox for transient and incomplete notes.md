@@ -8,7 +8,7 @@ Last edited time: January 18, 2024 7:55 PM
 
 # **A writing inbox for transient and incomplete notes**
 
-Even if you aspires to write [Evergreen Notes](Evergreen%20Notes%208b05f5bf420f4caaad50f6fea2828638.md), most notes begin as transient notes. You should be able to capture thoughts without friction ([Close open loops](Close%20open%20loops.md)), then reliably develop them into evergreen notes over time ([Knowledge work should accrete](Knowledge%20work%20should%20accrete.md)). This implies two important mechanisms:
+Even if you aspires to write [Evergreen Notes](Evergreen%20Notes%208b05f5bf420f4caaad50f6fea2828638.md), most notes begin as transient notes. You should be able to capture thoughts without friction ([Close open loops](Close%20open%20loops.md)), then reliably develop them into evergreen notes over time ([[Knowledge work should accrete]]). This implies two important mechanisms:
 
 1. a quick way to capture transient notes which clearly isolates them from evergreen notes; and
 2. a place to put notes you want to develop further and a practice which reliably drains it ([Inboxes only work if you trust how they’re drained](Inboxes%20only%20work%20if%20you%20trust%20how%20they’re%20drained.md))

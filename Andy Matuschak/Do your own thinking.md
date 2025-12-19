@@ -8,7 +8,7 @@ Last edited time: January 18, 2024 7:55 PM
 
 # **Do your own thinking**
 
-Beware: it’s too easy to let others’ schema and ideas dominate your own. [It’s hard to hear yourself think](It’s%20hard%20to%20hear%20yourself%20think.md).
+Beware: it’s too easy to let others’ schema and ideas dominate your own. [[It’s hard to hear yourself think]].
 
 When reading, the default is to let the author do your thinking for you. Per Schopenhauer:
 

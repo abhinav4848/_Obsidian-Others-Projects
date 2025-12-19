@@ -8,7 +8,7 @@ Last edited time: January 18, 2024 7:55 PM
 
 # **How to process reading annotations into evergreen notes**
 
-It’s important to [Write about what you read to internalize texts deeply](Write%20about%20what%20you%20read%20to%20internalize%20texts%20deeply.md). While reading, you’ve marked passages that seem relevant, and you’ve scribbled notes with your thoughts ([How to collect observations while reading](How%20to%20collect%20observations%20while%20reading.md)). Now we’ll process all that into lasting notes.
+It’s important to [Write about what you read to internalize texts deeply](Write%20about%20what%20you%20read%20to%20internalize%20texts%20deeply.md). While reading, you’ve marked passages that seem relevant, and you’ve scribbled notes with your thoughts ([[How to collect observations while reading]]). Now we’ll process all that into lasting notes.
 
 First: what notes should even get written? We’ll write [Evergreen notes should be concept-oriented](Evergreen%20notes%20should%20be%20concept-oriented.md), so what are the key concepts? You need to take a step back and form a picture of the overall structure of the ideas. Concretely, you might do that by clustering your scraps into piles and observing the structure that emerges. Or you might sketch a mind map or a visual outline. The structure you observe *does not have to match the book’s structure:* it’s whatever makes sense relative to your own personal ontology ([Do your own thinking](Do%20your%20own%20thinking.md)).
 
