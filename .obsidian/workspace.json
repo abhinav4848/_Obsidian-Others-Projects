@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andy Matuschak/Collaborative knowledge management systems tend to decay.md",
+                "file": "Andy Matuschak/Y Combinator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Collaborative knowledge management systems tend to decay"
+              "title": "Y Combinator"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andy Matuschak/Collaborative knowledge management systems tend to decay.md",
+                "file": "Andy Matuschak/Y Combinator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Collaborative knowledge management systems tend to decay"
+              "title": "Backlinks for Y Combinator"
             }
           },
           {
@@ -194,12 +194,19 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian42-brat:BRAT": false,
-      "snipd-official:Open Snipd base": false
+      "snipd-official:Open Snipd base": false,
+      "obsifetch:obsifetch": false
     }
   },
-  "active": "e02a589a9b768801",
+  "active": "d90183d8f8ff6f3a",
   "lastOpenFiles": [
+    "Andy Matuschak/Y Combinator.md",
+    "Andy Matuschak/§Knowledge work as serious discipline.md",
+    "Andy Matuschak/Brooks, F. P., Jr. (1977). The computer “scientist” as toolsmith- Studies in interactive computer graphics. Information Processing, 625–634.md",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/111 Editing Manual MOC.md",
+    "Ideaverse Merged/Atlas/Maps/Concepts.md",
     "Andy Matuschak/§Note-writing systems.md",
+    "Andy Matuschak/Collaborative knowledge management systems tend to decay.md",
     "Andy Matuschak/How to Take Smart Notes - Ahrens.md",
     "Andy Matuschak/Digital note-writing systems fixate on the presentation and manipulation of individual notes, mostly ignoring inter-note sense-making.md",
     "Andy Matuschak/It’s hard to navigate to unlinked “neighbors” in associative note systems.md",
@@ -209,22 +216,16 @@
     "Andy Matuschak/Indexed references vs. tags.md",
     "Andy Matuschak/Evergreen notes can increase conversational bandwidth.md",
     "Andy Matuschak/Conversations incorporating multiple discussants’ evergreen notes may promote collaborative sense-making.md",
-    "Andy Matuschak/Collaborative knowledge management systems tend to decay.md",
     "Andy Matuschak/Note-writing system.md",
     "Andy Matuschak/Networked note-writing software.md",
     "Andy Matuschak/Obsidian.md",
     "Andy Matuschak/Electron.md",
     "Snipd/Data/The Survival Podcast/Killing the Poverty Mindset – Epi-3393.md",
-    "Andy Matuschak/Brooks, F. P., Jr. (1977). The computer “scientist” as toolsmith- Studies in interactive computer graphics. Information Processing, 625–634.md",
     "Andy Matuschak/Immanuel Kant.md",
     "Andy Matuschak/I should consider asymmetric part-time collaborators.md",
     "Andy Matuschak/I should consider asymmetric part-time collaborators 1.md",
     "Andy Matuschak/Mental representations, after Ericsson and Pool.md",
     "Andy Matuschak/Daily working log.md",
-    "Andy Matuschak/Recoding can increase chunk size.md",
-    "Andy Matuschak/Efficient chunk schemas usually encode domain-specific attributes.md",
-    "Andy Matuschak/Purposeful practice, after Ericsson and Pool.md",
-    "Andy Matuschak/Good practice encodes more effective chunk recoding schemes.md",
     "current_export_metadata.json",
     "Ideaverse Merged/Atlas/Dots/Statements/Questions",
     "Snipd/Base/Snipd.base",
