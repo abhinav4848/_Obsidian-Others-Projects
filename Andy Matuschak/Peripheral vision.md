@@ -1,5 +1,4 @@
 # Peripheral vision
-
 My physical workspace is full of subtle cues. The books I read or bought most recently are lying out. Papers I’ve accumulated are lying in stacks on my desk, very roughly arranged by their relationship to each other. I notice a broken door every time I walk by it. These cues together give me a kind of “peripheral vision”: when I’m doing one thing, it’s easy for me to fluidly notice other nearby things. So long as the peripheral vision is reasonably dynamic, anyway—[[Unchanging peripheral vision desensitizes]].
 
 Software systems, by contrast, often lack this kind of peripheral vision. (Though there have been some attempts; see e.g. [[Just-in-time information retrieval agents]])
@@ -18,22 +17,23 @@ This is a big issue with the system described in [[A reading inbox to capture p
 
 If I mark up a physical book, then later flip through to see my margin notes, I’ll always see them in the context of the surrounding text. By contrast, digital annotation listings usually display only the text I highlighted, removed from its context. The primary “unit” in such systems is a single highlight or note, but that’s not how I think. Margin marks have fuzzy boundaries, and I often think of a page’s worth of markings as a single unit.
 
-[LiquidText](https://notes.andymatuschak.org/zN9pG99Y6GY8f6YjUTiKi5Z) is a lovely counterexample: it works hard to display annotations in context. See also [PeekQuotes](https://notes.andymatuschak.org/z86863GLDLgpYNYFcnh6zq2).
+[LiquidText](https://notes.andymatuschak.org/zN9pG99Y6GY8f6YjUTiKi5Z) is a lovely counterexample: it works hard to display annotations in context. See also [PeekQuotes](https://notes.andymatuschak.org/PeekQuotes). 
 
 ---
 
-All this is part of why I like a [Studio environment](https://notes.andymatuschak.org/zJoiMVErMjbYAdjjFsgMqsF): constantly being physically surrounded by the work is very different from needing to choose to “pull up” some element of the work.
+All this is part of why I like a [Studio environment](https://notes.andymatuschak.org/zJoiMVErMjbYAdjjFsgMqsF) (no note): constantly being physically surrounded by the work is very different from needing to choose to “pull up” some element of the work.
 
 ---
-
-## References
-
-My Twitter thread on this note: [Andy Matuschak on Twitter: “Software interfaces undervalue peripheral vision! (a thread)My physical space is full of subtle cues. Books I read or bought most recently are lying out. Papers are lying in stacks on my desk, roughly arranged by their relationships.… https://t.co/jaLLpxXh3y”](https://twitter.com/andy_matuschak/status/1202663202997170176)
+# References
+1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zCMhncA1iSE74MKKYQS5PBZ&stackedNotes=z4geAr5cERWdJPrdhU5gy3N)
+2. My Twitter thread on this note: [Andy Matuschak on Twitter: “Software interfaces undervalue peripheral vision! (a thread)My physical space is full of subtle cues. Books I read or bought most recently are lying out. Papers are lying in stacks on my desk, roughly arranged by their relationships.… https://t.co/jaLLpxXh3y”](https://twitter.com/andy_matuschak/status/1202663202997170176)
 
 Mark Weiser and John Seely Brown. “Designing Calm Technology”.  
 [https://calmtech.com/papers/designing-calm-technology.html](https://calmtech.com/papers/designing-calm-technology.html)
 
 > Technologies encalm as they empower our periphery. This happens in two ways. First, as already mentioned, a calming technology may be one that easily moves from center to periphery and back. Second, a technology may enhance our peripheral reach by bringing more details into the periphery. An example is a video conference that, by comparison to a telephone conference, enables us to attune to nuances of body posture and facial expression that would otherwise be inaccessible. This is encalming when the enhanced peripheral reach increases our knowledge and so our ability to act without increasing information overload.
+
+Related, Bret (2015) on “[Virtual sprawl”](https://dynamicland.org/archive/2015/Virtual_sprawl). That is, lack of peripheral vision in computer interfaces is a symptom of a broader problem: the infinitely scrolling and storing rectangle encourages sprawl, peek-a-boo, endless accretion, hiding under the rug, etc.
 
 ---
 

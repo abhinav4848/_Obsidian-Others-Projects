@@ -25,14 +25,14 @@
             "id": "ec9232daba0acfd6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Andy Matuschak/Peripheral vision.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Andy Matuschak/Peripheral vision.md",
+                "bFile": "Andy Matuschak/Peripheral vision.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Peripheral vision"
+              "icon": "diff",
+              "title": "Diff: Peripheral vision"
             }
           },
           {
@@ -124,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andy Matuschak/Peripheral vision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Peripheral vision"
+              "title": "Backlinks"
             }
           },
           {
@@ -191,7 +190,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -213,6 +213,7 @@
   },
   "active": "ec9232daba0acfd6",
   "lastOpenFiles": [
+    "Andy Matuschak/Peripheral vision.md",
     "Work with the garage door up.md",
     "Working on niche, personally-meaningful projects brings weirder, more serendipitous inbounds.md",
     "Obsession as high-order bit.md",
@@ -238,7 +239,6 @@
     "Guided meditation apps deliver enacted experiences in a mass medium.md",
     "Guided meditation apps bundle instruction with daily sessions.md",
     "Guided meditation app.md",
-    "Guided meditation apps deliver enabling environments in a mass medium.md",
     "current_export_metadata.json",
     "Ideaverse Merged/Atlas/Dots/Statements/Questions",
     "Snipd/Base/Snipd.base",
