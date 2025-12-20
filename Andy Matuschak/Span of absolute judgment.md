@@ -1,5 +1,4 @@
 # Span of absolute judgment
-
 There’s limit to how accurately people can identify the absolute magnitude of a unidimensional stimulus. For example, say I mark a point on a number line that only has labels at 0 and 100. Then I ask you to estimate the numeric position of the marked point. How well would your answer correlate to the true position?
 
 To put it another way, how many categories can you reliably distinguish? If I could choose any number from 0-100, you probably wouldn’t expect to be all that accurate, but if I could only choose 20, 40, 60, and 80, your answers would probably correlate perfectly. We could slowly increase the number of possible choices to find the point at which people can’t reliably distinguish any additional categories. And we can repeat the same experiment for other stimuli, like sound loudnesses or pitches, or saline concentrations, or hues of color.
@@ -25,5 +24,4 @@ A. span of absolute judgment
 ---
 
 ## References
-
-Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63(2), 81–97. [https://doi.org/10.1037/h0043158](https://doi.org/10.1037/h0043158) [Miller - The magical number seven, plus or minus two](https://notes.andymatuschak.org/zNCrrN6aGXeuiVXgnoiT7ND)
+1. Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63(2), 81–97. [https://doi.org/10.1037/h0043158](https://doi.org/10.1037/h0043158) [Miller - The magical number seven, plus or minus two](https://notes.andymatuschak.org/zNCrrN6aGXeuiVXgnoiT7ND)
