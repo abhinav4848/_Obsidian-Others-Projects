@@ -1,3 +1,7 @@
+---
+URLs:
+  - https://notes.andymatuschak.org/z8kPkXQZ3wVR5DfJ79uhnuz?stackedNotes=z6sX7ZcYdPiya3SzQ5segaq&stackedNotes=zWWh96dE6YZYmDCoo37977X
+---
 # The mnemonic medium can be extended to one’s personal notes
 
 In using a [[Spaced repetition memory system]], you’ll fill it with notes on what you’re learning, observing, and thinking. Unfortunately, [[Existing spaced repetition systems discourage evergreen notes]]. A memory system will help you retain and continuously engage with what you write, but it won’t much help you build on those ideas over time. An [[Andy Matuschak/Evergreen Notes]] system will help you build on your ideas over time, but it won’t help you retain and continuously engage with those notes (outside of [[Evergreen note maintenance approximates spaced repetition]]). So you’re stuck either duplicating your efforts messily in two separate systems, or giving up one system’s benefits.
@@ -13,9 +17,7 @@ A. (e.g. no serendipitous note-finding when note-writing, no way to easily evolv
 - [Anki seems to make it harder to “sketch” and revise prompts](https://notes.andymatuschak.org/zXiWsZY761uNMUKeMEqNVqi)
 
 ## Implementations
-
 There are a few other implementations of something like this idea:
-
 - Importers into external SRS
     - [[My implementation of a personal mnemonic medium]]
     - [Obisidan_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki). Requires some manual steps.
@@ -30,7 +32,6 @@ There are a few other implementations of something like this idea:
 ---
 
 ## References
-
-Nielsen, M. (2018). _Augmenting Long-term Memory_. [http://augmentingcognition.com/ltm.html](http://augmentingcognition.com/ltm.html)
-
+1. [Andy Link](https://notes.andymatuschak.org/z8kPkXQZ3wVR5DfJ79uhnuz?stackedNotes=z6sX7ZcYdPiya3SzQ5segaq&stackedNotes=zWWh96dE6YZYmDCoo37977X)
+2. Nielsen, M. (2018). _Augmenting Long-term Memory_. [http://augmentingcognition.com/ltm.html](http://augmentingcognition.com/ltm.html) 
 > I start to identify open problems, questions that I’d personally like answered, but which don’t yet seem to have been answered. I identify tricks, observations that seem pregnant with possibility, but whose import I don’t yet know. And, sometimes, I identify what seem to me to be field-wide blind spots. I add questions about all these to Anki as well. In this way, Anki is a medium supporting my creative research. It has some shortcomings as such a medium, since it’s not designed with supporting creative work in mind – it’s not, for instance, equipped for lengthy, free-form exploration inside a scratch space.

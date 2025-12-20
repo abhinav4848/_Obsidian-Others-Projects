@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andy Matuschak/The mnemonic medium may push readers to read more slowly and attentively.md",
+                "file": "The mnemonic medium gives structure to normally-atomized spaced repetition memory prompts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The mnemonic medium may push readers to read more slowly and attentively"
+              "title": "The mnemonic medium gives structure to normally-atomized spaced repetition memory prompts"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andy Matuschak/The mnemonic medium may push readers to read more slowly and attentively.md",
+                "file": "The mnemonic medium gives structure to normally-atomized spaced repetition memory prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The mnemonic medium may push readers to read more slowly and attentively"
+              "title": "Backlinks for The mnemonic medium gives structure to normally-atomized spaced repetition memory prompts"
             }
           },
           {
@@ -184,6 +184,15 @@
   },
   "active": "fa320fb4d901b7ac",
   "lastOpenFiles": [
+    "Mnemonic medium prompts rely on invoking external experiences (from narrative, from real-world experience).md",
+    "Andy Matuschak/Learn before you memorize.md",
+    "Andy Matuschak/Piotr Wozniak - Effective learning - Twenty rules of formulating knowledge.md",
+    "The mnemonic medium gives structure to normally-atomized spaced repetition memory prompts.md",
+    "Traditional spaced repetition memory prompts are atomized.md",
+    "Andy Matuschak/The mnemonic medium can be extended to one’s personal notes.md",
+    "Andy Matuschak/My implementation of a personal mnemonic medium.md",
+    "Andy Matuschak/The mnemonic medium may push readers to read more slowly and attentively.md",
+    "Most explanatory media place heavy metacognitive demands on participants.md",
     "Andy Matuschak/Asking people questions while they read a text improves performance on untested contents.md",
     "Andy Matuschak/Testing effect.md",
     "Andy Matuschak/Evergreen note maintenance approximates spaced repetition.md",
@@ -204,15 +213,6 @@
     "Andy Matuschak/Digital annotation is too formal.md",
     "Andy Matuschak/Parallel reading is mostly impossible in digital reading.md",
     "Andy Matuschak/Physical cut and paste is a parallel act involving informal intermediate states.md",
-    "Andy Matuschak/Figma.md",
-    "Andy Matuschak/We lack UI patterns for linked representations for arrangements on a 2D canvas.md",
-    "Andy Matuschak/Transclusion.md",
-    "Andy Matuschak/Transclusion is limited by the data model’s composability.md",
-    "Andy Matuschak/Up and Down the Ladder of Abstraction - Bret Victor.md",
-    "Andy Matuschak/Linked representations.md",
-    "Andy Matuschak/Maintaining multiple reading positions is difficult when reading digitally.md",
-    "Andy Matuschak/Poor performance disrupts nonlinear reading in digital reading.md",
-    "Andy Matuschak/Skillful reading is often non-linear.md",
     "Andy Matuschak/_attachments/Chi et al - 1994 - Eliciting self-explanations improves understanding.pdf",
     "Andy Matuschak/_attachments/Dunlosky et al - 2013 - Improving Students’ Learning With Effective Learning Techniques.pdf",
     "current_export_metadata.json",

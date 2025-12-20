@@ -10,7 +10,7 @@ The flip side of this property is that the medium *demands* more attention tha
 
 It would be interesting to empirically compare the amount of time readers spend on an essay with and without questions, subtracting off the amount of time mnemonic medium readers spend directly engaged with questions. Eye-tracking data would be interesting tool.
 
-Related: [Most explanatory media place heavy metacognitive demands on participants](https://notes.andymatuschak.org/zo6qizTMapyWk2rh8amnF1) 
+Related: [[Most explanatory media place heavy metacognitive demands on participants]] 
 
 There’s plenty of prior art for this kind of mechanism in CAI systems; see e.g. [Anderson, T. H., Anderson, R. C., Dalgaard, B. R., Wietecha, E. J., Biddle, W. B., Paden, D. W., Smock, H. R., Alessi, S. M., Surber, J. R., & Klemt, L. L. (1974). A computer based study management system. Educational Psychologist, 11(1), 36–45](https://notes.andymatuschak.org/zFSbK7EzPkgZ2DgSve1d3rr).
 
