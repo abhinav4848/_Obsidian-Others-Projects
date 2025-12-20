@@ -1,3 +1,8 @@
+---
+URLs:
+  - https://notes.andymatuschak.org/zALB77pBFKPZae7f5kD3ro1
+---
+# Naive approaches to practice rapidly plateau
 If you want to pick up a new skill, like sketching, you might read some books, take a few lessons, then repeat the basic procedures you’ve seen until they’re comfortable. This approach often plateaus rapidly once you reach a basic level of automaticity. Ericsson and Pool (2016) call this “{naive practice}”: a student {performs an action repeatedly}, expecting that {repetition alone} will {improve performance} (p. 14), contra [[Skill development requires challenging homeostasis]]. [[Performance plateaus often require a change in approach to surmount]].
 
 The naive approach to practice might be best summarized by this exchange between a music teacher and his student: “How did you practice it?” “{I dunno. I just played it.}” (Oare, 2012).

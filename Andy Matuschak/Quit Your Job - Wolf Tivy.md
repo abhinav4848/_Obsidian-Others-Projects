@@ -1,3 +1,7 @@
+---
+URLs:
+  - https://notes.andymatuschak.org/z5beUfpCZpi6fibB4vFfhzF
+---
 # Quit Your Job - Wolf Tivy
 By [Wolf Tivy](https://notes.andymatuschak.org/zFdjHeXg9d92bJd9hgPHaSP), in [Palladium Magazine](https://notes.andymatuschak.org/z159f2ooSvPMdnzdrHiTN32) [https://palladiummag.com/2022/01/06/quit-your-job/](https://palladiummag.com/2022/01/06/quit-your-job/)
 
@@ -44,7 +48,7 @@ Many people frame quitting in terms of working a job for oneself: “I’m going
 The deeper problem with quitting in order to do something well-defined is that you’ll be limited to paths you can clearly articulate from within your current world—that is, the confining context of a job. The most meaningful paths probably aren’t on that menu.
 
 This line of reasoning nicely echoes @ufotransluscence’s “Becoming a Magician”, which defines extraordinary growth in terms of becoming a version of yourself which seems impossible, even alien. What got you here won’t get you there. [https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/)  
-![](https://notes.andymatuschak.org/BearImages/EB2991E0-8E4B-46FA-8DCF-EA25801E4C1C/F9BCB6FC-A58F-4292-A9C2-7F5F637E020E.png)
+![](23159.png)
 
 One important claim Wolf makes is that yes, of course, stepping off a well-defined career track requires a great deal of privilege. But many—most?—of the people who _could_ take that leap wrongly think of it as a fairy-tale, something only “other people” could do.
 

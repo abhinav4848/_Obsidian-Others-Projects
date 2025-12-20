@@ -70,8 +70,7 @@ One final hesitation: how important are my comprehension gaps, really? This prot
 My rough impression is that conceptual gaps are more likely to be ignored or poorly diagnosed by problem-solving practice than factual or procedural gaps. Confusion also seems to arise when knowledge is only covered by problems which involve some transfer. So, in principle, maybe we could just construct problems which ramp up smoothly enough to effectively identify comprehension gaps. But I notice that I don’t _like_ answering such basic questions when my comprehension is actually fine. They feel boring and burdensome. Maybe the proposed design’s lightweight comprehension support is a reasonable compromise.
 
 ## Evaluating with Quantum Country
-
-Another way we can judge the proposed new design is to ask: what would [Quantum Country](https://quantum.country/) have been like to read this way?
+Another way we can judge the proposed new design is to ask: what would [[Quantum Country]] have been like to read this way?
 
 A first question we might ask: how many highlights would a reader need to make to “collect” every prompt? I mapped the 112 prompts in the first essay (QCVC) to representative highlight ranges and found that 78 highlights would cover all the prompts. For ~25,000 words, that doesn’t seem so unreasonable: it’s about 1 highlight every 320 words, or roughly for every screenful of text on my display. (Though obviously the density of the text’s ideas varies considerably.)
 
@@ -89,7 +88,7 @@ This exercise also helped me see the catch quite clearly: as we’ve discussed, 
 
 ### Interaction cost
 
-More than two years ago, when I was just starting to dig into tensions around reader control in the mnemonic medium, [I observed](https://notes.andymatuschak.org/zNXS7UkMmGYTFRyJCeLnEoH#:~:text=And%20so%20maybe,think%20that%E2%80%99s%20enough.) that if QCVC contains 112 prompts, a reader wouldn’t want to make 112 decisions about which prompts to save, or even to click “save this prompt” 112 times in the interface! That motivated the introduction of the “bulk” prompt interaction in [last year’s prototypes](https://www.youtube.com/watch?v=aYjJIzJwK8U).
+More than two years ago, when I was just starting to dig into tensions around reader control in the mnemonic medium, [I observed](https://notes.andymatuschak.org/zNXS7UkMmGYTFRyJCeLnEoH#:~:text=And%20so%20maybe,think%20that%E2%80%99s%20enough.) that if QCVC contains 112 prompts, a reader wouldn’t want to make 112 decisions about which prompts to save, or even to click “save this prompt” 112 times in the interface! That motivated the introduction of the “bulk” prompt interaction in [last year’s prototypes](https://www.youtube.com/watch?v=aYjJIzJwK8U) #external youtube. 
 
 And yet I notice that I don’t feel much concern about requiring a reader to make 78 highlights. 78 still seems like a lot of interactions. Why do I feel so differently?
 
@@ -128,7 +127,6 @@ Back to reality. I’ve run many experiments with using GPT-4 to perform all thr
 3. Semantic highlight diff: Surprisingly difficult for the model. It particularly struggles with user highlights which aren’t in the set of “curated” highlights—it wants to make spurious mappings.
 
 ## Next steps
-
 Happily, I don’t need to solve those open-ended technical problems to evaluate and improve upon the core design idea here. I plan to conduct a round of Wizard-of-Oz user testing:
 
 1. Text to curated highlights: constructed by me, as described in the simple model above.

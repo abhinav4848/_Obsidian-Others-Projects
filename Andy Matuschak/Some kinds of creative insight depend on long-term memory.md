@@ -1,3 +1,8 @@
+---
+URLs:
+  - https://notes.andymatuschak.org/zNW5jyTpU1v4XBQfTYwoM8Q
+---
+# Some kinds of creative insight depend on long-term memory
 If a creative leap requires you to notice an unusual connection, coincidence, or contradiction in some stimulus, it’s often not good enough to be able to look up whatever you want. The critical creative insight is often equivalent to realizing that you _should_ look a particular thing up. Often that’s only possible if you already have the constituents of the connection available in long-term memory, and flexibly encoded enough that you can make the leap from whatever stimulus is before you to that past idea.
 
 ## References
@@ -16,4 +21,4 @@ Nielsen, M. (2018). _Augmenting Long-term Memory_. [http://augmentingcognition
 Klein - Seeing What Others Don’t (2013)
 ![[Klein - Seeing What Others Don’t (2013).png]]
 # Source
-1. Andy Link: https://notes.andymatuschak.org/zNW5jyTpU1v4XBQfTYwoM8Q
+1. [Andy Link](https://notes.andymatuschak.org/zNW5jyTpU1v4XBQfTYwoM8Q)

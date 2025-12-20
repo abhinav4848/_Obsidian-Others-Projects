@@ -1,3 +1,8 @@
+---
+URLs:
+  - https://notes.andymatuschak.org/zS1N4F9fUeMQ1kYHVAvwVAU
+---
+# Performance plateaus often require a change in approach to surmount
 [[Purposeful practice, after Ericsson and Pool]] requires that you’re always pushing your comfort zone. By honing a given set of practices, it’s often possible to perform incrementally better, but returns usually diminish. At that point, “generally the solution is not ‘try harder’ but rather ‘try differently’” (Ericsson & Pool, 2016, p. 19). (Compare to [[Naive approaches to practice rapidly plateau]])
 
 Consequently: [[Practice efficacy is highly sensitive to method design]].

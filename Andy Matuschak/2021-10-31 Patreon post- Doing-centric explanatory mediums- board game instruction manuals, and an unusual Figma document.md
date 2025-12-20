@@ -54,7 +54,7 @@ Figma changed the way copy and paste works in their interface. They made [a doc
 
 The document initially reads like a hypertext slide deck. It shows visually how the new clipboard functions behave. It’s cute that it’s a document about using Figma, both created and consumed in Figma, but that’s not so special. Interleaved with explanatory preamble, the document turns control over to you:
 
-![](https://notes.andymatuschak.org/BearImages/C989A45D-D8F7-4924-BC3D-05BAC639C4E0/F6F62C2F-4C69-4350-B5C6-DAB4B7195223.png)
+![](20979.png)
 
 This is where we break down the wall between authored material and authentic “doing.” You’re invited to manipulate the objects which the author has created. The objects aren’t special; they’re the same “kind” of objects which you could create yourself elsewhere. You can copy and paste them into a new document. And when you manipulate these objects, you use the same tools the author used to create the document. More importantly: you use the same tools which you yourself would use to do authentic work in this space.
 
@@ -62,7 +62,7 @@ This could have been a blog post, with little interactive “demo” areas inter
 
 It’s important to recognize that there’s a lot of text in this document. That’s part of what makes it so interesting. “Worksheets” aren’t so unusual—there are lots of Figma documents [like this](https://www.figma.com/community/file/792958512200684153) which give you an exercise and some context to play in.
 
-![](https://notes.andymatuschak.org/BearImages/8E60492B-EC91-48A9-A9BF-060655D896A1/BE637E06-FBA5-48A2-808C-DC976DA89331.png)
+![](87183.png)
 
 By comparison, the copy/paste Figma document is unusual because it’s roughly a thousand words long. There’s a lot of explanatory material here, and there could be even more. The possibility of expansive, in-depth documents opens the door to [canonical works](https://numinous.productions/ttft/#serious-work) in the medium. Separately, the interaction between the authored material and the activities is much finer-grained in the copy/paste document. This creates shorter, more precise feedback loops, closer to the experience of a video game tutorial or to playing a board game with an experienced friend.
 
@@ -72,7 +72,7 @@ This is a Figma document about using Figma. That’s useful, insofar as an elabo
 Of course, the Figma “meta-document” medium can itself be pushed much further.
 
 The explanatory text in the copy/paste document does not behave and respond. It’s not really a dynamic medium for authors. The fine-grained exchange between explanation and action makes it easier to help readers generate their own feedback, but the medium could go further by reacting to the reader’s actions. [Earth, a Primer](https://www.earthprimer.com/) demonstrates one simple approach, “checking off” suggestions as readers complete them:  
-![](https://notes.andymatuschak.org/BearImages/624A9509-2251-42AB-8715-3D4796A7CA00/volcano.png)
+![](12772.png)
 
 We can also imagine topic-specific computational elements. A chapter on color theory could use linked representations to visualize secondary and complementary colors in response to your choice of “main” colors. A chapter on grid systems could help you visualize how different choices of type hierarchy ratios influence the baseline rhythms in your design. A chapter on accessibility might embed contrast ratio meters into your design canvas. Scaffolding elements can fade according to your comfort level with the material. And so on.
 

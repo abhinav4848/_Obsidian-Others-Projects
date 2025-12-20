@@ -1,11 +1,10 @@
 # Deliberate practice doesn’t have to be unenjoyable
-
 One of Ericsson’s classic attributes of [[Andy Matuschak/Deliberate practice|Deliberate practice]] is that it’s not inherently enjoyable, and in fact is generally less enjoyable than other relevant activities. When he writes this, he’s usually making a descriptive claim—describing properties of expert practice of this kin in the world—rather than a normative claim. But he suggests that the non-enjoyability is a natural consequence of deliberate practice being a) necessarily difficult/effortful; and b) primarily for improving performance.
 
 I think his claim is wrong both descriptively and normatively.
 
 In Ericsson (1993), the evidence he presents for this claim comes from a diary study of violinists. Solo practice gets 7.2 for pleasure. That's lower than playing for fun (8.3) but similar to solo performance (7.3), and higher than music theory (6.1) or the grand mean (6.5).  
-![](https://notes.andymatuschak.org/BearImages/A76A917E-0F6C-4FF0-875F-637F32435FEF/image.png)
+![](48569.png)
 
 Hyllegard and Yamamoto (2005) do a review and find that: “only 4% [of DP activities](https://notes.andymatuschak.org/z5Rvwe2Wo2UvxHxLujUWnsa?stackedNotes=zTkRoDEXnMQqwb6uDxyA8Us&stackedNotes=zTgkGMCSgQes6NL1kCFZpEC) received low ratings for inherent enjoyment or pleasure in practice”. (They suggest that this might be because of methodological problems in all those studies, but I don't find their conjectures very compelling)
 

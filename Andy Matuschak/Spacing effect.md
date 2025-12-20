@@ -15,11 +15,11 @@ The intersession intervals shouldn’t be increased without bound, since that de
 Mozer and Lindsey (2016) derive this power-law relationship for individual study sessions from various empirical data sets:  
 Optimal ISI = 0.097 * RI^0.812  
 Which has this shape:  
-![](https://notes.andymatuschak.org/BearImages/8E197D4A-1C00-4782-8E0D-C2779925029F/16CD74F1-BD28-485D-9BAE-A4C240829927.png)  
+![](56984.png)  
 It looks roughly linear to me, honestly. Their data sets don’t include anything outside of a 1 year RI, so we shouldn’t trust the function beyond this range.
 
 Also, this function doesn’t seem to fit Cepeda et al 2008’s data very well:  
-![](https://notes.andymatuschak.org/BearImages/6A55CB9C-3345-418B-A170-52F4FF8C4FE1/9966CFC2-C6BF-4A9E-A7C2-6282AADB8EA7.png)  
+![](10797.png)  
 e.g. they found that OISI ~= 5 for RI = 35, but the power law fit finds OISI = 1.8, which empirically performed much worse in that study.
 
 # Collected empirical evidence
