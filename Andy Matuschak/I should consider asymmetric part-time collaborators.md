@@ -14,7 +14,7 @@ For example, [Michael Nielsen](https://notes.andymatuschak.org/Michael_Nielsen)
 
 A better example, perhaps, can be found in [Michael Nielsen](https://notes.andymatuschak.org/Michael_Nielsen)’s collaborations with [Patrick Collison](https://notes.andymatuschak.org/Patrick_Collison) and [Kanjun Qiu](https://notes.andymatuschak.org/Kanjun_Qiu), on their two co-authored essays. In these, Michael drove the project and the writing, while his collaborators offered regular deep high-context conversation. They also did independent research and development on subtopics of interest to bring to those conversations. But they mostly avoided the critical path, and they could scale up or down their involvement somewhat flexibly.
 
-Related:  [CEOs might make good part-time collaborators](https://notes.andymatuschak.org/CEOs_might_make_good_part-time_collaborators) (no note on the site)
+Related: [CEOs might make good part-time collaborators](https://notes.andymatuschak.org/CEOs_might_make_good_part-time_collaborators) (no note on the site)
 
 ---
 

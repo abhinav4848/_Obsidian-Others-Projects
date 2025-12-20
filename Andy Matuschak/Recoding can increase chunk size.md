@@ -12,10 +12,7 @@ Related: [[Complex ideas may be hard to learn in part because their components 
 
 ---
 
-## References
-
-Chase, W. G., & Ericsson, K. A. (1982). Skill and Working Memory. In G. H. Bower (Ed.), Psychology of Learning and Motivation (Vol. 16, pp. 1–58). Academic Press. [https://doi.org/10.1016/S0079-7421(08)60546-0](https://doi.org/10.1016/S0079-7421\(08\)60546-0)
-
-Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63(2), 81–97. [https://doi.org/10.1037/h0043158](https://doi.org/10.1037/h0043158) [Miller - The magical number seven, plus or minus two](https://notes.andymatuschak.org/zNCrrN6aGXeuiVXgnoiT7ND)
-# Source
-1. Andy Link: 
+# References
+1. [Andy Link](https://notes.andymatuschak.org/z9uHnUB5sQeGcEmmmqEGqBV?stackedNotes=zEwJDpZiu1YQoXYznxioznL&stackedNotes=zSQhVMNeFNGfggB9Pg6MMDX&stackedNotes=z3p78NbwsU2Pi1t3Q24psfB)
+2. Chase, W. G., & Ericsson, K. A. (1982). Skill and Working Memory. In G. H. Bower (Ed.), Psychology of Learning and Motivation (Vol. 16, pp. 1–58). Academic Press. [https://doi.org/10.1016/S0079-7421(08)60546-0](https://doi.org/10.1016/S0079-7421\(08\)60546-0)
+3. Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63(2), 81–97. [https://doi.org/10.1037/h0043158](https://doi.org/10.1037/h0043158) [Miller - The magical number seven, plus or minus two](https://notes.andymatuschak.org/zNCrrN6aGXeuiVXgnoiT7ND) 

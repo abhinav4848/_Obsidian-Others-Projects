@@ -22,31 +22,13 @@
             }
           },
           {
-            "id": "ec9232daba0acfd6",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Andy Matuschak/Peripheral vision.md",
-                "bFile": "Andy Matuschak/Peripheral vision.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Peripheral vision"
-            }
-          },
-          {
             "id": "d90183d8f8ff6f3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brooks, F. P., Jr. (1977). The computer “scientist” as toolsmith- Studies in interactive computer graphics. Information Processing, 625–634.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Brooks, F. P., Jr. (1977). The computer “scientist” as toolsmith- Studies in interactive computer graphics. Information Processing, 625–634"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -103,12 +85,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 391.5044631958008
+    "width": 392.5044631958008
   },
   "right": {
     "id": "9870632db536340b",
@@ -211,34 +192,34 @@
       "snipd-official:Open Snipd base": false
     }
   },
-  "active": "ec9232daba0acfd6",
+  "active": "d90183d8f8ff6f3a",
   "lastOpenFiles": [
+    "Snipd/Data/The Survival Podcast/Killing the Poverty Mindset – Epi-3393.md",
+    "Andy Matuschak/Brooks, F. P., Jr. (1977). The computer “scientist” as toolsmith- Studies in interactive computer graphics. Information Processing, 625–634.md",
+    "Andy Matuschak/Immanuel Kant.md",
+    "Andy Matuschak/I should consider asymmetric part-time collaborators.md",
+    "Andy Matuschak/I should consider asymmetric part-time collaborators 1.md",
+    "Andy Matuschak/Mental representations, after Ericsson and Pool.md",
+    "Andy Matuschak/Daily working log.md",
+    "Andy Matuschak/Recoding can increase chunk size.md",
+    "Andy Matuschak/Efficient chunk schemas usually encode domain-specific attributes.md",
+    "Andy Matuschak/Purposeful practice, after Ericsson and Pool.md",
+    "Andy Matuschak/Good practice encodes more effective chunk recoding schemes.md",
+    "Andy Matuschak/Y Combinator.md",
     "Andy Matuschak/Peripheral vision.md",
-    "Work with the garage door up.md",
-    "Working on niche, personally-meaningful projects brings weirder, more serendipitous inbounds.md",
-    "Obsession as high-order bit.md",
-    "How might we situate tools for thought within intrinsically meaningful contexts.md",
-    "Connecting prose and its surrounding Twitter conversation.md",
-    "The mnemonic medium can surface “proof of memory” social signals.md",
-    "The mnemonic medium can generate interesting author analytics.md",
-    "Twitter is a water cooler.md",
-    "The dominant culture around spaced repetition memory systems is fixated on meaningless goals.md",
-    "Recall rates are a misleading proxy for more meaningful goals of the mnemonic medium.md",
-    "What’s the big-picture impact of the mnemonic medium on readers.md",
-    "Impact of mnemonic medium on downstream learning.md",
+    "Andy Matuschak/Work with the garage door up.md",
+    "Andy Matuschak/Working on niche, personally-meaningful projects brings weirder, more serendipitous inbounds.md",
+    "Andy Matuschak/Obsession as high-order bit.md",
+    "Andy Matuschak/How might we situate tools for thought within intrinsically meaningful contexts.md",
+    "Andy Matuschak/Connecting prose and its surrounding Twitter conversation.md",
+    "Andy Matuschak/The mnemonic medium can surface “proof of memory” social signals.md",
+    "Andy Matuschak/The mnemonic medium can generate interesting author analytics.md",
+    "Andy Matuschak/Twitter is a water cooler.md",
+    "Andy Matuschak/The dominant culture around spaced repetition memory systems is fixated on meaningless goals.md",
+    "Andy Matuschak/Recall rates are a misleading proxy for more meaningful goals of the mnemonic medium.md",
+    "Andy Matuschak/What’s the big-picture impact of the mnemonic medium on readers.md",
+    "Andy Matuschak/Impact of mnemonic medium on downstream learning.md",
     "Andy Matuschak/Enabling environments focus on creating opportunities for growth and action, not on skill-building.md",
-    "Andy Matuschak/The critical thing to optimize in spaced repetition memory systems is emotional connection to the review session and its contents.md",
-    "Tools for thought should be evaluated in the context of intrinsically meaningful purposes.md",
-    "Most experimental psychology on learning involves people learning things they don’t care about.md",
-    "Most (especially early) experimental literature on the spacing effect involves inauthentic learning environments.md",
-    "Designing new enabling environments can be framed as designing a University++.md",
-    "Enacted experiences can bootstrap active participation in enabling environments.md",
-    "Enacted experiences are hard to distribute.md",
-    "Y Combinator.md",
-    "Enacted experiences have incredible potential as a mass medium.md",
-    "Guided meditation apps deliver enacted experiences in a mass medium.md",
-    "Guided meditation apps bundle instruction with daily sessions.md",
-    "Guided meditation app.md",
     "current_export_metadata.json",
     "Ideaverse Merged/Atlas/Dots/Statements/Questions",
     "Snipd/Base/Snipd.base",

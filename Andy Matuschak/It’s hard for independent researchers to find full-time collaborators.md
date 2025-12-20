@@ -8,6 +8,6 @@ My tech circles are full of post-money people, but their skillsets are often dup
 
 A related issue is that people who have the means to support total creative freedom often have a full pipeline of active projects.
 
-One consequence: [[I should consider asymmetric part-time collaborators]].
+One consequence: [[Andy Matuschak/I should consider asymmetric part-time collaborators]].
 
 Related: [Why don’t more Big Tech employees become gentlemen scholars?](https://notes.andymatuschak.org/zN5mrK5BRXQ8kVDitRkn3jd)

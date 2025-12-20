@@ -1,5 +1,4 @@
-# **Daily working log**
-
+# Daily working log
 Each day, I start a note titled with that day’s date; e.g. 2020-03-12. It captures ephemera throughout the day: reflections, scratch work, etc. It’s an intentional dumping ground, a release valve so that there’s always “a place to put that thing.”
 
 In the [[Taxonomy of note types]], this is the lowest-fidelity layer, ephemeral by design. But as scratch thoughts look like they might have legs, they get extracted into a note in my writing inbox ([[A writing inbox for transient and incomplete notes]]). Sometimes I’ll use the daily working log as a drafting space, and I can extract sections roughly-as-is into [[Andy Matuschak/Evergreen Notes|Evergreen Notes]].

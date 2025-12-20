@@ -12,8 +12,7 @@ Ericsson and Pool (2016) discuss this claim at length, but little evidence or ex
 
 ---
 
-## References
-
+# References
 Ericsson, A., & Pool, R. (2016). _Peak: Secrets from the New Science of Expertise_ (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [Peak - Ericsson and Pool](https://notes.andymatuschak.org/zEwJDpZiu1YQoXYznxioznL)
 # Source
-1. Andy Link: 
+1. [Andy Link](https://notes.andymatuschak.org/z3QWwvfYS5exfZE53dKwt7r) 
