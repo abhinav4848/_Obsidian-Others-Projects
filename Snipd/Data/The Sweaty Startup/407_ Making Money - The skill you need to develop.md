@@ -6,16 +6,16 @@ episode_publish_date: 2024-10-30
 last_snip_date: 2024-10-30
 episode_duration_minutes: 13
 episode_url: "https://share.snipd.com/episode/ef761d18-0314-466a-8013-7d86414c0f4c"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2Fc%2Fa%2Fe%2Fa%2Fcaeae8d4a5b0d219%2Fthe_sweaty.png&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/231816/55910.png"
 show_url: "https://share.snipd.com/show/99b38356-2def-4b93-acb8-1c6c219f64dc"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2Fc%2Fa%2Fe%2Fa%2Fcaeae8d4a5b0d219%2Fthe_sweaty.png&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/231816/65174.png"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 ---
 # 407: Making Money - The skill you need to develop
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2Fc%2Fa%2Fe%2Fa%2Fcaeae8d4a5b0d219%2Fthe_sweaty.png&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/231816/16643.png)
 
 ## Episode metadata
 - Episode title: 407: Making Money - The skill you need to develop

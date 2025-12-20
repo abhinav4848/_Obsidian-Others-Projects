@@ -6,16 +6,16 @@ episode_publish_date: 2023-08-17
 last_snip_date: 2023-09-10
 episode_duration_minutes: 49
 episode_url: "https://share.snipd.com/episode/7aa3b6ca-2d42-4ebf-95ff-34c7f97817c3"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Ff62315e0-3caf-11ee-ac02-eff647a08e0d%2Fimage%2Fb16ea1a27cb700e37f92cd8c28a09d2a.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/232034/51565.jpeg"
 show_url: "https://share.snipd.com/show/c318a019-361a-4eaf-bfa8-00ba97ad3dae"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F97efcf10-e812-11ec-83f3-c3c0c0c21250%2Fimage%2FlargeCS_showPODCAST_COVER.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/232034/59939.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 7
 from_snipd: true
 ---
 # 7 habits of highly successful YouTubers
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Ff62315e0-3caf-11ee-ac02-eff647a08e0d%2Fimage%2Fb16ea1a27cb700e37f92cd8c28a09d2a.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/232034/44511.jpeg)
 
 ## Episode metadata
 - Episode title: 7 habits of highly successful YouTubers

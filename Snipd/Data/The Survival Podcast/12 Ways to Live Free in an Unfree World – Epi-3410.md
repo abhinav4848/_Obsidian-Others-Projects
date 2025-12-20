@@ -6,16 +6,16 @@ episode_publish_date: 2023-11-28
 last_snip_date: 2024-02-25
 episode_duration_minutes: 99
 episode_url: "https://share.snipd.com/episode/fe28cad2-b7b6-4427-84bf-574abd252305"
-image_url: "https://wsrv.nl/?url=http%3A%2F%2Fwww.thesurvivalpodcast.com%2Fimages%2Fsite%2Ftsp-large.jpg&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/231828/98596.jpeg"
 show_url: "https://share.snipd.com/show/4747ab19-99fc-4354-b864-8c994b216eac"
-show_image_url: "https://wsrv.nl/?url=http%3A%2F%2Fwww.thesurvivalpodcast.com%2Fimages%2Fsite%2Ftsp-large.jpg&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/231828/16773.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 6
 from_snipd: true
 ---
 # 12 Ways to Live Free in an Unfree World – Epi-3410
 
-![Cover](https://wsrv.nl/?url=http%3A%2F%2Fwww.thesurvivalpodcast.com%2Fimages%2Fsite%2Ftsp-large.jpg&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/231828/25117.jpeg)
 
 ## Episode metadata
 - Episode title: 12 Ways to Live Free in an Unfree World – Epi-3410

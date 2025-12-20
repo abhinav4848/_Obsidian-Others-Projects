@@ -1,13 +1,8 @@
+---
+URLs:
+  - https://notes.andymatuschak.org/zSoTbuyrXFnDHibaSeEzPRx
+---
 # Asking people questions while they read a text improves performance on untested contents
-
-Type of Link: 📝 Article
-Category talked about: Learning
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
-
-# **Asking people questions while they read a text improves performance on untested contents**
-
 Beyond the [[Testing effect]], answering questions while reading a text ([[Adjunct questions]]) promotes better *general* absorption, including of unrelated, untested material from the text. See references for more.
 
 It’s possible that this is purely due to increased attention and focus: Rothkopf (1966) was able to achieve similar results on untested questions by simply admonishing students to read “slowly and carefully”.
@@ -17,8 +12,7 @@ Does this affect apply only to related-though-not-directly-tested material from 
 See also: [[Mnemonic medium prompts are interleaved into the reading experience]] .
 
 # Reference
-
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k&stackedNotes=zLhoRUyjKU665EY16u4XXJy&stackedNotes=z2hQEhqWkdRLL9JUwfawZZx&stackedNotes=z8ccRLda8BqJafNxjQBpzis&stackedNotes=zES5WRczfGgXptmM9tSCwvy&stackedNotes=zMybAxZcdkJHKSATuSZbEhz&stackedNotes=z59PYkSdPeznr95fco4GRQx&stackedNotes=z4m9Gat7zi9YUmZzQRR7pwt&stackedNotes=zSoTbuyrXFnDHibaSeEzPRx) 
+1. [Andy Link](https://notes.andymatuschak.org/zSoTbuyrXFnDHibaSeEzPRx) 
 - Reviews
     - [Anderson, R. C., & Biddle, W. B. (1975). On Asking People Questions about What They are Reading. In Psychology of Learning and Motivation (Vol. 9, pp. 89–132). Elsevier](https://notes.andymatuschak.org/zWQxgb82VhMqsuL71KGWHpW)
     - Hamaker, C. (1986). The Effects of Adjunct Questions on Prose Learning. Review of Educational Research, 56(2), 212–242. [https://doi.org/10.3102/00346543056002212](https://doi.org/10.3102/00346543056002212)

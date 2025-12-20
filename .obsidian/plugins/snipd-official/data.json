@@ -1,5 +1,5 @@
 {
-  "encryptedApiKey": "3Qwpl0GTWNInRyem9kddUFDrcX2McFhWzerNaxG0/zrjfLU6IyOqQk8gPN3RD26u9MkGmwxYzQX9l9kb",
+  "encryptedApiKey": "q1ZuuArxGGyZcDUH2igH29P8Qrv245hNSrreX8V2IEH3Xird5+82ZePfUjdd564aBmgsRGqYpzgzBLCt",
   "snipdDir": "Snipd",
   "frequency": "0",
   "triggerOnLoad": true,
@@ -132,7 +132,7 @@
   "current_export_total_batches": 0,
   "current_batch_episode_count": 0,
   "current_batch_snip_count": 0,
-  "lastSyncTimestamp": "2025-12-20T21:49:56.924Z",
+  "lastSyncTimestamp": "2025-12-20T23:23:03.411Z",
   "lastSyncEpisodeCount": 0,
   "lastSyncSnipCount": 0,
   "saveDebugZips": false,

@@ -6,16 +6,16 @@ episode_publish_date: 2017-01-22
 last_snip_date: 2025-05-28
 episode_duration_minutes: 21
 episode_url: "https://share.snipd.com/episode/ae152a91-1282-4946-b50d-dd4ef7dc76bf"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F36523eae-abdb-4f73-b605-638a7dbe61cf%2Fca5af44f-cd37-45e1-bf17-f7ede300eabd%2F3000x3000%2Funthinkable-cover-art.jpg%3Faid%3Drss_feed&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/231700/30482.jpeg"
 show_url: "https://share.snipd.com/show/f24451b4-1e4a-429d-a98f-776c48582a45"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F36523eae-abdb-4f73-b605-638a7dbe61cf%2Fca5af44f-cd37-45e1-bf17-f7ede300eabd%2F3000x3000%2Funthinkable-cover-art.jpg%3Faid%3Drss_feed&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/231700/68316.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 ---
 # That Gut Feeling [Intuition Series #1]
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F36523eae-abdb-4f73-b605-638a7dbe61cf%2Fca5af44f-cd37-45e1-bf17-f7ede300eabd%2F3000x3000%2Funthinkable-cover-art.jpg%3Faid%3Drss_feed&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/231700/12323.jpeg)
 
 ## Episode metadata
 - Episode title: That Gut Feeling [Intuition Series #1]

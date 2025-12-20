@@ -6,16 +6,16 @@ episode_publish_date: 2024-04-30
 last_snip_date: 2024-04-30
 episode_duration_minutes: 10
 episode_url: "https://share.snipd.com/episode/0579d9bc-013b-435e-817d-ee5c7c476136"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F3%2Fd%2F9%2F5%2F3d957201cad2cf635f2e77a3093c12a1%2FThe_Nick_Huber_Show.jpg&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/231923/48121.jpeg"
 show_url: "https://share.snipd.com/show/d0ef4b93-9f55-4893-ae3f-506efc63ce85"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F3%2Fd%2F9%2F5%2F3d957201cad2cf635f2e77a3093c12a1%2FThe_Nick_Huber_Show.jpg&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/231923/97013.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 ---
 # Ep 142: The Moment That Changed My Life in Business Forever
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F3%2Fd%2F9%2F5%2F3d957201cad2cf635f2e77a3093c12a1%2FThe_Nick_Huber_Show.jpg&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/231923/40984.jpeg)
 
 ## Episode metadata
 - Episode title: Ep 142: The Moment That Changed My Life in Business Forever

@@ -1,25 +1,10 @@
 # Spaced Repetition memory system
+A spaced-repetition memory system combines the [[Testing effect]] and the [[Spacing effect]]  to enable efficient memorization of many thousands of facts ([[Spaced repetition memory systems are extremely efficient]]). Some people also use them for a broader set of tasks (see below). [[Spaced repetition memory systems make memory a choice]], but they’re not just for rote facts: [[Spaced repetition memory systems can be used to develop conceptual understanding]].
 
-Type of Link: 📝 Article
-Category talked about: Brain, Studying
-Score /5: ⭐️⭐️⭐️⭐️⭐️
-Details: Ali Abdaal, spreadsheet, excel
-Author: Andy Matuschak
-Completion Status: Started
-Last edited time: January 18, 2024 7:55 PM
-
-Effectiveness: 🌟🌟🌟🌟🌟
-
-# Andy Matuschak Notes
-
-# **Spaced repetition memory system**
-
-A spaced-repetition memory system combines the [Testing effect](Testing%20effect.md) and the [**Spacing effect**](Spacing%20effect.md)  to enable efficient memorization of many thousands of facts ([Spaced repetition memory systems are extremely efficient](Spaced%20repetition%20memory%20systems%20are%20extremely%20efficient.md)). Some people also use them for a broader set of tasks (see below). [Spaced repetition memory systems make memory a choice](https://notes.andymatuschak.org/zSTqsQ4ATXB61k3Z43TforN), but they’re not just for rote facts: [Spaced repetition memory systems can be used to develop conceptual understanding](https://notes.andymatuschak.org/z9Vi7YVx7NzxU2wawNgsJbk).
-
-The first consumer system of this kind was [Supermemo](https://notes.andymatuschak.org/z2oUypiCEtPaDqNjbUsawCj), created by [Piotr Wozniak](https://notes.andymatuschak.org/zT8N3LTbePn2LVD7ZhJ5TLr). It adopted and popularized the term “spaced repetition”; prior literature had used a variety of terms (often referring to more specific facets of the underlying phenomenon).
+The first consumer system of this kind was [[Supermemo]], created by [[Piotr Wozniak]]. It adopted and popularized the term “spaced repetition”; prior literature had used a variety of terms (often referring to more specific facets of the underlying phenomenon).
 
 - Related systems and possibilities:
-    - [Differences in my approach to spaced repetition systems](https://notes.andymatuschak.org/zHfGyWHe5JaMW3874CHqf69)
+    - [[Differences in my approach to spaced repetition systems]]
     - Implementations:
     - Traditional: [Supermemo](https://notes.andymatuschak.org/z2oUypiCEtPaDqNjbUsawCj), [Mnemosyne](https://notes.andymatuschak.org/zJJX5DtJFGkgWTtPmkgR3ih), [Anki](https://notes.andymatuschak.org/z9HA7vGGZbu1QBUKc41eYm1)
     - Unusual variations:

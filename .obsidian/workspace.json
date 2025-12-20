@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7685c00b864f9134",
+        "id": "af8012df52169394",
         "type": "tabs",
         "children": [
           {
-            "id": "fa320fb4d901b7ac",
+            "id": "ed28f97f001f8aeb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The mnemonic medium gives structure to normally-atomized spaced repetition memory prompts.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The mnemonic medium gives structure to normally-atomized spaced repetition memory prompts"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The mnemonic medium gives structure to normally-atomized spaced repetition memory prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The mnemonic medium gives structure to normally-atomized spaced repetition memory prompts"
+              "title": "Backlinks"
             }
           },
           {
@@ -182,52 +177,53 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "fa320fb4d901b7ac",
+  "active": "e02a589a9b768801",
   "lastOpenFiles": [
-    "Mnemonic medium prompts rely on invoking external experiences (from narrative, from real-world experience).md",
-    "Andy Matuschak/Learn before you memorize.md",
-    "Andy Matuschak/Piotr Wozniak - Effective learning - Twenty rules of formulating knowledge.md",
-    "The mnemonic medium gives structure to normally-atomized spaced repetition memory prompts.md",
-    "Traditional spaced repetition memory prompts are atomized.md",
-    "Andy Matuschak/The mnemonic medium can be extended to one’s personal notes.md",
-    "Andy Matuschak/My implementation of a personal mnemonic medium.md",
-    "Andy Matuschak/The mnemonic medium may push readers to read more slowly and attentively.md",
-    "Most explanatory media place heavy metacognitive demands on participants.md",
-    "Andy Matuschak/Asking people questions while they read a text improves performance on untested contents.md",
-    "Andy Matuschak/Testing effect.md",
-    "Andy Matuschak/Evergreen note maintenance approximates spaced repetition.md",
-    "Andy Matuschak/Spaced repetition systems can be used to program attention.md",
-    "Andy Matuschak/Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle.md",
-    "Andy Matuschak/Element interactivity.md",
-    "Andy Matuschak/Desirable difficulties, after Bjork.md",
-    "Andy Matuschak/_attachments/channel capacity expands almost linearly with bits-per-chunk.png",
-    "Andy Matuschak/_attachments/Klein - Seeing What Others Don’t (2013).png",
-    "Andy Matuschak/We lack UI patterns for non-destructive filtering and rearrangement on a 2D canvas.md",
-    "Andy Matuschak/Andy Matuschak's files.base",
-    "Andy Matuschak/2023-05-31 Patreon letter - Fluid practice for fluid understanding.md",
-    "Andy Matuschak/Evergreen note-writing helps reading efforts accumulate.md",
-    "Andy Matuschak/All desktop EPUB readers are awful.md",
-    "Andy Matuschak/My implementation of a reading inbox.md",
-    "Andy Matuschak/Inboxes shouldn’t be split into multiple places.md",
-    "Andy Matuschak/Few digital reading environments support marginal notes.md",
-    "Andy Matuschak/Digital annotation is too formal.md",
-    "Andy Matuschak/Parallel reading is mostly impossible in digital reading.md",
-    "Andy Matuschak/Physical cut and paste is a parallel act involving informal intermediate states.md",
-    "Andy Matuschak/_attachments/Chi et al - 1994 - Eliciting self-explanations improves understanding.pdf",
-    "Andy Matuschak/_attachments/Dunlosky et al - 2013 - Improving Students’ Learning With Effective Learning Techniques.pdf",
-    "current_export_metadata.json",
-    "Andy Matuschak/_attachments/Andy- Messy thought Neat thought 3.png",
-    "Cloze deletion prompts seem to produce less understanding than question",
-    "Ideaverse Merged/Atlas/Dots/Statements/Questions",
-    "Snipd/Base/Snipd.base",
-    "desktop.ini",
-    "Snipd/Data/The Building a Second Brain Podcast",
-    "Snipd/Data/Huberman Lab",
-    "Ideaverse Merged/Atlas/Utilities/Images/flight-school-hotkey-wide.jpg",
-    "Ideaverse Merged/Atlas/Utilities/Images/feynman-triangulation-3.png",
-    "Ideaverse Merged/Atlas/Utilities/Images/feynman-triangulation-1.png",
-    "Ideaverse Merged/Atlas/Utilities/Images/CleanShot 2023-07-30 at 21.37.43.png",
-    "float number IEEE standard.jpg",
-    "1649055027459 fitizen_almost_gets_harvested.jpg"
+    "Workflows/03 IMF_AdvancedStarterKit_v2/Breathing Exercises TOC.md",
+    "Workflows/05 On the process of forging evergreen notes/desktop.ini",
+    "Workflows/04 Flat PARA/desktop.ini",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/Benefits of IMF.md",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/Best Writings MOC.md",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/Attention.md",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/Books Example MOC.md",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/Ancient Culture MOC.md",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/Art MOC.md",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/Back Matter Example.md",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/Balancing Challenge and Skill.md",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/Antifragility.md",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/Cassandra.md",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/Allusions MOC.md",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/Allegories MOC.md",
+    "Workflows/06 Writing Fiction With Obsidian/Scripts for Building TOC files.md",
+    "Workflows/06 Writing Fiction With Obsidian/WFIO-TOC.md",
+    "Workflows/06 Writing Fiction With Obsidian/03 Tracking Submissions in Obsidian.md",
+    "Workflows/06 Writing Fiction With Obsidian/02 How I Wrote These Docs.md",
+    "Workflows/06 Writing Fiction With Obsidian/We meet our hero.md",
+    "Workflows/06 Writing Fiction With Obsidian/01 Writing Fiction in Obsidian.md",
+    "Workflows/06 Writing Fiction With Obsidian",
+    "Workflows/05 On the process of forging evergreen notes/_Incubation/The truest habit metaphors are additive.md",
+    "Workflows/05 On the process of forging evergreen notes/_Incubation/The neural formation of habits are additive.md",
+    "Workflows/05 On the process of forging evergreen notes/_Incubation/201502201713 Habit Concepts and Theory.md",
+    "Workflows/05 On the process of forging evergreen notes/_START HERE - On the process of forging evergreen notes MOC.md",
+    "Workflows/05 On the process of forging evergreen notes/_Incubation",
+    "Workflows/05 On the process of forging evergreen notes/Cause and Effect.md",
+    "Workflows/05 On the process of forging evergreen notes/Habits MOC.md",
+    "Workflows/05 On the process of forging evergreen notes/000 Index.md",
+    "Workflows/05 On the process of forging evergreen notes",
+    "Workflows/04 Flat PARA",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/_media/four factors of flow.png",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/_media/Wolverine tethered.jpg",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/_media/The biochemistry of flow.png",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/_media/stay on target.jpg",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/_media/Flow Zone Channel.jpg",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/_media/Flow Map.png",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/_media/Flow Map - Original.jpg",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/_media",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/obsidian.css",
+    "Workflows/03 IMF_AdvancedStarterKit_v2",
+    "Workflows/02 PARA_Starter_Kit_v2/3. Resouces/Writing",
+    "_media-sync_resources/2025/12/20/231958/01397.jpeg",
+    "_media-sync_resources/2025/12/20/231857/45752.jpeg",
+    "_media-sync_resources/2025/12/20/232232/89835.jpeg"
   ]
 }

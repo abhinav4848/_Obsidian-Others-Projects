@@ -6,16 +6,16 @@ episode_publish_date: 2017-01-09
 last_snip_date: 2025-05-27
 episode_duration_minutes: 46
 episode_url: "https://share.snipd.com/episode/662697c5-1bba-45df-965a-e8b7f61c92f4"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F36523eae-abdb-4f73-b605-638a7dbe61cf%2Fca5af44f-cd37-45e1-bf17-f7ede300eabd%2F3000x3000%2Funthinkable-cover-art.jpg%3Faid%3Drss_feed&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/231711/06565.jpeg"
 show_url: "https://share.snipd.com/show/f24451b4-1e4a-429d-a98f-776c48582a45"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F36523eae-abdb-4f73-b605-638a7dbe61cf%2Fca5af44f-cd37-45e1-bf17-f7ede300eabd%2F3000x3000%2Funthinkable-cover-art.jpg%3Faid%3Drss_feed&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/231711/15749.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 ---
 # Behind-the-Scenes Making the Show
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F36523eae-abdb-4f73-b605-638a7dbe61cf%2Fca5af44f-cd37-45e1-bf17-f7ede300eabd%2F3000x3000%2Funthinkable-cover-art.jpg%3Faid%3Drss_feed&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/231711/97076.jpeg)
 
 ## Episode metadata
 - Episode title: Behind-the-Scenes Making the Show

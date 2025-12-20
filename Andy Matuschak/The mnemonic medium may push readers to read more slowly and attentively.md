@@ -1,3 +1,7 @@
+---
+URLs:
+  - https://notes.andymatuschak.org/z5aepnaCuu6XiPqB4LgBDkH
+---
 # The mnemonic medium may push readers to read more slowly and attentively
 
 In interviews, [[Quantum Country]] readers have variously told us that the embedded questions ([[Mnemonic medium prompts are interleaved into the reading experience]]) push them to read more carefully, or that the questions help them notice when their focus isn’t sharp. Leaving aside the direct effect of the prompts on memory, the [[Mnemonic medium]]’s questions may simply help readers slow down and pay attention when they read. [[Understanding requires effortful engagement]], so this effect may produce deeper understanding. Or more simply, it may promote basic reading comprehension: [[People often struggle to remember details of prose text because they never processed them in the first place]]. 
@@ -6,7 +10,7 @@ It’s not clear whether this fully explains the general finding that [[Asking 
 
 The review areas also create natural pauses in the reading experience, somewhat similar to [Eckhart Tolle’s pause symbol](https://notes.andymatuschak.org/zGoV53S3PbYbJGjYCkNSV4Q), but perhaps not so reflective. Related: [Mnemonic medium review sets create natural breaks in the reading experience](https://notes.andymatuschak.org/zK3NFrSoD22JaVYdBe5CbmE)
 
-The flip side of this property is that the medium *demands* more attention than a typical written medium. Being pushed to read more slowly and attentively will feel unpleasant if you aren’t trying to engage in high-attention reading. See e.g. [The initial mnemonic medium is implicitly authoritarian in premise](https://notes.andymatuschak.org/zR5H2t4iYJECveXmu1DnYvS); [The mnemonic medium should give readers control over the prompts they collect](https://notes.andymatuschak.org/z8kPkXQZ3wVR5DfJ79uhnuz).
+The flip side of this property is that the medium *demands* more attention than a typical written medium. Being pushed to read more slowly and attentively will feel unpleasant if you aren’t trying to engage in high-attention reading. See e.g. [The initial mnemonic medium is implicitly authoritarian in premise](https://notes.andymatuschak.org/zR5H2t4iYJECveXmu1DnYvS); [The mnemonic medium should give readers control over the prompts they collect](https://notes.andymatuschak.org/z8kPkXQZ3wVR5DfJ79uhnuz). (felt irrelevant to link both)
 
 It would be interesting to empirically compare the amount of time readers spend on an essay with and without questions, subtracting off the amount of time mnemonic medium readers spend directly engaged with questions. Eye-tracking data would be interesting tool.
 

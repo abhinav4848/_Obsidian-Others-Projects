@@ -8,16 +8,16 @@ episode_publish_date: 2023-07-09
 last_snip_date: 2023-08-12
 episode_duration_minutes: 46
 episode_url: "https://share.snipd.com/episode/38a5a4d8-cc3e-474e-9adc-b644e6197637"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F20af6326-510a-4209-8b18-478eb518b847%2F3ed6c343-ecc1-46a4-b5e8-f4a32d271481%2F3000x3000%2Fyanssnew.jpg%3Faid%3Drss_feed&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/231654/42522.jpeg"
 show_url: "https://share.snipd.com/show/b71dac33-26f8-4f04-8bfe-707c4568cbe1"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F20af6326-510a-4209-8b18-478eb518b847%2F854beda7-eb28-49a2-bee4-571985506ae3%2F3000x3000%2Fyanssnew-202.jpg%3Faid%3Drss_feed&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/231654/10930.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 ---
 # 263 - The Truth Wins - Tom Stafford (rebroadcast)
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F20af6326-510a-4209-8b18-478eb518b847%2F3ed6c343-ecc1-46a4-b5e8-f4a32d271481%2F3000x3000%2Fyanssnew.jpg%3Faid%3Drss_feed&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/231654/61595.jpeg)
 
 ## Episode metadata
 - Episode title: 263 - The Truth Wins - Tom Stafford (rebroadcast)

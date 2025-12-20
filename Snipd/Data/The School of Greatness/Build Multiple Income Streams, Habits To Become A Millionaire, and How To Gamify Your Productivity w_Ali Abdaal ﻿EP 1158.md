@@ -10,16 +10,16 @@ mentioned_books:
 last_snip_date: 2023-09-26
 episode_duration_minutes: 120
 episode_url: "https://share.snipd.com/episode/6c0a3729-9e5a-4bfe-bfac-50c459c84e42"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F26599185-3762-4b80-b03a-c975609dd865%2Fe20c5e11-ec01-4da9-9e10-b3e5be7bea6b%2F3000x3000%2Ffinal-art.jpg%3Faid%3Drss_feed&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/231907/31526.jpeg"
 show_url: "https://share.snipd.com/show/c20d1ab1-f474-4761-93e4-3e85a0d1dbeb"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F26599185-3762-4b80-b03a-c975609dd865%2Fe20c5e11-ec01-4da9-9e10-b3e5be7bea6b%2F3000x3000%2Ffinal-art.jpg%3Faid%3Drss_feed&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/231907/08861.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 20
 from_snipd: true
 ---
 # Build Multiple Income Streams, Habits To Become A Millionaire, and How To Gamify Your Productivity w/Ali Abdaal ﻿EP 1158
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F26599185-3762-4b80-b03a-c975609dd865%2Fe20c5e11-ec01-4da9-9e10-b3e5be7bea6b%2F3000x3000%2Ffinal-art.jpg%3Faid%3Drss_feed&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/231907/91708.jpeg)
 
 ## Episode metadata
 - Episode title: Build Multiple Income Streams, Habits To Become A Millionaire, and How To Gamify Your Productivity w/Ali Abdaal ﻿EP 1158

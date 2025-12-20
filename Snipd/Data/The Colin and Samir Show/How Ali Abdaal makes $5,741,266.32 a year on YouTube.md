@@ -8,16 +8,16 @@ episode_publish_date: 2023-08-14
 last_snip_date: 2023-08-25
 episode_duration_minutes: 126
 episode_url: "https://share.snipd.com/episode/621f2e9e-dcb9-4f22-9641-bbce4768c53e"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F0197955e-3a5d-11ee-bb16-1bd62334b396%2Fimage%2Fb16ea1a27cb700e37f92cd8c28a09d2a.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/232023/20161.jpeg"
 show_url: "https://share.snipd.com/show/c318a019-361a-4eaf-bfa8-00ba97ad3dae"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F97efcf10-e812-11ec-83f3-c3c0c0c21250%2Fimage%2FlargeCS_showPODCAST_COVER.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/232023/92067.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 19
 from_snipd: true
 ---
 # How Ali Abdaal makes $5,741,266.32 a year on YouTube
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F0197955e-3a5d-11ee-bb16-1bd62334b396%2Fimage%2Fb16ea1a27cb700e37f92cd8c28a09d2a.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/232023/88455.jpeg)
 
 ## Episode metadata
 - Episode title: How Ali Abdaal makes $5,741,266.32 a year on YouTube

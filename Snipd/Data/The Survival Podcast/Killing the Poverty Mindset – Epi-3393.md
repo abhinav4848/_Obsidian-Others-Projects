@@ -6,16 +6,16 @@ episode_publish_date: 2023-10-17
 last_snip_date: 2024-01-27
 episode_duration_minutes: 114
 episode_url: "https://share.snipd.com/episode/02b264a6-9cfe-4988-b9be-a9daacbc9d6f"
-image_url: "https://wsrv.nl/?url=http%3A%2F%2Fwww.thesurvivalpodcast.com%2Fimages%2Fsite%2Ftsp-large.jpg&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/231831/57233.jpeg"
 show_url: "https://share.snipd.com/show/4747ab19-99fc-4354-b864-8c994b216eac"
-show_image_url: "https://wsrv.nl/?url=http%3A%2F%2Fwww.thesurvivalpodcast.com%2Fimages%2Fsite%2Ftsp-large.jpg&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/231831/29741.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 10
 from_snipd: true
 ---
 # Killing the Poverty Mindset – Epi-3393
 
-![Cover](https://wsrv.nl/?url=http%3A%2F%2Fwww.thesurvivalpodcast.com%2Fimages%2Fsite%2Ftsp-large.jpg&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/231831/62537.jpeg)
 
 ## Episode metadata
 - Episode title: Killing the Poverty Mindset – Epi-3393

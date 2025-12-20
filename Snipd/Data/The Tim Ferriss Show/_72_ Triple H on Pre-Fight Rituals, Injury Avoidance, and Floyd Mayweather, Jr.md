@@ -11,16 +11,16 @@ mentioned_books:
 last_snip_date: 2025-06-22
 episode_duration_minutes: 59
 episode_url: "https://share.snipd.com/episode/9c24de1c-ff25-43ee-b8d6-57a9cfab47ec"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fcontent.production.cdn.art19.com%2Fimages%2F92%2F71%2F91%2F6b%2F9271916b-1c9f-4624-8c2b-cd12411f69ab%2F90043dc754a9ac210ba9ed4419bf7aceda83b32f86e5674f5678ef769d6e248c113b10f6655efd146058cd27521f8f46cb519d5d444270174dfd38b771727a41.jpeg&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/231717/25459.jpeg"
 show_url: "https://share.snipd.com/show/58c6e181-d2ff-4da6-a7ee-39414fb72dba"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fcontent.production.cdn.art19.com%2Fimages%2F69%2F10%2F10%2Ffb%2F691010fb-625e-4abe-993c-a57228b28dbe%2F91cb53ae0d5dbb379b9dffecf0a772593891d0d09bbe6d90ee746edbdb79e3ec75584f2ceb8260e9f675a90c05419b9b99842a76905b686f0f51c1a9d3e227ab.jpeg&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/231717/02041.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 ---
 # #72: Triple H on Pre-Fight Rituals, Injury Avoidance, and Floyd Mayweather, Jr.
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fcontent.production.cdn.art19.com%2Fimages%2F92%2F71%2F91%2F6b%2F9271916b-1c9f-4624-8c2b-cd12411f69ab%2F90043dc754a9ac210ba9ed4419bf7aceda83b32f86e5674f5678ef769d6e248c113b10f6655efd146058cd27521f8f46cb519d5d444270174dfd38b771727a41.jpeg&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/231717/75745.jpeg)
 
 ## Episode metadata
 - Episode title: #72: Triple H on Pre-Fight Rituals, Injury Avoidance, and Floyd Mayweather, Jr.

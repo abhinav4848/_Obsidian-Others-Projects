@@ -8,16 +8,16 @@ episode_publish_date: 2023-10-27
 last_snip_date: 2023-11-02
 episode_duration_minutes: 88
 episode_url: "https://share.snipd.com/episode/a41b4da1-865d-4b31-9f02-fec9e801f263"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_nologo%2F25492235%2F25492235-1698095703648-13c793514ad9b.jpg&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/232011/91199.jpeg"
 show_url: "https://share.snipd.com/show/b5fb787f-65e2-4e4d-bcc8-e8aaffeabc7e"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_nologo%2F25492235%2F25492235-1698095703648-13c793514ad9b.jpg&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/232011/41051.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 3
 from_snipd: true
 ---
 # #421: Scott H. Young – The Art Of Learning
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_nologo%2F25492235%2F25492235-1698095703648-13c793514ad9b.jpg&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/232011/31252.jpeg)
 
 ## Episode metadata
 - Episode title: #421: Scott H. Young – The Art Of Learning

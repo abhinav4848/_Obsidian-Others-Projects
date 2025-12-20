@@ -14,7 +14,7 @@ And one might create a traditional two-sided prompt like this:
 Q. If one only took notes in Anki, what key limitations might one experience?  
 A. (e.g. no serendipitous note-finding when note-writing, no way to easily evolve notes over time, limited connections between notes, difficult to “read through” one’s notes on a subject, etc)
 
-- [Anki seems to make it harder to “sketch” and revise prompts](https://notes.andymatuschak.org/zXiWsZY761uNMUKeMEqNVqi)
+- [[Anki seems to make it harder to “sketch” and revise prompts]]
 
 ## Implementations
 There are a few other implementations of something like this idea:

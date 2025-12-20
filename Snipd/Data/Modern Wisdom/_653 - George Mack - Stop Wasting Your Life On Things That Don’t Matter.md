@@ -14,16 +14,16 @@ mentioned_books:
 last_snip_date: 2023-08-12
 episode_duration_minutes: 121
 episode_url: "https://share.snipd.com/episode/85b09eb6-1f9f-4a61-9b19-e7c9d9e98fb2"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fa62f84c0-f8b6-11ed-a4fc-fb9e7841d45b%2Fimage%2F76ed638554a4be965517200d1cd5f30d.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/232219/63787.jpeg"
 show_url: "https://share.snipd.com/show/9d54fd6b-8ff7-41e9-80e6-fb1c01e92949"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fa62f84c0-f8b6-11ed-a4fc-fb9e7841d45b%2Fimage%2F76ed638554a4be965517200d1cd5f30d.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/232219/36377.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 ---
 # #653 - George Mack - Stop Wasting Your Life On Things That Don’t Matter
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fa62f84c0-f8b6-11ed-a4fc-fb9e7841d45b%2Fimage%2F76ed638554a4be965517200d1cd5f30d.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/232219/48639.jpeg)
 
 ## Episode metadata
 - Episode title: #653 - George Mack - Stop Wasting Your Life On Things That Don’t Matter

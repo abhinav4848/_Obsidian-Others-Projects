@@ -6,16 +6,16 @@ episode_publish_date: 2016-10-03
 last_snip_date: 2024-01-02
 episode_duration_minutes: 26
 episode_url: "https://share.snipd.com/episode/c8217c45-a52c-468f-83ae-c2e0920c6f0f"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F36523eae-abdb-4f73-b605-638a7dbe61cf%2Fca5af44f-cd37-45e1-bf17-f7ede300eabd%2F3000x3000%2Funthinkable-cover-art.jpg%3Faid%3Drss_feed&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/231714/88376.jpeg"
 show_url: "https://share.snipd.com/show/f24451b4-1e4a-429d-a98f-776c48582a45"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F36523eae-abdb-4f73-b605-638a7dbe61cf%2Fca5af44f-cd37-45e1-bf17-f7ede300eabd%2F3000x3000%2Funthinkable-cover-art.jpg%3Faid%3Drss_feed&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/231714/82800.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 3
 from_snipd: true
 ---
 # Art of the Unfinished [Creativity Series #18]
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F36523eae-abdb-4f73-b605-638a7dbe61cf%2Fca5af44f-cd37-45e1-bf17-f7ede300eabd%2F3000x3000%2Funthinkable-cover-art.jpg%3Faid%3Drss_feed&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/231714/68957.jpeg)
 
 ## Episode metadata
 - Episode title: Art of the Unfinished [Creativity Series #18]

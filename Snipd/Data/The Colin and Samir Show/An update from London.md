@@ -6,16 +6,16 @@ episode_publish_date: 2023-07-20
 last_snip_date: 2023-09-04
 episode_duration_minutes: 51
 episode_url: "https://share.snipd.com/episode/1d6e52f3-334e-45e4-ad8c-a656c97da070"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fb70f10ec-268f-11ee-9ae8-f3955a97137c%2Fimage%2Fb16ea1a27cb700e37f92cd8c28a09d2a.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/232032/03539.jpeg"
 show_url: "https://share.snipd.com/show/c318a019-361a-4eaf-bfa8-00ba97ad3dae"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F97efcf10-e812-11ec-83f3-c3c0c0c21250%2Fimage%2FlargeCS_showPODCAST_COVER.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/232032/48703.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 ---
 # An update from London
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fb70f10ec-268f-11ee-9ae8-f3955a97137c%2Fimage%2Fb16ea1a27cb700e37f92cd8c28a09d2a.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/232032/97532.jpeg)
 
 ## Episode metadata
 - Episode title: An update from London

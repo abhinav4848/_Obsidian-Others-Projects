@@ -8,16 +8,16 @@ episode_publish_date: 2016-10-10
 last_snip_date: 2025-03-04
 episode_duration_minutes: 8
 episode_url: "https://share.snipd.com/episode/4b0b28ff-5c3b-4c7c-b301-5d66a553a8f9"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F36523eae-abdb-4f73-b605-638a7dbe61cf%2Fca5af44f-cd37-45e1-bf17-f7ede300eabd%2F3000x3000%2Funthinkable-cover-art.jpg%3Faid%3Drss_feed&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/231704/74727.jpeg"
 show_url: "https://share.snipd.com/show/f24451b4-1e4a-429d-a98f-776c48582a45"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F36523eae-abdb-4f73-b605-638a7dbe61cf%2Fca5af44f-cd37-45e1-bf17-f7ede300eabd%2F3000x3000%2Funthinkable-cover-art.jpg%3Faid%3Drss_feed&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/231704/41759.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 ---
 # Slingshot: Magic Markers [Creativity Series #19]
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F36523eae-abdb-4f73-b605-638a7dbe61cf%2Fca5af44f-cd37-45e1-bf17-f7ede300eabd%2F3000x3000%2Funthinkable-cover-art.jpg%3Faid%3Drss_feed&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/231704/55285.jpeg)
 
 ## Episode metadata
 - Episode title: Slingshot: Magic Markers [Creativity Series #19]

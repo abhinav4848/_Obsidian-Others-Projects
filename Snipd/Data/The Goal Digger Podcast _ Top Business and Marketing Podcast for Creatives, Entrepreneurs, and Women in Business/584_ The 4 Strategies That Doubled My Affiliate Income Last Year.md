@@ -6,16 +6,16 @@ episode_publish_date: 2022-07-20
 last_snip_date: 2023-10-03
 episode_duration_minutes: 35
 episode_url: "https://share.snipd.com/episode/24e0eb06-7834-4f09-9b5c-5304b12ecb85"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fcf001646-5e0d-11ee-99a1-4bd952c15971%2Fimage%2FGoalDigger-CoverArt-2022_SM.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/232016/41910.jpeg"
 show_url: "https://share.snipd.com/show/a2ad956f-c44c-4c6b-bda5-d5b2a70ed740"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fb5c2570c-5e0d-11ee-897a-cf70479923c9%2Fimage%2F2e90e633d16128bbcffcb41a27b61b09.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/232016/01208.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 ---
 # 584: The 4 Strategies That Doubled My Affiliate Income Last Year
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fcf001646-5e0d-11ee-99a1-4bd952c15971%2Fimage%2FGoalDigger-CoverArt-2022_SM.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/232016/86012.jpeg)
 
 ## Episode metadata
 - Episode title: 584: The 4 Strategies That Doubled My Affiliate Income Last Year

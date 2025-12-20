@@ -12,16 +12,16 @@ mentioned_books:
 last_snip_date: 2024-05-31
 episode_duration_minutes: 69
 episode_url: "https://share.snipd.com/episode/a3df13b2-9101-4f0b-8aa3-d09a43798edc"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F39846662-79ea-11eb-9b06-a75ddc4bddcc%2Fimage%2F39f8195a6d8978d0a7bd9c7d7b3fba2d.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/232211/77436.jpeg"
 show_url: "https://share.snipd.com/show/a3bc85ac-9318-431c-9821-7a14a7408e4b"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F39846662-79ea-11eb-9b06-a75ddc4bddcc%2Fimage%2F39f8195a6d8978d0a7bd9c7d7b3fba2d.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/232211/85197.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 2
 from_snipd: true
 ---
 # He Turned $300/mo Into $3,750,000/mo From GARDENING
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F39846662-79ea-11eb-9b06-a75ddc4bddcc%2Fimage%2F39f8195a6d8978d0a7bd9c7d7b3fba2d.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/232211/66891.jpeg)
 
 ## Episode metadata
 - Episode title: He Turned $300/mo Into $3,750,000/mo From GARDENING

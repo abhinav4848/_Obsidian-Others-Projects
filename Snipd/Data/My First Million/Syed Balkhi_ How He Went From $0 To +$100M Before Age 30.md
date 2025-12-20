@@ -8,16 +8,16 @@ episode_publish_date: 2023-08-17
 last_snip_date: 2023-09-20
 episode_duration_minutes: 79
 episode_url: "https://share.snipd.com/episode/d98a0a25-dd5c-4770-b86a-53719976e45d"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F39846662-79ea-11eb-9b06-a75ddc4bddcc%2Fimage%2F39f8195a6d8978d0a7bd9c7d7b3fba2d.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/232204/70173.jpeg"
 show_url: "https://share.snipd.com/show/a3bc85ac-9318-431c-9821-7a14a7408e4b"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F39846662-79ea-11eb-9b06-a75ddc4bddcc%2Fimage%2F39f8195a6d8978d0a7bd9c7d7b3fba2d.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/232204/21646.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 11
 from_snipd: true
 ---
 # Syed Balkhi: How He Went From $0 To +$100M Before Age 30
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F39846662-79ea-11eb-9b06-a75ddc4bddcc%2Fimage%2F39f8195a6d8978d0a7bd9c7d7b3fba2d.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/232204/40173.jpeg)
 
 ## Episode metadata
 - Episode title: Syed Balkhi: How He Went From $0 To +$100M Before Age 30

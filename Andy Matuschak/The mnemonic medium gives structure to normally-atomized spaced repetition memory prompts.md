@@ -7,7 +7,7 @@ URLs:
 
 The narrative also gives the prompts a more salient purpose, which is important because [[Deep understanding requires (and is a result of) intense personal connection]].
 
-See also the discussion in [Expanding the scope of memory systems: what types of understanding can they be used for?](https://numinous.productions/ttft/#expanding-memory-system-scope) within _How can we develop transformative technologies for thought?_
+See also the discussion in [Expanding the scope of memory systems: what types of understanding can they be used for?](https://numinous.productions/ttft/#expanding-memory-system-scope) #external within _How can we develop transformative technologies for thought?_
 
 ## Interleaved practice may help anchor the prompts in the narrative
 In [Project - spring 2022 demo - a peritextual mnemonic medium](https://notes.andymatuschak.org/Project_-_spring_2022_demo_-_a_peritextual_mnemonic_medium) (no note) and subsequent projects, I’ve been developing a new iteration of the mnemonic medium which emphasize interactions in the marginalia. Naively, one might imagine this design would strengthen the effect I describe in this note: the prompts are _more_ strongly embedded in the prose narrative because they’re appearing immediately alongside that prose.

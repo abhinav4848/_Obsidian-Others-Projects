@@ -6,16 +6,16 @@ episode_publish_date: 2024-03-05
 last_snip_date: 2024-05-29
 episode_duration_minutes: 110
 episode_url: "https://share.snipd.com/episode/9b557991-1337-4e06-8296-376749fc935b"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F8%2F1%2F1%2F0%2F81106e84cf3cbb2988c4a68c3ddbc4f2%2F0001-5390103606924998585.jpg&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/232200/44833.jpeg"
 show_url: "https://share.snipd.com/show/4101b8c0-775b-44c1-8327-b728f73d428c"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F2%2F6%2Ff%2Fb%2F26fb46c8744948ee16c3140a3186d450%2FRPF-black-logo-1400x1400px.jpg&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/232200/81558.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 3
 from_snipd: true
 ---
 # 1000: Episode 1,000: The Story of the Accomplishment of My Ten-Year Goal
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F8%2F1%2F1%2F0%2F81106e84cf3cbb2988c4a68c3ddbc4f2%2F0001-5390103606924998585.jpg&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/232200/42198.jpeg)
 
 ## Episode metadata
 - Episode title: 1000: Episode 1,000: The Story of the Accomplishment of My Ten-Year Goal

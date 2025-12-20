@@ -14,16 +14,16 @@ mentioned_books:
 last_snip_date: 2024-06-07
 episode_duration_minutes: 80
 episode_url: "https://share.snipd.com/episode/3847f13d-5b0f-4c5b-a7f8-cf7339e03293"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F1742f5e3-ff0a-4659-94df-8df884b1f74b%2Fa4946224-6bd6-412e-a546-eb084960107d%2F3000x3000%2Flewishowes-ep-art.jpg%3Faid%3Drss_feed&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/231843/22462.jpeg"
 show_url: "https://share.snipd.com/show/c20d1ab1-f474-4761-93e4-3e85a0d1dbeb"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F26599185-3762-4b80-b03a-c975609dd865%2Fe20c5e11-ec01-4da9-9e10-b3e5be7bea6b%2F3000x3000%2Ffinal-art.jpg%3Faid%3Drss_feed&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/231843/84010.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 10
 from_snipd: true
 ---
 # HACK Your BRAIN to Take Immediate Action: 90% of HIGH ACHIEVERS Practice THESE HABITS Daily
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F1742f5e3-ff0a-4659-94df-8df884b1f74b%2Fa4946224-6bd6-412e-a546-eb084960107d%2F3000x3000%2Flewishowes-ep-art.jpg%3Faid%3Drss_feed&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/231843/35423.jpeg)
 
 ## Episode metadata
 - Episode title: HACK Your BRAIN to Take Immediate Action: 90% of HIGH ACHIEVERS Practice THESE HABITS Daily

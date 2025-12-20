@@ -6,16 +6,16 @@ episode_publish_date: 2023-10-04
 last_snip_date: 2023-10-27
 episode_duration_minutes: 25
 episode_url: "https://share.snipd.com/episode/ef500388-ba2d-4ac9-b8cf-e0ea17b0479d"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F6%2F3%2F7%2Fe%2F637e50b12c2f868ae5bbc093207a2619%2F0001-2872585020596557875.jpg&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/232138/49413.jpeg"
 show_url: "https://share.snipd.com/show/4101b8c0-775b-44c1-8327-b728f73d428c"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F2%2F6%2Ff%2Fb%2F26fb46c8744948ee16c3140a3186d450%2FRPF-black-logo-1400x1400px.jpg&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/232138/70864.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 4
 from_snipd: true
 ---
 # 970: Embrace Your Privilege
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F6%2F3%2F7%2Fe%2F637e50b12c2f868ae5bbc093207a2619%2F0001-2872585020596557875.jpg&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/232138/13619.jpeg)
 
 ## Episode metadata
 - Episode title: 970: Embrace Your Privilege

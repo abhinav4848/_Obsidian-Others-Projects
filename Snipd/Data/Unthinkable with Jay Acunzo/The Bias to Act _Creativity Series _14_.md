@@ -8,16 +8,16 @@ episode_publish_date: 2016-09-04
 last_snip_date: 2023-11-02
 episode_duration_minutes: 24
 episode_url: "https://share.snipd.com/episode/fb744dc4-8004-4f0b-9061-e3ca207a08ac"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F36523eae-abdb-4f73-b605-638a7dbe61cf%2Fca5af44f-cd37-45e1-bf17-f7ede300eabd%2F3000x3000%2Funthinkable-cover-art.jpg%3Faid%3Drss_feed&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/231702/55271.jpeg"
 show_url: "https://share.snipd.com/show/f24451b4-1e4a-429d-a98f-776c48582a45"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F36523eae-abdb-4f73-b605-638a7dbe61cf%2Fca5af44f-cd37-45e1-bf17-f7ede300eabd%2F3000x3000%2Funthinkable-cover-art.jpg%3Faid%3Drss_feed&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/231702/56306.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 ---
 # The Bias to Act [Creativity Series #14]
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F36523eae-abdb-4f73-b605-638a7dbe61cf%2Fca5af44f-cd37-45e1-bf17-f7ede300eabd%2F3000x3000%2Funthinkable-cover-art.jpg%3Faid%3Drss_feed&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/231702/63589.jpeg)
 
 ## Episode metadata
 - Episode title: The Bias to Act [Creativity Series #14]

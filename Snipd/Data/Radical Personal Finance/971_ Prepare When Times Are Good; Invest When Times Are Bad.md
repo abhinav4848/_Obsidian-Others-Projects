@@ -6,16 +6,16 @@ episode_publish_date: 2023-10-09
 last_snip_date: 2023-10-10
 episode_duration_minutes: 41
 episode_url: "https://share.snipd.com/episode/5c377bc9-2d85-462f-8252-e264e60e3cd6"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F3%2F7%2F1%2Fc%2F371c4890319875a488c4a68c3ddbc4f2%2F0001-7440357457129115579.jpg&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/232124/51618.jpeg"
 show_url: "https://share.snipd.com/show/4101b8c0-775b-44c1-8327-b728f73d428c"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F2%2F6%2Ff%2Fb%2F26fb46c8744948ee16c3140a3186d450%2FRPF-black-logo-1400x1400px.jpg&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/232124/02227.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 ---
 # 971: Prepare When Times Are Good; Invest When Times Are Bad
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F3%2F7%2F1%2Fc%2F371c4890319875a488c4a68c3ddbc4f2%2F0001-7440357457129115579.jpg&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/232124/12479.jpeg)
 
 ## Episode metadata
 - Episode title: 971: Prepare When Times Are Good; Invest When Times Are Bad

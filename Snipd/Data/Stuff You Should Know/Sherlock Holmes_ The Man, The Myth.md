@@ -12,16 +12,16 @@ mentioned_books:
 last_snip_date: 2025-10-20
 episode_duration_minutes: 52
 episode_url: "https://share.snipd.com/episode/dc356798-97c9-4235-bd1b-249f289554cf"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fwww.omnycontent.com%2Fd%2Fprograms%2Fe73c998e-6e60-432f-8610-ae210140c5b1%2Fa91018a4-ea4f-4130-bf55-ae270180c327%2Fimage.jpg%3Ft%3D1749759419%26size%3DLarge&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/232044/32928.jpeg"
 show_url: "https://share.snipd.com/show/145ea529-ce54-40de-ab9d-10dd8b65f7e4"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fwww.omnycontent.com%2Fd%2Fprograms%2Fe73c998e-6e60-432f-8610-ae210140c5b1%2Fa91018a4-ea4f-4130-bf55-ae270180c327%2Fimage.jpg%3Ft%3D1749759419%26size%3DLarge&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/232044/10116.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 ---
 # Sherlock Holmes: The Man, The Myth
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fwww.omnycontent.com%2Fd%2Fprograms%2Fe73c998e-6e60-432f-8610-ae210140c5b1%2Fa91018a4-ea4f-4130-bf55-ae270180c327%2Fimage.jpg%3Ft%3D1749759419%26size%3DLarge&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/232044/14567.jpeg)
 
 ## Episode metadata
 - Episode title: Sherlock Holmes: The Man, The Myth

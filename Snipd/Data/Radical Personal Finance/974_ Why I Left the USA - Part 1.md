@@ -6,16 +6,16 @@ episode_publish_date: 2023-10-30
 last_snip_date: 2023-11-07
 episode_duration_minutes: 60
 episode_url: "https://share.snipd.com/episode/b38c2a1e-39e0-4e5f-aa74-29eaa7dbbaa8"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F0%2Fc%2F0%2F9%2F0c09a0bb10461819e5bbc093207a2619%2F0001-5497053286945804807.jpg&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/232127/05847.jpeg"
 show_url: "https://share.snipd.com/show/4101b8c0-775b-44c1-8327-b728f73d428c"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F2%2F6%2Ff%2Fb%2F26fb46c8744948ee16c3140a3186d450%2FRPF-black-logo-1400x1400px.jpg&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/232127/68587.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 4
 from_snipd: true
 ---
 # 974: Why I Left the USA - Part 1
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F0%2Fc%2F0%2F9%2F0c09a0bb10461819e5bbc093207a2619%2F0001-5497053286945804807.jpg&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/232127/11930.jpeg)
 
 ## Episode metadata
 - Episode title: 974: Why I Left the USA - Part 1

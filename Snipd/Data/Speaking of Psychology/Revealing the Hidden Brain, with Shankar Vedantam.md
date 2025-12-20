@@ -8,16 +8,16 @@ episode_publish_date: 2022-06-29
 last_snip_date: 2023-08-12
 episode_duration_minutes: 41
 episode_url: "https://share.snipd.com/episode/0ecdbb7d-9940-4d2b-9dbb-b45fb0b446fc"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fed77df58-485b-11ef-979c-970dbb848080%2Fimage%2F8577510a83cc8ea277800434a518b476.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/232038/19569.jpeg"
 show_url: "https://share.snipd.com/show/03727a2b-360b-49fc-a49b-f8adbe277a84"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fca105d1a-485b-11ef-a0f1-ab2f409ab058%2Fimage%2F8577510a83cc8ea277800434a518b476.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/232038/85436.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 2
 from_snipd: true
 ---
 # Revealing the Hidden Brain, with Shankar Vedantam
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fed77df58-485b-11ef-979c-970dbb848080%2Fimage%2F8577510a83cc8ea277800434a518b476.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/232038/74836.jpeg)
 
 ## Episode metadata
 - Episode title: Revealing the Hidden Brain, with Shankar Vedantam

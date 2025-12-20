@@ -14,16 +14,16 @@ mentioned_books:
 last_snip_date: 2025-03-11
 episode_duration_minutes: 216
 episode_url: "https://share.snipd.com/episode/f64d1c8d-38b8-4e13-8558-f35339a6ce39"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F6%2F0%2Fb%2Fc%2F60bcfd544a5f01ad16c3140a3186d450%2FPodcast-20250716-oe79em57fu.png&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/232103/09892.png"
 show_url: "https://share.snipd.com/show/fba0bb28-dc65-4d90-a5d3-2894a13c80bc"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F6%2F0%2Fb%2Fc%2F60bcfd544a5f01ad16c3140a3186d450%2FPodcast-20250716-oe79em57fu.png&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/232103/72721.png"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 ---
 # How to Get Rich: Every Episode
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F6%2F0%2Fb%2Fc%2F60bcfd544a5f01ad16c3140a3186d450%2FPodcast-20250716-oe79em57fu.png&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/232103/83747.png)
 
 ## Episode metadata
 - Episode title: How to Get Rich: Every Episode

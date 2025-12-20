@@ -33,7 +33,6 @@ The cloze prompt will use the entire paragraph surrounding the text. For example
 > A. Once activated, a service worker _performs one-time startup computation_, then transitions to idle. From that state, it’ll handle fetch or message events until it eventually terminates.
 
 ### Idempotency and identity
-
 This system is meant to operate idempotently. That is: you can keep revising your note files over time, and it’ll keep track of changes accordingly. As you change your notes, the system will maintain your SRS state for all the embedded prompts, except for the prompts you’ve directly edited.
 
 Somewhat more precisely, the embedded prompts have _identity_. You can modify the note around a prompt or even move the prompt to a new note, and your review history will be preserved. But if you modify a prompt’s text, it will be treated as a new prompt, and your review history won’t be ported from the old prompt. That’s because this system’s based on dumb plaintext files, which don’t have enough semantic structure to unambiguously specify whether a given modification represents a new prompt or a modification of an old one. Fixing this would require introducing heuristics or extra identifying markup.

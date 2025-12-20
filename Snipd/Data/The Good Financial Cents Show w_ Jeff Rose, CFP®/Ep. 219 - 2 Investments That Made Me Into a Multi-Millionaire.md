@@ -6,16 +6,16 @@ episode_publish_date: 2023-06-23
 last_snip_date: 2023-09-29
 episode_duration_minutes: 16
 episode_url: "https://share.snipd.com/episode/c9679a97-8221-4177-a87c-dbe3051249e8"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F2%2Fb%2Ff%2F2%2F2bf234c73781eed5%2FGood_Financial_Cents_podcast_updated.png&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/231950/24429.png"
 show_url: "https://share.snipd.com/show/cbbe6486-a2a9-4979-9de0-108d4d63a9cf"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F2%2Fb%2Ff%2F2%2F2bf234c73781eed5%2FGood_Financial_Cents_podcast_updated.png&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/231950/63950.png"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 ---
 # Ep. 219 - 2 Investments That Made Me Into a Multi-Millionaire
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F2%2Fb%2Ff%2F2%2F2bf234c73781eed5%2FGood_Financial_Cents_podcast_updated.png&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/231950/82871.png)
 
 ## Episode metadata
 - Episode title: Ep. 219 - 2 Investments That Made Me Into a Multi-Millionaire

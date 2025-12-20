@@ -12,16 +12,16 @@ mentioned_books:
 last_snip_date: 2024-01-02
 episode_duration_minutes: 76
 episode_url: "https://share.snipd.com/episode/4069c59d-b6c1-4891-8ad0-31f1b466fd57"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F1742f5e3-ff0a-4659-94df-8df884b1f74b%2Fbf2deb34-8ea0-41a4-9641-86844b634318%2F3000x3000%2Fios-episodic-artwork-morgan-housel.jpg%3Faid%3Drss_feed&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/231857/23487.jpeg"
 show_url: "https://share.snipd.com/show/c20d1ab1-f474-4761-93e4-3e85a0d1dbeb"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F26599185-3762-4b80-b03a-c975609dd865%2Fe20c5e11-ec01-4da9-9e10-b3e5be7bea6b%2F3000x3000%2Ffinal-art.jpg%3Faid%3Drss_feed&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/231857/45752.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 4
 from_snipd: true
 ---
 # Do THIS To Get Rich and STAY Rich (It’s Deceptively SIMPLE!) | Morgan Housel
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F1742f5e3-ff0a-4659-94df-8df884b1f74b%2Fbf2deb34-8ea0-41a4-9641-86844b634318%2F3000x3000%2Fios-episodic-artwork-morgan-housel.jpg%3Faid%3Drss_feed&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/231857/64269.jpeg)
 
 ## Episode metadata
 - Episode title: Do THIS To Get Rich and STAY Rich (It’s Deceptively SIMPLE!) | Morgan Housel

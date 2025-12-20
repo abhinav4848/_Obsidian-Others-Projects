@@ -6,16 +6,16 @@ episode_publish_date: 2025-02-17
 last_snip_date: 2025-03-20
 episode_duration_minutes: 126
 episode_url: "https://share.snipd.com/episode/94e75022-0f22-4aa3-8827-15b32259b9b8"
-image_url: "https://wsrv.nl/?url=http%3A%2F%2Fwww.thesurvivalpodcast.com%2Fimages%2Fsite%2Ftsp-large.jpg&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/231825/84988.jpeg"
 show_url: "https://share.snipd.com/show/4747ab19-99fc-4354-b864-8c994b216eac"
-show_image_url: "https://wsrv.nl/?url=http%3A%2F%2Fwww.thesurvivalpodcast.com%2Fimages%2Fsite%2Ftsp-large.jpg&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/231825/76654.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 2
 from_snipd: true
 ---
 # The 12 Taxes that Control the World- Epi-3628
 
-![Cover](https://wsrv.nl/?url=http%3A%2F%2Fwww.thesurvivalpodcast.com%2Fimages%2Fsite%2Ftsp-large.jpg&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/231825/01184.jpeg)
 
 ## Episode metadata
 - Episode title: The 12 Taxes that Control the World- Epi-3628

@@ -10,16 +10,16 @@ mentioned_books:
 last_snip_date: 2025-01-24
 episode_duration_minutes: 61
 episode_url: "https://share.snipd.com/episode/077384e3-07c2-4544-be60-d405e9966d4e"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F2%2F6%2Ff%2Fb%2F26fb46c8744948ee16c3140a3186d450%2FRPF-black-logo-1400x1400px.jpg&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/232142/02042.jpeg"
 show_url: "https://share.snipd.com/show/4101b8c0-775b-44c1-8327-b728f73d428c"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F2%2F6%2Ff%2Fb%2F26fb46c8744948ee16c3140a3186d450%2FRPF-black-logo-1400x1400px.jpg&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/232142/60236.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 3
 from_snipd: true
 ---
 # 1078-Friday Q&A: Business Skills, Productive Vacations, Radical Consistency, Appreciating What You Have
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F2%2F6%2Ff%2Fb%2F26fb46c8744948ee16c3140a3186d450%2FRPF-black-logo-1400x1400px.jpg&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/232142/62822.jpeg)
 
 ## Episode metadata
 - Episode title: 1078-Friday Q&A: Business Skills, Productive Vacations, Radical Consistency, Appreciating What You Have

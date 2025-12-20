@@ -6,16 +6,16 @@ episode_publish_date: 2024-10-02
 last_snip_date: 2025-11-29
 episode_duration_minutes: 51
 episode_url: "https://share.snipd.com/episode/2849ed79-dcc7-4d02-857e-a3a2083a08bb"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fa02f445c-80fa-11ef-8f63-3f341c2e61df%2Fimage%2Fe677a54a011d34754085f816e97d5817.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/231651/32136.jpeg"
 show_url: "https://share.snipd.com/show/be3dac6f-41f7-4cee-bc7e-5bd4d6705aab"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F725300a6-e70c-11ee-afad-03b806d7962b%2Fimage%2F301b6f29a0d59972cfd5f395b06aa0b8.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/231651/26393.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 ---
 # The Greatest Lie Ever Told
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fa02f445c-80fa-11ef-8f63-3f341c2e61df%2Fimage%2Fe677a54a011d34754085f816e97d5817.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/231651/21687.jpeg)
 
 ## Episode metadata
 - Episode title: The Greatest Lie Ever Told

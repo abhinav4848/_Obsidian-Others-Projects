@@ -8,16 +8,16 @@ episode_publish_date: 2025-11-13
 last_snip_date: 2025-11-13
 episode_duration_minutes: 45
 episode_url: "https://share.snipd.com/episode/a96598c6-ff9b-4556-917c-0e9339b16bc3"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F9ad966a6-be91-11f0-9e2b-c707fa4d1293%2Fimage%2F9f075a1eb35d6c3d98e0307b1b66c69c.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/231822/40694.jpeg"
 show_url: "https://share.snipd.com/show/e8542c75-7fc0-4da4-9431-e65c3b7010a2"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F71378710-614b-11ee-81b5-63f558249214%2Fimage%2Fside_hustle_show_cover_art_2022_3000_itunes_compressed.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/231822/13452.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 ---
 # 707: $70k on the Side in 6 Months with Aura Photography
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F9ad966a6-be91-11f0-9e2b-c707fa4d1293%2Fimage%2F9f075a1eb35d6c3d98e0307b1b66c69c.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/231822/24796.jpeg)
 
 ## Episode metadata
 - Episode title: 707: $70k on the Side in 6 Months with Aura Photography

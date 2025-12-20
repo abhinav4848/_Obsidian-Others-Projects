@@ -10,16 +10,16 @@ mentioned_books:
 last_snip_date: 2024-01-02
 episode_duration_minutes: 65
 episode_url: "https://share.snipd.com/episode/0a71419b-01cc-4196-a7d3-ed06ea249077"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fbb08d0b4-df1d-11ef-b786-afc8dc3e0531%2Fimage%2Fd1652c9feabf56e566829c1ce859b3db.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/231953/31076.jpeg"
 show_url: "https://share.snipd.com/show/82276930-d446-4ee1-b204-84198acb5bfc"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F9c0d00ea-df1d-11ef-9477-2b8336fcd8e9%2Fimage%2Fae770a7bc6db269792fde568ed9dba2c.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/231953/95815.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 ---
 # #122 Robert Cialdini - The Principles of Persuasion
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fbb08d0b4-df1d-11ef-b786-afc8dc3e0531%2Fimage%2Fd1652c9feabf56e566829c1ce859b3db.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/231953/72412.jpeg)
 
 ## Episode metadata
 - Episode title: #122 Robert Cialdini - The Principles of Persuasion

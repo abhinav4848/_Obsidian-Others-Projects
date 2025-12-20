@@ -12,16 +12,16 @@ mentioned_books:
 last_snip_date: 2023-12-21
 episode_duration_minutes: 126
 episode_url: "https://share.snipd.com/episode/2280e4a2-5c5b-4b56-85ba-30b6156ac6b0"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fe59e21cc-6466-11ee-8d99-6b199034d47e%2Fimage%2Fc9787d.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/231834/94413.jpeg"
 show_url: "https://share.snipd.com/show/e8d66ef6-b573-46f2-902b-a064e953ab50"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F3011357c-8872-11ed-a390-cfc1eb8db0b0%2Fimage%2F1641413209459-d6f3c8e84267319b7bdd418e28e6a6b7.jpeg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/231834/50189.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 2
 from_snipd: true
 ---
 # Physiologist Drew Harrisberg On Everything Blood Glucose, Understanding Diabetes & Plant-Based Nutrition Fundamentals
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fe59e21cc-6466-11ee-8d99-6b199034d47e%2Fimage%2Fc9787d.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/231834/12389.jpeg)
 
 ## Episode metadata
 - Episode title: Physiologist Drew Harrisberg On Everything Blood Glucose, Understanding Diabetes & Plant-Based Nutrition Fundamentals

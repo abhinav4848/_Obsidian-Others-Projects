@@ -5,7 +5,7 @@
 
 Click the Snipd icon in the left navigation bar. This will open up the default Base.
 
-![Snipd Ribbon Icon](https://firebasestorage.googleapis.com/v0/b/test-podcast-setup.appspot.com/o/public%2Fobsidian-plugin%2Fsnipd_obsidian_plugin_readme_ribbon_icon.png?alt=media&token=297e260e-4d70-4a33-a55b-b9b47f7668c6)
+![Snipd Ribbon Icon](_media-sync_resources/2025/12/20/231650/29959.png)
 
 
 ## 2) Base file - Main Entry Point

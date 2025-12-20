@@ -10,16 +10,16 @@ mentioned_books:
 last_snip_date: 2023-08-12
 episode_duration_minutes: 60
 episode_url: "https://share.snipd.com/episode/ff027a57-8d3f-469b-a0fb-d86bf240f32b"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fcontent.production.cdn.art19.com%2Fimages%2F00%2Ffa%2Fd2%2F07%2F00fad207-8675-4142-b85b-148d6fd2c52f%2F150172d4407c083adf2b5b2b1f6472ae4627d50daf08e4dd35ae65f41e24b5101aa30eb213d038cad5c61fce5a468f4ae3c0acadd876bb8f57480108790ad34e.jpeg&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/232019/89112.jpeg"
 show_url: "https://share.snipd.com/show/68da1931-103e-4fb5-9af5-62bfca51b9b6"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fcontent.production.cdn.art19.com%2Fimages%2F00%2Ffa%2Fd2%2F07%2F00fad207-8675-4142-b85b-148d6fd2c52f%2F150172d4407c083adf2b5b2b1f6472ae4627d50daf08e4dd35ae65f41e24b5101aa30eb213d038cad5c61fce5a468f4ae3c0acadd876bb8f57480108790ad34e.jpeg&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/232019/18854.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 ---
 # Overcome the Comfort Crisis
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fcontent.production.cdn.art19.com%2Fimages%2F00%2Ffa%2Fd2%2F07%2F00fad207-8675-4142-b85b-148d6fd2c52f%2F150172d4407c083adf2b5b2b1f6472ae4627d50daf08e4dd35ae65f41e24b5101aa30eb213d038cad5c61fce5a468f4ae3c0acadd876bb8f57480108790ad34e.jpeg&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/232019/80741.jpeg)
 
 ## Episode metadata
 - Episode title: Overcome the Comfort Crisis

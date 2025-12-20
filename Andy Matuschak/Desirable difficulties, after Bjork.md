@@ -1,5 +1,4 @@
-# **Desirable difficulties, after Bjork**
-
+# Desirable difficulties, after Bjork
 Training activities can often be made more effective by introducing difficulties.
 
 Some examples which [Robert A. Bjork](https://notes.andymatuschak.org/zYPeHVeq311Jh4whSstyeFX) (1994) (no note) cites as improving long-term performance in experiments:

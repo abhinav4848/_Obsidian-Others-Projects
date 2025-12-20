@@ -8,16 +8,16 @@ episode_publish_date: 2023-10-17
 last_snip_date: 2024-01-29
 episode_duration_minutes: 48
 episode_url: "https://share.snipd.com/episode/368f3765-d17e-49dc-a948-51eb6177f95e"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Faf883a92-5045-11f0-b0e6-7f4e4d306717%2Fimage%2F19dba1b436b3fc6f72eb2994a53b4baa.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/231918/89219.jpeg"
 show_url: "https://share.snipd.com/show/1081b0ab-c1d9-4586-8670-15642cc32f91"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F1f7b518c-5045-11f0-9f3b-cbd0e73e773f%2Fimage%2Fd114d7a5b9c9b44d86ee72f63a604254.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/231918/64605.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 2
 from_snipd: true
 ---
 # From Broke Student to £4.8 Million Portfolio with Ahmed Khan
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Faf883a92-5045-11f0-b0e6-7f4e4d306717%2Fimage%2F19dba1b436b3fc6f72eb2994a53b4baa.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/231918/49771.jpeg)
 
 ## Episode metadata
 - Episode title: From Broke Student to £4.8 Million Portfolio with Ahmed Khan

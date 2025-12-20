@@ -11,16 +11,16 @@ mentioned_books:
 last_snip_date: 2024-01-31
 episode_duration_minutes: 143
 episode_url: "https://share.snipd.com/episode/5bdcdf32-7f6c-461a-a75b-e0849af100cb"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fcontent.production.cdn.art19.com%2Fimages%2F69%2F10%2F10%2Ffb%2F691010fb-625e-4abe-993c-a57228b28dbe%2F91cb53ae0d5dbb379b9dffecf0a772593891d0d09bbe6d90ee746edbdb79e3ec75584f2ceb8260e9f675a90c05419b9b99842a76905b686f0f51c1a9d3e227ab.jpeg&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/231800/79144.jpeg"
 show_url: "https://share.snipd.com/show/58c6e181-d2ff-4da6-a7ee-39414fb72dba"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fcontent.production.cdn.art19.com%2Fimages%2F69%2F10%2F10%2Ffb%2F691010fb-625e-4abe-993c-a57228b28dbe%2F91cb53ae0d5dbb379b9dffecf0a772593891d0d09bbe6d90ee746edbdb79e3ec75584f2ceb8260e9f675a90c05419b9b99842a76905b686f0f51c1a9d3e227ab.jpeg&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/231800/40076.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 10
 from_snipd: true
 ---
 # #648: James Clear, Atomic Habits — Simple Strategies for Building (and Breaking) Habits, Questions for Personal Mastery and Growth, Tactics for Writing and Launching a Mega-Bestseller, Finding Leverage, and More
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fcontent.production.cdn.art19.com%2Fimages%2F69%2F10%2F10%2Ffb%2F691010fb-625e-4abe-993c-a57228b28dbe%2F91cb53ae0d5dbb379b9dffecf0a772593891d0d09bbe6d90ee746edbdb79e3ec75584f2ceb8260e9f675a90c05419b9b99842a76905b686f0f51c1a9d3e227ab.jpeg&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/231800/07366.jpeg)
 
 ## Episode metadata
 - Episode title: #648: James Clear, Atomic Habits — Simple Strategies for Building (and Breaking) Habits, Questions for Personal Mastery and Growth, Tactics for Writing and Launching a Mega-Bestseller, Finding Leverage, and More

@@ -24,16 +24,16 @@ mentioned_books:
 last_snip_date: 2023-08-11
 episode_duration_minutes: 99
 episode_url: "https://share.snipd.com/episode/fe382814-7a6f-4191-b20f-5bd66a061c81"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fcontent.production.cdn.art19.com%2Fimages%2F69%2F10%2F10%2Ffb%2F691010fb-625e-4abe-993c-a57228b28dbe%2F91cb53ae0d5dbb379b9dffecf0a772593891d0d09bbe6d90ee746edbdb79e3ec75584f2ceb8260e9f675a90c05419b9b99842a76905b686f0f51c1a9d3e227ab.jpeg&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/231724/02079.jpeg"
 show_url: "https://share.snipd.com/show/58c6e181-d2ff-4da6-a7ee-39414fb72dba"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fcontent.production.cdn.art19.com%2Fimages%2F69%2F10%2F10%2Ffb%2F691010fb-625e-4abe-993c-a57228b28dbe%2F91cb53ae0d5dbb379b9dffecf0a772593891d0d09bbe6d90ee746edbdb79e3ec75584f2ceb8260e9f675a90c05419b9b99842a76905b686f0f51c1a9d3e227ab.jpeg&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/231724/23269.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 ---
 # #672: Seth Godin — The Pursuit of Meaning, The Life-Changing Power of Choosing Your Attitude, Overcoming Rejection, Life Lessons from Zig Ziglar, and Committing to Making Positive Change
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fcontent.production.cdn.art19.com%2Fimages%2F69%2F10%2F10%2Ffb%2F691010fb-625e-4abe-993c-a57228b28dbe%2F91cb53ae0d5dbb379b9dffecf0a772593891d0d09bbe6d90ee746edbdb79e3ec75584f2ceb8260e9f675a90c05419b9b99842a76905b686f0f51c1a9d3e227ab.jpeg&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/231724/66166.jpeg)
 
 ## Episode metadata
 - Episode title: #672: Seth Godin — The Pursuit of Meaning, The Life-Changing Power of Choosing Your Attitude, Overcoming Rejection, Life Lessons from Zig Ziglar, and Committing to Making Positive Change

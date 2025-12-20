@@ -12,16 +12,16 @@ mentioned_books:
 last_snip_date: 2022-12-19
 episode_duration_minutes: 105
 episode_url: "https://share.snipd.com/episode/71d78afe-b389-4888-897a-44c0afc7d939"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F9c0d00ea-df1d-11ef-9477-2b8336fcd8e9%2Fimage%2Fae770a7bc6db269792fde568ed9dba2c.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/231958/34442.jpeg"
 show_url: "https://share.snipd.com/show/82276930-d446-4ee1-b204-84198acb5bfc"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F9c0d00ea-df1d-11ef-9477-2b8336fcd8e9%2Fimage%2Fae770a7bc6db269792fde568ed9dba2c.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/231958/01397.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 2
 from_snipd: true
 ---
 # Laurie Santos: The Pursuit of Happiness
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F9c0d00ea-df1d-11ef-9477-2b8336fcd8e9%2Fimage%2Fae770a7bc6db269792fde568ed9dba2c.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/231958/99453.jpeg)
 
 ## Episode metadata
 - Episode title: Laurie Santos: The Pursuit of Happiness

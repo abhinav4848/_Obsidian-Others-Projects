@@ -6,16 +6,16 @@ episode_publish_date: 2023-09-29
 last_snip_date: 2023-10-05
 episode_duration_minutes: 60
 episode_url: "https://share.snipd.com/episode/42845af2-6c13-4cb1-8b81-4b6922edf480"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F6b2eb828-8e0b-11ea-b1dd-7f0b90d2a3ba%2Fimage%2Fff880f4262671ea9f60de03a153b607c.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/231818/56424.jpeg"
 show_url: "https://share.snipd.com/show/530ff123-c550-45dc-ae0e-bbc49a6228e3"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F6b2eb828-8e0b-11ea-b1dd-7f0b90d2a3ba%2Fimage%2Fff880f4262671ea9f60de03a153b607c.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/231818/12202.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 5
 from_snipd: true
 ---
 # How Polluted Is Your Financial Plan?
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F6b2eb828-8e0b-11ea-b1dd-7f0b90d2a3ba%2Fimage%2Fff880f4262671ea9f60de03a153b607c.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/231818/69685.jpeg)
 
 ## Episode metadata
 - Episode title: How Polluted Is Your Financial Plan?

@@ -8,16 +8,16 @@ episode_publish_date: 2023-07-31
 last_snip_date: 2024-02-23
 episode_duration_minutes: 53
 episode_url: "https://share.snipd.com/episode/942f0498-2a76-4dd4-bb4a-ce09170bd9b5"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fimg.transistor.fm%2FGJYQzea1dsnknJfPFatRvdMMiWnAehzMZYWl7oucSJU%2Frs%3Afill%3A3000%3A3000%3A1%2Fq%3A60%2FaHR0cHM6Ly9pbWct%2FdXBsb2FkLXByb2R1%2FY3Rpb24udHJhbnNp%2Fc3Rvci5mbS83NWM2%2FN2Y1NjkzZTRjOTM2%2FMzVmNzI0MDY4ODk3%2FOWJmMC5qcGc.jpg&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/232057/50596.jpeg"
 show_url: "https://share.snipd.com/show/8516809e-50d9-44a2-8830-e78fe1cba070"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fimg.transistor.fm%2FGJYQzea1dsnknJfPFatRvdMMiWnAehzMZYWl7oucSJU%2Frs%3Afill%3A3000%3A3000%3A1%2Fq%3A60%2FaHR0cHM6Ly9pbWct%2FdXBsb2FkLXByb2R1%2FY3Rpb24udHJhbnNp%2Fc3Rvci5mbS83NWM2%2FN2Y1NjkzZTRjOTM2%2FMzVmNzI0MDY4ODk3%2FOWJmMC5qcGc.jpg&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/232057/03309.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 6
 from_snipd: true
 ---
 # 078: Sahil Bloom – Using Flywheels to Build Longevity in the Creator Economy
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fimg.transistor.fm%2FGJYQzea1dsnknJfPFatRvdMMiWnAehzMZYWl7oucSJU%2Frs%3Afill%3A3000%3A3000%3A1%2Fq%3A60%2FaHR0cHM6Ly9pbWct%2FdXBsb2FkLXByb2R1%2FY3Rpb24udHJhbnNp%2Fc3Rvci5mbS83NWM2%2FN2Y1NjkzZTRjOTM2%2FMzVmNzI0MDY4ODk3%2FOWJmMC5qcGc.jpg&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/232057/69019.jpeg)
 
 ## Episode metadata
 - Episode title: 078: Sahil Bloom – Using Flywheels to Build Longevity in the Creator Economy

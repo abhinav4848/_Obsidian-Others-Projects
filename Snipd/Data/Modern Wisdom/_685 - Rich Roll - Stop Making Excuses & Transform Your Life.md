@@ -10,16 +10,16 @@ mentioned_books:
 last_snip_date: 2023-10-25
 episode_duration_minutes: 114
 episode_url: "https://share.snipd.com/episode/148fa7b3-e693-472e-adb1-e3148a9c8498"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fa62f84c0-f8b6-11ed-a4fc-fb9e7841d45b%2Fimage%2F76ed638554a4be965517200d1cd5f30d.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/232232/46084.jpeg"
 show_url: "https://share.snipd.com/show/9d54fd6b-8ff7-41e9-80e6-fb1c01e92949"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fa62f84c0-f8b6-11ed-a4fc-fb9e7841d45b%2Fimage%2F76ed638554a4be965517200d1cd5f30d.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/232232/11908.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 20
 from_snipd: true
 ---
 # #685 - Rich Roll - Stop Making Excuses & Transform Your Life
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fa62f84c0-f8b6-11ed-a4fc-fb9e7841d45b%2Fimage%2F76ed638554a4be965517200d1cd5f30d.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/232232/89835.jpeg)
 
 ## Episode metadata
 - Episode title: #685 - Rich Roll - Stop Making Excuses & Transform Your Life

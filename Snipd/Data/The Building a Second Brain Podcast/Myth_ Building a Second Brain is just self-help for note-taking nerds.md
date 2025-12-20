@@ -6,16 +6,16 @@ episode_publish_date: 2021-04-19
 last_snip_date: 2023-08-07
 episode_duration_minutes: 8
 episode_url: "https://share.snipd.com/episode/3892b553-51e1-436b-914f-339083557659"
-image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F3%2Fb%2F5%2F3%2F3b53b29586dd520916c3140a3186d450%2FBASB_PodcastSqDot_220525.png&w=500&h=500"
+image_url: "_media-sync_resources/2025/12/20/232009/35418.png"
 show_url: "https://share.snipd.com/show/d1735f98-30e6-446e-9b1e-9a0ac20453db"
-show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F3%2Fb%2F5%2F3%2F3b53b29586dd520916c3140a3186d450%2FBASB_PodcastSqDot_220525.png&w=500&h=500"
+show_image_url: "_media-sync_resources/2025/12/20/232009/77889.png"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 ---
 # Myth: Building a Second Brain is just self-help for note-taking nerds
 
-![Cover](https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F3%2Fb%2F5%2F3%2F3b53b29586dd520916c3140a3186d450%2FBASB_PodcastSqDot_220525.png&w=200&h=200)
+![Cover](_media-sync_resources/2025/12/20/232009/14985.png)
 
 ## Episode metadata
 - Episode title: Myth: Building a Second Brain is just self-help for note-taking nerds
