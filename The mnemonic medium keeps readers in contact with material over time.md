@@ -9,6 +9,9 @@ What is the effect of this contact over time?
 - Particularly if the prompts are written to inspire reflection or synthesis, this effect creates opportunities to engage with the material at progressively deeper levels over time. For instance, a prompt designed to help you reflect on your design practice may function very differently on day one and day one thousand. (see also [[Spaced repetition memory systems can be used to prompt application, synthesis, and creation]])
 - A different angle: [[Spaced repetition systems as catechism]] 
 
-Going beyond simple contact: [The mnemonic medium can be adapted to author an experience which unfolds over time](https://notes.andymatuschak.org/zKRrv2DmKp3VyDEp3oXrKXQ).
+Going beyond simple contact: [[The mnemonic medium can be adapted to author an experience which unfolds over time]].
 
 [Readwise](https://notes.andymatuschak.org/zAt1K9ARQYguinoHH8cfaqQ) tries to produce a similar effect through more passive engagement.
+
+# Reference
+1. [Andy Link](https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zKRrv2DmKp3VyDEp3oXrKXQ&stackedNotes=zCQuiDgcNqncwB6pTvhdRWk)

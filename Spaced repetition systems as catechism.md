@@ -2,7 +2,7 @@
 
 In [James (“Brad”) DeLong - Quantum Country interview - 2019-11-22](https://notes.andymatuschak.org/zWtVMjiuF8n3tNEtyWGwXt4) (no access to link), Brad jokingly suggested that the [[Mnemonic medium]] represents a new kind of “catechism.” It’s an amusing comparison, but it’s also worth pondering seriously!
 
-A typical example from the [Westminster Shorter Catechism](https://www.ccel.org/creeds/westminster-shorter-cat.html) :
+A typical example from the [Westminster Shorter Catechism](https://www.ccel.org/creeds/westminster-shorter-cat.html) #external :
 
 > Q1: What is the chief end of man?  
 > A1: Man’s chief end is to glorify God, and to enjoy Him for ever.
@@ -24,18 +24,17 @@ At this point, it feels like we’ve moved quite far away from catechism, but th
 > Q: Who gave you this Name?  
 > A: My Godfathers and Godmothers in my Baptism; wherein I was made a member of Christ, the child of God, and an inheritor of the kingdom of heaven.
 
-A nice suggestion from [Michael Nielsen](https://notes.andymatuschak.org/Michael_Nielsen): ([2023-04-04](https://notes.andymatuschak.org/2023-04-04)):
+A nice suggestion from [Michael Nielsen](https://notes.andymatuschak.org/Michael_Nielsen) (no access): ([2023-04-04](https://notes.andymatuschak.org/2023-04-04)):
 
 > There’s a Stanford anthropologist who wrote a book “Making God real” who argues that it’s the repetition of those acts which makes God real to believers
 
-Another related observation [from](https://mnielsen.github.io/ongoing/sporadica.html) [Michael Nielsen](https://notes.andymatuschak.org/Michael_Nielsen) (2021-11-10):
+Another related observation [from](https://mnielsen.github.io/ongoing/sporadica.html) #external  [Michael Nielsen](https://notes.andymatuschak.org/Michael_Nielsen) (2021-11-10):
 
 > In everyday life an astounding number of things happen. A tiny few seem really significant. Memory systems let you distill those things out, so that you will return to them again and again. They’re a way of concentrating your experience.
 
 Related: [[OS-level spaced repetition system]], [[Unusual applications of spaced repetition memory systems]]
 
 ---
-
-## References
-
-This became a tweet: [Andy Matuschak on Twitter: “In a recent chat with @michael_nielsen and me about https://t.co/lnd5Z3zN1g, @delong suggested that the mnemonic medium is a new kind of catechism. We laughed, but… that’s a pretty interesting lens! (thread)… https://t.co/0KPLPCAwDC”](https://twitter.com/andy_matuschak/status/1201584298656174082)
+# References
+1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zCMhncA1iSE74MKKYQS5PBZ&stackedNotes=zHV89H7dqnrvNvwXHBSGog9&stackedNotes=zTYb9ysCATFYCnvay3V5sF2&stackedNotes=zGD1FxbDZd7WnH7NrhRaVyC&stackedNotes=z4ULp2KUgq3hBCJMWTUnLDX&stackedNotes=zKtYU4Uk7aTCGyqHr9Ca3Sb&stackedNotes=zyjePyZ77P2BfdkRBuQB2x&stackedNotes=zKubRcJXKjiCDPsPgJWckkP&stackedNotes=zGNVRh1q5gGeF88PbmYu4BB&stackedNotes=z984ZZLbG4wREM6HAZAovMB&stackedNotes=zN7KLBKWMTmFqthmFPVSNbP&stackedNotes=zC4sWYDcheVSeCxpQPA9w88&stackedNotes=z4exmF6rnZTE9GjCnpFBKUT&stackedNotes=zSNDTj75ULnYMo7pGm2Frg7&stackedNotes=zAb9R6nYuTyN6PBC4rQY9aY&stackedNotes=zCQuiDgcNqncwB6pTvhdRWk&stackedNotes=zPtcwHaKGoLEZRzSoScYXha)
+2. This became a tweet: [Andy Matuschak on Twitter: “In a recent chat with @michael_nielsen and me about https://t.co/lnd5Z3zN1g, @delong suggested that the mnemonic medium is a new kind of catechism. We laughed, but… that’s a pretty interesting lens! (thread)… https://t.co/0KPLPCAwDC”](https://twitter.com/andy_matuschak/status/1201584298656174082)
