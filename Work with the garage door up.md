@@ -3,9 +3,9 @@ One of my favorite ways that creative people communicate is by “working with t
 
 I love this kind of communication personally, but I suspect it also creates more invested, interesting followings over the long term. That effect’s probably related to [[Working on niche, personally-meaningful projects brings weirder, more serendipitous inbounds]].
 
-It’s also a way to avoid the problems described in [Pitching out corrupts within](https://notes.andymatuschak.org/z4ehFvVvhxoMGtBudLpDoeN). You’re not pitching. You’re just showing your work, day over day.
+It’s also a way to avoid the problems described in [[Pitching out corrupts within]]. You’re not pitching. You’re just showing your work, day over day.
 
-[Maggie Appleton](https://notes.andymatuschak.org/Maggie_Appleton) [argues](https://maggieappleton.com/gathering-structures#start-small-and-simple):
+[Maggie Appleton](https://notes.andymatuschak.org/Maggie_Appleton) (no access) [argues](https://maggieappleton.com/gathering-structures#start-small-and-simple) #external :
 
 > [If](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zCMhncA1iSE74MKKYQS5PBZ) you ever needed another reason to learn in public by digital gardening or podcasting or streaming or whathaveyou, add on that people will assume you're more competent than you are. This will get you invites to very cool exclusive events filled with high-achieving, interesting people, even though you have no right to be there. A+ side benefit.  
 > This matches my experience.
@@ -13,8 +13,8 @@ It’s also a way to avoid the problems described in [Pitching out corrupts wit
 ---
 
 ## References
-
-The inspiration from Robin’s original newsletter:  
+1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zCMhncA1iSE74MKKYQS5PBZ)
+2. The inspiration from Robin’s original newsletter:  
 ☄️ Week 43, popular, wide-ranging, functional (link broken as of [2024-12-17](https://notes.andymatuschak.org/2024-12-17))
 
 > I wish starting physical businesses was easier; I wish the path wasn’t so steep, especially in places like the Bay Area; because I think it’s one of the absolute best things a person can do. Among many other things, a physical business enlivens public space, by making the simple, eloquent statement: I am here, working.
@@ -27,4 +27,4 @@ The inspiration from Robin’s original newsletter:
 > 
 > If you could put on magic internet goggles that enabled you to see through this gnarly selection bias and view the composition of reality fairly, correctly—well, just come walk around Emeryville and West Berkeley. It would look like that! All the tumult of Twitter would shrink into a single weird cafe—just a speck, in an enormous city made up entirely of people quietly working.
 
-Interesting to note that in a way, Robin’s looking for [Peripheral vision](https://notes.andymatuschak.org/z4geAr5cERWdJPrdhU5gy3N) in this aspiration.
+Interesting to note that in a way, Robin’s looking for [[Peripheral vision]] in this aspiration.

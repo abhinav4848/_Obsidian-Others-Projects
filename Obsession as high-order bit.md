@@ -14,3 +14,6 @@ Related:
 - [[How might we situate tools for thought within intrinsically meaningful contexts]]?
 - [[Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes]]
 - [[Get curious]]
+
+# Reference
+1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z7d63BYfJrd81VFE25jkcDd&stackedNotes=z4ULp2KUgq3hBCJMWTUnLDX&stackedNotes=zGD1FxbDZd7WnH7NrhRaVyC&stackedNotes=zTYb9ysCATFYCnvay3V5sF2)

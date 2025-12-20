@@ -12,17 +12,17 @@ Better framings include:
 - creating extremely high-growth environments, and corresponding bridges into action based on that growth ([[Enabling environments focus on creating opportunities for growth and action, not on skill-building]])
 - [[Designing new enabling environments can be framed as designing a University++]]
 
-In this sense, “[Tools for thought](https://notes.andymatuschak.org/z88M2wwQ8FggV7p8Wu1b8LG)” is a somewhat distorting term. It pushes us to think about “thought” as the end-goal. We’re really trying to construct “contexts for meaning.” Note too that a “context” could be a plain old-fashioned essay!
+In this sense, “[[Tools for thought]]” is a somewhat distorting term. It pushes us to think about “thought” as the end-goal. We’re really trying to construct “contexts for meaning.” Note too that a “context” could be a plain old-fashioned essay!
 
-Related: [Most experimental psychology on learning involves people learning things they don’t care about](https://notes.andymatuschak.org/zaDSgGYrcUSuQty6WSMm2H)
+Related: [[Most experimental psychology on learning involves people learning things they don’t care about]]
 
 ---
 
-## References
+# References
+1. [Andy Link](https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zKtYU4Uk7aTCGyqHr9Ca3Sb)
+2. [https://github.com/mnielsen/tpft/blob/master/big_picture.md](https://github.com/mnielsen/tpft/blob/master/big_picture.md)
 
-[https://github.com/mnielsen/tpft/blob/master/big_picture.md](https://github.com/mnielsen/tpft/blob/master/big_picture.md)
-
-> - What is the highest-growth environment for individuals and groups? What does this project look like, conceived of as an (extremely unusual) online class?
+> - What is the highest-growth environment for individuals and groups? What does this project look like, conceived of as an (extremely unusual) online class?
 > - Is it possible to help create super-empowered subversive individuals who believe in their own ability to have a meaningful impact on important problems?
 > - What do MOOCs really want to be? + How to reinvent Universities? What does University++ look like? + What does the Primer++ or Dynabook++ look like? + How many Sistine Chapel Ceilings per lifetime?
 

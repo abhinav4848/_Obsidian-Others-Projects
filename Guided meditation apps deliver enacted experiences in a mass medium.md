@@ -10,4 +10,4 @@ Why do meditation lessons facilitate enacted experiences, while traditional less
 - The lessons are framed as clearly subservient to the practice: [[Guided meditation apps bundle instruction with daily sessions ]]
 
 # Reference
-1. Andy Lin
+1. [Andy Link](https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zSNDTj75ULnYMo7pGm2Frg7&stackedNotes=z4exmF6rnZTE9GjCnpFBKUT&stackedNotes=zN7KLBKWMTmFqthmFPVSNbP)

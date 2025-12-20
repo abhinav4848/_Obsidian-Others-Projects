@@ -5,12 +5,12 @@ Universities have historically been effective examples of an [[Enabling environ
 - Students at the best universities actually advance their field, rather than just learning facts. ([[Enabling environments focus on doing what’s enabled]])
 - Universities use rituals, culture, structured timelines, titles, and physical space to (weakly) create an [[Enacted experience]], demonstrating [[Enacted experiences can bootstrap active participation in enabling environments]].
 
-Contemporary enabling environments like [Y Combinator](https://notes.andymatuschak.org/z9MxCsvv8DcHndqRECbxrRi) have already replaced elements of the university. It’s interesting to consider designing novel enabling environments with this purpose specifically in mind; e.g.:
+Contemporary enabling environments like [[Y Combinator]] have already replaced elements of the university. It’s interesting to consider designing novel enabling environments with this purpose specifically in mind; e.g.:
 
 - to expand the amount of original research participants (including expert participants) can do
-- to do a better job than the university at connecting to meaning ([Transcendental narrative](https://notes.andymatuschak.org/z2nUCgx2yYZFT1zaFSocZop); [Enabling environments’ activities directly serve an intrinsically meaningful purpose](https://notes.andymatuschak.org/z3PJFWDZ7gar2ttawQTmBek))
-- to more effectively bootstrap novices into doing ([Novices in enabling environments often can’t do what’s enabled](https://notes.andymatuschak.org/zPrYC99kH227c1otipAefyQ))
-- to scale more effectively ([Enacted experiences have incredible potential as a mass medium](https://notes.andymatuschak.org/z984ZZLbG4wREM6HAZAovMB))
+- to do a better job than the university at connecting to meaning ([[Transcendental narrative]]; [[Enabling environments’ activities directly serve an intrinsically meaningful purpose]])
+- to more effectively bootstrap novices into doing ([[Novices in enabling environments often can’t do what’s enabled]])
+- to scale more effectively ([[Enacted experiences have incredible potential as a mass medium]])
 
 MOOCs were a failed attempt in this direction. A related useful framing, then, is “What do MOOCs really want to be?”
 
@@ -18,6 +18,6 @@ See also [The Primer++ is embedded in a field, bootstrapping participation thro
 
 ---
 
-## References
-
-[https://github.com/mnielsen/tpft/blob/master/big_picture.md](https://github.com/mnielsen/tpft/blob/master/big_picture.md)
+# Reference
+1. [Andy Link](https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zSNDTj75ULnYMo7pGm2Frg7&stackedNotes=z4exmF6rnZTE9GjCnpFBKUT&stackedNotes=zN7KLBKWMTmFqthmFPVSNbP&stackedNotes=zGNVRh1q5gGeF88PbmYu4BB&stackedNotes=z9MxCsvv8DcHndqRECbxrRi&stackedNotes=zKubRcJXKjiCDPsPgJWckkP&stackedNotes=zyjePyZ77P2BfdkRBuQB2x)
+2. <https://github.com/mnielsen/tpft/blob/master/big_picture.md>

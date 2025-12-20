@@ -4,6 +4,9 @@ If you want to explain some idea, you can write an essay and share it with a mil
 
 That’s a shame because I see them as a key element of [[Enabling environment]] design: [[Enacted experiences can bootstrap active participation in enabling environments]].
 
-The traditional approach is social. Cultural elders create rites of passage for youth. [Y Combinator](https://notes.andymatuschak.org/z9MxCsvv8DcHndqRECbxrRi) designs its dinners and events to produce certain experiences for founders through their actions. In socially-distributed enacted experiences, _people_ are the medium. Through their actions, facilitators create and maintain the environment which produces the enacted experience for the participant. That facilitation is expensive and error-prone, so this approach is deployed sparingly.
+The traditional approach is social. Cultural elders create rites of passage for youth. [[Y Combinator]] designs its dinners and events to produce certain experiences for founders through their actions. In socially-distributed enacted experiences, _people_ are the medium. Through their actions, facilitators create and maintain the environment which produces the enacted experience for the participant. That facilitation is expensive and error-prone, so this approach is deployed sparingly.
 
 At least for aesthetic experiences, games routinely manage to distribute enacted experiences through a different medium: software. That’s an important step because software can be cheaply mass-distributed, giving individual authors enormous leverage. Game designers’ techniques have not yet been widely used to distribute non-aesthetic enacted experiences. But maybe they can be: [[Enacted experiences have incredible potential as a mass medium]].
+
+# Reference
+1. [Andy Link](https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zSNDTj75ULnYMo7pGm2Frg7&stackedNotes=z4exmF6rnZTE9GjCnpFBKUT&stackedNotes=zN7KLBKWMTmFqthmFPVSNbP&stackedNotes=zGNVRh1q5gGeF88PbmYu4BB)
