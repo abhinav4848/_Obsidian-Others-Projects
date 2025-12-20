@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andy Matuschak/§Note-writing systems.md",
+                "file": "Andy Matuschak/Collaborative knowledge management systems tend to decay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "§Note-writing systems"
+              "title": "Collaborative knowledge management systems tend to decay"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5044631958008
+    "width": 401.5044631958008
   },
   "right": {
     "id": "9870632db536340b",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andy Matuschak/§Note-writing systems.md",
+                "file": "Andy Matuschak/Collaborative knowledge management systems tend to decay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for §Note-writing systems"
+              "title": "Backlinks for Collaborative knowledge management systems tend to decay"
             }
           },
           {
@@ -197,22 +197,23 @@
       "snipd-official:Open Snipd base": false
     }
   },
-  "active": "d90183d8f8ff6f3a",
+  "active": "e02a589a9b768801",
   "lastOpenFiles": [
-    "Digital note-writing systems fixate on the presentation and manipulation of individual notes, mostly ignoring inter-note sense-making.md",
-    "Andy Matuschak/It’s hard to navigate to unlinked “neighbors” in associative note systems.md",
     "Andy Matuschak/§Note-writing systems.md",
-    "Prefer positive note titles to promote systematic theory.md",
+    "Andy Matuschak/How to Take Smart Notes - Ahrens.md",
+    "Andy Matuschak/Digital note-writing systems fixate on the presentation and manipulation of individual notes, mostly ignoring inter-note sense-making.md",
+    "Andy Matuschak/It’s hard to navigate to unlinked “neighbors” in associative note systems.md",
+    "Andy Matuschak/Prefer positive note titles to promote systematic theory.md",
     "Andy Matuschak/Use phones to collect and triage, not (usually) to read.md",
     "Andy Matuschak/A reading inbox to capture possibly-useful references.md",
     "Andy Matuschak/Indexed references vs. tags.md",
-    "Evergreen notes can increase conversational bandwidth.md",
-    "Conversations incorporating multiple discussants’ evergreen notes may promote collaborative sense-making.md",
-    "Collaborative knowledge management systems tend to decay.md",
-    "Note-writing system.md",
-    "Networked note-writing software.md",
-    "Obsidian.md",
-    "Electron.md",
+    "Andy Matuschak/Evergreen notes can increase conversational bandwidth.md",
+    "Andy Matuschak/Conversations incorporating multiple discussants’ evergreen notes may promote collaborative sense-making.md",
+    "Andy Matuschak/Collaborative knowledge management systems tend to decay.md",
+    "Andy Matuschak/Note-writing system.md",
+    "Andy Matuschak/Networked note-writing software.md",
+    "Andy Matuschak/Obsidian.md",
+    "Andy Matuschak/Electron.md",
     "Snipd/Data/The Survival Podcast/Killing the Poverty Mindset – Epi-3393.md",
     "Andy Matuschak/Brooks, F. P., Jr. (1977). The computer “scientist” as toolsmith- Studies in interactive computer graphics. Information Processing, 625–634.md",
     "Andy Matuschak/Immanuel Kant.md",
@@ -224,7 +225,6 @@
     "Andy Matuschak/Efficient chunk schemas usually encode domain-specific attributes.md",
     "Andy Matuschak/Purposeful practice, after Ericsson and Pool.md",
     "Andy Matuschak/Good practice encodes more effective chunk recoding schemes.md",
-    "Andy Matuschak/Y Combinator.md",
     "current_export_metadata.json",
     "Ideaverse Merged/Atlas/Dots/Statements/Questions",
     "Snipd/Base/Snipd.base",

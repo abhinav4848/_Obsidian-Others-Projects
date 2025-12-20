@@ -4,7 +4,7 @@
     -  [[Better note-taking misses the point; what matters is “better thinking”]]
     - [[Knowledge work should accrete]]
     - [[Note-writing practices are generally ineffective]]
-    - [[Note-writing practices provide weak feedback]]
+    - [[Note-writing practices provide weak feedback]] 
 - Reading and note-writing
     - [[Write about what you read to internalize texts deeply]]
     - [[Evergreen note-writing helps reading efforts accumulate]]
