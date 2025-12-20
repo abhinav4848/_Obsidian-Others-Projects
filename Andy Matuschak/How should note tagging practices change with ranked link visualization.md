@@ -1,5 +1,5 @@
 # How should note tagging practices change with ranked link visualization?
-In their indexes, Zettelkasten practitioners try to tag only the most important few notes for a given topic, then they rely on inter-note linkages to navigate from there (see [[Indexed references vs tags]] ). This keeps the entry high-signal (see [[Tags are an ineffective association structure]]).
+In their indexes, Zettelkasten practitioners try to tag only the most important few notes for a given topic, then they rely on inter-note linkages to navigate from there (see [[Indexed references vs. tags]] ). This keeps the entry high-signal (see [[Tags are an ineffective association structure]]).
 
 But this may just be a consequence of current interfaces for displaying tagged data. Conceptually, what’s happening here is that in the writer’s mind, many notes are tagged with a given tag, but some notes are particularly relevant to that tag, and the writer doesn’t want to lose track of those. So they create a *curated* representation of that tag to replace the system’s indifferent “list it all” visualization.
 

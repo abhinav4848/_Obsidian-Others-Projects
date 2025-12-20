@@ -25,10 +25,14 @@
             "id": "d90183d8f8ff6f3a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Andy Matuschak/§Note-writing systems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "§Note-writing systems"
             }
           }
         ],
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Andy Matuschak/§Note-writing systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for §Note-writing systems"
             }
           },
           {
@@ -194,6 +199,20 @@
   },
   "active": "d90183d8f8ff6f3a",
   "lastOpenFiles": [
+    "Digital note-writing systems fixate on the presentation and manipulation of individual notes, mostly ignoring inter-note sense-making.md",
+    "Andy Matuschak/It’s hard to navigate to unlinked “neighbors” in associative note systems.md",
+    "Andy Matuschak/§Note-writing systems.md",
+    "Prefer positive note titles to promote systematic theory.md",
+    "Andy Matuschak/Use phones to collect and triage, not (usually) to read.md",
+    "Andy Matuschak/A reading inbox to capture possibly-useful references.md",
+    "Andy Matuschak/Indexed references vs. tags.md",
+    "Evergreen notes can increase conversational bandwidth.md",
+    "Conversations incorporating multiple discussants’ evergreen notes may promote collaborative sense-making.md",
+    "Collaborative knowledge management systems tend to decay.md",
+    "Note-writing system.md",
+    "Networked note-writing software.md",
+    "Obsidian.md",
+    "Electron.md",
     "Snipd/Data/The Survival Podcast/Killing the Poverty Mindset – Epi-3393.md",
     "Andy Matuschak/Brooks, F. P., Jr. (1977). The computer “scientist” as toolsmith- Studies in interactive computer graphics. Information Processing, 625–634.md",
     "Andy Matuschak/Immanuel Kant.md",
@@ -206,20 +225,6 @@
     "Andy Matuschak/Purposeful practice, after Ericsson and Pool.md",
     "Andy Matuschak/Good practice encodes more effective chunk recoding schemes.md",
     "Andy Matuschak/Y Combinator.md",
-    "Andy Matuschak/Peripheral vision.md",
-    "Andy Matuschak/Work with the garage door up.md",
-    "Andy Matuschak/Working on niche, personally-meaningful projects brings weirder, more serendipitous inbounds.md",
-    "Andy Matuschak/Obsession as high-order bit.md",
-    "Andy Matuschak/How might we situate tools for thought within intrinsically meaningful contexts.md",
-    "Andy Matuschak/Connecting prose and its surrounding Twitter conversation.md",
-    "Andy Matuschak/The mnemonic medium can surface “proof of memory” social signals.md",
-    "Andy Matuschak/The mnemonic medium can generate interesting author analytics.md",
-    "Andy Matuschak/Twitter is a water cooler.md",
-    "Andy Matuschak/The dominant culture around spaced repetition memory systems is fixated on meaningless goals.md",
-    "Andy Matuschak/Recall rates are a misleading proxy for more meaningful goals of the mnemonic medium.md",
-    "Andy Matuschak/What’s the big-picture impact of the mnemonic medium on readers.md",
-    "Andy Matuschak/Impact of mnemonic medium on downstream learning.md",
-    "Andy Matuschak/Enabling environments focus on creating opportunities for growth and action, not on skill-building.md",
     "current_export_metadata.json",
     "Ideaverse Merged/Atlas/Dots/Statements/Questions",
     "Snipd/Base/Snipd.base",

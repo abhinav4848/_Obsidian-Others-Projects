@@ -1,6 +1,68 @@
-# §Note-writing systems
+# §Note-writing systems 
+- Principles:
+    - [[Evergreen note-writing as fundamental unit of knowledge work]]
+    -  [[Better note-taking misses the point; what matters is “better thinking”]]
+    - [[Knowledge work should accrete]]
+    - [[Note-writing practices are generally ineffective]]
+    - [[Note-writing practices provide weak feedback]]
+- Reading and note-writing
+    - [[Write about what you read to internalize texts deeply]]
+    - [[Evergreen note-writing helps reading efforts accumulate]]
+        - [[Collecting material feels more useful than it usually is]]
+    - [[Do your own thinking]]
+        - [[Understanding requires effortful engagement]]
+        - [[Writing forces sharper understanding]]
+    - [[How to collect observations while reading]]
+    - [[Literature notes are secondary and separate]]
+    - [[How to process reading annotations into evergreen notes]]
+    - [[Pocket memo pad to capture into writing inbox while out]]
+    - [[A writing inbox for transient and incomplete notes]]
+    - [[A reading inbox to capture possibly-useful references]]
+    - [[Inboxes shouldn’t be split into multiple places]] 
+    - [[Beware automatic import into the reading inbox]]
+    - [[Use phones to collect and triage, not (usually) to read]]
+- Thinking and note-writing
+    - [[Evergreen note-writing helps insight accumulate]]
+    - [[Spaced repetition may be a helpful tool to incrementally develop inklings]]
+    - [[Leaps of insight emerge from prior thought]]
+    - [[Brainstorming may often substitute for missing insight accretion systems]]
+    - [[Evergreen notes are a safe place to develop wild ideas]]
+    - [[Evergreen notes can increase conversational bandwidth]]
+    - [[Conversations incorporating multiple discussants’ evergreen notes may promote collaborative sense-making]]
+- Writing and note-writing
+    - [[Executable strategy for writing]]
+    - [[Create speculative outlines while you write]]
+    - [[Evergreen notes lower the emotional stakes in editing manuscripts]]
+    - [[Evergreen notes permit smooth incremental progress in writing (“incremental writing”)]]
+- Structure of the notes
+    - [[Evergreen notes]]
+    - [[Most people take only transient notes]]
+    - [[Evergreen note maintenance approximates spaced repetition]]
+    - [[Evergreen notes should be concept-oriented]]
+    - [[Evergreen notes should be atomic]]
+    - [[Evergreen note titles are like APIs]]
+        - [[Prefer positive note titles to promote systematic theory]] 
+        - [[Prefer note titles with complete phrases to sharpen claims]]
+    - [[Evergreen notes should be densely linked]]
+    - [[Notes should surprise you]]
+- associative structure in PKMs
+    - [[Prefer associative ontologies to hierarchical taxonomies]]
+    - [[Tags are an ineffective association structure]]
+    - [[Indexed references vs. tags]] 
+- implications
+- Relation to reference system
+    - [Creating hyperlinks to my reference archive](https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=Creating_hyperlinks_to_my_reference_archive) No link 
+    - [[Advantages and disadvantages of using notes to form associations in content]]
+- tools
+    - [[Digital note-writing systems fixate on the presentation and manipulation of individual notes, mostly ignoring inter-note sense-making]]
+    - the value of plaintext
+    - plaintext IDs to link stuff
+    - being the human connector in a system which has no app
+- history / community
+    - [[Zettelkasten]]
+    - Luhmann
+    - Christian and Sascha
+    - [[How to Take Smart Notes - Ahrens]]
 
-Type of Link: 📝 Article
-Author: Andy Matuschak
-Completion Status: To Start
-Last edited time: January 18, 2024 7:55 PM
+# Reference
+1. [Andy Link](https://notes.andymatuschak.org/%C2%A7Note-writing_systems)

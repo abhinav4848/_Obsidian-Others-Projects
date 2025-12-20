@@ -7,7 +7,7 @@ A core book on [[§Note-writing systems.md|§Note-writing systems]] practice. 
 
 # Advice on associations
 
-Keywords should be sparse and tightly curated. They’re meant mostly as a “jumping-off” point: the connections between notes will be the primary navigational device. [[Indexed references vs tags]] [[Tags are an ineffective association structure]] 
+Keywords should be sparse and tightly curated. They’re meant mostly as a “jumping-off” point: the connections between notes will be the primary navigational device. [[Indexed references vs. tags]] [[Tags are an ineffective association structure]] 
 
 - c) Making sure you will be able to find this note later by either linking to it from your index or by making a link to it on a note that you use as an entry point to a discussion or topic and is itself linked to the index.
 - In the Zettelkasten, keywords can easily be added to a note like tags and will then show up in the index. They should be chosen carefully and sparsely. Luhmann would add the number of one or two (rarely more) notes next to a keyword in the index (Schmidt 2013, 171).
