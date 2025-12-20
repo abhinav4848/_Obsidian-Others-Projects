@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andy Matuschak/Y Combinator.md",
+                "file": "Andy Matuschak/Quit Your Job - Wolf Tivy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Y Combinator"
+              "title": "Quit Your Job - Wolf Tivy"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andy Matuschak/Y Combinator.md",
+                "file": "Andy Matuschak/Quit Your Job - Wolf Tivy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Y Combinator"
+              "title": "Backlinks for Quit Your Job - Wolf Tivy"
             }
           },
           {
@@ -176,8 +176,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,6 +199,8 @@
   },
   "active": "d90183d8f8ff6f3a",
   "lastOpenFiles": [
+    "Andy Matuschak/Where do ideas come from.md",
+    "Andy Matuschak/Why Greatness Cannot Be Planned - Stanley and Lehman.md",
     "Andy Matuschak/Y Combinator.md",
     "Andy Matuschak/§Knowledge work as serious discipline.md",
     "Andy Matuschak/Brooks, F. P., Jr. (1977). The computer “scientist” as toolsmith- Studies in interactive computer graphics. Information Processing, 625–634.md",
@@ -224,8 +225,6 @@
     "Andy Matuschak/Immanuel Kant.md",
     "Andy Matuschak/I should consider asymmetric part-time collaborators.md",
     "Andy Matuschak/I should consider asymmetric part-time collaborators 1.md",
-    "Andy Matuschak/Mental representations, after Ericsson and Pool.md",
-    "Andy Matuschak/Daily working log.md",
     "current_export_metadata.json",
     "Ideaverse Merged/Atlas/Dots/Statements/Questions",
     "Snipd/Base/Snipd.base",
