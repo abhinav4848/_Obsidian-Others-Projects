@@ -7,11 +7,10 @@ Relatedly, it’s tempting to evaluate the [[Mnemonic medium]] by asking how m
 If we want to offer some kind of secular [[Transcendental narrative]], we must ultimately evaluate all our work relative to that—relative to giving meaning, relating people to the world, organizing how people live, etc. Sure, we’ll need proxy metrics, but that’s all they’ll be. A focus on this purpose erases distinctions between “content” and “tools” and pushes us to pursue ideas that will better deliver meaning.
 
 Better framings include:
-
 - how many Sistine Chapel ceilings are created per generation? (per Alan)
-- creating [The Primer++](https://notes.andymatuschak.org/zWxp9Cw9Nc7ixAGAaXwqq3H) or the Dynabook++
-- creating extremely high-growth environments, and corresponding bridges into action based on that growth ([Enabling environments focus on creating opportunities for growth and action, not on skill-building](https://notes.andymatuschak.org/z7d63BYfJrd81VFE25jkcDd))
-- [Designing new enabling environments can be framed as designing a University++](https://notes.andymatuschak.org/zyjePyZ77P2BfdkRBuQB2x)
+- creating [The Primer++](https://notes.andymatuschak.org/zWxp9Cw9Nc7ixAGAaXwqq3H) or the Dynabook++ 
+- creating extremely high-growth environments, and corresponding bridges into action based on that growth ([[Enabling environments focus on creating opportunities for growth and action, not on skill-building]])
+- [[Designing new enabling environments can be framed as designing a University++]]
 
 In this sense, “[Tools for thought](https://notes.andymatuschak.org/z88M2wwQ8FggV7p8Wu1b8LG)” is a somewhat distorting term. It pushes us to think about “thought” as the end-goal. We’re really trying to construct “contexts for meaning.” Note too that a “context” could be a plain old-fashioned essay!
 

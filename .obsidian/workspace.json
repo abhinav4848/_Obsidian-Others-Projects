@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transcendental narrative.md",
+                "file": "Spaced repetition systems as catechism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transcendental narrative"
+              "title": "Spaced repetition systems as catechism"
             }
           },
           {
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcendental narrative.md",
+                "file": "Spaced repetition systems as catechism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Transcendental narrative"
+              "title": "Backlinks for Spaced repetition systems as catechism"
             }
           },
           {
@@ -212,32 +213,32 @@
   },
   "active": "ec9232daba0acfd6",
   "lastOpenFiles": [
+    "Spaced everything.md",
+    "OS-level spaced repetition system.md",
+    "Spaced repetition may be a helpful tool to incrementally develop inklings for more.md",
+    "Spaced repetition systems as catechism.md",
+    "The mnemonic medium keeps readers in contact with material over time.md",
+    "Timeful text.md",
+    "Guided meditation apps are naturally spread over time.md",
+    "Guided meditation app.md",
+    "Guided meditation apps bundle instruction with daily sessions.md",
+    "Guided meditation apps deliver enacted experiences in a mass medium.md",
+    "Enacted experiences have incredible potential as a mass medium.md",
+    "Enacted experiences are hard to distribute.md",
+    "Enacted experiences can bootstrap active participation in enabling environments.md",
+    "Enacted experiences are hard to author.md",
+    "Designing new enabling environments can be framed as designing a University++.md",
+    "Powerful enabling environments focus on expert use.md",
+    "Most dynamic representations developed for communication aren’t very enabling.md",
+    "Executable books.md",
+    "Executable books emphasize understanding pre-existing code, not writing new code.md",
+    "Authored environments are significantly colored by authors’ motivations.md",
+    "Explorable explanations.md",
     "Tools for thought should be evaluated in the context of intrinsically meaningful purposes.md",
     "Transcendental narrative.md",
     "Communities of action often form around media artifacts.md",
     "The dominant culture around spaced repetition memory systems is fixated on meaningless goals.md",
     "How might we situate tools for thought within intrinsically meaningful contexts.md",
-    "Brooks, F. P., Jr. (1977). The computer “scientist” as toolsmith- Studies in interactive computer graphics. Information Processing, 625–634.md",
-    "2021-10-31 Patreon post- Doing-centric explanatory mediums- board game instruction manuals, and an unusual Figma document.md",
-    "Andy Matuschak/Executable strategy for writing.md",
-    "Andy Matuschak/Evergreen note-writing helps reading efforts accumulate.md",
-    "Andy Matuschak/Most people read ineffectively.md",
-    "Obsession as high-order bit.md",
-    "Working on niche, personally-meaningful projects brings weirder, more serendipitous inbounds.md",
-    "Work with the garage door up.md",
-    "Anti-marketing, after Michael Nielsen.md",
-    "Pitching out corrupts within.md",
-    "Andy Matuschak/About these notes.md",
-    "Premature scaling can stunt system iteration.md",
-    "Focus on power over scale for transformative system design.md",
-    "Tech industry culture rarely produces transformative tools for thought.md",
-    "Gall’s law.md",
-    "Insight through making prefers bricolage to big design up front.md",
-    "Tools for thought collaboration seems to prefer either part-time contractor help, or deep full-time partners, with a big chasm between.md",
-    "Switching costs are high between software development and research thinking.md",
-    "Mental states of deep software development and deep research thinking are mutually exclusive.md",
-    "Deep collaborations between tool-makers and tool-users may support insight through making.md",
-    "Groups researching tools for thought need enough capacity to build prototypes suitable for serious work.md",
     "current_export_metadata.json",
     "Ideaverse Merged/Atlas/Dots/Statements/Questions",
     "Snipd/Base/Snipd.base",

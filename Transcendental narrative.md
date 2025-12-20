@@ -1,6 +1,5 @@
 # Transcendental narrative
 Stories, practices, and values which give structure and meaning to life, suggest what’s worth doing, situates people relative to others, etc. Religion is the traditional source, but secular alternatives include:
-
 - “spiritual” sources like meditation, yoga, astrology
 - political sources like Marxism, objectivism, woke-ism
 - social science-y philosophical sources like stoicism, romanticism, Heidegger and friends
