@@ -9,7 +9,7 @@ By [Wolf Tivy](https://notes.andymatuschak.org/zFdjHeXg9d92bJd9hgPHaSP), in [P
     - It’s possible to do this in the context of a job by reimagining the work as “your sacred cosmic duty”. Of course this is only possible when the job actually is important.
 - Many people frame quitting in terms of working a job for oneself—something well-specified like “I’m going full-time on my coaching side-gig”. That might be more fun, but this isn’t “quitting your job” in the full sense advocated here. The aim is wide-open spaces, freedom from obligation and “should”, cultivation of impulses.
     - Once you quit, you’ll feel pressure (from yourself and others) to “start something”, to “become successful”, but these impulses will tend to lead you astray because you haven’t yet had a chance to cultivate your own sense of value. They’re about others’ ideas of purpose. You have to engage in “hard leisure”—playfully chasing your curiosity without trying to “succeed” along others’ axes—to cultivate your own.
-    - (Echoes of [Process over product](https://notes.andymatuschak.org/zY4QE4Q6NJpGZZh4Binv2xB)) [[Process over product]]
+    - (Echoes of [[Process over product]].) 
 - People imagine that quitting your job is a privilege for the ultra-wealthy, but many more could manage it than most imagine.
     - One reason people don’t quit is that they (correctly!) don’t yet have faith in their ideas. Those impulses weren’t able to grow in a job-laden life. You have to give them a chance to emerge: “you get good ideas from {years of hard leisure}.”
     - You won’t be able to see the path to sustainability, but if you’re doing something beautiful, forces will emerge to support you.

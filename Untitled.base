@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Andy Matuschak")
+        - file.ext != "png"
+    order:
+      - file.name
+      - file.ctime
+      - file.size
+    sort:
+      - property: file.size
+        direction: DESC
+    columnSize:
+      file.name: 430
+      file.size: 78

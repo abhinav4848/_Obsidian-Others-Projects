@@ -1,7 +1,7 @@
 # §Note-writing systems 
 - Principles:
     - [[Evergreen note-writing as fundamental unit of knowledge work]]
-    -  [[Better note-taking misses the point; what matters is “better thinking”]]
+    - [[Better note-taking misses the point; what matters is “better thinking”]]
     - [[Knowledge work should accrete]]
     - [[Note-writing practices are generally ineffective]]
     - [[Note-writing practices provide weak feedback]] 

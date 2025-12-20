@@ -1,13 +1,4 @@
 # Worked example effect
-
-Type of Link: 📝 Article
-Category talked about: Learning
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
-
-# **Worked example effect**
-
 Carefully studying worked examples may produce more learning than solving problems.
 
 - Foundations
