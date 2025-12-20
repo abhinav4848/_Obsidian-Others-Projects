@@ -1,18 +1,9 @@
 # Executable strategy for writing
-
-Type of Link: 📝 Article
-Category talked about: Note taking
-Author: Andy Matuschak
-Completion Status: Started
-Last edited time: January 18, 2024 7:55 PM
-
-# **Executable strategy for writing**
-
 A naive writing process begins with a rough inkling about what one wants to write and a blank page. Progress from this point requires an enormous amount of activation energy and cognitive effort: there’s nothing external, so you must juggle all of the piece-to-be in your head.
 
-By contrast, if you’ve already written lots of concept-oriented [[Andy Matuschak/Evergreen Notes|Evergreen Notes]] around the topic, your task is more like editing than composition. You can make an outline by shuffling the note titles, write notes on any missing material, and edit them together into a narrative. In fact, because you can [Create speculative outlines while you write](https://notes.andymatuschak.org/z79rMNNuLrUj6R8q1CXSpDm), you might find that the first of these steps is already accomplished, too. And writing each note isn’t hard: [[Evergreen notes permit smooth incremental progress in writing (“incremental writing”)]].
+By contrast, if you’ve already written lots of concept-oriented [[Andy Matuschak/Evergreen Notes|Evergreen Notes]] around the topic, your task is more like editing than composition. You can make an outline by shuffling the note titles, write notes on any missing material, and edit them together into a narrative. In fact, because you can [[Create speculative outlines while you write]], you might find that the first of these steps is already accomplished, too. And writing each note isn’t hard: [[Evergreen notes permit smooth incremental progress in writing (“incremental writing”)]].
 
-Instead of having a task like “write an outline of the first chapter,” you have a task like “find notes which seem relevant.” Each step feels doable. This is an executable strategy (see [[Executable strategy]] ). But beware—don’t let this strategy “poison” the initial note-writing process: [Write notes for yourself by default, disregarding audience](https://notes.andymatuschak.org/zXDPrYcxUSZbF5M8vM5Y1U9).
+Instead of having a task like “write an outline of the first chapter,” you have a task like “find notes which seem relevant.” Each step feels doable. This is an executable strategy (see [[Executable strategy]] ). But beware—don’t let this strategy “poison” the initial note-writing process: [[Write notes for yourself by default, disregarding audience]].
 
 I describe two approaches here: an **undirected** version, in which writing projects emerge organically from daily work; and a **directed** version, in which you’re trying to write about something specific.
 
@@ -34,13 +25,9 @@ I describe two approaches here: an **undirected** version, in which writing pr
 One other nice benefit of this approach: [[Evergreen notes lower the emotional stakes in editing manuscripts]] .
 
 # References
-
 1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zCknixwETdFm1MWdWPwMcXs&stackedNotes=zSKD44o2VTbQuQYqmjupo4B) 
 2. Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*. [[How to Take Smart Notes - Ahrens]]
 3. [Preparing Fragments Helps You to Ease Into Writing • Zettelkasten Method](https://zettelkasten.de/posts/ease-into-writing/)
-    
     > To see with clarity if your research backs up your text’s structure sufficiently, the next step is to assign notes from your Zettelkasten to the items of your outline. When an item of your outline seems to be neglected because you don’t have enough notes that fit, you can continue your research, focusing on the missing pieces. As soon as you’re confident you got enough coverage for a start, you string the notes’s contents together according to the outline. Thus you create the very first draft. That’s all it takes to move from a plan to outline to manuscript. Then you begin to re-write, organize the material and start to make the text coherent.
-    > 
     
     > There’s no magic involved in writing texts with the help of a well-fed Zettelkasten. To compile a first draft you put the contents of selected notes at the appropriate places in the outline, putting meat on the bones of your text’s skeleton. That’s how a Zettelkasten helps you complete your first draft.
-    >

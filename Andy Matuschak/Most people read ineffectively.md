@@ -10,6 +10,5 @@
 [[Skilful reading is often non-linear]], but most people read linearly. 
 
 # Reference
-Matuschak, A. (2019 0). _Why books don’t work_. [https://andymatuschak.org/books](https://andymatuschak.org/books)
-
 1. [Andy Link](https://notes.andymatuschak.org/z2Nv3jADtpYcgbCXww7nSEG)
+2. Matuschak, A. (2019 0). _Why books don’t work_. [https://andymatuschak.org/books](https://andymatuschak.org/books) 

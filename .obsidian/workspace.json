@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andy Matuschak/Most people read ineffectively.md",
+                "file": "Andy Matuschak/Evergreen note-writing helps reading efforts accumulate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Most people read ineffectively"
+              "title": "Evergreen note-writing helps reading efforts accumulate"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools for thought collaboration seems to prefer either part-time contractor help, or deep full-time partners, with a big chasm between.md",
+                "file": "Transcendental narrative.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tools for thought collaboration seems to prefer either part-time contractor help, or deep full-time partners, with a big chasm between"
+              "title": "Transcendental narrative"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools for thought collaboration seems to prefer either part-time contractor help, or deep full-time partners, with a big chasm between.md",
+                "file": "Transcendental narrative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tools for thought collaboration seems to prefer either part-time contractor help, or deep full-time partners, with a big chasm between"
+              "title": "Backlinks for Transcendental narrative"
             }
           },
           {
@@ -212,32 +212,32 @@
   },
   "active": "ec9232daba0acfd6",
   "lastOpenFiles": [
-    "Switching costs are high between software development and research thinking.md",
+    "Tools for thought should be evaluated in the context of intrinsically meaningful purposes.md",
+    "Transcendental narrative.md",
+    "Communities of action often form around media artifacts.md",
+    "The dominant culture around spaced repetition memory systems is fixated on meaningless goals.md",
+    "How might we situate tools for thought within intrinsically meaningful contexts.md",
+    "Brooks, F. P., Jr. (1977). The computer “scientist” as toolsmith- Studies in interactive computer graphics. Information Processing, 625–634.md",
+    "2021-10-31 Patreon post- Doing-centric explanatory mediums- board game instruction manuals, and an unusual Figma document.md",
+    "Andy Matuschak/Executable strategy for writing.md",
+    "Andy Matuschak/Evergreen note-writing helps reading efforts accumulate.md",
+    "Andy Matuschak/Most people read ineffectively.md",
+    "Obsession as high-order bit.md",
+    "Working on niche, personally-meaningful projects brings weirder, more serendipitous inbounds.md",
+    "Work with the garage door up.md",
+    "Anti-marketing, after Michael Nielsen.md",
+    "Pitching out corrupts within.md",
+    "Andy Matuschak/About these notes.md",
+    "Premature scaling can stunt system iteration.md",
+    "Focus on power over scale for transformative system design.md",
+    "Tech industry culture rarely produces transformative tools for thought.md",
+    "Gall’s law.md",
+    "Insight through making prefers bricolage to big design up front.md",
     "Tools for thought collaboration seems to prefer either part-time contractor help, or deep full-time partners, with a big chasm between.md",
+    "Switching costs are high between software development and research thinking.md",
     "Mental states of deep software development and deep research thinking are mutually exclusive.md",
     "Deep collaborations between tool-makers and tool-users may support insight through making.md",
     "Groups researching tools for thought need enough capacity to build prototypes suitable for serious work.md",
-    "Academic software interfaces generally aren’t suitable for serious use.md",
-    "Collaborations between tool-makers and tool-users depend on building effective “armories” of tool ideas.md",
-    "Collaborations between tool-makers and tool-users can best iterate via a sequence of different projects.md",
-    "It’s hard for independent researchers to find full-time collaborators.md",
-    "I should consider asymmetric part-time collaborators.md",
-    "Andy Matuschak/Incremental reading.md",
-    "It’s difficult to maintain emotional connection to a creative project across delays and breaks.md",
-    "The best time to write about your lecture’s topic is around the time you deliver it.md",
-    "Talks and classes provide pressure and emotional fuel for understanding.md",
-    "Brooks, F. P., Jr. (1977). The computer “scientist” as toolsmith- Studies in interactive computer graphics. Information Processing, 625–634.md",
-    "Andy Matuschak/§Note-writing systems.md",
-    "Andy Matuschak/Most people read ineffectively.md",
-    "Focused software development work is self-abnegating.md",
-    "Tools for thought.md",
-    "Insight through making prefers bricolage to big design up front.md",
-    "Premature scaling can stunt system iteration.md",
-    "Andy Matuschak/About these notes.md",
-    "Andy Matuschak/Better note-taking misses the point; what matters is “better thinking”.md",
-    "Ideaverse Merged/Atlas/Dots/X/+ About these notes.md",
-    "Ideaverse Merged/Atlas/Notes/X/+ About these notes.md",
-    "Andy Matuschak/Retrieval practice.md",
     "current_export_metadata.json",
     "Ideaverse Merged/Atlas/Dots/Statements/Questions",
     "Snipd/Base/Snipd.base",
