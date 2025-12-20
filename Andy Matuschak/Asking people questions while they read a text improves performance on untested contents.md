@@ -8,13 +8,13 @@ Last edited time: January 18, 2024 7:55 PM
 
 # **Asking people questions while they read a text improves performance on untested contents**
 
-Beyond the [Testing effect](Testing%20effect.md), answering questions while reading a text ([Adjunct questions](Adjunct%20questions.md)) promotes better *general* absorption, including of unrelated, untested material from the text. See references for more.
+Beyond the [[Testing effect]], answering questions while reading a text ([[Adjunct questions]]) promotes better *general* absorption, including of unrelated, untested material from the text. See references for more.
 
 It’s possible that this is purely due to increased attention and focus: Rothkopf (1966) was able to achieve similar results on untested questions by simply admonishing students to read “slowly and carefully”.
 
 Does this affect apply only to related-though-not-directly-tested material from the text, or to wholly unrelated material? It’s a bit unclear, but Hamaker (1986) suggests the effect is mostly concentrated in the former, with small effects measured under some conditions (higher-order questions, unrestricted time) for the latter.
 
-See also: [Mnemonic medium prompts are interleaved into the reading experience](Mnemonic%20medium%20prompts%20are%20interleaved%20into%20the%20reading%20experience.md) .
+See also: [[Mnemonic medium prompts are interleaved into the reading experience]] .
 
 # Reference
 

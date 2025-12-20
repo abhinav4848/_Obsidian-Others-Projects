@@ -2,7 +2,7 @@
 
 Training activities can often be made more effective by introducing difficulties.
 
-Some examples which [Robert A. Bjork](https://notes.andymatuschak.org/zYPeHVeq311Jh4whSstyeFX) (1994) cites as improving long-term performance in experiments:
+Some examples which [Robert A. Bjork](https://notes.andymatuschak.org/zYPeHVeq311Jh4whSstyeFX) (1994) (no note) cites as improving long-term performance in experiments:
 
 - Shuffling heterogenous tasks rather than grouping repetitions by task type
 - Varying the parameters of a task

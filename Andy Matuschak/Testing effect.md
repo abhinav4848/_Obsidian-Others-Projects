@@ -18,7 +18,7 @@ This suggests a significantly different role for tests. In typical classrooms, t
 
 Retrieval practice leads to more durable long-term memory than simply studying material by e.g. re-reading, despite the fact that students will be less successful during practice itself (Roediger, 2006). 
 
-Related: [Desirable difficulties, after Bjork](Desirable%20difficulties,%20after%20Bjork.md)
+Related: [[Desirable difficulties, after Bjork]]
 
 It also seems to lead to more durable memory (Karpicke and Smith, 2012) and improved learning performance in general (Karpicke and Blunt, 2011) relative to [Elaborative encoding](Elaborative%20encoding.md)-based practice alone.
 

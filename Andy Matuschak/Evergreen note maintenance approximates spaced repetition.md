@@ -8,13 +8,13 @@ Last edited time: January 18, 2024 7:55 PM
 
 # **Evergreen note maintenance approximates spaced repetition**
 
-Because writing [[Andy Matuschak/Evergreen Notes|Evergreen Notes]] with dense associative structure (see [Evergreen notes should be densely linked](Evergreen%20notes%20should%20be%20densely%20linked.md)) requires that we constantly reread and revise our past writing, this type of note-taking approximates spaced repetition.
+Because writing ([[Andy Matuschak/Evergreen Notes|Evergreen Notes]]) requires that we constantly reread and revise our past writing, this type of note-taking approximates spaced repetition.
 
 In particular, the spaced repetition follows your present interests. If you stop reading or writing about a given topic, you’ll mostly never revisit it. If you’re regularly reading or writing about a topic, you’ll revisit that prior material fairly constantly.
 
-This isn’t an efficient spaced repetition, memory-wise: you’re not really taking advantage of the [Testing effect](Testing%20effect.md). But it does take advantage of something like the [Generation effect](Generation%20effect.md), and it may be a useful lens to think about managing your attention across the corpus of ideas you accumulate over time. Specifically, this practice will encourage you to repeatedly give attention to past ideas which seem relevant to your present work. And because you may find yourself revising your notes on those past ideas, the attention may be quite effortful.
+This isn’t an efficient spaced repetition, memory-wise: you’re not really taking advantage of the [[Testing effect]], and it may be a useful lens to think about managing your attention across the corpus of ideas you accumulate over time. Specifically, this practice will encourage you to repeatedly give attention to past ideas which seem relevant to your present work. And because you may find yourself revising your notes on those past ideas, the attention may be quite effortful.
 
-This same effect occurs when maintaining systems which involve [Transclusion](Transclusion.md).
+This same effect occurs when maintaining systems which involve [[Transclusion]].
 
 # Reference
 

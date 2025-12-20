@@ -42,8 +42,8 @@ Related:
 - [OS-level spaced repetition system](https://notes.andymatuschak.org/zNLoqjEVe5dheMKmTTyB9E3)
 
 # Related
-[**Evergreen note maintenance approximates spaced repetition**](Evergreen%20note%20maintenance%20approximates%20spaced%20repetition.md) 
-[Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle](https://notes.andymatuschak.org/z2Pg1CbUyvjV4jEoqmr8Xua), vs. using spaced-repetition to “approximate” inbox grooming.
+**[[Evergreen note maintenance approximates spaced repetition]]** 
+[[Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle]], vs. using spaced-repetition to “approximate” inbox grooming.
 
 I use this concept to engage with my implementation of [[A reading inbox to capture possibly-useful references]]
 
