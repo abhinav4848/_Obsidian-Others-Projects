@@ -11,7 +11,7 @@ For instance, Michael notes:
 
 As another data point, Khan Academy spent enormous engineering resources building automatically-generated math exercises so that they could claim an unlimited number. In practice, though, human authors did a vastly better job, and it turned out that enormous numbers of variations simply weren’t necessary.
 
-It probably _will_ be valuable to notice the techniques we use as we generate application prompt variations, and to turn those into a kind of “playbook” for generating future variations; see e.g. [[A pattern language of prompt-writing]]. And maybe 2023-era [[Large language models]] can help: [[GPT-3 can generate shallow variations of spaced repetition prompt questions]].
+It probably _will_ be valuable to notice the techniques we use as we generate application prompt variations, and to turn those into a kind of “playbook” for generating future variations; see e.g. [[A pattern language of prompt-writing]]. And maybe 2023-era [Large language models](https://notes.andymatuschak.org/zBe9vHWwqLoyaeA7eJfLnBA) (no note) can help: [[GPT-3 can generate shallow variations of spaced repetition prompt questions]].
 
 ---
 # References
