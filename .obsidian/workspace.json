@@ -11,12 +11,14 @@
             "id": "bdd7bdec3fd37772",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Andy Matuschak/_attachments/23159.png"
+                "file": "Andy Matuschak/Quit Your Job - Wolf Tivy.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "23159"
+              "icon": "lucide-file",
+              "title": "Quit Your Job - Wolf Tivy"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andy Matuschak/_attachments/23159.png",
+                "file": "Andy Matuschak/Quit Your Job - Wolf Tivy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 23159"
+              "title": "Backlinks for Quit Your Job - Wolf Tivy"
             }
           },
           {
@@ -183,8 +185,11 @@
   },
   "active": "bdd7bdec3fd37772",
   "lastOpenFiles": [
-    "Andy Matuschak/Paul Graham - How to Think for Yourself.md",
+    "Wolf Tivy.md",
+    "Andy Matuschak/Quit Your Job - Wolf Tivy.md",
+    "_media-sync_resources/2025/12/20/23159.png.md",
     "Andy Matuschak/_attachments/23159.png",
+    "Andy Matuschak/Paul Graham - How to Think for Yourself.md",
     "_media-sync_resources/2025/12/20/01949.png.md",
     "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
     "Andy Matuschak/Internally-modulated learning is self-actualizing; externally-modulated learning is self-abnegating.md",
@@ -207,9 +212,6 @@
     "Andy Matuschak/How to process reading annotations into evergreen notes.md",
     "Andy Matuschak/Sense of abundance.md",
     "Andy Matuschak/The most effective readers and thinkers I know don’t take notes when reading.md",
-    "Andy Matuschak/Participatory environment.md",
-    "Andy Matuschak/Moore method.md",
-    "Andy Matuschak/Impermanence.md",
     "Andy Matuschak/_attachments/23004.pdf",
     "_media-sync_resources/2025/12/20/234757",
     "Andy Matuschak/_attachments/06855.png",

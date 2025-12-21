@@ -3,7 +3,7 @@ URLs:
   - https://notes.andymatuschak.org/z5beUfpCZpi6fibB4vFfhzF
 ---
 # Quit Your Job - Wolf Tivy
-By [Wolf Tivy](https://notes.andymatuschak.org/zFdjHeXg9d92bJd9hgPHaSP), in [Palladium Magazine](https://notes.andymatuschak.org/z159f2ooSvPMdnzdrHiTN32) [https://palladiummag.com/2022/01/06/quit-your-job/](https://palladiummag.com/2022/01/06/quit-your-job/)
+By [[Wolf Tivy]], in [Palladium Magazine](https://notes.andymatuschak.org/z159f2ooSvPMdnzdrHiTN32) [https://palladiummag.com/2022/01/06/quit-your-job/](https://palladiummag.com/2022/01/06/quit-your-job/)
 
 ## Summary
 - The most meaningful paths—for you and for the world—can’t be planned; you have to uncover them by chasing interesting novelty, without safe knowledge of which paths will succeed or fail.
