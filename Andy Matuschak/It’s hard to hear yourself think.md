@@ -1,7 +1,7 @@
 # **It’s hard to hear yourself think**
 
 Some related notes:
-- [Original thought requires solitude](Original%20thought%20requires%20solitude.md)
+- [[Original thought requires solitude]]
 - [[Culturally default behaviors fill spare time with others’ ideas]] 
     - [[People prefer doing to thinking]]
     - [Many people find difficult creative work mostly unpleasant in the moment](https://notes.andymatuschak.org/zTaenCxxdcffpPUAzq3iDmQ) (No access on Andy’s site- Unavailable note)
@@ -14,7 +14,6 @@ Some related notes:
 Exhortations which help: [[Get curious]]; [[Get bored]]; [[Get playful]] 
 
 # Partial list of practices meant to produce deliberateness, receptivity
-
 - Wi-Fi defaults to off in the morning
 - Consistency in [[My daily routine]] 
 - Reminding myself that [[The high-order bit for my productivity is whether I complete a deeply-focused morning creative block]], recording/tracking whether that happens and the main blockers / helpers
@@ -26,7 +25,7 @@ Exhortations which help: [[Get curious]]; [[Get bored]]; [[Get playful]]
 - Forest.app running on my phone while I work
 - Twitter, Mail, etc are not installed on my phone
 - Focus.app runs from 7AM to 5PM, blocking Mail, the Twitter timeline, distracting web sites, etc
-    - I’m not sure this is a great practice: [A rigid fixation on “focus” can harm creative work](A%20rigid%20fixation%20on%20“focus”%20can%20harm%20creative%20work.md). The block ends in the evenings, so I tend to do my meandering then, but I don’t know if that’s too rigid.
+    - I’m not sure this is a great practice: [[A rigid fixation on “focus” can harm creative work]]. The block ends in the evenings, so I tend to do my meandering then, but I don’t know if that’s too rigid.
 - Answer email in batches, usually in the evening or when feeling low-energy
 - Usually accept at most one meeting per day, in a consistent afternoon slot, to protect my big working blocks
 

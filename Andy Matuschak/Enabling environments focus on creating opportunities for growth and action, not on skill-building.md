@@ -4,7 +4,7 @@ URLs:
 ---
 # Enabling environments focus on creating opportunities for growth and action, not on skill-building
 
-A great research lab isn’t fixated on instilling heaps of specific knowledge and skills in its graduate students. It enables by creating great opportunities for personal growth, and by highlighting bridges to opportunities for *action* based on that growth. This is generally true of an effective [Enabling environment](Enabling%20environment.md).
+A great research lab isn’t fixated on instilling heaps of specific knowledge and skills in its graduate students. It enables by creating great opportunities for personal growth, and by highlighting bridges to opportunities for *action* based on that growth. This is generally true of an effective [[Enabling environment]].
 
 Critically, such environments aren’t about pushing growth for growth’s sake. [[Y Combinator]] founders are primarily trying to start a successful company, not to achieve personal growth ([[Enabling environments’ activities directly serve an intrinsically meaningful purpose]]). And insofar as the environment creates personal growth, it will generally emphasize the ultimate goal in all things (e.g. making that startup successful), rather than focusing on “practice.”
 

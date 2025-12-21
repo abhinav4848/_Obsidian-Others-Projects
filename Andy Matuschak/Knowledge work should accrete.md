@@ -8,7 +8,7 @@ Likewise, [[Most people take only transient notes]], though with effective pract
 > We should strive to design practices systems which yield compounding returns on our efforts as they accumulate over time.
 > 
 
-A [Spaced Repetition memory system](Spaced%20Repetition%20memory%20system.md) achieves this for memory: when you find information useful, you can invest a little effort to make sure you always have it available. Over time, one’s spaced repetition library accumulates thousands of questions, and (I strongly suspect) that knowledge makes it easier to be an effective knowledge worker later.
+A [[Spaced Repetition memory system]] achieves this for memory: when you find information useful, you can invest a little effort to make sure you always have it available. Over time, one’s spaced repetition library accumulates thousands of questions, and (I strongly suspect) that knowledge makes it easier to be an effective knowledge worker later.
 
 - **Hamming illustrates this point vividly**
     

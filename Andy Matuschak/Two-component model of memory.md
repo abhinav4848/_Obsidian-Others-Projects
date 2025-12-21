@@ -7,7 +7,7 @@ Stability increases with each review, so that retrievability falls more slowly w
 
 This model explains why it can be helpful to study even material which one can successfully recall (“overlearning”): even when retrieval strength is relatively high, study can increase storage strength, which will decrease subsequent retrieval strength decay ([Robert A. Bjork](https://notes.andymatuschak.org/zYPeHVeq311Jh4whSstyeFX) and Bjork, 1992).
 
-In practical use as part of a [Spaced Repetition memory system](Spaced%20Repetition%20memory%20system.md), a third parameter for item complexity must generally be introduced, since SRS items are generally not actually atomic, as far as our brains are concerned.
+In practical use as part of a [[Spaced Repetition memory system]], a third parameter for item complexity must generally be introduced, since SRS items are generally not actually atomic, as far as our brains are concerned.
 
 [[Piotr Wozniak]] uses retrievability and stability in his analysis; [Robert A. Bjork](https://notes.andymatuschak.org/zYPeHVeq311Jh4whSstyeFX) and Bjork (1992) call an analogous pair of parameters retrieval strength and storage strength, respectively.
 

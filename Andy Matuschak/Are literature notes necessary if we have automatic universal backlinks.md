@@ -5,7 +5,7 @@ In other words, is this just a hold-over from the physical Zettelkasten? If we h
 
 One reason to advocate for literature notes is that it would create an opportunity to explicitly curate key durable notes associated with a note. This might be important for cutting through the noise, especially if a reference is mentioned frequently.
 
-Would such curated associations even need to be textual? Is it sufficient to form metadata-only associations? [Advantages and disadvantages of using notes to form associations in content](Advantages%20and%20disadvantages%20of%20using%20notes%20to%20form%20associations%20in%20content.md)
+Would such curated associations even need to be textual? Is it sufficient to form metadata-only associations? [[Advantages and disadvantages of using notes to form associations in content]]
 
 Related: [[How should note tagging practices change with ranked link visualization]]?
 

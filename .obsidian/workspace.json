@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "af8012df52169394",
+        "id": "859cbd20be22f882",
         "type": "tabs",
         "children": [
           {
-            "id": "ed28f97f001f8aeb",
+            "id": "bdd7bdec3fd37772",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_media-sync_resources/2025/12/20/01949.png.md",
+                "file": "Andy Matuschak/Paul Graham - How to Think for Yourself.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01949.png"
-            }
-          },
-          {
-            "id": "5cb8c9a203c18620",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Andy Matuschak/Non-identification.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Non-identification"
+              "title": "Paul Graham - How to Think for Yourself"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Andy Matuschak\" %20",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andy Matuschak/Non-identification.md",
+                "file": "Andy Matuschak/Paul Graham - How to Think for Yourself.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Non-identification"
+              "title": "Backlinks for Paul Graham - How to Think for Yourself"
             }
           },
           {
@@ -199,38 +183,37 @@
       "media-sync:Media sync": false
     }
   },
-  "active": "5cb8c9a203c18620",
+  "active": "e02a589a9b768801",
   "lastOpenFiles": [
-    "Andy Matuschak/People often struggle to remember details of prose text because they never processed them in the first place.md",
-    "Andy Matuschak/Prefer explicit associations to inferred associations.md",
-    "Andy Matuschak/Programmable attention.md",
-    "Andy Matuschak/Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes.md",
-    "Andy Matuschak/Pixar’s movies and technology development act as coupled flywheels.md",
-    "Andy Matuschak/Understanding requires effortful engagement.md",
-    "Andy Matuschak/Write about what you read to internalize texts deeply.md",
-    "Andy Matuschak/Spaced repetition may be a helpful tool to develop or change habits.md",
-    "Andy Matuschak/Transfer learning.md",
-    "Andy Matuschak/Prefer labeled associations.md",
-    "Andy Matuschak/Tags are an ineffective association structure.md",
-    "Andy Matuschak/Retrieval practice.md",
-    "Andy Matuschak/Testing effect.md",
-    "Andy Matuschak/Spaced repetition memory systems can be used to develop conceptual understanding.md",
-    "Andy Matuschak/Process over product.md",
-    "Andy Matuschak/Get curious.md",
-    "Paul Graham - How to Think for Yourself.md",
-    "Andy Matuschak/Get playful.md",
-    "Andy Matuschak/Get bored.md",
-    "Andy Matuschak/Culturally default behaviors fill spare time with others’ ideas.md",
-    "Andy Matuschak/Effective deep work depends on both time and intensity.md",
-    "Recast celebrations as reflective spaces, rather than rewards.md",
-    "Andy Matuschak/Retrieval practice and transfer learning.md",
-    "Andy Matuschak/Participatory environments support learning.md",
+    "Andy Matuschak/_attachments/23159.png",
+    "_media-sync_resources/2025/12/20/01949.png.md",
+    "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
+    "Andy Matuschak/Internally-modulated learning is self-actualizing; externally-modulated learning is self-abnegating.md",
+    "Andy Matuschak/Writing forces sharper understanding.md",
+    "Andy Matuschak/Are literature notes necessary if we have automatic universal backlinks.md",
+    "Andy Matuschak/Do your own thinking.md",
+    "Andy Matuschak/Worked example effect.md",
+    "Andy Matuschak/Enabling environments focus on creating opportunities for growth and action, not on skill-building.md",
+    "Andy Matuschak/Enabling environments’ activities directly serve an intrinsically meaningful purpose.md",
+    "Andy Matuschak/Taxonomy of note types.md",
+    "Andy Matuschak/Generation effect.md",
+    "Andy Matuschak/Inboxes only work if you trust how they’re drained.md",
+    "Andy Matuschak/Use notes to avoid preconceived conclusions.md",
+    "Andy Matuschak/Evergreen note-writing as fundamental unit of knowledge work.md",
+    "Andy Matuschak/Two-component model of memory.md",
+    "Andy Matuschak/Everything takes longer than you think it will.md",
+    "Andy Matuschak/Joe Edelman.md",
+    "Andy Matuschak/Unsatisfactoriness.md",
+    "Andy Matuschak/Forgetting curve.md",
+    "Andy Matuschak/How to process reading annotations into evergreen notes.md",
+    "Andy Matuschak/Sense of abundance.md",
+    "Andy Matuschak/The most effective readers and thinkers I know don’t take notes when reading.md",
     "Andy Matuschak/Participatory environment.md",
-    "Andy Matuschak/Enacted experience.md",
+    "Andy Matuschak/Moore method.md",
+    "Andy Matuschak/Impermanence.md",
     "Andy Matuschak/_attachments/23004.pdf",
     "_media-sync_resources/2025/12/20/234757",
     "Andy Matuschak/_attachments/06855.png",
-    "Andy Matuschak/23159.png",
     "Andy Matuschak/_attachments/56984.png",
     "Andy Matuschak/_attachments/28593.png",
     "Andy Matuschak/_attachments/01949.png",

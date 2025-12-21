@@ -3,7 +3,7 @@ If reading and writing notes doesn’t lead to surprises, what’s the point?
 
 If we just wanted to remember things, we have spaced repetition for that. If we just wanted to understand a particular idea thoroughly in some local context, we wouldn’t bother maintaining a system of notes over time.
 
-This is why we have dense networks of links ([Evergreen notes should be densely linked](Evergreen%20notes%20should%20be%20densely%20linked.md)): so that searches help us see unexpected connections.
+This is why we have dense networks of links ([[Evergreen notes should be densely linked]]): so that searches help us see unexpected connections.
 
 This is why we take [[Evergreen notes should be concept-oriented]]: so that when writing about an idea that seems new, we stumble onto what we’ve already written about it (perhaps unexpectedly).
 

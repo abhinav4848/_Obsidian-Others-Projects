@@ -5,7 +5,7 @@ The additional step of making associations and integrating that writing with pri
 
 This practice is a rough kind of metacognitive support: [[Metacognitive supports as cognitive scaffolding]].
 
-This observation appears to be true even for non-prose writing: [Many eminent thinkers need a writing surface to think](Many%20eminent%20thinkers%20need%20a%20writing%20surface%20to%20think.md). 
+This observation appears to be true even for non-prose writing: [[Many eminent thinkers need a writing surface to think]]. 
 
 # Backlinks
 - [[Write about what you read to internalize texts deeply]]
@@ -46,7 +46,7 @@ This observation appears to be true even for non-prose writing: [Many eminent t
     
     > Writing notes and sorting them into the slip-box is nothing other than an attempt to understand the wider meaning of something. The slip-box forces us to ask numerous elaborating questions: What does it mean? How does it connect to … ? What is the difference between … ? What is it similar to?
     > 
-- Barbara Tuchmann, quoted in [The Independent Scholars Handbook - Richard Gross](The%20Independent%20Scholars%20Handbook%20-%20Richard%20Gross.md):
+- Barbara Tuchmann, quoted in [[The Independent Scholars Handbook - Richard Gross]]:
     
     > “I do all my own research,” she said, “though reviewers have speculated that I must have a band of hirelings. I like to be led by a footnote onto something I never thought of. I rarely photocopy research materials be- cause, for me, note-taking is learning, distilling. That’s the whole essence of the business, In taking notes, you have to discard what you don’t need. If you photocopy it, you haven’t chewed it.”
     >

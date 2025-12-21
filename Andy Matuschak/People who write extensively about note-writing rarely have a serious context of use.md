@@ -1,6 +1,6 @@
 # People who write extensively about note-writing rarely have a serious context of use
 
-Many bloggers and “life-hackers” have made a full-time job of suggesting how you should organize your journal, or how you should most effectively [[Write about what you read to internalize texts deeply]]. We should take this advice seriously insofar as those practices have helped the authors achieve meaningful creative work: [Better note-taking misses the point; what matters is “better thinking”](Better%20note-taking%20misses%20the%20point;%20what%20matters%20is%20“better%20thinking”.md)
+Many bloggers and “life-hackers” have made a full-time job of suggesting how you should organize your journal, or how you should most effectively [[Write about what you read to internalize texts deeply]]
 
 But most people who write about note-taking don’t seem particularly accomplished in their own fields, whatever those may be. In fact, most such writers aren’t applying their notes to some exogenous creative problem: their primary creative work *is* writing about productivity. These writers offer advice on note-taking to help scientists and executives with the challenges of their work, but the advice was developed in a context disconnected from those external realities. There are two related problems here:  [[Effective system design requires insights drawn from serious contexts of use]], and [[Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes]]
 

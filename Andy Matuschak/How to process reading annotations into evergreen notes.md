@@ -6,7 +6,7 @@ First: what notes should even get written? We’ll write [[Evergreen notes shou
 Once you have a picture of the concepts at play, you’ll begin an iterative process of note-writing. Here I’ve summarized Christian Tietze’s process, which I’m presently adopting / adapting:
 
 1. **Write a broad note** which captures the “big idea” of one of your clusters.
-    - Are there multiple big ideas? Write multiple broad notes to maintain [Evergreen notes should be atomic](Evergreen%20notes%20should%20be%20atomic.md).
+    - Are there multiple big ideas? Write multiple broad notes to maintain [[Evergreen notes should be atomic]].
 2. **Write finer-grained notes:** Look through the individual scraps in that cluster. Write notes which capture more nuanced atomic ideas within that cluster.
 3. **Connect:** Search for relevant past notes which relate to these new notes. Link, merge, and revise as necessary to represent your new, synthesized conception of those ideas.
     - See [[Evergreen notes should be densely linked]] and [[Create speculative outlines while you write]].

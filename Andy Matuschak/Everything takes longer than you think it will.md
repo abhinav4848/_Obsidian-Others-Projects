@@ -14,7 +14,7 @@ Image of the tweet
 Embed of the tweet
 ![https://twitter.com/kocienda/status/1422043864970326020](https://twitter.com/kocienda/status/1422043864970326020)
         
-I like a variant [Joe Edelman](Joe%20Edelman.md) proposes:
+I like a variant [[Joe Edelman]] proposes:
 “What would I be most proud to face today?”
     
 Q. David Holz, paraphrasing advice from a research mentor: “projects either take ??? or ???.”

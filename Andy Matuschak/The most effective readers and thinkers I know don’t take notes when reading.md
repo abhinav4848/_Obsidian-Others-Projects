@@ -6,7 +6,7 @@ They’re all expert readers, though, in their own way. They read for a purpose;
 
 In fact, the negation almost seems true: most note-taking fanatics seem to actually be quite ineffective thinkers. This should give one pause that it’s important to [[Write about what you read to internalize texts deeply]]! I suspect that the key issue here is [[Better note-taking misses the point; what matters is “better thinking”]]; such people are focused on “better note-taking.” [[People who write extensively about note-writing rarely have a serious context of use]].
 
-That said: [Many eminent thinkers need a writing surface to think](Many%20eminent%20thinkers%20need%20a%20writing%20surface%20to%20think.md). 
+That said: [[Many eminent thinkers need a writing surface to think]]. 
 
 Here’s a more optimistic take. There are (and have always been) people who don’t write notes and are very effective. On the margin, writing may not help them much. But effective people are rare; most people aren’t. On the margin, writing may allow otherwise-ineffective people to join them. And we wouldn’t necessarily see this effect in the distribution of people out in the world, if e.g. writing were culturally unpopular, or if getting the benefits required special techniques/knowledge which were not widely known. I think it’s likely that this conjecture is true to *some* extent, but I’m not at all confident that the effect size matters.
 

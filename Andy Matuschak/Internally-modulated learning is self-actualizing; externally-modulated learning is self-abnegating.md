@@ -6,9 +6,9 @@ Outside educational institutions, learning is usually an instrumental goal on th
 
 By contrast, some learning behaviors are primarily modulated by external forces. “Machine learning’s going to be a big thing in my field, so I guess I should learn about it.” “As a supposedly intellectual person, I feel like I should know about Plato’s arguments.” “I’ve heard a lot of people talking about this book; I guess I should read it!” The learning will stop when the sense of obligation stops. Whether rewarding or painful, these activities abdicate intellectual agency to external forces. This is self-abnegating behavior.
 
-This is one reason why [Enabling environments’ activities directly serve an intrinsically meaningful purpose](Enabling%20environments’%20activities%20directly%20serve%20an%20intrinsically%20meaningful%20purpose.md) .
+This is one reason why [[Enabling environments’ activities directly serve an intrinsically meaningful purpose]] .
 
-See also [Educational objectives often subvert themselves](Educational%20objectives%20often%20subvert%20themselves.md).
+See also [[Educational objectives often subvert themselves]].
 
 # Source
 

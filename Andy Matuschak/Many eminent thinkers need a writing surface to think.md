@@ -1,14 +1,5 @@
 # Many eminent thinkers need a writing surface to think
-
-Type of Link: 📝 Article
-Category talked about: Learning, Note taking
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
-
-# **Many eminent thinkers need a writing surface to think**
-
-Many of the most effective people I know—alive and dead—seem unable to do serious thinking without a writing surface in front of them. It seems to extend cognition somehow: perhaps it effectively extends one’s [Span of working memory](Span%20of%20working%20memory.md), or perhaps moving the fingers somehow contributes to the thinking.
+Many of the most effective people I know—alive and dead—seem unable to do serious thinking without a writing surface in front of them. It seems to extend cognition somehow: perhaps it effectively extends one’s [[Span of working memory]], or perhaps moving the fingers somehow contributes to the thinking.
 
 For instance, in an interview with Charles Weiner, Richard Feynman said that for him (1973) the paper’s not just a record of work done in his head:
 

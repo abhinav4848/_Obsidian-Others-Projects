@@ -7,7 +7,7 @@ If you had to set one metric to use as a leading indicator for yourself as a kno
 
 Note-writing helps writing accumulate: these notes are the fuel for the Executable strategy for writing, particularly if you Create speculative outlines while you write.
 
-A caveat: [Better note-taking misses the point; what matters is “better thinking”](Better%20note-taking%20misses%20the%20point;%20what%20matters%20is%20“better%20thinking”.md) 
+A caveat: [[Better note-taking misses the point; what matters is “better thinking”]] 
 
 # Reference
 1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB)
