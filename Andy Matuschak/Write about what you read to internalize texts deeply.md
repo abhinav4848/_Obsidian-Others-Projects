@@ -1,6 +1,6 @@
 # Write about what you read to internalize texts deeply
 If you want to deeply internalize something you’re reading, the best way I know is to write about it: 
-- because [Understanding requires effortful engagement](Understanding%20requires%20effortful%20engagement.md)
+- because [[Understanding requires effortful engagement]]
     - and in particular, [[Writing forces sharper understanding]] 
     - remember: [[Collecting material feels more useful than it usually is]] 
 - because otherwise you won’t [[Do your own thinking]]

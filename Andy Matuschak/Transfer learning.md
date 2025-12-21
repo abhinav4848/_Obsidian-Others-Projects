@@ -1,5 +1,5 @@
 # Transfer learning
-See also [Desirable difficulties, after Bjork](Desirable%20difficulties,%20after%20Bjork.md) 
+See also [[Desirable difficulties, after Bjork]] 
 
 For an active area of interest, see: [[Retrieval practice and transfer learning]] .
 # Reference

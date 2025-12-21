@@ -8,7 +8,7 @@ Of course, separately, people will often struggle to remember details because th
 
 See [2023-03-31 Patreon letter - Memory systems and problem-solving practice](https://notes.andymatuschak.org/zM6bNwCLbGwMQFdHqoEYgfr) for Andy Matuschak’s observations of this with a student.
 
-[Asking people questions while they read a text improves performance on untested contents](Asking%20people%20questions%20while%20they%20read%20a%20text%20improves%20performance%20on%20untested%20contents.md); it’s proposed that this is in part because these questions put the reader into a more attentive state. See also [[The mnemonic medium may push readers to read more slowly and attentively]] .
+[[Asking people questions while they read a text improves performance on untested contents]]; it’s proposed that this is in part because these questions put the reader into a more attentive state. See also [[The mnemonic medium may push readers to read more slowly and attentively]] .
 
 # Reference
 1. [Andy Link](https://notes.andymatuschak.org/z59PYkSdPeznr95fco4GRQx)

@@ -1,29 +1,18 @@
 # It’s hard to do difficult creative work for more than a few hours a day
-
-Type of Link: 📝 Article
-Category talked about: Psychology
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
-
-# **It’s hard to do difficult creative work for more than a few hours a day**
-
 I notice that when working on difficult creative projects, I usually can’t meaningfully work for more than 4 or 5 hours a day, and most days it’s more like 3. By contrast, when I’m programming or doing other relatively more mechanical work, diminishing returns occur at more like 8 or 9 hours. Sometimes more if the work is somewhat varied, or if it’s very well-specified.
 
 After a few hours of intense creative work in a day, the marginal hour usually starts to feel much more difficult. I’ll have trouble maintaining focus. I’ll notice myself becoming detached and caring less (which can lead to awful persistent knock-on effects!).
 
-This surprisingly low limit is a common trope among writers, who often write in a focused session in the morning, then spend the rest of the day doing other tasks and relaxing. And yet… this is not always true: [Some people have extraordinary energy for creative work](Some%20people%20have%20extraordinary%20energy%20for%20creative%20work.md) 
+This surprisingly low limit is a common trope among writers, who often write in a focused session in the morning, then spend the rest of the day doing other tasks and relaxing. And yet… this is not always true: [[Some people have extraordinary energy for creative work]] 
 
 While many creatives report doing only a few hours of core work per day, they often gain more effective hours by {working on the weekend}.
 
 Related:
-
-- [Inappropriate time pressures often harm creative work](https://notes.andymatuschak.org/z9TuEpnqEtLdy2TWWVicLsU) (No need for internal linking this or next one)
-- [Constraints often breed creativity](https://notes.andymatuschak.org/zDbtYWz1F7MzeihPJvnTuD3)
+- [[Inappropriate time pressures often harm creative work]] 
+- [[Constraints often breed creativity]]
 - [Timekeeper](https://notes.andymatuschak.org/zYFrEDf9ipAe55K8FyCspt4) (Restricted access to Andy’s note)
 
 # References
-
 1. 
 
 [Ericsson et al - The Role of Deliberate Practice in the Acquisition of Expert Performance](https://notes.andymatuschak.org/zEkCRJXM9NYCXxzFoDaNhL)

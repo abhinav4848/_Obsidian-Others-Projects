@@ -1,8 +1,3 @@
-Type of Link: 📝 Article
-Category talked about: Learning
-Author: Andy Matuschak
-Completion Status: Started
-Last edited time: January 18, 2024 7:55 PM
 # Understanding requires effortful engagement
 If you want to really understand an idea, you have to grapple with it.
 
@@ -11,7 +6,7 @@ You can’t just read something, listen to a lecture, or hear a notion in a conv
 As Stephen Kosslyn notably says,
 > The first maxim is “Think it through.” The key idea is very simple: the more you think something through, paying attention to what you are doing, the more likely you are to remember it.
 
-From a [Cognitive psychology](Cognitive%20psychology.md) perspective, a common explanation is that this kind of engagement is necessary to 
+From a [[Cognitive psychology]] perspective, a common explanation is that this kind of engagement is necessary to 
 1. infer propositions which aren’t explicitly stated or demonstrated; and
 2. to connect new observations with prior knowledge. (see e.g. [[Comprehension - Kintsch]] 
 This notion is a core idea of [[Constructivism]], and it’s why naive transmissionism doesn’t work.

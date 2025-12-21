@@ -1,13 +1,5 @@
 # Some people have extraordinary energy for creative work
-
-Type of Link: 📝 Article
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
-
-# **Some people have extraordinary energy for creative work**
-
-Contra [It’s hard to do difficult creative work for more than a few hours a day](It’s%20hard%20to%20do%20difficult%20creative%20work%20for%20more%20than%20a%20few%20hours%20a%20day.md):
+Contra [[It’s hard to do difficult creative work for more than a few hours a day]]:
 
 From [Stephen Malina - Energetic Aliens](https://stephenmalina.com/post/2021-07-01-energetic-aliens-among-us/):
 
@@ -57,29 +49,22 @@ From [Stephen Malina - Energetic Aliens](https://stephenmalina.com/post/2021-07
 ---
 
 - Q. Name two examples of mathematicians with unusual amounts of energy/stamina.
-    
     A. Grothendieck, Erdös, Donald Knuth
     
 - Q. Name two examples of scientists with unusual energy/stamina.
-    
     A. George Church, Lee Hood, Donald Knuth
     
 - Q. Name two examples of politicians with unusual energy/stamina.
-    
     A. Robert Moses, Napoleon, LBJ
     
 - Q. Name two examples of authors with unusual energy/stamina.
-    
     A. Isaac Asimov, Honore de Balzac, Danielle Steel
     
 - Q. In what sense was Isaac Asimov unusually productive as an author?
-    
     A. He published more than three hundred novels, averaging more than one per month for much of that time.
     
 - Q. [Kanjun Qiu](https://notes.andymatuschak.org/Kanjun_Qiu)’s theory of how these people have so much energy?
-    
     A. They’ve overcome [Many people find difficult creative work mostly unpleasant in the moment](https://notes.andymatuschak.org/Many_people_find_difficult_creative_work_mostly_unpleasant_in_the_moment) (No access on Andy’s Site), find the creative work deeply joyful.
-    
 
 # References
 

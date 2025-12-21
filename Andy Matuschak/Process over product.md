@@ -1,27 +1,19 @@
 # Process over product
-
-Type of Link: 📝 Article
-Category talked about: Psychology, Self-Help
-Author: Andy Matuschak
-Completion Status: Started
-Last edited time: January 18, 2024 7:55 PM
-
-# Process over product
-Creative work requires openness, interplay, slack, [Sense of abundance](Sense%20of%20abundance.md). Fixation on output often creates [Scarcity mindset](Scarcity%20mindset.md), subverts its own goal. Also readily makes creative work miserable.
+Creative work requires openness, interplay, slack, [[Sense of abundance]]. Fixation on output often creates [[Scarcity mindset]], subverts its own goal. Also readily makes creative work miserable.
 
 Related:
-- [Inappropriate time pressures often harm creative work](https://notes.andymatuschak.org/z9TuEpnqEtLdy2TWWVicLsU)
-- [Momentum as explore-exploit heuristic in creative work](https://notes.andymatuschak.org/zBsWyd6EMxcvhwNzqeHzADC)
-- [Recast celebrations as reflective spaces, rather than rewards](https://notes.andymatuschak.org/z4dnHytTo3WGoqbHfVb4YRn)
-- [A rigid fixation on “focus” can harm creative work](https://notes.andymatuschak.org/z6tpWc9UuqskrUAVvwePuWV)
-- [Remember I still love you](https://notes.andymatuschak.org/zRb4YASez79kbVav9Lfm4JA)
+- [[Inappropriate time pressures often harm creative work]]
+- [[Momentum as explore-exploit heuristic in creative work]]
+- [[Recast celebrations as reflective spaces, rather than rewards]]
+- [[A rigid fixation on “focus” can harm creative work]]
+- [Remember I still love you](https://notes.andymatuschak.org/zRb4YASez79kbVav9Lfm4JA) (no access on Andy's site)
 
 # References
 - Collecting some related material:
     - [Research as Understanding - Kanjun Qiu](https://notes.andymatuschak.org/zDKZVL9Fr1NnDRsQD2B4EW1) (fixation on “producing novel insights” misleads from how research really happens—chasing questions you want to answer)
-    - [Get curious](https://notes.andymatuschak.org/z5zoV8TdSds59vQEkqp3JEz), [Get playful](https://notes.andymatuschak.org/zQ48c3CqTAtpJJ2itF7Uu85)
+    - [[Get curious]], [[Get playful]]
     - [Stop trying to try and try, after Soares](https://notes.andymatuschak.org/zQTBAGqGvVQVvRntB69GNPi) (fixation on outcome makes failure much more salient)
-    - [Quit Your Job - Wolf Tivy](https://notes.andymatuschak.org/z5beUfpCZpi6fibB4vFfhzF) (“you won’t find interesting novelty by chasing along known value gradients”)
+    - [[Quit Your Job - Wolf Tivy]] (“you won’t find interesting novelty by chasing along known value gradients”)
 
 - [Jess Miller](https://notes.andymatuschak.org/zPMHPDfjQLgWKM5Pn7YjULR)’s [Becoming a magician – Autotranslucence](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/)
     > You can’t keep your gaze tightly fixed on the outcome you want because it will lock your mind onto the strategies you currently have for meeting them, which by definition probably don’t work (otherwise you would have succeeded already and you wouldn’t need to use the strategy).
@@ -46,4 +38,4 @@ Related:
 > (via [Michael Bernstein - CS 197 - Vectoring](https://notes.andymatuschak.org/z2V5DSG69GLa71V6yRKV74C)—can’t find the original reference)
 
 # References to original material
-1. [Process over product](https://notes.andymatuschak.org/zY4QE4Q6NJpGZZh4Binv2xB)
+1. [[Process over product]]

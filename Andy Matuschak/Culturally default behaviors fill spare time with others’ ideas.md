@@ -5,7 +5,7 @@ Some meeting software has meters which display how much each participant is spea
 
 It’s odd that this seems to be the default situation, even in nominally creative knowledge work roles. See also: [[Displacement activity]], [[People prefer doing to thinking]].
 
-One useful antidote: [Get bored](Get%20bored.md).
+One useful antidote: [[Get bored]].
 
 ---
 

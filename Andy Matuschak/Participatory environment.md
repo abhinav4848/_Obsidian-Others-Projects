@@ -10,9 +10,9 @@ Last edited time: January 18, 2024 7:55 PM
 
 In some environments, the core activities are fundamentally active; much of the experience is substantially created through the participants’ efforts. I call these *participatory environments*.
 
-Participatory environments may or may not have been intentionally authored. Media environments are almost always intentionally authored, but many social and natural environments are not. Part of the experience in authored participatory environments may be an [Enacted experience](Enacted%20experience.md).
+Participatory environments may or may not have been intentionally authored. Media environments are almost always intentionally authored, but many social and natural environments are not. Part of the experience in authored participatory environments may be an [[Enacted experience]].
 
-[Participatory environments support learning](Participatory%20environments%20support%20learning.md)
+[[Participatory environments support learning]]
 
 Participatory environments are often much more pleasurable for participants, perhaps because they induce [Flow (What is a state of flow?)](Flow%20(What%20is%20a%20state%20of%20flow%20).md); see this description of flow from Daniel Zalewski’s [New Yorker profile](https://www.newyorker.com/magazine/2009/02/23/the-background-hum) of Ian McEwan ([via](https://www.chrishecker.com/Benevolent_Dissociation) [Chris Hecker](https://notes.andymatuschak.org/zADKqoutkmiqJDqtQv46o2v); emphasis mine):
 
@@ -29,14 +29,12 @@ A dinner party is generally a participatory environment. A climbing wall (natura
 
 Most software interfaces establish participatory environments. One common class of counter-example is media players: VLC, Pandora, Kindle, etc. This software merely presents media which itself doesn’t establish a participatory environment.
 
-Despite their aspirations, most explorables and [Executable books](https://notes.andymatuschak.org/zLNcy2JiH3AGNaZjYkHzK9P) do not establish participatory environments. The default behavior for the participant is to scroll and to read.
+Despite their aspirations, most explorables and [[Executable books]] do not establish participatory environments. The default behavior for the participant is to scroll and to read.
 
 # Disclaimer/claimer
-
 This term has significant overlap with prior concepts in education, cognitive science, and sociology like “active learning environment” and “embodied experiences” and “situated cognition” etc, but I’m trying to transcend those contexts and escape those terms’ baggage, so I’m intentionally building up a new term.
 
 # Reference
-
 1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k&stackedNotes=zLhoRUyjKU665EY16u4XXJy&stackedNotes=z2hQEhqWkdRLL9JUwfawZZx&stackedNotes=z8ccRLda8BqJafNxjQBpzis&stackedNotes=zES5WRczfGgXptmM9tSCwvy&stackedNotes=zMybAxZcdkJHKSATuSZbEhz&stackedNotes=zUR6RM21Sa88cFDfC47svVv&stackedNotes=z26C6ing3sqiZMHRVFuT6xn&stackedNotes=zTpJdbe6ub7uhBFLuHkFsrT&stackedNotes=zWoEKdbmtbSgAp1tZjU4usY&stackedNotes=zD8D8PPRBDEFk3JeM2vaWrn&stackedNotes=zXxUPAFZBthh97wAKBEj7Tq&stackedNotes=zAhASsrt9VhRDzh25hsLsyD&stackedNotes=z3zo16mx2Dp3PB4J1ty1DGy&stackedNotes=z7JRyqSwVbW2a8U44w2RkR6&stackedNotes=zS33ebqMsefTfnh8cwgHYFR&stackedNotes=zQKe7JZs1CYqHBnLyDhMQYQ&stackedNotes=z7d63BYfJrd81VFE25jkcDd&stackedNotes=zVdb1Ku6fzVAFP5A6BhBbWR&stackedNotes=zLCdZ9xcHzjks8vgoGkycSr&stackedNotes=zQDtyijWebs1Su1Z8rZptot&stackedNotes=z92TGMiBsnraf5KXxSTNkBJ&stackedNotes=zRWEWHx4cQyqQWRh26gp7ad)
 2. Conversation with [Frank Lantz](https://notes.andymatuschak.org/zPLafkamDFQ13mYvxRcwdoV), 2019-05-07
 3. [Shirky, C. (2008, April 23). Gin, Television, and Social Surplus. Web 2.0 Conference.](https://notes.andymatuschak.org/zUe2diWMEmBtJCR9XptoUtq)

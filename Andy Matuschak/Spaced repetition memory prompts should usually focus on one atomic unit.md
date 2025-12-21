@@ -4,7 +4,7 @@ URLs:
 ---
 # Spaced repetition memory prompts should usually focus on one atomic unit
 
-If you’ve just learned a new way to cook peas, you might write a prompt for a [Spaced Repetition memory system](Spaced%20Repetition%20memory%20system.md) like: “Q. How do I cook peas sous vide?” “A. 18m @ 70°C”. But I find that questions like this are usually a struggle—I’ll frequently forget the answer. Questions which draw on multiple independent ideas seem to trip over this problem.
+If you’ve just learned a new way to cook peas, you might write a prompt for a [[Spaced Repetition memory system]] like: “Q. How do I cook peas sous vide?” “A. 18m @ 70°C”. But I find that questions like this are usually a struggle—I’ll frequently forget the answer. Questions which draw on multiple independent ideas seem to trip over this problem.
 
 Why is it important that questions focus on one idea? Michael Nielsen (2018) suggests:
 

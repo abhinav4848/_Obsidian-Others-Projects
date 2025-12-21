@@ -1,33 +1,28 @@
-Type of Link: 📝 Article
-Category talked about: Psychology
-Details: No further Notes linking at this time. 
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
-
+---
+URLs:
+  - https://notes.andymatuschak.org/z2huUCj3ko99HdzFcmEDfZD
+---
 # Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes
 
 The Apollo program was an incredibly powerful [[Enabling environment]], but it did not emerge from a project aiming to give scientists lots of great opportunities for personal growth. Rather, it was about putting people on the moon (and, er, saving the world from the Soviets). The enabling environment was a byproduct of that deeply meaningful effort.
 
-Likewise, when Pixar created its revolutionary animation tools, many teams had been working on computer graphics for years, but Pixar’s systems emerged from a zealous pursuit of a storytelling dream: [Pixar’s movies and technology development act as coupled flywheels](Pixar’s%20movies%20and%20technology%20development%20act%20as%20coupled%20flywheels.md). 
+Likewise, when Pixar created its revolutionary animation tools, many teams had been working on computer graphics for years, but Pixar’s systems emerged from a zealous pursuit of a storytelling dream: [[Pixar’s movies and technology development act as coupled flywheels]]. 
 
 Cathedrals! University research labs! Mathematica! They all follow this pattern. 
 
-Practically speaking, such contexts provide deeply meaningful feedback: [[Effective system design requires insights drawn from serious contexts of use]]. They also avoid the issues described in [Authored environments are significantly colored by authors’ motivations](https://notes.andymatuschak.org/z4wZFERkVVVVy6bN6BE8kQz). But perhaps most importantly, these projects also provide the intense personal connection which makes great work possible.
+Practically speaking, such contexts provide deeply meaningful feedback: [[Effective system design requires insights drawn from serious contexts of use]]. But perhaps most importantly, these projects also provide the intense personal connection which makes great work possible.
 
 Some implications:
+- [[Powerful enabling environments focus on expert use]]
+- [[Enabling environments focus on doing what’s enabled]]
 
-- [Powerful enabling environments focus on expert use](https://notes.andymatuschak.org/zY3aLuvtsYS54QnymGKFGwg)
-- [Enabling environments focus on doing what’s enabled](https://notes.andymatuschak.org/z2etsLyP1LJUwNDPCwvRdUG)
-
-Is it possible to make the tail wag the dog? To initiate a project pursuing some intrinsically meaningful purpose *in order to* reap the enabling environments which emerge in that context? It’s not clear. The most likely failure mode is that the resulting project wouldn’t *really* create the intense personal connection required. But this is what we’re trying for with [Ladder](https://notes.andymatuschak.org/zxwaemFm6bPsitX4m5fQus).
+Is it possible to make the tail wag the dog? To initiate a project pursuing some intrinsically meaningful purpose *in order to* reap the enabling environments which emerge in that context? It’s not clear. The most likely failure mode is that the resulting project wouldn’t *really* create the intense personal connection required. But this is what we’re trying for with [Ladder](https://notes.andymatuschak.org/zxwaemFm6bPsitX4m5fQus) (empty note).
 
 Building on [Seymour Papert. (2005). You Can’t Think About Thinking Without Thinking About Thinking About Something. Contemporary Issues in Technology and Teacher Education, 5(3), 366–367.](https://notes.andymatuschak.org/zLbEbS51U3uruKzgVusR5kf): you can’t teach children “logical thinking” in a vacuum, in an abstract sense; in the same way, you can’t make “tools for thought” in an abstract sense. You have to make a tool for thinking about something in particular; likewise, you have to understand logical thinking *about* something in particular.
 
 ---
 
 # References
-
 [https://github.com/mnielsen/tpft/blob/master/big_picture.md](https://github.com/mnielsen/tpft/blob/master/big_picture.md) 
 
 > The most powerful tools are not developed in isolation. Rather, they arise as part of projects done for their own, intrinsic reasons. Think of the art of stained glass windows, developed in service of God in the great cathedrals. Or of the development of computer animation in service of story by Pixar. These larger goals orient the development of the tools, ensuring they can be used seriously. This sounds like a platitude, but is often violated. “Tools” for mathematics or art or etc are often developed by people who are not deeply active in the area themselves. Unless they do extremely intensive user research—effectively, a collaboration with serious users—it’s extremely difficult for them to build anything other than plausible-seeming toys.
@@ -49,6 +44,5 @@ Quote from [Alan Kay](https://notes.andymatuschak.org/zFBZqhTcPEXWpvTLYjgb9qG)�
 > 
 
 # References
-
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zFuk9QqspNYHAgvzZc33ZGH&stackedNotes=zDXBGEWk7msyonQ2Ngnrf8h&stackedNotes=zB74H9CuWrosEuqve7jZyCo&stackedNotes=zRbqwbnhmVdfLtKxMCibMoX&stackedNotes=zH7AVUkqYYK7xmoAn8PTpAV&stackedNotes=z2qjVZKqSqrqkhFhvUpPDtd&stackedNotes=zQvbnYfHdG1gARTbtC4pje6&stackedNotes=zKBhqUkoRWoNV72aG21GYst&stackedNotes=zKzUzQENhyEDnuwPUhh2EQM&stackedNotes=zME6gV6mc1mQ2KDE5acyho8&stackedNotes=z2iksmfhifvy5a16Abv5MUW&stackedNotes=zHTevHGZQPu8QHpRhUmtsuK&stackedNotes=zSve33D7x1qe5WUjojDcM9y&stackedNotes=z2q7U5ZvXeDxXD6vXAbZb9a&stackedNotes=zWzVw2VM4TPjpKXnHUfLaso&stackedNotes=zMmH3GBLKotdP4t1sdSvEQJ&stackedNotes=zL7p6gaECTXdiirrFVSUTAW&stackedNotes=z5zoV8TdSds59vQEkqp3JEz&stackedNotes=zDKZVL9Fr1NnDRsQD2B4EW1&stackedNotes=z2huUCj3ko99HdzFcmEDfZD)
+1. [Andy Link](https://notes.andymatuschak.org/z2huUCj3ko99HdzFcmEDfZD)
 2. Direct link: [Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes](https://notes.andymatuschak.org/z2huUCj3ko99HdzFcmEDfZD) 
