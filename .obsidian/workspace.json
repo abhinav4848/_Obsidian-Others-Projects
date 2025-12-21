@@ -11,14 +11,12 @@
             "id": "bdd7bdec3fd37772",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Andy Matuschak/Paul Graham - How to Think for Yourself.md",
-                "mode": "source",
-                "source": false
+                "file": "Andy Matuschak/_attachments/23159.png"
               },
-              "icon": "lucide-file",
-              "title": "Paul Graham - How to Think for Yourself"
+              "icon": "lucide-image",
+              "title": "23159"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andy Matuschak/Paul Graham - How to Think for Yourself.md",
+                "file": "Andy Matuschak/_attachments/23159.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Paul Graham - How to Think for Yourself"
+              "title": "Backlinks for 23159"
             }
           },
           {
@@ -183,8 +181,9 @@
       "media-sync:Media sync": false
     }
   },
-  "active": "e02a589a9b768801",
+  "active": "bdd7bdec3fd37772",
   "lastOpenFiles": [
+    "Andy Matuschak/Paul Graham - How to Think for Yourself.md",
     "Andy Matuschak/_attachments/23159.png",
     "_media-sync_resources/2025/12/20/01949.png.md",
     "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
