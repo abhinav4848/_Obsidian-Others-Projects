@@ -1,9 +1,10 @@
 ---
 aliases:
   - Cloze deletion prompts seem to produce less understanding than question/answer pairs in spaced repetition memory systems
+URLs:
+  - https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zTnTob5JrFYF9NpU73Zg5a1&stackedNotes=z4aipv9wyMg4qZGANaVjkrJ&stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zAt1K9ARQYguinoHH8cfaqQ&stackedNotes=Cloze_deletion_prompts_seem_to_produce_less_understanding_than_question%2Fanswer_pairs_in_spaced_repetition_memory_systems&stackedNotes=zSiuztCZ594AZuCweRghcXT&stackedNotes=zJoWJEpRvrjnm2zL3gdxBjg&stackedNotes=zSisETSpZBCgZH4rFNHRcnC&stackedNotes=z3NDe3nR9hvqRqWWtvZdxe7
 ---
 # Cloze deletion prompts seem to produce less understanding than question-answer pairs in spaced repetition memory systems
-
 It’s much easier to write [[Cloze deletion]] prompts: you can just copy/paste some source text and delete some phrase. But I find that prompts created this way tend to result in shallower understanding. After several repetitions, I’ll remember the answer, but it often feels like I’m pattern matching ([[Spaced repetition memory prompts should be written to discourage shallow “pattern matching”]]) rather than deeply integrating the idea into my conceptual network. This is probably because cloze deletions usually contain lots of extraneous information one can use as “hints.”
 
 Other factors which may be involved:

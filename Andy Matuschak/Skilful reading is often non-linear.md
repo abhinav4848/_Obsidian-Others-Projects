@@ -1,5 +1,5 @@
 # Skilful reading is often non-linear
-Books are almost always written with highly linear structures, and the form of the medium itself encourages the reader to move through the text linearly. But skilful readers *rarely* read linearly. Sometimes they read with intention—looking for how the book can help them answer a specific question. Or they might do a sparse first pass to understand the book’s structure (see [Inspectional reading](Inspectional%20reading.md)). Or they might start with the index and focus on the most relevant passages.
+Books are almost always written with highly linear structures, and the form of the medium itself encourages the reader to move through the text linearly. But skilful readers *rarely* read linearly. Sometimes they read with intention—looking for how the book can help them answer a specific question. Or they might do a sparse first pass to understand the book’s structure (see [[Inspectional reading]]). Or they might start with the index and focus on the most relevant passages.
 
 It’s interesting to think about what kind of medium would support “best practices” by default here.
 

@@ -1,18 +1,13 @@
+---
+URLs:
+  - https://notes.andymatuschak.org/z9Uq4yzBT1QaBU8twwyvm7P?stackedNotes=zUR6RM21Sa88cFDfC47svVv&stackedNotes=zCQYRYZTQRmrR4bFGCzCMkR&stackedNotes=zF9BD4B7W9MaknXXn3Uhvox&stackedNotes=zVdb1Ku6fzVAFP5A6BhBbWR
+---
 # Moore method
-
-Type of Link: 📝 Article
-Category talked about: Learning
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
-
-# **Moore method**
-
-An [Inquiry-based learning](Inquiry-based%20learning.md) method used by mathematician Robert Lee Moore. Students generally aren’t allowed to read any texts on the subject[1](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k&stackedNotes=zLhoRUyjKU665EY16u4XXJy&stackedNotes=z2hQEhqWkdRLL9JUwfawZZx&stackedNotes=z8ccRLda8BqJafNxjQBpzis&stackedNotes=zES5WRczfGgXptmM9tSCwvy&stackedNotes=zMybAxZcdkJHKSATuSZbEhz&stackedNotes=zUR6RM21Sa88cFDfC47svVv&stackedNotes=z26C6ing3sqiZMHRVFuT6xn&stackedNotes=zTpJdbe6ub7uhBFLuHkFsrT&stackedNotes=zWoEKdbmtbSgAp1tZjU4usY&stackedNotes=zD8D8PPRBDEFk3JeM2vaWrn&stackedNotes=zXxUPAFZBthh97wAKBEj7Tq&stackedNotes=zAhASsrt9VhRDzh25hsLsyD&stackedNotes=z3zo16mx2Dp3PB4J1ty1DGy&stackedNotes=z7JRyqSwVbW2a8U44w2RkR6&stackedNotes=zS33ebqMsefTfnh8cwgHYFR&stackedNotes=zQKe7JZs1CYqHBnLyDhMQYQ&stackedNotes=z7d63BYfJrd81VFE25jkcDd&stackedNotes=zVdb1Ku6fzVAFP5A6BhBbWR); instead, they’re given basic axioms and definitions, and asked to find proofs themselves for the sequence of theorems which might otherwise be presented in lecture. Lectures are absent; during class meetings, students are asked to prove the theorems they’re assigned. Students are meant to work alone[2](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k&stackedNotes=zLhoRUyjKU665EY16u4XXJy&stackedNotes=z2hQEhqWkdRLL9JUwfawZZx&stackedNotes=z8ccRLda8BqJafNxjQBpzis&stackedNotes=zES5WRczfGgXptmM9tSCwvy&stackedNotes=zMybAxZcdkJHKSATuSZbEhz&stackedNotes=zUR6RM21Sa88cFDfC47svVv&stackedNotes=z26C6ing3sqiZMHRVFuT6xn&stackedNotes=zTpJdbe6ub7uhBFLuHkFsrT&stackedNotes=zWoEKdbmtbSgAp1tZjU4usY&stackedNotes=zD8D8PPRBDEFk3JeM2vaWrn&stackedNotes=zXxUPAFZBthh97wAKBEj7Tq&stackedNotes=zAhASsrt9VhRDzh25hsLsyD&stackedNotes=z3zo16mx2Dp3PB4J1ty1DGy&stackedNotes=z7JRyqSwVbW2a8U44w2RkR6&stackedNotes=zS33ebqMsefTfnh8cwgHYFR&stackedNotes=zQKe7JZs1CYqHBnLyDhMQYQ&stackedNotes=z7d63BYfJrd81VFE25jkcDd&stackedNotes=zVdb1Ku6fzVAFP5A6BhBbWR), and they prove theorems in class individually, rotating only when one student can’t complete the proof.
+An [Inquiry-based learning](Inquiry-based%20learning.md) method used by mathematician Robert Lee Moore. Students generally aren’t allowed to read any texts on the subject [1]; instead, they’re given basic axioms and definitions, and asked to find proofs themselves for the sequence of theorems which might otherwise be presented in lecture. Lectures are absent; during class meetings, students are asked to prove the theorems they’re assigned. Students are meant to work alone[2], and they prove theorems in class individually, rotating only when one student can’t complete the proof.
 
 Moore sums up his approach with this principle, typical of inquiry-based learning: “that student is taught the best who is told the least.”
 
-I expect this would induce a very strong version of the [Self-explanation effect](Self-explanation%20effect.md). Related, also, to the reciprocal instruction method. Like all inquiry-based methods, I expect that low-knowledge students would really struggle.
+I expect this would induce a very strong version of the [[Self-explanation effect]]. Related, also, to the reciprocal instruction method. Like all inquiry-based methods, I expect that low-knowledge students would really struggle.
 
 Reminds me a bit of a much more formal version of Constance Kamii’s “Young Children Reinvent Arithmetic.” But much more explicitly focused on agency and fostering a passion for inquiry; e.g. McLaughlin (2008):
 
@@ -25,8 +20,7 @@ For McLoughlin, in particular, part of the point of this method is that it encou
 2. Cohen (1982) has undergrads work in teams of 2-3.
 
 # Reference
-
-1. 
+1. [Andy Link](https://notes.andymatuschak.org/z9Uq4yzBT1QaBU8twwyvm7P?stackedNotes=zUR6RM21Sa88cFDfC47svVv&stackedNotes=zCQYRYZTQRmrR4bFGCzCMkR&stackedNotes=zF9BD4B7W9MaknXXn3Uhvox&stackedNotes=zVdb1Ku6fzVAFP5A6BhBbWR)
 - [Moore method - Wikipedia](https://en.wikipedia.org/wiki/Moore_method)
 - Chalice, D. R. (1995). How to Teach a Class by the Modified Moore Method. The American Mathematical Monthly, 102(4), 317–321. [https://doi.org/10.1080/00029890.1995.11990577](https://doi.org/10.1080/00029890.1995.11990577)
 - Cohen, D. W. (1982). A Modified Moore Method for Teaching Undergraduate Mathematics. The American Mathematical Monthly, 89(7), 473–490. [https://doi.org/10.1080/00029890.1982.11995481](https://doi.org/10.1080/00029890.1982.11995481)

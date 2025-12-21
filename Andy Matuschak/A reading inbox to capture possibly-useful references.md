@@ -16,14 +16,13 @@ So, when constructing a reading inbox, the important considerations are:
 3. zero-friction listing across item type
 4. the inbox should encourage lingering items to be removed (e.g. it should be obvious when one has been passed over many times)
 
-Interestingly, no existing “read later” or reference management system fits these criteria. They’re usually siloed by content type, and none of them encourages lingering items to be removed. See also: [Beware automatic import into the reading inbox](Beware%20automatic%20import%20into%20the%20reading%20inbox.md).
+Interestingly, no existing “read later” or reference management system fits these criteria. They’re usually siloed by content type, and none of them encourages lingering items to be removed. See also: [[Beware automatic import into the reading inbox]].
 
-The reading inbox is an important release valve for things I encounter when on my smartphone (see [Use phones to collect and triage, not (usually) to read](Use%20phones%20to%20collect%20and%20triage,%20not%20(usually)%20to%20read.md)).
+The reading inbox is an important release valve for things I encounter when on my smartphone (see [[Use phones to collect and triage, not (usually) to read]]).
 
-Related: [Incremental reading](Incremental%20reading.md) 
+Related: [[Incremental reading]] 
 
 # Reference
-
 1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zFuk9QqspNYHAgvzZc33ZGH&stackedNotes=zDXBGEWk7msyonQ2Ngnrf8h) 
 2. [Note-Taking when Reading the Web and RSS • Zettelkasten Method](https://zettelkasten.de/posts/reading-web-rss-note-taking/)
 

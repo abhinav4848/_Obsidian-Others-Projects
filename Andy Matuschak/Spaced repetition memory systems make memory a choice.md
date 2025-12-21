@@ -1,5 +1,5 @@
 # Spaced repetition memory systems make memory a choice
- [[Writing good spaced repetition memory prompts is hard]], but here’s one useful mental model. When you make a prompt for a [Spaced Repetition memory system](Spaced%20Repetition%20memory%20system.md), you are *giving your future self a recurring task*. Prompt design is task design.
+ [[Writing good spaced repetition memory prompts is hard]], but here’s one useful mental model. When you make a prompt for a [[Spaced Repetition memory system]], you are *giving your future self a recurring task*. Prompt design is task design.
 
 So if you’re writing prompts to help learn a particular idea, you must design tasks which reinforce your understanding of that idea when you perform them. If you’re writing prompts to support creative work, you must design tasks which cause you to notice possibilities or connections, and so on.
 

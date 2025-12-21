@@ -1,10 +1,4 @@
-Type of Link: 📝 Article
-Category talked about: Learning
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
-
-# **Internally-modulated learning is self-actualizing; externally-modulated learning is self-abnegating**
+# Internally-modulated learning is self-actualizing; externally-modulated learning is self-abnegating
 
 Learning itself is rarely a goal, even when it appears to be. Learning behaviors are generally modulated by other internal or external forces.
 

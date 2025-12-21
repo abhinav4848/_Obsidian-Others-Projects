@@ -1,3 +1,7 @@
+---
+URLs:
+  - https://notes.andymatuschak.org/z7d63BYfJrd81VFE25jkcDd
+---
 # Enabling environments focus on creating opportunities for growth and action, not on skill-building
 
 A great research lab isn’t fixated on instilling heaps of specific knowledge and skills in its graduate students. It enables by creating great opportunities for personal growth, and by highlighting bridges to opportunities for *action* based on that growth. This is generally true of an effective [Enabling environment](Enabling%20environment.md).
@@ -8,7 +12,7 @@ This heuristic gives us a new way to view existing media. For instance, books ar
 
 > What would it mean to design “books” which are primarily about creating growth opportunities for people, and bridges to opportunities for action based on that growth?
 
-See e.g. [Moore method](Moore%20method.md) .
+See e.g. [[Moore method]] .
 
 # Reference
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k&stackedNotes=zLhoRUyjKU665EY16u4XXJy&stackedNotes=z2hQEhqWkdRLL9JUwfawZZx&stackedNotes=z8ccRLda8BqJafNxjQBpzis&stackedNotes=zES5WRczfGgXptmM9tSCwvy&stackedNotes=zMybAxZcdkJHKSATuSZbEhz&stackedNotes=zUR6RM21Sa88cFDfC47svVv&stackedNotes=z26C6ing3sqiZMHRVFuT6xn&stackedNotes=zTpJdbe6ub7uhBFLuHkFsrT&stackedNotes=zWoEKdbmtbSgAp1tZjU4usY&stackedNotes=zD8D8PPRBDEFk3JeM2vaWrn&stackedNotes=zXxUPAFZBthh97wAKBEj7Tq&stackedNotes=zAhASsrt9VhRDzh25hsLsyD&stackedNotes=z3zo16mx2Dp3PB4J1ty1DGy&stackedNotes=z7JRyqSwVbW2a8U44w2RkR6&stackedNotes=zS33ebqMsefTfnh8cwgHYFR&stackedNotes=zQKe7JZs1CYqHBnLyDhMQYQ&stackedNotes=z7d63BYfJrd81VFE25jkcDd)
+1. [Andy Link](https://notes.andymatuschak.org/z7d63BYfJrd81VFE25jkcDd)

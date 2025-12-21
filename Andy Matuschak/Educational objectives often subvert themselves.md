@@ -9,7 +9,7 @@ Last edited time: January 18, 2024 7:55 PM
 
 A fixation on learning outcomes is a fixation on what would normally be the effect of a deeper cause: an intrinsically meaningful purpose involving that material. By attempting to produce the effect without the cause, the teacher makes the students into dependents. He’s the source not only of expertise but also of purpose. In such a relationship, the teacher’s role is defined by his superiority. This often manifests as (unintentional) condescension.
 
-[[Internally-modulated learning is self-actualizing; externally modulated is self-abnegating]]. Students sense the abnegation and often respond either by disengaging or by shrinking their sense of intellectual responsibility. Both of these behaviors magnify the asymmetry between the teacher and student, which in turn magnifies (intentional or unintentional) sense of superiority the teacher conveys.
+[[Internally-modulated learning is self-actualizing; externally-modulated is self-abnegating]]. Students sense the abnegation and often respond either by disengaging or by shrinking their sense of intellectual responsibility. Both of these behaviors magnify the asymmetry between the teacher and student, which in turn magnifies (intentional or unintentional) sense of superiority the teacher conveys.
 
 [[Deep understanding requires (and is a result of) intense personal connection]]. Condescension and external dependence are unlikely to produce such a connection. Often, the teacher/author themselves doesn’t have such a connection to the material, which makes the condescension worse (see [Authored environments are significantly colored by authors’ motivations](https://notes.andymatuschak.org/z4wZFERkVVVVy6bN6BE8kQz)). Per Bret:
 
