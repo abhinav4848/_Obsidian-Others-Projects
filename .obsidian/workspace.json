@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andy Matuschak/20230614100259.md",
+                "file": "Andy Matuschak/Why Greatness Cannot Be Planned - Stanley and Lehman.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20230614100259"
+              "title": "Why Greatness Cannot Be Planned - Stanley and Lehman"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dyson claim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andy Matuschak/20230614100259.md",
+                "file": "Andy Matuschak/Why Greatness Cannot Be Planned - Stanley and Lehman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 20230614100259"
+              "title": "Backlinks for Why Greatness Cannot Be Planned - Stanley and Lehman"
             }
           },
           {
@@ -182,14 +182,17 @@
       "media-sync:Media sync": false
     }
   },
-  "active": "e02a589a9b768801",
+  "active": "bdd7bdec3fd37772",
   "lastOpenFiles": [
+    "Andy Matuschak/Dyson claims idleness is necessary to the best creative work.md",
+    "Andy Matuschak/Where do ideas come from.md",
+    "Snipd/Data/Founders/_25 Against the Odds_ An Autobiography by James Dyson.md",
+    "Andy Matuschak/20230614100259.md",
     "Andy Matuschak/Andy Matuschak's files.base",
     "Andy Matuschak/Application prompt variations are challenging to automate.md",
     "Andy Matuschak/Application prompts are much harder to write than recall prompts.md",
     "Andy Matuschak/GPT-3 can generate shallow variations of spaced repetition prompt questions.md",
     "Andy Matuschak/Would spaced repetition memory systems perform better with varied question texts.md",
-    "Andy Matuschak/20230614100259.md",
     "Andy Matuschak/Using machine learning to generate good spaced repetition prompts from explanatory text.md",
     "Andy Matuschak/Adjunct questions improve comprehension of related but untested content.md",
     "Andy Matuschak/A reading inbox to capture possibly-useful references.md",
@@ -225,8 +228,6 @@
     "Andy Matuschak/_attachments/29802.png",
     "_media-sync_resources/2025/12/21/125235",
     "_media-sync_resources/2025/12/21",
-    "Andy Matuschak/Quit Your Job - Wolf Tivy.md",
-    "_media-sync_resources/2025/12/20/23159.png.md",
     "Andy Matuschak/_attachments/23159.png",
     "Andy Matuschak/_attachments/06855.png"
   ]

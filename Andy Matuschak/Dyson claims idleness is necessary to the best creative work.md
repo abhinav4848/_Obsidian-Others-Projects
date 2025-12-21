@@ -1,3 +1,7 @@
+---
+URLs:
+  - https://notes.andymatuschak.org/zDVxH26siVXJXRnNgPASA3q
+---
 > we can see the nature of the flaw which made his life ultimately tragic. His flaw was restlessness, an inborn inability to be idle. Intervals of idleness are probably essential to creative work on the highest level. Shakespeare, we are told, was habitually idle between plays. Oppenheimer was hardly ever idle.  
 > — in the essay “Oppenheimer” by Freeman Dyson, via [Michael Nielsen](https://notes.andymatuschak.org/Michael_Nielsen) (private link). 
 
@@ -12,4 +16,4 @@ A. Dyson on Oppenheimer, remarking that his tragic flaw was his inability to be 
 
 Reminds me, too, of [[Quit Your Job - Wolf Tivy]].
 # Reference
-https://notes.andymatuschak.org/zDVxH26siVXJXRnNgPASA3q
+1. [Andy Link](https://notes.andymatuschak.org/zDVxH26siVXJXRnNgPASA3q)
