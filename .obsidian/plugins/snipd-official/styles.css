@@ -193,17 +193,14 @@ If your plugin does not need CSS, delete this file.
   color: white !important;
 }
 
-.modal {
-  min-width: 800px !important;
-  max-width: 1200px !important;
+.snipd-formatting-modal {
+  max-width: 95vw !important;
+  width: auto !important;
 }
 
-.modal-content {
-  max-width: 1200px !important;
-}
-
-.vertical-tab-content {
-  max-width: 1000px !important;
+.snipd-formatting-modal .modal-content {
+  max-width: none !important;
+  width: 100% !important;
 }
 
 .snipd-additional-properties-container {
