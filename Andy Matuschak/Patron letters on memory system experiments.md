@@ -1,6 +1,6 @@
 ---
 URLs:
-  - https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zTnTob5JrFYF9NpU73Zg5a1&stackedNotes=z4aipv9wyMg4qZGANaVjkrJ&stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zAt1K9ARQYguinoHH8cfaqQ&stackedNotes=Cloze_deletion_prompts_seem_to_produce_less_understanding_than_question%2Fanswer_pairs_in_spaced_repetition_memory_systems&stackedNotes=zSiuztCZ594AZuCweRghcXT&stackedNotes=zJoWJEpRvrjnm2zL3gdxBjg&stackedNotes=zSisETSpZBCgZH4rFNHRcnC&stackedNotes=z3NDe3nR9hvqRqWWtvZdxe7&stackedNotes=z8d1Rq2d13fdQCjQiWzJybD&stackedNotes=z21VhT726p7bX8JcGM41QSA&stackedNotes=zY3RYK9gJ6eDnq27vSwBDQh
+  - https://notes.andymatuschak.org/zY3RYK9gJ6eDnq27vSwBDQh
 ---
 I've abandoned doing these as they feel irrelevant
 

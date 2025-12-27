@@ -1,3 +1,7 @@
+---
+URLs:
+  - https://notes.andymatuschak.org/zY3RYK9gJ6eDnq27vSwBDQh?stackedNotes=zPNoWjs5jQ7iMDpxxBtjSbg
+---
 # 2023-09-30 Patreon letter - Highlight-driven practice and comprehension support
 
 _Private copy; not to be shared publicly; part of [[Patron letters on memory system experiments]]_
@@ -150,3 +154,5 @@ It’s safe to assume that this new design will fail, too, but I’m feeling opt
 
 My thanks to Elliott Jin for facilitating my initial test and for extended discussion of these ideas! Thanks also to Joe Edelman for helpful discussion.
 
+# References
+1. [Andy Link](https://notes.andymatuschak.org/zY3RYK9gJ6eDnq27vSwBDQh?stackedNotes=zPNoWjs5jQ7iMDpxxBtjSbg)
