@@ -1,3 +1,7 @@
+---
+URLs:
+  - https://notes.andymatuschak.org/%C2%A7Note-writing_systems
+---
 # §Note-writing systems 
 - Principles:
     - [[Evergreen note-writing as fundamental unit of knowledge work]]
@@ -44,7 +48,7 @@
         - [[Prefer positive note titles to promote systematic theory]] 
         - [[Prefer note titles with complete phrases to sharpen claims]]
     - [[Evergreen notes should be densely linked]]
-    - [[Notes should surprise you]]
+    - [[Notes should surprise you]] 
 - associative structure in PKMs
     - [[Prefer associative ontologies to hierarchical taxonomies]]
     - [[Tags are an ineffective association structure]]

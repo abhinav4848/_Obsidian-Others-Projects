@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andy Matuschak/Patron letters on memory system experiments.md",
+                "file": "Andy Matuschak/Spaced repetition memory prompts should connect and relate ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Patron letters on memory system experiments"
+              "title": "Spaced repetition memory prompts should connect and relate ideas"
+            }
+          },
+          {
+            "id": "725515690a729896",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Andy Matuschak/Prefer note titles with complete phrases to sharpen claims.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prefer note titles with complete phrases to sharpen claims"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dyson claim",
+                "query": "note path:\"Andy Matuschak\"  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andy Matuschak/Patron letters on memory system experiments.md",
+                "file": "Andy Matuschak/Prefer note titles with complete phrases to sharpen claims.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Patron letters on memory system experiments"
+              "title": "Backlinks for Prefer note titles with complete phrases to sharpen claims"
             }
           },
           {
@@ -197,8 +212,18 @@
       "snipd-official:Open Snipd base": false
     }
   },
-  "active": "5bf3f270666cb61f",
+  "active": "725515690a729896",
   "lastOpenFiles": [
+    "Andy Matuschak/Taxonomy of note types.md",
+    "Andy Matuschak/Prefer note titles with complete phrases to sharpen claims.md",
+    "Andy Matuschak/§Note-writing systems.md",
+    "Andy Matuschak/Literature notes are secondary and separate.md",
+    "Andy Matuschak/Spaced repetition memory prompts should connect and relate ideas.md",
+    "Andy Matuschak/Spaced repetition memory prompts should be written to discourage shallow “pattern matching”.md",
+    "Snipd/Data/The Colin and Samir Show/How Ali Abdaal makes $5,741,266.32 a year on YouTube.md",
+    "Ideaverse Merged/Atlas/Dots/Sources/Between the World and Me (book).md",
+    "Ideaverse Merged/Atlas/Notes/Sources/Between the World and Me (book).md",
+    "Andy Matuschak/Patron letters on memory system experiments.md",
     "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md",
     "Andy Matuschak/_attachments/Adler, van Doren - 1972 - How to Read a Book.pdf",
     "Andy Matuschak/_attachments/Arnold, McDermott - 2013 - Test-Potentiated Learning.pdf",
@@ -210,7 +235,6 @@
     "Andy Matuschak/_attachments/Pressley, Afflerbach - 1995 - Verbal Protocols of Reading.pdf",
     "Andy Matuschak/_attachments/Wyatt et al - 1993 - Comprehension strategies, worth and credibility monitoring, and evaluations.pdf",
     "Andy Matuschak/_attachments/Pressley et al - 1990 - Sometimes Adults Miss the Main Ideas and Do Not Realize It.pdf",
-    "Andy Matuschak/Patron letters on memory system experiments.md",
     "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
     "Andy Matuschak/2023-05-31 Patreon letter - Fluid practice for fluid understanding.md",
     "Andy Matuschak/2021-10-31 Patreon post- Doing-centric explanatory mediums- board game instruction manuals, and an unusual Figma document.md",
@@ -226,17 +250,9 @@
     "Andy Matuschak/GPT-3 can generate shallow variations of spaced repetition prompt questions.md",
     "Andy Matuschak/Would spaced repetition memory systems perform better with varied question texts.md",
     "Andy Matuschak/Using machine learning to generate good spaced repetition prompts from explanatory text.md",
-    "Andy Matuschak/Adjunct questions improve comprehension of related but untested content.md",
-    "Andy Matuschak/A reading inbox to capture possibly-useful references.md",
-    "Andy Matuschak/2023-11-30 Patreon letter - Initial results from highlight-driven prototype.md",
-    "_media-sync_resources/2025/12/20/20979.png.md",
     "Andy Matuschak/_attachments/20979.png",
     "Andy Matuschak/_attachments/87183.png",
-    "_media-sync_resources/2025/12/20/87183.png.md",
     "Andy Matuschak/_attachments/89071.png",
-    "_media-sync_resources/2025/12/21/125237/89071.png.md",
-    "_media-sync_resources/2025/12/21/125235/72182.pdf.md",
-    "_media-sync_resources/2025/12/21/23004.pdf.md",
     "Andy Matuschak/_attachments/54970.png",
     "Andy Matuschak/_attachments/24785.png",
     "Andy Matuschak/_attachments/64645.png",

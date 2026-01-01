@@ -1,3 +1,7 @@
+---
+URLs:
+  - https://notes.andymatuschak.org/zSiuztCZ594AZuCweRghcXT
+---
 # Spaced repetition memory prompts should be written to discourage shallow “pattern matching”
 One challenge for the efficacy of a [[Spaced repetition memory system]] is that sometimes users memorize answers to questions shallowly, through “pattern matching,” rather than by integrating the knowledge more deeply or actually thinking about the question. But [[Spaced repetition memory prompts should ensure reviewers must retrieve answers from memory]].
 
@@ -34,4 +38,4 @@ We’ve received many comments about this phenomenon from [[Quantum Country]] 
 
 — Srinath K R Re: Hello from Quantum Country!
 # Reference
-1. [Andy Link](https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zTnTob5JrFYF9NpU73Zg5a1&stackedNotes=z4aipv9wyMg4qZGANaVjkrJ&stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zAt1K9ARQYguinoHH8cfaqQ&stackedNotes=Cloze_deletion_prompts_seem_to_produce_less_understanding_than_question%2Fanswer_pairs_in_spaced_repetition_memory_systems&stackedNotes=zSiuztCZ594AZuCweRghcXT)
+1. [Andy Link](https://notes.andymatuschak.org/zSiuztCZ594AZuCweRghcXT)
