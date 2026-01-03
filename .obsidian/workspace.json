@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andy Matuschak/Prefer note titles with complete phrases to sharpen claims.md",
+                "file": "Andy Matuschak/About these notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prefer note titles with complete phrases to sharpen claims"
+              "title": "About these notes"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andy Matuschak/Prefer note titles with complete phrases to sharpen claims.md",
+                "file": "Andy Matuschak/Spaced repetition memory prompts should connect and relate ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Prefer note titles with complete phrases to sharpen claims"
+              "title": "Backlinks for Spaced repetition memory prompts should connect and relate ideas"
             }
           },
           {
@@ -212,10 +212,12 @@
       "snipd-official:Open Snipd base": false
     }
   },
-  "active": "725515690a729896",
+  "active": "5bf3f270666cb61f",
   "lastOpenFiles": [
-    "Andy Matuschak/Taxonomy of note types.md",
+    "Andy Matuschak/About these notes.md",
     "Andy Matuschak/Prefer note titles with complete phrases to sharpen claims.md",
+    "Andy Matuschak/A pattern language of prompt-writing.md",
+    "Andy Matuschak/Taxonomy of note types.md",
     "Andy Matuschak/§Note-writing systems.md",
     "Andy Matuschak/Literature notes are secondary and separate.md",
     "Andy Matuschak/Spaced repetition memory prompts should connect and relate ideas.md",
@@ -248,8 +250,6 @@
     "Andy Matuschak/Application prompt variations are challenging to automate.md",
     "Andy Matuschak/Application prompts are much harder to write than recall prompts.md",
     "Andy Matuschak/GPT-3 can generate shallow variations of spaced repetition prompt questions.md",
-    "Andy Matuschak/Would spaced repetition memory systems perform better with varied question texts.md",
-    "Andy Matuschak/Using machine learning to generate good spaced repetition prompts from explanatory text.md",
     "Andy Matuschak/_attachments/20979.png",
     "Andy Matuschak/_attachments/87183.png",
     "Andy Matuschak/_attachments/89071.png",
