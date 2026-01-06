@@ -14,6 +14,5 @@ Charlie Munger:
 <https://www.youtube.com/watch?v=5U0TE4oqj24>
 
 ---
-
 ## References
 Nielsen, M. (2018). Augmenting Long-term Memory. [http://augmentingcognition.com/ltm.html](http://augmentingcognition.com/ltm.html)

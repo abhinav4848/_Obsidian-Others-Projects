@@ -29,13 +29,11 @@ Q. How does SRS prompt length relate to pattern matching?
 A. Shorter prompts seem harder to pattern match.
 
 ---
-
 ## References
-
 We’ve received many comments about this phenomenon from [[Quantum Country]] readers. e.g.:
 
 > For some of the review questions in this essay, i know the answers by rote now due to the number of times I’ve seen those questions but I can’t say I understand the algorithm to the extent I would prefer (such that I could explain it to somebody else). I’m not sure if I need to read this essay many more times to fully grasp the algorithm.
 
 — Srinath K R Re: Hello from Quantum Country!
 # Reference
-1. [Andy Link](https://notes.andymatuschak.org/zSiuztCZ594AZuCweRghcXT)
+1. [Andy Link](https://notes.andymatuschak.org/zSiuztCZ594AZuCweRghcXT) 

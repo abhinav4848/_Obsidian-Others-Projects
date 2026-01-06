@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andy Matuschak/Spaced repetition memory prompts should connect and relate ideas.md",
+                "file": "Snipd/Data/The Colin and Samir Show/How Ali Abdaal makes $5,741,266.32 a year on YouTube.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spaced repetition memory prompts should connect and relate ideas"
+              "title": "How Ali Abdaal makes $5,741,266.32 a year on YouTube"
             }
           },
           {
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "note path:\"Andy Matuschak\"  ",
+                "query": "note path:\"Andy Matuschak\"  pattern match",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andy Matuschak/Spaced repetition memory prompts should connect and relate ideas.md",
+                "file": "Snipd/Data/The Colin and Samir Show/How Ali Abdaal makes $5,741,266.32 a year on YouTube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Spaced repetition memory prompts should connect and relate ideas"
+              "title": "Backlinks for How Ali Abdaal makes $5,741,266.32 a year on YouTube"
             }
           },
           {
@@ -214,8 +214,9 @@
   },
   "active": "5bf3f270666cb61f",
   "lastOpenFiles": [
-    "Clippings/Realpolitik - Wikipedia.md",
+    "Andy Matuschak/Spaced repetition memory prompts should be written to discourage shallow “pattern matching”.md",
     "Andy Matuschak/Spaced repetition memory prompts should connect and relate ideas.md",
+    "Clippings/Realpolitik - Wikipedia.md",
     "Clippings",
     "Andy Matuschak/About these notes.md",
     "Andy Matuschak/Prefer note titles with complete phrases to sharpen claims.md",
@@ -223,7 +224,6 @@
     "Andy Matuschak/Taxonomy of note types.md",
     "Andy Matuschak/§Note-writing systems.md",
     "Andy Matuschak/Literature notes are secondary and separate.md",
-    "Andy Matuschak/Spaced repetition memory prompts should be written to discourage shallow “pattern matching”.md",
     "Snipd/Data/The Colin and Samir Show/How Ali Abdaal makes $5,741,266.32 a year on YouTube.md",
     "Ideaverse Merged/Atlas/Dots/Sources/Between the World and Me (book).md",
     "Ideaverse Merged/Atlas/Notes/Sources/Between the World and Me (book).md",
