@@ -1,12 +1,12 @@
 {
-  "encryptedApiKey": "SFnTxKiPQo1l+vewej/Ha8r9SU6AUJqnU/IDbOYHZq87FqEVBHyCBmK67A/UdWagyCsWSiS8XU24v53m",
+  "encryptedApiKey": "F00obrfmk5pJb8OQCnzE3Ro65Dq05/qWaaiUUSPNS5glwDrw99pgysSfclLBsErZwH9CfrDw4zA2vZxt",
   "snipdDir": "Snipd",
   "frequency": "0",
   "triggerOnLoad": true,
   "isSyncing": false,
   "isTestSyncing": false,
   "hasCompletedFirstSync": true,
-  "latestSyncedSnipUpdateTs": "2025-12-23T23:04:09.096Z",
+  "latestSyncedSnipUpdateTs": "2026-01-08T18:44:05.990Z",
   "fileHashMap": {
     "Snipd/Data/_WhatifAlthist_ _ World History, Philosophy, Culture/The Greatest Lie Ever Told.md": "29d12b82cb44ca51899537c177d752da",
     "Snipd/Data/The Side Hustle Show/707_ $70k on the Side in 6 Months with Aura Photography.md": "4976666f78a0e35557f8c079dc7dc856",
@@ -117,25 +117,31 @@
     "Snipd/Data/Huberman Lab/Ketamine_ Benefits and Risks for Depression, PTSD & Neuroplasticity.md": "a2f69e70be06a06371abadf6fc568480",
     "Snipd/Data/The Building a Second Brain Podcast/Myth_ Building a Second Brain is just self-help for note-taking nerds.md": "345f0d4e35b11d47cca5b8738b84ffe5",
     "Snipd/Data/The Knowledge Project/Laurie Santos_ The Pursuit of Happiness.md": "63eba1c67c07507d8f7267282f9f6add",
-    "Snipd/Data/The Sweaty Startup/Controversial Takes That Might Save Your Life.md": "aa18c17106b2941e2a7b565f5a7c4a6f"
+    "Snipd/Data/The Sweaty Startup/Controversial Takes That Might Save Your Life.md": "aa18c17106b2941e2a7b565f5a7c4a6f",
+    "Snipd/Data/Radical Personal Finance/1125-Leaving a Legacy_ Inheritance, Charity, & Thousand-Year Families_ Interview with Johann Kurtz.md": "b750b0869a4e7e5611f768c47d24af1c",
+    "Snipd/Data/The Personal MBA Audiobook _cHHQqo2_5o4_ 153kbps/(1_3) The Personal MBA Audiobook _cHHQqo2_5o4_ 153kbps.md": "76eee2b8e11092c5d7ac0041eb9ef48e",
+    "Snipd/Data/The Sweaty Startup/How I Raised Twenty Million to Take Control of a Fifty Million Dollar Company.md": "6d856b7bf60d0cf810ad9f59fce21857"
   },
   "appendOnlyFiles": {},
   "baseFileHashes": {
     "Snipd/Base/Snipd.base": "42aa0e86894e81bb53f4b08615d6db13",
     "Snipd/README.md": "01b6a30012b72d7b18d429666df05aab"
   },
-  "baseFileManualOverrides": {},
-  "lastBaseFileSyncToken": null,
+  "baseFileManualOverrides": {
+    "Snipd/Base/Snipd.base": true,
+    "Snipd/README.md": true
+  },
+  "lastBaseFileSyncToken": "2025-12-23T23:04:09.096Z",
   "baseFileDefaultOpenPath": "Base/Snipd.base",
-  "last_updated_after": "2025-12-23T23:04:09.096Z",
+  "last_updated_after": "2026-01-08T18:44:05.990Z",
   "current_export_updated_after": null,
   "current_export_batch_index": 0,
   "current_export_total_batches": 0,
   "current_batch_episode_count": 0,
   "current_batch_snip_count": 0,
-  "lastSyncTimestamp": "2025-12-26T00:32:54.265Z",
-  "lastSyncEpisodeCount": 1,
-  "lastSyncSnipCount": 1,
+  "lastSyncTimestamp": "2026-01-15T14:45:37.706Z",
+  "lastSyncEpisodeCount": 3,
+  "lastSyncSnipCount": 6,
   "saveDebugZips": false,
   "onlyEditedSnips": false,
   "episodeTemplate": null,
