@@ -36,18 +36,6 @@
             }
           },
           {
-            "id": "fbe4fea70a60cbf9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
-            }
-          },
-          {
             "id": "725515690a729896",
             "type": "leaf",
             "state": {
@@ -136,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Andy Matuschak/About these notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for About these notes"
             }
           },
           {
@@ -219,11 +208,10 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian42-brat:BRAT": false,
-      "obsifetch:obsifetch": false,
-      "snipd-official:Open Snipd base": false
+      "obsifetch:obsifetch": false
     }
   },
-  "active": "fbe4fea70a60cbf9",
+  "active": "725515690a729896",
   "lastOpenFiles": [
     "Snipd/Data/The Sweaty Startup/How I Raised Twenty Million to Take Control of a Fifty Million Dollar Company.md",
     "Snipd/Data/The Personal MBA Audiobook _cHHQqo2_5o4_ 153kbps/(1_3) The Personal MBA Audiobook _cHHQqo2_5o4_ 153kbps.md",
