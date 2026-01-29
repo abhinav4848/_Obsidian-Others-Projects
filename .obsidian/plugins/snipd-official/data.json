@@ -1,12 +1,12 @@
 {
-  "encryptedApiKey": "F00obrfmk5pJb8OQCnzE3Ro65Dq05/qWaaiUUSPNS5glwDrw99pgysSfclLBsErZwH9CfrDw4zA2vZxt",
+  "encryptedApiKey": "7NmcCNLf8udDUhxE44lwl7EwF6yZGzhlnoTBidxdG22S/ubvU1Wysj6a/bupnLHcqtSrR9vOi5dv9hYw",
   "snipdDir": "Snipd",
   "frequency": "0",
   "triggerOnLoad": true,
   "isSyncing": false,
   "isTestSyncing": false,
   "hasCompletedFirstSync": true,
-  "latestSyncedSnipUpdateTs": "2026-01-08T18:44:05.990Z",
+  "latestSyncedSnipUpdateTs": "2026-01-24T12:44:01.373Z",
   "fileHashMap": {
     "Snipd/Data/_WhatifAlthist_ _ World History, Philosophy, Culture/The Greatest Lie Ever Told.md": "29d12b82cb44ca51899537c177d752da",
     "Snipd/Data/The Side Hustle Show/707_ $70k on the Side in 6 Months with Aura Photography.md": "4976666f78a0e35557f8c079dc7dc856",
@@ -120,7 +120,8 @@
     "Snipd/Data/The Sweaty Startup/Controversial Takes That Might Save Your Life.md": "aa18c17106b2941e2a7b565f5a7c4a6f",
     "Snipd/Data/Radical Personal Finance/1125-Leaving a Legacy_ Inheritance, Charity, & Thousand-Year Families_ Interview with Johann Kurtz.md": "b750b0869a4e7e5611f768c47d24af1c",
     "Snipd/Data/The Personal MBA Audiobook _cHHQqo2_5o4_ 153kbps/(1_3) The Personal MBA Audiobook _cHHQqo2_5o4_ 153kbps.md": "76eee2b8e11092c5d7ac0041eb9ef48e",
-    "Snipd/Data/The Sweaty Startup/How I Raised Twenty Million to Take Control of a Fifty Million Dollar Company.md": "6d856b7bf60d0cf810ad9f59fce21857"
+    "Snipd/Data/The Sweaty Startup/How I Raised Twenty Million to Take Control of a Fifty Million Dollar Company.md": "6d856b7bf60d0cf810ad9f59fce21857",
+    "Snipd/Data/Unthinkable with Jay Acunzo/Welcome to the Jumble.md": "22617c824825a30c6ae317790cd5ff34"
   },
   "appendOnlyFiles": {},
   "baseFileHashes": {
@@ -131,17 +132,17 @@
     "Snipd/Base/Snipd.base": true,
     "Snipd/README.md": true
   },
-  "lastBaseFileSyncToken": "2025-12-23T23:04:09.096Z",
+  "lastBaseFileSyncToken": "2026-01-08T18:44:05.990Z",
   "baseFileDefaultOpenPath": "Base/Snipd.base",
-  "last_updated_after": "2026-01-08T18:44:05.990Z",
+  "last_updated_after": "2026-01-24T12:44:01.373Z",
   "current_export_updated_after": null,
   "current_export_batch_index": 0,
   "current_export_total_batches": 0,
   "current_batch_episode_count": 0,
   "current_batch_snip_count": 0,
-  "lastSyncTimestamp": "2026-01-15T14:45:37.706Z",
-  "lastSyncEpisodeCount": 3,
-  "lastSyncSnipCount": 6,
+  "lastSyncTimestamp": "2026-01-29T19:30:37.153Z",
+  "lastSyncEpisodeCount": 1,
+  "lastSyncSnipCount": 1,
   "saveDebugZips": false,
   "onlyEditedSnips": false,
   "episodeTemplate": null,

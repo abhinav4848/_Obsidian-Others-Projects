@@ -208,11 +208,15 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian42-brat:BRAT": false,
-      "obsifetch:obsifetch": false
+      "obsifetch:obsifetch": false,
+      "snipd-official:Open Snipd base": false
     }
   },
   "active": "725515690a729896",
   "lastOpenFiles": [
+    "Snipd/Data/Unthinkable with Jay Acunzo/Welcome to the Jumble.md",
+    "current_export_metadata.json",
+    "Snipd/Data/The Colin and Samir Show/How Ali Abdaal makes $5,741,266.32 a year on YouTube.md",
     "Workflows/02 PARA_Starter_Kit_v2/1. Projects/desktop.ini",
     "Workflows/05 On the process of forging evergreen notes/desktop.ini",
     "desktop.ini",
@@ -220,7 +224,6 @@
     "Snipd/Data/The Personal MBA Audiobook _cHHQqo2_5o4_ 153kbps/(1_3) The Personal MBA Audiobook _cHHQqo2_5o4_ 153kbps.md",
     "Snipd/Data/The Personal MBA Audiobook _cHHQqo2_5o4_ 153kbps",
     "Snipd/Data/Radical Personal Finance/1125-Leaving a Legacy_ Inheritance, Charity, & Thousand-Year Families_ Interview with Johann Kurtz.md",
-    "current_export_metadata.json",
     "Snipd/Data/The Survival Podcast/desktop.ini",
     "Andy Matuschak/Spaced repetition memory prompts should be written to discourage shallow “pattern matching”.md",
     "Andy Matuschak/Spaced repetition memory prompts should connect and relate ideas.md",
@@ -232,7 +235,6 @@
     "Andy Matuschak/Taxonomy of note types.md",
     "Andy Matuschak/§Note-writing systems.md",
     "Andy Matuschak/Literature notes are secondary and separate.md",
-    "Snipd/Data/The Colin and Samir Show/How Ali Abdaal makes $5,741,266.32 a year on YouTube.md",
     "Ideaverse Merged/Atlas/Dots/Sources/Between the World and Me (book).md",
     "Ideaverse Merged/Atlas/Notes/Sources/Between the World and Me (book).md",
     "Andy Matuschak/Patron letters on memory system experiments.md",
@@ -240,7 +242,6 @@
     "Andy Matuschak/_attachments/Adler, van Doren - 1972 - How to Read a Book.pdf",
     "Andy Matuschak/_attachments/Arnold, McDermott - 2013 - Test-Potentiated Learning.pdf",
     "Andy Matuschak/_attachments/Pressley et al - 1997 - Some of the Reasons Why Preparing for Exams Is So Hard.pdf",
-    "Andy Matuschak/_attachments/Agarwal et al - 2008 - Examining the testing effect with open- and closed-book tests.pdf",
     "Andy Matuschak/How to Read a Book - Adler and van Doren.md",
     "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
     "Andy Matuschak/2023-05-31 Patreon letter - Fluid practice for fluid understanding.md",
