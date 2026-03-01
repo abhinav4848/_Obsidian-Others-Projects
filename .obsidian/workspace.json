@@ -103,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,6 +212,7 @@
   },
   "active": "725515690a729896",
   "lastOpenFiles": [
+    "Andy Matuschak/About these notes.md",
     "desktop.ini",
     "Workflows/02 PARA_Starter_Kit_v2/3. Resouces/Productivity/desktop.ini",
     "Workflows/02 PARA_Starter_Kit_v2/3. Resouces/Community/desktop.ini",
@@ -231,8 +231,6 @@
     "Andy Matuschak/Spaced repetition memory prompts should be written to discourage shallow “pattern matching”.md",
     "Andy Matuschak/Spaced repetition memory prompts should connect and relate ideas.md",
     "Clippings/Realpolitik - Wikipedia.md",
-    "Clippings",
-    "Andy Matuschak/About these notes.md",
     "Andy Matuschak/Prefer note titles with complete phrases to sharpen claims.md",
     "Andy Matuschak/A pattern language of prompt-writing.md",
     "Andy Matuschak/Taxonomy of note types.md",
