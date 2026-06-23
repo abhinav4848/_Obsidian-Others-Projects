@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andy Matuschak/About these notes.md",
+                "file": "collection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "About these notes"
+              "title": "collection"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andy Matuschak/About these notes.md",
+                "file": "collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for About these notes"
+              "title": "Backlinks for collection"
             }
           },
           {
@@ -212,10 +212,24 @@
   },
   "active": "725515690a729896",
   "lastOpenFiles": [
+    "Andy Matuschak/_attachments/07348.png",
+    "collection.md",
+    "Andy Matuschak/_attachments/06855.png",
+    "Andy Matuschak/_attachments/01949.png",
+    "Andy Matuschak/_attachments/87183.png",
+    "Andy Matuschak/2021-10-31 Patreon post- Doing-centric explanatory mediums- board game instruction manuals, and an unusual Figma document.md",
+    "Andy Matuschak/_attachments/12772.png",
+    "Andy Matuschak/_attachments/71339.png",
+    "Andy Matuschak/_attachments/64645.png",
+    "Andy Matuschak/_attachments/56984.png",
+    "Andy Matuschak/_attachments/54970.png",
+    "Andy Matuschak/_attachments/48569.png",
+    "Andy Matuschak/_attachments/Adler, van Doren - 1972 - How to Read a Book.pdf",
+    "Andy Matuschak/_attachments/Agarwal et al - 2008 - Examining the testing effect with open- and closed-book tests.pdf",
+    "Andy Matuschak/About these notes.md",
     "Snipd/Data/My First Million/desktop.ini",
     "desktop.ini",
     "Ideaverse Merged/x/Excalidraw/desktop.ini",
-    "Andy Matuschak/About these notes.md",
     "Workflows/02 PARA_Starter_Kit_v2/3. Resouces/Productivity/desktop.ini",
     "Workflows/02 PARA_Starter_Kit_v2/3. Resouces/Community/desktop.ini",
     "Workflows/04 Flat PARA/desktop.ini",
@@ -223,11 +237,8 @@
     "Snipd/Data/Unthinkable with Jay Acunzo/Welcome to the Jumble.md",
     "current_export_metadata.json",
     "Snipd/Data/The Colin and Samir Show/How Ali Abdaal makes $5,741,266.32 a year on YouTube.md",
-    "Workflows/02 PARA_Starter_Kit_v2/1. Projects/desktop.ini",
-    "Workflows/05 On the process of forging evergreen notes/desktop.ini",
     "Snipd/Data/The Sweaty Startup/How I Raised Twenty Million to Take Control of a Fifty Million Dollar Company.md",
     "Snipd/Data/The Personal MBA Audiobook _cHHQqo2_5o4_ 153kbps/(1_3) The Personal MBA Audiobook _cHHQqo2_5o4_ 153kbps.md",
-    "Snipd/Data/The Personal MBA Audiobook _cHHQqo2_5o4_ 153kbps",
     "Snipd/Data/Radical Personal Finance/1125-Leaving a Legacy_ Inheritance, Charity, & Thousand-Year Families_ Interview with Johann Kurtz.md",
     "Andy Matuschak/Spaced repetition memory prompts should be written to discourage shallow “pattern matching”.md",
     "Andy Matuschak/Spaced repetition memory prompts should connect and relate ideas.md",
@@ -244,19 +255,7 @@
     "Andy Matuschak/How to Read a Book - Adler and van Doren.md",
     "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
     "Andy Matuschak/2023-05-31 Patreon letter - Fluid practice for fluid understanding.md",
-    "Andy Matuschak/2021-10-31 Patreon post- Doing-centric explanatory mediums- board game instruction manuals, and an unusual Figma document.md",
     "Andy Matuschak/Why Greatness Cannot Be Planned - Stanley and Lehman.md",
-    "Snipd/Data/The Sweaty Startup/Controversial Takes That Might Save Your Life.md",
-    "Andy Matuschak/Dyson claims idleness is necessary to the best creative work.md",
-    "Andy Matuschak/_attachments/20979.png",
-    "Andy Matuschak/_attachments/87183.png",
-    "Andy Matuschak/_attachments/89071.png",
-    "Andy Matuschak/_attachments/54970.png",
-    "Andy Matuschak/_attachments/24785.png",
-    "Andy Matuschak/_attachments/64645.png",
-    "Andy Matuschak/_attachments/07348.png",
-    "Andy Matuschak/_attachments/29802.png",
-    "Andy Matuschak/_attachments/23159.png",
-    "Andy Matuschak/_attachments/06855.png"
+    "Snipd/Data/The Sweaty Startup/Controversial Takes That Might Save Your Life.md"
   ]
 }
