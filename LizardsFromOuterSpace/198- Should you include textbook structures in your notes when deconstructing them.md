@@ -1,5 +1,8 @@
+---
+title: "198- Should you include textbook structures in your notes when deconstructing them"
+---
+# 198- Should you include textbook structures in your notes when deconstructing them
 ## Should you include textbook structures in your notes when deconstructing them ([[131- Textbook Deconstruction]])?
-
 This is a question that I’m still trying to work out in my head. When picking apart a textbook and taking notes on it, what are the components you can take notes on?
 
 - Quotes

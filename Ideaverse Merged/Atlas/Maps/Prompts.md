@@ -6,8 +6,9 @@ related:
 created: 2023-10-17
 tags:
   - map
+title: "Prompts"
 ---
-
+# Prompts
 ## Ancient Prompts in a Modern Age
 - To prompt your analytical and critical thinking
 	- [[Ideaverse Merged/x/Prompts/Prompt - Thought Unpacking Machine]]

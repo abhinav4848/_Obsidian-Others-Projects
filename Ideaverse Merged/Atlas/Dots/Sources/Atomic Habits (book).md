@@ -29,11 +29,12 @@ bookStatus: read
 rating: 4
 aliases:
 - Atomic Habits
+title: "Atomic Habits (book)"
 ---
+# Atomic Habits (book)
 ![cover|150](http://books.google.com/books/content?id=XfFvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 # Atomic Habits
-
 text:: [devon](x-devonthink-item://7F1F1103-C780-4E7D-887C-C1DD0B99046C).
 
 ##### Book Analysis
@@ -71,9 +72,7 @@ font:: unknown
 ---
 
 ###### Parts & Chapters
-
 # Notes
-
 [[James Clear]] suggests to focus on Identity over Outcome: ie "I'm the guy who..." over thinking about the result I want...Every action you take is you casting a vote for your identity.
 
 Winners and losers often have the same goals, so what is it that actually makes a difference? It's the system and process behind the goal. Achieving your goal only changes your life for a moment. We think the results need to change, but it's the process that needs to change. Habits are the fundamental unit of your systems. Your current systems are perfectly designed to provide you with your current results. 
@@ -107,7 +106,6 @@ PD Lists: 201511121539
 
 # Analysis
 ## Publisher's Marketplace
-
 ### Deals
 March 18, 2016 - ATOMIC HABITS, by James Clear
 
@@ -125,8 +123,6 @@ James Clear's ATOMIC HABITS, to [Ixchel Barrera](https://www.publishersmarketpla
 
 
 # Book structure notes
-
-
 ## The 4th Law: Make it Satisfying 
 ### Cardinal rule
 Starts with Karachi and chewy gum story (with only a paragraph of signal), then a nice takeaway and transition, then it becomes all signal.
@@ -134,8 +130,6 @@ Starts with Karachi and chewy gum story (with only a paragraph of signal), then 
 
 
 # Marketing
-
 ## Freebies to market on 2022-12-31 after selling 10 million copies and wanting people to sign up for a free email course
-
 - [Google Sheet: Copy of 30 Days to Better Habits: Examples Database](https://docs.google.com/spreadsheets/d/18SbA-zUaWtKpzadd75mHH4gC4qxQD8z7g5a1Nfxzg3Q/edit#gid=0).
 - [30+Days+to+Better+Habits+Workbook.pdf](hook://file/M0oAtE6LT?p=U09VUkNFUy9QREZzIChVbnNvcnRlZCk=&n=30%2BDays%2Bto%2BBetter%2BHabits%2BWorkbook%2Epdf).

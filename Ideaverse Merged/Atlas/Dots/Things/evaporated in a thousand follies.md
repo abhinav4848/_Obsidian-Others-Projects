@@ -13,7 +13,9 @@ rank: 4
 aliases:
 - –evaporated in a thousand follies
 - evaporated in a thousand follies''
+title: "evaporated in a thousand follies"
 ---
+# evaporated in a thousand follies
 Dantes asks, 
 
 > "What would you not have accomplished if you had been free?” 

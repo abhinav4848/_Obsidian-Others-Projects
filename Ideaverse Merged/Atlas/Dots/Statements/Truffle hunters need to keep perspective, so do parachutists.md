@@ -3,8 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Dots/Things/Levels of Magnification]]"
 related: []
 created: 2020-06-16
+title: "Truffle hunters need to keep perspective, so do parachutists"
 ---
-
+# Truffle hunters need to keep perspective, so do parachutists
 > “All historians are either truffle hunters, their noses buried in the details, or parachutists, hanging high in the air and looking for general patterns in the countryside far below them.” - Emmanuel Le Roy Ladurie
 
 The best solution? Being able to exercise [[Ideaverse Merged/Atlas/Dots/Things/Fluid Thinking]] and fly around the [[Ideaverse Merged/Atlas/Dots/Things/Levels of Magnification]].

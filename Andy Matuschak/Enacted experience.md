@@ -1,3 +1,6 @@
+---
+title: "Enacted experience"
+---
 # Enacted experience
 An *enacted experience* is an experience which participants feel they’ve brought about—but which, in reality, is the largely-specified expression of an author’s intentions. This is a powerful mechanism because [[Enacted experiences can create intense personal connection to authored targets]].
 
@@ -6,7 +9,7 @@ An *enacted experience* is an experience which participants feel they’ve bro
 # Examples and counter-examples
 Many elements of a [[Y Combinator]] batch are enacted experiences: carefully-arranged dinners, timelines, pressures, etc. combine to produce intended experiences. Savvy professionals often create enacted experiences in meetings: they structure the agenda and framing so that attendees will inevitably arrive at the desired beliefs or conclusions, but each person will feel that they brought that about for themselves.
 
-Good video games are structured so that at any given moment, players feel as though their cumulative actions have *created* their present experience. And they feel their ongoing actions *enact* future experiences—they’ll bring those states into being. This sense will occur in any [Participatory environment](https://notes.andymatuschak.org/zRWEWHx4cQyqQWRh26gp7ad), but in games, designers can exert strong authorial control over *which* experiences players will enact.
+Good video games are structured so that at any given moment, players feel as though their cumulative actions have *created* their present experience. And they feel their ongoing actions *enact* future experiences—they’ll bring those states into being. This sense will occur in any [[Andy Matuschak/Participatory environment|Participatory environment]], but in games, designers can exert strong authorial control over *which* experiences players will enact.
 
 Game designers like Jenova Chen, [Frank Lantz](https://notes.andymatuschak.org/zPLafkamDFQ13mYvxRcwdoV), and Jonathan Blow create fiddles which play their players. They create environments in which players are the ones pressing the buttons, and players feel intuitively that they’re bringing each moment about, but the buttons are arranged such that players’ actions typically create exactly the intended experience. In good games, players will feel they’ve enacted the authored experience even when they had no real agency. This gives game designers unique opportunities for expression: [Games are an aesthetic medium of action](https://notes.andymatuschak.org/z1oPWxPot5pYAfDu5Crtuh).
 
@@ -35,5 +38,4 @@ Many enacted experiences use metacognitive scaffolds ([[Metacognitive supports a
 - [[Enacted experiences have incredible potential as a mass medium]]
 
 # Reference
-
 1.

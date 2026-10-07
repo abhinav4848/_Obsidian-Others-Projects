@@ -1,3 +1,7 @@
+---
+title: "070 Journal MOC"
+---
+# 070 Journal MOC
 tags: #journal #reflections #faves
 links: [[000 Index|Index]], [[070 Journal MOC|Journal]], [[060 Writings MOC|Writing]]
 

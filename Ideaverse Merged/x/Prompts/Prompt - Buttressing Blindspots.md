@@ -5,7 +5,9 @@ up:
 related:
   - "[[Ideaverse Merged/x/Prompts/Prompt - Finding Blindspots]]"
 created: 2023-10-17
+title: "Prompt - Buttressing Blindspots"
 ---
+# Prompt - Buttressing Blindspots
 To be used after [[Ideaverse Merged/x/Prompts/Prompt - Finding Blindspots]]
 
 ---

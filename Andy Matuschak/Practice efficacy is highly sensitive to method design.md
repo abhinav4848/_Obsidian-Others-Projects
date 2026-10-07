@@ -1,6 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zXDPKHgmQSdevyW1N2iiaSy
+title: "Practice efficacy is highly sensitive to method design"
 ---
+# Practice efficacy is highly sensitive to method design
 Naive practice methods are limited in scope: [[Naive approaches to practice rapidly plateau]]. But it’s not as simple as replacing naive methods with better methods because [[Performance plateaus often require a change in approach to surmount]]. One’s practice methods must evolve with one’s performance because [[Skill development requires challenging homeostasis]].
 
 This often means that practice methods must be designed and maintained by an expert: [[Expert coaches facilitate effective deliberate practice]].

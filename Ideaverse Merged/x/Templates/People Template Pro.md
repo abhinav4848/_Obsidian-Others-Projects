@@ -10,5 +10,6 @@ lifespan:
 finalAge: 
 culturalEra: 
 culturalWorks: 
+title: "People Template Pro"
 ---
-
+# People Template Pro

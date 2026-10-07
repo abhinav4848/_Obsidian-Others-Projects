@@ -1,8 +1,8 @@
 ---
-URL: https://notes.andymatuschak.org/zSve33D7x1qe5WUjojDcM9y?stackedNotes=z2q7U5ZvXeDxXD6vXAbZb9a&stackedNotes=zWTgG8ddRz5h1WbNMYnrnqX
+URL: ["https://notes.andymatuschak.org/zSve33D7x1qe5WUjojDcM9y?stackedNotes=z2q7U5ZvXeDxXD6vXAbZb9a&stackedNotes=zWTgG8ddRz5h1WbNMYnrnqX", "https://notes.andymatuschak.org/z2q7U5ZvXeDxXD6vXAbZb9a"]
+title: "The high-order bit for my productivity is whether I complete a deeply-focused morning creative block"
 ---
 # The high-order bit for my productivity is whether I complete a deeply-focused morning creative block
-
 There’s so much productivity advice out there. You can get lost for months reading blogs of people optimizing their work with special journals and note-taking systems. I’ve spent tons of time measuring and optimizing my schedule throughout the day, trying to eke out an extra hour of work. All these things are useful, no doubt, and for some types of work they’re perhaps what’s most essential. But my experience has been that really one thing determines whether or not I have a “good day” at work. If I sit down at my desk in the morning for an uninterrupted 4-6 hour working session, and manage to “sink into” a deep state of focus and clarity on some creative project, I’ll probably have a great day creatively. If my mind is scattered and never settles on any particular problem, it rarely matters how much I “optimize” the rest of my day—that will not be a day of meaningful creative progress.
 
 The first hurdle was simply clearing my morning schedule consistently, so that I always have a 5-6 hour contiguous working block. That’s pretty easy (for me) to do. And of course the next obvious obstacles are the things “productivity hackers” often write about: blocking distracting stuff on my computer really does help, so long as one isn’t too rigid about it. A writing practice helps me get clear on my projects and their goals, so that I’m reasonably likely to have some clear sense of what to do when I sit down at my desk.

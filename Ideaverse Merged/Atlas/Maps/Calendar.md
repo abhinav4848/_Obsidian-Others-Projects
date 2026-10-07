@@ -6,7 +6,9 @@ related:
 created: 2023-08-19
 in:
   - "[[Ideaverse Merged/Atlas/Maps/Views]]"
+title: "Calendar"
 ---
+# Calendar
 Our ideas and experiences are wrapped up in a linear movement we call **Time**. It's a great way to organize and remember stuff. Here's how you can make Time work for you:
 
 - ***Usefully***, you can track down old notes by Time, be reminded of distant memories, and even emotionally transport back to an echo of Past You.

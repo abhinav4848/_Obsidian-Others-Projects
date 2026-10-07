@@ -1,3 +1,7 @@
+---
+title: "190- Learning"
+---
+# 190- Learning
 **190 - Learning** is the process of creating mental connections in the brain through organizing information and tying it to your prior knowledge. The connections, represented in the form of memory traces ([[196- Memory Trace]]) in the brain, are then accessed through retrieval cues ([[197- Retrieval Cues]]).
 
 ---

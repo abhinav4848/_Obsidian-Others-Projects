@@ -4,7 +4,9 @@ up:
 related:
   - "[[Ideaverse Merged/Atlas/Maps/Collections]]"
 created: 2023-11-12
+title: "LYT Standards of Classification"
 ---
+# LYT Standards of Classification
 `Version 0.7`
 
 With the emergence of Obsidian Properties (basically a proper way to manage metadata), it is more important than ever to offer a suggested collection of best practices and standards for specific types of notes. 

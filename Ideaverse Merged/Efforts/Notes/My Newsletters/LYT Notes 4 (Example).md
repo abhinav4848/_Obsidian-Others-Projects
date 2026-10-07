@@ -4,10 +4,10 @@ up:
 created: 2021-03-14
 tags:
   - output/newsletter
+title: "LYT Notes 4 (Example)"
 ---
-
+# LYT Notes 4 (Example)
 ## On a "hiding in plain sight" advantage to using folders
-
 Links are revolutionary. And yet, there is still a place for folders and tags in a healthy knowledge management system (don't let the zealots tell you otherwise).
 
 Here's one hidden advantage to using folders in a link-based world: _easy exclusion_.
@@ -25,7 +25,6 @@ Here are the three notations to keep handy when using folder search filters:
 (There is a similar ability with **Anti-Tags** I'll try to talk about next week.)
 
 ## On refactoring: the mini-epiphany of evergreen note-making
-
 When we exercise the bad habit of excessive note-_taking_, we rarely return to the thing we took notes on, because we're off bumbling down the never-ending trail of over-consumption. And we even more rarely ever build it, develop it, and refactor it.
 
 So how is note-_making_ better? You not only spend more time actively thinking, but you create an environment that encourages you to continue to develop those thoughts. Here's a simple example I can share with you. Try reading both of these out loud:
@@ -41,7 +40,6 @@ Can you see how this note is growing with me? And how it's growing in value and 
 So, how do you save the old version? How do you work with the new version? Here's [the full note](https://publish.obsidian.md/lyt-kit/Sources/1949+%F0%9F%93%9A+1984) where you can get a glimpse into this process of both "versioning" & "refactoring".
 
 ## On Cohort 3 finishing the LYT Workshop
-
 We had 7 main sessions, 7 breakout sessions, 5 special sessions, and 2 additional sessions for extra capstone presentations—all leading to over 30 hours of LIVE time together!
 
 As much as I'm proud of the curriculum, it's the assembly of fascinating and friendly people that is fast becoming an equally powerful draw. Just yesterday, we had our final three capstone presentations from a director in Slovenia, a Buddhist monk in Australia, and an experienced business consultant in "regenerative management" in the US. (They are other things as well, I don't mean to typecast!)
@@ -49,7 +47,6 @@ As much as I'm proud of the curriculum, it's the assembly of fascinating and fri
 I love these workshops and remain hugely grateful for their existence. But that said, the next LIVE workshop won't be until later this summer.
 
 ## On the upcoming Guided Self-Study
-
 But there is a solution for those of you who don't want to wait. The 6-week Guided Self-Study program starts on April 6th. Along with the curriculum and access to the LYT community, there will also be 3+ live hours (the orientation plus a couple coach-led sessions).
 
 Registration will open next week on March 21st. I'll share the details then.

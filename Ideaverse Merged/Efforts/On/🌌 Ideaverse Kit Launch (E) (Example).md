@@ -6,7 +6,9 @@ created: 2023-08-19
 rank: "5"
 aliases:
 - Ideaverse Kit Launch (E) (Example)
+title: "🌌 Ideaverse Kit Launch (E) (Example)"
 ---
+# 🌌 Ideaverse Kit Launch (E) (Example)
 The Ideaverse for Obsidian can be both efficient and evocative. 
 
 Without being present, I want to give as much useable value as possible.
@@ -16,10 +18,8 @@ Without being present, I want to give as much useable value as possible.
 
 
 # Things I've Shared Ahead of Time
-
 > [!NOTE]+ From Friday, 2023-08-18 Newsletter
 > # 🌌 Ideaverse for Obsidian launches soon!
-> 
 > **Ideaverse for Obsidian** launches on Product Hunt on Wed, Aug 30th. You can help by [creating a Product Hunt account](https://www.producthunt.com) ahead of time to support the launch. Here are some things to expect:
 > 
 > - A working Home Dashboard that combines Knowledge & Action
@@ -37,7 +37,6 @@ Without being present, I want to give as much useable value as possible.
 > ​
 > 
 > ## ACE gives you 3 Spaces for the 3 Head Spaces of PKM
-> 
 > In PKM, there are three main Head Spaces to move between.
 > 
 > - Knowledge-based (The Atlas folder)
@@ -67,7 +66,6 @@ Without being present, I want to give as much useable value as possible.
 > ​
 > 
 > ## ACE helps you with Context-Switching
-> 
 > It's hard to switch contexts. It's also hard to know when you should. ACE helps with that.
 > 
 > When I’m frolicking in the forest of new information, it's my own enthusiasm that propels my learning.
@@ -93,7 +91,6 @@ Without being present, I want to give as much useable value as possible.
 
 > [!NOTE]+ From Friday, 2023-07-21 Newsletter
 > # Ideaverse
-> 
 > I had a rather big breakthrough with the core system of knowledge management that I teach. It has to do with my quest for a universal folder system that works for me, other sensemakers, for links, for my Finder, and for teams. I believe ACCESS has achieved it's final form...
 > 
 > ​[The Ultimate Folder System: A quixotic journey to ACE](https://forum.obsidian.md/t/the-ultimate-folder-system-a-quixotic-journey-to-ace/63483)​

@@ -7,7 +7,9 @@ related:
 created: 2021-01-01
 tags:
   - map
+title: "Why Efforts are Liberating"
 ---
+# Why Efforts are Liberating
 Thinking of your efforts as "efforts"—and not projects—is liberating and empowering because:
 
 - **The definition is clear** 

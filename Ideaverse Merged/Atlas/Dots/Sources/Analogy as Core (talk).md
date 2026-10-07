@@ -18,7 +18,9 @@ by:
 YearXP: 2020
 URLs:
   - https://www.youtube.com/watch?v=n8m7lFQ3njk
+title: "Analogy as Core (talk)"
 ---
+# Analogy as Core (talk)
 ##### Overview
 - **What**: In this Presidential Lecture, cognitive scientist [[Ideaverse Merged/Atlas/Dots/People/Douglas R. Hofstadter]] examines the role and contributions of analogy in cognition, using a variety of analogies to illustrate his points. 
 - **Why**: This is important to me because of it is about how to talk about, and define, thinking—especially figurative language and concepts. 

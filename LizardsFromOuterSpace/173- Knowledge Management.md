@@ -1,3 +1,7 @@
+---
+title: "173- Knowledge Management"
+---
+# 173- Knowledge Management
 # Knowledge Management
 Knowledge Management is the second layer of abstraction in note taking, with the first being information storage as a solution to a limited memory. Once the information has been stored, then you add layers of structure to facilitate information retrieval. This means being able to find the right set of information once you are presented with a retrieval cue ([[197- Retrieval Cues]]). 
 

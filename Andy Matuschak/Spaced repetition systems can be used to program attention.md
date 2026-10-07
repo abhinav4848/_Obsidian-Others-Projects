@@ -1,9 +1,9 @@
 ---
-URL: https://notes.andymatuschak.org/zSK4LyrCbG9zDrdCWmcovUW?stackedNotes=zB92WZZ5baBHKZPPbWMbYEv&stackedNotes=z53zJy6y76MGuJuWW4Qvab9
+URL: ["https://notes.andymatuschak.org/zSK4LyrCbG9zDrdCWmcovUW?stackedNotes=zB92WZZ5baBHKZPPbWMbYEv&stackedNotes=z53zJy6y76MGuJuWW4Qvab9", "https://notes.andymatuschak.org/zB92WZZ5baBHKZPPbWMbYEv"]
+title: "Spaced repetition systems can be used to program attention"
 ---
 # Spaced repetition systems can be used to program attention
 # Spaced repetition systems can be used to program attention
-
 [[Spaced repetition memory systems make memory a choice]], but the computerized component’s value lies specifically in dynamically scheduling and selecting questions to be reviewed. In some sense, the efficacy of a [[Spaced Repetition memory system]] comes from its power to *program your attention* ([[Programmable attention]]). Think: “{cron} for your mind.” 
 
 Manually making decisions about which cards to review would be far too taxing on a per-card basis. The transaction cost is too high. When that work is mostly outsourced, you can make a coarser decision—to devote your attention to SRS practice for 10 minutes—and then let your attention be directed by the machine within that block.
@@ -19,7 +19,7 @@ Systematically, we can generalize spaced repetition to:
 
 Within a traditional flashcard-style system, you can use this observation to go far beyond memorization: see [[Spaced repetition memory systems can be used to prompt application, synthesis, and creation]] and [[Spaced repetition may be a helpful tool to develop or change habits]]. [[Spaced repetition prompt design is about designing tasks for your future self]]. 
 
-But the core *concept*—automatically arranging and presenting tasks according to some expanding schedule—can be instantiated in many interfaces and domains. I call this notion [Spaced everything](https://notes.andymatuschak.org/z9hscgkG2TeqgUtu3vAEW3U).
+But the core *concept*—automatically arranging and presenting tasks according to some expanding schedule—can be instantiated in many interfaces and domains. I call this notion [[Andy Matuschak/Spaced everything|Spaced everything]].
 
 As a pianist, I have a huge number of technical exercises that I maintain: e.g. scales, argpeggios, and patterns played in variations across each key. I only want to work on exercises for 20-30 minutes a day. Which ones should I do? You can imagine a system which:
 
@@ -34,15 +34,15 @@ It’s interesting to imagine a single interface malleable enough that I could d
 
 Some examples:
 - [[Incremental reading]]
-- [Timeful text](https://notes.andymatuschak.org/zAb9R6nYuTyN6PBC4rQY9aY) (Not worth linking)
+- [[Andy Matuschak/Timeful text|Timeful text]] (Not worth linking)
 - [[Spaced repetition may be a helpful tool to incrementally develop inklings]]
 -  [[Spaced repetition can lower the stakes around destructive inbox-maintenance operations]] (to-do lists, email, reading lists, etc)
-- [Readwise](https://notes.andymatuschak.org/zAt1K9ARQYguinoHH8cfaqQ)
+- [[Andy Matuschak/Readwise|Readwise]]
 
 Related: 
 - For applications which can use the simple SRS flashcard format, see [[Unusual applications of spaced repetition memory systems]]
-- [Spaced repetition systems as catechism](https://notes.andymatuschak.org/zPtcwHaKGoLEZRzSoScYXha)
-- [OS-level spaced repetition system](https://notes.andymatuschak.org/zNLoqjEVe5dheMKmTTyB9E3)
+- [[Andy Matuschak/Spaced repetition systems as catechism|Spaced repetition systems as catechism]]
+- [[Andy Matuschak/OS-level spaced repetition system|OS-level spaced repetition system]]
 
 # Related
 **[[Evergreen note maintenance approximates spaced repetition]]** 

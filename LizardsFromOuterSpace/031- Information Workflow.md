@@ -1,3 +1,7 @@
+---
+title: "031- Information Workflow"
+---
+# 031- Information Workflow
 # Information Workflow
 **Information Workflow -** is a framework you can use for thinking about how to deal with incoming information in knowledge work.
 

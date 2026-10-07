@@ -1,3 +1,6 @@
+---
+title: "Narrative as cognitive scaffolding"
+---
 # Narrative as cognitive scaffolding
 A good narrative structures and sequences the key elements of a complex topic, focusing participants’ attention on limited subsets of the ideas so that they’re more able to take each step. This creates [[Cognitive scaffolding]]. A reference article, which may provide the same information without scaffolding, may be a more efficient summary of the topic for an expert, but the first step of its comprehension may be too large for a novice to take.
 
@@ -8,5 +11,4 @@ Narratives fuel emotional involvement by offering interpretation, possible impli
 See also: [[Enacted experiences amplify the power of narrative]]
 
 # References
-
 1.

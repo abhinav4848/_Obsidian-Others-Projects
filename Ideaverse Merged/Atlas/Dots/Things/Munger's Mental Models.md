@@ -4,8 +4,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Maps/Thinking Map]]"
 related: 
 created: 2020-06-01
+title: "Munger's Mental Models"
 ---
-
+# Munger's Mental Models
 ## Short List of Munger's Models
 * Math (Munger is particularly fond of the algebraic idea of inversion, that is, to solve a problem you address it backwards)
 * Accounting (and its limits)

@@ -9,11 +9,12 @@ down:
 tags:
   - "#map/view"
 created: 2023-11-21
+title: "Statements"
 ---
+# Statements
 This note collects all notes in the folder `Statements`.
 
 > [!Mic]+ ## Statements
-> 
 > ```dataview
 > TABLE WITHOUT ID
 >  file.link as "Statements",

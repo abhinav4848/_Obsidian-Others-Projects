@@ -1,6 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zRW4hZmuiYpg2vbedUScDVU
+title: "Kevin Kelly"
 ---
+# Kevin Kelly
 {[thinkism](https://kk.org/thetechnium/thinkism/) is his blog}: Kevin Kelly’s term for the assumption {AI researchers make that more intelligence or cognitive power will solve a problem, rather than more data or a reframing of the problem}
 
 Q. His conversation opener of choice with strangers?  
@@ -17,7 +19,6 @@ A. Try to do something that doesn’t have a name yet—stay “ahead of the lan
 More on “staying ahead of the language”, from [[The Independent Scholars Handbook - Richard Gross]] (p107)
 
 ## From “Excellent Advice for Living”
-
 “Always demand a deadline because it weeds out {the extraneous and the ordinary}. A deadline prevents you from trying to make it perfect, so {you have to make it different. Different is better}.”
 
 “If you ask for someone’s feedback, you’ll get a critic. But if instead {you ask for advice, you’ll get a partner}.”

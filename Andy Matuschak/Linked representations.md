@@ -1,3 +1,6 @@
+---
+title: "Linked representations"
+---
 # Linked representations
 (stub)
 

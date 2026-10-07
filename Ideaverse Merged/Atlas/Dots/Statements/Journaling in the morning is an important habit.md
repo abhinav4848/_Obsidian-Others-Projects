@@ -5,8 +5,9 @@ related:
   - "[[Ideaverse Merged/Atlas/Dots/Statements/Important habits preserve mental clarity and a sense of control]]"
 created: 2014-07-28
 modified: 2020-05-28
+title: "Journaling in the morning is an important habit"
 ---
-
+# Journaling in the morning is an important habit
 **Steps**:
 Immediately upon waking, roll over and grab your phone or notebook or laptop, and start journaling. Type or write for 5 minutes. 
 

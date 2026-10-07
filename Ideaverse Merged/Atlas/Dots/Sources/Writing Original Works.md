@@ -12,15 +12,14 @@ URL: https://www.linkingyourthinking.com/wow
 version:
   - "1.5"
 year: 2024
+title: "Writing Original Works"
 ---
+# Writing Original Works
 ### The WOW Course in a nutshell...
-
 #### Who's it for?
-
 The WOW Course is for those who have a lot of ideas but struggle with turning them into original works—whether that is a 100-word essay or a 1,000 page novel. 
 
 #### What will I learn?
-
 In this course, you will learn:
 
 - How to use linked notes to catalyze your ideas and generate valuable insights.
@@ -28,7 +27,6 @@ In this course, you will learn:
 - A reliable process using linked notes to write original works.
 
 #### **What is included?**
-
 In this course, you can expect **clear and focused lessons** with instructional videos including in-depth, hands-on demonstrations that teach you how to write with linked notes. The course covers six timeless principles of writing in their own modules. Let’s learn more about it below.  
   
 ‍**Achievable next actions and takeaways for each lesson** so you can easily put what you learn into practice immediately.  

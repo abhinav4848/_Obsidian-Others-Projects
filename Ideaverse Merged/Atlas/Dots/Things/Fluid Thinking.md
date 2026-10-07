@@ -3,7 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Maps/Thinking Map]]"
 related: []
 created: 2020-06-01
+title: "Fluid Thinking"
 ---
+# Fluid Thinking
 Being able to think fluidly gives you the awareness and skill to think from the right level of abstraction at the right time.
 
 > **Fluid Thinking** is the ability to skillfully adjust your perspective— zooming in and out of the levels of emergence. This allows you to approach a problem from the inside and the outside…tacking back and forth with ease to generate new value and find novel solutions.

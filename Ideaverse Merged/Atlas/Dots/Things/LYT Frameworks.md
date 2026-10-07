@@ -3,7 +3,9 @@ up:
   - "[[Ideaverse Merged/Ideaverse Map]]"
 related: []
 created: 2020-06-01
+title: "LYT Frameworks"
 ---
+# LYT Frameworks
 LYT stands for "Linking Your Thinking".
 
 The LYT framework super-charges your digital library by giving you the ability to use fluid frameworks—like MOCs and a Home note—to enhance your ability to find things, create things, and develop ideas over time.

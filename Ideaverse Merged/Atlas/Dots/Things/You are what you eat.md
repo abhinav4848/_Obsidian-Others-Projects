@@ -6,8 +6,9 @@ created: 2020-06-01
 tags:
   - concept
   - note/develop🍃
+title: "You are what you eat"
 ---
-
+# You are what you eat
 Growing up, I'd here this around the dinner table. Of course you don't become broccoli if you eat broccoli. 
 
 But you do become shaped by your food in life-altering ways. Everything from our health (obvious), to our disposition (less obvious), and to our gut biome, which likely affects our epigenetics. 

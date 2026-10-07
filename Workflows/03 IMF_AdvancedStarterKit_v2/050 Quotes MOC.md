@@ -1,3 +1,7 @@
+---
+title: "050 Quotes MOC"
+---
+# 050 Quotes MOC
 tags: #quotes #MOC
 links: [[000 Index|Index]], [[050 Quotes MOC|Quotes]]
 

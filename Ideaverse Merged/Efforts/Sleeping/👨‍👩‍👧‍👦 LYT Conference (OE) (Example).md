@@ -6,14 +6,15 @@ created: 2023-08-19
 rank: "0"
 aliases:
 - LYT Conference (OE) (Example)
+title: "👨‍👩‍👧‍👦 LYT Conference (OE) (Example)"
 ---
+# 👨‍👩‍👧‍👦 LYT Conference (OE) (Example)
 Linked notes needs quality guides for it to grow sustainably
 
 Let's Raise awareness and excitement about link-based thinking.
 
 
 ## Previous Conferences
-
 - [[LYT Conference 3 (E) (Example)]]
 - [[LYT Conference 2 (E) (Example)]]
 - [[LYT Conference 1 (E) (Example)]]

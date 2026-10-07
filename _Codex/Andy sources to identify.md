@@ -1,5 +1,7 @@
+---
+title: "Andy sources to identify"
+---
 # Andy sources to identify
-
 116 notes have no clearly identified original-note source URL. Ordinary bibliography and related-note links were retained as citations.
 
 Confirm the original note by its title and content before adding a URL. An external link somewhere in a note is not enough evidence that it is the note’s own source.

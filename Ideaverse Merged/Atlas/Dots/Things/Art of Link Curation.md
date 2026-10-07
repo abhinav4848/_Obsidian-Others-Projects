@@ -3,8 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Dots/Things/You are what you eat]]"
 related: []
 created: 2020-06-01
+title: "Art of Link Curation"
 ---
-
+# Art of Link Curation
 *Links matter.*
 
 Sharing link-based knowledge online has revealed new responsibilities—and opportunities.

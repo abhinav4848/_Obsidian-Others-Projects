@@ -6,7 +6,9 @@ in:
 created: 2020-06-01
 tags:
   - note/develop🍃
+title: "Cause and Effect"
 ---
+# Cause and Effect
  *I am, inevitable.*
 
 alts

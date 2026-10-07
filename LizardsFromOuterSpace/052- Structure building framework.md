@@ -1,5 +1,8 @@
+---
+title: "052- Structure building framework"
+---
+# 052- Structure building framework
 # Structure building framework
-
 Structure Building Framework lays out the mental processes used to understand and create meaning out of text. You do this through creating mental structures ([044- Model](044-%20Model.md)) out of the information you are studying. When done properly, through rule learning, you are taking the most salient points from a text and relating them to each other with hierarchies and webs of knowledge, while ignoring the irrelevant details.
 
 For example, if you think of a medieval society, their exists vertical relationships (king and his subjects) and horizontal ones (different guilds operating in a town).

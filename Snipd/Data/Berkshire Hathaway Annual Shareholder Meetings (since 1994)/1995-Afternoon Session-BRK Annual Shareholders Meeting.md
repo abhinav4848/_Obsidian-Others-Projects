@@ -12,9 +12,9 @@ show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.ne
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
+title: "1995-Afternoon Session-BRK Annual Shareholders Meeting"
 ---
 # 1995-Afternoon Session-BRK Annual Shareholders Meeting
-
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_episode%2F2786660%2F2786660-1631076421790-5c70ecee5d2c2.jpg&w=200&h=200)
 
 ## Episode metadata
@@ -28,23 +28,19 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ###  [Future of Banking](https://share.snipd.com/snip/db38e3e1-2964-4580-9097-6593c4cb0e4f) 
-
 🎧 01:44:06 - 01:44:53 (00:46)
 
 - Expect major changes in banking over the next 20 years, with potential for new players to disrupt existing ones.
 - Read Jonah Sarah's book on the history of credit cards to understand the potential for change in the movement of money.
 
 #### 💬 Quote
-
 > If you read that you will get some idea of the amount of change that it can occur in something like uh you know the movement of money.
 > — Speaker 0
 
 Speaker 0 on changes in the banking industry
 
 #### 📚 Transcript
-
 investment consideration Charlie
 
 yeah the

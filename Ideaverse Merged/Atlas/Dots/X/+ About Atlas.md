@@ -3,7 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Maps/Meta PKM]]"
 related: []
 created: 2023-08-18
+title: "+ About Atlas"
 ---
+# + About Atlas
 An Atlas is a "map of maps". 
 
 The Atlas folder contains your map notes (MOCs), ideas, assets, and other bits of knowledge.

@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zKRrv2DmKp3VyDEp3oXrKXQ&stackedNotes=zCQuiDgcNqncwB6pTvhdRWk
+title: "The mnemonic medium keeps readers in contact with material over time"
 ---
 # The mnemonic medium keeps readers in contact with material over time
-
 Impact on memory aside, [[Mnemonic medium]] readers maintain ongoing contact with what they’ve read through the review sessions. Rather than reading something once and perhaps never thinking about it again, the review sessions bring readers back to that text again and again. This is a kind of [[Timeful text]].
 
 What is the effect of this contact over time?
@@ -14,4 +14,4 @@ What is the effect of this contact over time?
 
 Going beyond simple contact: [[The mnemonic medium can be adapted to author an experience which unfolds over time]].
 
-[Readwise](https://notes.andymatuschak.org/zAt1K9ARQYguinoHH8cfaqQ) tries to produce a similar effect through more passive engagement.
+[[Andy Matuschak/Readwise|Readwise]] tries to produce a similar effect through more passive engagement.

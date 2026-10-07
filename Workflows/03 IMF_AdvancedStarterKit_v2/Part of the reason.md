@@ -1,3 +1,7 @@
+---
+title: "Part of the reason"
+---
+# Part of the reason
 Get into the habit of answering complex questions by starting with: *"Part of the reason why is because..."*
 
 ---

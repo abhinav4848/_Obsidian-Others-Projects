@@ -9,11 +9,12 @@ related:
 created: 2023-01-01
 tags:
   - map/view
+title: "Collections"
 ---
+# Collections
 These are collections across your ideaverse. 
 
 > [!planet]+ ## Atlas Collections
-> 
 > > [!map] [[Ideaverse Merged/Atlas/Maps/Maps]] 
 > 
 > > [!aperture] [[Ideaverse Merged/Atlas/Maps/Things]] | [[Ideaverse Merged/Atlas/Maps/Concepts]] | [[Ideaverse Merged/Atlas/Maps/People]] | [[Ideaverse Merged/Atlas/Maps/Entities]]
@@ -23,12 +24,10 @@ These are collections across your ideaverse.
 > > [!armchair] [[Ideaverse Merged/Atlas/Maps/Books]] | [[Ideaverse Merged/Atlas/Maps/Movies]] | [[Ideaverse Merged/Atlas/Maps/Series]]
 
 > [!Calendar]+ ## Calendar Collections
-> 
 > > [!calendar] [[Ideaverse Merged/Atlas/Maps/Meetings]]
 > 
 
 > [!Training]+ ## Efforts Collections
-> 
 > > [!Training] [[Ideaverse Merged/Atlas/Maps/Efforts]] 
 
 ![[Ideaverse Merged/x/Images/whelan-space-station-1978-narrow.jpg|700]]
@@ -36,7 +35,6 @@ These are collections across your ideaverse.
 > [!NOTE] **Collections** are a work in progress because they leverage "Obsidian Properties", which is still under development, with new features still expected. What you see here is very much a test...or as we like to say, a "minimum shareable draft".
 
 # Installation instructions for special collections
-
 ## Books
 - [[Ideaverse Merged/Atlas/Maps/Books]] | [[Ideaverse Merged/x/Templates/Book Template]]
 	- Current Install Instructions (Difficulty Level: 5/10)

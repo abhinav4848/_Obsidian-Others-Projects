@@ -3,6 +3,7 @@ up:
   - "[[Ideaverse Merged/Ideaverse Map]]"
 related: []
 created: 2020-06-01
+title: "MOCs are Dialectics"
 ---
 Ideas are often forged in argument where opposing propositions are set against each other. 
 
@@ -10,7 +11,7 @@ This is what happens when notes are placed in a room together and forced to figu
 
 Ideas bump and jostle. Some combine into something greater. Some split apart and stand on their own. Some are challenged and grow stronger, others are challenged and go away. Some are born into creation out of necessity. 
 
-### MOCs are Dialectics
+# MOCs are Dialectics
 MOCs create the conditions of a Hegelian dialectic, with you acting as arbiter. Notes enter with some sort of unique idea (Thesis). They encounter conflicts with each other (Antithesis). After many arguments, a generally agreed-upon spatial arrangement is reached (Synthesis).
 
 > [!NOTE]- Some links and content in this note have been removed.

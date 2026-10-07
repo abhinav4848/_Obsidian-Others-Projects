@@ -20,5 +20,7 @@ peopleDomain:
   - Warfare
   - Other
   - Public Figure
+title: "People Classification Master Key"
 ---
+# People Classification Master Key
 This note has all of the possible values for `peopleType` and `peopleDomain` based on the [[Ideaverse Merged/Atlas/Dots/X/Meta/LYT Standards of Classification]].

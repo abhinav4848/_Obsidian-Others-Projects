@@ -1,5 +1,8 @@
+---
+URL: "https://notes.andymatuschak.org/zUhd6Hb5dk35PPpnCHvd6bV"
+title: "Note-writing practices provide weak feedback"
+---
 # Note-writing practices provide weak feedback
-
 One reason why [[Note-writing practices are generally ineffective]] may be that note systems generally offer poor feedback.
 
 If one starts a spaced repetition practice, they’ll get strong feedback every day: if they write a bad question, it’ll bother them immediately and regularly thereafter; they’ll feel (to some extent) their growing retention of a given topic.
@@ -17,4 +20,3 @@ In general, people don’t have a clear picture of what a note _should_ be, so
 
 > There is another reason that note-taking flies mostly under the radar: We don’t experience any immediate negative feedback if we do it badly.
 
-2. [Note-writing practices provide weak feedback](https://notes.andymatuschak.org/zUhd6Hb5dk35PPpnCHvd6bV) 

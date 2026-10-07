@@ -28,6 +28,8 @@ yearXP: 2000
 yearXPL: 2020
 showStatus: watched
 rating: 5.3
+title: "The Terminator"
 ---
+# The Terminator
 ![poster](https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg)
 

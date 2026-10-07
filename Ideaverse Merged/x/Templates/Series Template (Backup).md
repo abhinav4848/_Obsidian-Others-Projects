@@ -1,3 +1,7 @@
+---
+title: "Series Template (Backup)"
+---
+# Series Template (Backup)
 This is a backup because the formatting of [[Ideaverse Merged/x/Templates/Movie Template (QuickAdd)]] seems to get wonky. When that happens, you can copy and paste the below:
 
 ```

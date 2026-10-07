@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zKtYU4Uk7aTCGyqHr9Ca3Sb?stackedNotes=zaDSgGYrcUSuQty6WSMm2H&stackedNotes=zSpH2JJ636oT9zLw1SskCTX
+title: "Most (especially early) experimental literature on the spacing effect involves inauthentic learning environments"
 ---
 # Most (especially early) experimental literature on the spacing effect involves inauthentic learning environments
-
 In particular, students are generally studying materials which are unrelated to their primary classroom focus—e.g. vocabulary words for languages they’re not learning; arbitrary facts about various animal species or places or historical events; etc.
 
 It’s not clear to what extent results established in this context will extend to naturalistic settings. This is a special case of [[Most experimental psychology on learning involves people learning things they don’t care about]].

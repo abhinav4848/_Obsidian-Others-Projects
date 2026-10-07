@@ -5,8 +5,9 @@ related: []
 created: 2018-02-20
 tags:
   - note/boat🚤
+title: "People's attributes are domain-specific"
 ---
-
+# People's attributes are domain-specific
 *Just because Frank is good at ABC doesn't mean he's good at XYZ.*
 
 Imagination is domain-specific…sometimes a person’s attributes cross domains, but don’t assume they do. This is related to the [[Dunning-Kruger Effect]]. (not included in Ideaverse for Obsidian)

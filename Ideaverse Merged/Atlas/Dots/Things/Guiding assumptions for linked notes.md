@@ -3,12 +3,12 @@ up:
   - "[[Ideaverse Merged/Ideaverse Map]]"
 related: []
 created: 2020-06-01
+title: "Guiding assumptions for linked notes"
 ---
-
+# Guiding assumptions for linked notes
 > The external part of your ideaverse should make sense and be useable to someone else—including and especially your future self. 
 
 ## On linking and thinking
-
 > When you manually make connections between notes, you foster new insights, enhance note retrieval, and improve your understanding.
 
 - When you get repetitions with your ideaverse, you literally improve your memory, as your brain rewires your knowledge more effectively and efficiently.

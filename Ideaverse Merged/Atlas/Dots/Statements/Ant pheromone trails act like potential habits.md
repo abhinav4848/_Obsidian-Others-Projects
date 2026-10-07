@@ -4,8 +4,9 @@ up:
 related:
   - "[[Ideaverse Merged/Atlas/Dots/Things/Cobwebs into Cables]]"
 created: 2021-01-01
+title: "Ant pheromone trails act like potential habits"
 ---
-
+# Ant pheromone trails act like potential habits
 *Pheromone trails can become pheromone super-highways.*
 
 Ants produce a mixture of chemicals that they leave behind as they walk, which we then refer to as pheromone trails. These trails lead the ants to food and water sources.

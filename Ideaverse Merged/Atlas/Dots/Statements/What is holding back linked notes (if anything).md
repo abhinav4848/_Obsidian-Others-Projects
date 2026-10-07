@@ -4,6 +4,7 @@ in:
 related:
   - "[[2023-02-13]]"
 created: 2023-11-26
+title: "What is holding back linked notes (if anything)"
 ---
  
 

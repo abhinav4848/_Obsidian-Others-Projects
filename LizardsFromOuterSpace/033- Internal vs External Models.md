@@ -1,5 +1,8 @@
+---
+title: "033- Internal vs External Models"
+---
+# 033- Internal vs External Models
 # Internal vs. External Models
-
 [055- External Models](055-%20External%20Models.md) (event models) are ones that you go to for advice when a common (e.g. relationship break up) or uncommon (e.g. great depression occurs) event happens. 
 
 **Internalized models ([055- Internal models](055-%20Internal%20models.md))** are ones you want to memorize after they get sufficiently developed. These are models that you memorize either because you use them frequently (e.g. model of how to drive for your daily drive to work) or they are highly valuable. 

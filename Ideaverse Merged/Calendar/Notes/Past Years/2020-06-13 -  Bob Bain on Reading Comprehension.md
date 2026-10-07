@@ -8,7 +8,9 @@ encountered: 2020-06-13
 in:
   - "[[Articles]]"
   - "[[Ideaverse Merged/Atlas/Maps/Sources]]"
+title: "2020-06-13 -  Bob Bain on Reading Comprehension"
 ---
+# 2020-06-13 -  Bob Bain on Reading Comprehension
  *Support, Extend, Challenge*
 
 “those verbs emerged from work we did trying to understand active reading to figure out ways to help high school students become active readers about “stuff” teachers were teaching. It occurred to us that all new information or ideas must support, extend, or challenge existing ideas or information you already have and that has led to those verbs being cognitive tools for students” Bob Bain

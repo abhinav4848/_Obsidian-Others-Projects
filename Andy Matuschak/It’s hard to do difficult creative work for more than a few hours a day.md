@@ -1,3 +1,6 @@
+---
+title: "It’s hard to do difficult creative work for more than a few hours a day"
+---
 # It’s hard to do difficult creative work for more than a few hours a day
 I notice that when working on difficult creative projects, I usually can’t meaningfully work for more than 4 or 5 hours a day, and most days it’s more like 3. By contrast, when I’m programming or doing other relatively more mechanical work, diminishing returns occur at more like 8 or 9 hours. Sometimes more if the work is somewhat varied, or if it’s very well-specified.
 
@@ -40,7 +43,7 @@ Some related references at [What Is The Morning Writing Effect? · Gwern.net](h
 > Accept that you max out at 4 hours a day, and make sure you actually hit it every day.
 > 
 
-[Kevin Kelly](https://notes.andymatuschak.org/zRW4hZmuiYpg2vbedUScDVU):
+[[Andy Matuschak/Kevin Kelly|Kevin Kelly]]:
 
 > Efficiency is highly overrated; Goofing off is highly underrated. Regularly scheduled sabbaths, sabbaticals, vacations, breaks, aimless walks and time off are essential for top performance of any kind. The best work ethic requires {a good rest ethic}.
 > 

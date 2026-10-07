@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zX95uZHiGWNiNTDF3wETWtq?stackedNotes=zGsRWkonFv1KGAsWwiYA3he&stackedNotes=zMHusNNzg8DveY5HJFbh1RU
+title: "Digital annotation is too formal"
 ---
 # Digital annotation is too formal
 Computerized annotations are too literal and constraining in their data structure. For example, they represent annotation using precise textual ranges. But when I mark up a book, I’m often gesturing at a general area, not an exact range. Often there _is_ no exact range that corresponds to what I’m referencing. To specify an exact range would be misleading (and distracting in presentation).

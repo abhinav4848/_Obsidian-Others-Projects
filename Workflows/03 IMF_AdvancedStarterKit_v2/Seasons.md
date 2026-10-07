@@ -1,3 +1,6 @@
+---
+title: "Seasons"
+---
 # Seasons
 - natural example of ying and yang...ebb and flow...doesn't have to be duality
 - Many things are cyclical: the seasons, perennials, the moon, period's for women.
@@ -7,8 +10,6 @@
     - Alan Watts observed that a Chinese child will ask, "How does a baby grow?" But an American child will ask, "How do you make a baby?" 
 
 ### Example Usage, Keywords, Concepts, and Metaphors
-
-
 ### Somebody's decent quote about seasons
  *The notion that our lives are like the eternal cycle of the seasons does not deny the struggle or the joy, the loss or the gain, the darkness or the light, but encourages us to embrace it all-and to find in all of it opportunities for growth.*
 From an early age, we absorb our culture's arrogant conviction that we manufacture everything, reducing the world to mere "raw material" that lacks all value until we impose our designs and labor on it.”

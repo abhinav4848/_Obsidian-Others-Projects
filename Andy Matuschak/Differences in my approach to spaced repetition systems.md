@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zHfGyWHe5JaMW3874CHqf69
+title: "Differences in my approach to spaced repetition systems"
 ---
 # Differences in my approach to spaced repetition systems
 There are already many implementations of a [[Spaced repetition memory system]]. Why invest more effort here? Collecting notes on some of the key differences in my approach here to help key myself oriented toward high-order bits.

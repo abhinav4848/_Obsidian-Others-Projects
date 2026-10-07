@@ -14,9 +14,10 @@ show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcas
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 9
 from_snipd: true
+title: "How To Make $5 Million As a Content Creator _ Ali Abdaal"
 ---
+# How To Make $5 Million As a Content Creator _ Ali Abdaal
 # How To Make $5 Million As a Content Creator | Ali Abdaal
-
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F9c87db06-9390-11ed-8892-db945f862e11%2Fimage%2FLeveling-Up---Podcast-ArtArtboard-3.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=200&h=200)
 
 ## Episode metadata
@@ -32,15 +33,12 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ###  [Diversified Business Model and Revenue Growth through Strategic Application of Principles](https://share.snipd.com/snip/8fd8087b-1d4f-44de-92f0-0b78903b6763) 
-
 🎧 01:57 - 03:18 (01:20)
 
 The business model includes 99% free content and 1% paid content, with over 50% of revenue from online courses, 20% from ads and brand deals each, and 10% from affiliates. After applying principles from .com secrets, $100 million offers, and copywriting secrets, the revenue from the part time YouTube Academy course jumped from 300k to 1.9 million, showing a sevenfold increase.
 
 #### 📚 Transcript
-
 What's the business model look like right now? You've got courses, you've got a lot of different things going on. Yeah, so fundamentally, it's we make lots of content.
 
 And I think of it as the 99.1.1 rule. So 99% of our content is free. 1% of our stuff is paid for the 1% of the audience who can afford it. And so like more than 50% of the revenue comes from our online courses. 20% of it also comes from ads, adsense 20% from brand deals and the other 10% from affiliates and random bits and bobs here and there. So mostly online courses. We were running our course, the part time YouTube Academy. I've been running this every few months for the last two or so years.
@@ -60,13 +58,11 @@ like literally just purely based and you know, people sometimes ask me, oh, you 
 ---
 
 ###  [Decoupling Personal Brand from Content Delivery](https://share.snipd.com/snip/9e165fa7-95f0-4756-921a-320e7189c261) 
-
 🎧 08:11 - 08:57 (00:46)
 
 The speaker aims to decouple the value provided to the audience from their personal presence on camera by launching a daily productivity email newsletter with a hired writer. This approach allows for the creation of assets and delivery vehicles for courses and products that do not rely on the speaker's direct involvement, presenting a challenge that the speaker is seeking to address.
 
 #### 📚 Transcript
-
 And
 
 B, more broadly, how do we decorulate
@@ -80,13 +76,11 @@ I can contribute to, but it's not directly tied to me. And so what we're trying 
 ---
 
 ###  [Growing Email List Through Video Content](https://share.snipd.com/snip/cb81843d-b090-4b8c-bb4b-fb8955a2dcff) 
-
 🎧 11:58 - 13:27 (01:29)
 
 The speaker strategically promotes their email list in every video using lead magnets like a Google sheet template, resulting in 50,000+ subscribers from one video. They also mention the newsletter in the middle of the video, leading to a significant weekly increase in subscribers. Despite focusing on organic YouTube traffic, they are also working on improving SEO to grow their email list.
 
 #### 📚 Transcript
-
 We try and plug the email
 
 list somehow in every video. So in the middle of the video, in our sort of video production checklist, we have a checklist that says, Have we plugged the email list? So either we'll do that through a lead magnet. So let's say it's a video about how I manage my time. I'll be thinking when I'm making the video, what is the freebie I can give away with this? So one of our most successful lead magnets was just a Google sheet template that I made that Bob actually made, which was very kind of a I sort of use a Google sheet as my annual calendar. And I just said to Bob, Hey, can you turn this into a pretty version that we can just, you know, let people download. And so we just have this as a Google sheet link.
@@ -106,13 +100,11 @@ you're getting there.
 ---
 
 ###  [Utilizing Email Marketing for Revenue Generation](https://share.snipd.com/snip/c4ba5d52-383d-40f7-9617-5a52c1bdaaae) 
-
 🎧 13:27 - 14:54 (01:26)
 
 The main driver for revenue is the email list, as it serves as a bridge between content and products. The speaker prefers using email to promote free educational courses and attract subscribers, thus leading to revenue from course sales. Initially, launches were done through email for live cohorts, but now an evergreen model is preferred. Daily emails are sent to provide value with an offer at the end, and future plans include launching a new productivity course with a waiting list and early discount strategy. The speaker dislikes live cohorts for online courses and has been influenced by the book 'Oversubscribed' for launch-based product marketing.
 
 #### 📚 Transcript
-
 I don't even consider SEO right now. You're good on all the other stuff. So is the email the main driver for your revenue right now? Are you pushing them to like buy or
 
 is it like pushing them to a webinar? Like, how does that sequence work? Yeah. So the email is the bridge between our content and our products.
@@ -144,13 +136,11 @@ you said you hate live cohorts. Why? So a standard online course, uh, I think Mo
 ---
 
 ###  [Challenges of Live Course Launches and the Appeal of Evergreen Courses](https://share.snipd.com/snip/2937f91b-4711-496a-bd31-e4d9b46f1a75) 
-
 🎧 16:57 - 18:03 (01:06)
 
 Running live course launches requires continuous effort to convince people to sign up, leading to stress, burnout, and a never-ending cycle. Despite high completion rates, the stress and burnout rates are also high. This led to the decision to transition to evergreen courses to avoid the stress and constant cycle of launches. Additionally, the idea of selling courses as perceived progress may not align with the speaker's beliefs.
 
 #### 📚 Transcript
-
 But then we
 
 felt like we had to work harder and harder to convince people to sign up to the course. And that just felt
@@ -162,13 +152,11 @@ an evergreen course. So I hate launches. And so internet marketing world is used
 ---
 
 ###  [Low completion rates in paid courses and products](https://share.snipd.com/snip/98802261-03c7-4ee9-b429-0422aa8e155b) 
-
 🎧 18:12 - 19:34 (01:21)
 
 Only 60% of people submit the first week homework assignment in a live course that charges between 1500 and 5000 dollars. By week six, the completion rate drops to 15%, despite the course offering accountability, live support, and a money back guarantee. A similar trend is seen with the purchase of products like Peloton, where many people don't even unbox the item or use it after fulfilling an emotional need.
 
 #### 📚 Transcript
-
 How
 
 are you seeing it? Yeah, I mean, honestly, even with our live, you know, we would charge somewhere between 1500
@@ -192,13 +180,11 @@ it.
 ---
 
 ###  [Entrepreneurial journey and focus on business growth](https://share.snipd.com/snip/0078d35d-881d-4dee-87aa-f06210920685) 
-
 🎧 25:48 - 27:01 (01:12)
 
 The speaker learned web design and started affiliate marketing at a young age to make money on the internet. They later succeeded in launching a business to help people get into medical school. Despite a phase of playing video games, they continued to dabble in web design to afford their gaming subscription. Currently, the speaker is focused on understanding the bottlenecks to their business growth and setting priorities, inspired by a recent video on business success.
 
 #### 📚 Transcript
-
 But one has to ask at age 13, like, what was going on in your head to sign up for these? Oh, I was trying to make money on the internet. So I taught myself a freelance web design. I made like a niche affiliate marketing site. Yeah. I tried to make like a
 
 pyramid scheme. I was doing like a bunch of random PHP and
@@ -238,13 +224,11 @@ the goal is.
 ---
 
 ###  [Maximizing Revenue through Productivity Courses and Upselling](https://share.snipd.com/snip/4f5380de-4722-4523-a257-d5b662bd80fb) 
-
 🎧 30:32 - 31:48 (01:16)
 
 Selling one-time courses to establish customers and then upselling them to a higher ticket, one-on-one coaching service. Considering pricing the productivity course at $2.99 or $2.97 and offering voice-enabled AI-enabled journaling type product as a co-founder. Exploring the idea of acquiring equity stakes in companies for promotion and building partnerships with existing products. Nathan Barry believes that acquiring equity stakes in companies will be the strategy for billion-dollar creators to maximize revenue over time.
 
 #### 📚 Transcript
-
 You're
 
 selling one time courses here. Oh, and then like these people are buying, they're all now customers, right? And then you can upsell them. Okay. So that's what we're working on. So I'm going to make a productivity course. It's probably going to be about $2.99 or $2.97 with maybe a higher ticket, one on one coaching on the back end. Yeah.
@@ -266,13 +250,11 @@ feels good. I think a big part of of my thing is that.
 ---
 
 ###  [Content Creation Strategy Insights](https://share.snipd.com/snip/fe8ba348-89ff-49fa-a97e-45972964199e) 
-
 🎧 41:44 - 43:09 (01:25)
 
 The speaker discusses their content creation strategy, sharing that they condense a whole week of filming into an eight to ten minute video. This approach reduces pressure on each individual day and prevents the feeling of scraping the bottom of the barrel for content. They also prefer a combination of direct camera and someone following them around for vlogging, and emphasize the importance of content feeling good as the guiding philosophy for their creative process.
 
 #### 📚 Transcript
-
 Yeah work day sometimes personal stuff you
 
 know if Bob's around will feel she'll be like hey Ali can you do an intro for the vlog and I'd be like hey vlog you know just about to have lunch with Eric and Saha it's gonna be good we're gonna do podcast blah blah. And we've got like a time-lapse setup over there so you know Bob will get the footage from the time-lapse and if you guys could send us a photo from here as well. Yeah for the splice bits and bobs of the podcast. Yeah. Be like check out the podcast and look up and it'll splice into like a 10 eight to 10 minute edit.

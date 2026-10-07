@@ -1,3 +1,7 @@
+---
+title: "089- Types of thinking"
+---
+# 089- Types of thinking
 # Types of Thinking
 why try to understand the different types of thinking? What are the different types of thinking?
 
@@ -15,5 +19,4 @@ why try to understand the different types of thinking? What are the different ty
 ---
 
 ### Evaluate Research On
-
 Lateral Thinking ([might be BS](https://aeon.co/essays/lateral-thinking-is-classic-pseudoscience-derivative-and-untested)), Cross Thinking, Analogical Thinking, Abstract Thinking, Divergent Thinking, Convergent Thinking, Concrete Thinking, Sequential Thinking, Holistic (nonlinear) Thinking, Conceptual Thinking

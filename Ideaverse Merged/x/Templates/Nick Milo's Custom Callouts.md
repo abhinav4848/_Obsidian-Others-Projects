@@ -6,7 +6,9 @@ related:
 created: 2023-08-01
 aliases:
 - Nick Milo's Starting Custom Callouts
+title: "Nick Milo's Custom Callouts"
 ---
+# Nick Milo's Custom Callouts
 Callouts can bring clarity and a splash of joy to your Ideaverse. Please enjoy over 55 custom callouts for you to use and peruse. A version of this is included and already functioning in Ideaverse Lite, but for other vaults, it requires a couple steps to activate them.
 
 ### 1) Purple

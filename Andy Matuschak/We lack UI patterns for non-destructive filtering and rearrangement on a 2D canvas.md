@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zBeBbzwU8LAyi2D5jqBJpS?stackedNotes=zCRXo3avHi3fNuw43BHM8ch&stackedNotes=zSL87LuijMXkMput8dd1f61
+title: "We lack UI patterns for non-destructive filtering and rearrangement on a 2D canvas"
 ---
 # We lack UI patterns for non-destructive filtering and rearrangement on a 2D canvas
 If you have a table of information, we have a litany of standard patterns for manipulating it non-destructively: you can filter; you can sort; you can manually reorder; you can hide individual elements; etc.
@@ -13,7 +14,7 @@ Another: imagine that I import my reading list into Figma. The whole point of br
 One simplistic solution would be to offer “arrangement snapshots”: at any time, you can save the position of all the artboards to some named configuration. You can sort by some other attribute for a while, then later restore your earlier arrangement. This strikes me as too “manual.”
 
 Related:
-- [Physical cut and paste is a parallel act involving informal intermediate states](https://notes.andymatuschak.org/zCRXo3avHi3fNuw43BHM8ch)
+- [[Andy Matuschak/Physical cut and paste is a parallel act involving informal intermediate states|Physical cut and paste is a parallel act involving informal intermediate states]]
 
 ## References
 This observation came up during a jam session with [Taylor Rogalski](https://notes.andymatuschak.org/Taylor_Rogalski) on [2022-10-17](https://notes.andymatuschak.org/2022-10-17).

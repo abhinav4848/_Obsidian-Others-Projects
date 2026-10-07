@@ -6,7 +6,9 @@ cssclasses:
   - wide-page
 aliases:
 - The ACE Headspace allows for flexible folders
+title: "The ACE Folder Framework Flexes For You"
 ---
+# The ACE Folder Framework Flexes For You
 The ACE Headspace expands and contracts to fit your needs.
 
 Here is how ACE can work for a ***beginner***, a ***navigator***, and a ***zen master***.
@@ -31,7 +33,6 @@ The Beginner needs to make sure not to copy other people's complex systems. Why?
 The navigator has more experience with knowledge management. That means they have had the necessary time to *earn* their structure. *Beginners don't need what the Navigator has.* 
 
 #### Here's how a Navigator can use `Atlas`
-
 > [!Multi-Column]
 > 
 > > [!Fingerprint]+ Atlas Folder Example
@@ -61,7 +62,6 @@ The navigator has more experience with knowledge management. That means they hav
 > 
 
 #### Here's how a Navigator can use `Calendar`
-
 > [!Multi-Column]
 > 
 > > [!Fingerprint]+ Calendar Folder Example
@@ -80,7 +80,6 @@ The navigator has more experience with knowledge management. That means they hav
 >   
 
 #### Here's how a Navigator might use `Efforts`
-
 > [!Multi-column]
 > 
 > > [!Fingerprint]+ Efforts Folder Example

@@ -1,5 +1,8 @@
+---
+title: "062- Layers of structure in a physical zettelkasten"
+---
+# 062- Layers of structure in a physical zettelkasten
 # Layers of structure in a physical zettelkasten
-
 When you build a [002- Zettelkasten](002-%20Zettelkasten.md) you are adding [066- Layers of structure](066-%20Layers%20of%20structure.md) to facilitate note retrieval.
 
 1. **The first layer** is creating a unified medium of storage such that it makes physical storage of the information manageable. Since paper is the most common form of writing, that is a good starting point. I could technically implement it using crayons and the walls of my house but that’d be subpar (still better than chaos).
@@ -9,7 +12,6 @@ When you build a [002- Zettelkasten](002-%20Zettelkasten.md) you are adding [066
 5. **Fifth Layer** is using a branching system for the unique identifiers instead of a sequential system. Luhmann did not do Thematic Branching with his IDs, where you are essentially creating a thematic tree structure. Instead his branching was arbitrary.
 
 # Related:
-
 See:  [093- Layers of Structure in a Digital Zettelkasten](093-%20Layers%20of%20Structure%20in%20a%20Digital%20Zettelkasten.md) 
 
 Zettelkasten & Structure

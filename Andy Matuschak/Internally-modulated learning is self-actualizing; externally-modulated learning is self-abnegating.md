@@ -1,5 +1,8 @@
+---
+URL: "https://notes.andymatuschak.org/zXMrq3eeGJSZV9BqX1E35ex"
+title: "Internally-modulated learning is self-actualizing; externally-modulated learning is self-abnegating"
+---
 # Internally-modulated learning is self-actualizing; externally-modulated learning is self-abnegating
-
 Learning itself is rarely a goal, even when it appears to be. Learning behaviors are generally modulated by other internal or external forces.
 
 Outside educational institutions, learning is usually an instrumental goal on the path to some intrinsically meaningful goal. Implicit learning goals may also emerge as a consequence of authentic curiosity or aesthetic instinct. These instigators are are all internally-situated, so they’re good to have in the driver’s seat: the learning activities will respond naturally to shifts in the individual’s intrinsic goals, curiosity or aesthetic experience. The learning activities express those personal drives and are modulated by them. The learning will stop when the drive stops; rewarding experiences will motivate and shape those personal drives in the future. This is self-actualizing behavior.
@@ -9,7 +12,3 @@ By contrast, some learning behaviors are primarily modulated by external forces.
 This is one reason why [[Enabling environments’ activities directly serve an intrinsically meaningful purpose]] .
 
 See also [[Educational objectives often subvert themselves]].
-
-# Source
-
-1. [Internally-modulated learning is self-actualizing; externally-modulated learning is self-abnegating](https://notes.andymatuschak.org/zXMrq3eeGJSZV9BqX1E35ex)

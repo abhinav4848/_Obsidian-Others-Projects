@@ -5,10 +5,9 @@ created: 2017-06-01
 tags:
   - note/connect🚤
 emerged: 1864
+title: "Survival of the Fittest"
 ---
-
-
-
+# Survival of the Fittest
 ### Wiki
 > "**Survival of the Fittest**" is a phrase that originated from Darwinian evolutionary theory as a way of describing the mechanism of natural selection. The biological concept of fitness is defined as reproductive success. In Darwinian terms, the phrase is best understood as "Survival of the form that will leave the most copies of itself in successive generations."
 >

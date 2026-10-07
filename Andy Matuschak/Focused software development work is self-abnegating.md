@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zD2oDSCgLEyM4xDhjRLXtuH?stackedNotes=z7RGGgVdDVHXkzJ6BVFKws8&stackedNotes=zPgc12cKuwjrRzEnbr2a8uK
+title: "Focused software development work is self-abnegating"
 ---
 # Focused software development work is self-abnegating
 When I’m deep in software development, reaching flow on a daily basis, my mind narrows to a kind of tunnel-vision, totally fixated on the software systems and their problems. This is a classic problem in design (Cooper, 2004): engineers typically make bad designers because they focus on their software and its edge cases, rather than the actual human problem to be solved. It’s also practically troubling for research ([[Mental states of deep software development and deep research thinking are mutually exclusive]]). But I find this effect increasingly unpleasant on a personal level. When I’m in this state, I feel my sense of self shrinking. I become unreflective. Creative thoughts cease to arise. I find writing difficult. And so on.

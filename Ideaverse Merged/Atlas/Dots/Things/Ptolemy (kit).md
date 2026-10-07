@@ -6,7 +6,9 @@ created: 2020-06-01
 tags:
   - people/p
 dates: 100 - 170
+title: "Ptolemy (kit)"
 ---
+# Ptolemy (kit)
 Ptolemy was a Greek guy living in Alexandria, Egypt, where the biggest library in the world was. 
 
 And so what did Ptolemy do? He read...and he looked at the stars a lot. 

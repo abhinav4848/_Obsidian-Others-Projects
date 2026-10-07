@@ -6,8 +6,9 @@ by:
 related:
 created: 2023-11-26
 rank: 4.7
+title: "All you have to do is decide what to do with the time that is given to you"
 ---
- 
+# All you have to do is decide what to do with the time that is given to you
 tags:: #source/quote 
 
 > All you have to do is decide what to do with the time that is given to you - Gandalf

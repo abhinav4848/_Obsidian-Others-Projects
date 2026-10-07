@@ -4,7 +4,9 @@ up:
 created: 2023-08-19
 in: 
 - "[[Ideaverse Merged/Atlas/Maps/Maps]]"
+title: "Efforts"
 ---
+# Efforts
 Keep your priorities in order. Quickly adjust your bandwidth as needed. 
 
 > [!Box]+ ### 🔥 On

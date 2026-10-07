@@ -5,8 +5,9 @@ related:
 created: 2024-10-15
 version:
   - "1.5"
+title: "Our environment shapes us more than we realize"
 ---
-
+# Our environment shapes us more than we realize
 Our environment shapes us more than we realize, even when we realize how much our environment shapes us.
 
 That's why I care so much about putting intention into my thinking spaces like Obsidian.

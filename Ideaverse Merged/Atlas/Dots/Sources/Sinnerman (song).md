@@ -15,7 +15,9 @@ by:
   - "[[Ideaverse Merged/Atlas/Dots/People/Nina Simone (kit)]]"
 URLs:
   - https://en.wikipedia.org/wiki/Sinner_Man
+title: "Sinnerman (song)"
 ---
+# Sinnerman (song)
 Being trapped searching endlessly for salvation
 
 ### Web

@@ -9,7 +9,9 @@ tags:
   - map
 aliases:
 - Meta Map
+title: "Meta PKM"
 ---
+# Meta PKM
 Hi Future Self 👋 Here are "best practices" for managing your PKM system. 
 
 > [!NOTE]+ Notes on this note

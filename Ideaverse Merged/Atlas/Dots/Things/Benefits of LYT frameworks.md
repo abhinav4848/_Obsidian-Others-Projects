@@ -3,7 +3,9 @@ up:
   - "[[Ideaverse Merged/Ideaverse Map]]"
 related: []
 created: 2020-06-01
+title: "Benefits of LYT frameworks"
 ---
+# Benefits of LYT frameworks
 Folks relying solely on direct links, tags, and folders are missing out on a bevy of benefits. Below is a list of benefits derived from having your notes equipped with fluid frameworks like a **Home note** and **Maps of Content**.
 
 ---

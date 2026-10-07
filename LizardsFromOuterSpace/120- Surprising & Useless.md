@@ -1,3 +1,7 @@
+---
+title: "120- Surprising & Useless"
+---
+# 120- Surprising & Useless
 # Surprising & Useless
 Using the previous example ([[119- Surprising & Useful Information]]), say the information in the documentary was incorrect. Say that history shows that the science behind it isn’t valid. Such that when you go and try to make the same transition, it fails. This has slight utility because it removes an avenue of exploration. It can also be useful in the sense that surprising and useless information sometimes provides entertainment (e.g. bigfoot documentaries).
 

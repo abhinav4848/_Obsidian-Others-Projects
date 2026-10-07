@@ -3,8 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Dots/Things/Evergreen notes]]"
 related: []
 created: 2020-06-01
+title: "Evergreen notes compound in value over time"
 ---
-
+# Evergreen notes compound in value over time
 When you follow a process for making evergreen notes, you naturally develop insights that compound in value over time. This is the result of the fact that [[Ideaverse Merged/Atlas/Dots/Statements/Evergreen notes are antifragile]].
 
 > [!NOTE]- Some links and content in this note have been removed.

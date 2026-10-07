@@ -1,3 +1,7 @@
+---
+title: "010 Mind MOC"
+---
+# 010 Mind MOC
 tags: #MOC, #mind 
 links: [[000 Index|Index]], [[010 Mind MOC| Mind]], [[Concepts MOC|Concepts]], [[020 Body MOC|Body]]
 

@@ -5,7 +5,9 @@ created: 2020-06-01
 related: []
 aliases:
 - + About Ideas
+title: "+ About Dots"
 ---
+# + About Dots
 The ideas folder is one of my favorite places because it has *umami*. Apparently umami is one of the five basic tastes. There are: Sweetness, Sourness, Saltiness, Bitterness—and that oddball Umami.
 
 Umami is hard to describe but you know when it's there. The same is true of this folder's contents. It's a mixture of insights and ideas, concepts and connections, all mingling together to create that mysterious full mouthfeel that magnificently completes any meal for the mind. 

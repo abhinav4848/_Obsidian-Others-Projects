@@ -3,8 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Maps/Meta PKM]]"
 related: []
 created: 2020-06-01
+title: "Commentary on the silliness of trying to maintain an A-Z list of MOCs"
 ---
-
+# Commentary on the silliness of trying to maintain an A-Z list of MOCs
 For those that want to maintain an alphabetical "Map of Maps" list, check this out. The below list *was* in alphabetical order a long time ago. But as I make sense of the world, I constantly tweak filenames. So now look at how out of order it has become. 
 
 This is why you should just use the tag `#MOC` for your alphabetical list instead.

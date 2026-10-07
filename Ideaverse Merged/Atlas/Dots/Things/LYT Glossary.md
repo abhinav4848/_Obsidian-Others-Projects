@@ -3,8 +3,9 @@ up:
   - "[[Ideaverse Merged/Ideaverse Map]]"
 related: []
 created: 2020-06-01
+title: "LYT Glossary"
 ---
-
+# LYT Glossary
 - **[[Ideaverse Merged/Ideaverse Map|LYT]]** - Stands for "Linking Your Thinking".
 - **PKM** (Personal Knowledge Management) - The process of individuals making, using, organizing, connecting, combining, collaborating, and creating with their personal notes.
 - ---

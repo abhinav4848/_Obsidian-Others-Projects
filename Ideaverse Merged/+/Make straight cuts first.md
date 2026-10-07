@@ -4,6 +4,7 @@ up:
 related: []
 created: 2023-08-20
 tags: []
+title: "Make straight cuts first"
 ---
-
+# Make straight cuts first
 In editing, make straight cuts first. There are reasons, but the one that resonates with me is the same reason [[Structure must be earned]].

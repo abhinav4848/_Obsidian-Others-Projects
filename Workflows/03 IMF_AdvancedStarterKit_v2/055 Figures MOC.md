@@ -1,3 +1,7 @@
+---
+title: "055 Figures MOC"
+---
+# 055 Figures MOC
 tags: #metaphors #TOC #PKM
 links: [[000 Index|Index]], [[055 Figures MOC|Figures]]
 

@@ -8,8 +8,9 @@ related:
 created: 2018-06-18
 rank: 5
 says: There are many ways to look
+title: "Levels of Magnification"
 ---
-
+# Levels of Magnification
 > [!NOTE]+
 > Considered changing "levels" to "lenses" on 2023-03-21. Test it out. Might actually need whole new term, like "[[Lenses of Sensemaking]]"...yes, I quite like that. It would connect nicely to [[Lens-bending]].
 

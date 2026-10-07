@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zL3dp2Zri9y1wHKC5NZNA53
+title: "Writing one’s own spaced repetition prompts seems to promote understanding"
 ---
 # Writing one’s own spaced repetition prompts seems to promote understanding
 ==TODO==

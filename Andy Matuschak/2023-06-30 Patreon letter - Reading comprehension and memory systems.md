@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zLButXjJvGCpWKHzqhXEhhm
+title: "2023-06-30 Patreon letter - Reading comprehension and memory systems"
 ---
 # 2023-06-30 Patreon letter - Reading comprehension and memory systems
-
 _Private copy; not to be shared publicly; part of [[Patron letters on memory system experiments]]_
 
 One surprising difficulty in “making it easy for people to remember what they read” is that often, for large swaths of the text, people never really knew what was said in the first place.
@@ -12,7 +12,6 @@ Long-term memory doesn’t enter the picture here. The problem is that the reade
 My reading has improved quite a lot as I’ve investigated reading as a research problem. Still, I’m humbled by basic failures, surprisingly often. I enrolled last year in [the University of Chicago’s four-year program on the Great Books](https://graham.uchicago.edu/programs-courses/basic-program) ( #external ). It’s great fun: we meet weekly for deep discussions of challenging texts. But in most classes, at least one of the facilitator’s questions will make me realize that I simply hadn’t comprehended what the text said in some important passage—and I hadn’t noticed.
 
 ## Getting the gist
-
 Can it really be that educated adults so routinely encounter basic reading comprehension problems? Maybe the trouble is that the scenarios I’m thinking about are unrealistically demanding. In my research, I’ve been observing readers’ comprehension with a goal of helping people internalize a text in great detail. My University of Chicago course covers unusually challenging texts from antiquity, and perhaps the discussion questions are more probing than the ones you might ask of “normal” reading.
 
 Besides, some say, most people are just “reading for the gist” anyway. They want the takeaways. They don’t feel the need to really understand—much less memorize—all the fine details of an author’s explanation. Fine; say I accept that for the moment. Well: _do_ people “get the gist”? Are they aware of whether they got it?
@@ -57,7 +56,6 @@ Adler and van Doren give us one over-simplified contrast between “reading for 
 These deeper levels are tougher to access because they demand that readers go beyond what’s printed on the page. If a sentence makes no sense to you, the words themselves will trip you up, so long as you’re paying attention. On the other hand, if you understand what a sentence says but don’t grasp its implications for the author’s explanation, the literal words won’t necessarily trigger confusion. You’ll only notice if some voice in your head is continuously demanding answers to questions like “how does this part fit into the whole?” The question isn’t on the page. The answer usually isn’t, either, at least overtly.
 
 ## Interactions between reading comprehension and memory systems
-
 So: reading comprehension is a bigger problem than many people expect, particularly at deeper levels of understanding. One implication is that if my goal is to help people reliably internalize difficult texts—not just what they say but what they mean and why—a direct focus on memory may put the cart before the horse.
 
 [I tried to help Alex by giving him a memory system](https://www.patreon.com/posts/80865178) ( #external Patreon) stocked with all the important details from the physics chapters he was studying. But his review sessions were often unpleasant ordeals: for many prompts, he found the expected response confusing, or didn’t see why it mattered, or felt like he was parroting the answer without really understanding. Review sessions took longer, felt harder, and delivered less benefit than I’d expected. Understandably, Alex developed a somewhat aversive relationship with memory practice.
@@ -67,7 +65,6 @@ I’m increasingly inclined to see these issues as rooted in reading comprehensi
 Very naively, we might say: first, understand the material; then, we’ll ensure you remember it. These are separate problems. Piotr Wozniak, the creator of SuperMemo, [suggests as much](https://www.supermemo.com/en/archives1990-2015/articles/20rules) #external . This is a good simplifying heuristic, but memory system prompts have—or can have—a more complicated relationship with the process of understanding.
 
 ### In-text questions promote understanding
-
 In mnemonic texts like [Quantum Country](https://quantum.country/), we interleave retrieval practice directly into the text, so that every few minutes of reading, you pause to answer questions about what you just read. Readers told us that this embedded practice dramatically altered the way they read. [Prior research](http://andymatuschak.org/files/papers/Hamaker%20-%201986%20-%20The%20Effects%20of%20Adjunct%20Questions%20on%20Prose%20Learning.pdf)(PDF: [[Hamaker - 1986 - The Effects of Adjunct Questions on Prose Learning.pdf]]) on “adjunct questions” in texts has isolated four distinct effects:
 
 1. **specific backward effects:** actively recalling information makes it more likely that you’ll be able to recall that information in the future
@@ -80,7 +77,6 @@ My understanding is that all of these effects occur, at least to some extent, ev
 Specific strategies aside, reading comprehension is largely about self-regulation. How quickly should you read? What should you focus on? What kinds of questions should you be asking of the text? How well is your current behavior producing the results you want? It’s hard to answer metacognitive questions like these while your mind is occupied with difficult material, especially if that’s not a habit you’ve already built. Embedded practice partially outsources the asking and answering of these questions. The prompts model (a certain type of) “successful” reading behavior, offer feedback, and create a natural pause for reflection and integration.
 
 ### Review sessions promote understanding
-
 Let’s look at the review sessions which occur over the days and weeks following your initial reading.
 
 If you find a prompt utterly baffling at this stage, then recall practice is probably not going to help your understanding, except insofar as it causes you to re-read the relevant text. But this is an unpleasant way to discover that you didn’t understand. You’re not sitting in front of the book anymore; it may not be easily accessible at all; you must either interrupt review to re-read (awkward), or flag the concept for later study (unreliable). It’s too tempting to just mark the prompt as “forgotten” and move on. (There’s no button for “I don’t understand this”!) When I was working with Alex, I hadn’t embedded the questions into the text, as we did in the mnemonic medium, so this was often his experience—stumbling on comprehension issues days later.
@@ -88,7 +84,6 @@ If you find a prompt utterly baffling at this stage, then recall practice is pro
 But for less extreme examples, review sessions offer a good opportunity to understand more deeply. The first time you answered the question, while reading the text, the idea was still raw in your mind. But when you answer it again a few days or weeks later, you’ll probably look at it somewhat differently. Maybe you’ve read more material which depended on this idea, or you’ve used it to solve problems, or it’s come up in a conversation. Some of those experiences will re-surface alongside the original detail. They may help you notice new connections. Even when I’m the one writing the prompts, I often realize some important aspect of what the author means only after several rounds of review.
 
 ### Retrieval enables activities which promote understanding
-
 Say that you’ve just read about Gauss’s law. You feel you understand what the author is saying. You can explain it to another person. You follow how it’s used in the examples given, and see how it relates to Coulomb’s law. In other words, you know “what the author means and (some of) why he is saying it.” In the linear understand-then-memorize model, you’ve finished part one.
 
 But then you try to use Gauss’s law in a simple practice exercise, and you find that you struggle. You’re constantly flipping back to look at the definition and examples. If you could solve this problem, and half a dozen more, you’d understand Gauss’s law much more deeply. For example, you’d viscerally grasp the consequences of the dot product inside the surface integral. But your wobbly memory of the material is making it hard to solve the exercise.
@@ -98,7 +93,6 @@ If you reviewed the relevant prompts over a few days, you’d consolidate those 
 In this story, we invert the understand-then-memorize model: memorizing helps you create certain kinds of understanding.
 
 ### Prompt-writing promotes understanding
-
 So far, I’ve adopted the frame of the mnemonic medium, in which an expert writes memory system prompts for you, the reader. But if you’re willing and able to write your own memory prompts, that process can have a profound effect on your understanding.
 
 The process is very demanding. To write good prompts, you must constantly ask: Which parts of this text are crucial, and which not? Can I restate this idea in my own words? How does this idea connect to other things I know about? How does this connect to my interests? Can I find boundary conditions I should write prompts about? Can I generate examples to use in a practice question? Can I observe anything important about the author’s mental model or motivations? These prompt-generating questions overlap substantially with the set of questions one must ask to read for understanding. And in both cases, you’ll often find that you can’t answer the questions, because you haven’t read carefully enough. That gives you some of the feedback you need to regulate your reading.
@@ -110,13 +104,11 @@ What’s odd about all this is that ostensibly, you’re making these prompts so
 Of course, this is a tremendously effortful and difficult process. That’s roughly why the mnemonic medium automates the prompt-writing process away completely. Some scaffolded middle ground might be interesting territory to explore.
 
 ## Implications for my research
-
 I opened with one simple way to frame my goal: “making it easy for people to remember what they read.” But in the context of learning and explanatory texts, I’m really more interested in “making it easy for people to internalize and make use of complex ideas.” It’s certainly a more interesting goal. But it’s also scope creep. [Last month I wrote about](https://www.patreon.com/posts/83882597) ( #external Patreon)how memory systems might want to expand into problem-solving practice. Here I’m writing about the possible need to expand into scaffolding reading comprehension.
 
 It’s not obvious that a broader scope is a good idea. In fact, it’s probably a terrible idea. Countless entire careers have been spent on recall, problem-solving, and reading comprehension individually. So I’m not really planning to bite off that whole problem. But there are obvious interactions between these problems. By thinking hard at the unusual point of their intersection, I may end up with a more powerful solution to some subset of that space than I would by fixating on, say, memory alone.
 
 ### Comprehension-centric in-text questions
-
 Earlier, we discussed how the mnemonic medium’s embedded questions can help improve reading comprehension. But it’s worth noting that we weren’t exactly _trying_ to do that. Speaking just for myself—Michael’s design goals may have differed—I was trying to test and reinforce readers’ memory for the specific material in the prompts, and I was creating an on-ramp for subsequent practice. We talked about the notion of giving people “feedback” while they read, and of modeling what good memory prompts looked like, but we didn’t adopt an overt frame of systematically facilitating reading comprehension.
 
 It’s interesting to ask: if your primary goal were to enhance reading comprehension, what design would you produce? For example, you might not need to ask nearly so many questions to get the same metacognitive benefits. Maybe it would be better to save the detailed retrieval practice for the next day’s review session; instead, you might ask a higher-level interpretation question or two. The point wouldn’t be to remember the answer—the answer wouldn’t be in the text at all. Instead, such questions would be aimed at promoting deeper processing and reflection of the text. For recall prompts, our design discourages looking back at the source text; but for these comprehension prompts, we’d want the interface to encourage scrolling back up for another read.
@@ -126,7 +118,6 @@ It’s interesting to ask: if your primary goal were to enhance reading comprehe
 I find that I mostly hate answering comprehension-oriented questions in books. They often feel condescending, boring; like unpleasant homework. I don’t care about answering them, and (rightly or wrongly) I generally don’t feel that doing so will help me in a way I care about.
 
 ### Discussion questions
-
 Interpretive questions in textbook exercise listings? Nope; boring; I don’t care. But when I show up at my University of Chicago class, the facilitator asks me interpretive questions, and I find I want to answer them. Sometimes that’s because they’re unusually interesting, but often they’re simple questions like: “What justification does Aristotle give for X? Do you believe it?”
 
 I think the difference is mostly about social context. A real person I respect is asking the question; they’re going to genuinely engage with my answer; other students might build on my answer or have interestingly different answers; the facilitator will connect our answers to subsequent questions; etc. It’s also partially about the framing of my activity. I’ve shown up to have a discussion about the book, so that’s what I’m going to do. I’m “discussing”, not “answering boring comprehension questions.”
@@ -140,7 +131,6 @@ One more promising alternative might lie in something closer to “[elaborative 
 Very pragmatically, there’s an important problem to be solved: it’s extremely unpleasant to be asked to remember details you never understood in the first place. One way to avoid that is to facilitate comprehension, as we’ve been discussing; another way is to avoid asking questions about non-comprehended material. Perhaps elaborative vocal rehearsals offer a way to orchestrate the latter: we could only ask you to remember details you included in your explanation.
 
 ### Open-book practice
-
 My ideal memory system would not only reinforce my recall of an idea, but actually deepen my understanding of it over time. We’ve [discussed](https://www.patreon.com/posts/83882597) ( #external Patreon) a few ways it might do that: scaffolded problem-solving practice, reflection prompts, synthesis prompts, etc. These tasks aim to produce understanding from within—that is, by solving a certain kind of problem, you’ll acquire a certain kind of insight.
 
 But I could probably also deepen my understanding by returning to the text two weeks later, with reinforced memory and a fresh perspective. I might better grasp the significance of one of the author’s points, or see some connection I missed the first time through. One limitation of the review session modality as it exists today is that it exists apart from the text; it basically assumes you “got” everything on your first read through the text. If you didn’t, it must be a simple failure of memory. And the review session can’t really include a probing question which would send you back through the text for a new interpretation.

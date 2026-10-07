@@ -1,13 +1,9 @@
 ---
 URL: https://notes.andymatuschak.org/zVdb1Ku6fzVAFP5A6BhBbWR?stackedNotes=zLCdZ9xcHzjks8vgoGkycSr&stackedNotes=zWceTLNTjH3DQ7iVpy38ocq
+title: "Constructivism"
 ---
 # Constructivism
-
-Type of Link: 📝 Article
 Category talked about: Learning
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
 
 # **Constructivism**
 Constructivism has been adopted by so many opposing factions that a consensus definition seems almost mundane: to acquire knowledge, you must actively construct it through experience, interaction, and reflection; you can’t receive it passively. So to teach something, you can’t just _tell_—you have to facilitate that active construction.

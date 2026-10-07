@@ -4,10 +4,10 @@ up:
 created: 2021-02-21
 tags:
   - output/newsletter
+title: "LYT Notes 1 (Example)"
 ---
-
+# LYT Notes 1 (Example)
 # LYT Kit, Pace layers, and the power of language
-
 I've been secretly revising the [LYT Kit](https://publish.obsidian.md/lyt-kit/_Start+Here) over the past few weeks, and since you are obviously into this sort of stuff, I wanted to share with you some of the changes I've made so far:
 
 - I have refined the Home note 🏡. It's even cleaner.
@@ -25,7 +25,6 @@ You can actually re-download the new version using the link at the top, if you w
 ---
 
 ## On Pace Layers
-
 I must admit, I wasn't aware of the term "**Pace Layers**" until last year. Have you heard of it? Stewart Brand is someone worth listening to! He proposes _"six significant levels of pace and size in the working structure of a robust and adaptable civilization."_
 
 Read this, but while you do, consider it through the lens of [Pace Layers as a thinking tool](https://jods.mitpress.mit.edu/pub/issue3-brand/release/2). I.e., how can this model be used to help you make sense of other things you encounter?
@@ -33,7 +32,6 @@ Read this, but while you do, consider it through the lens of [Pace Layers as a t
 ---
 
 ## On the power of language
-
 George Orwell understood the power of language. In his novel **1984**, the totalitarian government enforces a language called "Newspeak," which has an extremely limited vocabulary. This brutal simplification of word choice actually prevents the people from being able to articulate the complex thoughts and emotions they're having. _**It imprisons their expression.**_
 
 Fast forward to the 2020's, and who would have thought we'd imprison ourselves...wearing our simple vocabularies as some sort of badge of honor(?)—and scared that using the big words will somehow screw with our identity... _...more on this soon_

@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zVYmgUqqnJD1hduFhHYTkKj?stackedNotes=zQLzzf8VcSgTHn75yiEU7mJ&stackedNotes=zNMBiA9U8NpBHgJR384JC46
+title: "The mnemonic medium can generate interesting author analytics"
 ---
 # The mnemonic medium can generate interesting author analytics
 If you publish something in the [[Mnemonic medium]], you get to know not only how many people loaded the page, as usual, but also information about how people engaged with the prompts on the page. Some potential applications:

@@ -12,16 +12,17 @@ mentioned_books:
 last_snip_date: 2022-12-19
 episode_duration_minutes: 105
 episode_url: "https://share.snipd.com/episode/71d78afe-b389-4888-897a-44c0afc7d939"
-image_url: "_media-sync_resources/2025/12/20/231958/34442.jpeg"
+image_url: "Attachments/95815.jpeg"
 show_url: "https://share.snipd.com/show/82276930-d446-4ee1-b204-84198acb5bfc"
-show_image_url: "_media-sync_resources/2025/12/20/231958/01397.jpeg"
+show_image_url: "Attachments/95815.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 2
 from_snipd: true
+title: "Laurie Santos_ The Pursuit of Happiness"
 ---
+# Laurie Santos_ The Pursuit of Happiness
 # Laurie Santos: The Pursuit of Happiness
-
-![Cover](_media-sync_resources/2025/12/20/231958/99453.jpeg)
+![Cover](../../../Attachments/99453.jpeg)
 
 ## Episode metadata
 - Episode title: Laurie Santos: The Pursuit of Happiness
@@ -37,9 +38,7 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ###  [The Misconceptions About Happiness](https://share.snipd.com/snip/14ce8bdd-5942-4faa-aa31-b4d92bf7222d) [[happiness]]
-
 🎧 06:14 - 06:39 (00:25)
 
 1. The "arrival fallacy" is a term that refers to the tendency for people to be happy only after things go their way, rather than during the process itself.
@@ -47,7 +46,6 @@ from_snipd: true
 3. The "arrival effect" is a result of the "happily ever after fallacy.".
 
 #### 📚 Transcript
-
 **Shane Parrish:** the way that I think of people like this, I call them happy if or happy when people because they're not happy in the moment. They're happy when something when I get a promotion, when I get a relationship, when I get a new car, when I get a new house, I'll be happy then. And then why is it that we never seem to be happy when that happens? Yeah,
 
 **Laurie Santos:** well, this is a bias that researchers call the arrival fallacy. It's really like the happily ever after fallacy, when this happens, I'll be happy.
@@ -55,14 +53,12 @@ from_snipd: true
 ---
 
 ###  [The Influence of Culture on Happiness](https://share.snipd.com/snip/1fdb46b5-04b4-44db-b3aa-c46a49c7632d) 
-
 🎧 17:07 - 18:23 (01:15)
 
 1. Culture plays a role in how we perceive happiness, and advertisements can influence this.
 2. Our brain is designed to pursue things that will make us happy, even if they are not necessarily the best things for us.
 
 #### 📚 Transcript
-
 **Shane Parrish:** explore that a little bit, because where do we get the idea that like a boat or a yacht or a house is going to make us happier in the first place? I
 
 **Laurie Santos:** mean, part of it is that we're going, part of it is that we pick up on whatever reference points we see, right? And, you know, a capitalist society where we see stuff on social media and on the news is going to show us what it looks like to have high status, what it looks like to have happiness. And think there are a lot of advertisers out there who do a good job of convincing us, like, you know, look how happy everything would be if you had X product that we're trying to sell you. And so I think part of it's our culture shows us these kind of representations, and those just naturally become reference points that our brain soaks up and tries to go after. I think also we're evolved to go after the wrong stuff. You know, we are products of natural selection, which is a blind process that, you know, if you kind of intentionalize it, it's kind of going for anything that will get you to survive and reproduce into the next generation. So natural selection is like double down on all the resources, all the accolades, all the status, all that stuff, just in case, right? Because we really want to, you make sure our genes get out there. And that's that it doesn't care about you being happy. Like it really wants you to be a craving, striving, always pushing for more genes in the next generation individual. And

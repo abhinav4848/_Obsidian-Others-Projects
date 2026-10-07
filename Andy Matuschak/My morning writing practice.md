@@ -1,5 +1,8 @@
+---
+title: "My morning writing practice"
+---
+# My morning writing practice
 # **My morning writing practice**
-
 As part of my [[My daily routine]], mornings are often spent writing and revising [[Andy Matuschak/Evergreen Notes|Evergreen Notes]] . This is typically the most challenging work I do all day, so I like to do it when I have the most clarity and focus. It’s not for “note-taking” in a traditional sense—writing down other people’s ideas, or recording things that happened—it’s for developing ideas. (i.e. [[Most people use notes as a bucket for storage or scratch thoughts]] vs. [[Evergreen note-writing helps insight accumulate]])
 
 Unless I have something in mind that I’m particularly excited to write about, I usually begin by opening my writing inbox ([[A writing inbox for transient and incomplete notes]]) and flipping through those prompts and incomplete notes. If any strike me, I’ll draft [[Andy Matuschak/Evergreen Notes|Evergreen Notes]] about them. This may happen over multiple days: I may flesh out a note considerably, then run out of steam and leave it in my inbox to finish another day.
@@ -19,5 +22,4 @@ If those prompts don’t feel fruitful, I’ll use the time to [[Write about wh
 I take 5-minute breaks to get up and move around every 25 minutes, but even with those breaks, I usually can’t continue this practice longer than 2-3 hours. Sometimes I can do another session later in the day.
 
 # References
-
 1.

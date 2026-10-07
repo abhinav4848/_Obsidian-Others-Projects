@@ -1,0 +1,3097 @@
+{
+  "files_changed": 515,
+  "blank_lines_removed": 2059,
+  "backup": "E:\\Drive Sync PCS\\Obsidian\\_Popular Vaults Merged (Obsidian)\\_Codex\\backups\\heading-spacing-before-20261007T215723Z.zip",
+  "files": [
+    {
+      "path": "_Codex/Andy sources to identify.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "0e77c1071fd602f2fab650e390a0407e836fff40c59e8e9a34716e198988ea43",
+      "after_sha256": "481df755af63a455793b9e13e9ae3feb8711153514a39e4ad14db4b602442bdd"
+    },
+    {
+      "path": "_Codex/Captured link issues.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "20f721d79e2d2e4783397a0388212b40f47944976135f4a6fb9d37e29614ddc0",
+      "after_sha256": "b04c6607a1fac2be686b361c09b446cd295f0093fe113f514f7465164748ae75"
+    },
+    {
+      "path": "_Codex/README.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "84741d16fd52ccb52eddbc4d617425c4e037c34e8320c22849ca5aa55c002fd5",
+      "after_sha256": "ac753aefe548a4e732b89ac634e24d30433921747aaa74b2c35235c11b91c3c7"
+    },
+    {
+      "path": "_Codex/Review and recommendations.md",
+      "blank_lines_removed": 6,
+      "before_sha256": "7fc8f2f9d1875168b2b3d7e940ca35152f36ade1219f3563401b0add5d0954c3",
+      "after_sha256": "b8168b14493e9f1eea2886dee6a44b858fd593b50c9398cb8ed0607c62d5db91"
+    },
+    {
+      "path": "_Codex/Source identity conflicts.md",
+      "blank_lines_removed": 15,
+      "before_sha256": "5e373a8827564a1e28eaddf9dbf98ec10c33f37a85b985ef450d56d8671f64dd",
+      "after_sha256": "a73f817cf4004fe3356f58bf2515e93115774c74d4e3a5b333d026eadbeeb4e5"
+    },
+    {
+      "path": "Andy Matuschak/2021-10-31 Patreon post- Doing-centric explanatory mediums- board game instruction manuals, and an unusual Figma document.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "1d36f5df8295df38d34212d8077663b1a2392716a9978da4374c5143cbd9037f",
+      "after_sha256": "d3f70596c46fdda06d9f64879635d4bfe6b567a44e9767bf163733843a341077"
+    },
+    {
+      "path": "Andy Matuschak/2023-05-31 Patreon letter - Fluid practice for fluid understanding.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "1d853d5a08cd6675c10d412db2814d4570da5ff06a8ef514b785b39bc1afc721",
+      "after_sha256": "fd774e30ff46b093d0bdb8cad49618e8ecbbb9ad107fb2e70b1b3624e1fb0618"
+    },
+    {
+      "path": "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md",
+      "blank_lines_removed": 11,
+      "before_sha256": "0cca037b4cf63617ebc5ad96733bde0e0838e291cd7f9b630b5df6db0d735412",
+      "after_sha256": "6f24f3e2b44d3c6536aba794e989659db831fcffb3c319229c0fd3e333255c5f"
+    },
+    {
+      "path": "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
+      "blank_lines_removed": 5,
+      "before_sha256": "4dde7f29c284c7f9bb0aa8dd8dea8b080dd6a44ebb521816486439fa72034783",
+      "after_sha256": "9d49952062aae101beedf5c1317ded6fd0fd92ccd044935ca02cb92bcb5772c3"
+    },
+    {
+      "path": "Andy Matuschak/2023-11-30 Patreon letter - Initial results from highlight-driven prototype.md",
+      "blank_lines_removed": 6,
+      "before_sha256": "bb24daa11d19339bec6e25274c1ea4b78d5d88fd064d74b4f50df43e67ccce6f",
+      "after_sha256": "802121b2bf112cc6943730bc0ec82afd842c112df2d3d91adcc3b7d22af7a5fa"
+    },
+    {
+      "path": "Andy Matuschak/A writing inbox for transient and incomplete notes.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "17db6dfcabf21275e4fbe0c2c2405a9d40ef0e6adeb996cc772b988841d6366c",
+      "after_sha256": "d3ff809155cac3ff7960caf8cdb40ee90121756157855b441ccd8615cacbde39"
+    },
+    {
+      "path": "Andy Matuschak/Academic software interfaces generally aren’t suitable for serious use.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "ec9dc8f1fb90e3efa4d20d032bf4f95fc87deac1a6a46bb8c159382acd318330",
+      "after_sha256": "e43e256131639db2b78d2f01e180c13d15e65becf5d4ead086c075e193b32d70"
+    },
+    {
+      "path": "Andy Matuschak/Advantages and disadvantages of using notes to form associations in content.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "a1f71a4666f9c3d843f7fcc88904e1099f60e6186bcb12d0b651023656e6516c",
+      "after_sha256": "d2988699ce8800eb20543c491a83952747cf18b4dc37aae25e87acac6e05572e"
+    },
+    {
+      "path": "Andy Matuschak/Anki seems to make it harder to “sketch” and revise prompts.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "24d2c40ebcb1abb20d9dc9c6472078e152c5f6bff098a21ad0197cbf9f34ac0e",
+      "after_sha256": "51de940b69cec114249020770484705bfbd9a884ddfdb9c3c3cf6fcb81699f27"
+    },
+    {
+      "path": "Andy Matuschak/Answers to application prompts shouldn’t be drawn from memory.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "a40fa9248f2d0ca57cfd238bca285e0131d34d646f58637da11cc1e9b09dd6f1",
+      "after_sha256": "dcd1af0e39231af4c71da0ea5362f1c290cfa8bd84ee57fdbd8c1bdcb4674655"
+    },
+    {
+      "path": "Andy Matuschak/Anti-marketing, after Michael Nielsen.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "935805e750c2ecc3e8a8cd14e14d3907d52c0cbe685a8bb0d1da77b48589d675",
+      "after_sha256": "3f0d6d47b8595f73b18d8c3c3e4c275726165c4c67143af17f3957dfe94f3bab"
+    },
+    {
+      "path": "Andy Matuschak/Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "b4da6319d4e3f592c3eabfe44c3e0896d3cfecf333a39afadc38c605600aaf77",
+      "after_sha256": "e28e0bc452272ca6c3f14135245a5dfce31929dbc41d15b01da260a8ea2cd77e"
+    },
+    {
+      "path": "Andy Matuschak/Authored environments are significantly colored by authors’ motivations.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "cf4ca56efa8ce17232a5e71e5179ee3a8636206fea9e975474b6eeb66976c186",
+      "after_sha256": "2e2abdaae417134dd913d03bc648bc6046368f04a01f969de9b5496d92bfd26b"
+    },
+    {
+      "path": "Andy Matuschak/Avoid orphan spaced repetition memory prompts.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "4fcb5ac32e84bff3d6591ba61926d3332bf5b6e928a97820d77e7ef2785a5172",
+      "after_sha256": "44920fa8da832c042d7bd7f96c24b28d1f60a69d7f1c1d3e73e8dc30aa5e1a6b"
+    },
+    {
+      "path": "Andy Matuschak/Avoid yes-no spaced repetition memory prompts.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "49c70edb66d87198e44b1f3b7ae5e54f66b2f1f6043333acc72fadd52b0fca71",
+      "after_sha256": "5ee28642ddb318d6bf784f2001e794c1bfba3c17957e7fc886531cb594078c22"
+    },
+    {
+      "path": "Andy Matuschak/Backlinks can be used to implicitly define nodes in knowledge management systems.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "8575a2e3bd7303d9044831d537bcd12d5c0f9ee7fc4c165c06fb465405608b95",
+      "after_sha256": "8b3f8048e0ca78d486a7dde47b39cd8813ba2e3893ab977c920219bd5974f6bf"
+    },
+    {
+      "path": "Andy Matuschak/Backlit displays limit computers to interiors.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "1ac84016291e2312eda2c4e6acf3492a0b792d3013c40948445830d6dfbc67c8",
+      "after_sha256": "fbb6507e249e9573021d9ea81dd4067fed902a223b93ab684b9f921c33c5d46e"
+    },
+    {
+      "path": "Andy Matuschak/Basic cognitive tasks rely on memory.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "54031d5b56574db6a495a51feae9db6366876fe61406d73a4863b782d48d87cb",
+      "after_sha256": "78b81eef99c23e5a75a2d2fc306fc184e0ac5b7321abbfe6b82e4c6e953bf25c"
+    },
+    {
+      "path": "Andy Matuschak/Beware automatic import into the reading inbox.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "2bc40e4054048e5486b12dc22ebeacd544169e52b696b149b56cf9f296a8d508",
+      "after_sha256": "68920f482b04d8db087985b7dc97680896784468c1d3acac5f0c4fffc4821314"
+    },
+    {
+      "path": "Andy Matuschak/Brainstorming may often substitute for missing insight accretion systems.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "e04762bc5efaf8b55c3b4e8248ddb476bbe5452ea97c06b8c08e37fa7a6cd714",
+      "after_sha256": "539b7ce1dea5bbc9e6dbfdd8332a4b09ad9ea71c74ff146952edbb6f0a137130"
+    },
+    {
+      "path": "Andy Matuschak/Bridge notes narrowly relate two adjacent terms.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "86c08436c06bf3661a82b0c1f3d2f1b80efb0f3c756d15e7ce8dd903bfe417be",
+      "after_sha256": "a77c88a8ebc2566fc5fae58dfc7d3278c625b80602294ec3f7c93647ccfaf4e5"
+    },
+    {
+      "path": "Andy Matuschak/Brooks, F. P., Jr. (1977). The computer “scientist” as toolsmith- Studies in interactive computer graphics. Information Processing, 625–634.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "b58bd9b11ba724bb20a09ec73420cd69f86c92e961c5f27e005d7818a8dce98b",
+      "after_sha256": "6e10a7134bfc8e01149c39721d0a226207ed2cd06d71e81e710ad03b4bbd57bf"
+    },
+    {
+      "path": "Andy Matuschak/Chunks in human cognition.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "99ec569f4b0c14702d0cf1b8de94ccf3db158de0d8e1b43ec50e722e9aba0cad",
+      "after_sha256": "2d96b59bd128035325cdce531991b9bb60af091868f85569f36fbae7796ae2ac"
+    },
+    {
+      "path": "Andy Matuschak/Cloze Deletion.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "db2a0a7e2fd803f9938c4926c212a47b744d79cf17285459cc3b0b6b642d52c3",
+      "after_sha256": "2ea0533e25ba9b9576d6549f7be0a827fcad14bd9b16172d3327f049370d482f"
+    },
+    {
+      "path": "Andy Matuschak/Collecting material feels more useful than it usually is.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "efd23f138ccf091c8f507dc92b89bb390850da0f62b00980c4c040e076012996",
+      "after_sha256": "1e6d9f67228950483eee7bc1c2dcbb4b72777489b1636bb7757c20706938c2c9"
+    },
+    {
+      "path": "Andy Matuschak/Complex ideas may be hard to learn in part because their components overflow working memory.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "b517843a80f7560119437527e11563b30e6f391ef1b25a6f20de9aa30ab5f951",
+      "after_sha256": "1f99033077ce0c156a553903a625c634252eb02d4d9bdf897760c572937773a3"
+    },
+    {
+      "path": "Andy Matuschak/Computer-supported thinking.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "f6cc346dd0e25768d1f25464124ded9188ba318ada537e638cca60c0c20112f3",
+      "after_sha256": "99b77a3cb9659fd61ed37c6fec33ba39ad9cfc538e235136c5ff3f53052112ad"
+    },
+    {
+      "path": "Andy Matuschak/Connecting prose and its surrounding Twitter conversation.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "32863ce0392580a368bc436053f57d7aa213f2b61f5d1c435f26d64ec6356bac",
+      "after_sha256": "97df98cc629c48a0c48ff0bc349fa6dd6a8b29b64b22967a1efa7bb2a9ee6376"
+    },
+    {
+      "path": "Andy Matuschak/Constraints often breed creativity.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "9dfb74d5a6a096360e56ba3a08be371ce9111083973c3dc8478c6e54eb762e3f",
+      "after_sha256": "321ca1dadf53331654a83e37a561ee633af85b2ced3e8558c735567efecaa930"
+    },
+    {
+      "path": "Andy Matuschak/Constructivism.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "dc1af02fafcba0c351d10d52ade91491916e3eb1bf88612e3b3ad393651eda57",
+      "after_sha256": "feee068d490367f1a11ac3a2433fd818ec3cb4d95b68041f40e75df76d90e6c1"
+    },
+    {
+      "path": "Andy Matuschak/Contextual backlinks.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "981e11ce9c3159e84b756bf32145b4690567e2989ddbaf7455e1786641358800",
+      "after_sha256": "334ad320986ce9b4e1caeb1dd708b38e6fc0b1222d95c1887b83f02a4cfb0285"
+    },
+    {
+      "path": "Andy Matuschak/Continuous-scroll digital reading uncomfortably disrupts object permanence.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "f6f5f09a12d1a42a86fb1a76829e3ca5bb394b8ff1a919aeedfbec1d29531d5c",
+      "after_sha256": "d451314e3aa26313372fa6d83a80d0379b005f11b01f4041446da6eca842ed1c"
+    },
+    {
+      "path": "Andy Matuschak/Conversation with others often emphasizes the most well-understood elements of an idea.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "0008d514f2aad2b3c9a412123a2ea318c1ed9cfe89570a4aea504985d86116e2",
+      "after_sha256": "331175a870ae8719ac48282c90eb7612d89336d38dbbd5a0ff6cfa9e3fe8082e"
+    },
+    {
+      "path": "Andy Matuschak/Deciding to remember something with a spaced repetition system is (aspirationally) a lightweight gesture.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "f9609b4a7011bfd6abde1e3b994e798d39f5be7b70cbe2d99af5bff424e67201",
+      "after_sha256": "6205af2c870c462a7e3e5000a263bbbb6ac027fbba0025c19667cac19296be05"
+    },
+    {
+      "path": "Andy Matuschak/Deep focus comes more easily for me when developing ideas in a paper notebook, rather than with a computer.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "44edc0d8769fd307ed4b0a37e34e715ea0e33e31ab2e04d56c7c2f8c67f5db2f",
+      "after_sha256": "e5930d6bc0730f0340ced4f665ac5c4dc0f6c73d25ceb1b15b8c63a8d477e7e5"
+    },
+    {
+      "path": "Andy Matuschak/Deep research requires a slower pace than tech industry work.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "a01ec00f23072bf0aa3198dbdbd4e67982211364416fd2c18793b8a19350c143",
+      "after_sha256": "b719da64379f89bf53c4db22d6991b73482ffa7f4f33c1a142b252d0aeb086a6"
+    },
+    {
+      "path": "Andy Matuschak/Deep understanding requires detailed knowledge of fundamentals.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "de5e3e2fe77f72112a73ad464e4878d478774e6b433555489715a905d71fd93a",
+      "after_sha256": "961b3a55251d0df24cbeb32815513d067f5b858a90492c9d6f5acee86ac010e8"
+    },
+    {
+      "path": "Andy Matuschak/Deschooling Society - Ivan Illich.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "43c3d42fd219e58d1e231ef626dbbe16a4b7b9a9d64c459150b11c4e07ba3c1e",
+      "after_sha256": "8b1eac910b6a7a761a447c26a8c057e4bb3a707930e7c0e48268c680db0b532b"
+    },
+    {
+      "path": "Andy Matuschak/Digital note-writing systems fixate on the presentation and manipulation of individual notes, mostly ignoring inter-note sense-making.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "3de7a165dc4afb473ec5ad86fc31ebf30bcf5fdca0c541999e2bcb40d180093f",
+      "after_sha256": "053807a031b4e5021f0e2d89fe72d60010d87b29b06c9e46fb5ba1a88ccd9554"
+    },
+    {
+      "path": "Andy Matuschak/Displacement activity.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "c880c39b28f2a4003373eaa7751e2b44ba497afd976570df680cb30aa524bab2",
+      "after_sha256": "af4b4b795508f3e15e53455f03d160db79e7224b81d90bb2e5ac8fb124f2f009"
+    },
+    {
+      "path": "Andy Matuschak/Dullness and distraction in creative work may arise from the same causes as in meditation.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "a869a0605b895c6b35871fde33fc0161c0e1f736c139f4aff72d16fda57fdddc",
+      "after_sha256": "a5d048ed64ba308631d9def24523cac6183b8ba583356268b5b5fbd37ca01cf4"
+    },
+    {
+      "path": "Andy Matuschak/Dullness.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "f985922ddce4edfda28df91d2e063a5e2c3626b749aae1d9ae2984c308028853",
+      "after_sha256": "44b7b1e427a49f7bb7fcf2a0fff11714a3454e1a5a88cf05ee7e58caf836ba1c"
+    },
+    {
+      "path": "Andy Matuschak/Dynamic mediums usually lack an authored time dimension.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "1cbbfc31561af2f6a2f31cc62ec9d97745a45b0dfc206531c74a284710fcda02",
+      "after_sha256": "c81eddde50d2075617034745f1dd27995d02dee601995da29f9250cb6e4b6b19"
+    },
+    {
+      "path": "Andy Matuschak/Educational objectives often subvert themselves.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "8dd948c70cb5ab930ea0ffe673d151d23b401b9670efd8ec3693522c241f8bfe",
+      "after_sha256": "57904142071ec68b7d28e7767fc021e84ea00c654d543262e8d8ae91dc6add3c"
+    },
+    {
+      "path": "Andy Matuschak/Edwards, P N (2005) How to Read a Book.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "4de2ddb4e7a897af6710559c22890866aa362acbfd75037089215f232e76c599",
+      "after_sha256": "eddf87954ca3e36a89aa9e62bd500361610c8cb8d60d4dcd2674f30052dcbde5"
+    },
+    {
+      "path": "Andy Matuschak/Effective system design requires insights drawn from serious contexts of use.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "6843d66e811a97cfbfd8beb6d6cb01bff30691033b6c4227af1c2874395be5aa",
+      "after_sha256": "aab1a1619cfa2d8fee630674cb6cc870ae187d1206466dd1630eb5f2580fbaf8"
+    },
+    {
+      "path": "Andy Matuschak/Efficient review scheduling is in tension with gated course sequences.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "eaae027cf75cdee82c4b2db5cdd2f976f3d3f3e86debcd38f4bb98167d9c602e",
+      "after_sha256": "51e088843483e079bc804e0b58b24f66b4522544d7cdb3e9f6fd4758e1f99a05"
+    },
+    {
+      "path": "Andy Matuschak/Elaborative encoding.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "fa032893f0fd914d2cc83352d64a09edf657eb03d89d7b7f94280646ff7ead76",
+      "after_sha256": "dd578d3719a017c7ab3e78171a0c063d2cc109729ceebb6feed8a7bf6b269702"
+    },
+    {
+      "path": "Andy Matuschak/Electron.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "1cd6eb60a24c45a1070b961823058dc496eff4bb32fc66d63fb8bb397ba6cfba",
+      "after_sha256": "01dea019344985e1ebc4c325d352f1f174f8cacc8b14651eae8dd9e4f3eab709"
+    },
+    {
+      "path": "Andy Matuschak/Enabling environment.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "2da7dd989edd83770ff869a342c422e72caa2dfb1c42b35cdfc2bdc804669b25",
+      "after_sha256": "25fdb6900bbd6cf2e4a0a8414afb949c3a48bb0339b20a21ac266375e53a0905"
+    },
+    {
+      "path": "Andy Matuschak/Enabling environments focus on creating opportunities for growth and action, not on skill-building.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "acd78500159a00a8910c4909620c033fb54c56a5226d7c43d775c87a9cd13f80",
+      "after_sha256": "ae2d4ba47355acf3bb8bbbaec9650e5a5d8669d69305c7223927d5cbb4c9f687"
+    },
+    {
+      "path": "Andy Matuschak/Enabling environments’ activities directly serve an intrinsically meaningful purpose.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "c5eb019d49abcc158f45a20b574dd92a66d8efbdb143d8c90ff66ab3e0597d86",
+      "after_sha256": "6ba1acd03af148fa35fd45b6ada47200b83c815d5350f236c646958563232c7c"
+    },
+    {
+      "path": "Andy Matuschak/Enacted experience.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "58385265c01adfd13d0ebd2f81b49a42f7b3bb0dbb5558dcfbf53d07a53b288a",
+      "after_sha256": "3b6da255b984499f6bb4199fc3f1d2dec28c7f912393a9dadb45840d70eab305"
+    },
+    {
+      "path": "Andy Matuschak/Enacted experiences are hard to author.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "1cf81cc257838c39e89c6fd9805362466fcd5c357b8e4852ea427511b6c8d16d",
+      "after_sha256": "327558f3608f2ac43569b4b51d5d3ae4acb220590e322b6ac9759026f590fedd"
+    },
+    {
+      "path": "Andy Matuschak/Enacted experiences are hard to distribute.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "f887e31de40d959cacc76b55bb8e486fe86ceab29217ba57cc643963461a408c",
+      "after_sha256": "39942f2f6b58ceae6a8f197029192552822933f47e9169e9861871f8b316feba"
+    },
+    {
+      "path": "Andy Matuschak/Enacted experiences can bootstrap active participation in enabling environments.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "2851e860f68e780ab7308e87ed992df1edbebf0db3390fcddcfa55adcaec31e5",
+      "after_sha256": "863c504e3f5df718e9524ee79b442f817a1d811c9413e7af565938c369ac8794"
+    },
+    {
+      "path": "Andy Matuschak/Evergreen note maintenance approximates spaced repetition.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "0c535a11b08e380b33d663e66d34044e6e79927dc41953b2e2f0c34c0c31a3a1",
+      "after_sha256": "40aa64ba3cbacdc9e7f384d21ad121ed50dd9f5a6974368837f25146f17b1a04"
+    },
+    {
+      "path": "Andy Matuschak/Evergreen notes are a safe place to develop wild ideas.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "724be9ddb29882c82c19d1e8c4d8a6504271e80336c9928e87de8a440a6d7b9e",
+      "after_sha256": "4789a7ef54a58a73e41c74d3c92914434999cbc6683a9f44974b3afe50d1af3e"
+    },
+    {
+      "path": "Andy Matuschak/Evergreen notes can increase conversational bandwidth.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "4986b1fb5f95f0b4ae4fed9f20db0df6dc2afe6ffabcdc3558689374f92bbbc0",
+      "after_sha256": "1d9e9c17cda9fc996a015e753758b4c0ed9535138d0ed3c3ed766c7667602769"
+    },
+    {
+      "path": "Andy Matuschak/Evergreen notes lower the emotional stakes in editing manuscripts.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "f88ce8f6dfc31a41143b680ea59ad1913a9c4b2912e0b1824f437a2aecf2ac48",
+      "after_sha256": "b8df18545fa68f1a5b1b14318fec2a8eab85c83324f0bc232df9fe962039896e"
+    },
+    {
+      "path": "Andy Matuschak/Evergreen notes permit smooth incremental progress in writing (“incremental writing”).md",
+      "blank_lines_removed": 1,
+      "before_sha256": "9627861fa19c1a6c62ff39ac50a54ce569cdf9d9644b331d2f48218497076220",
+      "after_sha256": "0696ec1a3f169eefd839d8b35d731839a589fa342cdc98709af5cf72756fa8cc"
+    },
+    {
+      "path": "Andy Matuschak/Evergreen notes should be densely linked.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "3a39d59100a5b93045b7e94e5d0421761c16298efb0cb18140e6560aeff541c2",
+      "after_sha256": "47ada2983a54ea8a47b6e52f4d071c6989dfdf77d641fff1d8c99f9136dfcead"
+    },
+    {
+      "path": "Andy Matuschak/Evergreen Notes.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "fffea00d37d7ce166e17011530797a31d0d76aaf2f0e785c8ba91d3682454ea0",
+      "after_sha256": "6a772334fc47ad0770a2f06f454b42f91c07fc4bcc5260210564c9e76f7e9c53"
+    },
+    {
+      "path": "Andy Matuschak/Everything takes longer than you think it will.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "dcb60d0849003560edf7c66101aca88fa4050602fc744bfb8338d3d6a1aae680",
+      "after_sha256": "6ab24ecc75ce53b56e14a1d18a99d262b89ebe38fa947a786c5e7ebb88caab05"
+    },
+    {
+      "path": "Andy Matuschak/Executable books emphasize understanding pre-existing code, not writing new code.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "041430c82a781c0f9086e2865d7f0d11816b4c775c013586aaef1bca5cd6df65",
+      "after_sha256": "b6f35827ce8bf9fa821908491be22622245016b08dabc9a4989e211a30e1c649"
+    },
+    {
+      "path": "Andy Matuschak/Executable strategy.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "cd1232a8499c01e135fb6663748da0eb3c27eb6f0440cfd39778df4ecb8094e5",
+      "after_sha256": "d26e3171b7b4387d7b97eaf36518b4b47244ee7a4b00c58cbe219a2c91672b5f"
+    },
+    {
+      "path": "Andy Matuschak/Existing spaced repetition systems discourage evergreen notes.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "21c9c92178a3d6c05d9bfc21a2a9e2b9fc5978dcf747b7618d93f2aa8c42b6d6",
+      "after_sha256": "81f5954c6dfb3cdf1af1bbb3d1e85df5c3f9eb5b8e41d933bbaca5056eabe32e"
+    },
+    {
+      "path": "Andy Matuschak/Expertise requires building sophisticated chunk recoding schemes.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "831a9f9571660c95f2d8837c9a37ef92724107a44da0586b8f3db868bfe5bad3",
+      "after_sha256": "398b4f04acdefef03dafbae426308b8ca38b2b95256e45a4268481c0f0796de9"
+    },
+    {
+      "path": "Andy Matuschak/Explorable explanations.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "9c122e4eba54028e0b44bf83b6eb89648122a9e734ec62b0f7c1e3f8905ce5a6",
+      "after_sha256": "8f81fd27dc806e77e8dbb6624aeea42464f8bee5eaa26457b3ed543046f6192d"
+    },
+    {
+      "path": "Andy Matuschak/Few digital reading environments support marginal notes.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "d8eb8c56b60fc647465eda7c524ef80a55801922395048f50b2507d64ddb3b4c",
+      "after_sha256": "34cc4e60205f7a4da88af6d34f856215ce534390daf670adbe3569e26b48f8aa"
+    },
+    {
+      "path": "Andy Matuschak/Flow (What is a state of flow ).md",
+      "blank_lines_removed": 3,
+      "before_sha256": "78ff18e3c6838199acadfc3d789e3c92a9bab70e9559efd9a6d500a62c3d7596",
+      "after_sha256": "631702a5dea1daba0c01d6dd418fecc77b8a6640e6fc8f91e57a7b4acf63ec00"
+    },
+    {
+      "path": "Andy Matuschak/Focus on power over scale for transformative system design.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "29fed8834e8d43a3c6cd6edee910c6540efb3a1e80ae4444c9db5dab377bb87f",
+      "after_sha256": "7e96e8ec83000a03371dc78dc90f42c907f4ddbc00824f2b510bb1d912b12ec8"
+    },
+    {
+      "path": "Andy Matuschak/Forgetting curve.md",
+      "blank_lines_removed": 3,
+      "before_sha256": "f034245f60595679f09550e6cd40c9de88d24a088ba88b1f5031863b8b483220",
+      "after_sha256": "6cf6b80ef3316df9cb8bc6484ae9d7fc965fd8e1edd0e03a244d4166d952ad8f"
+    },
+    {
+      "path": "Andy Matuschak/Forward testing effect.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "5466448359e9b3e599cb15c051b2c329fd1e5ba0750886f19f3005a5cee9172f",
+      "after_sha256": "afab69896c630b2c353d4b1e2c14152f20b013f118ecd60ce330031e34b3c999"
+    },
+    {
+      "path": "Andy Matuschak/Gall’s law.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "2b6f5d1d523f9ca1f435fd92817b2b684e1984c61727e5ae01a0fdd40f8a44ea",
+      "after_sha256": "65595f713c22b5e5bc50eecd88c53f387998916d3abe40d5a431fae68e551583"
+    },
+    {
+      "path": "Andy Matuschak/Generation effect.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "042d9032fd18dbeb40ca5aa8d5d1339e10a58862ed42a5ebca7e635d0a18aef9",
+      "after_sha256": "cd0c2b390c81cbb3a5523df068402bbf3e32a54a8a15d9c4189c0be10ed580dd"
+    },
+    {
+      "path": "Andy Matuschak/GPT-3 can generate shallow variations of spaced repetition prompt questions.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "6d772b67a17618436d6eeefbaf45aecac2916a18f6c3e7eb9d344551a885b190",
+      "after_sha256": "af63218aedf25436fa700aabd5f084a91d31e1e4ab39792cba1749f63dad7cc6"
+    },
+    {
+      "path": "Andy Matuschak/Guided meditation apps deliver enabling environments in a mass medium.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "6d4a74091f87ac0b24f7470cd146f0dad04a5de1598fc5777b9931a957bbc7c3",
+      "after_sha256": "bee288ac7eb13abfecd5a197b02a4812b0ec84d5595394cef04da3529e883b20"
+    },
+    {
+      "path": "Andy Matuschak/Guided meditation apps deliver enacted experiences in a mass medium.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "f8696609901f1865b227fdddc1f01a88d2357fb90e3b5ff9720dfbe058618047",
+      "after_sha256": "1fe343c8e18e66c3d39403f5e3f76c559f41b12516e598299b8dc006f898f667"
+    },
+    {
+      "path": "Andy Matuschak/How important is it to write your own spaced repetition memory prompts.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "c76b981d360365c130ae9d1b96f5ab53cd8d573f13727c7afec332a0264b34fb",
+      "after_sha256": "2d6129276271a4e635f84336319397172dcaa96d1295970af0d0f9b7079ac142"
+    },
+    {
+      "path": "Andy Matuschak/How might the mnemonic medium enable readers in genres outside platform knowledge.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "f5995e34f85b5d5b79428e8f046e8214419b30f82c5812cde851f9f2c7c98ed5",
+      "after_sha256": "434797f874244bb21bb5a01b538c4ff0aeb31ad6fdde00f103615af59c4f8d9b"
+    },
+    {
+      "path": "Andy Matuschak/How might we situate tools for thought within intrinsically meaningful contexts.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "86378c92d4fe82f488801eec75bdf1188fcc5daaaae6945f6e2db9a4d24acd0e",
+      "after_sha256": "a788ab2043ef02d4ecfb029c13cd9d41b289c810d9a4fb382b3ac98d0bbefe2e"
+    },
+    {
+      "path": "Andy Matuschak/How rapidly do people forget practical knowledge.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "67d26ac78d040396743dfcdcb47335b0d9b99e6c6dbab81399df2fefb529ffa4",
+      "after_sha256": "c4236b1c615a7b3e8ba1add0a17640288af79a402efed3d1566ce3a3d0f997d0"
+    },
+    {
+      "path": "Andy Matuschak/How to collect observations while reading.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "246bd2da4f6ffc92c17aa4af5ae1c4bededb9444197ae36e28e3a059ac7181e6",
+      "after_sha256": "6e81ef4316564a476e3acc02b5b4d1dee2cf88e89652622f1ea753948614d866"
+    },
+    {
+      "path": "Andy Matuschak/How to Read a Book - Adler and van Doren.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "33311c74709fc3bf73571b8641745d9ee4819937a28fb0db03742688f8efab37",
+      "after_sha256": "eeeee7dace75b6888bfe9268f2b764aa09209de6fa071142a95211252d3b4356"
+    },
+    {
+      "path": "Andy Matuschak/How to Take Smart Notes - Ahrens.md",
+      "blank_lines_removed": 7,
+      "before_sha256": "2b61709b280b1d27cc653f2aeb868b93b1db8f5380c69f1a68cf423cfe76f097",
+      "after_sha256": "05134c8218ac77d6f48dc29e4e97d717a6952585f3f74a9ee0d1179e7def18ce"
+    },
+    {
+      "path": "Andy Matuschak/I should consider asymmetric part-time collaborators.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "d13022de81adff7c1df5611ba881e08ebc2ee6ce7cbc0a5d77b1464229c2c5a9",
+      "after_sha256": "1f6f68cb7e3d92fd6654cead5f3fe15ca85cbcff11c665f350755d25b790f368"
+    },
+    {
+      "path": "Andy Matuschak/Impact of mnemonic medium on downstream learning.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "c7a0be452005c29c7cb513887aa08aafb6f2d9dc1db7aabdfb0f80e4ddef84c7",
+      "after_sha256": "81f6e1624e842f9070d768f665e7ab8560787f12918e2303d9ae5acd0a89320d"
+    },
+    {
+      "path": "Andy Matuschak/Impermanence.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "775401220de10d947a31b5aca557a5203d04d42ba09ecec0e191c2cd4d5ffb71",
+      "after_sha256": "3ffc96b4f718722f3efebfd1250f3e1b17de970095835e9ec863ec5c6b446651"
+    },
+    {
+      "path": "Andy Matuschak/Important attributes of good spaced repetition memory prompts.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "622361807d8c82ffddcf671510bbcf9c01d0b4a9e6ceccec0a35f207925dec42",
+      "after_sha256": "556ca30646e4a326fb56304090f7c993918281a205f25106bccd7222d605c4f4"
+    },
+    {
+      "path": "Andy Matuschak/In the Cells of the Eggplant - Chapman.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "42225e17c5d364f1df7775e71736d479becd0db704f5ed3ac53c04f27eb466b9",
+      "after_sha256": "a52d551c40a150edd660e2ef335d2e0e8a1fd5a86851a336c6dd02edaa52246d"
+    },
+    {
+      "path": "Andy Matuschak/Insight through making.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "4905dfbf29d003005a1e4e204899d49129f614e239cfa271c7165e46c85f7122",
+      "after_sha256": "7d6d0ee35c20e1c4cf3cf263285f2739a24919ec555f42d56ad3f14ca3ce7719"
+    },
+    {
+      "path": "Andy Matuschak/Internally-modulated learning is self-actualizing; externally-modulated learning is self-abnegating.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "0363c58703eba2951aae443e2373b2d6d3e11a71c304099611d337dd2e07f170",
+      "after_sha256": "5346ccc7cb5945396bb55f14fecbb63e53f08df9b8ca27db395f5f332fbfbceb"
+    },
+    {
+      "path": "Andy Matuschak/It’s difficult to maintain emotional connection to a creative project across delays and breaks.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "bcfc8c930960cace5982314da80b2460effa6744eeb486fd3cf8a173ca56670a",
+      "after_sha256": "54f9f4b6bfa2c613fd5b863a0c2c951374bdf503b1d9dc39139264e4ea3e2014"
+    },
+    {
+      "path": "Andy Matuschak/It’s hard for independent researchers to find full-time collaborators.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "ff5a009791e6945e065e3390451e7ac81098983e862fad6b72365795ba9245dd",
+      "after_sha256": "b5685f9c176c6bdcaf298ecaa2c1e520c770eac4aa77e8a3cb492533657f6f25"
+    },
+    {
+      "path": "Andy Matuschak/It’s hard to hear yourself think.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "4daea8dd76d789fd51cb775f7d42a5a2e99a66be05b50c13cf342c37a030d3e9",
+      "after_sha256": "7e7a60fbb469d6e41cef6ef859dd1c3c27bf480c45028f5f52c3d9f830080203"
+    },
+    {
+      "path": "Andy Matuschak/It’s hard to navigate to unlinked “neighbors” in associative note systems.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "dd6b22e8dc7532d233c134ad44796d77ff3c25fabe92f99aeca7a9d3a19afa23",
+      "after_sha256": "b15f11be63615c448e669f6e8e68fd006e51bd478284305a28090207b499d62d"
+    },
+    {
+      "path": "Andy Matuschak/Just-in-time information retrieval agents.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "d4bcf26c0802eee1cb399d61fd18826da4b1f8ef6fc2ffe04846dc2cdfa87233",
+      "after_sha256": "4d9fd06a31ba3f65a0dac60ce6b96d0a8a7ca2d6047c2344ea081ad4d95a76cc"
+    },
+    {
+      "path": "Andy Matuschak/Kevin Kelly.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "2103eaf2635f5828379bc182953d2ca184c15286b2f5051c6a38dfe57630f0a6",
+      "after_sha256": "e250fc44bd190c330e1134ad86629a148c9cc3000df59891a3c2fcd546cc2f34"
+    },
+    {
+      "path": "Andy Matuschak/Kintsch, W. (1994). Text comprehension, memory, and learning. American Psychologist, 49(4), 294–303.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "89b24399145a907c6d0f9672f4e09de0e7bfbccd8adda139ee50238f7f892b5a",
+      "after_sha256": "9eab39f2fbdaed4643abed02f8ed9d94c7850d6c322f4aee52db1c46bd94f6fd"
+    },
+    {
+      "path": "Andy Matuschak/Leaps of insight emerge from prior thought.md",
+      "blank_lines_removed": 3,
+      "before_sha256": "d04da56047bd64233826c5b13ef34a15b24c0a16861a05c176e42219855265b1",
+      "after_sha256": "8c1a417ae0ede957e090238332780dbef1ebcf8331f82c47cccda8dc40b8edd9"
+    },
+    {
+      "path": "Andy Matuschak/Learning increasingly complex ideas may amount to forming larger effective chunk sizes.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "ba406cce654fd282d18acc4601cc5fcfaebc5bd86270506e8d4b467caa8ea8ae",
+      "after_sha256": "6157d20d46db2d5e995b7874225779852f0d9fb389ae967d2519c0e60505ae32"
+    },
+    {
+      "path": "Andy Matuschak/Learning requires metacognition.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "c71a6683b90d17c977f72573eb1b3e9962eef3c444e7986cc0d19a47fca4e349",
+      "after_sha256": "d82f1efa199eb52fdc801782cc9309d962b3da75400ffd6ada421d25d20df81d"
+    },
+    {
+      "path": "Andy Matuschak/Less accessible memories are more reinforced by retrieval.md",
+      "blank_lines_removed": 3,
+      "before_sha256": "9139a34f788daf0c60b10c3d5bcdebfcc37fc40d75f00226c3cb548bafa7b027",
+      "after_sha256": "f2843a5708597c9ee5ae2e820e70c550fef7205673676cc4db60e3e19758002f"
+    },
+    {
+      "path": "Andy Matuschak/Let ideas and beliefs emerge organically.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "81468e34e3d336f49c5d4de9903b8f3118b5ecc8da2096e4f4e8cb64f71ed1fd",
+      "after_sha256": "30b89aef52628a8a0a76d754feaebc42b7c1e29f809bd001ba2a120c2b023e54"
+    },
+    {
+      "path": "Andy Matuschak/Maintaining multiple reading positions is difficult when reading digitally.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "ea2379864ea099be2802e57cb5511017e2ed645b4f6dc151913b3504d48c33af",
+      "after_sha256": "07b9498e5c789da09fe70e121b9a6f3d01420ce8a59a8400a3119badc68521e2"
+    },
+    {
+      "path": "Andy Matuschak/Management science focuses on knowledge work at the level of the firm and the manager, not at the level of the individual.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "52a08e3d50b46bb66be7c26127c1331e804d0beddb054aeb1f6bbcd95951bf92",
+      "after_sha256": "6768207aba6c094e11308091560f2f85425bdb1e835950d1d0dd88c6a8f14f03"
+    },
+    {
+      "path": "Andy Matuschak/Many eminent thinkers need a writing surface to think.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "fc95c904fe70386c8f96d9f96cef4a0c73c29117b0eab8de1938126d9761c4de",
+      "after_sha256": "d548811c977358efdcfa3af4b6fcd7607703f28b2d9229921015a137ddfb5891"
+    },
+    {
+      "path": "Andy Matuschak/Mass mediums mostly lack an authored time dimension beyond a day.md",
+      "blank_lines_removed": 5,
+      "before_sha256": "d5d032833a6cbff366d71ace86b9c4aa0efd2a5604c713c958b9f933eda2892d",
+      "after_sha256": "297d573fb97083094ce8002007ccaeeddd2252ea1f871b51417f07a2549f9a6e"
+    },
+    {
+      "path": "Andy Matuschak/Memory augmentation can accelerate the unpleasant early stages of learning a subject.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "c643f368b715eb3b00c2d0e545b3e527264bd8d64393dedf9ef6e666729593e7",
+      "after_sha256": "2f8afc18e3ce9cf52a92de8b63b2e40b4a9daecdb5634c7c96a3af62e48170a1"
+    },
+    {
+      "path": "Andy Matuschak/Memory system practice sessions are too disconnected from activities you actually care about.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "7ee296092020883aba547ee029bb5438472b7d99f29bc19b1987e85f866cbb39",
+      "after_sha256": "c8036247c55af38447784612a10fd26b2ea5510ee98252b8ea5b571245f01bd2"
+    },
+    {
+      "path": "Andy Matuschak/Mental states of deep software development and deep research thinking are mutually exclusive.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "d8635e82beb99361de440cf5a2585827fc611480ead957f106a93dc34115e0f4",
+      "after_sha256": "af49e3142d383ab0c9e5a2e03d5c7e64b2036753f06ad63eb312db33edcd44ba"
+    },
+    {
+      "path": "Andy Matuschak/Metacognition is inherently dynamic.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "89a9fb5b8d231fcadc1564216cd1bb0c5fef7f9b41f7b337ca54eec68edc0584",
+      "after_sha256": "dda0ddb07f8573cd6b80c0e007611ee326e3efbe6e6704939c5a19877232ba9c"
+    },
+    {
+      "path": "Andy Matuschak/Metacognitive supports as cognitive scaffolding.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "c858b46f365fe1d76c42851fc7540c71d3f87a9b6ef69d50a6e03884e321fd63",
+      "after_sha256": "627ec43722977252717432509675decc453d776c260b9c987a03cb14d38a6d2a"
+    },
+    {
+      "path": "Andy Matuschak/Mind.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "9ed8d6400b1105c85631254bcdda4666301fc421e5e6025ffca62a6b7f88953f",
+      "after_sha256": "bf0d78a5c0bdde7701ba363fbeedffae127f75d3e89f9cf1179426e11263f3af"
+    },
+    {
+      "path": "Andy Matuschak/Mnemonic medium prompts are interleaved into the reading experience.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "cdc3885f94765a228a06986d7f85df24f2fb0b0b9d141d982a9e815f28a1aa8c",
+      "after_sha256": "1ef4f382555e69d5bb5bac0605358f61699267706fcd48c3973820be2be63ceb"
+    },
+    {
+      "path": "Andy Matuschak/Mnemonic medium.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "2bb2e5230bdc749db5bd1bfd10044dc872dc9ef2a6ea67d9e7d60954cd3f726c",
+      "after_sha256": "c9a82e7a2aa1fecb6e554ba76cda35cdb307931015b0f24a97514a1a7fa7d7bc"
+    },
+    {
+      "path": "Andy Matuschak/Mnemonic texts could be serialized in small sections over time, timed to reader recall.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "30e038ecdb7c571bd3d01c67d50647b6a68ac935077f64c4c4a865ee8b485a28",
+      "after_sha256": "7b07bf51e1148fc8240262e3fff4be37c2a6c85df7e07dca4403e1776450f36a"
+    },
+    {
+      "path": "Andy Matuschak/Moments of consciousness model, after Culadasa.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "0b4fee9696894e16735556ed5475b644124ac7d2dbda470b9c81c3aec395d34e",
+      "after_sha256": "225e701babe49608cc73a42c680a7067d80569f67ccca3fa2b4f021fb66ba599"
+    },
+    {
+      "path": "Andy Matuschak/Momentum as explore-exploit heuristic in creative work.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "f6628dacb0171141206828706c34f0a10baee4f38d7ee6e3d90d355115686c4a",
+      "after_sha256": "368f3bdd4a45449a5f8415c039ee1282c3bb557291248430d6e0d2b3ffeead9e"
+    },
+    {
+      "path": "Andy Matuschak/Most (especially early) experimental literature on the spacing effect involves inauthentic learning environments.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "248adc73548594ca7dc3b10c6ad3595791ce06af85b628cbf5b136c7a4dada5a",
+      "after_sha256": "95d37ddcab447bfe89d81a1a562f2e685c47d68f4ef23ff29a3d270f9ac7e55a"
+    },
+    {
+      "path": "Andy Matuschak/Most dynamic representations developed for communication aren’t very enabling.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "2c20a6bf779a6de0e7346ff1ddb0e76264d8d7559199e89682e9b79cfb507a47",
+      "after_sha256": "d4bb4f80e072f13b243773704d1ab05640972db4c42072f64f247c634dc16844"
+    },
+    {
+      "path": "Andy Matuschak/Most experimental psychology on learning involves people learning things they don’t care about.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "5098bafa42ea017e4344cfd1556d255421f158eee8c69ba81d801b6c114f24fd",
+      "after_sha256": "c6e3f4329c55604df70cad5022600cef97ae3c7c348af261942f5e193f60e9c0"
+    },
+    {
+      "path": "Andy Matuschak/Most explanatory media make participants run their own feedback loop.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "b6f285a0649749c913f37e3ef1e3e1b9bacacaee4a638f6335982333f66965eb",
+      "after_sha256": "34c06f7e24c0e06dff0459449dc91f40830f915ce8615909216bb1d50bc3757c"
+    },
+    {
+      "path": "Andy Matuschak/My morning writing practice.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "e899487b643eae4ba19d0772bb806e7597433076e87f0813b6827dc9fe798354",
+      "after_sha256": "4b882543cb7e1473fc37befd5cec6e3ebfac482c07d7be9e2d3dcaa4cd155466"
+    },
+    {
+      "path": "Andy Matuschak/Naive approaches to practice rapidly plateau.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "9a63800b590ef15f793c7acdc507337b688162f93e571e9764a2de7df4fcf934",
+      "after_sha256": "d8b1d396af58f6f33feb7ffebc7a4da8414ee6dac8175783cc81e5544b37fe01"
+    },
+    {
+      "path": "Andy Matuschak/Narrative as cognitive scaffolding.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "4781af53fba3b50601b6584fee59865b74595267cb2513ede078342b2dabe12b",
+      "after_sha256": "107de6a18f49015d9200999899d78f082649d4c8d0a8619d2125d0dc96f960b8"
+    },
+    {
+      "path": "Andy Matuschak/Non-identification.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "d44a6894f8039aad8754b01432b9dcf08574561d14616fbae95d18e2c6f26745",
+      "after_sha256": "1483da6fb97dac359b4cd0263b1a02af914690ce3f013fb991fd67511290791a"
+    },
+    {
+      "path": "Andy Matuschak/Note-writing practices are generally ineffective.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "416d0e80f6d1663e82eff934cfded43dd8dc23de9053c0cd03aa58110eae73f6",
+      "after_sha256": "9b4895657a4b6a34d8249720d5a2c9af055d3cde2c50cfecc578e9f2734a1640"
+    },
+    {
+      "path": "Andy Matuschak/Note-writing practices provide weak feedback.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "50055610347372c17238a98456b42f9c1b83175b89647b59cde7aa91e03d3957",
+      "after_sha256": "77d57100157346ceb0e55fa86f7124bedec566a2190c63abad46af76a7667047"
+    },
+    {
+      "path": "Andy Matuschak/Novices in enabling environments often can’t do what’s enabled.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "51a824549f8d1baff0952dda53cf080f32433db46d36951c120b00925aa43ddf",
+      "after_sha256": "65f31a5ca39d0b11641cd9f52909db053a321a5c6b2908fa2f7660742ce8a708"
+    },
+    {
+      "path": "Andy Matuschak/Obsession as high-order bit.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "93931028ca5f2a6cabccdf83012c83e5e33f811fe64c4dcd09f5381decddef8b",
+      "after_sha256": "002d7ec55687481be5909c462472055399ea2f452377b3d774174c5e40d78129"
+    },
+    {
+      "path": "Andy Matuschak/Original thought requires solitude.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "51e0c22393797476fbec763361f49fbc3a992e67abf0069327c817b99b9b50b5",
+      "after_sha256": "bc6dfe42a53e5bd27c8c63f8bfeecb97e5c7577ccf23f29bc371976a6b4dd1bc"
+    },
+    {
+      "path": "Andy Matuschak/OS-level spaced repetition system.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "89c62a2fbe051a0ec2769d518eecdbb791c16017a04d1e0ba98b22d8a1a92e9e",
+      "after_sha256": "f4c78b146ddc5244193b24f91fd4acf703bdf1b0e1c348f72e258b0b9cd22d37"
+    },
+    {
+      "path": "Andy Matuschak/Parallel reading is mostly impossible in digital reading.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "8ee0d5ddb710dd15886e5375f6dd4900a159a973425d0c8033a181f900a75335",
+      "after_sha256": "70713042d08c42b93a9d1961552ad2c82eebbafa73fe3844bb3097406108a523"
+    },
+    {
+      "path": "Andy Matuschak/Participatory environment.md",
+      "blank_lines_removed": 3,
+      "before_sha256": "69a57bb322a626df589b5f5555168bd61aa48cc970dc5fa5ea7da13ef78dd03b",
+      "after_sha256": "aea92b7ca70b868d5b8f00838a4c7d870360b477fab5eb1017d2f224d7c75989"
+    },
+    {
+      "path": "Andy Matuschak/People often struggle to remember details of prose text because they never processed them in the first place.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "756282407b7948fd8150a1c219229c2f92573a4239b809b640bb901e5a998b8b",
+      "after_sha256": "949c83886eaf48af700bdd00d476af847dffd2af6c3bbfcc27d92cb059d06a55"
+    },
+    {
+      "path": "Andy Matuschak/People prefer doing to thinking.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "858ab8ef164e8ff43cfb22471a837e1cb83c96724474f3d168e7afc7370144ca",
+      "after_sha256": "6f265ef8903fb3e7f737d7c8596d01dfbe714e95f5223ebd70754a00aa675214"
+    },
+    {
+      "path": "Andy Matuschak/People who write extensively about note-writing rarely have a serious context of use.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "b68eb268b01aa31b616725847a59c6a12d33cc77c5fd8a3289ee888f0e49e323",
+      "after_sha256": "2869b5e79de42b756b476446cca6abc9dcca71b3f9c4d88f88755ae7d6b2fc19"
+    },
+    {
+      "path": "Andy Matuschak/Performance plateaus often require a change in approach to surmount.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "d8eb96e9d1189aaeee736b4ba356af1cb2e469c99b76d5addfabd6040633ec23",
+      "after_sha256": "32c5b379887cdeb0fef48647851b076c8e56a9997f0fe3413f38f3890596ee78"
+    },
+    {
+      "path": "Andy Matuschak/Peripheral vision.md",
+      "blank_lines_removed": 3,
+      "before_sha256": "d2458efbe7d40a83987ef17f64896dbb745021d517e5cf240c714d20f20b1e92",
+      "after_sha256": "b229ea9b60a88ac96c38c030369160fbf045f8cf11e2668647e3dcf50f26a0f5"
+    },
+    {
+      "path": "Andy Matuschak/Pitching out corrupts within.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "e548709403d9bcc3de666a3bc2d5e0e3feffacf529a5cbb233cb61466713bc6d",
+      "after_sha256": "e5ec433b4af73cb593ce7dff5d541966df9ce20a43e83f3451d0ef74fd246a54"
+    },
+    {
+      "path": "Andy Matuschak/Powerful enabling environments focus on expert use.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "65524c60dcdcd5a36733e5322b90dfbce9e859295053a5d965acd65b7cc3ab60",
+      "after_sha256": "9b02acc09d1b10c6cc5277de08525f2ad73f2abc31b0b363fe9b3aab58c640d1"
+    },
+    {
+      "path": "Andy Matuschak/Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "1b05062a3684b6c1c36d5e3303093b9283b1950db990862ffdb248f604b508a5",
+      "after_sha256": "498de563c5b9a6d7bef38f593f6d28110257dd32adf5f7d02d90889eb4809ed3"
+    },
+    {
+      "path": "Andy Matuschak/Prefer associative ontologies to hierarchical taxonomies.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "8322151d8bdcb488ab02a82a4a37879b4f37069948c31a3e78b75e326a9186a3",
+      "after_sha256": "cd46f3aa4f99a58841161cd89b42cda2ae2da13df6851b782a004baab74c6174"
+    },
+    {
+      "path": "Andy Matuschak/Prefer positive note titles to promote systematic theory.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "d10348fbd48188bd3ed0584a3fc6b6d8ac89ce642d7bb5e059019dd455afa6b5",
+      "after_sha256": "85c281e5e3dd1de711e3bf0861d558572256ab2970deacc889628f4da48f8f28"
+    },
+    {
+      "path": "Andy Matuschak/Programmable attention.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "50a007b53482cdffb59fa70d65c3f7dfbe2612dae7cdd00fdf6da0f31911db38",
+      "after_sha256": "0f2aa19b0209dd1ea615ec09d0d57d3fc742fd5172f685227975171019db7703"
+    },
+    {
+      "path": "Andy Matuschak/Quit Your Job - Wolf Tivy.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "5ddb42936f12874b669eb8e57023aafb45ec0a2667c4b7d1d3da4e4c59d3a02c",
+      "after_sha256": "67c0a2e4b1e50b447081b02c884c9d8a31327476485c85f89ea6f9c521e551bb"
+    },
+    {
+      "path": "Andy Matuschak/Reading texts on computers is unpleasant.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "284be91965014551b6407e792ba6e94c04a0f8736421ac3c4d7d3b9bab18c90c",
+      "after_sha256": "108807cd7c11c4ecfc1c02de283fe3c379880db7d9e78f4133031dd240d5a337"
+    },
+    {
+      "path": "Andy Matuschak/ReadMe.md",
+      "blank_lines_removed": 3,
+      "before_sha256": "dce8f855368020006c884c8fede8b5c88a6e6287ea4cb68245d4e5d499b1ec9b",
+      "after_sha256": "b0ce85f6c877776666c592fb2f5dd6062c6b5a8cc20e599e3f1408103db3cbe3"
+    },
+    {
+      "path": "Andy Matuschak/Readwise.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "f75a5989e24f4615642807bb5af61b602b7d4fa50304bbb539e92ed43e283fb0",
+      "after_sha256": "72f8877e19b9ff7eded74dde17589c93c8884e861349b1329b8a2fbc85376c6f"
+    },
+    {
+      "path": "Andy Matuschak/Recall rates are a misleading proxy for more meaningful goals of the mnemonic medium.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "1d4c1b6f7ee0a8f6fd48af3120aca5e0ebdf796917541540a722e95701929ebc",
+      "after_sha256": "e88680bf6995e04fa940adc4fd66f83226b488e0bedbe0a50cdc34902030b0a5"
+    },
+    {
+      "path": "Andy Matuschak/Release valves for non-linear thought may support improved linear output.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "49cf9369000dfbec49a1828cdb91877271e19562d1f21aff1ce0e80a989eced8",
+      "after_sha256": "b99563ed4706055e6d679eed76db3e6df94058115bcd5231d6a634e95fa55b26"
+    },
+    {
+      "path": "Andy Matuschak/Retrieval practice appears to be a more effective learning activity than elaborative encoding.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "5e40fde00e0d7a60bd4edc8198cb35b6a9efc8e7d1ffd89399f7d323b72e9631",
+      "after_sha256": "f0842b5fb8681d13fee7ba878927a58e8fbd871d4dcca22b5962f26786f9b008"
+    },
+    {
+      "path": "Andy Matuschak/Retrieval practice may be less effective without feedback.md",
+      "blank_lines_removed": 3,
+      "before_sha256": "c1198d39e24dfd23cfdc317186a79b7b9d7caaf1cddb661b67ac0635c9dd45da",
+      "after_sha256": "a43d41b9d222a0933a0e40bd94bf21c28b336a5bdb807e4e8393077ba4cdc493"
+    },
+    {
+      "path": "Andy Matuschak/Silent speech interface.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "1b9898c8d569fb89201ebfb68515f0dd2e0258b11db5104e5857b8b3cacc3baf",
+      "after_sha256": "90c7ebeae3b64a8e15b220dad786d10ecd0e3be62d609350c25553a9521d0cfa"
+    },
+    {
+      "path": "Andy Matuschak/Similarities and differences between evergreen note-writing and Zettelkasten.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "192d058eb95371068e55174bd41f2507c5487c5a327f3374b1f926f1ebf84f3a",
+      "after_sha256": "6dd8ac5cbcb1acb9a1af11c28053266e3107bc68ce1d4ffb74bfc836106b620b"
+    },
+    {
+      "path": "Andy Matuschak/Situated Learning - Lave and Wenger.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "8565d98d837defbccb1c1022fbf80bbb08e919376371004f844744377eb43ce4",
+      "after_sha256": "6d9e9068fbeb8e8b37614950b7edcb09a6c7a2b0918ee826f42793b6379f2c2b"
+    },
+    {
+      "path": "Andy Matuschak/Skill development requires challenging homeostasis.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "49492c427d9e6adbfc83ef5700e59cf4b219f67c42df7d5d4a7f51bf378c16ea",
+      "after_sha256": "553a1c8650a453160b93e4563053d597b8e7ab33acc48a80d97e8fe2f1f816bd"
+    },
+    {
+      "path": "Andy Matuschak/Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "4f063a48ab98c4125393fa1584fe20acf49d8f34799ca38633ab0b8e209d0a7c",
+      "after_sha256": "477b5ae5b6c5042f937b9d9f42a2b96af50aadd65fd248adb29a6c9645bb1bfa"
+    },
+    {
+      "path": "Andy Matuschak/Some people have extraordinary energy for creative work.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "24c2e3e72190f3d40b9f31c94a788f4718348118d13d379303127a8ac9f20a5a",
+      "after_sha256": "d9599f6057d931ee5cf33397ea5f3f3a8eafc23d40fcba4b12b550810f5acfe4"
+    },
+    {
+      "path": "Andy Matuschak/Spaced repetition can lower the stakes around destructive inbox-maintenance operations.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "c208026157057f779f111137b0281137697f117c90b2690b9dd9bc98de0a08ae",
+      "after_sha256": "b35c2fc1e10ad70c24006f0b43a151b6ad566a18595c930606fe23241d12fc5f"
+    },
+    {
+      "path": "Andy Matuschak/Spaced repetition may be a helpful tool to incrementally develop inklings for more.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "f62d0ab974c0c1d1f7dd06b08e22919749638085756e2fcd0236dd1858c329cc",
+      "after_sha256": "f95dffab78c9d1846c00a687d69de709efd57b6f54b0c8783849990e86af585a"
+    },
+    {
+      "path": "Andy Matuschak/Spaced repetition may be a helpful tool to incrementally develop inklings.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "4a7baea4f8ede81d94b4e34b258b45d23a2b813be6ef1795319ea0995943f291",
+      "after_sha256": "0bbad990664722cfa463d0cc4d87ca6847a206d5a3b094057dea0039ea64e472"
+    },
+    {
+      "path": "Andy Matuschak/Spaced repetition mechanics create a sense of effortlessness.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "101d33130dcfe9caaf9f019e6d8b4962ff7534aa00a2e6125a4c8e150c96692d",
+      "after_sha256": "a4346e53cdb84ac0d6875bf5d5e8e0dc7c7c77602f439bb669a0a8ada6c43454"
+    },
+    {
+      "path": "Andy Matuschak/Spaced repetition memory prompts should be concise.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "a89718d994541a61482a9004e2066c3f9421e84fed3fe728142a4d75536aff73",
+      "after_sha256": "645e1d0410422a038d300f60c1a057cb8610085e74a7bb9df7764d4fd83853f6"
+    },
+    {
+      "path": "Andy Matuschak/Spaced repetition memory prompts should connect and relate ideas.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "54286237c02558479bbb0d0e85a72c12072aaece965862eb69b0bd249aaf55ef",
+      "after_sha256": "f051d75c0e827cae564736aaab10c1cbcd6d5a4ed8f48d2fc7e2b3334304d4f6"
+    },
+    {
+      "path": "Andy Matuschak/Spaced repetition memory prompts should encode ideas from multiple angles.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "2544d622e0a695263e7768f3effbeef7145b4125b8bfd09183eadd688daaf940",
+      "after_sha256": "6bf9400eccc8276ad4fd234dfe1345db033efd0b2d812b1fbc99e468d61a38b8"
+    },
+    {
+      "path": "Andy Matuschak/Spaced repetition memory prompts should usually focus on one atomic unit.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "173ac42a853aae6017b7ad1657cc78458b2a47a459776cac5423e0c3bc0b0ac0",
+      "after_sha256": "3465014836de66d094aca609c9f52b0cc58cae01d0814969ff6989faad4bb3e5"
+    },
+    {
+      "path": "Andy Matuschak/Spaced Repetition memory system.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "1b9b9b3b71137e690e4475c1b52cd772cf0fac30ecb56a7af432393797b219e1",
+      "after_sha256": "ff27a94c31b58e81bb7376316f172ec74271bea5bf4aeb75127cb844c2c72915"
+    },
+    {
+      "path": "Andy Matuschak/Spaced repetition memory systems are extremely efficient.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "1c0ab1c5c3a327fb8774768cdc5a79131548a69706f3f6079c951c99d34622c8",
+      "after_sha256": "d73641da25402efae255fd71637d15c5acac0cd91ace2d2f44c6144b6a657808"
+    },
+    {
+      "path": "Andy Matuschak/Spaced repetition memory systems make memory a choice.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "c492b55f068b9fac359a8dd349db5c86c1fbaf428e93c222581040db884cc47b",
+      "after_sha256": "03101c0ad7d473a2cf541e27ab2d180c7e26617fdb102798f05e9cffd5b62d0b"
+    },
+    {
+      "path": "Andy Matuschak/Spaced repetition memory systems offer a generalized medium and context for practice.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "df27c38c9bf53c2fd83f37c8dac7030ab398cd40265cadb1bacaf585776c3037",
+      "after_sha256": "67877562e3084fd88f8519346e57be82129fbe12145c31d3f9719771a8a87bbd"
+    },
+    {
+      "path": "Andy Matuschak/Spaced repetition prompt design is about designing tasks for your future self.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "0bb7f9c2bc65a1541e20cfc4b360edde92477dc4180aad8a1197058208cc3e08",
+      "after_sha256": "a32022844e1398e9c021bf1edc06661f5e4feb596e45e04ec8a4950e4ecb18c1"
+    },
+    {
+      "path": "Andy Matuschak/Spaced repetition review sessions often become boring and detached without a steady stream of new prompts.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "5f196479275ce8e8e73192f23a0dd86353d9e3e64cb871356aa29c248d76cd2b",
+      "after_sha256": "bebf2af57da8c4bcb45f032107f48b3e2715fe4ca558820a7b0261c7b24509a8"
+    },
+    {
+      "path": "Andy Matuschak/Spaced repetition systems as catechism.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "57cf8232bfe6eef1ba38cda121722db4e011f77ab69254257a44e3fe793b4f88",
+      "after_sha256": "8ca529ff020ba9bf8f3c7bb785c2f5fb2fcf2fe915b9088e5fa0f79d475edaa6"
+    },
+    {
+      "path": "Andy Matuschak/Spaced repetition systems can be used to program attention.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "15b3736910b18d5a04b4be0fa9d71f647338116e2b950b632d71f159a9c9e49d",
+      "after_sha256": "c167334bc9a51941891d52fa17cd3e6c2841de773aebaa432c8449425b16bf3a"
+    },
+    {
+      "path": "Andy Matuschak/Spacing effect.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "6f218978fc32ea9de80889c562ae76c5ddce3fce26cf4fa07e2a893c0cfe3cf0",
+      "after_sha256": "5ba2a7a4a612aa9b6d3181071896c673fa9d470616f441f4e1e0893ad86cc3bc"
+    },
+    {
+      "path": "Andy Matuschak/Span of working memory.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "6eb35537393e633dcc6cfd2ecf991a514574b3750bd2f510f4f44bba0a5db447",
+      "after_sha256": "c438b73b202794c7c827c648d7f4f474bc640c06e4585a79253569374148cfed"
+    },
+    {
+      "path": "Andy Matuschak/Talks and classes provide pressure and emotional fuel for understanding.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "88b5c93118a009aaaf971295465914d0c2e25e770315abd86e1f57dee78b6f99",
+      "after_sha256": "17a8d1fe578cae2e0242eb42dc31f0eec2d1caa75ef028fe64ae9250fd7f5987"
+    },
+    {
+      "path": "Andy Matuschak/Tech industry culture rarely produces transformative tools for thought.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "ba0e2cd929231460b45b9e2426a8bee51363b2d3ee34cc22efb1482e80397ef1",
+      "after_sha256": "8838b3c83510391259184a68dab8d51773f52ebfd97ab6e2c33cbd4fa55bae8a"
+    },
+    {
+      "path": "Andy Matuschak/The best time to write about your lecture’s topic is around the time you deliver it.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "822231e0dcc9822b814049381b98ad3276cfc2cc274d78f15c3456247c9c525d",
+      "after_sha256": "3fd9d55f7957cfdc8dfb77cc617fa8aba40af72140eccd3443ad3870109d1adc"
+    },
+    {
+      "path": "Andy Matuschak/The best way to read is highly contextual.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "9532a203f7f7d188d1f1af46c7f041d31db6e71c92ad6321472946c342639015",
+      "after_sha256": "b0343f00851bc79132e5659b619f4481ed06ef6cbaea720d1458b86018dd29d7"
+    },
+    {
+      "path": "Andy Matuschak/The cognitive revolution.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "249c809231988a0f31449e9f604ec137fb7b44cbdaaecaa227b1c4b9635c251c",
+      "after_sha256": "fb85f05e03d22be7ced7225c4a22ea5c7d7455769b5cbeba34bd5b6ebb93332c"
+    },
+    {
+      "path": "Andy Matuschak/The critical thing to optimize in spaced repetition memory systems is emotional connection to the review session and its contents.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "ed47bec08bdbe42e1abccfddb12ab6dd9301587a8c31dd284a1b9c4a0db2c43c",
+      "after_sha256": "ea90ba6a50981002b52d93304f3f1d14e066eb292cf646441f0444c4ab4d8a02"
+    },
+    {
+      "path": "Andy Matuschak/The dominant culture around spaced repetition memory systems is fixated on meaningless goals.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "52a17b812e019c8fde1c3bdd62a6d7cf7f58251f51830c9b5658a25bd093b247",
+      "after_sha256": "93a7d4dbe929e2d5c851edebb5009e88e570e527eb66b48c048d60a3c95abec3"
+    },
+    {
+      "path": "Andy Matuschak/The high-order bit for my productivity is whether I complete a deeply-focused morning creative block.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "155d0100f1296f3efc17ea81cc056d70bac791af925b474e07e5ebf77ad150d4",
+      "after_sha256": "5358ab67ed5667d3725d95f35639d579b491fadf544e93e471aa76e001447ec5"
+    },
+    {
+      "path": "Andy Matuschak/The Mind Illuminated - Culadasa.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "457ba38c1a52b1dcad4061ff744b886fcc7cfc458b9961087a596bb4c4739d2f",
+      "after_sha256": "22fed66dea09eaafc7778ad55ece653e92e75999cdd7c7174479aba76ca125e7"
+    },
+    {
+      "path": "Andy Matuschak/The mnemonic medium can be extended to one’s personal notes.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "4a8147e9960abb541e75111dffe26f59f1a53066cb2f198b4b838d5134497df5",
+      "after_sha256": "f5878a019e43072b944e12c20883f7a7e2af7cd7f89fc6be8aa9a42d5f4d6527"
+    },
+    {
+      "path": "Andy Matuschak/The mnemonic medium can help readers apply what they’ve learned through simple application prompts.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "eb1d782a558cd2d1381d02cdd4994cde55287f7bd154d8d7dc41f860ba09e73c",
+      "after_sha256": "d0c49929608bfe3f0458a55bd675c50f4e930449708a8b0771fb3d10e211e001"
+    },
+    {
+      "path": "Andy Matuschak/The mnemonic medium can surface “proof of memory” social signals.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "1e1672d0a4f96f73ac8de8925abf5d64771c9a529d1534396bee5ec7e36a14c0",
+      "after_sha256": "5311251e352c129dba2035db5452272f0ba9f7f7c3a89e39ed5d6b855d55e0f5"
+    },
+    {
+      "path": "Andy Matuschak/The mnemonic medium keeps readers in contact with material over time.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "c3da22fcd8cf1b95b2182a63dbee278daecf025d0d7f553f65dcc4cc23eb8426",
+      "after_sha256": "98d0a6edf14380e516573827067f47b114ff7b2ff6f6eaea8b0a2b4c5a377e49"
+    },
+    {
+      "path": "Andy Matuschak/The mnemonic medium may push readers to read more slowly and attentively.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "504d3779c0e24595745359a3bc9b2e7cf4b7f7e790636616122e380980cfdf45",
+      "after_sha256": "adaca9e74f043510781de1363f76cb45fd26ad40c4747d5038c35bee4d6a757d"
+    },
+    {
+      "path": "Andy Matuschak/The most effective readers and thinkers I know don’t take notes when reading.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "948081fe6f9a1403dfe0c3f3f6bb33d7554f2ec0395f2f6efbb1a6729f2bb669",
+      "after_sha256": "b935a2ff3a65dc810986b29d66b5b6e6a8200dd4a5f3975696ae50b418142530"
+    },
+    {
+      "path": "Andy Matuschak/Three characteristics of existence.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "e1aeec84374664f3d7d6f7982cf07fd2ed05a4af42765bb7a063f769238e0bc1",
+      "after_sha256": "c9d0a03dc06627ef908c04257e2b8c02e266aae9c4083f4272120680142ced07"
+    },
+    {
+      "path": "Andy Matuschak/Tools for thought collaboration seems to prefer either part-time contractor help, or deep full-time partners, with a big chasm between.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "691aca9bfa13bc39f01171ffaf17576fd701addec52c09dc566144bda8f42ad5",
+      "after_sha256": "5198265cb3373b4304a7f6ad0f1e1bab1b23a66746b1e5d3ed111f3094935c7a"
+    },
+    {
+      "path": "Andy Matuschak/Tools for thought should be evaluated in the context of intrinsically meaningful purposes.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "9a3d00d6bb0fe6d3e3528bf98a0bfa0cc8fc26796eebdff635f5db7a96a0be96",
+      "after_sha256": "3db2f4f3194576fb37488b7042d13ee9c99193e6d7e95cd42d463409b7930599"
+    },
+    {
+      "path": "Andy Matuschak/Transcendental narrative.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "2044567a123ba3f49a489a62ef44283fa98874e32c6c659cf9f206c6d4eb74eb",
+      "after_sha256": "ee33b0ab79f6224b90a7cb14c1ee465cf953d08b639e62f1daba20697e6cedca"
+    },
+    {
+      "path": "Andy Matuschak/Twitter is a kind of programmable attention.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "e2169315d8cbb21da1709d7c18f9157feffdc00c0b62b2329a0709d6b3b819ca",
+      "after_sha256": "0d47c50e155db7fe74004739a604c7fe159f6c2e3af0e23a1cd4debd30821032"
+    },
+    {
+      "path": "Andy Matuschak/Twitter is a water cooler.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "210f08a132d5cae518daef25e4998df8bc45c5fbf9732c4c0192d50521717d70",
+      "after_sha256": "0afe06fb2122338c4c9aafe2763272fc6d0a0517348513598eb9e190dae63871"
+    },
+    {
+      "path": "Andy Matuschak/Unchanging peripheral vision desensitizes.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "b4570710ec17a0b1fc58dc7b7fae53ce31eb03f61d49db2d7d048af4003e824a",
+      "after_sha256": "dce5b5569acad9926e43fc51dc17fb3e556e42380facdc93935adde9664b9040"
+    },
+    {
+      "path": "Andy Matuschak/Unskillful attention outside of work hours harms attention during work hours.md",
+      "blank_lines_removed": 3,
+      "before_sha256": "7dc72ba8bedea8479257261e3c69dc40f7f7216b8b6deb9c9a3bfaccf09a9707",
+      "after_sha256": "ee441dac8345ee5ec214bd5b83d56c9d7d56a919eebbe5ec17063f333ca3dd65"
+    },
+    {
+      "path": "Andy Matuschak/Up and Down the Ladder of Abstraction - Bret Victor.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "91182e8fb3c1be9fae3a66d2c9ec0e0efc264af0e7a96a7ffba0446947f6e863",
+      "after_sha256": "335f7d14289ace1e6f9a96deb4613f125e8dfbbe91a3895eaed44d08807a1fab"
+    },
+    {
+      "path": "Andy Matuschak/Use phones to collect and triage, not (usually) to read.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "bf1cb291048b3fdbcd4baf7944038eb2eebedc6e98b26c5e2b0c881b2f449c63",
+      "after_sha256": "db5adffd2fd5aad5f25bde86022a345b2d305021ba1c7b4e8ff842b299824846"
+    },
+    {
+      "path": "Andy Matuschak/Using machine learning to generate good spaced repetition prompts from explanatory text.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "27ad90f621091fabd3cab0ac88ad519bda215f8d1ac788da4570ba7ac25e770c",
+      "after_sha256": "43782914912c1aa8e6e35f7d48631da734f8ac3e63c003ec657090f72feb91dd"
+    },
+    {
+      "path": "Andy Matuschak/Voice-based interface.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "6253ad9b423882ba324d8a9eedab9d817da7b0807e5e034b80c5124f6e3706b9",
+      "after_sha256": "d5cbf4b926d47fa52c733d45d5ffc4fc487cf979a5709db5b14b9e9940261b6b"
+    },
+    {
+      "path": "Andy Matuschak/Worked example effect.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "870364588346bcf8e33841b61044e57c3a13b4c579a4d07417a86d2d4ca988af",
+      "after_sha256": "2c5a5553c2ffc75251a1c540756885711d6564d9872ff342d6cf4e03ea49355f"
+    },
+    {
+      "path": "Andy Matuschak/Working memory span is mostly independent of item complexity.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "7d3856ec2b7271ff5d80d8644702fda624fda4c247b5205b57ecb2346954fb45",
+      "after_sha256": "7a3ab0404d84dc1cdc8497ddc49ad6d15ce85c63ee5af7760a6adf7928cdf891"
+    },
+    {
+      "path": "Andy Matuschak/Working on niche, personally-meaningful projects brings weirder, more serendipitous inbounds.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "642369121a93db44f2731df4fbf8972bfbe6f8bc9f6201c37c33696597005566",
+      "after_sha256": "ea1c0db92d8da936fda8513381f1bcff1a5cb1b8b9d71c535ab7ffb37923c4cd"
+    },
+    {
+      "path": "Andy Matuschak/Would spaced repetition memory systems perform better with varied question texts.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "5b6e9a6d8dd166d99b932e8a0781871a26aa0ade81f33ef977f202307b838a5f",
+      "after_sha256": "1052433fb52a2d97dd94ee703d615ef53a9ada0b2cd783d04ca323086b6619e3"
+    },
+    {
+      "path": "Andy Matuschak/Write notes for yourself by default, disregarding audience.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "ab7ba9e319ad619ee93d325e0cc5b5517c4f185a4feedb146d4d54884fec1ae7",
+      "after_sha256": "002b30528b378480bc848ec813871890be66601ef6886acdbc0ad4eb5014fa7b"
+    },
+    {
+      "path": "Andy Matuschak/Writing good spaced repetition memory prompts is hard.md",
+      "blank_lines_removed": 3,
+      "before_sha256": "ad121c66222a4c5e3e37ec842d465e7441a3d21420b6ede86e44ef7ddc9241f7",
+      "after_sha256": "e2108a7f04f875fd5cabfbef8e0eddf31f1438b4d2b13942bd527e3bba219d63"
+    },
+    {
+      "path": "Ideaverse Merged/+/3 Ways to Go Faster with Obsidian (Example).md",
+      "blank_lines_removed": 4,
+      "before_sha256": "54033310ae23704d5b4ecc25e7d8450a265437d20dfd70611400a2f3437e26da",
+      "after_sha256": "adb80096993c26ff666175af9c04711bdc330b2df123bd94d54892d1bcd41294"
+    },
+    {
+      "path": "Ideaverse Merged/+/Do you suffer from note-taking.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "2b6e99b663f094a87bf26df4c9c7768529e25e037ffd0f9fd21780e1121140a7",
+      "after_sha256": "68dee7c2d694e099f1fdc69f1dfb8359e718b0959757ea0e99fef13be3ec513d"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book).md",
+      "blank_lines_removed": 8,
+      "before_sha256": "9dd92a73de14a28baf3a4432124364810ee17a2f4853dbb4257597a8b9af36a8",
+      "after_sha256": "f5c1df9e113cbb7a5d099618ad12e90c40e352943d830372b5ef6bf007a4cce6"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Sources/Books/Feel-Good Productivity.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "0ae8ff471326d2f629d15a9f62b8ff247f965baa0986d2c0e6c0942e865f7005",
+      "after_sha256": "14fe5a1e9a4d168b27eda5fc3df1e0ea7fb465e75beaade91bffdecf905519be"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Sources/Books/Harold and the Purple Crayon.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "7ebc36cd20ee34fa18e04aa95c6cb82dd2e9270ad2765cea417968f794d2f96b",
+      "after_sha256": "cbc89e6c6641b5d6635bab7110c27573d7f6e1c4f25381900f1ddc2961e19b62"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Sources/Books/It's Your Ship.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "4cf0767a7e79c16452ae376f37c38909509bb2469e52e30a65b7b1f3ad45c093",
+      "after_sha256": "26b454676c1fd26174ecc9cb21293407a1098611c34507a43b83f3506ab47513"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Sources/Books/The Body Keeps the Score.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "e378f499fe7ff25f677d352c8cceb8e6377318b37ea91135539681e56dfa5d6f",
+      "after_sha256": "66f9ebbfdd765a26db7c88c91d665632bf2df35f2494f3fcb474033d24692cbc"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Sources/Books/The Extended Mind.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "828a27b6fdf9f4c9da3a53c313601213ba243404708b463389fb0c2afdf31bd7",
+      "after_sha256": "7de401af26761b879b2cf9858d9c818148a96eccb36a2a4a0769cff5db7672ff"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Sources/Books/The Little Prince.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "7f9f8dace79e980dec2a92959583341015e04efc8bb8b39927ce02cb361110a1",
+      "after_sha256": "5b809c01b2f24fb0f47071c8f5eae422edb2ddf4df252686157026f3c47043ff"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Sources/Books/The Third Wave.md",
+      "blank_lines_removed": 3,
+      "before_sha256": "c95849a74a94e1459ff9093f38e1b532751d89c5a25e7ddb2653e125124b77d2",
+      "after_sha256": "7a622ccedb3436797ced22b7dee11f2e66bc419d62d6be9554875847230c47bb"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Sources/Ideaverse Pro.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "85f045abb8c6a5585c821ae253e3a979753b5569083532e731b5ae10385cb658",
+      "after_sha256": "5c3239c67719fa3b41dacbd8682ad9d3d83c287457f2c977ad974e4af58d192d"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Sources/The Almagest.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "e83ff34c5c8e44749c33516a50f2b3f61be07c31b81c3e792f1af31bed764261",
+      "after_sha256": "21b7276f1343997346ead5c916443a70e81500aa80a0f84e9ddb16402b8f5482"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Sources/The Count of Monte Cristo.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "05f12737d675ece499a2e1ab86d79db39c8f49a2932f51cfae28fea995378ccc",
+      "after_sha256": "69f38533a8efa98d947f2c46b1dceebd583102717a8a0c4286ab78455b44c0c6"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Sources/Willpower - Robinson et al (paper).md",
+      "blank_lines_removed": 1,
+      "before_sha256": "1430b12bbe37bb36bb15517e130af2ab24f6e030a64eb64cf463b259d4df2433",
+      "after_sha256": "8f46253030c028cd8ca053f714d0aef8c1d9a32599b6791fc5582762580561d2"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Sources/Writing Original Works.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "c32bbd15d5fd4dc76373a2c9230a7ce4870daf54f81e653cf81d8622f1151215",
+      "after_sha256": "9f886d77a5517aa5223026590097dfb8d67a220a81d9876defed5fcb9736bb3c"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Statements/Sensemaking happens by triangulation.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "c553b6e13ae61c1abfc157816fc540bc67575eb0872e518f9d84900d4683958d",
+      "after_sha256": "fd5131e9ebc13bf96dc29014ddbc4dcf7748a9a7fc5615225b609984978ff210"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Statements/Use STIR To Remember More.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "0d3a20dc4f6f19495bcdeb1d7a6cd6e252e85b21e81f77b34e9e63fe2795e71d",
+      "after_sha256": "01ec76cf7185e219e4811a0ad3d38c3ab36f1b065f54d657bb16f4cc26e9a0e0"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Things/Assembling a random article on habits.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "8eee10ad44e6d80b1c2e55d25ea139c102818e3afaea21d46d98197890fda862",
+      "after_sha256": "6536f8e15e7441d62a601ceb124c87f4099fd0515bbf4e01a35ac7e69a8c89b8"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Things/Deliberate Practice.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "5ce7bd75e0400156cc4e7dd78175e1f029fd9ea732badc8127c7fd581693c93a",
+      "after_sha256": "1e4538ec91291091c6075511e63f8ce65b2f1ccf5d32e1209a75d0150e92b826"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Things/Energy (re Flow).md",
+      "blank_lines_removed": 4,
+      "before_sha256": "fa7fc5bb951ef875f1e9a29dd5c1ca1dcb8e9a9f3eb0eae0f77880e663288d29",
+      "after_sha256": "35538d085969eb3e10631ff4fe0a53d7eadf82ed45c90497c023f8b92dd85b0f"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Things/Flow Map.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "db4431c1b4fa51e98b3e923bebc6a9ebe5b47fbf1ef1b470b45c32ea82d32ddf",
+      "after_sha256": "e8cf0ad8a2d9d2f8e229efc2ed1d0686c80c1b5d35ef114180b500b63edea20d"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Things/FlowCreation Theory.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "1f15d3c129ba3397340772cfa8566333eb6bebcf88597ad18ad68d6cef90da1b",
+      "after_sha256": "d196e8e6f6462f7d221a9fd2f3bef1c708f87a93eb190a31c8710b4bf10f6e8d"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Things/Four Factors of Flow.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "6115d4c311ed5073e25112464e24188e2d2cfba8dbf33d3f470e0fdb0cc57200",
+      "after_sha256": "f557a323d8f3fd0e512da261c6dba46ca4a31c734537f706baa28fb110e58f3d"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Things/Guiding assumptions for linked notes.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "4248698455ae9399b17bde759c9514ffe783a2e25e61deadc86133cd73470f78",
+      "after_sha256": "3bc9a6cf878727b86554e3797a6e48d4fb2e80d961e2be9b50505e281cbccfd2"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Things/Is LYT For Me.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "0224618902e00e6ab2faf6120ee3ae90e2bb44d3ba1fd9ad42210bd8feee5d71",
+      "after_sha256": "e1ebf023628fbfdb9e5128e57b60ceec57ab4232888a352ad2e3e4ae2cca81e1"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Things/LYT FAQ.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "3c04725bbc9b1e238fc7a543b356e317962d72c5b91fd4fbe3a961fb5033ddef",
+      "after_sha256": "505b16977df038ef3514c068baa6f4628c2ec81101bbfe3d1f43834496572f14"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Things/LYT Mode Theme.md",
+      "blank_lines_removed": 5,
+      "before_sha256": "737e9772dae0252a75f833c93eda4ea89e33095d7aeaf3280b7bfc68af280dc8",
+      "after_sha256": "897500948d4040dca892ca7932ad50946777ee476c51e2bb9184a44ae62f3ea5"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Things/PKM Planet 1 - What is PKM.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "95ec33bbe27b28c5fd97e3048329731dce625376bccc81ce7c49b436da2c4684",
+      "after_sha256": "891e6aff16192ad6689fcffd26f11a501e3c127673684ff952649ed0751db688"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Things/The ACE Folder Framework Flexes For You.md",
+      "blank_lines_removed": 3,
+      "before_sha256": "9618c36b23ae510224eb0d904d5b3ccbaa356a4f4172225838a7ea43ac48f9c6",
+      "after_sha256": "c40e2e0d74cc8ee7bbe6fffedcc627373efca59b5a8daf17ab535d964a23c1ee"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/X/Meta/Nick Milo's Pro Custom Callouts.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "927574d53f9f5c44cc6974dd98290854967e772972dc926ba67c0d06b96023a1",
+      "after_sha256": "e7f9c0c457a504695bcc466a41dd1e2109d4ab735c05e41e3cd2954507a5636a"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/X/Meta/Welcome to Collections.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "dafe60a1e1a842a4ed555df8eb1ef7d6df36a30aab12a216d834ff7fbc9275d0",
+      "after_sha256": "1379a4855d7a0a167e9e1ec3898a919a23a9255680e9cd712da6a6b240243c0c"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Maps/Collections.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "f7c74d831932b28e1c0bda489662e1101421fef85f9dff5a153dc9e0b681f548",
+      "after_sha256": "d24e8dda10dee76167a47532bb2b7ba3c93ec1b6f9ae8d73d6d440cc7c8baf4f"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Maps/Communicate.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "ff5345d82ab3815c25c65ab1da6648ac96633755806a0165eabd6a67eac3884c",
+      "after_sha256": "da80b9a473d9b86439d0ca5315c0db295a1ac23c5f51a20f845b9d90902ffcd8"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Maps/Library.md",
+      "blank_lines_removed": 9,
+      "before_sha256": "8d6db293a865853c9e6dd78c754dfdcf2b7efea51b66979f93130332a95b839e",
+      "after_sha256": "cb9407506c27956256f3592bae6687c399759d450829a989328804200e0d8adc"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Maps/Philosophy MOC (kit).md",
+      "blank_lines_removed": 4,
+      "before_sha256": "a1e4bb159ac55f8bd8c287461d67b60d8a7c4ec08156f02a263991d4f326e785",
+      "after_sha256": "fb92ebe1e6fc3e2741bb7a4a7dc1fd29479099ce46b4b7da14802501162ca5b7"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Maps/Series.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "879b8e4496c65770dd38edd582c93770b16b740c5ca07f0d274b0a54b62a85fe",
+      "after_sha256": "e1b4e5ddd0a37a6992fb7c2cc9b56b12ef0b1130674eeac045a1b38fa1f5a595"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Maps/Statements.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "4d5b094cf8371e770bbe3f6e631d5711e6fe993c59233d0d13cc0b80f66ef607",
+      "after_sha256": "123698cc628c44819661d926c86103f50a25c156fda3632952f820749fcbbe55"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Maps/Templates.md",
+      "blank_lines_removed": 3,
+      "before_sha256": "06208e8afb5725c9ce7bbd5c869401f32a194d655b9eaccdbb05683604894745",
+      "after_sha256": "f36432707433b78f470d1d3ae591ffb146ed892f891b7ba72fc79ec8512815c1"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Maps/Thinking Map.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "dab187eb39f7d4f3e3ee2f7659a9339d50a296adc57410ee0f17bba6e4ad9dbc",
+      "after_sha256": "6a8a4db9077522c08c1cc1ad876c2ba8d235479986aa54cec90828e43feb8b35"
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Maps/Workflows.md",
+      "blank_lines_removed": 7,
+      "before_sha256": "dc2bba8f72af55bd99798d7e8bdc121fd70e734a06c0d8c60a6017a451aafc82",
+      "after_sha256": "ca4031fcc46b25e1f123107145fa62225e3cdff2af10ebcd1ea145a27049bfc8"
+    },
+    {
+      "path": "Ideaverse Merged/Calendar/Notes/2023-08-21.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "22528a4533a77572a69bbe6bf87b6e4270c122f61d396884692acb71a2ec672a",
+      "after_sha256": "ab1337bf22110e60152d0153a49ec30f3131b118cc6e231d8bd5266b91991ff2"
+    },
+    {
+      "path": "Ideaverse Merged/Calendar/Notes/2023-08-23.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "f6487ab14937ab49913ebbed3c92834a82ac38b2989ea52ef4b740bb4bb3aa4b",
+      "after_sha256": "fd7f8b84868840f608ac1686b2f57ae44e37c6ecab44c2d0a30aa28f61238292"
+    },
+    {
+      "path": "Ideaverse Merged/Calendar/Notes/2023-08-31.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "1c5d9e296e3555634b900ed53c15972b0e7d1c11d1a10105c252b81aae3f45fe",
+      "after_sha256": "374f3918131b1aaaf767a2f9236701dc7da3b2d23a68b970861fde6c6814cce4"
+    },
+    {
+      "path": "Ideaverse Merged/Calendar/Notes/2023-08-w34.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "f4997fbed7b55481187d25c0e4e92f18aedeb55e877adf5f9f5324615b81588a",
+      "after_sha256": "40b14b032b8f52a72cd5c43abc7705080e6fc222c828f656cacffa8ebe88c969"
+    },
+    {
+      "path": "Ideaverse Merged/Calendar/Notes/2023-08.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "4fc50d1c5cb8c665f4725b911e9d80fae37a4cb250012f5de5c031ea88abe54f",
+      "after_sha256": "ffc368ef0631bf559c3ba23d986137495ae8cb1299385d59d3d05dad15a2bacf"
+    },
+    {
+      "path": "Ideaverse Merged/Calendar/Notes/Past Years/2013-03-10 Habit Planning.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "ea077eb4de7793db8303b30424f1e0155352aeccdd8f70d3325f074066071e16",
+      "after_sha256": "39d8a1c930bfd82a57f1cfe26b981a35282ec14c8bcd83fcd521036cb644c004"
+    },
+    {
+      "path": "Ideaverse Merged/Efforts/Notes/My Newsletters/LYT Notes 1 (Example).md",
+      "blank_lines_removed": 3,
+      "before_sha256": "a66488524d2546256385af03208fdd597ce642232b5de676f9dfb9fd0a9e7173",
+      "after_sha256": "8e92faaf74136f68549cfe7fe175459b1e1b8d6b7bff0f74dd0c97f97c5bd6b0"
+    },
+    {
+      "path": "Ideaverse Merged/Efforts/Notes/My Newsletters/LYT Notes 2 (Example).md",
+      "blank_lines_removed": 3,
+      "before_sha256": "4a9932145ba5e37d2d640809004958ccc716c486108b58f63be7d6a865db2e6f",
+      "after_sha256": "fd053296ba1f37a105c891c2f3a1d5f3199602fdcab64dd61fe5dc72a47ff17c"
+    },
+    {
+      "path": "Ideaverse Merged/Efforts/Notes/My Newsletters/LYT Notes 30 (Example).md",
+      "blank_lines_removed": 6,
+      "before_sha256": "a6c0fec23cf985728e722d8019a99e6b36c725e308891cb983f6272a0d4cd481",
+      "after_sha256": "7cbf360393be331eefc28897722e6abb27101f2f4899c021a762fdc37d62f8fa"
+    },
+    {
+      "path": "Ideaverse Merged/Efforts/Notes/My Newsletters/LYT Notes 4 (Example).md",
+      "blank_lines_removed": 4,
+      "before_sha256": "7a73bad85e0e249d851efe8e57b3e1e6f79194bf82c6bec1a6d02e6dcb0f599a",
+      "after_sha256": "79f1aae9ad1c276297cb72241ca49c093f3842c57e1e4d70672cf385760cd167"
+    },
+    {
+      "path": "Ideaverse Merged/Efforts/Notes/My Newsletters/LYT Notes 5 (Example).md",
+      "blank_lines_removed": 2,
+      "before_sha256": "f0177ed155864a30cc348b40e10c89625f35c3774a7bee9acba6dcd89ff796b3",
+      "after_sha256": "b9e9b78cb78f18a07a829dbe2e12535d83f2ed952f2e896d3e6fc1cee4da0af7"
+    },
+    {
+      "path": "Ideaverse Merged/Efforts/Notes/UCLA Supercharge Course/UCLA - SYWE - Session 1 (Example).md",
+      "blank_lines_removed": 7,
+      "before_sha256": "ca8b8fd62e04ef114fa9db4ac78ecbc1f78c201633d94e4497ca70563543c4ba",
+      "after_sha256": "421ba5038257a23843000d31aa372d62ca2b1ac41623712d2d200df405f25a41"
+    },
+    {
+      "path": "Ideaverse Merged/Efforts/Notes/UCLA Supercharge Course/UCLA - SYWE - Session 2 (Example).md",
+      "blank_lines_removed": 7,
+      "before_sha256": "9911a2c72e94968a2a694ea761400116d98940cd47fb200bef5a049d0bf3883e",
+      "after_sha256": "fc2b5903913cbe47c1756bbcdb51a01415bad77628b987bbc4bc22e4097a6e19"
+    },
+    {
+      "path": "Ideaverse Merged/Efforts/Notes/UCLA Supercharge Course/UCLA - SYWE - Session 3 (Example).md",
+      "blank_lines_removed": 7,
+      "before_sha256": "f3a9fbe1cd1ac2a54c63ceeab9d05436ab1f6cf6f529d70350247b381d2b64e5",
+      "after_sha256": "8c629ce620fe7110db2c858fb86eb5df3c356ae54883491795cd307d5efb96cf"
+    },
+    {
+      "path": "Ideaverse Merged/Efforts/Notes/UCLA Supercharge Course/UCLA - SYWE - Session 4 (Example).md",
+      "blank_lines_removed": 7,
+      "before_sha256": "ee9ef1868eb7995b87c6b13b44f4aa1cf96427a9bf180b67499d26ddbdb95be1",
+      "after_sha256": "7799b50536a018294991be2aa6d11d9b7eac7ac89f89dae1f11b32a413f1721a"
+    },
+    {
+      "path": "Ideaverse Merged/Efforts/Notes/UCLA Supercharge Course/UCLA - SYWE - Session 5 (Example).md",
+      "blank_lines_removed": 7,
+      "before_sha256": "7678cc218f225d4f6fc73614a7a35446f15f4d07deeeb2d583693eddfec0f12c",
+      "after_sha256": "55058ba4d204a9eb07dfa96dc2cc277851f87560b04bd2ff90a4115a47d7165c"
+    },
+    {
+      "path": "Ideaverse Merged/Efforts/Notes/UCLA Supercharge Course/UCLA - SYWE - Session 6 (Example).md",
+      "blank_lines_removed": 7,
+      "before_sha256": "6bd8b0c1bcebbe208428421cd18b3b68cffa06e5bd2316198832ec6c6db578ac",
+      "after_sha256": "f7229b134ae7b80409a760ef4a2ef26abc9e01bd64bc3a7219bc6d0b3b71277f"
+    },
+    {
+      "path": "Ideaverse Merged/Efforts/On/🌌 Ideaverse Kit Launch (E) (Example).md",
+      "blank_lines_removed": 5,
+      "before_sha256": "5e8d762fdb95171495a48fec6e25379856684de50e9b9b6127922a9f86eaae0b",
+      "after_sha256": "2a77eccb979379584f4ca47ccc4c542e1c48af5c8b67eb3a1848356053f07222"
+    },
+    {
+      "path": "Ideaverse Merged/Efforts/On/👨🏻‍🏫 LYT W12 Production (E) (Example).md",
+      "blank_lines_removed": 3,
+      "before_sha256": "4c71f250be1ebe33cd5ee3fbad21f8acd6a08b6e4d0c942a568bb03498ed5602",
+      "after_sha256": "06c1a83d814428e41cfe680cd295192ea06eb522ebe49691a519c832659d135c"
+    },
+    {
+      "path": "Ideaverse Merged/Efforts/On/👨🏻‍🏫 UCLA Supercharge Course (E) (Example).md",
+      "blank_lines_removed": 5,
+      "before_sha256": "48d9bf41fc83c311a206581812cb19bf298deb3dfdb4febcc937922182042faa",
+      "after_sha256": "f43514c35768d85a72d6ead5955f3d20c878231e623309a6a0eb6422c92e74b6"
+    },
+    {
+      "path": "Ideaverse Merged/Efforts/Ongoing/🚀 Flight School (OE) (Example).md",
+      "blank_lines_removed": 1,
+      "before_sha256": "9cebcbb83cb10eaf469ff2cbe649caab82a845f8941a6e772fddc4473c8dcb18",
+      "after_sha256": "cecc6d641e6521397dbc0d6b51e1f1551e2ced1eb97bc0a231bec31db6fb5d6c"
+    },
+    {
+      "path": "Ideaverse Merged/Efforts/Simmering/🎙️ LYT Podcast (E) (Example).md",
+      "blank_lines_removed": 1,
+      "before_sha256": "b39a527e0c5a5049dd4b879185b8aee0c72e7bcd9797a5caa85f9f8d6e5438b6",
+      "after_sha256": "deebdd02a396dfc4113b41dc16f2cdf31164c79c48f56749262691a497049b49"
+    },
+    {
+      "path": "Ideaverse Merged/Efforts/Sleeping/👨‍👩‍👧‍👦 LYT Conference (OE) (Example).md",
+      "blank_lines_removed": 1,
+      "before_sha256": "3573230f5a84ed7e7e6a34ddf2b6ac228a7626de0aa3923a8fc1e0c42d2c6d11",
+      "after_sha256": "9b812e22432a946a8b9f972e471df0622a4f26fae74dba4cd8ed4c46553735d8"
+    },
+    {
+      "path": "Ideaverse Merged/Home Pro.md",
+      "blank_lines_removed": 7,
+      "before_sha256": "ddc5dc80cf9bea8dbca0771de2d234fd09e625e850d46fd30eca39d25d3d3bcd",
+      "after_sha256": "91f0fac264375a3ec2d9f6ba0fc1f1e0b8148f72a5721fe8307327e7a75ebe8d"
+    },
+    {
+      "path": "Ideaverse Merged/Ideaverse Map.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "caf1169681f01cf0abd04236df797e087771b83acdc5816e53f341c2b05ba8a7",
+      "after_sha256": "d70d9d4f5a01216b761fbeb971e161262cd5f39bb8108eee5cee2832df99373e"
+    },
+    {
+      "path": "Ideaverse Merged/x/Prompts/Prompt - The Last of the Lens-Benders.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "089b2dfec191b340df6ae0fd76b82915eb655842ee38b476b75d38a36c363a36",
+      "after_sha256": "03d7fd8a0c6cf1a8f7cf55ed963ab1a202eb7315968ece85ffffae65ae51a681"
+    },
+    {
+      "path": "Ideaverse Merged/x/Templates/Template, Properties, Daily Note (Kit).md",
+      "blank_lines_removed": 4,
+      "before_sha256": "98c495d01b0cc05c02620b25c745e6f77f384f32584b2b96b5b0e90aa0501aad",
+      "after_sha256": "4f4144a1c1aa38fbbd70e22e1940ac55373613300d34843e141595ad56a214ec"
+    },
+    {
+      "path": "LizardsFromOuterSpace/002- Zettelkasten.md",
+      "blank_lines_removed": 3,
+      "before_sha256": "fa7badcd38c2d1a0a328d29f8afca3a993bac4a42b6754fb6483087ba84340d9",
+      "after_sha256": "9caa8431f7edb62e86e5661a8e0cf3184176dd1646581da7bd2a909596c05142"
+    },
+    {
+      "path": "LizardsFromOuterSpace/004- Zettelkasten and Structure.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "d487c06a99f7dd4611b17bb662165ec7308346f85c0e4cabe554afde6c03f49b",
+      "after_sha256": "13255ca0ebdfa1ecc382fe38ca3a6fe996e6b8ca4bc788320f752ad15d9ee615"
+    },
+    {
+      "path": "LizardsFromOuterSpace/007- Structuring for Retrieval.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "23934aa88abefe4d21e1a7d135b07c5166671df800f26c89850b7946457e75dd",
+      "after_sha256": "720b9e0762555573eb3a7c4d7c9b13de8cc228f3a09725e0bd7236dda5f9707c"
+    },
+    {
+      "path": "LizardsFromOuterSpace/009- Note Size.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "7ce50c864f311527231b699b3bb730e9bbaa68625827c97ef0b6185ea3fb179a",
+      "after_sha256": "2299a3a34b0cc92cdfc4a85c8005f1800cd7aecdf275b47095398f82f9cbffe0"
+    },
+    {
+      "path": "LizardsFromOuterSpace/009a- Paragraph.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "2305eddbc7db4f5ab4214a51d1ee6bd3e319b6c9b72ee941fc2352c7fc421142",
+      "after_sha256": "6c54562c26465f6fb30988f365beb47716c35b368f29f5f2ef128fdf4dd24bb5"
+    },
+    {
+      "path": "LizardsFromOuterSpace/011- Example of a Note size.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "ad28f4f079a0e9519dd4d5a62aaa10c24ffef08daadb1338a522cd1732a95efd",
+      "after_sha256": "283b80d20663c4a8ca3a55960deb9c9dfc4f00003704799b74ebc2730cc2f30e"
+    },
+    {
+      "path": "LizardsFromOuterSpace/028- Mediums of Information Management.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "05207935e12625ee370cd1382e2ff379b61c1370dc5e813e677381cc94516358",
+      "after_sha256": "efd3a5c6079c8f678641f222d86de755c7c277fa0874067d647a5eb29e21bc24"
+    },
+    {
+      "path": "LizardsFromOuterSpace/029- Core Note Functions in Memory.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "bc845d1b6f4e01ba33963934d660d366995dc322e0c60bb914159edd3fbf2355",
+      "after_sha256": "a6d3acf05304a887318bfaf856a5704944df67d2e89bd99e3f191018036be2e9"
+    },
+    {
+      "path": "LizardsFromOuterSpace/033- Internal vs External Models.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "f5db722827a7232b46a0d5e1932e50e5314e52bf2ceb846492dbd05b278e5e2f",
+      "after_sha256": "ec43e57beeface3dcb540f2b3677910aa32e7cfb438799560b23cd755d7fe987"
+    },
+    {
+      "path": "LizardsFromOuterSpace/040- Generalization.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "35c28a9e6279f727facda09d2f5eb1fc43739cbc70c7d2b25ffe78a448f32fe8",
+      "after_sha256": "100c1c9ecf62480d2cc17860531ce594c06bbd7617ecb4664815876a56757e2f"
+    },
+    {
+      "path": "LizardsFromOuterSpace/041- Applicability.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "096daa2606b70dc037619401ffad5b03d65618a6e6721a00f47a8803a309ed0a",
+      "after_sha256": "b1292b49b264f4665c427e5a06677b8ced2add16a448ec55d8dab52640b47262"
+    },
+    {
+      "path": "LizardsFromOuterSpace/043- Concept.md",
+      "blank_lines_removed": 3,
+      "before_sha256": "eee7ec794720ff4bf5eb62d5f2ac68fc4f5913b4254fe8bd17fed97ef581f343",
+      "after_sha256": "2fb4424f2c1032ef757499ae58e272d145b7fed66636bdeb5ee4fa4727c3acb9"
+    },
+    {
+      "path": "LizardsFromOuterSpace/044- Model.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "ba3efcc54e306ba0d30cb6eb6077675cdfe32bad42e8c36e71bcf173c117e3d7",
+      "after_sha256": "d4ee85df0109f10f87d06e6687a73d90ef4208c2fe3ee880b0c24d05b0c9c872"
+    },
+    {
+      "path": "LizardsFromOuterSpace/045- Rule.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "9fc159f7d49a0940b4420890e7149fda7fe023db619ac40c10de0684a80e4d60",
+      "after_sha256": "952a442bf86f0f2315f078f6a1fbd052026785549a354d4ae4157219fa7f3bce"
+    },
+    {
+      "path": "LizardsFromOuterSpace/049- Developing a Model of Storytelling with Zettelkasten.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "a08aa4c8078cd2fd343ff89e52a8771c255dbfdc5a1417bc068f55f0b8f19694",
+      "after_sha256": "a825b4a5397b5a2a34e0f6e3800668bb93407af626e6a9068330bce0ea8c41cc"
+    },
+    {
+      "path": "LizardsFromOuterSpace/050- Connections aren’t immediate.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "80f56b27d82c0da45ef3acd328aa1f5861440aacad88ed8268b54995ca0d21a3",
+      "after_sha256": "a9bc86141a66c72dcd4cfb98ced5992b7b5b24a9a7851aec85e06a87a79a3ce1"
+    },
+    {
+      "path": "LizardsFromOuterSpace/052- Structure building framework.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "e6135004f5ac0bbc9cf6796988d278407b39c842153476614496bd620e5c1405",
+      "after_sha256": "07d835a571f7420691752d049b166f91bf6125b782afe83e63bf3179b457d34c"
+    },
+    {
+      "path": "LizardsFromOuterSpace/053- Storing.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "e22dd406ac29150d37b1c0e546d659e1944ff929ba1a085378cc5eb77886aea5",
+      "after_sha256": "0f898899a9e5d67a79b24b9c10e9c11fd4406b8f06880815c64db40e0ed7d9e4"
+    },
+    {
+      "path": "LizardsFromOuterSpace/054- Archetypes.md",
+      "blank_lines_removed": 3,
+      "before_sha256": "9e9b852003e2e1bf490a4c4cf0c4be573d95acb643d43fec86cf70870562e7b0",
+      "after_sha256": "e26d910bda5c902b42519dfdd85e50d2a0665fa9c6476e85f4536b250dc38e8c"
+    },
+    {
+      "path": "LizardsFromOuterSpace/055- External Models.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "e2259019283475331b02a7dbece9c841c36492735d91a82ddfedcd007a666de4",
+      "after_sha256": "f9c1cdc8213018ba0ada53e32b5dbedcccd603a560e7c312544dd9be34389591"
+    },
+    {
+      "path": "LizardsFromOuterSpace/055- Internal models.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "62dba995670272493738f11b5d220b3080b2736af3f927f7a2e16a9b34ddd348",
+      "after_sha256": "53996d1742562d8a9d7dc00cf73c55bcf52114ff3424591a161c504324fb86bc"
+    },
+    {
+      "path": "LizardsFromOuterSpace/058- Mental Models.md",
+      "blank_lines_removed": 6,
+      "before_sha256": "27d998cbb441b405c1e2a57c1cf882949440702568918b5b276695ee49d37056",
+      "after_sha256": "92b806135bbe36a1a2ff9cb9169956b61779c7391bb0250a16c9028698051cbd"
+    },
+    {
+      "path": "LizardsFromOuterSpace/062- Layers of structure in a physical zettelkasten.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "e3cb387d1fc23097e0f94fbdbfb82909e9889c0050d1efc86c1495a0e34562bc",
+      "after_sha256": "07e63d03a0ba4db317689e8393eba6fbe497965c14a36b6eece53244ea98f20f"
+    },
+    {
+      "path": "LizardsFromOuterSpace/066- Layers of structure.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "ea1460787110f24c7e432dee81a677928e8f55c4181ea11aec80d45f25bcbef4",
+      "after_sha256": "e48af1e6f7248aab8af5b4a5fc9c6e47dbde0df76d213d68b45c9f1959e8b3b1"
+    },
+    {
+      "path": "LizardsFromOuterSpace/066a- PARA structure.md",
+      "blank_lines_removed": 3,
+      "before_sha256": "f137f060dcb04fbe4fc109e3ed43edf55b641f10c4a00e33717bb5756a180a60",
+      "after_sha256": "26c81fb9e9b9d775489ca2b67b112b239067267cc5f1694e4060c6705b2821b3"
+    },
+    {
+      "path": "LizardsFromOuterSpace/068- Knowledge work.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "e73f3ea00091433692e874b0247286553301043402e3050881d99154930be6d6",
+      "after_sha256": "3d662cfed5895eddd87933e33bdd767399fd52752214a481aaebe0422f131ee2"
+    },
+    {
+      "path": "LizardsFromOuterSpace/073- Knowledge.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "6537b1f1bc569409faf1bc8aac88f8660caaf0d39bcad59a5a3702c939af2e76",
+      "after_sha256": "978d171ed2b97537a502908186b3f0c1aebe0268f037c84e31da18f11d2e9b01"
+    },
+    {
+      "path": "LizardsFromOuterSpace/078- Cognition.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "1e2faf5e6364e2bf34d98ebe60ff393be1d1b6927cff7eb62b88a038e651eed4",
+      "after_sha256": "b2b2fd20be587242e7811d15a682553d27ec7a18b4d3f0d8273eed43a464c09c"
+    },
+    {
+      "path": "LizardsFromOuterSpace/086- Decision making.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "d2fa13a19b7c1aa4248f35268843d15a5434f37f7a8a5b9efe965c2e9bb4c6f4",
+      "after_sha256": "05a8a502b1cf7fbc18a937f152d28c2f0735e1ceb4c7ea1011450b5e6d9897c7"
+    },
+    {
+      "path": "LizardsFromOuterSpace/089- Types of thinking.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "c0312dcf6a7e4ba40904d6cc4c667e785a97b18ff18fa87c54a27740ec602bc6",
+      "after_sha256": "24c9d8c96755d2b5acf04bb36856cf151221e9fa4d65bf95c60b6b3294704e57"
+    },
+    {
+      "path": "LizardsFromOuterSpace/090- Cross Thinking.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "24dc3877accbc87d096836b1a3f86514f06eb63855abd81a7fb2539d8916dcda",
+      "after_sha256": "b4c1ffbae671d9a80c7d82fe9b126c71474a5184dee65712d0987c08aca6f61d"
+    },
+    {
+      "path": "LizardsFromOuterSpace/092- Structure.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "32dea3369467a96b2db566d708ae393c232e31ff020d4f4b271fbf6eb5462c34",
+      "after_sha256": "862afa36ee4ff2558b4db78bb5afcb1bcc4f5ad9bfcb618db12daf83ef30b71c"
+    },
+    {
+      "path": "LizardsFromOuterSpace/093- Layers of Structure in a Digital Zettelkasten.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "64328bb72e46d8ed70b2544661b15130e63d2b7798b12af4d875c3c8fb851aa1",
+      "after_sha256": "84321b6360cb510ed1428ad0ed501259373ef46deca12e207e58320c0aabb07e"
+    },
+    {
+      "path": "LizardsFromOuterSpace/094- Connections (knowledge).md",
+      "blank_lines_removed": 1,
+      "before_sha256": "0b24e3ce9a9f2f7fb097edd8b05e2989a5cfaef2434eb55bbdc6a46f0990518a",
+      "after_sha256": "1303091bb22bd0bd9f152b5c9fbfd16f8d40e999e9437208c55c01467e8a383c"
+    },
+    {
+      "path": "LizardsFromOuterSpace/100- Niklas Luhmann.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "9fb797c666e088fb789c4d7cbabecea9009dfb93f47ef9d7bc0461cae929150d",
+      "after_sha256": "f4d3414bbe0f5d803afb52524a5772728f5347c2101562c7bfbf09ae92ebb9df"
+    },
+    {
+      "path": "LizardsFromOuterSpace/105- Creative Productivity Project.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "9e4fc6e167bb7860b41aeac2370d6c87ab5ae495bcddf5fec20f454438b97577",
+      "after_sha256": "defc3637d91bd70c0d4d8e64248d3b6a05de99e2eec8c3e62955e1d30fca6674"
+    },
+    {
+      "path": "LizardsFromOuterSpace/117- Information Surprisal and Utility.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "8aa4e33c03bbad902afefff32d31f48f20a76ae33f6ac54ced0b0386eaaae270",
+      "after_sha256": "f22cd7f35db52b464f3d6bd188f6d765cf0aeba16c95898f08891e6eeb3bfc24"
+    },
+    {
+      "path": "LizardsFromOuterSpace/126- Effective learning.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "a438cc72d97e3fef0425bcff607a07d88b68ecae6941c46e24e47e8a5b27bebd",
+      "after_sha256": "b3724a12871d6f4635f0a0edc30f346dc094a55e95cbfc6b6febd9828a98d459"
+    },
+    {
+      "path": "LizardsFromOuterSpace/131- Textbook Deconstruction.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "1cdff1233eb35d0b7faa1fdf21ef99927338480d3f1be67aef6db58276db3942",
+      "after_sha256": "5b2aee4e488e7b9754d132b888cd8c2e9d3160a2fd6400fa4df6169aeb584a66"
+    },
+    {
+      "path": "LizardsFromOuterSpace/150- Knowledge Development in Fiction Writing.md",
+      "blank_lines_removed": 7,
+      "before_sha256": "44355ac93a1d466b5151dc571d366defdc58cdc1318f6f15c0126d14bd1fa7bd",
+      "after_sha256": "152a93a3e76de307dc720be1ff7cb794d2f8a8ecc66fc022de19102dd8870e38"
+    },
+    {
+      "path": "LizardsFromOuterSpace/167- Example of a Book Deconstruction.md",
+      "blank_lines_removed": 11,
+      "before_sha256": "763c17dc107294ec376e92d406ddfbc15a6cbeca538e5e63ab7ce0a149093984",
+      "after_sha256": "d99f570302305fb6b4bf894fd5350cefbdcb17e37cfb21d0ad216e08841dd6fa"
+    },
+    {
+      "path": "LizardsFromOuterSpace/176- Luhmann and multiple contexts.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "f4946662969a3c6b1134569a6adb96100592cdd49cfceb08255dc087cd690749",
+      "after_sha256": "8da9805cf75eb68e7e6d47da9f47aa804901a330901eb20376c5eb973ecf57f0"
+    },
+    {
+      "path": "LizardsFromOuterSpace/198- Should you include textbook structures in your notes when deconstructing them.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "58ad42bbfdb603e070dd9374645606714fd43de5ce1bacf5e6970d88ebcaa4e4",
+      "after_sha256": "8b64b1903c9ea11431001715abd7ab2185299d29bcc76359ff9cfcc93762e4fe"
+    },
+    {
+      "path": "LizardsFromOuterSpace/203- Zettelkasten Sales Pitch.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "e72279fe7fc5012d8d02603407894a8bc7e38cb6b027cd7064e639b8bbdb572c",
+      "after_sha256": "9527c05f1f2c42cbc5fa4a4443386034f9afc8c2cfb5f1e67626eddb8246f19c"
+    },
+    {
+      "path": "LizardsFromOuterSpace/206- Luhmann on Arbitrary Branching.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "76868c53f6b23b333374331a4c47492d78f71e250e1ad5d15fd63dd684d009b0",
+      "after_sha256": "c8bade7100a2a13e06eefbfef2cfe49d959dfa00aede37c4bfbe7300b0acccf4"
+    },
+    {
+      "path": "LizardsFromOuterSpace/207- Luhmann on Possibility of Linking.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "f6bf29ff40b8d66303d62b61f321659522eae327888e8c30fdd2495627e1c93c",
+      "after_sha256": "fbf6d51041db7ab1034221ba218e02131ffda36b63ef24ce4ec6837818258c13"
+    },
+    {
+      "path": "LizardsFromOuterSpace/208- Luhmann on using an Index.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "66800c891fa824d955ecf3c816da392fd5a4f95990cb880f78e401a188964ca8",
+      "after_sha256": "2bf2a5265cb595aa827abe2f8436600d52ab92a6e729df122af6bfced1d188a6"
+    },
+    {
+      "path": "LizardsFromOuterSpace/209- Knowledge Development Questions.md",
+      "blank_lines_removed": 3,
+      "before_sha256": "9686d89c67ce88c4a095af4d169ba4388c8a9a1c47a184d71252af7cd92963f0",
+      "after_sha256": "f68a85288341afa630092b3560797fedce8bf7ce19987b00a6a210fa3692f7f2"
+    },
+    {
+      "path": "LizardsFromOuterSpace/211- Folgzettel Debate.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "972a246d78018cb79acd14bb76c6ea0e7458ee8d1966ca98ad8073c45f9112a5",
+      "after_sha256": "c7df56c918cc14784f9aae7a8339513b1af0c420ada0a79e50e420789beae195"
+    },
+    {
+      "path": "LizardsFromOuterSpace/212- Food rules as an example of external model.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "d1b83ffb534bc4d6523bb7c9ca6ee01748dedb1dd143ca9253210fc747983858",
+      "after_sha256": "bfc2d47e9d25030070c9aaee4720c8718504dbd687b84934ae632ecf53ac0c9f"
+    },
+    {
+      "path": "LizardsFromOuterSpace/213- Reason for Note Sequences.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "81cd19d4b5067a1bd3d3b458e7dc73e2f1ebc59a33a133ec6e4ada3d3478e354",
+      "after_sha256": "65a277d98b70dddc99c12b32c5287993f84e089d9909c8ca93adda71a6aa3c65"
+    },
+    {
+      "path": "LizardsFromOuterSpace/214- Music as Information.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "2c6f996e1630fa9d6c59959a25e002b966f70c66decc8793476636bb39211ec3",
+      "after_sha256": "0084133c50fb62652a163178ee52230589b9caf2c4bff7cac4fbc00ad2a8b71d"
+    },
+    {
+      "path": "LizardsFromOuterSpace/216- Luhmann’s Note Taking Problems.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "1f4e80f4b1cfe96a9887bc1611fa6bfabc1cbddc9e7a575b7fff01558f172ea5",
+      "after_sha256": "d66365861cf7ba8ac7694c0adfa21f9f5b75118c9dcfc7f2eeaf7f5673b09c79"
+    },
+    {
+      "path": "LizardsFromOuterSpace/217- Problem of Categorization.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "9607a6561b3492950a208444e3dd4a5f5ee46a6655ad3f6fcc46a921adb4fb73",
+      "after_sha256": "6bbc5571c71efeb84ce616f1bcf47f73508584b2575900eca8af8b964e126672"
+    },
+    {
+      "path": "LizardsFromOuterSpace/226- Prior Knowledge in Public Information.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "ccb85a0830c6c129f5244bd6344e02c3aeca46a0aadedb491202799f9ef0c93a",
+      "after_sha256": "31218dcd2b93e14f61c54d8c9a722329106cd27e6755ac0d372fe0d30f2455df"
+    },
+    {
+      "path": "LizardsFromOuterSpace/_Resources.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "79b553d0c5bdaa107d1b41b4f0925bb026d95d46c51a63ec2f0dfa9611878914",
+      "after_sha256": "77ce1cf7cbbc63030edb574112100db56fb716ef469968f4f99b4cdb873740c2"
+    },
+    {
+      "path": "Snipd/Data/99% Invisible/Weeding is Fundamental Revisited.md",
+      "blank_lines_removed": 5,
+      "before_sha256": "a3627ed5aaf1541ad101e34191cc3e77f28f37ad1e7b99dd915e0ee3bbb624a5",
+      "after_sha256": "0d8bbc477deebe0ee01a72c0e30f8e3361798ac076af87f0d74739ec0d336101"
+    },
+    {
+      "path": "Snipd/Data/_WhatifAlthist_ _ World History, Philosophy, Culture/The Greatest Lie Ever Told.md",
+      "blank_lines_removed": 5,
+      "before_sha256": "b6b45f5685389c1609a1bda0e1de064d2a2f644965379f1b76207751ce3d412c",
+      "after_sha256": "98e1ab65d48396ca6756f1e4584f7b9f7cfc6f70fc6583b12f9f11afeab22db8"
+    },
+    {
+      "path": "Snipd/Data/Berkshire Hathaway Annual Shareholder Meetings (since 1994)/1994-Morning Session-BRK Annual Shareholders Meeting.md",
+      "blank_lines_removed": 14,
+      "before_sha256": "bcdb79dbac84449b85876064b66a8c5104458b83cd93b9a7c29154017a350efa",
+      "after_sha256": "c85f8a7fb8497e7b2b1f804f69814c55c16cb61afd746d60248dc39ae1107450"
+    },
+    {
+      "path": "Snipd/Data/Berkshire Hathaway Annual Shareholder Meetings (since 1994)/1995-Afternoon Session-BRK Annual Shareholders Meeting.md",
+      "blank_lines_removed": 5,
+      "before_sha256": "b883582d7257ec74538044e1e7a1bba6722eff4fdc5d7786fd052664f988e546",
+      "after_sha256": "2afd300014af7e9ad37f0fe532c8414feb5dca7aac20b1fa8bac74f49848577f"
+    },
+    {
+      "path": "Snipd/Data/Berkshire Hathaway Annual Shareholder Meetings (since 1994)/1995-Morning Session-BRK Annual Shareholders Meeting.md",
+      "blank_lines_removed": 5,
+      "before_sha256": "6f79f3c4c522ecac1a9b1d1720710e0d73693c087c2817be9d72b84322195752",
+      "after_sha256": "2b44374d1eaebe944ea34ee50b448007ee8f4e067e9e715b72b4e603472d78a3"
+    },
+    {
+      "path": "Snipd/Data/ChooseFI/455 _ Creating Your Entrepreneurial Flywheel _ Nathan Barry.md",
+      "blank_lines_removed": 12,
+      "before_sha256": "8edeb293f0deae75c458f13f8976a63d91f58213ffd8137e7cbbd11e52786fb6",
+      "after_sha256": "854e31e1b7f2a4fe34d58abfab636c8358ccb8da042b13ecf4947dca289ffd10"
+    },
+    {
+      "path": "Snipd/Data/Deep Dive with Ali Abdaal/'Tell People Your Goals!'_ The Secret To Accomplishing Anything - Cliff Weitzman.md",
+      "blank_lines_removed": 26,
+      "before_sha256": "c105df3d95a91758721055400c19a2edb3234070d6882f48d520e737070893d2",
+      "after_sha256": "9100f1dd5ab35c0c09908fbae593a6a99f58dbddadb68d7f5004e651243aa8b7"
+    },
+    {
+      "path": "Snipd/Data/Deep Dive with Ali Abdaal/5 Skills to Level Up Your Life - Season 6 Roundup.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "56c753b6f2ef9ec5832cb6f8696566b2b50f59880b04f84938e116325e93e8a7",
+      "after_sha256": "a9a6ae2905e5068b92cb3313b4cb6c2afd6b4444f8d2a4a327bf7a1b076e3339"
+    },
+    {
+      "path": "Snipd/Data/Deep Dive with Ali Abdaal/9 Systems To Build A Life Of Abundance - Sahil Bloom.md",
+      "blank_lines_removed": 30,
+      "before_sha256": "d010efa353e4779937eb7dd15a1cfe798b0b91d6ef7764f7dcdb66aecf364bbc",
+      "after_sha256": "341009bf23806da56b0a38a780005b902cfde8bfd3c11c25a6cfc9f57da12531"
+    },
+    {
+      "path": "Snipd/Data/Deep Dive with Ali Abdaal/A New Direction for Deep Dive - Let's Chat.md",
+      "blank_lines_removed": 10,
+      "before_sha256": "831cfe2332dfa844d5d1066ed09b9ce1e250e4136fedc0964f344779f8437d98",
+      "after_sha256": "a344f1604c053bc359856e3a28305d27cfd64d3ef08d84699fc53adaa90e838c"
+    },
+    {
+      "path": "Snipd/Data/Deep Dive with Ali Abdaal/Conversations with my Team - Ep _1 - Tintin (YouTube Producer).md",
+      "blank_lines_removed": 10,
+      "before_sha256": "cb3a7ded6eb22aecdbdc0fba2be1bd02cc4b59b02888c9837bfabe1804ea57d2",
+      "after_sha256": "d96cb85db842510120927e58a4c9f721d7688364a1c8b88b3d606b2d522ab295"
+    },
+    {
+      "path": "Snipd/Data/Deep Dive with Ali Abdaal/Entrepreneurship Masterclass_ How to Make $10k - $1M per Month - Daniel Priestley.md",
+      "blank_lines_removed": 38,
+      "before_sha256": "d56e99c2665321821b2906f11d6bc8754d0d74976c0f2ab723107702957cae38",
+      "after_sha256": "477b3246af6e5b3fc00d9ae6e886da96c31702d1ad89399a13629dd4e555a35a"
+    },
+    {
+      "path": "Snipd/Data/Deep Dive with Ali Abdaal/How Anyone Can Develop The Mindset Of A Multi-Million Dollar Entrepreneur - Daniel Priestley.md",
+      "blank_lines_removed": 50,
+      "before_sha256": "69ce437d186fee1a8554ac04e2df7355c10cf0ddbfcc33b1deb1999936ee25ac",
+      "after_sha256": "f600e7f2be363d7230bddc81bf61fdfb2a19b9c1c30a681fc1551946ffe8210d"
+    },
+    {
+      "path": "Snipd/Data/Deep Dive with Ali Abdaal/How to Scale your Startup with Growth Levers_ Matt Lerner.md",
+      "blank_lines_removed": 15,
+      "before_sha256": "1f0ad4775070a14646d8ed898eefa701a22fcd2c784b12b8ad6b7798c1eacee2",
+      "after_sha256": "cfa00239748d253ea5a5c29eeec2eee2c35b5ef0f9d2f456e8ae753e918d5db3"
+    },
+    {
+      "path": "Snipd/Data/Deep Dive with Ali Abdaal/How Writing Online Will Make You A Millionaire - Nathan Barry (Founder of Convertkit).md",
+      "blank_lines_removed": 36,
+      "before_sha256": "6fb697d2bfde9f437faaf5d46b544b86e8bbbcdd67f68684612cdac1dd544e5f",
+      "after_sha256": "760fe62d367628fe0a4034ae1c6536dcb4181a2d7067905b6ad75cdd622fa3ec"
+    },
+    {
+      "path": "Snipd/Data/Entrepreneurs on Fire/How to Amplify Your Webinar Show Up Rates and Sales by Taking Advantage of Conversational Commerce with Paul Ace_ An EOFire Classic from 2021.md",
+      "blank_lines_removed": 6,
+      "before_sha256": "d1b1608107fee5327291c5b154e116c7b822d123dd061848c0d1472d513b3a57",
+      "after_sha256": "7e8eb2b55026504612d55fefb6dba1a810e6fd62b52b9da3065f6dd4ab4b23d4"
+    },
+    {
+      "path": "Snipd/Data/Entrepreneurs on Fire/Sales Jiu-Jitsu_ The 4 Secret Black Belt Steps to Increase Your Conversion Rates with Daniel Moskowitz and Elliott Bayev_ An EOFire Classic from 2021.md",
+      "blank_lines_removed": 8,
+      "before_sha256": "08d81287d1e53e7bff07bd24398568ae57a9dc26055cf97197a9d839c0d09e3e",
+      "after_sha256": "433d748c3ab90f538db1d899931c75ff8af930c9bd63eaa1e95f034e5adc274a"
+    },
+    {
+      "path": "Snipd/Data/Entrepreneurs on Fire/Skip The Line with James Altucher_ An EOFire Classic from 2021.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "bc051d6b8082d7eac7920e994d4d0a0bca90e8a3d41fcd234b81308eb29b6e4a",
+      "after_sha256": "3638dc39fcb86cc9c919e04b4bd2483190d68000222da192e228a06c879f3fe5"
+    },
+    {
+      "path": "Snipd/Data/Founder's Journal/4 Characteristics Your Top Talent Should Have.md",
+      "blank_lines_removed": 6,
+      "before_sha256": "518c7a2a4cd704b52fe26da832973ed03154005fafddb619d7aa0b4ded949636",
+      "after_sha256": "d0266cc353a783a80c22ad567d6001898048ac16f3a502e7c610ebba7bec20cc"
+    },
+    {
+      "path": "Snipd/Data/Founder's Journal/Accelerate Your Career _2_ Learning How to Learn (Classic).md",
+      "blank_lines_removed": 6,
+      "before_sha256": "6b189f4e7986b37f4806ac76f01e2a006aae59b415ce3e5ec33a17e8239b2954",
+      "after_sha256": "ff964fe968844f043108d7dca268c0bd54c9fb602e7db1eb2a25a24e76e71aac"
+    },
+    {
+      "path": "Snipd/Data/Founder's Journal/Feeling Like a Ghost in My Own House.md",
+      "blank_lines_removed": 6,
+      "before_sha256": "6c4c29b9ac0d22d6544099fc121f09177fa71f18407a89648e274a5a6c17a31b",
+      "after_sha256": "a66b1c9f84837c60923a79ecc36bfc6d22fbcdac462d356414853bc45c383b5e"
+    },
+    {
+      "path": "Snipd/Data/Founder's Journal/How I Built The Hustle w_ Sam Parr.md",
+      "blank_lines_removed": 8,
+      "before_sha256": "81546d22631c2b677677468538c9a49ce4a36c40b1c36e05164ba5679fa4324a",
+      "after_sha256": "b7ded7f8f12b884ea1efb1ad860c606513f255d141a92916eef5cc6bccdc7d3e"
+    },
+    {
+      "path": "Snipd/Data/Founder's Journal/How to Become Relentless as an Entrepreneur (Kian Sadeghi, Nucleus).md",
+      "blank_lines_removed": 10,
+      "before_sha256": "1d7806e23709abfe6be0f5364f71edf474a373cdbce3d51913a400bc1fb83ff9",
+      "after_sha256": "821910a90f21c384516d1c88c301e4dafdfcc6b1b53f494c17990a48904f80de"
+    },
+    {
+      "path": "Snipd/Data/Founder's Journal/Learning How to Learn (Classic).md",
+      "blank_lines_removed": 10,
+      "before_sha256": "6f6bf5758d9f17bc880b652e33f337cb891539049f1fcb154f0d0c2e6fb2a90a",
+      "after_sha256": "c8d1c93d88c7f6c76e898baea0b0e9e92100862642c84e4cabda556ac80b8063"
+    },
+    {
+      "path": "Snipd/Data/Founder's Journal/Learning How to Think vs. What to Think.md",
+      "blank_lines_removed": 6,
+      "before_sha256": "1bf8a519f0bc6f34da17f497ae4ee6d03cc0516885e095c867dfbe87dfc7f22b",
+      "after_sha256": "d98d36f6db362d07d03f0e05080816ba972b72827f8439edc1067991e04f7148"
+    },
+    {
+      "path": "Snipd/Data/Founder's Journal/Second Job of a Startup CEO.md",
+      "blank_lines_removed": 8,
+      "before_sha256": "a19f648080ac2ea121603a664a10ea287399aa77e948a1a3eed386b06694d4bc",
+      "after_sha256": "c99d4c0b7a039411226349407ace0fd3cfb2f607cf48d53f29bb5bf61e623e94"
+    },
+    {
+      "path": "Snipd/Data/Founder's Journal/Why Insecurities Can Make You a Better Founder.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "ed38d55b4467ec4245eea144a1144eaac6785c8104f4f82266e4bde329e973d7",
+      "after_sha256": "849e95cfa0f1f92c40c6261ef02fefb46cf72d519e958d4b95c9a01bd82adc9c"
+    },
+    {
+      "path": "Snipd/Data/Founders/_201 Isambard Kingdom Brunel (James Dyson's Hero).md",
+      "blank_lines_removed": 8,
+      "before_sha256": "511d4f5b3fefdda83afaeda444022ffc04ddc7c65f1dd279b703efc5140486d0",
+      "after_sha256": "3eecaeccdaf34eefb7f8397d1b2795fa68b4129a05a452a2670bfee2c8533dfa"
+    },
+    {
+      "path": "Snipd/Data/Founders/_25 Against the Odds_ An Autobiography by James Dyson.md",
+      "blank_lines_removed": 12,
+      "before_sha256": "f76f286fbf6ccea25fb7049cec1fce0070caa82291e3a89d596ff6fb8c341ce5",
+      "after_sha256": "d7ef611ccdf42223988be3bf519a555a4c33d908a0009a90ac3f8554eb9450e2"
+    },
+    {
+      "path": "Snipd/Data/Founders/_299 Steve Jobs (Make Something Wonderful).md",
+      "blank_lines_removed": 6,
+      "before_sha256": "b74ca450e8cdc771f4402d13c0c69f0b19fb8ad6952ab782f1602f816bbee417",
+      "after_sha256": "4aeb666d18a4aa221eb7083048c7401b140a21a5e945b24bb9de865e5073dc97"
+    },
+    {
+      "path": "Snipd/Data/Founders/_300 James Dyson (Against the Odds).md",
+      "blank_lines_removed": 20,
+      "before_sha256": "df09e31b5b724c6cb3242a3730b5f9880d873fcbe47c3e8de1a196302162acfe",
+      "after_sha256": "f36ecc0d39705262f1df0504d9319f7c8de464ca11a24674d899fb030d42eef5"
+    },
+    {
+      "path": "Snipd/Data/Founders/_380 Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md",
+      "blank_lines_removed": 17,
+      "before_sha256": "391600812df5d344ad52ee906f445b30bddc45cf49579af99894f1bdef542efe",
+      "after_sha256": "72d30d456bf1bc073bdecd57161865e874cdb6dca6108cb57c8bc1741495a555"
+    },
+    {
+      "path": "Snipd/Data/Hidden Brain/Wellness 2.0_ The Art of the Unknown.md",
+      "blank_lines_removed": 5,
+      "before_sha256": "e1fe3f93fb6f229ee2ddbe422b0cec2f8e85252bbfe3c7cce7d75874b53b7ddd",
+      "after_sha256": "62a9d4c278957a15332f25dd3157688ba6d9fee6363a40a1d77220cb87b6962c"
+    },
+    {
+      "path": "Snipd/Data/Hidden Brain/You 2.0_ How to Break Out of a Rut.md",
+      "blank_lines_removed": 22,
+      "before_sha256": "101e45fd67292a4c8235d41352bcf3c530d79f9016c2b6c88c11fea4963ff400",
+      "after_sha256": "5c28969ac9148fc931944c498e5fac38d75c389c536e4c576cb0e76ca1fb144f"
+    },
+    {
+      "path": "Snipd/Data/Hidden Brain/You 2.0_ Your Future Is Now.md",
+      "blank_lines_removed": 56,
+      "before_sha256": "1e0fc7fa7a883a68c5241e76b560a7eb400b74ae6a4660f01592d1d46a81a63f",
+      "after_sha256": "d5827f2dd2c700e87286815631f8736650d5e2956cddf4b5fa19bee95218878d"
+    },
+    {
+      "path": "Snipd/Data/How I Write/Amor Towles_ The Secret to Telling a Great Story.md",
+      "blank_lines_removed": 10,
+      "before_sha256": "19d497684a91def2f933c8fb61cd1bdb6eb3cbefa7bc5369acd5b6dd698b3504",
+      "after_sha256": "a3091dbc8d8816ffa9a5be3b68e2fa9203905b1b9416498264bee4d1d2fb5169"
+    },
+    {
+      "path": "Snipd/Data/How I Write/How to Write a Book Like Ryan Holiday.md",
+      "blank_lines_removed": 18,
+      "before_sha256": "73fc7e2467f8426a884102e91d6aa3466913a3e1972a4eb791814f1e4f4a0e76",
+      "after_sha256": "64063ddb1d52d82c0fa885bbd269f4f74ac72c7211dcf524f23bd21923339542"
+    },
+    {
+      "path": "Snipd/Data/How I Write/Sahil Bloom_ How He Turned Twitter Threads Into 1 Million Followers _ How I Write Podcast.md",
+      "blank_lines_removed": 29,
+      "before_sha256": "68243af9e4506b3547434e544c1ab972efa38aafced48a5f2d4bf1f7790fb1c7",
+      "after_sha256": "2cdfa07d36c323bb6ecc8666011aae599a3ff0fa08994aafb4f911741da8f707"
+    },
+    {
+      "path": "Snipd/Data/Huberman Lab/Ketamine_ Benefits and Risks for Depression, PTSD & Neuroplasticity.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "c4ad727ef9d93f13b6a4aa2990b2295760f9bf646236db281f6a2df62da1d146",
+      "after_sha256": "e6a2744975f402c61911848a862705a64b7905dd4bbd688e64fe3283de66a8e3"
+    },
+    {
+      "path": "Snipd/Data/Huberman Lab/LIVE EVENT Q&A_ Dr. Andrew Huberman at the Moore Theatre in Seattle.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "534881b4352c133e6aa1ecbf79b8911fa8384342549ad2bea5b4fd8288d468d4",
+      "after_sha256": "a7b80f70179d3ed18f5ce6adc7630e1aa1382c5dc00533aeac06c79dced4d6c6"
+    },
+    {
+      "path": "Snipd/Data/Infinite Loops/Alex Danco — Speeches and Spells for the Kings and Priests (EP.283).md",
+      "blank_lines_removed": 11,
+      "before_sha256": "3f636ff72d86ee4ad1c028c055cc272b8ac7489eef715cdcdf2e210c5801fbe6",
+      "after_sha256": "2c86906eb4aad8df33db449911fcd49534b90809c45c5eafd7314b6a7d398017"
+    },
+    {
+      "path": "Snipd/Data/Infinite Loops/Ed Latimore — The Art of Self-Transformation (EP.278).md",
+      "blank_lines_removed": 5,
+      "before_sha256": "e679cf65683ba046521d1f4fdd6186b20e60c6587e44ab73765a93520ca04959",
+      "after_sha256": "332a33f608478207a68cb143ecf06936e6606cd9f1badab262d3d3ae21b2a2c2"
+    },
+    {
+      "path": "Snipd/Data/Infinite Loops/Gurwinder Bhogal's Guide to Modern Survival (Infinite Loops CLASSICS).md",
+      "blank_lines_removed": 17,
+      "before_sha256": "d5904e1350918267cc4f55490de1f2b6bfdaa545fa7f110ad22b97cfc58a91d8",
+      "after_sha256": "3952af71ec283d75c9b2177c0ec57a9762a14f672142fcb69932544480a84947"
+    },
+    {
+      "path": "Snipd/Data/Leveling Up with Eric Siu/How To Make $5 Million As a Content Creator _ Ali Abdaal.md",
+      "blank_lines_removed": 20,
+      "before_sha256": "4a256acbceb8b5c54b876ea830a08bfb6b5d8b28c028e53ee23b8d0357db16f6",
+      "after_sha256": "448cfe6d2adccb3ef04a0a3f4d0fe08eb5c265f8466f6eaa53afe5313e3a0476"
+    },
+    {
+      "path": "Snipd/Data/Life Kit/How to be a 'supercommunicator'.md",
+      "blank_lines_removed": 8,
+      "before_sha256": "5cc709e0d1dc651b509bd246246eb437d09af0347a1928fe66d7d5d3a9ffc549",
+      "after_sha256": "c0b32ee374c2f7eaab4d3f971d51afd8560f1babc5d4967886bdb6bba80ed1a0"
+    },
+    {
+      "path": "Snipd/Data/Life Kit/How to practice 'deep reading'.md",
+      "blank_lines_removed": 8,
+      "before_sha256": "15d0214c5aa1e48b5dd125e92316fc8f4e242ce1b7c689ca17cf55a3b09f0111",
+      "after_sha256": "5ac65d8661cbf52a204b16788b9f12af05964fbb5a1935a8cfd3ca002828f1c6"
+    },
+    {
+      "path": "Snipd/Data/Lord of the Rings Lorecast/1. The Creation Story_ The Ainulindalë.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "1b49fc7818bee817b310f74c74d66061453c4bfdd792bfda4e66413580442c1d",
+      "after_sha256": "45b8128e5d8b6618e7efa5c1968a6410b0ad86b12662a933ed60eeb3c496960c"
+    },
+    {
+      "path": "Snipd/Data/Love Your Work/250. My Zettelkasten_ An Author's Digital Slip-Box Method Example (Using Plain-Text Software).md",
+      "blank_lines_removed": 6,
+      "before_sha256": "9d7a228088663e50a56ebf41b3da910e283c7aa284df5abf97b57dec113683f4",
+      "after_sha256": "5df209eec09a3730f95b7db0df05e8322cd3201a273daaef8aaee2cfb20bebc9"
+    },
+    {
+      "path": "Snipd/Data/Maintenance Phase/Seed Oils.md",
+      "blank_lines_removed": 7,
+      "before_sha256": "ad4de680713dd6a5996944ea20a7e6fb0b65257452b40813c9bc94c9d1380aff",
+      "after_sha256": "6c83316e4ee6844d73da33816e74350ef9a29ed4561d16b517bf0f510846c063"
+    },
+    {
+      "path": "Snipd/Data/Maintenance Phase/The Trouble with Sugar.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "73ace1ac6203e7bef896a25bc28fb3bbbc167b07a9af51d0450abf39f9dd26b2",
+      "after_sha256": "8ce83c688a9fff65e96b7df77855647348739631b0eee1e89a3de63e33c27e1e"
+    },
+    {
+      "path": "Snipd/Data/Modern Wisdom/_653 - George Mack - Stop Wasting Your Life On Things That Don’t Matter.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "dc23ac41579e37ff11abaecd85f2f4f409f0a5983f897704c73f48557c0a3afb",
+      "after_sha256": "2b2327c94fd4cad1f7ad3ac6c2b038f8569de10ae4cc064723ff319d73f641ab"
+    },
+    {
+      "path": "Snipd/Data/Modern Wisdom/_685 - Rich Roll - Stop Making Excuses & Transform Your Life.md",
+      "blank_lines_removed": 42,
+      "before_sha256": "05789cbbc77860f31b6863778674ca764f3c47cae648b8a99f72e94e20b5ee1f",
+      "after_sha256": "63958c3d3a0f0376c689328bd90d96d62eb01fb393130009c4b46389f057dd41"
+    },
+    {
+      "path": "Snipd/Data/My First Million/He Turned $300_mo Into $3,750,000_mo From GARDENING.md",
+      "blank_lines_removed": 6,
+      "before_sha256": "6de2ffa90837a6173856849e78c978089f644c86d94b139ead38457d533e8d50",
+      "after_sha256": "2c4bbdac9e7682fddd43d0055360365c8c3645eee3aa249795f4631416085de4"
+    },
+    {
+      "path": "Snipd/Data/My First Million/Syed Balkhi_ How He Went From $0 To +$100M Before Age 30.md",
+      "blank_lines_removed": 24,
+      "before_sha256": "7e9e509baea636ab38f7e8ac1662f0a855f60206f0d21e34fb49103ef637cfc1",
+      "after_sha256": "b3a41168e3c33a202a500f7583119a88b7a8d47b0d95fbf465a640b6cbf6408d"
+    },
+    {
+      "path": "Snipd/Data/Nathan Barry Archive/078_ Sahil Bloom – Using Flywheels to Build Longevity in the Creator Economy.md",
+      "blank_lines_removed": 14,
+      "before_sha256": "0edfaad349e53fd2145b5cceb946ab52b86985d63b65f93dd45a9c8f7e6a2c4e",
+      "after_sha256": "83c8ac2bd282eadcb48f14e72861c167ad562ea8eed67f352ba1371c12cd33e3"
+    },
+    {
+      "path": "Snipd/Data/Naval/How to Get Rich_ Every Episode.md",
+      "blank_lines_removed": 5,
+      "before_sha256": "aedbc84446c17c2400373b1532dc9a67d787ed7c89c3c71980adf0b35c7a3579",
+      "after_sha256": "042675bb52ff58fa2a74000c723c2dc8ce9e6d15a98cfead0717ec4ffb3e125f"
+    },
+    {
+      "path": "Snipd/Data/NB Hot Topics Podcast/S7 E10_ _Fit Note for the Last GP_ song; Best UTI Abx; Kidney Failure Risk Tool & Death; Phone Empathy & Outcomes.md",
+      "blank_lines_removed": 8,
+      "before_sha256": "cb018287edfec9fdd0b42e01f0f717a6683d4d6af42ad21d8737786258a23fa3",
+      "after_sha256": "57b8602b0165ce9c8ac529999e73f0842856bc0efea9cff1bca641ed228df46e"
+    },
+    {
+      "path": "Snipd/Data/Radical Personal Finance/1000_ Episode 1,000_ The Story of the Accomplishment of My Ten-Year Goal.md",
+      "blank_lines_removed": 8,
+      "before_sha256": "87b32597b88238f545f64126aef0f97fcc363289c84d1ae6a822194384543761",
+      "after_sha256": "634c67f11a7e0dfdd039ee740f190257295240c91d2beba6f3b06b5e1ab93d61"
+    },
+    {
+      "path": "Snipd/Data/Radical Personal Finance/1031-Friday Q&A_ FIRE at 35, Failed Residency Match after Med School, Regret Whole Life Insurance, Preventive Health Screening, etc.md",
+      "blank_lines_removed": 5,
+      "before_sha256": "569ddcc8b3977be72d7752a60c9c7f39759de0c4160054b80d2ea36a68243c69",
+      "after_sha256": "c745c532e1a9f825acefec1c2be701e086e6e47dbcd23102f084bed6ec2291e5"
+    },
+    {
+      "path": "Snipd/Data/Radical Personal Finance/1077-How to Make Good Decisions_ A Framework.md",
+      "blank_lines_removed": 5,
+      "before_sha256": "112d30d5452c2b38360b37918be0b03a8728924f7400e21b8446d22fe0d21d12",
+      "after_sha256": "9c76feaa5526e605afa609ffdc89fa11a87d8caa1734486a3730f9f798894d96"
+    },
+    {
+      "path": "Snipd/Data/Radical Personal Finance/1078-Friday Q&A_ Business Skills, Productive Vacations, Radical Consistency, Appreciating What You Have.md",
+      "blank_lines_removed": 11,
+      "before_sha256": "cf6c76dbdb8cb611c6b7b00b375430862e3ce1fa336b75c2752d22498ac1acc5",
+      "after_sha256": "accda7d57ba63d9f205e18da24adf3c19109507e81755fa40a82703a3d75647f"
+    },
+    {
+      "path": "Snipd/Data/Radical Personal Finance/1114-I Have Changed Everything in My Life.md",
+      "blank_lines_removed": 5,
+      "before_sha256": "02ad540ef6fc2fb806876ced5d96fab01e6bcb14235db3169435c6f5e58979b8",
+      "after_sha256": "319f754f21f05b706e47923433582b043cf56fa5631a3332770dbdbc8fe9dbf6"
+    },
+    {
+      "path": "Snipd/Data/Radical Personal Finance/1125-Leaving a Legacy_ Inheritance, Charity, & Thousand-Year Families_ Interview with Johann Kurtz.md",
+      "blank_lines_removed": 11,
+      "before_sha256": "22d40d7c1043d58045dec49e7e2c5777a73efb09e27bfdeda26819e530ae4384",
+      "after_sha256": "3341677040196adf8cff07fb16d64003fc5f8c158d346d195b616953018a4e9b"
+    },
+    {
+      "path": "Snipd/Data/Radical Personal Finance/962_ How to 10x Your Income (The 1000% Formula).md",
+      "blank_lines_removed": 14,
+      "before_sha256": "b257f1e8c29abba36ea3a72c2b3bb996cccdec60452a88eff565a8050e1d7df8",
+      "after_sha256": "9f9dd2cc27ca2169ca6b7f80f65b4e239cc417938abba3c4365b6be232c9e473"
+    },
+    {
+      "path": "Snipd/Data/Radical Personal Finance/967_ Friday Q&A_ Fix It Up or Sell It, Are CHSM Shares Tax-Deductible, Financial Discussions in Marriage, Math Academy, Ambleside Online.md",
+      "blank_lines_removed": 24,
+      "before_sha256": "25c721ef63457f0b0f6797c214c1a2d9bc882edcd2ef7dbc671f8e183a398171",
+      "after_sha256": "751a7166c8e1032091be8ad0160d6b04f2407afd5e9801c03ce7330e93d95c39"
+    },
+    {
+      "path": "Snipd/Data/Radical Personal Finance/970_ Embrace Your Privilege.md",
+      "blank_lines_removed": 10,
+      "before_sha256": "08e1a821782240979dbe40b5765f4a021c06d2623aab6706c8160fd17f5fb415",
+      "after_sha256": "7cc1cc3cf911abd93f0e06e0378dfb53e3990fd8b5fae983220221c7163775cf"
+    },
+    {
+      "path": "Snipd/Data/Radical Personal Finance/971_ Prepare When Times Are Good; Invest When Times Are Bad.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "44d0b268359bafdefac084759dbd60d5f81174989eeaf79e9491756939f4c03a",
+      "after_sha256": "b3865b95bee2d98a5230c4a0d4c09a4228f3ebe394211dc61105162e9e019816"
+    },
+    {
+      "path": "Snipd/Data/Radical Personal Finance/974_ Why I Left the USA - Part 1.md",
+      "blank_lines_removed": 10,
+      "before_sha256": "54f6ba76ffb9872bcc30a2d084cd58e18c68a33edfbbe2062ebbc9ac4e96ab2e",
+      "after_sha256": "ce419115846a01be5363b76f14a9bd2d53f0001afa1ddc8b8790290e6f7a1aea"
+    },
+    {
+      "path": "Snipd/Data/Radical Personal Finance/976_ Why I Left the USA - Part 2, For Adventure.md",
+      "blank_lines_removed": 10,
+      "before_sha256": "7bafd97e81a131da7cc3769b9b63f58994b42cc0fd9b53f8590ad805c1b139eb",
+      "after_sha256": "fe124781a426152becfe78828f0d99b236afb3abf07ba3f2a9665ada70cdb5cd"
+    },
+    {
+      "path": "Snipd/Data/Radical Personal Finance/Out & About_ Emergency Fund Planning, Credit Cards, and Disability Insurance _ Joshua's Appearance on the _Life Meets Money_ Podcast.md",
+      "blank_lines_removed": 24,
+      "before_sha256": "3b4111d8463471e1ebe00e0d12506e9cfca8ab5b9a57284da67449d42c7672ee",
+      "after_sha256": "d2860afe18b388079d26d30dccb2e6dfac8d86428d0b6d2d96348c3dc2ba2785"
+    },
+    {
+      "path": "Snipd/Data/Speaking of Psychology/Revealing the Hidden Brain, with Shankar Vedantam.md",
+      "blank_lines_removed": 6,
+      "before_sha256": "f5dc9e12fe5dac75597c2228d927a0fb7e4d0255461c39a3a9acd59f086d1ae0",
+      "after_sha256": "af890a6353df01b7fe87caa8a376911407daac6cf18df7bb2c05c2b47ae26559"
+    },
+    {
+      "path": "Snipd/Data/Stuff You Should Know/10ish Worst Business Decisions Ever.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "78ba01974b16b453afa24b4a7c6cb6109379f5302f49b12b5adccf0e8e091536",
+      "after_sha256": "5f7f7874d517c6d14dcc9e1e0e06a74d21641347125c9d006fb02a8e1e7ba340"
+    },
+    {
+      "path": "Snipd/Data/Stuff You Should Know/Sherlock Holmes_ The Man, The Myth.md",
+      "blank_lines_removed": 5,
+      "before_sha256": "499c3e69013c56a3b2777a6b53e9c07ebb0dd0545acd8c4ff63ac50ab2d906e7",
+      "after_sha256": "36cdd29ef07641aaa96ea53778b55d48aae357a75907a1a8ad2ab4217ab18ccd"
+    },
+    {
+      "path": "Snipd/Data/Stuff You Should Know/What is Collective Hysteria_.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "9f638aac3a41a48650be3c7838f3ba6df0cc0c705a76fe451feb40879265ec06",
+      "after_sha256": "f164b382c8a9cb65c6205a6a233bae5c28707ef56cefa3c0cf5c8288e3f7f817"
+    },
+    {
+      "path": "Snipd/Data/The Art of Manliness/Overcome the Comfort Crisis.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "19cf29455b6e3e8c072a9d82b34f21cb5a81292a011661868d71fbd10f7fa2d9",
+      "after_sha256": "218e9d3ab7b1346a04b52129538c22687ce6f06a649da91cb46fc1d9b98323a5"
+    },
+    {
+      "path": "Snipd/Data/The Building a Second Brain Podcast/Myth_ Building a Second Brain is just self-help for note-taking nerds.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "9f0e55b05fa2a4c110f07040672287fa3df1da7c4d553a6216547f53241772f1",
+      "after_sha256": "908dbaa828c6e6386763004a7bcf092cc781a6948eba21edb79f286a1e208b8e"
+    },
+    {
+      "path": "Snipd/Data/The Colin and Samir Show/7 habits of highly successful YouTubers.md",
+      "blank_lines_removed": 16,
+      "before_sha256": "dae60550c7810218d6e05cc30e877630bb91379d68b4072ae925747eef55dfbc",
+      "after_sha256": "51aad9bf310cdc5a923174010ce3e4102a455df09d67085724f0c086143aae58"
+    },
+    {
+      "path": "Snipd/Data/The Colin and Samir Show/An update from London.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "cb36ba6cc6a02fb647a45d48b30bb38c54e6e666a13f514f7dc6e4973f863107",
+      "after_sha256": "ad42c8428e7c1a17d3f6bc8e32b7cec2fe6f816fc657ecb488499594844885f9"
+    },
+    {
+      "path": "Snipd/Data/The Colin and Samir Show/How Ali Abdaal makes $5,741,266.32 a year on YouTube.md",
+      "blank_lines_removed": 40,
+      "before_sha256": "e16359320540b82172a48eb8ac2c984ecdd941559b53c639f4fb9ccd8721913d",
+      "after_sha256": "210297019b856de542bb87b23c641a92f91890944c8c3f32fd7bd8b075a54461"
+    },
+    {
+      "path": "Snipd/Data/The Danny Miranda Podcast/_421_ Scott H. Young – The Art Of Learning.md",
+      "blank_lines_removed": 8,
+      "before_sha256": "4f2b6c3d6a125e4e3ad3aa0afb57ff1a3989f474a9f9fef58f07da18f7479e9c",
+      "after_sha256": "4f115d63cdbfcd6237e2c4e2e21ae4d7f54ac90a31f1601a2dc5f06e91c1af05"
+    },
+    {
+      "path": "Snipd/Data/The Goal Digger Podcast _ Top Business and Marketing Podcast for Creatives, Entrepreneurs, and Women in Business/584_ The 4 Strategies That Doubled My Affiliate Income Last Year.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "6907d9dc9edd17eb8a2779c6dd0da8331608a6d026d8d47b6cf5727bfaffe1ef",
+      "after_sha256": "907ae2f6f87694fcf01dd843ddfac87c8712968a329513f142c95a2f110a65b8"
+    },
+    {
+      "path": "Snipd/Data/The Good Financial Cents Show w_ Jeff Rose, CFP®/Ep. 219 - 2 Investments That Made Me Into a Multi-Millionaire.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "39d819633a5fb406436a6be7a8cb21048ebc0ba160022b0271ff891867acf5fa",
+      "after_sha256": "4cc3a456525a42907bcaa291ab47410ec3086bee5ad4d1d32cc5ebac4d2f2798"
+    },
+    {
+      "path": "Snipd/Data/The Knowledge Project/_122 Robert Cialdini - The Principles of Persuasion.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "1859a485d437777f8aeaf3f048cd0a686abcba121cb5df74ae16c9f6ce47602a",
+      "after_sha256": "d0af8e05cee77325f40a4898ad7e3fb3abc2790884ea98e7f7d25d4ce818f1dd"
+    },
+    {
+      "path": "Snipd/Data/The Knowledge Project/Laurie Santos_ The Pursuit of Happiness.md",
+      "blank_lines_removed": 6,
+      "before_sha256": "9be2cb0bc7149e1ab8389fb2d921de5ae133df30a4bd82071a2da738b556b868",
+      "after_sha256": "40eee4fd7045f2da8f17abc791cb75fad627ef43bbaccaac3f4da83705de0251"
+    },
+    {
+      "path": "Snipd/Data/The Nick Huber Show/Ep 142_ The Moment That Changed My Life in Business Forever.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "d07f9e1b668e0c67f8f8ffa3cb4b1713c85f257db659471516e94f0483140f25",
+      "after_sha256": "7e656fd1bf122a11dd495a0e16eeca798f7479b9d48e31462ac4749d80aec532"
+    },
+    {
+      "path": "Snipd/Data/The Personal MBA Audiobook _cHHQqo2_5o4_ 153kbps/(1_3) The Personal MBA Audiobook _cHHQqo2_5o4_ 153kbps.md",
+      "blank_lines_removed": 8,
+      "before_sha256": "144aeeb4534a4ad62973e99ef5bfb8fb9b076224ad86a6dd11e3bff836ed42d5",
+      "after_sha256": "fa787b04fef4e806c71c48d3b3aee63ba4987dc0819356dc6f7648b4ce92555d"
+    },
+    {
+      "path": "Snipd/Data/The Peter Attia Drive/_199 - Running, overcoming challenges, and finding success _ Ryan Hall.md",
+      "blank_lines_removed": 6,
+      "before_sha256": "511ef3a141fac0f773fb3df10983bb00d3d4cb88aa6b291ab3767a2428a89bea",
+      "after_sha256": "4cff4daa32ee1d15c067701c86dc63748b3b60e8a4a98bc2ae4a9e5015302771"
+    },
+    {
+      "path": "Snipd/Data/The Peter Attia Drive/_252 ‒ Latest insights on Alzheimer's disease, cancer, exercise, nutrition, and fasting _ Rhonda Patrick, Ph.D.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "b4ff55006547353bdc1e72ad6eb9505eb402670ec4ef6c0850f77b517d6d9f59",
+      "after_sha256": "1f044789a40ddac3933d17451830b25661209a800c70dd40fc6c142d7913d06a"
+    },
+    {
+      "path": "Snipd/Data/The Peter Attia Drive/_265 - Time, productivity, and purpose_ insights from Four Thousand Weeks _ Oliver Burkeman.md",
+      "blank_lines_removed": 18,
+      "before_sha256": "7c1bd684a815f336ab28807d7db6c18a054a4a2fed0af8c67880374e26890645",
+      "after_sha256": "4645c3d014112635258f6c75cdd0e69bb1f5f0ba9543ff406c189a5ef9a5d38a"
+    },
+    {
+      "path": "Snipd/Data/The Progressive Property Podcast/From Broke Student to £4.8 Million Portfolio with Ahmed Khan.md",
+      "blank_lines_removed": 6,
+      "before_sha256": "2d90dd94fb3c95c354c79c3388567ec922cfd582329895fd2ddefb4f83db3393",
+      "after_sha256": "ed452754af5cad4a4ccff87028eb65017d4d024fe8076a29d97af7d8eb0adaa1"
+    },
+    {
+      "path": "Snipd/Data/The Rich Roll Podcast/Physiologist Drew Harrisberg On Everything Blood Glucose, Understanding Diabetes & Plant-Based Nutrition Fundamentals.md",
+      "blank_lines_removed": 6,
+      "before_sha256": "bdb305a1b5b0e12a278b4d2f50cc09070d01d45472d0e0abc8de8422466e6862",
+      "after_sha256": "2c283966332baf13d2667994a45a393e5817c11b8617fdfa9c0ca3ad50843298"
+    },
+    {
+      "path": "Snipd/Data/The School of Greatness/Build Multiple Income Streams, Habits To Become A Millionaire, and How To Gamify Your Productivity w_Ali Abdaal ﻿EP 1158.md",
+      "blank_lines_removed": 42,
+      "before_sha256": "171a89ed3bf87e0d5ade6f1f98244d5793411be59d1bd161776d5d82813fbcb5",
+      "after_sha256": "87c668c9e5621dc57deb46af53a3159c7953de62623559597d5429a003920898"
+    },
+    {
+      "path": "Snipd/Data/The School of Greatness/Do THIS To Get Rich and STAY Rich (It’s Deceptively SIMPLE!) _ Morgan Housel.md",
+      "blank_lines_removed": 10,
+      "before_sha256": "c0dc419d4844d1d7a2fda5208010a6f0c00740631a229bb20b4f7c10dae97606",
+      "after_sha256": "87434a076e5e7c03573a3190da5a4647886ae0579bf20e9ba310a3d6c62fc6b2"
+    },
+    {
+      "path": "Snipd/Data/The School of Greatness/HACK Your BRAIN to Take Immediate Action_ 90% of HIGH ACHIEVERS Practice THESE HABITS Daily.md",
+      "blank_lines_removed": 22,
+      "before_sha256": "74a15ee024c28a9ef52bdab49c63acf510f126ee09b59a82cb2461090fef18fd",
+      "after_sha256": "aae53f6b361e6ccb6a7acaebeb13cb5bd504f00d4c2c35425f06cbc24bbe1b43"
+    },
+    {
+      "path": "Snipd/Data/The Side Hustle Show/707_ $70k on the Side in 6 Months with Aura Photography.md",
+      "blank_lines_removed": 5,
+      "before_sha256": "9b27411d4fd688e596167b53a0e7f38c0f08d1b343b131dcd3d36b40241431dd",
+      "after_sha256": "dacd495fe40b27c0cbdbe6bc5a4d212627ca2452f0743188cd5313db00b44327"
+    },
+    {
+      "path": "Snipd/Data/The Stacking Benjamins Show/How Polluted Is Your Financial Plan_.md",
+      "blank_lines_removed": 12,
+      "before_sha256": "53a1537028d5e2bb0cda3bac3857894d5637561f3b39ca27dd37769eb035648f",
+      "after_sha256": "3a5765b9f0ac78f6e823ce43bf117f97b5c42a16ff921fe77023ea65e81b6a38"
+    },
+    {
+      "path": "Snipd/Data/The Survival Podcast/12 Ways to Live Free in an Unfree World – Epi-3410.md",
+      "blank_lines_removed": 14,
+      "before_sha256": "f76382dda3db80dd4ca1112aefe572ea2488df30d47740f3cc9731447d730774",
+      "after_sha256": "e4b6ceedf975f98d458074c1cad6e019e0b96e77cdbe13d13a1b9f8f82f594cb"
+    },
+    {
+      "path": "Snipd/Data/The Survival Podcast/Killing the Poverty Mindset – Epi-3393.md",
+      "blank_lines_removed": 22,
+      "before_sha256": "9de803efd53620d940eb680a6770780f92a2fa3b81cf9219aa5e4ca8e9a77a04",
+      "after_sha256": "2555128482d8770625f7e02b7c1e7eff6d4686ddec275067f4a7dc731dca245a"
+    },
+    {
+      "path": "Snipd/Data/The Survival Podcast/The 12 Taxes that Control the World- Epi-3628.md",
+      "blank_lines_removed": 8,
+      "before_sha256": "1309f48dbd59758e1ee5c2d1d50e6b5b9a179af94334afc7c21f7c7d74d84b2f",
+      "after_sha256": "28026552e91ad8c2131cead5643b3691326fc501da02a205fdac6b1ca77c249b"
+    },
+    {
+      "path": "Snipd/Data/The Sweaty Startup/407_ Making Money - The skill you need to develop.md",
+      "blank_lines_removed": 5,
+      "before_sha256": "a06f82a11cf6271d50d180937c15196ba6118c27b890bf3708fe5ded090fba11",
+      "after_sha256": "fa02ca8409f1fd65fc874a34078a76e511840b5b01b8bb9d640ad8fbd71d44ff"
+    },
+    {
+      "path": "Snipd/Data/The Sweaty Startup/Controversial Takes That Might Save Your Life.md",
+      "blank_lines_removed": 5,
+      "before_sha256": "3c33cf61ebe1ad9f711d2dcc4e2c46bcb1977f6db77757009dc7c89b05e56bf3",
+      "after_sha256": "24dcf20e9db0c5fad5116e8af92d76a7ca9db5076f8e5be0803ea2d057fa0aba"
+    },
+    {
+      "path": "Snipd/Data/The Sweaty Startup/How I Raised Twenty Million to Take Control of a Fifty Million Dollar Company.md",
+      "blank_lines_removed": 5,
+      "before_sha256": "0c2ab17094cba3d35a4bb84b41b8bc9c5f33fc8bcba6e50acd98812f5abdddfd",
+      "after_sha256": "0a23f30f7b11a0b20aad4bb5b62be2e00eac20facce0e3564fb2eefe75d5b1ae"
+    },
+    {
+      "path": "Snipd/Data/The Sweaty Startup/The One Deal That Changed My Life and What Wealth Really Means.md",
+      "blank_lines_removed": 5,
+      "before_sha256": "47910c6dfcd4a2b282cc615eab4b7f6989652472b1cb79f2cbc807643db2641d",
+      "after_sha256": "c8a7b1a5929685e075f71123f2213b16ccab62f05a507447eadb05d8bf371da9"
+    },
+    {
+      "path": "Snipd/Data/The Tim Ferriss Show/_107_ The Scariest Navy SEAL I've Ever Met...And What He Taught Me.md",
+      "blank_lines_removed": 13,
+      "before_sha256": "4eee75e9e1feccda523fcf2d5e88c5b183e479f8238441295355a6a9dd4b6894",
+      "after_sha256": "8935984c500f906f4ba2ce215790ccb58810a1f2b196f9d5bb29561763b1112e"
+    },
+    {
+      "path": "Snipd/Data/The Tim Ferriss Show/_648_ James Clear, Atomic Habits — Simple Strategies for Building (and Breaking) Habits, Questions for Personal Mastery and Growth, Tactics for Writin.md",
+      "blank_lines_removed": 22,
+      "before_sha256": "58d44ed202ff5b181dcffdf5baa8a2eaa43b9966be13dbecb9aad40a1abf3faf",
+      "after_sha256": "68ca1402d234eee2603d44744e462ff37a21476c3a455f339742e0e9e2a98b32"
+    },
+    {
+      "path": "Snipd/Data/The Tim Ferriss Show/_672_ Seth Godin — The Pursuit of Meaning, The Life-Changing Power of Choosing Your Attitude, Overcoming Rejection, Life Lessons from Zig Ziglar, and.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "60d3192b8d3bc00d75292b6b8b26373521ff6faa1f37f1308297231ec3f39f12",
+      "after_sha256": "a00704f5f2d62fbf5de7bd3497aa532a9836405bee0c208f0c956dbc4d175ac1"
+    },
+    {
+      "path": "Snipd/Data/The Tim Ferriss Show/_72_ Triple H on Pre-Fight Rituals, Injury Avoidance, and Floyd Mayweather, Jr.md",
+      "blank_lines_removed": 5,
+      "before_sha256": "b22c2f42597f739f5eb06e4d9f7601665787bc327ad946e7e169df107bd31416",
+      "after_sha256": "aec65861478d8fc4ae89cc29bbfdc022ddd2d03e2f431b153c73199cc1ba1312"
+    },
+    {
+      "path": "Snipd/Data/Unthinkable with Jay Acunzo/Art of the Unfinished _Creativity Series _18_.md",
+      "blank_lines_removed": 8,
+      "before_sha256": "005c1a64c24716afd6258425729eb88cf51165c5508daf38e2b8a857ecc2f3da",
+      "after_sha256": "8902acf2bfbcef53a56d9b889aea0670317f5d3aecea360e293a68d2d8f3f4c7"
+    },
+    {
+      "path": "Snipd/Data/Unthinkable with Jay Acunzo/Behind-the-Scenes Making the Show.md",
+      "blank_lines_removed": 5,
+      "before_sha256": "dced61ee9f227475300c970f2384111f6d73bd0bbce5bd4ea6f9bfc6fbd37968",
+      "after_sha256": "56ee1d5ce1612edfb50949e367f6c9d4f62a451bfd9926e55cfaaef5c3aee566"
+    },
+    {
+      "path": "Snipd/Data/Unthinkable with Jay Acunzo/Don't Start with Data _Creativity Series _28_.md",
+      "blank_lines_removed": 5,
+      "before_sha256": "a3e8095f5535ac9c3070329c9a9938399d50b9b4cd08679a75f4ff7387d7f9db",
+      "after_sha256": "e9e6b84131a890a399d14d65d210d9243c463391a015b445435a159ab312dd3a"
+    },
+    {
+      "path": "Snipd/Data/Unthinkable with Jay Acunzo/Process _Intuition Series _5_.md",
+      "blank_lines_removed": 5,
+      "before_sha256": "22bad68e2f6559e16a174fe138b3755e0dd051018f9b3af28b80b97daf01959f",
+      "after_sha256": "a7616931ac5274ce69fbd08fe9ff76ffb1fcc8453f7c3a61d3cb071180ebe658"
+    },
+    {
+      "path": "Snipd/Data/Unthinkable with Jay Acunzo/Slingshot_ Magic Markers _Creativity Series _19_.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "d5ecb83e9892774dfa206ca2a0a88d055f8394d9cdab6a8a6f4f536480337522",
+      "after_sha256": "cd5e6e0b90bd92681bbcd51ac574a87e96a456e93816ac0c04920d6df4d33fa7"
+    },
+    {
+      "path": "Snipd/Data/Unthinkable with Jay Acunzo/That Gut Feeling _Intuition Series _1_.md",
+      "blank_lines_removed": 5,
+      "before_sha256": "76941b8abc55f941be92131f673c31c09b9e124ff727be9d250221df33cd4990",
+      "after_sha256": "0ffdcd7fd17276b9020e5b3c94a101e44bac476230da26b7738381823781b720"
+    },
+    {
+      "path": "Snipd/Data/Unthinkable with Jay Acunzo/The Bias to Act _Creativity Series _14_.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "6dcb92f890ac947f2519cd822d5f596de252d7d073abf4c40d88fcad6e512e59",
+      "after_sha256": "5438699db3c21b772d8c0aa60302af4c96d5ad6614ec4bfd7dcbbcdf9c0bd163"
+    },
+    {
+      "path": "Snipd/Data/Unthinkable with Jay Acunzo/Welcome to the Jumble.md",
+      "blank_lines_removed": 5,
+      "before_sha256": "b2aedfb12ab9c286eface8f6d47a01453b7917f5cd497e6bda13cd2a94f2d367",
+      "after_sha256": "dd4dd8111334c8fb890a9fd4d622b8456027b139008d130e0d869154be423b4b"
+    },
+    {
+      "path": "Snipd/Data/Unthinkable with Jay Acunzo/Zig When Others Zag _Creativity Series _12_.md",
+      "blank_lines_removed": 8,
+      "before_sha256": "f1ee74aaf2b82a5162e4574b4f0c1d7dbea930606bf7a7940a96a5a7f8bd537b",
+      "after_sha256": "bfe49c3878f71e62018cef6c354bb0eb02f1c2ac4d51267e633ab61c245238a8"
+    },
+    {
+      "path": "Snipd/Data/You Are Not So Smart/263 - The Truth Wins - Tom Stafford (rebroadcast).md",
+      "blank_lines_removed": 4,
+      "before_sha256": "81d80284134868a425c55a8f1e6bdeb48b5b3e766a8dc7080be01e2a6ee884e8",
+      "after_sha256": "69c7909b350df5aa642bb063d0b3ac7976bf536f00fbd313589dbb99697edd2e"
+    },
+    {
+      "path": "Snipd/README.md",
+      "blank_lines_removed": 10,
+      "before_sha256": "e7deb05749b0d6813581e0d56c3c523ba4d8ae844c222bbdb764ce4ed0b1c87a",
+      "after_sha256": "7bc8b78e158817c01afdc67af089c2a2f152254bb7ef96a10301e532b011d04d"
+    },
+    {
+      "path": "Workflows/01 Obsidian Workflows.md",
+      "blank_lines_removed": 6,
+      "before_sha256": "39f863071f3048b6b7b991df99bad0d45c9d37568c9cdd3117b85386552077d6",
+      "after_sha256": "22092099ad094ff36063403d2b17c16896ea3a6ea5577b036bd6fbb22e4af832"
+    },
+    {
+      "path": "Workflows/02 PARA_Starter_Kit_v2/1. Projects/PARA Starter Kit/Methodology.md",
+      "blank_lines_removed": 3,
+      "before_sha256": "a3c0887be80fb4443bc8c41f56832c79d1d722fd2505bb0f6fb6d37522e94f1d",
+      "after_sha256": "b6855d902b41eff36746fc5638f1650ee7e4a2b08afa1180e24430ab32e699ec"
+    },
+    {
+      "path": "Workflows/02 PARA_Starter_Kit_v2/1. Projects/PARA Starter Kit/Workflow.md",
+      "blank_lines_removed": 5,
+      "before_sha256": "e5f6e0c2abe99929ff79a332dc926393da345dac22ce220aeb4dff99eeb73056",
+      "after_sha256": "ebc7cb87a9f46ed21c15d015b49edbd8a8df41215f2d9ecb5f02f627c211a431"
+    },
+    {
+      "path": "Workflows/02 PARA_Starter_Kit_v2/2. Areas/Finance/YNAB Ramit Sethi Interview notes.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "59587be7c7b397840fd93b20cef05b8f6853f516aedd89227d09bfb9aec109a1",
+      "after_sha256": "3c29a29a138a66d4b2dd2cd44ae97c405e2f4497f0850eed5bf2f638a9942c3b"
+    },
+    {
+      "path": "Workflows/02 PARA_Starter_Kit_v2/2. Areas/House/It wasn't easy but it was worth it.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "8b09804bf43fb211e4f70976c685caf32694a59c534a45b090de64dfb9fae9da",
+      "after_sha256": "2d45b886ee79e4d241431195cb80aabc5865120513c14fa53c3dabd996816f5a"
+    },
+    {
+      "path": "Workflows/02 PARA_Starter_Kit_v2/2. Areas/Personal Development/A spellbinding reading of Hermann Hesse's 100-year-old love letter to trees.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "5bc46e8e2abcfa102d97c01eea6f55915c32cacf01978367db63727c46a1f56a",
+      "after_sha256": "bb0e373f46cfe10e45cc7bcbdc23c8a9e5995c5b0d3517fcfd025b40434e33ad"
+    },
+    {
+      "path": "Workflows/02 PARA_Starter_Kit_v2/2. Areas/Personal Development/Alternatives to perfect.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "c860f3fa4654fd12d8d0f1741acea68c8d458e505795cfc2a9cb09063a7c784a",
+      "after_sha256": "07b019b3a1f295b809e2ffef1e39e445507867ad50d434f0a95409c1b5dd58ff"
+    },
+    {
+      "path": "Workflows/02 PARA_Starter_Kit_v2/2. Areas/Personal Development/Creature of habits.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "4791ed186e93cb356057fc74f8404c4cf918989e3249f0a05340841f94e320b2",
+      "after_sha256": "75e17c711c1d9e3d6d0e32ea2ca16c956a6b77f3d0c14c316becbc20431597a6"
+    },
+    {
+      "path": "Workflows/02 PARA_Starter_Kit_v2/3. Resouces/Community/Audience is a super power.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "c7b01331f95cd47ec525a9abd0a25d88e3cf0e229179d9bffc20f51a18897237",
+      "after_sha256": "5633bee584e349ea5011eb7f90addff6d9097d30ace4657e8494c8ae1b36faa9"
+    },
+    {
+      "path": "Workflows/02 PARA_Starter_Kit_v2/3. Resouces/Marketing/Clusters.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "1bd819012eaea8fa1f7adc5ebeaa5eae0049ff2bbdddfe39a64b0a007fdd6d26",
+      "after_sha256": "898791afb4cb872a69803b05a425ebbbaf8888dc6ce671fd62754fb863b07305"
+    },
+    {
+      "path": "Workflows/02 PARA_Starter_Kit_v2/3. Resouces/Marketing/Validation is backwards.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "82173758697bb493696fc1210ae3f84c858c19c5d4d5e1ee458b5b2e3fd70ea3",
+      "after_sha256": "0e69652d0af9d8affc21d68f840b4d77fb5147b0c0c70b8b221e23305a3e88fd"
+    },
+    {
+      "path": "Workflows/02 PARA_Starter_Kit_v2/3. Resouces/Productivity/How to Be a Productive Powerhouse Using Time Blocking.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "b2070ed8de4f53901a7b0547c3048da3a1a822a74414e3517954d608f30b667a",
+      "after_sha256": "aa54b0e729c0eaf9f010c69493880c15ccfeae3596e10295bcb5170b16e86411"
+    },
+    {
+      "path": "Workflows/02 PARA_Starter_Kit_v2/3. Resouces/Writing/Opinion How Not to Be Alone by Jonathan Safran Foer.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "7aa2697b564aa8b3158d6a2168de99edb3531112d7bd72c3fc188acdaf95fb6b",
+      "after_sha256": "0805c42d0b784416e4b90189bbbc94a3b69693c53876ab1dcd184a58ab003e5b"
+    },
+    {
+      "path": "Workflows/02 PARA_Starter_Kit_v2/START HERE!.md",
+      "blank_lines_removed": 3,
+      "before_sha256": "ef033acc93122ed038d6db94c17b60ef1c3590f8859b965145dcd3b2c92f29e3",
+      "after_sha256": "aba48a4c972736b035c11e557c6060677ba3821252c27e56089a7f5afe6edc81"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/080 Goals MOC.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "e124a6ad5b8b0ae2cfcbd4e205c4dd01e8dd6b24c41419888241ff02cd0fe392",
+      "after_sha256": "9742b0725154e3cfcaf331bb1507932cd6a3eca469b941d45869f57900c44def"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/095 Lists MOC.md",
+      "blank_lines_removed": 15,
+      "before_sha256": "8fd407fdbe11b1b77803719f8ac17cc77719f00d9495b60749d405bedc5cde6f",
+      "after_sha256": "f4a9aa8b2827711117fe5609109e846f1eb90177185b14d544532f00d06a8f63"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/100 Ideas MOC.md",
+      "blank_lines_removed": 5,
+      "before_sha256": "9d05f768cfd04e97f7b4621ab74a616f464ea9b99624534d946b839b928d379c",
+      "after_sha256": "ff557aecbd26fd3f36a168971ffdcc16b0b9c46567044d740831a96427da49af"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Allusions MOC.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "24880cbfec2a5ffeee228d549d9c87d56fcc47ea5f0ed894c6e81ae002e2e918",
+      "after_sha256": "9fefe565d36585aea78862cae7f213d444d40df4c6317260552170c185a91cc8"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Art MOC.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "a5bf33f394849a0881c87a3f94a85f1a725d5a7845322041d86ef84ccaab1af1",
+      "after_sha256": "22b2f9edc0b81dc9f69262830f57c2a208afd7ecb2dbf268994b038cdc213f6b"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Attention.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "9c4ec147ee743c99a4a94c5494f371150db8d841c2eaef16acb4f764e8a10e37",
+      "after_sha256": "c9590342ff7edbb564fa886337d9d80e56737799f186e3aed8fa5e23e9ada560"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Books Example MOC.md",
+      "blank_lines_removed": 6,
+      "before_sha256": "85167e79f8b7e344878e592c2d6dd49f79ee10a1a6fd5a0dd4f1c9c904da4511",
+      "after_sha256": "e678872f300f6082815d15d1cfefb63c333dc0530476037028128364990329dd"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Cause and Effect.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "a5f70e435ae0b17dba8588378ac8331d2d061ceed4dcef195cd50055012aa068",
+      "after_sha256": "1aebc543e4c27c5f2e4e6e529d30f2c2edb2aa150e2a7525eba92aa28bf94d17"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Charlie Munger's Mental Models.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "af6215da0943f6dffad9a978e87aa9cf5180147a1a5bf53982c3b22a1a747f3b",
+      "after_sha256": "494c8acdfc5f66bef78218f31972bc3d60068d49e34ae8ae16e40de683688835"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Concepts MOC Examples.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "42a46597ed243560b7e1012e798524e7bc91cbf19fd3b2ba50b26512ee876291",
+      "after_sha256": "500893a1edcefea83413c73f07d5a074bce5666294dcd4436ff23e1d4551f814"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Concepts MOC.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "5ab286d70b17d1e63331f0eff80bb92054c481667bba280f63c6d46c185b4253",
+      "after_sha256": "1ae7059f80ebee1115c9127877fd66255e51134bb3f9d839aeb04a553021a129"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Conditions of Flow.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "fe7595989ee79d3c85732858eb6156e2a66d372c8a79e56e7a83d9ddced50842",
+      "after_sha256": "2e4a431a386681efbfbdb9f31e265fc56818b27e4ec39ac8c01cc6c0c8704205"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Courage.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "064ffdd461ffe894d6be3ed1950136bcb8c1e8f588b347cebf02cf91c43d527e",
+      "after_sha256": "49a4438506d043d12ac5d9ebfbe0c2f01ba1b7624efc0b42276e3ead9c07665e"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/CyberDynalSynth Theme.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "8f661853be596c2a496cc473c080994c719712cd7cb45684a73d8d85fab6a969",
+      "after_sha256": "b907a0fc44ff4e3d50d758b6ad1424b5d992baf4413bb012d2d9edccc2ad3215"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Dimensions of Reality.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "b7f1fc1fe8e3024e15d6d5ecc7d0aa8f57ebe6157e01ca517d7457de6d974a4f",
+      "after_sha256": "006cd69e5e0f5cf09ec824075d381836bf1eec9b702f6bf92283f94738362a70"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Direction.md",
+      "blank_lines_removed": 4,
+      "before_sha256": "3adf7db321a78becedf12e0a0749e3cce18053271fcfaf4789e7ec9a8135fb6d",
+      "after_sha256": "e9550e6c9819b4de1d7bd62652b5bbd8e7ddfccd5316e7f4f88932b6aa8b4cef"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Editing Manual TOC.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "3baca5ea92cf1e859ba1f24b57699aec9ce21486a9d65a10bda360a0d4bd062a",
+      "after_sha256": "105865f50ad66bcc4e61de2d25bbb5e181d93702011742b8b5deeb45ba384d6f"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Flow Map.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "1e624a5747ad1b7837429067bafa8e14a4567920a42d9fae024280561a87f4ca",
+      "after_sha256": "7446e87a01316fadbd17b636c640363f82e6e39c580c917bb38d7cc2294ed463"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Flow Stoppers.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "c8b82d42eca4439d9d57c8e464b6e1b8b0e10d7f5e19090410e2b5c3232ce5be",
+      "after_sha256": "d48bc555a3144f572427532f552307f7caebb4064e25544b13529787e2a335a3"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/FlowCreation Theory.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "8902376c60b1475ac2b2e6ca51b9606d7e5e942048e459b1abbb5aa422397177",
+      "after_sha256": "818e4407f73a5db3ed399dccbeaeff025481997c48d550204464d5a4fcb0d63c"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Four Factors of Flow.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "93e0726434da03658f7beea614a2ce3238399a711721f1c9f1c2e0da9d6141af",
+      "after_sha256": "3418e5c51f54552c513f5771cc6757c97a117505490915594d879a298b5d228c"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/IMF Glossary.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "f2422f6bdccb347bb1716cf48a412a1d71c5b043878c6df34552bbb8e363684a",
+      "after_sha256": "17a848fa8e0708f6b0305bc1809f67454bf7be9264a1b193f9a319a193cf7faf"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Maps of Content are swiss army knives.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "f7047a054fe194b2bbf5a2417e037f33a137b993c25bd62e664c21590a16cd1f",
+      "after_sha256": "8adb119993452e23e44d23d73d53a4e8abda004667311c16949037833f01f708"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Meta-Skills for Flowcreation.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "bcdef21b0b80df267658768a0a8d3c0d3097cb2372586919a6b540e1f8f7222d",
+      "after_sha256": "6e89a579528a9b16da9dd510ee424b7e88284026002aa8625fade173c874cdba"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Moderation.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "52206d37ba3f766e09880b433d08bf9a261a3d6955309fae9637331bd0a94f23",
+      "after_sha256": "67aea91dc76036ee084537e643ebacbf02ef93793dc73713941695835d40080f"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Morality.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "66587ca06af48d1080473edaa03abed1a4bae3386b5237800750a71ca0f459e5",
+      "after_sha256": "1d4677b1724e197870f28940ff316be56d7781be138cfef785e0cbb78aa12bb4"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Rubik's Cube.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "9e1ec8041e1ba4d771617d83a91f62235e3c61d3adaefdbdd4f1909df975e013",
+      "after_sha256": "0ea0eddd0e016a88fcdf374c1739f4e900851d673278b6bb54a890c39180dd55"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Seasons.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "d4be214ab21d239537b156b0b145f2c2bb3da6e24206bb92c6a26548de383eaf",
+      "after_sha256": "6a5bb7d8167ba88fe17690c835ede9ba95096d5971603e450677a4f67bc677c0"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Shadow Clone.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "9e201ec0c72289e60e399550976161f48b9a315f2f580dcd1e248185963d24e7",
+      "after_sha256": "4465230b0e0ea83e48d56fa305305dfc741e25a42d38a51e0555c966fe67039d"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Speeches MOC.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "51e1172348ba7601d56ff35df1442b2905a881418231e85334e91e3737334179",
+      "after_sha256": "7c5f3bee17f6a7437c78e76bbb5b42889586c2dab8c7494f36ffe00e9f1c5cad"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Use it or Lose it.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "ddc7f4f1bf0382a424e300f42f8cac3f04de9648262c9de7608d5a844dd11ba2",
+      "after_sha256": "1247d5817b294df347eebc578cbdc1dea3b3c37301473c89789f133599fb14a0"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Vocals MOC.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "9a6da6881bf1705e4d2f438e6d4c268a0947fa2b4031d266d3c5df43d086378c",
+      "after_sha256": "04649fc7db2d21b9f7622018eef39463983cc1a05c5383be899e41877d426a42"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Wisdom.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "4fcd04875d4bd0308c2eb454467b1c26d74e0ea421caeda4e025926e11735ca2",
+      "after_sha256": "47ee759328c57b4b78dd67fe227f6e6eeb62967e3ede5635f480072afedd6a52"
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Ying and Yang.md",
+      "blank_lines_removed": 2,
+      "before_sha256": "f0ab63783b99a9447219dc9909042818076c505de0df95b7e88fce135f3d2dc9",
+      "after_sha256": "1a9d5e655449a6a31057db59da4b31fe6bad7bbbcf80b64aa3b1506d88448b4d"
+    },
+    {
+      "path": "Workflows/04 Flat PARA/PARA with flat file structure.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "cec57f2d0a9e16b5271c3c7e5bc29676b752e1d7de3aa88239ff794f600d6fe1",
+      "after_sha256": "f12ef8a5e4f5fa2f4f728c4c77753eeef2d7b7a675902c898be58f6e7e6bcb5b"
+    },
+    {
+      "path": "Workflows/05 On the process of forging evergreen notes/_START HERE - On the process of forging evergreen notes MOC.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "605682edec3a9b0a244db328521f9ef84af1802630aa30de6b714bc9a01a877e",
+      "after_sha256": "1afc6ec0e7708b0b3e6360c1e93caf6b856de72d28d1c4db685756b732afd86b"
+    },
+    {
+      "path": "Workflows/05 On the process of forging evergreen notes/Cause and Effect.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "a5f70e435ae0b17dba8588378ac8331d2d061ceed4dcef195cd50055012aa068",
+      "after_sha256": "1aebc543e4c27c5f2e4e6e529d30f2c2edb2aa150e2a7525eba92aa28bf94d17"
+    },
+    {
+      "path": "Workflows/06 Writing Fiction With Obsidian/01 Writing Fiction in Obsidian.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "fa15eb8ab54e387760eddf469a5aa0a7c9525ae9faa7f46b7e0e45693ca58eb4",
+      "after_sha256": "26b12b449a88313089a94313a4649fc1b5f3532f8c17927cb064697189fefabc"
+    },
+    {
+      "path": "Workflows/06 Writing Fiction With Obsidian/02 How I Wrote These Docs.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "482b37a94e260aa14745129bb797ec7db9949a2cd418475df7f7ad4af8d7295d",
+      "after_sha256": "6a7b3066d84601b8a839c7336bd333efc6a386cbec03c044288fa83caa9badeb"
+    },
+    {
+      "path": "Workflows/06 Writing Fiction With Obsidian/03 Tracking Submissions in Obsidian.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "0cefae3cb449cad08b8aa961e0cfb316f409c87641b9e4bed15190756b46de74",
+      "after_sha256": "de3f43495bf54880180b7a548dbd0cf01bbd6275e1cf577a0c31a94ea65dfe79"
+    },
+    {
+      "path": "Workflows/06 Writing Fiction With Obsidian/Scripts for Building TOC files.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "75fe43c080c0b7c00ed52b140601eaafe3ec0fbc6b45b570fa4d92c9274d5563",
+      "after_sha256": "ac05af39f09122eb040051e9bdc31b56b762edf64497e768d4835e2399201dc5"
+    },
+    {
+      "path": "Workflows/06 Writing Fiction With Obsidian/We meet our hero.md",
+      "blank_lines_removed": 1,
+      "before_sha256": "9447b1efba1fbfd5a8acaa7711ca6882724a808414fdf608cbf6470d120932c8",
+      "after_sha256": "97ea1f1d75fb9e4e314a8dcfde4b2c2c050ea889ed5e354a7054bee36f957dc4"
+    },
+    {
+      "path": "Workflows/06 Writing Fiction With Obsidian/WFIO-TOC.md",
+      "blank_lines_removed": 3,
+      "before_sha256": "57fdca6e04738e468c338f09ca5d76637503697523d44be9c8d38d5b4254548b",
+      "after_sha256": "fe04d1f6e0af3fc6f058e1151c1d2638272763ea45c7a9fee3678b14fb4fa10f"
+    }
+  ]
+}

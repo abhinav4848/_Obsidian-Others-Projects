@@ -1,3 +1,7 @@
+---
+title: "034- Hubs"
+---
+# 034- Hubs
 # Hubs
 **Hubs** are collections of note sequences centered around a theme. You create a hub once you notice a bunch of notes in your index ([[026- Index]]) centered around a topic.
 

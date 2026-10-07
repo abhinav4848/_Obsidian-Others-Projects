@@ -1,3 +1,7 @@
+---
+title: "Concepts MOC Examples"
+---
+# Concepts MOC Examples
 tags: #MOC #lists #faves #concepts
 links: [[000 Index|Index]], [[010 Mind MOC| Mind]], [[Concepts MOC|Concepts]], [[IMF START]]
 
@@ -62,7 +66,6 @@ For more avenues to re-expanded my narrowed perspectve, try to revisit the [[Wor
 
 ---
 ## (Example 3) MOC for 19 Concepts - By Personalized Category 
-
 #### Goal-Oriented, Fairly Actionable and Practical Concepts
 - [[Workflows/03 IMF_AdvancedStarterKit_v2/OODA Loop]]
 - [[Workflows/03 IMF_AdvancedStarterKit_v2/Forcing Function]] 

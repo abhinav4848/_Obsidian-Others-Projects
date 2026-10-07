@@ -1,6 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/z6SMtarpsqrMoeJF7NeSkxG
+title: "Transcendental method"
 ---
+# Transcendental method
 How can we explain a phenomenon we can’t observe? {[[Immanuel Kant]]} proposed that we can {work backwards from observable facts to determine their underlying causes}.
 
 Sometimes also called “inference to best explanation.”

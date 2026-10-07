@@ -10,7 +10,9 @@ tags: []
 dates: 1920s - 1930s
 rank: 3
 says: Deflect and redirect an attacker's energy
+title: "Aikido"
 ---
+# Aikido
 There is an art to handling self-perpetuating aggressiveness. 
 
 Aikido deflects and dissipates an attacker's energy.

@@ -1,3 +1,7 @@
+---
+title: "Stories MOC"
+---
+# Stories MOC
 tags: #stories #MOC
 links: [[060 Writings MOC|Writings]] 
 

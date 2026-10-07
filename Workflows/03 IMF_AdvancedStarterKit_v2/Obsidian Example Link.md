@@ -1,3 +1,7 @@
+---
+title: "Obsidian Example Link"
+---
+# Obsidian Example Link
 Here's a theme CyberDynalist is meant to be used listening to nightride.fm. 
 
 It derives inspiration from:

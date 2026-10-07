@@ -1,3 +1,6 @@
+---
+title: "000 Index"
+---
 # 000 Index
 Welcome your Index. This is homebase. Check it out. Click the links. Get familiar with the pages. Then add some of your own notes. Link your notes to the Index or to a Map of Contents. If that works, start personalizing the categories to suit your needs. Or return to the philosophy and practice of IMF frameworks: [[IMF START]].
 

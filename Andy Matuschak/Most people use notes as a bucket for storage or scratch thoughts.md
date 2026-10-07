@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zKGjQtsTKgscAoq271ZzKqw?stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB
+title: "Most people use notes as a bucket for storage or scratch thoughts"
 ---
 # Most people use notes as a bucket for storage or scratch thoughts
 People don’t want to forget an idea or a conversation or a task or quote from a book, so they write it down in Evernote or something. What’s the purpose? Probably: “To make sure I don’t forget." Maybe: “Just writing it down helps me remember.” 

@@ -14,9 +14,9 @@ show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fasse
 episode_export_date: "2026-06-23T11:17:39"
 snips_count: 1
 from_snipd: true
+title: "The One Deal That Changed My Life and What Wealth Really Means"
 ---
 # The One Deal That Changed My Life and What Wealth Really Means
-
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2Fc%2Fa%2Fe%2Fa%2Fcaeae8d4a5b0d219%2Fthe_sweaty.png&w=500&h=500)
 
 ## Episode metadata
@@ -32,9 +32,7 @@ from_snipd: true
 - Export date: 2026-06-23T11:17:39
 
 ## Snips
-
 ###  [Manage Expectations](https://share.snipd.com/snip/3cd450f5-0323-473a-a967-ee9fd152b52c) 
-
 🎧 09:00 - 09:27 (00:26)
 
 <iframe
@@ -49,14 +47,12 @@ from_snipd: true
 - One difficult conversation at the start saves multiple difficult conversations later.
 
 #### 💬 Quote
-
 > One difficult conversation at the beginning of a deal or a relationship will save you five or 10 difficult conversations later because every bit of stress in life is unmet expectations.
 > — Nick Huber
 
 Nick Huber on managing expectations to avoid stress
 
 #### 📚 Transcript
-
 It was super, super stressful. And I learned a very valuable lesson and that is manage expectations. One difficult conversation at the beginning of a deal or a relationship will save you five or 10 difficult conversations later because every bit of stress in life is unmet expectations. You've told somebody that you're going to do something and you're not delivering or you don't have the ability to deliver. That's where all stress
 
 ---

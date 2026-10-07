@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/z5Rvwe2Wo2UvxHxLujUWnsa
+title: "Typical work and performance environments don’t constitute deliberate practice"
 ---
 # Typical work and performance environments don’t constitute deliberate practice
 Effective [[Andy Matuschak/Deliberate practice|Deliberate Practice]] offers students opportunities for focused repetitions. During a baseball game, a batter may only swing a dozen times, but a batter working with an expert coach may attempt hundreds of pitches a day. Even better: those pitches may all be designed to exploit a specific weakness (Ericsson et al, 1993, p. 368).

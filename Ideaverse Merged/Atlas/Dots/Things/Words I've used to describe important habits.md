@@ -3,7 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Maps/Habits Map]]"
 related: []
 created: 2020-06-01
+title: "Words I've used to describe important habits"
 ---
+# Words I've used to describe important habits
 For some reason I've called important habits a lot of different things over the years. (Maybe I should just call them "Important Habits".)
 
 - **Champion Habits** - a term used in a April 2010 speech.

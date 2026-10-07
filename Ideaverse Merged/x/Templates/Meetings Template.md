@@ -5,5 +5,6 @@ related:
 created: {{date}}
 meetingGroups: 
 one-liner:
+title: "Meetings Template"
 ---
- 
+# Meetings Template

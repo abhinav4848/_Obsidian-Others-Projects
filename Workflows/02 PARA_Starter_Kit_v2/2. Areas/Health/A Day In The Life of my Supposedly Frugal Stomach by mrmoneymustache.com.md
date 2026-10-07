@@ -1,3 +1,7 @@
+---
+title: "A Day In The Life of my Supposedly Frugal Stomach by mrmoneymustache.com"
+---
+# A Day In The Life of my Supposedly Frugal Stomach by mrmoneymustache.com
 https://www.mrmoneymustache.com/2018/05/15/a-day-in-the-life-of-my-supposedly-frugal-stomach/
 
 I have come to think of Breakfast as the time of Breaking the Fast.. but by now we all know that fasting is good for you, right? So the design of your breakfast presents an interesting life-boosting opportunity: When you wake up, you’re already in a nice low-blood-sugar state, which means your body is beginning to think about burning fats as a source of energy (ketosis). This means that you can just prolong the fast by skipping breakfast and just enjoying some coffee or water, or take a softer approach and at least have a breakfast that is very low in sugar. So I do this:

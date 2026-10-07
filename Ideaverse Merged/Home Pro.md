@@ -3,7 +3,9 @@ up:
   - "[[Ideaverse Merged/Home Pro]]"
 tags:
   - map
+title: "Home Pro"
 ---
+# Home Pro
 Your launchpad and home base. That's here. That's **home**.
 
 > [!Planet]- # Atlas
@@ -84,7 +86,6 @@ Your launchpad and home base. That's here. That's **home**.
 > Go to [[Ideaverse Merged/Atlas/Maps/Collections]] to learn more.
 > 
 > > [!planet]+ ## Atlas
-> > 
 > > > [!map] [[Ideaverse Merged/Atlas/Maps/Maps]]
 > > 
 > > > [!aperture] [[Ideaverse Merged/Atlas/Maps/Things]] | [[Ideaverse Merged/Atlas/Maps/Concepts]] | [[Ideaverse Merged/Atlas/Maps/People]] | [[Ideaverse Merged/Atlas/Maps/Entities]]
@@ -95,12 +96,10 @@ Your launchpad and home base. That's here. That's **home**.
 > >
 > 
 > > [!Calendar]+ ## Calendar
-> > 
 > > > [!calendar] [[Ideaverse Merged/Atlas/Maps/Meetings]]
 > > 
 > 
 > > [!Training]+ ## Efforts
-> > 
 > > > [!Training] [[Ideaverse Merged/Atlas/Maps/Efforts]] 
 > 
 > 
@@ -109,14 +108,12 @@ Your launchpad and home base. That's here. That's **home**.
 > Go to [[Ideaverse Merged/Atlas/Maps/Templates]] to learn more.
 > 
 > > [!sparkles]- ### Base Templates
-> > 
 > > - [[Ideaverse Merged/x/Templates/Base Template]]:  Just the basics: up, related, and created
 > > 	- [[Ideaverse Merged/x/Templates/Base Template w In]]: Includes "in" for collections
 > > 	- [[Ideaverse Merged/x/Templates/Template, Properties, Base + Tags (Kit)]]: Includes "tags"
 > > - [[Ideaverse Merged/x/Templates/Daily Template]]: Just created
 > 
 > > [!planet]- ### Atlas Templates & Collections
-> > 
 > > > [!map]+ [[Ideaverse Merged/Atlas/Maps/Maps]]
 > > > - [[Ideaverse Merged/x/Templates/Map (MOC) Template]] - For manual gathering, developing, creating
 > > > - [[Ideaverse Merged/x/Templates/Map (View) Template]] - For more passive, dynamic dashboards
@@ -162,7 +159,6 @@ Your launchpad and home base. That's here. That's **home**.
 > > - [[Ideaverse Merged/x/Templates/Linked Calendar Notes add-on]] - Lists all notes in `Calendar` mentioning the note
 > 
 > > [!training]- ### Efforts Templates & Collections
-> > 
 > > > [!training] [[Ideaverse Merged/Atlas/Maps/Efforts]] — [[Ideaverse Merged/x/Templates/Template, Properties, Effort (Kit)]]
 > > 
 > > - [[Ideaverse Merged/x/Templates/Outputs Template]]
@@ -185,7 +181,6 @@ Your launchpad and home base. That's here. That's **home**.
 > 
 
 > [!script]- # Workflows
-> 
 > Go to [[Ideaverse Merged/Atlas/Maps/Workflows]] for more.
 >
 > > [!wandy] Workflow: [[Ideaverse Merged/Atlas/Dots/Things/ARC Ideation]]

@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zsRuFxYgckGS81tr2eiBAP
+title: "Digital note-writing systems fixate on the presentation and manipulation of individual notes, mostly ignoring inter-note sense-making"
 ---
 # Digital note-writing systems fixate on the presentation and manipulation of individual notes, mostly ignoring inter-note sense-making
-
 If I’m writing [[Evergreen notes]] onto physical index cards, I’ll naturally arrange them on my desk as I write them. Several notes that are related will likely end up in a small cluster or pile. Notes which follow from others will probably sit physically to the right of “more fundamental” notes. As I’m writing a new note, I’ll see all the other notes I’ve been writing, physically arranged adjacent to it. This is a kind of [[Peripheral vision]].
 
 In a digital [[Note-writing system]], by contrast, the environment’s focused on the experience of writing one note. The core operations and representations fixate on “the note you have open,” not on larger structures. In digital note-taking systems, I usually can’t simultaneously see the other note I’ve just finished writing—let alone the last four. Most systems barely support multiple windows, but even if I can open multiple windows, it’s awkward to arrange them into the spatial relationships I might naturally use for physical cards. Rather than peripheral vision, it’s like I’m wearing horse blinders and mittens.

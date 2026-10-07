@@ -1,3 +1,7 @@
+---
+title: "How Eating Slow Can Transform Your Health and Make You More Productive"
+---
+# How Eating Slow Can Transform Your Health and Make You More Productive
 https://www.entrepreneur.com/article/341537
 
 Mindful eating is simply making yourself aware of what you are eating and how much you are eating. When we eat mindfully, we focus on things such as the color of our food, the portion size, the way it is plated, where the food came from, how we feel when we're eating it and how the food is going to nourish our bodies.

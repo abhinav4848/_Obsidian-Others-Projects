@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zTnTob5JrFYF9NpU73Zg5a1&stackedNotes=z4aipv9wyMg4qZGANaVjkrJ
+title: "My implementation of a reading inbox"
 ---
 # My implementation of a reading inbox
 This note describes the system which implements [[A reading inbox to capture possibly-useful references]].

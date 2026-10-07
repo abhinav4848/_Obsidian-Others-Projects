@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/z4RDymitJVXdYzjNgDYWqQK?stackedNotes=z6Dd9qGVLLBchS8R9wow4sk&stackedNotes=zHcouiwcynak2Xu5wh8FbFj
+title: "Collaborative knowledge management systems tend to decay"
 ---
 # Collaborative knowledge management systems tend to decay
 It seems silly to have every team member taking their own notes on the papers they’re reading, on ideas they’re developing for team projects, on meetings, etc. The natural inclination is to build a team wiki or some similar collaborative [[Note-writing system]]. But those systems always seem to become unusable and unused.

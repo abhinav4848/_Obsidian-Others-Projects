@@ -12,16 +12,17 @@ mentioned_books:
 last_snip_date: 2025-10-20
 episode_duration_minutes: 52
 episode_url: "https://share.snipd.com/episode/dc356798-97c9-4235-bd1b-249f289554cf"
-image_url: "_media-sync_resources/2025/12/20/232044/32928.jpeg"
+image_url: "Attachments/04049.jpeg"
 show_url: "https://share.snipd.com/show/145ea529-ce54-40de-ab9d-10dd8b65f7e4"
-show_image_url: "_media-sync_resources/2025/12/20/232044/10116.jpeg"
+show_image_url: "Attachments/04049.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
+title: "Sherlock Holmes_ The Man, The Myth"
 ---
+# Sherlock Holmes_ The Man, The Myth
 # Sherlock Holmes: The Man, The Myth
-
-![Cover](_media-sync_resources/2025/12/20/232044/14567.jpeg)
+![Cover](../../../Attachments/06582.jpeg)
 
 ## Episode metadata
 - Episode title: Sherlock Holmes: The Man, The Myth
@@ -36,20 +37,16 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ###  [Stephen Fry and Ian McKellen](https://share.snipd.com/snip/f421eef2-f3e7-495b-9653-106ddf362cc2) 
-
 🎧 53:13 - 53:43 (00:30)
 
 - Listen to Stephen Fry's Audible collection of the Sherlock Holmes canon works or at least his introductions. 
 - Also, Josh Clark recommends watching the movie Mr. Holmes with Ian McKellen.
 
 #### 💬 Quote
-
 > Listen to Stephen Fry's audible collection of all of the Sherlock Holmes canon works.
 
 #### 📚 Transcript
-
 **Josh Clark:** So if we got anything wrong, blame Kyle. And then also we heard from a friend of the show, Richard Falwell, who wrote in when we first talked about doing a Sherlock Holmes episode on some other episode. And like, yes, do. And listen to Stephen Fry's audible collection of all of the Sherlock Holmes canon works. He said, even if you don't do that, listen to Stephen Fry's like introductions to each of the collections. And I listened to one of them and he's right, they're amazing, just
 
 ---

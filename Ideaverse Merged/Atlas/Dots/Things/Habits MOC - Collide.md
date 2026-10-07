@@ -3,7 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Dots/Things/The 3 Phases of MOCs]]"
 related: []
 created: 2020-06-01
+title: "Habits MOC - Collide"
 ---
+# Habits MOC - Collide
 This is where you generate all the insights. This is where ideas *collide*. It's where your ideas battle for relational positioning. This is the most joyous and valuable stage.
 
 Once you have all your ideas in one MOC, use it like a crucible where ideas can battle it out for positioning, forcing you to grind them to their fundamental essence—thinking of their proximal importance to each other and building stronger connective tissue between them. 

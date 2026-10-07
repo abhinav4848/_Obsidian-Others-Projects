@@ -4,8 +4,9 @@ up:
 related: []
 created: 2019-10-01
 modified: 2020-05-28
+title: "How Atomic Habits fit into the conversation on habits"
 ---
-
+# How Atomic Habits fit into the conversation on habits
 Atomic Habits is a term from James Clear, with a [[Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book)|book of the same name]]. 
 
 Here's a summary of his argument:

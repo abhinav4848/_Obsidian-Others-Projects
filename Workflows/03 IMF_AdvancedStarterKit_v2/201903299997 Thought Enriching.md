@@ -1,3 +1,7 @@
+---
+title: "201903299997 Thought Enriching"
+---
+# 201903299997 Thought Enriching
 tags: #Mind
 Mind: [[000000000010]]
 

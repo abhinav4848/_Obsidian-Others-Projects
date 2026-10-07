@@ -6,16 +6,17 @@ episode_publish_date: 2024-06-28
 last_snip_date: 2024-10-30
 episode_duration_minutes: 141
 episode_url: "https://share.snipd.com/episode/b5910067-92c6-4b45-a921-495de36f84c5"
-image_url: "_media-sync_resources/2025/12/20/232157/54109.jpeg"
+image_url: "Attachments/54109.jpeg"
 show_url: "https://share.snipd.com/show/4101b8c0-775b-44c1-8327-b728f73d428c"
-show_image_url: "_media-sync_resources/2025/12/20/232157/83500.jpeg"
+show_image_url: "Attachments/61965.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
+title: "1031-Friday Q&A_ FIRE at 35, Failed Residency Match after Med School, Regret Whole Life Insurance, Preventive Health Screening, etc"
 ---
+# 1031-Friday Q&A_ FIRE at 35, Failed Residency Match after Med School, Regret Whole Life Insurance, Preventive Health Screening, etc
 # 1031-Friday Q&A: FIRE at 35, Failed Residency Match after Med School, Regret Whole Life Insurance, Preventive Health Screening, etc.
-
-![Cover](_media-sync_resources/2025/12/20/232157/51573.jpeg)
+![Cover](../../../Attachments/51573.jpeg)
 
 ## Episode metadata
 - Episode title: 1031-Friday Q&A: FIRE at 35, Failed Residency Match after Med School, Regret Whole Life Insurance, Preventive Health Screening, etc.
@@ -29,23 +30,19 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ###  [Passive Income vs Recurring Revenue](https://share.snipd.com/snip/db267bba-a7a2-4c83-a1e9-47543380ca99) 
-
 🎧 09:21 - 10:24 (01:03)
 
 - Recurring revenue, like from network marketing, isn't passive income.
 -  Passive income should be restricted to dividends from public companies.
 
 #### 💬 Quote
-
 > It's fine to have recurring revenue, it's wonderful, but it's not passive income. So I try to restrict exclusively the concept of passive income exclusively to expressions of basically living on dividends from public companies rather than [...] earning money that's recurring revenue.
 > — Joshua Sheats
 
 Joshua Sheats clarifies the distinction between passive and recurring income.
 
 #### 📚 Transcript
-
 And then it is not in any way per passive income. And so I try to restrict exclusively the concept of passive income exclusively to expressions of basically living on dividends from public companies rather than using the money as, rather than earning money that's recurring revenue. It's fine to have recurring revenue, it's wonderful, but it's not passive income. So that was 120 seconds, but it's important to say that with regard to network marketing. So I would like to point, go ahead. Oh,
 
 I was just gonna say thanks for that context.

@@ -3,8 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Maps/Habits Map]]"
 related: []
 created: 2014-01-01
+title: "The truest habit metaphors are additive"
 ---
-
+# The truest habit metaphors are additive
 There are two metaphorical ways to talk about habits: additive and subtractive.
 
 **Subtractive**

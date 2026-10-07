@@ -14,9 +14,9 @@ show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstorage.buzzsprout.com%2Ffec
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
+title: "The Trouble with Sugar"
 ---
 # The Trouble with Sugar
-
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fstorage.buzzsprout.com%2Ffec61jabs16rwgkpgcrqwe7puh43%3F.jpg&w=200&h=200)
 
 ## Episode metadata
@@ -31,15 +31,12 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ###  [The Importance of Understanding Blood Glucose](https://share.snipd.com/snip/7f2deb29-4acc-4caa-b684-5a5185ba636a) 
-
 🎧 30:11 - 31:07 (00:56)
 
 This framework is like any other, useful in certain circumstances, but not meaningful at a population level. It's hard to use and not intuitive. The conversations about it mostly involve people who don't have certain health conditions. Overall, it's not very reliable. But let's move on to myth three and talk about rats.
 
 #### 📚 Transcript
-
 So basically, it's like any
 
 other framework, I guess, where it's like maybe useful in certain circumstances. I mean, maybe people use it and like it, and that's fine. But as a sort of population level of recommendation, it just isn't very meaningful.

@@ -5,16 +5,15 @@ created: 2023-08-07
 rank: "5"
 tags:
   - output/youtube◻️
+title: "3 Ways to Go Faster with Obsidian (Example)"
 ---
-
+# 3 Ways to Go Faster with Obsidian (Example)
 # 3 Ways to Go Faster with Obsidian
-
 ## Intro
 How would you like to leave this video with 3 ways to immediately speed up how fast you are able to think using Obsidian?
 
 That's the goal, let's roll!
 ## Scroll horizontally
-
 - Set up Stacked tabs hotkey
 	- Show in Stacked tabs
 - ---
@@ -24,13 +23,11 @@ That's the goal, let's roll!
 - **Show in Finder** 
 
 ### Move lines with the keyboard
-
 - Let's check out [[Flight School Arrival]]
 - Being a left-handed keyboard ninja
 - Set up hotkeys
 
 ## Moving tabs with the mouse
-
 - Just show the magic
 
 ## Outro

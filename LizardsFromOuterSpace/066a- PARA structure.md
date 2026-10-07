@@ -1,5 +1,8 @@
+---
+title: "066a- PARA structure"
+---
+# 066a- PARA structure
 # PARA structure
-
 A Universal System for Organizing Digital Information.
 
 1. A **project** is “a series of tasks linked to a goal, with a deadline.”
@@ -55,10 +58,8 @@ Projects always fall into Areas. A few examples:
 In all these examples, the projects have completion dates. They are either complete or incomplete. The areas of responsibility, on the other hand, have standards of performance that must be maintained indefinitely.
 
 # Example
-
 Image of folder breakdown in Obsidian
  ![](PARA%20Structure.png)
 
 ## References
-
 1. [https://fortelabs.co/blog/para/](https://fortelabs.co/blog/para/)

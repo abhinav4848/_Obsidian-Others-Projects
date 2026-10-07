@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zB74H9CuWrosEuqve7jZyCo?stackedNotes=zRbqwbnhmVdfLtKxMCibMoX&stackedNotes=z6Y1zo4evjFNUim1nHtL6Sv
+title: "Writing forces sharper understanding"
 ---
 # Writing forces sharper understanding
 Writing is a great way to put pressure on your thinking: it’s hard to summarize something you don’t sharply understand. By trying to explain an idea, you’ll naturally try multiple framings, flesh out its edges, and see new connections. This is part of why [[Evergreen note-writing helps insight accumulate]] and why you should [[Write about what you read to internalize texts deeply]].
@@ -31,7 +32,7 @@ This observation appears to be true even for non-prose writing: [[Many eminent 
     
     > Enlightenment is the human being’s emergence from his self-incurred minority. Minority is inability to make use of one’s own understanding without direction from another. This minority is self-incurred when its cause lies not in lack of understanding but in lack of resolution and courage to use it without direction from another. Sapere aude! Dare to be wise!
     > 
-- Don DeLillo, on why he became a writer (via [Michael Nielsen](https://notes.andymatuschak.org/z4JuirVwUcoGL4wZ8dM6Los)):
+- Don DeLillo, on why he became a writer (via [[Andy Matuschak/Original thought requires solitude|Michael Nielsen]]):
     
     > I have an idea but I’m not sure I believe it. Maybe I wanted to learn how to think. Writing is a concentrated form of thinking. I don’t know what I think about certain subjects, even today, until I sit down and try to write about them. Maybe I wanted to find more rigorous ways of thinking. We’re talking now about the earliest writing I did and about the power of language to counteract the wallow of late adolescence, to define things, define muddled experience in economical ways. Let’s not forget that writing is convenient. It requires the simplest tools. A young writer sees that with words and sentences on a piece of paper that costs less than a penny he can place himself more clearly in the world. Words on a page, that’s all it takes to help him separate himself from the forces around him, streets and people and pressures and feelings. He learns to think about these things, to ride his own sentences into new perceptions. How much of this did I feel at the time? Maybe just an inkling, an instinct. Writing was mainly an unnameable urge, an urge partly propelled by the writers I was reading at the time.
     > 

@@ -7,7 +7,9 @@ related:
   - "[[Ideaverse Merged/Atlas/Dots/Statements/Habits carry a ton of hidden inertia]]"
 created: 2020-06-01
 says: The more you feed me, the more I feed you.
+title: "Feedback Loop"
 ---
+# Feedback Loop
  *"The more you feed me, the more I feed you." - Feedback Loop*
 
 "A feedback loop occurs in nature when the product of a reaction leads to an increase in that reaction."

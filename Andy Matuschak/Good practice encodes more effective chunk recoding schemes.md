@@ -1,6 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/z3QWwvfYS5exfZE53dKwt7r
+title: "Good practice encodes more effective chunk recoding schemes"
 ---
+# Good practice encodes more effective chunk recoding schemes
 [[Expertise requires building sophisticated chunk recoding schemes]], which can be achieved through effective practice (e.g. [[Purposeful practice, after Ericsson and Pool]]).
 
 The process appears somewhat automatic, insofar as experts aren’t usually thinking “I need to develop better chunks.” Rather, to study at the limits of your capacity means making progress _by way of_ encoding larger chunks—at least in some part.

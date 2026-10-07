@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/z4dnHytTo3WGoqbHfVb4YRn
+title: "Recast celebrations as reflective spaces, rather than rewards"
 ---
 # Recast celebrations as reflective spaces, rather than rewards
 I’ve worked hard to cultivate [[Process over product]]. That stance still feels delicate, perhaps a little brittle. My natural emotional response pattern is to fixate on outputs and achievements; it feels like I have to carefully shepherd my mental states away from that. In this context, what to do when I’ve just finished a big project or received a big grant? Celebration feels “dangerous”: it’s so much louder and more visceral, emotionally, than the subtle enjoyment in day-to-day creative work.

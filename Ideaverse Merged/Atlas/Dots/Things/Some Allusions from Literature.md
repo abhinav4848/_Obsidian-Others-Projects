@@ -3,8 +3,9 @@ up:
   - "[[Allusion MOC]]"
 related: []
 created: 2020-06-01
+title: "Some Allusions from Literature"
 ---
-
+# Some Allusions from Literature
 - Babbitt – a self-satisfied person concerned chiefly with business and middle-class ideals, like material success. Comes from Babbitt by Sinclair Lewis.
 - Cinderella – one who gains affluence or recognition after being treated poorly.
 - Don Juan – a libertine, profligate, a man obsessed with women.

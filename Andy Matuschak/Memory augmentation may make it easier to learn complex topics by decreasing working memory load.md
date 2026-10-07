@@ -1,3 +1,7 @@
+---
+URL: "https://notes.andymatuschak.org/zS33ebqMsefTfnh8cwgHYFR"
+title: "Memory augmentation may make it easier to learn complex topics by decreasing working memory load"
+---
 # Memory augmentation may make it easier to learn complex topics by decreasing working memory load
 [[Complex ideas may be hard to learn in part because their components overflow working memory]]. Given that [[Spaced repetition memory systems make memory a choice]], memory augmentation may be one interesting solution.
 

@@ -1,5 +1,8 @@
+---
+URL: "https://notes.andymatuschak.org/zL9q21MA7ygsKVfvn6FwBMq"
+title: "Backlinks can be used to implicitly define nodes in knowledge management systems"
+---
 # Backlinks can be used to implicitly define nodes in knowledge management systems
-
 Systems which display backlinks to a node permit a new behavior: you can define a new node extensionally (rather than intensionally) by simply linking to it from many other nodes—even before it has any content.
 
 I first noticed this in [Conor White-Sullivan](https://notes.andymatuschak.org/z48eS7SdFAGjDSA2jxopLac)’s behavior with [Roam Research](https://notes.andymatuschak.org/zXYQBEqc4T4YypNmPWwkn1y). He wrote about our conversations in several notes throughout his system (ephemeral daily logs, feature lists, etc). As he was doing that, he wrote certain noun phrases (e.g. my name) as links. Those nodes had no content of their own, but as he did this across several days, they began to develop an implicit definition within his system, expressed through the backlinks.

@@ -4,7 +4,9 @@ up:
 related:
   - "[[ARC Framework]]"
 created: 2023-11-28
+title: "ARC Ideation"
 ---
+# ARC Ideation
  ARC stands for: Add, Relate, Communicate
  
 ![[Ideaverse Merged/x/Excalidraw/How ARC + Basic Idea Emergence|400]]

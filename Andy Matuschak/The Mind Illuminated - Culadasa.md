@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/z8dXowKop2xGp9UEVwXpG2Q
+title: "The Mind Illuminated - Culadasa"
 ---
 # The Mind Illuminated - Culadasa 
-
 Excellent text on [[Samadhi]]-oriented [Meditation](https://notes.andymatuschak.org/z3hBXnDxbvTaSPstyxoD5pj) (no note in Andy website).
 
 One of the key new (for me) ideas from this book: [[Dullness]]. 

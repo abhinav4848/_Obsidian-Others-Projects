@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/z4exmF6rnZTE9GjCnpFBKUT?stackedNotes=zN7KLBKWMTmFqthmFPVSNbP&stackedNotes=zGNVRh1q5gGeF88PbmYu4BB
+title: "Enacted experiences are hard to distribute"
 ---
 # Enacted experiences are hard to distribute
-
 If you want to explain some idea, you can write an essay and share it with a million people. If you want to enable people through non-linear video editing, you don’t need to build a factory: you can distribute software at zero marginal cost. By contrast, we have few general tools for cheaply mass-distributing an [[Enacted experience]].
 
 That’s a shame because I see them as a key element of [[Enabling environment]] design: [[Enacted experiences can bootstrap active participation in enabling environments]].

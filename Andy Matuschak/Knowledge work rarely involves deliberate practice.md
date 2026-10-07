@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zMbCwoVdjsqPNyTRRr3phPN
+title: "Knowledge work rarely involves deliberate practice"
 ---
 # Knowledge work rarely involves deliberate practice
 [[Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do]]. One likely reason is that athletes/musicians engage in [Deliberate practice, after Ericsson](https://notes.andymatuschak.org/Deliberate_practice%2C_after_Ericsson) *(dead link)* —that is, activities focused specifically on improving skills.
@@ -8,7 +9,7 @@ Sure, knowledge workers regularly take on “growth opportunities,” like a new
 
 Ericsson claims (2016, p. 98) that there is no deliberate practice possible for knowledge work because there are no objective criteria (so, poor feedback), because the skills aren’t clearly defined, and because techniques for focused skill improvement in these domains aren’t known. I’m skeptical of the finality of these claims, in the face of e.g. [[Evergreen note-writing as fundamental unit of knowledge work]], [[Spaced repetition memory systems make memory a choice]], etc. But it’s true that at least for the moment, there’s nothing as straightforward as weightlifting that you can do to improve your communication skills.
 
-There’s significant tension between this line of reasoning and [[Enabling environments focus on doing what’s enabled]] /  [[Enabling environments focus on creating opportunities for growth and action, not on skill-building]]. Those articles would seem to claim that top-notch tennis / piano academies are not enabling environments… which is almost certainly false. There’s potential tension also with [How might we situate tools for thought within intrinsically meaningful contexts?](https://notes.andymatuschak.org/zGD1FxbDZd7WnH7NrhRaVyC)
+There’s significant tension between this line of reasoning and [[Enabling environments focus on doing what’s enabled]] /  [[Enabling environments focus on creating opportunities for growth and action, not on skill-building]]. Those articles would seem to claim that top-notch tennis / piano academies are not enabling environments… which is almost certainly false. There’s potential tension also with [[Andy Matuschak/How might we situate tools for thought within intrinsically meaningful contexts|How might we situate tools for thought within intrinsically meaningful contexts?]]
 
 See also [§Taking knowledge work seriously (Stripe convergence talk, 2019-12-12)](https://notes.andymatuschak.org/zBmSSpM1WfFDehxNCBcqSZp). #todo
 

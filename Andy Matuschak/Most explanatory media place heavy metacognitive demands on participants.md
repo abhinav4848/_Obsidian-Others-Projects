@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zo6qizTMapyWk2rh8amnF1
+title: "Most explanatory media place heavy metacognitive demands on participants"
 ---
 # Most explanatory media place heavy metacognitive demands on participants
 [[Learning requires metacognition]]. When learning something new from a text, readers must constantly ask themselves: did I understand that? what questions can I ask myself to check my understanding? should I reread that passage? should I consult a reference for background on that? etc.

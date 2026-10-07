@@ -1,3 +1,7 @@
+---
+title: "201502201713 Habit Concepts and Theory"
+---
+# 201502201713 Habit Concepts and Theory
 # Habit Concepts and Theory
 **"Neurons that fire together fire together” Rick hanson**
  

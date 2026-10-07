@@ -7,7 +7,9 @@ related:
 created: 2020-06-01
 rank: 5.6
 says: It's circular but true, we become what we do.
+title: "Like begets like"
 ---
+# Like begets like
  *It's circular but true, we become what we do.*
 
 [[Ideaverse Merged/Atlas/Dots/Things/Like begets like]] is the natural process of Evolution's [[Ideaverse Merged/Atlas/Dots/Things/Selfish Gene]]. 

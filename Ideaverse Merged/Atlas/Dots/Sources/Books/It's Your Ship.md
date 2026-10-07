@@ -23,10 +23,9 @@ yearXP: 2012
 yearXPL: 2012
 bookStatus: read
 rating: 4.5
+title: "It's Your Ship"
 ---
-
 ![cover|150](http://books.google.com/books/content?id=_X8cB5BjQPgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 # It's Your Ship
-
 ![[Its-your-ship-written-notes.pdf]]

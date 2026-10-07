@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/About_these_notes?stackedNotes=zKKB5ENRahwftH96H7mijiu
+title: "Premature scaling can stunt system iteration"
 ---
 # Premature scaling can stunt system iteration
 Particularly in Silicon Valley, when one has a prototype or an inkling that works well, the temptation is to scale it out. Make it work for more people and more use cases, turn it into a platform, make the graphs go up and to the right, etc. This is obviously a powerful playbook, but it should be deployed with careful timing because it tends to freeze the conceptual architecture of the system.

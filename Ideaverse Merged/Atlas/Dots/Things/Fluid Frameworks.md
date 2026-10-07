@@ -3,7 +3,9 @@ up:
   - "[[Ideaverse Merged/Ideaverse Map]]"
 related: []
 created: 2020-06-01
+title: "Fluid Frameworks"
 ---
+# Fluid Frameworks
  *Fluid frameworks are non-rigid, highly-flexible organizing structures that you can use as needed.* When we talk about fluid frameworks in the "Linking Your Thinking" System, we're mainly referring to higher-order notes like MOCs and the Home note (but a balanced use of MOCs, folders, tags, and queries can also maintain a fluid structure).
 
 Fluid frameworks are not mutually exclusive. That means a note with its link in an MOC, doesn't exclusively live in the MOC note. A note can live and link freely. A note can be discovered in as many places as it's referenced. These are the fundamentals of linking notes together. 

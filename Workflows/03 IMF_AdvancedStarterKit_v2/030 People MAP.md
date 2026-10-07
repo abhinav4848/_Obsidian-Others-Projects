@@ -1,3 +1,7 @@
+---
+title: "030 People MAP"
+---
+# 030 People MAP
 tags: #people #MOC #family #friends #pings
 links: [[000 Index|Index]], [[030 People MAP|People]]
 

@@ -8,7 +8,9 @@ aliases:
 - Sources Map
 tags:
   - map
+title: "Sources"
 ---
+# Sources
 This is where I keep tabs on some of the sources I have encountered. 
 What "sources" should you track? 
 How about books and movies?

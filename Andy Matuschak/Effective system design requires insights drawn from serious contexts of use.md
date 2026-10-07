@@ -1,3 +1,8 @@
+---
+URL: "https://notes.andymatuschak.org/z7EQ2nVGus5B1rS9CqT18g6"
+title: "Effective system design requires insights drawn from serious contexts of use"
+---
+# Effective system design requires insights drawn from serious contexts of use
 Scrappy prototypes are great: they allow scrappy iteration and quick evaluation. But many critical insights will only emerge in the context of a serious creative problem that’s not about the system itself. This is a key claim of [[Insight through making]]. 
 
 That sounds like standard practice: of course systems have to be evaluated! But most system designers don’t take “serious” seriously: [[Tool-makers usually lack connection to a serious context of use]]. 
@@ -6,18 +11,17 @@ Observing how your theories (represented in systems) interact with reality can y
 Pixar’s a good example of an organization which creates serious contexts of use, which in turn drive system design: [[Pixar’s movies and technology development act as coupled flywheels]]
 
 Common challenges:
-- [Great tool-makers are often not great tool-users, and vice-versa](https://notes.andymatuschak.org/zHSk5HpDyrSWCMN669Sg4HU)
-- [Groups researching tools for thought need enough capacity to build prototypes suitable for serious work](https://notes.andymatuschak.org/zYUNgBzgTATxnnNbzLFnuLF)
+- [[Andy Matuschak/Great tool-makers are often not great tool-users, and vice-versa|Great tool-makers are often not great tool-users, and vice-versa]]
+- [[Andy Matuschak/Groups researching tools for thought need enough capacity to build prototypes suitable for serious work|Groups researching tools for thought need enough capacity to build prototypes suitable for serious work]]
 
 Related theory:
 - [[Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes]] 
-- [Authored environments are significantly colored by authors’ motivations](https://notes.andymatuschak.org/z4wZFERkVVVVy6bN6BE8kQz)
-- [Powerful enabling environments focus on expert use](https://notes.andymatuschak.org/zY3aLuvtsYS54QnymGKFGwg)
+- [[Andy Matuschak/Authored environments are significantly colored by authors’ motivations|Authored environments are significantly colored by authors’ motivations]]
+- [[Andy Matuschak/Powerful enabling environments focus on expert use|Powerful enabling environments focus on expert use]]
 
 ---
 
 ## References
-
 Matuschak, A., & Nielsen, M. (2019). How can we develop transformative tools for thought? Retrieved December 2, 2019, from [https://numinous.productions/ttft](https://numinous.productions/ttft)
 
 > Concretely: suppose you want to build tools for subject X (say X = differential geometry). Unless you are deeply involved in practicing that subject, it’s going to be extremely difficult to build good tools. It’ll be much like trying to build new tools for carpentry without actually doing any carpentry yourself. This is perhaps part of why tools like _Mathematica_ work quite well – the principal designer, Stephen Wolfram, has genuine research interests in mathematics and physics. Of course, not all parts of _Mathematica_ work equally well; some parts feel like toys, and it seems likely those are the ones _not_ being used seriously internal to the company.
@@ -35,6 +39,3 @@ Brooks, F. P., Jr. (1994). The Computer Scientist as Toolsmith II [ACM Allen Ne
 > Software-based researchers often strive to build systems containing high-level ideas that are likely to generalize, since those make for more compelling academic papers. However, we believe that trying to be too general actually hinders scale and sustainability. To build long-lasting software that can organically grow a large userbase, one must instead start specific.
 > 
 > In 2009 we created Python Tutor with a very specific goal in mind: to provide a convenient way for students and instructors (such as ourselves) to walk through Python code step-by-step and see the values of variables.
-
-# Source
-1. [Effective system design requires insights drawn from serious contexts of use](https://notes.andymatuschak.org/z7EQ2nVGus5B1rS9CqT18g6) 

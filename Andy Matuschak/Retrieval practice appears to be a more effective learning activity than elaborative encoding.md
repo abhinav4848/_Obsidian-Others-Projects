@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/z9Uq4yzBT1QaBU8twwyvm7P?stackedNotes=zEK6pjc61VLLZDNYssz7W7M
+title: "Retrieval practice appears to be a more effective learning activity than elaborative encoding"
 ---
 # Retrieval practice appears to be a more effective learning activity than elaborative encoding
-
 Making concept maps or generating one’s own questions seems like it’d be a great way to learn about a domain, but at least for basic knowledge, retrieval practice appears to be a more effective learning activity.
 
 # Reference

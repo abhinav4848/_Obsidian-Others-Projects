@@ -1,3 +1,6 @@
+---
+title: "Fluid Taxonomies"
+---
 # Fluid Taxonomies
 Fluid Taxonomies is a term coined by user "mediapathic", which came up in our conversations about MOCs and other ways of managing knowledge.
 

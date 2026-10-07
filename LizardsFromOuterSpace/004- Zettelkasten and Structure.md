@@ -1,5 +1,8 @@
+---
+title: "004- Zettelkasten and Structure"
+---
+# 004- Zettelkasten and Structure
 # Zettelkasten and Structure
-
 Note Taking is about storing information for later retrieval because we have a limited memory. Inherent in the process of storage is structure. In the case of a paper zettelkasten, the base structure would take the form of writing notes on paper and just putting them in a giant pile. The point of structure is to add **order** so that you can repeat tasks ([[041- Applicability]]) such as retrieval ([[007- Structuring for Retrieval]]) of a note. 
 
 The above example would be an undesirable structure as it would take a long time to retrieve the note you are looking for. It would still be better then chaos, where your notes are scattered across a city, written in random places and mediums (chalk on ground, spelled out in someone’s mowed lawn, stored on a bubble gum wrapper in the dump).

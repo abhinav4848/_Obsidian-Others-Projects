@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/z7RGGgVdDVHXkzJ6BVFKws8?stackedNotes=zG1S2XhBhJa7PWeSkKna2Y2&stackedNotes=zYUNgBzgTATxnnNbzLFnuLF
+title: "Groups researching tools for thought need enough capacity to build prototypes suitable for serious work"
 ---
 # Groups researching tools for thought need enough capacity to build prototypes suitable for serious work
 [[Effective system design requires insights drawn from serious contexts of use]]. This raises the bar for any group hoping to explore ideas around [[Tools for thought]]: you must have not only the capacity to develop the idea conceptually, but also the design and technical capacity to develop prototypes to the point that they can be used as serious tools for serious work. Only at that point can you clearly see your ideas refracted through the system’s use—i.e. [[Insight through making]].

@@ -28,6 +28,8 @@ yearXP: 2012
 yearXPL: 2020
 showStatus: watched
 rating: 5.7
+title: "Spirited Away"
 ---
+# Spirited Away
 ![poster](https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg)
 

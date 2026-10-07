@@ -1,13 +1,14 @@
 ---
 URL: https://notes.andymatuschak.org/zWzVw2VM4TPjpKXnHUfLaso
+title: "It’s hard to hear yourself think"
 ---
+# It’s hard to hear yourself think
 # **It’s hard to hear yourself think**
-
 Some related notes:
 - [[Original thought requires solitude]]
 - [[Culturally default behaviors fill spare time with others’ ideas]] 
     - [[People prefer doing to thinking]]
-    - [Many people find difficult creative work mostly unpleasant in the moment](https://notes.andymatuschak.org/zTaenCxxdcffpPUAzq3iDmQ) (No access on Andy’s site- Unavailable note)
+    - [[Andy Matuschak/People prefer doing to thinking|Many people find difficult creative work mostly unpleasant in the moment]] (No access on Andy’s site- Unavailable note)
 - [[Conversation with others often emphasizes the most well-understood elements of an idea]] 
 - [[Writing forces sharper understanding]]
     - [[Do your own thinking]]

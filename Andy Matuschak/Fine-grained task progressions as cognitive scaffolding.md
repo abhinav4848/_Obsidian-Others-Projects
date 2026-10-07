@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zWSH2QNUsrTGP4V15JBaaEv?stackedNotes=z7TJeAJjP5FrruVXwUXheW4&stackedNotes=zLtDuZSmdcEoAMgWNcxho6Z
+title: "Fine-grained task progressions as cognitive scaffolding"
 ---
 # Fine-grained task progressions as cognitive scaffolding
 When engaging with a new skill or concept for the first time, it’s important to break it down into so that you can take a tractable first step. Unfortunately, that factoring process is itself quite taxing, which may interfere with the object-level material. If the concepts are sufficiently foreign, you may not be able to break it down at all.

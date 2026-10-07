@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zHcouiwcynak2Xu5wh8FbFj?stackedNotes=zGKtrhpZ3hS8bw8UGL8hMTP&stackedNotes=zJRmoVPc9vyv8QxSD5voijR
+title: "Networked note-writing software"
 ---
 # Networked note-writing software
 [[Note-writing system]] emphasizing links between parts of different documents

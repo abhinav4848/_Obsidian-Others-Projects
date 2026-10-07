@@ -5,5 +5,6 @@ by:
 related: 
 created: {{date}}
 rank:
+title: "Questions Template"
 ---
- 
+# Questions Template

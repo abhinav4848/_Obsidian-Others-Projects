@@ -1,6 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/z8ccRLda8BqJafNxjQBpzis?stackedNotes=zWceTLNTjH3DQ7iVpy38ocq&stackedNotes=zVMUXKoCtjqGZZ2FLLjpW95
+title: "Tachistoscope"
 ---
+# Tachistoscope
 A tachistoscope is {a device used historically in experimental [[Cognitive science]] to present a stimulus for a brief period}.
 
 After the stimulus is briefly presented, it’s often followed by {a mask} (e.g. {a random pattern of related forms, like jumbled letters for a word stimulus}), intended to {interrupt further processing of the original stimulus}.

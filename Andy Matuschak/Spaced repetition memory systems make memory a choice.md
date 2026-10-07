@@ -1,3 +1,6 @@
+---
+title: "Spaced repetition memory systems make memory a choice"
+---
 # Spaced repetition memory systems make memory a choice
  [[Writing good spaced repetition memory prompts is hard]], but here’s one useful mental model. When you make a prompt for a [[Spaced Repetition memory system]], you are *giving your future self a recurring task*. Prompt design is task design.
 
@@ -13,5 +16,4 @@ When writing SRS prompts to help you internalize an idea, you’re performing so
 How do we go about designing such a task? If the idea is fairly simple, it may be possible to directly conceive a task which reliably lights all those bulbs. But when the idea has too many important facets, it’s hard to design a task which reliably stimulates all those elements. So it’s best to break concepts down into their simplest units: [[Spaced repetition memory prompts should usually focus on one atomic unit]].
 
 # References
-
 1.

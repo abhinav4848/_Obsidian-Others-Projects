@@ -3,7 +3,9 @@ up:
   - "[[Ideaverse Merged/Home]]"
 related: []
 created: 2020-06-01
+title: "The Home note vs The MOC Library"
 ---
+# The Home note vs The MOC Library
 The [[Ideaverse Merged/Home|Home]] note is like the [[1942 - Foundation Series (1942-93)|First Foundation]], while the [[Ideaverse Merged/Atlas/Maps/Library]] note is like the Second Foundation. 
 
 - The first foundation is about ingenuity and free will. 

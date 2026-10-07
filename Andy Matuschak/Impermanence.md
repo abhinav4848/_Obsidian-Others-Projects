@@ -1,3 +1,6 @@
+---
+title: "Impermanence"
+---
 # Impermanence
 One of the [[Three characteristics of existence]] central to Buddhism. All experiences, perceptions, and forms arise and pass away; they are always in flux. This is true from the smallest sensation or concept to one’s existence itself.
 
@@ -6,5 +9,4 @@ The Buddhist claim is specifically that all *sankhara* are impermanent. That w
 The Pali word for this is {anicca}.
 
 # References
-
 1.

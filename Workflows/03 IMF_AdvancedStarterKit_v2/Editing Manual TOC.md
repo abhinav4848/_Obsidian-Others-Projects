@@ -1,9 +1,11 @@
+---
+title: "Editing Manual TOC"
+---
 tags: #editingmanual #editing 
 editing: [[111 Editing Manual MOC|Editing Manual MOC]], [[Editing Manual TOC]]
 
 ---
 # Editing Manual TOC
-
 - [[113100000060 SOUND DESIGN OVERVIEW •••|Sound Design Overview]]
 	- Sound Design
 		- [[113100000061 — Sound Design Categories|Sound Design Categories]]

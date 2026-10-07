@@ -7,7 +7,9 @@ related:
 created: 2022-01-01
 in: 
 - "[[Ideaverse Merged/Atlas/Maps/Views]]"
+title: "Communicate"
 ---
+# Communicate
 This **Communicate** notes is a place to track your various *outputs*.
 
 Below are simple examples using the tag `output` to track my, well, outputs. 
@@ -26,7 +28,6 @@ This is enough to get you started. Over time, you might to customize your views.
 >  ```
 
 # Videos
-
 > [!Watch]+ ###### Videos on Deck
 > This filters for `#output/youtube◻️` with a rank above `3`.
 > 

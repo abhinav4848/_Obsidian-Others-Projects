@@ -1,3 +1,7 @@
+---
+title: "PKM Ways to Structure Digital Notes"
+---
+# PKM Ways to Structure Digital Notes
 - 20200518 - Structuring zk thoughts.
     - Ways to structure digital notes
         - there are many ways to structure your notes, some good, some less good

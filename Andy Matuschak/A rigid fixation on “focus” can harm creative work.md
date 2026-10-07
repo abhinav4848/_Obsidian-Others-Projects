@@ -1,3 +1,6 @@
+---
+title: "A rigid fixation on “focus” can harm creative work"
+---
 # A rigid fixation on “focus” can harm creative work
 Productivity culture is obsessed with “deep work”, focus, etc. But a certain amount of serendipity and spontaneity is really important to creative work.
 

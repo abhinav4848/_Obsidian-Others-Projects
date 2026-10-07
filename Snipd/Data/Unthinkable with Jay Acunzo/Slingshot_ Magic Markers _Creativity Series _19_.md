@@ -8,16 +8,17 @@ episode_publish_date: 2016-10-10
 last_snip_date: 2025-03-04
 episode_duration_minutes: 8
 episode_url: "https://share.snipd.com/episode/4b0b28ff-5c3b-4c7c-b301-5d66a553a8f9"
-image_url: "_media-sync_resources/2025/12/20/231704/74727.jpeg"
+image_url: "Attachments/71638.jpeg"
 show_url: "https://share.snipd.com/show/f24451b4-1e4a-429d-a98f-776c48582a45"
-show_image_url: "_media-sync_resources/2025/12/20/231704/41759.jpeg"
+show_image_url: "Attachments/71638.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
+title: "Slingshot_ Magic Markers _Creativity Series _19_"
 ---
+# Slingshot_ Magic Markers _Creativity Series _19_
 # Slingshot: Magic Markers [Creativity Series #19]
-
-![Cover](_media-sync_resources/2025/12/20/231704/55285.jpeg)
+![Cover](../../../Attachments/63883.jpeg)
 
 ## Episode metadata
 - Episode title: Slingshot: Magic Markers [Creativity Series #19]
@@ -32,15 +33,12 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ### ⭐ [This podcast episode, "Slingshot: Magic Markers," from the show Unthinkable with Jay Acunzo, features Deb Aoki, a content strategist who uses her drawing skills to significantly impact meetings and collaborations.](https://share.snipd.com/snip/44823f8d-4bd8-4f92-9648-53314b5dad03) 
-
 🎧 00:00 - 07:27 (07:27)
 
 This podcast episode, "Slingshot: Magic Markers," from the show *Unthinkable with Jay Acunzo*, features Deb Aoki, a content strategist who uses her drawing skills to significantly impact meetings and collaborations. It's a compelling story about finding your voice in a professional setting, even as an introvert or minority in a male-dominated field. The episode highlights how a creative side project—sketch noting—became a powerful tool for communication and collaboration, unlocking the potential of diverse perspectives within a team. It's a great listen for anyone interested in creativity, communication, and finding innovative ways to improve teamwork.
 
 #### 📚 Transcript
-
 Welcome to Unthinkable, and this week it's time for another slingshot. These are short stories of creative side projects that led somewhere unexpected. Every other week, we share these stories about what happens when you turn your intuition into action. I'm Jay Kunzo. Picture a room full of powerful business executives. They've got hundreds of years experience among them, power suits, power ties, power steering, and they convene to decide the future of the company. And sitting in the middle of them all, commanding the entire room's attention is a short, quiet, unassuming Japanese woman. That's Deb Aoki. And Deb can command that room full of executives all thanks to a very specific creative skill. Namely, she draws stuff. More specifically, she creates sketches on the board to help summarize a discussion in a meeting.
 
 I've always drawn, you know, I mean, I've always, I come from an art major and I drew comic strips for many years, but that's never, but then on the side my business, my main career has been as a writer, the content strategy. As a content strategist,

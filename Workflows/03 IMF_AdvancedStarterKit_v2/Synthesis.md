@@ -1,3 +1,6 @@
+---
+title: "Synthesis"
+---
 # Synthesis
  The combining of separate elements or substances to form a coherent whole.
  

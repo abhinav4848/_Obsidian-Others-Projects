@@ -1,6 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zEwJDpZiu1YQoXYznxioznL?stackedNotes=zSQhVMNeFNGfggB9Pg6MMDX&stackedNotes=z3p78NbwsU2Pi1t3Q24psfB
+title: "Recoding can increase chunk size"
 ---
+# Recoding can increase chunk size
 [[Human channel capacity increases with bits-per-chunk]]. But we don’t need to rely on the “intrinsic” chunk size of a stimulus. It’s possible to increase the effective chunk size of stimuli by _recoding_ them—that is, mentally regrouping them into chunks representing larger patterns. These chunk schemas are also called [[Mental representations, after Ericsson and Pool]].
 
 For example, when trying to memorize a sequence of binary digits, one can instead memorize them as octets (e.g. 010 = 2, 101 = 5, etc), which will roughly triple your capacity (Miller, 1956). Chase and Ericsson (1982) used this technique to build a student’s digit span to 80 digits, via hierarchical recoding into 4-decimal-digit chunks.

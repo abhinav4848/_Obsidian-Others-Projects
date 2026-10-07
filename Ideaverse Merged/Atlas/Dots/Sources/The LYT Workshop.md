@@ -14,7 +14,9 @@ tags:
   - source/course
 type: "[[Ideaverse Merged/Atlas/Maps/Courses]]"
 URLs: https://www.linkingyourthinking.com/obsidian-flight-school
+title: "The LYT Workshop"
 ---
+# The LYT Workshop
 Imagine having 1,000 of your favorite ideas all in one place. Your favorite concepts, quotes, and memories finally all connected in one living, powerful system.
 
 Think of this as your **Ideaverse**—and it's what you will create during the workshop.

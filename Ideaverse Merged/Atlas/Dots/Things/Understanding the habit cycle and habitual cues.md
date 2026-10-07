@@ -4,8 +4,9 @@ up:
 related: []
 created: 2013-03-10
 modified: 2020-05-28
+title: "Understanding the habit cycle and habitual cues"
 ---
-
+# Understanding the habit cycle and habitual cues
 ### The Habit Cycle
 Charles Duhigg made popular a three-step process of habit formation. Later, James Clear argued for a fourth step "craving", which I always felt was missing as well. Here's the cycle as I see it:
 

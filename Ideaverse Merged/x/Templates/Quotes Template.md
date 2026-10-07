@@ -6,5 +6,6 @@ related:
 created:
   "{ date }":
 rank:
+title: "Quotes Template"
 ---
- 
+# Quotes Template

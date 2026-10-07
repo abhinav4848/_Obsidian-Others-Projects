@@ -1,3 +1,7 @@
+---
+title: "088- Thinking"
+---
+# 088- Thinking
 # Thinking
 Thinking is cognitive behavior in which ideas, images, [mental representations](https://dictionary.apa.org/mental-representations), or other hypothetical elements of thought are experienced or manipulated." In this sense, thinking includes imagining, remembering, problem solving, daydreaming, [free association](https://dictionary.apa.org/free-association), concept formation, and many other processes.
 

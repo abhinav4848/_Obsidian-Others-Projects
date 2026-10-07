@@ -1,3 +1,7 @@
+---
+title: "075- The knowledge cycle"
+---
+# 075- The knowledge cycle
  **The Knowledge Cycle** is the process by which you taking in new [[073- Knowledge]] and let it interact with your existing knowledge base ([[076- Prior Knowledge]]) in order to [create new knowledge](https://forum.obsidian.md/t/obsidian-zettelkasten/1999/75).
 
 ![[The Knowledge cycle Option C.png]]

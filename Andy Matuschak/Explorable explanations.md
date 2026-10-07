@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zY3aLuvtsYS54QnymGKFGwg?stackedNotes=zU6upTVz687icnQegpMhLY8&stackedNotes=zRXEyTA5YxgqiBP3UE3C6si
+title: "Explorable explanations"
 ---
 # Explorable explanations
-
 ## Creators
 - [Bret Victor](https://notes.andymatuschak.org/Bret_Victor)
 - [Nicky Case](https://notes.andymatuschak.org/zHKy5xhvTYvKNrmQ1CyS1oQ)

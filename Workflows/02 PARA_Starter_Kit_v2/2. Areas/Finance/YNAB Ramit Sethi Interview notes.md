@@ -1,9 +1,12 @@
+---
+title: "YNAB Ramit Sethi Interview notes"
+---
+# YNAB Ramit Sethi Interview notes
 Tags: [[Podcast]] [[Finance]] - [[Investing]] [[Budget]]
 Guest: [[Ramit Sethi]]
 Podcast: [[You Need a Budget Podcast]] 
 
 ## Highlights:
-
 Good investment advice are timeless, they stay the same
 
 =="Spend extravagantly on the things you love as long as you cut cost mercilessly on the things you don't"==

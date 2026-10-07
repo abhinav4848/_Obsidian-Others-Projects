@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zVPU3jfwihojMKindkMz7Ya
+title: "Most texts aren’t worth writing detailed notes about"
 ---
 # Most texts aren’t worth writing detailed notes about
 Writing good [[Evergreen notes]] about a book can take many hours. How can I possibly do this about everything I read? Well, I don’t. Most of what I read isn’t worth that kind of deep follow-up, except perhaps in isolated places where I was struck by something. But a small portion are worth careful re-reads, along with much writing and integration.

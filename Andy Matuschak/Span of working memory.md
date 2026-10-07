@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zXxUPAFZBthh97wAKBEj7Tq?stackedNotes=zAhASsrt9VhRDzh25hsLsyD&stackedNotes=z3zo16mx2Dp3PB4J1ty1DGy
+title: "Span of working memory"
 ---
 # Span of working memory
-
 A person’s *span of working memory* is the theoretical maximum number of items ([[Chunks in human cognition]]) they can remember simultaneously, without committing any to long-term memory.
 
 ==TODO: I’m conflating “immediate memory” and “working memory” here, without fully understanding the relationship. Some researchers seem to treat these terms interchangeably, while others (Conway, 2005, p. 779) draw an intentional distinction I haven’t yet absorbed.==

@@ -1,3 +1,7 @@
+---
+title: "102- General Knowledge"
+---
+# 102- General Knowledge
 # General Knowledge 
 is about getting a sense of the universe at large and the larger context that your specialized knowledge ([[101- Specialized Knowledge]]) sits within. It is also the ideas from various disciplines that you learn about in hopes that it can help spark new ideas within your current area of expertise.
 

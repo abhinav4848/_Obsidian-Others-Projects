@@ -1,6 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/z2qjVZKqSqrqkhFhvUpPDtd?stackedNotes=zQvbnYfHdG1gARTbtC4pje6&stackedNotes=zKBhqUkoRWoNV72aG21GYst
+title: "Are literature notes necessary if we have automatic universal backlinks"
 ---
+# Are literature notes necessary if we have automatic universal backlinks
 # Are literature notes necessary if we have automatic universal backlinks?
 [[Literature notes are secondary and separate]], but are they necessary at all? Are they only necessary because you might want to *start* a walk through your notes from a specific reference that happened to come up, and it’s awkward to find all the notes which refer to a specific reference?
 

@@ -3,8 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Maps/Habits Map]]"
 related: []
 created: 2020-06-01
+title: "Small Wins foster a Sense of Control"
 ---
-
+# Small Wins foster a Sense of Control
 In the literature, which I've forgotten, one of the most apparent attributes in building up desired habits is the concept of small wins. 
 
 Small Wins encourage [[Ideaverse Merged/Atlas/Dots/Things/Flow]]; and Flow encourages itself, so it's fair to say that: Small Wins create a [[Ideaverse Merged/Atlas/Dots/Things/Feedback Loop]]. In terms of making notes in our PKM systems, [[Ideaverse Merged/Atlas/Dots/Things/Progressive Ideation]].

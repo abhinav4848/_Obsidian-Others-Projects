@@ -5,7 +5,9 @@ created: 2023-08-19
 rank: "5"
 aliases:
 - Ideaverse Kit (OE) (Example)
+title: "🌌 Ideaverse Kit (OE) (Example)"
 ---
+# 🌌 Ideaverse Kit (OE) (Example)
 The Ideaverse Kit carries a responsibility to people trying to be better with their thoughts.
 
 Honor it. Keep it relevant. And give as much useable value as possible.

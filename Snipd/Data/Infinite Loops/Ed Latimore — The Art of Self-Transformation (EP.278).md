@@ -19,9 +19,9 @@ show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fasse
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
+title: "Ed Latimore — The Art of Self-Transformation (EP.278)"
 ---
 # Ed Latimore — The Art of Self-Transformation (EP.278)
-
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F9%2F4%2F8%2F9%2F9489dd6b2de9f26c16c3140a3186d450%2F278_-_Square.png&w=200&h=200)
 
 ## Episode metadata
@@ -38,23 +38,19 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ###  [Environment Shapes Outcomes](https://share.snipd.com/snip/34e980ea-8d14-4bb4-aa31-845f8ab9f6ea) 
-
 🎧 30:35 - 32:27 (01:52)
 
 - Two major factors influencing life outcomes are family and the people you spend time with, largely determined by zip code and school district.
 - Ed Latimore emphasizes that where you live shapes your friend group and overall environment, impacting your future.
 
 #### 💬 Quote
-
 > The two things that make the biggest difference in our outcomes in life, one, our family, funny, we have no control over that, but about our family. And then second, the people we spend the most time around, which will be directly dictated for most of us by the zip code we end up in in the school district we end up in.
 > — Ed Latimore
 
 Ed Latimore on the factors that influence life outcomes
 
 #### 📚 Transcript
-
 **Ed Latimore:** our family, funny, we have no control over that, but about our family. And then second, the people we spend the most time around, which will be directly dictated for most of us by the zip code we end up in in the school district we end up in. So even if parents aren't consciously thinking about it that way, that is a downstream effect. Wherever you live and wherever you go to school, those are going to be. That's the selection of friends you got to pick from. I this prison YouTuber I listened to because he's just a great storyteller. And he was talking about when you go to jail, you can make some friends, but you got to remember the people you're making friends with. They're all in jail with you. And not a lot of Boy Scouts in prison. These guys that have done some bad stuff, some of them. Some of them not so bad, but still bad enough. And he's like, especially at the prison I was at, which was, you know, with guys knowing life and murder, things like that. I was like, okay. But, you know, when I heard that, I was like, yeah, you know, it's the same idea. Where you put your family makes a big
 
 **Jim O'Shaughnessy:** difference. And

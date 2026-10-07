@@ -3,7 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Dots/Things/Habits MOC - Gather]]"
 related: []
 created: 2020-06-01
+title: "The neural formation of habits is additive - v1"
 ---
+# The neural formation of habits is additive - v1
 I attended a presentation of "Portraits of the Mind" by Carl Schoonover. He showed pictures of how dendrites grow spines for better connections to synapses. Carl showed a video of neural networks forming. Now more than ever, we are starting to witness the neural formation of habits.
 
 **My Thoughts**

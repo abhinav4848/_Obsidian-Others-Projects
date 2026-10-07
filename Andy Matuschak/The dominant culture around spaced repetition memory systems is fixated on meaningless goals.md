@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/About_these_notes?stackedNotes=z7d63BYfJrd81VFE25jkcDd&stackedNotes=z4ULp2KUgq3hBCJMWTUnLDX
+title: "The dominant culture around spaced repetition memory systems is fixated on meaningless goals"
 ---
 # The dominant culture around spaced repetition memory systems is fixated on meaningless goals
-
 [Spaced repetition memory systems make memory a choice](), but retention is not valuable for its own sake. Memory is valuable insofar as it helps people do whatever gives their lives meaning: [[Tools for thought should be evaluated in the context of intrinsically meaningful purposes]]. Unfortunately, the dominant culture around memory systems veers heavily toward memory for its own sake.
 
 If you spend time on /r/anki, you’ll see people swapping tips about how to memorize all the capitals in Africa, or all the U.S. presidents, as if they were learning to perform party tricks. These people are often fastidiously concerned with the performance and efficiency of the memory systems—optimization for its own sake, serving memory for its own sake. 

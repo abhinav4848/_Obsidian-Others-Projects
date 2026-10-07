@@ -1,13 +1,10 @@
+---
+title: "A writing inbox for transient and incomplete notes"
+---
 # A writing inbox for transient and incomplete notes
-
-Type of Link: 📝 Article
 Category talked about: Note taking
-Author: Andy Matuschak
-Completion Status: Started
-Last edited time: January 18, 2024 7:55 PM
 
 # **A writing inbox for transient and incomplete notes**
-
 Even if you aspires to write [[Evergreen Notes]], most notes begin as transient notes. You should be able to capture thoughts without friction ([[Close open loops]]), then reliably develop them into evergreen notes over time ([[Knowledge work should accrete]]). This implies two important mechanisms:
 
 1. a quick way to capture transient notes which clearly isolates them from evergreen notes; and

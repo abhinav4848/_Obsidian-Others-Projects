@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zBcEii9Hf2Rv7vsUSB7pBoP?stackedNotes=zBjh9jUahGSm7VpFtEjvKqT
+title: "Using machine learning to generate good spaced repetition prompts from explanatory text"
 ---
 # Using machine learning to generate good spaced repetition prompts from explanatory text
-
 A challenging research problem. Some notes:
 
 - [GPT-4 can often generate usable spaced repetition prompts for declarative knowledge from explanatory text with guidance](https://notes.andymatuschak.org/zJRDpsHzhrx87XxabV5jqXg)

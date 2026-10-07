@@ -1,5 +1,8 @@
+---
+URL: "https://notes.andymatuschak.org/z3whk8UxFRFLgUQX9f7Fr2o"
+title: "Spaced repetition memory prompts should connect and relate ideas"
+---
 # Spaced repetition memory prompts should connect and relate ideas
-
 When using a [[Spaced repetition memory system]] to learn facts, the naive approach leads to learning a lot of facts in isolation: the name of a protein, the date of an event, the size of a physical constant. But because [[Rich understanding is about connection]], it’s better to relate these facts to other ideas. This will both help you remember more reliably (due to [[Elaborative encoding]]) but also help you develop a richer understanding that goes beyond simple facts.
 
 Michael gives this good example in _Augmenting Long-term Memory_:

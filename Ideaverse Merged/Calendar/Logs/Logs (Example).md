@@ -5,7 +5,9 @@ related: []
 created: 2020-01-01
 in: 
 - "[[Ideaverse Merged/Atlas/Maps/Maps]]"
+title: "Logs (Example)"
 ---
+# Logs (Example)
 I've included two sample logs for you:
 
 - [[Ideaverse Merged/Calendar/Logs/Idea Log (Example)]]

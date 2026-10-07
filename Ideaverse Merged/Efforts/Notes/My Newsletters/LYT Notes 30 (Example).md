@@ -4,10 +4,10 @@ up:
 created: 2021-12-28
 tags:
   - output/newsletter
+title: "LYT Notes 30 (Example)"
 ---
-
+# LYT Notes 30 (Example)
 # LYT Notes 30 - Reflecting on 2021
-
 Three years ago I was working on Breaking Bad the movie.
 
 My career in editing was taking off.
@@ -80,7 +80,6 @@ And I can't wait for the riddles we will uncover in 2022.
 ---
 
 ## Here's a recap of things I've shared in the past 1.5 years
-
 Looking back on the past year and a half, a lot has happened.
 
 Regardless of when you joined, here's a recap of some notable things I've contributed to the dialogues around PKM and the how and why of making meaningful notes.
@@ -171,7 +170,6 @@ February 2022
 ---
 
 ## Grateful we've met
-
 I wrote some of this last year. It is just as true this year:
 
 I would have never imagined having such wonderful conversations with poets and novelists, programmers and worldbuilders, students and educators, physicists and psychologists, autodidacts and coronavirus researchers, genetic counselors and innovative marketers, former firefighters and current fathers, game developers and IT folks, data quality controllers and social history academics, librarians and designers...
@@ -193,7 +191,6 @@ And I'm beyond grateful to have crossed paths with you.
 Here's hoping for healthy 2022—and for us to continue the great conversation!
 
 ## Theme Review + Theme for 2022
-
 For 2021, I wanted it to be the "Year of the Note Maker".
 
 That's because I love wrestling with ideas and developing them over time. I love making leaps of insights between them and building massive value while having so much joy in the process. Note-making is a way to super-charge our thinking in the age of the linked note.
@@ -221,7 +218,6 @@ PS: This isn't the official launch, but as promised, before the end of the year,
 PPS: What's the #1 PKM problem you want to solve in 2022? How can I help? Feel free to email me back. I'll do my best to response.
 
 ## Random
-
 Old book idea "we just don't think enough"
 new years 2018-19?? waterfall walk?
 
@@ -230,7 +226,6 @@ LYT Notes Newsletter - 2021-02-21
 Flight School
 
 ## Favorite Youtube & tweet shares
-
 - Oct 14, 2020 - Why Obsidian Will Overtake Roam
 - we have entered the age of the linked [note](https://twitter.com/NickMilo/status/1344034466633666560?s=20)
 - Idea Emergence - [twitter](https://twitter.com/NickMilo/status/1317190776284086272)

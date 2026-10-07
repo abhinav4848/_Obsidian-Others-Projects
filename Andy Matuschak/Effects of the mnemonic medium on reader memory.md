@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zWAH46Pd3DWGrfdiU8bV25A?stackedNotes=zNVVrcxnkjk7pCabiBvaic1&stackedNotes=zqetsQERteJhyPitmRoaeE
+title: "Effects of the mnemonic medium on reader memory"
 ---
 # Effects of the mnemonic medium on reader memory
 No links for any of them. Too in depth for casual reading. 
@@ -11,7 +12,7 @@ No links for any of them. Too in depth for casual reading.
     - [QCVC questions are initially forgotten at very different rates](https://notes.andymatuschak.org/z2QUUpeEhCG3JoqesjdXnbW) 
 - To what extent do these results generalize?
     - [How does the mnemonic medium’s performance vary across different platform knowledge topics?](https://notes.andymatuschak.org/z2jgbaqpYG45xhBwxgJMyYW) 
-    - [How might the mnemonic medium enable readers in genres outside platform knowledge?](https://notes.andymatuschak.org/z6eSdsLVZLGWuR7m3WQGgAY) 
+    - [[Andy Matuschak/How might the mnemonic medium enable readers in genres outside platform knowledge|How might the mnemonic medium enable readers in genres outside platform knowledge?]] 
 The story I’d like to be able to tell:
 1. If you complete the review sessions, you’ll remember what you read reliably.
 2. … and you would remember much less without those review sessions.

@@ -1,3 +1,6 @@
+---
+title: "Messy thought, neat thought"
+---
 # Messy thought, neat thought
 This project has involvement from Andy Matuschak
 

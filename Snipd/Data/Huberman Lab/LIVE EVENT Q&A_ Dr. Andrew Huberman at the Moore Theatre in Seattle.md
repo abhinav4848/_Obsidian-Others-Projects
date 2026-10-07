@@ -16,9 +16,10 @@ show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcas
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
+title: "LIVE EVENT Q&A_ Dr. Andrew Huberman at the Moore Theatre in Seattle"
 ---
+# LIVE EVENT Q&A_ Dr. Andrew Huberman at the Moore Theatre in Seattle
 # LIVE EVENT Q&A: Dr. Andrew Huberman at the Moore Theatre in Seattle
-
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F042e6144-725e-11ec-a75d-c38f702aecad%2Fimage%2Fee4f0b7b466ca35620792970d9bce2d2.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=200&h=200)
 
 ## Episode metadata
@@ -34,16 +35,13 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ###  [How to Improve Your Memory?](https://share.snipd.com/snip/f55285f9-44c1-4178-8c18-6774978cf6e5) 
-
 🎧 22:39 - 24:18 (01:39)
 
 1. To remember things, you need to get your brain and body into a high autonomic arousal state.
 2. If you tell yourself something is important, you will learn it better.
 
 #### 📚 Transcript
-
 **Andrew Huberman:** I thought that to remember things, you're supposed to get really, really excited, really focused, and remember them. And guess what? That's not how you do it. There are data, and there are stories going to medieval times that they used to teach kids things and then throw them in the river. There's a beautiful annual review of neuroscience written by the late James McGaw, a brilliant researcher who taught me that in this review. And it turns out that if you want to remember something, you want to spike adrenaline after you acquired that information. After. That means the double espresso and the ice bath after you study for math. Immediately after. And you think about this, you know, that makes perfect sense, right? Think about the one trial learning that nobody wants to experience, which is a car accident or some traumatic thing. You didn't get the spike of adrenaline first, you got the spike of adrenaline after. So again, you know, I discourage the use of excessive stimulants or, you know, anything like that. But if you're going to try and remember information, you need to get your brain and body into a high autonomic arousal state. Literally, you need to deploy adrenaline into your system after you have made the attempt to learn some information. So much so that if you give people a beta blocker after learning emotional information, they don't learn it as well. Incredible. Just incredible data in animals and humans.
 
 ---

@@ -1,9 +1,12 @@
+---
+title: "Validation is backwards"
+---
+# Validation is backwards
 Tags: [[Article]] [[Marketing]] - [[Entrepreneurship]] [[Validation]]
 Author: [[Alex Hillman]] 
 From: https://stackingthebricks.com/validation-is-backwards/
  
 ## Highlights:
-
 On one hand, it’s possible that Lean methods could protect you from making a huge mistake, by making many smaller mistakes instead. You could avoid wasting a whole lot of time and money on a shitty, half-cocked business idea. And hey, that’s not all bad!
 
 Validation claims to be a data-driven process, but the results are neither predictably nor repeatably successful.

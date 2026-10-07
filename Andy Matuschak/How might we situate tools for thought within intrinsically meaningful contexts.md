@@ -1,8 +1,9 @@
 ---
 URL: https://notes.andymatuschak.org/zHV89H7dqnrvNvwXHBSGog9?stackedNotes=zTYb9ysCATFYCnvay3V5sF2&stackedNotes=zGD1FxbDZd7WnH7NrhRaVyC
+title: "How might we situate tools for thought within intrinsically meaningful contexts"
 ---
+# How might we situate tools for thought within intrinsically meaningful contexts
 # How might we situate tools for thought within intrinsically meaningful contexts?
-
 [[Explorable explanations]] and the [[Mnemonic medium]] are cool, but interactive articles and spaced repetition practice are miles away from where the actual meaning is. [[Enabling environments focus on creating opportunities for growth and action, not on skill-building]]. How might we adapt these types of powerful tools so that they can be situated within deeply meaningful interactions?
 
 What if “practice sessions” for a [[Spaced repetition memory system]] could be excised completely, instead structuring one’s authentic environment so that “practice” naturally occurs through daily actions? e.g. [[Twitter is a kind of programmable attention]]; [[Evergreen note maintenance approximates spaced repetition]]. Related: [[The dominant culture around spaced repetition memory systems is fixated on meaningless goals]].

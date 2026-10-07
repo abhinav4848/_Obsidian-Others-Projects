@@ -4,7 +4,9 @@ up:
 related:
   - "[[Ideaverse Merged/Atlas/Dots/Things/On the process of note-making]]"
 created: 2020-06-01
+title: "Evergreen notes"
 ---
+# Evergreen notes
 Note-takers _“churn and burn”_ through their notes. They take them for a specific short-term (“just-in-time”) purpose—like a test or a project. When the milestone concludes, the notes lose their value. This type of note-taking doesn’t accumulate long-term value.
 
 Note-makers _“know and grow”_ with their knowledge. Instead of losing value, note-makers create **living notes** that are able to grow in value and evolve over time.

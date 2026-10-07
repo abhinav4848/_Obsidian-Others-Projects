@@ -4,7 +4,9 @@ up:
 related: []
 created: 2018-06-01
 modified: 2019-06-01
+title: "Four Virtues"
 ---
+# Four Virtues
 I have found that a better way to look at Virtues is less as Values and more as "Abilities," because it implies that it's not enough to value something, you have to be skilled in it. 
 
 Out of many schools of thought, I have found that using the Stoic Virtues as a base, aligned the best with my way of thinking. Below are the most valuable virtues in which to be really skilled:

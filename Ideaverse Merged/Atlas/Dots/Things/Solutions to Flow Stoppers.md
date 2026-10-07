@@ -3,8 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Dots/Things/FlowCreation MOC]]"
 related: []
 created: 2020-06-01
+title: "Solutions to Flow Stoppers"
 ---
-
+# Solutions to Flow Stoppers
 - [ ] Organize these using the four factors
 
 1. **Reduce Distractions** — This is the number one killer of flow. (Main Element: Attention)

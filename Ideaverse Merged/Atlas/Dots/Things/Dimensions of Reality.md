@@ -6,7 +6,9 @@ in:
 related: 
 created: 2020-06-01
 says: Did you really think three dimensions was it?
+title: "Dimensions of Reality"
 ---
+# Dimensions of Reality
  *What if you thought two dimensions was the entirety of reality?*
 
 This premise that "there is something more" always strikes a chord in me. It's why I resonate with [[Ideaverse Merged/Atlas/Dots/Things/Plato's Cave]], The Matrix, Flatland...even The Truman Show! Bring on the existential angst I say! 

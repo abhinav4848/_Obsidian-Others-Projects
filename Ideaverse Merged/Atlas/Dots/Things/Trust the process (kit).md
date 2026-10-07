@@ -5,8 +5,9 @@ related:
   - "[[Ideaverse Merged/Atlas/Dots/Things/The Riddle of Two Paths (kit)]]"
   - "[[Ideaverse Merged/Atlas/Dots/Statements/The Riddle IS the Answer (kit)]]"
 created: 2019-08-13
+title: "Trust the process (kit)"
 ---
-
+# Trust the process (kit)
 When I was young, my dad said we could open presents a day early if we solved his riddle. I chewed on the riddle trying to solve it. It was riveting to have a good riddle. 
 
 Then my brother emerged from the computer room (having just been on the internet) and he blurted out the answer. You'd think I would have been happy to open presents; but instead I was disappointed because I was robbed of a juicy riddle. 

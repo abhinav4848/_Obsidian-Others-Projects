@@ -17,9 +17,9 @@ show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fim
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
+title: "Weeding is Fundamental Revisited"
 ---
 # Weeding is Fundamental Revisited
-
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F8436e3c1-2479-4466-ac48-fa58259960bb%2Fa6d5b177-ab5d-430d-b3f2-b393a09d8101%2F3000x3000%2Fsxm-cover-99percentinvisible-r2025-3000x3000-final.jpg%3Faid%3Drss_feed&w=200&h=200)
 
 ## Episode metadata
@@ -36,23 +36,19 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ###  [Card Catalog as Evidence](https://share.snipd.com/snip/e479cfcc-2e97-42a9-8256-d7ccc69b622a) 
-
 🎧 15:13 - 16:16 (01:03)
 
 - Pierce Gelley explains that the physical card catalog recorded a library's books before weeding.
 - Roman Mars notes weeding removes books from the digital catalog, so the card catalog is evidence of what has been purged.
 
 #### 💬 Quote
-
 > The card catalog is evidence. Evidence of a purge.
 > — Roman Mars
 
 Roman Mars on the importance of the physical card catalog.
 
 #### 📚 Transcript
-
 **Pierce Gelley:** And it wasn't just a matter of nostalgia or personal preference. The physical card catalog said exactly what was in the library before all the arbitrary weeding. If
 
 **Roman Mars:** a book was red-tagged and weeded, it wouldn't be registered in the new digital system. There

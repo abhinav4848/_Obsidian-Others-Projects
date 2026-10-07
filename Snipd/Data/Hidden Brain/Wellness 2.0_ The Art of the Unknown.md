@@ -16,9 +16,10 @@ show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fim
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
+title: "Wellness 2.0_ The Art of the Unknown"
 ---
+# Wellness 2.0_ The Art of the Unknown
 # Wellness 2.0: The Art of the Unknown
-
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5982e1b7-239c-4b89-81f9-49df1f33fdae%2F7b38707d-b205-4c6c-8fa0-9d8847ff99a3%2F3000x3000%2Fklaas-butterfly-square.jpg%3Faid%3Drss_feed&w=200&h=200)
 
 ## Episode metadata
@@ -35,23 +36,19 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ###  [Snooze Button Effect](https://share.snipd.com/snip/eff69e8f-dcd0-4492-be0e-12bfffd07110) 
-
 🎧 38:54 - 40:21 (01:27)
 
 - We have less control over our lives than we think, meaning we deserve less credit for successes and less blame for failures.
 - Every moment matters because it creates ripple effects, even if we are unaware of them.
 
 #### 💬 Quote
-
 > With a little bit less control, I should take less credit for my success and less blame for my failures. [...] There's no moment of our lives that is a throwaway moment. There's not a single moment of our existence that doesn't matter because every single moment is producing these ripple effects.
 > — Brian Klaas
 
 Brian Klaas on the liberating and empowering nature of having less control over life's outcomes.
 
 #### 📚 Transcript
-
 **Brian Klaas:** And there's two reasons for that. One is that it's liberating because it means that with a little bit less control, I should take less credit for my success and less blame for my failures. The stakes are a little lower because I'm not the sole author of the story of my life. There's countless authors that are constantly writing little bits of my story. But it's also extremely uplifting and I think empowering because it means that there is no moment of our lives that is a throwaway moment. There's not a single moment of our existence that doesn't matter because every single moment is producing these ripple effects. And even when we're unaware of them, they matter. So the moment that a baby is conceived, if there is any millisecond difference in that moment, a different child is born, right? Now we sort of all intuitively understand that. But if you actually think about what that means, it means that on the day of conception, if you stop to have a sip of coffee, or if you don't, you have a different kid. But that's true for the day before, and the day before that, and the day before that. All of those things in our lives that culminate in that one moment when the baby is conceived had to be exactly as they were for that child to be born. This is the phrase that I borrow from the social scientist Scott Page, where he says that we control nothing, but we influence everything.
 
 ---

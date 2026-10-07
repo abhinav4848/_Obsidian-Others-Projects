@@ -1,9 +1,12 @@
+---
+title: "011- Example of a Note size"
+---
+# 011- Example of a Note size
 **Example of a Note Size -** [Andy’s Working Notes](https://notes.andymatuschak.org/About_these_notes) - Source for [this particular note](https://notes.andymatuschak.org/z6M8kex6kDF2FT6MWqAMDQddsqUr8sphLmyy1)
 
 ---
 
 ### Evergreen note-writing helps reading efforts accumulate
-
 It’s important to [Write about what you read 38](https://notes.andymatuschak.org/zg3fYweZpbHeBTpcYke5mF4ZfrJutYcQEtFo), but instead of just writing about the specific book you’re reading, you can (and should) write your notes such that your reading observations accumulate over time as they interact with each other and with your own ideas (see [Evergreen note-writing helps insight accumulate 25](https://notes.andymatuschak.org/z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb), [Knowledge work should accrete 6](https://notes.andymatuschak.org/z6UDDkom8Aifg6mLdjT1sPtbMBweCmpyTwmJT)).
 
 This is also why we write [Evergreen notes 73](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C): so that if we encounter a book which discusses a concept we’ve already written about, we’re pushed to integrate new ideas with our prior conception. Certainly, we normally do this when we read, but we’re limited to our faulty memory of other works which might be related. The externalized note-taking system substantially removes this limitation.

@@ -21,7 +21,9 @@ culturalWorks:
 image: https://www.thoughtco.com/thmb/zN5LbhZf6w8XmfOjDjHEnRj_7Ic=/2045x1363/filters:fill(auto,1)/Wollestonecraft-463910891x1-58b44bb55f9b586046e648bd.jpg
 aliases:
 - Mary Wollstonecraft
+title: "Mary Wollstonecraft (kit)"
 ---
+# Mary Wollstonecraft (kit)
 ### Wiki
 > **Mary Wollstonecraft** (, also UK: ; 27 April 1759 – 10 September 1797) was an English writer, philosopher, and advocate of women's rights. Until the late 20th century, Wollstonecraft's life, which encompassed several unconventional personal relationships at the time, received more attention than her writing. Today Wollstonecraft is regarded as one of the founding feminist philosophers, and feminists often cite both her life and her works as important influences.
 >

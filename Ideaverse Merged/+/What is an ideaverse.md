@@ -2,7 +2,9 @@
 up:
   - "[[Ideaverse Merged/Ideaverse Map]]"
 created: 2023-08-29
+title: "What is an ideaverse"
 ---
+# What is an ideaverse
 What would it feel like to have all your ideas, available to you, reliably, at any time?
 
 That is the promise of an ideaverse. An ideaverse is:

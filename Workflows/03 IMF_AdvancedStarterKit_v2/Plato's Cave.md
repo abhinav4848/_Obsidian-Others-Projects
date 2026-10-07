@@ -1,3 +1,6 @@
+---
+title: "Plato's Cave"
+---
 tags: #allegories
 links: [[Allegories MOC|Allegories]]
 

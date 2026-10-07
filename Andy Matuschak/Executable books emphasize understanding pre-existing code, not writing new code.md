@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zU6upTVz687icnQegpMhLY8?stackedNotes=zLNcy2JiH3AGNaZjYkHzK9P&stackedNotes=z97uezJ67HAt9YG1NUCuP4g
+title: "Executable books emphasize understanding pre-existing code, not writing new code"
 ---
 # Executable books emphasize understanding pre-existing code, not writing new code
-
 At least as usually conceived, [[Executable books]] package and present the code discussed by their prose. Readers might be asked to extend that code in exercises, but executable books present code an object created by the author to be explored. The prose aims to help students read and understand the code. An interesting alternate approach is to consider executable book-like mediums which frame the code as something predominantly written by the reader.
 
 Such a book would be more like [The Incredible Machine](https://notes.andymatuschak.org/zEYFLQ99qFwbSswAV6NaX9T) than a Rube Goldberg picture book: it might present [[Fine-grained task progressions as cognitive scaffolding]] and relevant information along the way. The reader’s doing the execution, but that execution is highly structured by the author: an [[Enacted experience]]. Related: [What might it mean to situate games like Shenzhen I/O inside pro environments like an IDE?](https://notes.andymatuschak.org/zFS2bUsK1vzv1M7cYcMFdCV). A concrete example, in design: [Figma’s copy and paste playground situates instructional media inside the context of use](https://notes.andymatuschak.org/zQp36KQ3k8phqVba6ZMpNEm) 

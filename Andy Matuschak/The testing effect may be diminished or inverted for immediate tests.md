@@ -1,3 +1,7 @@
+---
+URL: "https://notes.andymatuschak.org/zWoEKdbmtbSgAp1tZjU4usY"
+title: "The testing effect may be diminished or inverted for immediate tests"
+---
 # The testing effect may be diminished or inverted for immediate tests
 As reviewed in [Roediger, H. L., & Karpicke, J. D. (2006). The Power of Testing Memory: Basic Research and Implications for Educational Practice. Perspectives on Psychological Science, 1(3), 181–210](https://notes.andymatuschak.org/zGfjkW1ociSmSUCLcpbhKjf), experiments which successfully demonstrate the testing effect usually use retention intervals of several days or longer. When tests are administered immediately, more studying may be better than more testing (see also [[Worked example effect]]).
 

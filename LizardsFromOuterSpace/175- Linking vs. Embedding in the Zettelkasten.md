@@ -1,3 +1,7 @@
+---
+title: "175- Linking vs. Embedding in the Zettelkasten"
+---
+# 175- Linking vs. Embedding in the Zettelkasten
 # Linking vs. Embedding in the Zettelkasten 
 Linking vs. Embedding in the Zettelkasten: what is the criteria one should use on deciding whether to just link to another note or create an embed within the note. This is the distinction between notes being directly and indirectly related. Is the new note part of a larger note sequence?
 

@@ -14,16 +14,17 @@ mentioned_books:
 last_snip_date: 2025-03-11
 episode_duration_minutes: 216
 episode_url: "https://share.snipd.com/episode/f64d1c8d-38b8-4e13-8558-f35339a6ce39"
-image_url: "_media-sync_resources/2025/12/20/232103/09892.png"
+image_url: "Attachments/09892.png"
 show_url: "https://share.snipd.com/show/fba0bb28-dc65-4d90-a5d3-2894a13c80bc"
-show_image_url: "_media-sync_resources/2025/12/20/232103/72721.png"
+show_image_url: "Attachments/09892.png"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
+title: "How to Get Rich_ Every Episode"
 ---
+# How to Get Rich_ Every Episode
 # How to Get Rich: Every Episode
-
-![Cover](_media-sync_resources/2025/12/20/232103/83747.png)
+![Cover](../../../Attachments/83747.png)
 
 ## Episode metadata
 - Episode title: How to Get Rich: Every Episode
@@ -38,23 +39,19 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ###  [The Engineer Technology Is Science That Creates Abundance](https://share.snipd.com/snip/97378015-5430-47fa-82ca-01d40d291827) 
-
 🎧 09:14 - 09:20 (00:06)
 
 - True wealth creation comes from creating abundance, not taking from others. 
 -  Everyone can be wealthy, evidenced by the fact that even poor people in developed countries today are wealthier than aristocrats from centuries ago, thanks to advancements in technology.
 
 #### 💬 Quote
-
 > I'd rather be a poor person today than an aristocrat back then. And that's just because of wealth creation.
 > — Naval Ravikant
 
 Naval Ravikant on wealth creation
 
 #### 📚 Transcript
-
 **Naval Ravikant:** rather be a poor person today than an aristocrat back then. And that's just because of wealth creation. The engine of technology
 
 ---

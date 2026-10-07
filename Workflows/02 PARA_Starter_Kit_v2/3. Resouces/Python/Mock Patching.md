@@ -1,3 +1,7 @@
+---
+title: "Mock Patching"
+---
+# Mock Patching
 ## Highlights: 
 `Mock.patch `  will intercept import statements identified by a string, and return a Mock instance you can preconfigure using the techniques we discussed above.
 

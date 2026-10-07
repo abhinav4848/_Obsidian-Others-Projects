@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zUVSwsgstnaSQ5XfxzEjSnF
+title: "Conversation with others often emphasizes the most well-understood elements of an idea"
 ---
 # Conversation with others often emphasizes the most well-understood elements of an idea
-
 There’s an unintuitive danger in talking about an emerging idea with others. The clearest, most familiar parts are the ones which you’ll have the easiest time communicating and which your conversation partner will have the easiest time grasping. Often, those notions are already somewhat mainstream or even clichéd; others are likely to have lots of cached thoughts around that idea, and they’ll tend to interpret it incrementally.
 
 But if you’re doing something original, the most interesting elements are the ones which others—and you!—understand least well. Particularly early on, you may not be able to articulate the new element you’re reaching for very clearly. It may just sound like an unusual adverb choice or an innocuous-seeming qualifier. In any case: because their replies will tend to emphasize the most mainstream elements and pass over the elements you least understand, conversation will often drag you back towards the mainstream. It’s a kind of “regression to the mean” for ideas.

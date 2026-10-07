@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/z2huUCj3ko99HdzFcmEDfZD
+title: "Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes"
 ---
 # Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes
-
 The Apollo program was an incredibly powerful [[Enabling environment]], but it did not emerge from a project aiming to give scientists lots of great opportunities for personal growth. Rather, it was about putting people on the moon (and, er, saving the world from the Soviets). The enabling environment was a byproduct of that deeply meaningful effort.
 
 Likewise, when Pixar created its revolutionary animation tools, many teams had been working on computer graphics for years, but Pixar’s systems emerged from a zealous pursuit of a storytelling dream: [[Pixar’s movies and technology development act as coupled flywheels]]. 

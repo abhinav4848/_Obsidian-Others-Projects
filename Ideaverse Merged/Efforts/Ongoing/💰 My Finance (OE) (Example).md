@@ -11,7 +11,9 @@ tags:
   - map
 aliases:
 - My Finance (OE) (Example)
+title: "💰 My Finance (OE) (Example)"
 ---
+# 💰 My Finance (OE) (Example)
 Keep tabs on your personal finances. 
 Fuzzy areas like [[Ideaverse Merged/Efforts/Ongoing/🌼 My Health (OE) (Example)]] and [[Ideaverse Merged/Efforts/Ongoing/💰 My Finance (OE) (Example)]] are both maps and efforts.
 Here are some areas to consider...

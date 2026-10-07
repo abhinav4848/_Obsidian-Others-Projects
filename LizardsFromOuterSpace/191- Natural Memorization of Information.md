@@ -1,3 +1,7 @@
+---
+title: "191- Natural Memorization of Information"
+---
+# 191- Natural Memorization of Information
 # Natural Memorization of Information
 is the process of creating memories through repeat exposure to information in your environment. This is our default way of learning, as it happens everyday throughout your entire life.
 

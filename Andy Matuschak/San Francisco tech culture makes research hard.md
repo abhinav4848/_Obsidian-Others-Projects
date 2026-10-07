@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/z3DJpNZe7vVd9fsjNGU4S86
+title: "San Francisco tech culture makes research hard"
 ---
 # San Francisco tech culture makes research hard
 I love San Francisco dearly. I love the optimism, the energy, the earnestness, the ambition. But most of the time, the culture here isn’t really what I need to make progress in my research. Often, it’s actively harmful.

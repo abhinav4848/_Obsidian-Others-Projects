@@ -1,8 +1,8 @@
 ---
-URL: https://notes.andymatuschak.org/zVYmgUqqnJD1hduFhHYTkKj?stackedNotes=zQLzzf8VcSgTHn75yiEU7mJ&stackedNotes=z7HFVGjcRSb5fAEEnsJyqak
+URL: ["https://notes.andymatuschak.org/zVYmgUqqnJD1hduFhHYTkKj?stackedNotes=zQLzzf8VcSgTHn75yiEU7mJ&stackedNotes=z7HFVGjcRSb5fAEEnsJyqak", "https://notes.andymatuschak.org/zQLzzf8VcSgTHn75yiEU7mJ"]
+title: "The mnemonic medium can surface “proof of memory” social signals"
 ---
 # The mnemonic medium can surface “proof of memory” social signals
-
 A “like” or “clap” doesn’t tell me much about the value of an article, but if I see that someone I respect has durably memorized 30 details from an article written in the [[Mnemonic medium]], that would be a very strong signal.
 
 Such signals might also create interesting social pressures: if several people are discussing a complex climate issue, and you can see that all of them have durably memorized hundreds of foundational facts about that topic, you might be more likely to go engage with that foundational knowledge before wading in.

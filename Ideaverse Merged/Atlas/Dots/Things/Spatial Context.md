@@ -3,7 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Dots/Things/Benefits of LYT frameworks]]"
 related: []
 created: 2020-06-01
+title: "Spatial Context"
 ---
+# Spatial Context
 The Ancient Greeks and Roman notably relied on their memories to hold onto information. They developed mind palaces and other mnemonic devices. Central to their efforts of recalling things was placing bits of information into a spatial context. 
 
 It turns out we remember things really well if we can place them spatially in our minds. It's an extremely strong form of memory. A term for using a spatial context for memory is called the [[Ideaverse Merged/Atlas/Dots/Things/Method of Loci]].

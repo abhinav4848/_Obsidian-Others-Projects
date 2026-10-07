@@ -1,16 +1,11 @@
 ---
 URL: https://notes.andymatuschak.org/Pomodoro_technique?stackedNotes=z6yUMNozmk9oamZmKFn5Ldh&stackedNotes=z5411exwfs7LDbNHUJoL7vk
+title: "Unskillful attention outside of work hours harms attention during work hours"
 ---
 # Unskillful attention outside of work hours harms attention during work hours
-
-Type of Link: 📝 Article
 Category talked about: 2nd Brain, Learning
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
 
 # **Unskillful attention outside of work hours harms attention during work hours**
-
 It’s tempting to work hard on remaining focused and present during one’s work day, but then to relax afterwards. You’re tired and worn out anyway, so what’s the harm in browsing Twitter mindlessly? It’ll help you rest and relax.
 
 Just practically speaking, I’ve found that this is not true. Intentional attention is a way of being. It’s hard to slip into and out of. Newport suggests that by not being careful about attention outside of work hours, one may be “training” one’s brain to demand instant gratification, not deep thought. This relates to the meditative aspiration of “skillful thought” at all times during the day, not just during meditation.
@@ -24,7 +19,6 @@ Q. Consequence of stimulating myself with the internet during 5 minute Pomodoro
 A. Feels like I’m resetting my depth of focus each pomo. Whereas if I avoid cognitively switching (and just stretch my legs, get water, etc), depth of focus accumulates across pomos.
 
 # References
-
 - Craig Mod, [Offscreen Magazine interview](https://craigmod.com/essays/offscreen_interview/):
     
     > If I wake up and touch my phone, I’ve already lost hours. Not because I’m browsing social media for hours, but because the mind has already been agitated, made unquiet, and the context switch back into thoughtfulness can take the whole morning. In other words, the addict part of my brain takes over and contaminates my ability to be contemplative. I lose the grace to dive into other worlds, the worlds of writing or programming or images.

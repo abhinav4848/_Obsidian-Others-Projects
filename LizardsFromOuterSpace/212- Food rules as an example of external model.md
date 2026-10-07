@@ -1,5 +1,8 @@
+---
+title: "212- Food rules as an example of external model"
+---
+# 212- Food rules as an example of external model
 # Food rules as an example of external model
-
 Food Rules: An Easter’s Manual by Michael Pollan is a small 140 page book on how to eat healthy by a journalist who has been reporting on nutritional science. It is meant to be a “set of straightforward, memorable rules for eating wisely, one per page, accompanied by a concise explanation”.
 
 Regardless of its validity (I know people love to argue about nutrition on the internet), it serves as a nice example of what an externalized model ([055- External Models](055-%20External%20Models.md)) would look like. A [044- Model](044-%20Model.md) (set of rules) is meant to help guide you in decision making (what to eat) around a specific topic (food).

@@ -8,7 +8,9 @@ related:
 created: 2020-06-01
 rank: 4.5
 says: I'm the self-destructive primal tension everybody harbors.
+title: "No-Face"
 ---
+# No-Face
  *The self-destructive primal tension everybody harbors.*  
 
 No-Face is a spirit in the 2001 Japanese animated film Spirited Away. According to [[Hayao Miyazaki]], No-Face is “the libido everybody secretly harbors.” 

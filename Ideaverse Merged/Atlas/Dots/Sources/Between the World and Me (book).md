@@ -25,7 +25,9 @@ bookStatus: read
 rating: 4
 aliases:
 - Between the World and Me
+title: "Between the World and Me (book)"
 ---
+# Between the World and Me (book)
 ![cover|150](http://books.google.com/books/content?id=TV05BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 

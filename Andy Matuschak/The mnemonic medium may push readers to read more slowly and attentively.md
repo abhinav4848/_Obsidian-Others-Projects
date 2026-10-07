@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zMybAxZcdkJHKSATuSZbEhz?stackedNotes=z59PYkSdPeznr95fco4GRQx&stackedNotes=z5aepnaCuu6XiPqB4LgBDkH
+title: "The mnemonic medium may push readers to read more slowly and attentively"
 ---
 # The mnemonic medium may push readers to read more slowly and attentively
-
 In interviews, [[Quantum Country]] readers have variously told us that the embedded questions ([[Mnemonic medium prompts are interleaved into the reading experience]]) push them to read more carefully, or that the questions help them notice when their focus isn’t sharp. Leaving aside the direct effect of the prompts on memory, the [[Mnemonic medium]]’s questions may simply help readers slow down and pay attention when they read. [[Understanding requires effortful engagement]], so this effect may produce deeper understanding. Or more simply, it may promote basic reading comprehension: [[People often struggle to remember details of prose text because they never processed them in the first place]]. 
 
 It’s not clear whether this fully explains the general finding that [[Asking people questions while they read a text improves performance on untested contents]], or whether there’s some other mechanism in play there.

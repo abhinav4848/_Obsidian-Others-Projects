@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zKBhqUkoRWoNV72aG21GYst?stackedNotes=zKzUzQENhyEDnuwPUhh2EQM&stackedNotes=zEr7kCcH6zUUroDJBwDj2n5
+title: "How to process reading annotations into evergreen notes"
 ---
 # How to process reading annotations into evergreen notes
 It’s important to [[Write about what you read to internalize texts deeply]]. While reading, you’ve marked passages that seem relevant, and you’ve scribbled notes with your thoughts ([[How to collect observations while reading]]). Now we’ll process all that into lasting notes.

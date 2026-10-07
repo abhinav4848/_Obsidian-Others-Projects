@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zGNVRh1q5gGeF88PbmYu4BB?stackedNotes=z9MxCsvv8DcHndqRECbxrRi&stackedNotes=zKubRcJXKjiCDPsPgJWckkP
+title: "Enacted experiences can bootstrap active participation in enabling environments"
 ---
 # Enacted experiences can bootstrap active participation in enabling environments
-
 [[Enabling environments focus on doing what’s enabled]], but [[Novices in enabling environments often can’t do what’s enabled]]. A well-designed [[Enacted experience]] can allow participants to immediately experience _doing_ what an environment enables.
 
 For instance, say a software company has special testing infrastructure which enables their engineers to make large changes confidently. A manager might introduce a new engineer to that infrastructure by assigning him a feature which the manager knows will require modifying well-tested code. The engineer will see that adjacent code includes references to the testing framework and will integrate his new feature accordingly. Code review might create useful discussions about the tests. The testing infrastructure enables the engineer to land his new feature confidently. Because of this experience, he can test future features with ease.

@@ -9,7 +9,9 @@ tags:
   - note/develop🍃
 rank: 5
 says: I am the bumper guards for the bowling ball.
+title: "Forcing Function"
 ---
+# Forcing Function
 Generally speaking, 
 *I am the bumper guards for the bowling ball.*
 but if used smartly,

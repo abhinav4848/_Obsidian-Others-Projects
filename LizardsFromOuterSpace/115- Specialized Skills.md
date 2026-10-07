@@ -1,2 +1,6 @@
+---
+title: "115- Specialized Skills"
+---
+# 115- Specialized Skills
 # Specialized Skills
 are the unique or highly developed skills you picked up over your life. They can be widespread skills that you just excel at on an unbelievable level (e.g. screen writing or guitar) or more specialized ones such as methodological, statistical and critical thinking skills.

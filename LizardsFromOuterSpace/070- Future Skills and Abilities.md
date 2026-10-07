@@ -1,3 +1,7 @@
+---
+title: "070- Future Skills and Abilities"
+---
+# 070- Future Skills and Abilities
 # Future Skills and Abilities
 Professionals of the future need to adopt more flexibility in how they work.
 

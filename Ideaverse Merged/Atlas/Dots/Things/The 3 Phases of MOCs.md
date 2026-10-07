@@ -2,7 +2,9 @@
 related:
   - "[[Ideaverse Merged/Atlas/Dots/Things/MOCs Overview]]"
 created: 2020-06-01
+title: "The 3 Phases of MOCs"
 ---
+# The 3 Phases of MOCs
 Welcome to the walkthrough on MOCs. Maps of Content are one of the ultimate thinking tools. But how do you unlock this new superpower?
 
 In the real world it looks like this: you read something interesting on a topic—let's say on "habits"—and you make a note. 

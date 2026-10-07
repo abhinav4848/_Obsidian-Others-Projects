@@ -3,7 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Dots/Things/Habits MOC - Gather]]"
 related: []
 created: 2020-06-01
+title: "The truest habit metaphors are additive - v1"
 ---
+# The truest habit metaphors are additive - v1
 There are two metaphorical ways to talk about habits: additive and subtractive.
 
 **Subtractive**

@@ -1,9 +1,12 @@
+---
+title: "Vocals MOC"
+---
+# Vocals MOC
 tags: #vocals
 links: [[000 Index|Index]], [[040 Interests MOC|Interests]]
 
 ---
 # Vocals
-
 ### Notable Links
 Vocals - 50 Tongue Twisters [[201701040825]] 
 

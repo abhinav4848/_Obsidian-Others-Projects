@@ -19,6 +19,7 @@ yearXP:
 yearXPL: 
 bookStatus: 
 rating:
+title: "Book Template"
 ---
-
+# Book Template
 ![image|150]({{coverUrl}})

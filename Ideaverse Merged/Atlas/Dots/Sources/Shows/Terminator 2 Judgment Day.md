@@ -27,6 +27,8 @@ yearXP: 2003
 yearXPL: 2021
 showStatus: watched
 rating: 5.4
+title: "Terminator 2 Judgment Day"
 ---
+# Terminator 2 Judgment Day
 ![poster](https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg)
 

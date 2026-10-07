@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zKKB5ENRahwftH96H7mijiu?stackedNotes=zRHGYaDyQDBypztBaFYZgtR&stackedNotes=z4GDrXLY7RaUDcvZLim3mfA
+title: "Gall’s law"
 ---
 # Gall’s law
-
 From Systemantics: How Systems Really Work and How They Fail:
 
 > A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system.

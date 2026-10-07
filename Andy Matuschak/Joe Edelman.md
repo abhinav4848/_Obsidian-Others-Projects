@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/z5URdYxJwnM5TVhQnbZER8b?stackedNotes=zWzai58V4EEmGDVHTEv7g61&stackedNotes=zTXJ65qqaMUbMi95Ak4a3mu
+title: "Joe Edelman"
 ---
 # Joe Edelman
 [Personal web site](https://nxhx.org/)

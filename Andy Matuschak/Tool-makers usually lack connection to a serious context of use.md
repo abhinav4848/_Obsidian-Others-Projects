@@ -1,7 +1,9 @@
 ---
 URL: https://notes.andymatuschak.org/z7EQ2nVGus5B1rS9CqT18g6?stackedNotes=z7vdiuQK7HuFyi4V5EemF3e
+title: "Tool-makers usually lack connection to a serious context of use"
 ---
-People making [Tools for thought](https://notes.andymatuschak.org/z88M2wwQ8FggV7p8Wu1b8LG) (*not relevant to link*) often say they’re trying to help people do math, or make art, or whatever. But in reality, the people making these tools are rarely connected very deeply with the actual creative practices they’re trying to amplify. The work is often more of a tech demo or a toy or a “sandbox.” As we wrote in _How can we develop transformative tools for thought?_: “Tools for writing that aren’t used by actual writers. Tools for mathematics that aren’t used by actual mathematicians.” Deep down, such system designers are generally _developing a system for its own sake_—not because there’s some creative problem they’re desperately trying to solve.
+# Tool-makers usually lack connection to a serious context of use
+People making [[Andy Matuschak/Tools for thought|Tools for thought]] (*not relevant to link*) often say they’re trying to help people do math, or make art, or whatever. But in reality, the people making these tools are rarely connected very deeply with the actual creative practices they’re trying to amplify. The work is often more of a tech demo or a toy or a “sandbox.” As we wrote in _How can we develop transformative tools for thought?_: “Tools for writing that aren’t used by actual writers. Tools for mathematics that aren’t used by actual mathematicians.” Deep down, such system designers are generally _developing a system for its own sake_—not because there’s some creative problem they’re desperately trying to solve.
 
 Such tools might look mathematical (or whatever) on their surface, but they’re not seriously trying to answer hard problems in those domains—often because the creators don’t actually know what those problems are or understand how to solve them. [[Effective system design requires insights drawn from serious contexts of use]].  
 

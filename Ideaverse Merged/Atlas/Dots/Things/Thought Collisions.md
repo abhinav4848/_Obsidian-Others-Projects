@@ -3,7 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Dots/Statements/MOCs are both workbenches and maps]]"
 related: []
 created: 2020-06-01
+title: "Thought Collisions"
 ---
+# Thought Collisions
 Ideas are forged from thoughts coming together and talking. 
 
 Why not figure out a way to have related thoughts talk to each other more frequently—and at a higher level of intensity?

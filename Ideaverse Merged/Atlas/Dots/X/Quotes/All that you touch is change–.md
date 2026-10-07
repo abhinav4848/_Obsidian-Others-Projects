@@ -6,8 +6,9 @@ by:
 related:
 created: 2023-11-27
 rank: 4.6
+title: "All that you touch is change–"
 ---
- 
+# All that you touch is change–
 All that you touch  
 You Change.  
 

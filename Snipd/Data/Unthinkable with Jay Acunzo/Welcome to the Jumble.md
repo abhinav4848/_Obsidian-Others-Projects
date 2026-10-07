@@ -12,9 +12,9 @@ show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fim
 episode_export_date: "2026-01-29T19:30:35"
 snips_count: 1
 from_snipd: true
+title: "Welcome to the Jumble"
 ---
 # Welcome to the Jumble
-
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F36523eae-abdb-4f73-b605-638a7dbe61cf%2Fca5af44f-cd37-45e1-bf17-f7ede300eabd%2F3000x3000%2Funthinkable-cover-art.jpg%3Faid%3Drss_feed&w=500&h=500)
 
 ## Episode metadata
@@ -29,9 +29,7 @@ from_snipd: true
 - Export date: 2026-01-29T19:30:35
 
 ## Snips
-
 ###  [Questioning the Show](https://share.snipd.com/snip/ddb03a07-962d-466d-8765-29af8bf04de0) 
-
 🎧 00:21 - 00:33 (00:12)
 
 <iframe
@@ -46,14 +44,12 @@ from_snipd: true
 - They've been thinking all summer about whether they want to continue doing the show.
 
 #### 💬 Quote
-
 > I've never told anybody this, but for about three months or so...all summer long. I have been thinking about whether or not I want to keep doing this show.
 > — Speaker 4
 
 Speaker 4 is thinking about the future of their show.
 
 #### 📚 Transcript
-
 neighborhood outside of Boston.
 
 And I've never told anybody this, but for about

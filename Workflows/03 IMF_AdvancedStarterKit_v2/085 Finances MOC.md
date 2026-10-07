@@ -1,3 +1,7 @@
+---
+title: "085 Finances MOC"
+---
+# 085 Finances MOC
 tags: #MOC #finances #accounts #realestate
 links: [[000 Index|Index]], [[085 Finances MOC|Finances]] 
 

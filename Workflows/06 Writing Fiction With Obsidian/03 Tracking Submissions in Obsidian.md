@@ -1,3 +1,7 @@
+---
+title: "03 Tracking Submissions in Obsidian"
+---
+# 03 Tracking Submissions in Obsidian
 Not only can you use Obsidian for writing, you can also use it for tracking submissions for publication. 
 
 Disclaimer: I'm a writer of Science Fiction, mostly, and the publication process for that is slightly different than it is for non-genre work. These things should still work for you if you're shooting for _The New Yorker_, but I probably have some blind spots you'll hit. 
@@ -6,7 +10,6 @@ Disclaimer: I'm a writer of Science Fiction, mostly, and the publication process
 --- 
 
 # Tracking Submissions with Obsidian
-
 A lot of what I write is short fiction, and a lot of the process of writing short fiction is submitting it to places for publication. And a big part of *that* is tracking what stories you've submitted where, whether they were rejected or had edits requested, how long the market took getting back to you, and a host of other logistical details that prevent you from embarrassing mishaps. The question of how to track submissions is one that is probably as old as Gutenberg (I'm pretty sure most of the medieval monasteries were In House Only).
 
 Most writers use spreadsheets, and this is a tried and true method that allows for ease of cross-referencing and locating information. But, as I am perversely determined to use plain text for everything, and one of the strengths of Obsidian is ease of cross-referencing, I'm doing it this way and finding it works quite well.  

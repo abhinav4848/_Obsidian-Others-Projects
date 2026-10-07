@@ -9,8 +9,9 @@ tags:
   - output/youtube☑️
 URLs:
   - https://www.youtube.com/watch?v=Q2WBHyqRsxA
+title: "PKM Planet 1 - What is PKM"
 ---
-
+# PKM Planet 1 - What is PKM
 [What is PKM? What is Personal Knowledge Management?](https://www.youtube.com/watch?v=Q2WBHyqRsxA)   
 
 ---
@@ -21,7 +22,6 @@ URLs:
 ###### Start Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q2WBHyqRsxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ###### End Video
-
 # What is PKM
 ## Intro
 ### New intro

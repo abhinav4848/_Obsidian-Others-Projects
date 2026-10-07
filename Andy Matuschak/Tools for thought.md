@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zT2CnA38ERsCY2NKGw2thSL?stackedNotes=zCPXepV6zuoDDGosHBY62ai&stackedNotes=z88M2wwQ8FggV7p8Wu1b8LG
+title: "Tools for thought"
 ---
 # Tools for thought
 Term originated in [Iverson, K. E. (1980). Notation as a tool of thought. Communications of the ACM, 23(8), 444–465](https://notes.andymatuschak.org/zPFGhgNNtk6xv6qVdRJ1FVs)

@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zKGjQtsTKgscAoq271ZzKqw?stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB
+title: "Evergreen note-writing as fundamental unit of knowledge work"
 ---
 # Evergreen note-writing as fundamental unit of knowledge work
 If you had to set one metric to use as a leading indicator for yourself as a knowledge worker, the best I know might be the number of Evergreen notes written per day. Note-writing can be a virtuosic skill, but Most people use notes as a bucket for storage or scratch thoughts and Note-writing practices are generally ineffective.

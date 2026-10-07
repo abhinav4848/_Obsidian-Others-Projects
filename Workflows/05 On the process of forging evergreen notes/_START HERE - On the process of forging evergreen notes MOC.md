@@ -1,5 +1,8 @@
+---
+title: "_START HERE - On the process of forging evergreen notes MOC"
+---
+# _START HERE - On the process of forging evergreen notes MOC
 # On the process of forging evergreen notes
-
 ### 1 Making an Evergreen Note
 - I pulled in this old note from my pre-Obsidian zettelkasten. I put it in a "Incubation" folder.
 	- [[201502201713 Habit Concepts and Theory]]

@@ -5,7 +5,9 @@ related:
   - "[[Ideaverse Merged/Atlas/Dots/Statements/Why Efforts are Liberating]]"
   - "[[Ideaverse Merged/Atlas/Dots/Statements/How ideas and efforts play nicely together]]"
 created: 2022-09-01
+title: "The Four Intensities of Efforts"
 ---
+# The Four Intensities of Efforts
 There are four useful intensities for your efforts. 
 
 - 🔥 `On`: For the most active efforts & projects

@@ -1,4 +1,7 @@
-
+---
+title: "PARA Notes"
+---
+# PARA Notes
 ## P.A.R.A
 P.rojects
 A.reas

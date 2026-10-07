@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/z8d1Rq2d13fdQCjQiWzJybD?stackedNotes=z21VhT726p7bX8JcGM41QSA&stackedNotes=zY3RYK9gJ6eDnq27vSwBDQh
+title: "Patron letters on memory system experiments"
 ---
 I've abandoned doing these as they feel irrelevant
 

@@ -8,16 +8,16 @@ episode_publish_date: 2023-10-17
 last_snip_date: 2024-01-29
 episode_duration_minutes: 48
 episode_url: "https://share.snipd.com/episode/368f3765-d17e-49dc-a948-51eb6177f95e"
-image_url: "_media-sync_resources/2025/12/20/231918/89219.jpeg"
+image_url: "Attachments/89219.jpeg"
 show_url: "https://share.snipd.com/show/1081b0ab-c1d9-4586-8670-15642cc32f91"
-show_image_url: "_media-sync_resources/2025/12/20/231918/64605.jpeg"
+show_image_url: "Attachments/64605.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 2
 from_snipd: true
+title: "From Broke Student to £4.8 Million Portfolio with Ahmed Khan"
 ---
 # From Broke Student to £4.8 Million Portfolio with Ahmed Khan
-
-![Cover](_media-sync_resources/2025/12/20/231918/49771.jpeg)
+![Cover](../../../Attachments/49771.jpeg)
 
 ## Episode metadata
 - Episode title: From Broke Student to £4.8 Million Portfolio with Ahmed Khan
@@ -32,15 +32,12 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ###  [Diminishing Returns in Property Development Learning](https://share.snipd.com/snip/88cbc155-6497-4aef-b4fa-6687b7e6ffce) 
-
 🎧 25:32 - 26:45 (01:13)
 
 In property development, the learning curve applies across different project scales. Transitioning from one project scale to another provides diminishing returns in learning, as a majority of the knowledge and processes remain the same. For example, transitioning from converting a one bed into a two bed to converting a house into two flats yields a significant portion of the learning curve, with the main additional knowledge being how to obtain planning permission. This trend continues as the scale of projects increases, where additional knowledge required for each transition diminishes. This contrasts with other professions where experience does not proportionally increase knowledge, and is more in line with diminishing returns, similar to the concept of someone having twice as much knowledge after a property course compared to someone without any knowledge.
 
 #### 📚 Transcript
-
 I haven't started with the easy stuff. Anybody can learn and grow as they go.
 
 I think what happens is, you know, even if you do something very simple and property, let's just say you buy a one bed and you turn into a two bed, you still get like 85% of the learning curve because whether you turn a house into six flats or you do a one bed into a two bed, the finance is the same, the legal process is the same. You know, the way you work out the comparables, you know, the final value, 90% of it is the same. So funnily enough, when I went from doing one bed into two beds, let's say I learned 85%. When you then go from that to turning a house into two flats, the only additional thing you need to know is how to get planning permission. The rest is exactly the same. When you go from a house into two to house into four, the only additional thing is how do I do a side extension? When you go from a four into a five, that side extension becomes a slightly larger side extension. But it's not like, for example, you know, if you work as a doctor or something and you have 10 years of experience and someone has one year of experience, the guy with 10 years of experience is not like they know 10 times as much. They might know twice as much because it's diminishing. Everything is diminishing. It's like, you know, for example, if someone does your property course, right, you might know twice as much of them.
@@ -48,13 +45,11 @@ I think what happens is, you know, even if you do something very simple and prop
 ---
 
 ###  [Progression and Perspective in Property Development](https://share.snipd.com/snip/f33c320b-0c72-4fa4-b239-e14230877125) 
-
 🎧 34:54 - 35:42 (00:48)
 
 The speaker has progressed from converting one bed flats into two bed flats to turning houses into multiple flats. They are currently considering purchasing property to turn into nine flats, which would be their next stepping stone. The speaker notes that with each successful project, their perspective on what they can achieve expands, as they gain more confidence in their abilities.
 
 #### 📚 Transcript
-
 So
 
 you've moved from rent to rent to turn in one bed flats into two bed flats to turn in one house into two flats. Two flats. Two flats. The turn in a house into four flats to turn a house into five flats. What's next on your stepping stone? Where it

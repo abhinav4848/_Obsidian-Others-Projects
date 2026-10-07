@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zLCdZ9xcHzjks8vgoGkycSr?stackedNotes=zXMrq3eeGJSZV9BqX1E35ex&stackedNotes=z3PJFWDZ7gar2ttawQTmBek
+title: "Enabling environments’ activities directly serve an intrinsically meaningful purpose"
 ---
 # Enabling environments’ activities directly serve an intrinsically meaningful purpose
 When designing an [[Enabling environment]], it’s tempting to fixate on the skills or understandings being developed or amplified. This approach generally subverts its own aims. The most successful enabling environments comprise activities which are primarily about those skills or understandings are *for.* (See [[Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes]], [[Enabling environments focus on doing what’s enabled]])
@@ -17,7 +18,6 @@ Educational environments may ultimately aspire to intrinsically meaningful purpo
 For more: [[Educational objectives often subvert themselves]]. 
 
 # Reference
-
 Andy Matuschak’s Email with Michael Nielsen, 2019/08/23. Re: Transcending the Primer
 
 > Of course, in some sense I’m quite enamoured of goals like “enabling people” … But I’m also very suspicious of such goals. I think > 99.9% of the time they end up patronizing. The only thing I know of which consistently gets away from that failure pattern is to make the primary goal something else, something that’s intrinsically important.

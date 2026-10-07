@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zSiuztCZ594AZuCweRghcXT?stackedNotes=zJoWJEpRvrjnm2zL3gdxBjg&stackedNotes=zSisETSpZBCgZH4rFNHRcnC
+title: "Application prompts should vary when repeated"
 ---
 # Application prompts should vary when repeated
 [[The mnemonic medium can help readers apply what they’ve learned through simple application prompts]], but [[Answers to application prompts shouldn’t be drawn from memory]]. Our simple solution is that we’ll ask readers different questions each time, so that readers are always computing the answer anew.

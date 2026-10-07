@@ -5,7 +5,9 @@ related:
   - "[[Ideaverse Merged/Atlas/Dots/Statements/Why Efforts are Liberating]]"
   - "[[Ideaverse Merged/Atlas/Dots/Statements/How ideas and efforts play nicely together]]"
 created: 2022-09-01
+title: "The big differences between efforts and projects"
 ---
+# The big differences between efforts and projects
 Let's get the definitions right:
 
 > A **project** is a sequence of tasks that must be completed within a defined timeline to attain a certain outcome.

@@ -4,8 +4,9 @@ up:
 created: 2021-03-07
 tags:
   - output/newsletter
+title: "LYT Notes 3 (Example)"
 ---
-
+# LYT Notes 3 (Example)
 # Pace Layers, Idea Emergence, and the "Long Now"
 These LYT Notes aren't just about spewing out 20 different shiny links to click on. They are about enriching our point of view on valuable things—long after we initially encounter them. 
 

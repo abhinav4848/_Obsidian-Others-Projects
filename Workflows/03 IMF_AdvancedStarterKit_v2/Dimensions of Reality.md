@@ -1,7 +1,7 @@
-
-
+---
+title: "Dimensions of Reality"
+---
 # Dimensions of Reality
-
 ## Themes
 - Knowing vs *Knowing*
 - the choice of liberation

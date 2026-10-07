@@ -1,8 +1,9 @@
 ---
 URL: https://notes.andymatuschak.org/zMhuu3pPa6FeNGYn3VfGCar?stackedNotes=z8aBPhjq7R6o8cwVNjzfDdr&stackedNotes=zQgeXp15RWkzyiUv9WQsLtA
+title: "Cognitive apprenticeship"
 ---
 # Cognitive apprenticeship
-Concept proposed by Allan Collins, [John Seely Brown](https://notes.andymatuschak.org/zFQ8beSWt5erQJnz8265Va2), and Susan Newman in the late 80’s. Heavily influenced by [[Situated learning]], the authors propose to solve [Transfer learning](https://notes.andymatuschak.org/z7ffiDfqTR9pPcEEUUbCL7C) and to help students acquire the [[Tacit knowledge]] involved in real practice by using techniques of [Apprenticeship](https://notes.andymatuschak.org/z8aBPhjq7R6o8cwVNjzfDdr) in cognitive domains (math, reading, writing).
+Concept proposed by Allan Collins, [John Seely Brown](https://notes.andymatuschak.org/zFQ8beSWt5erQJnz8265Va2), and Susan Newman in the late 80’s. Heavily influenced by [[Situated learning]], the authors propose to solve [[Andy Matuschak/Transfer learning|Transfer learning]] and to help students acquire the [[Tacit knowledge]] involved in real practice by using techniques of [[Andy Matuschak/Apprenticeship|Apprenticeship]] in cognitive domains (math, reading, writing).
 
 They suggest three main elements:
 - Modeling (observing the master executing some target task, ideally while externalizing their thoughts)
@@ -21,7 +22,7 @@ In practice, I find myself pretty unconvinced by the case studies of instruction
 
 The phrase seems to have been mostly fallen out of the literature by the end of the 90’s, though I notice that many of these ideas are roughly absorbed into NCTM’s mathematical discussion practices. The authors aspired to absorb these ideas in [Intelligent tutoring system](https://notes.andymatuschak.org/zBy91z6f7RW6wn8iagJyCqG), but it seems like quite a gulf to me.
 
-[Anchored instruction](https://notes.andymatuschak.org/zHZJPK2nrvAzRstzA6XdmoG) is a related contemporaneous concept. It’s less rooted in the sociological ideas of [Situated learning](https://notes.andymatuschak.org/zL7XdosCZ9qeCSSCrhcYfwY), and the anchored instruction teacher is more a facilitator than a model practitioner.
+[Anchored instruction](https://notes.andymatuschak.org/zHZJPK2nrvAzRstzA6XdmoG) is a related contemporaneous concept. It’s less rooted in the sociological ideas of [[Andy Matuschak/Situated learning|Situated learning]], and the anchored instruction teacher is more a facilitator than a model practitioner.
 
 ## Questions
 - What failed, exactly? Instructional designers don’t really talk about this anymore. Why not?

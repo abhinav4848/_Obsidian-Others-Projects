@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/z5zoV8TdSds59vQEkqp3JEz
+title: "Get curious"
 ---
 # Get curious
 An exhortation. When I find myself lost in tiny details, focused on execution over wondering and big-picture questions, I try to remind myself to *get curious.* My default mode, having spent so many years as a technologist, is to focus on *tasks,* on *doing,* on *accomplishing.* That’s often necessary to meaningful intellectual creative work, but it’s certainly not sufficient. Too much doing-focus will crowd out the expansive mindset which generates new insights. [[It’s hard to hear yourself think]].

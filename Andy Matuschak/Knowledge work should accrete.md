@@ -1,3 +1,7 @@
+---
+URL: "https://notes.andymatuschak.org/zTn3g4wTm1hbkNFUvLLjpev"
+title: "Knowledge work should accrete"
+---
 # Knowledge work should accrete
 Many activities in [[068- Knowledge work]] seem to be ephemeral efforts, their outputs mostly discarded after they’re completed.
 

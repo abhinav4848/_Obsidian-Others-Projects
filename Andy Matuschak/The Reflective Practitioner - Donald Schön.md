@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zQgeXp15RWkzyiUv9WQsLtA?stackedNotes=zMdKRBZStQ4tCJJhomSYxvG&stackedNotes=z5wZoGy72FafNGd1AHgtghs
+title: "The Reflective Practitioner - Donald Schön"
 ---
 # The Reflective Practitioner - Donald Schön
 The thesis, much compressed: Practitioners in ill-structured domains (arts, managers, engineers, planners, etc) work in ways which can’t be reduced to technical knowledge and rational procedures, as schools have increasingly tried (and failed) to do. But expertise is real: these practitioners do have important and often consistent kinds of knowledge and methods. Their knowing is tied up in action (“knowing-in-practice”), resisting abstraction and decontextualization. They deal with highly contingent problems by reflecting on the observed consequences of their moves (“reflection-in-action”) and on their approach to the problem (“reflection-on-action”). This iteration is related to scientific experimentation, but generally aims to produce forward momentum, rather than rigorous universal conclusions.

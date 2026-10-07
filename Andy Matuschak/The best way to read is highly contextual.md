@@ -1,5 +1,7 @@
+---
+title: "The best way to read is highly contextual"
+---
 # The best way to read is highly contextual
-
 How a book should best be read depends a great deal on the book, the reader, and the context. You’ll read some texts essentially just for entertainment; some you’ll skip around and mine for gems ([[Skilful reading is often non-linear]]); others you’ll want to deeply internalize (e.g. [[Write about what you read to internalize texts deeply]]). Some of this variance is explained by the work itself, but much depends on your motivations and feelings as the reader. 
 
 As Adler and van Doren put it: “Every book should be read no more slowly than it deserves, and no more quickly than you can read it with satisfaction and comprehension.” (p. 43) I find this incredibly difficult to do in practice! It requires active monitoring and self-control to adjust the speed according to my interest and comprehension in the moment.

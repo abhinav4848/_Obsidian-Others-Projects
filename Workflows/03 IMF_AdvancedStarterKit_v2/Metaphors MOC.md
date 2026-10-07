@@ -1,3 +1,6 @@
+---
+title: "Metaphors MOC"
+---
 tags: #metaphors #MOC #PKM
 links: [[055 Figures MOC|Figures]]
 

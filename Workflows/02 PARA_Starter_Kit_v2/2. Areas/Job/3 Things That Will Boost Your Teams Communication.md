@@ -1,3 +1,7 @@
+---
+title: "3 Things That Will Boost Your Teams Communication"
+---
+# 3 Things That Will Boost Your Teams Communication
 https://www.entrepreneur.com/article/341573
 
 Most full-time workers spend about 40 hours each week on the job, accounting for roughly 35 percent of their waking moments. That’s a huge emotional, physical and mental commitment. Accordingly, greater numbers of employees are seeking jobs at places where they can feel at home and forge real relationships.

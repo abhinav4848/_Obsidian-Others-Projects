@@ -1,3 +1,7 @@
+---
+title: "074- Creation of Knowledge"
+---
+# 074- Creation of Knowledge
 Creation of [[073- Knowledge]] - There are two different ways I think about the creation of knowledge, a private and public way.
 
 The first is the **private creation of knowledge**, which is essentially learning. It means taking information and going through the memory process ([[029- Core Note Functions in Memory]]), which turns it into knowledge. This can be done on a [shallow level](https://www.wikiwand.com/en/Rote_learning), which is necessary but not sufficient (spin off into 17b1 #todo). In contrast, when done correctly, you are going one step further and structure building ([[052- Structure building framework]]) with the information.

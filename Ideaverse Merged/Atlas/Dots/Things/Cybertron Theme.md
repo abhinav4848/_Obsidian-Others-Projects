@@ -4,8 +4,9 @@ up:
 related: []
 created: 2020-01-12
 dates: 2020 - 2022
+title: "Cybertron Theme"
 ---
-
+# Cybertron Theme
 > [!NOTE]+ Should I use Cybertron or LYT Mode?
 > You should use the [[Ideaverse Merged/Atlas/Dots/Things/LYT Mode Theme]]. 
 > 

@@ -4,8 +4,9 @@ up:
 related:
   - "[[Ideaverse Merged/Atlas/Dots/Things/Feedback Loop]]"
 created: 2020-06-01
+title: "Habits carry a ton of hidden inertia"
 ---
-
+# Habits carry a ton of hidden inertia
 While some [[Ideaverse Merged/Atlas/Dots/Things/Feedback Loop]]s show immediate results, many times progress is hidden until much further along in time. This type of progress, where it's not obvious and visible is basically "hidden inertia". 
 
 > [!NOTE]- Some links and content in this note have been removed.

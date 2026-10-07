@@ -4,8 +4,9 @@ up:
 related: []
 created: 2022-05-11
 modified: 2023-08-25
+title: "Ideaverse for Obsidian - Release Notes"
 ---
-
+# Ideaverse for Obsidian - Release Notes
 # Ideaverse for Obsidian 1.0 - Release Notes
 *Released 2023-08-30*
 **Headlines**

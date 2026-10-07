@@ -3,8 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Dots/Things/FlowCreation MOC]]"
 related: []
 created: 2020-06-01
+title: "Enthusiasm (re Flow)"
 ---
-
+# Enthusiasm (re Flow)
 ### Recipes to Help a Lack of Enthusiasm
 Reconnect with something that excites you that you are working towards
 

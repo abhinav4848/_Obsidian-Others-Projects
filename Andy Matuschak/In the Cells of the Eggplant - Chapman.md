@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zENFxxXLVZqyJz2qaXxuy2p?stackedNotes=z4jRNWgKHL9dq1fH9qq3JhM&stackedNotes=zAQj4GEE7PWDDcSreCGHTP9
+title: "In the Cells of the Eggplant - Chapman"
 ---
 # In the Cells of the Eggplant - Chapman
-
 ## Meta-rationality: an introduction
 [Meta-rationality: An introduction | Meaningness](https://meaningness.com/eggplant/introduction)
 

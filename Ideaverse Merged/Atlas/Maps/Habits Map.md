@@ -4,7 +4,9 @@ related:
 created: 2023-08-19
 in:
   - "[[Ideaverse Merged/Atlas/Maps/Maps]]"
+title: "Habits Map"
 ---
+# Habits Map
  *I am an unrelenting evolutionary adaptation—whether you like it or not!*
 
 > [!NOTE]- Navigate with your new Map of Content (MOC)

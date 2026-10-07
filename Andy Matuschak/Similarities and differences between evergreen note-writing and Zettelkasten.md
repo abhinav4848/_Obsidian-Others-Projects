@@ -1,7 +1,10 @@
+---
+title: "Similarities and differences between evergreen note-writing and Zettelkasten"
+---
+# Similarities and differences between evergreen note-writing and Zettelkasten
 My practice of writing [[Andy Matuschak/Evergreen Notes|Evergreen Notes]] is heavily inspired by Niklas Luhmann’s [[Zettelkasten]] practice and its contemporary advocates. I use a different term both because there are some distinctions and because I want to give myself space to explore ideas in this space apart from the culture surrounding Zettelkasten, which has its own prior values and proclivities. 
 
 ## Key similarities:
-
 - concept-orientation ([[Evergreen notes should be concept-oriented]])
 - atomicity ([[Evergreen notes should be atomic]])
 - emphasis on linkage ([[Evergreen notes should be densely linked]])
@@ -10,7 +13,6 @@ My practice of writing [[Andy Matuschak/Evergreen Notes|Evergreen Notes]] is h
     - emphasis on using one’s own words, even when describing others’ ideas ([[Write about what you read to internalize texts deeply]])
 
 ## Key differences:
-
 - My approach includes a few methods surrounding the note-writing which expand its scope:
     - a method for capturing scraps which would not yet qualify as Zettel, then revising them over time: [[A writing inbox for transient and incomplete notes]]
     - an unusual method for managing that inbox: [[Spaced repetition can lower the stakes around destructive inbox-maintenance operations]]

@@ -4,7 +4,9 @@ up:
 related:
   - "[[Ideaverse Merged/Atlas/Dots/Statements/Why Efforts are Liberating]]"
 created: 2023-11-01
+title: "Effort Maestro"
 ---
+# Effort Maestro
  A maestro balances the intensity and mix of the music. We are doing the same with our efforts. There are four useful intensities for your efforts. 
 
 - 🔥 `On`: For the most active efforts & projects

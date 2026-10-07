@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zSNDTj75ULnYMo7pGm2Frg7?stackedNotes=z4exmF6rnZTE9GjCnpFBKUT&stackedNotes=z2V9HnsFTZAKMHmoMsWboHx
+title: "Guided meditation apps deliver enabling environments in a mass medium"
 ---
 # Guided meditation apps deliver enabling environments in a mass medium
-
 Much more than typical “learning apps,” a [[Guided meditation app]] is often a legitimate [[Enabling environment]].
 
 - They’re generally focused on deeply meaningful growth (understanding the nature of mind and of being), rather than on skill-building: [[Enabling environments focus on creating opportunities for growth and action, not on skill-building]]

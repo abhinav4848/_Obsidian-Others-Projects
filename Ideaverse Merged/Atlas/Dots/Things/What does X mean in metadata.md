@@ -3,7 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Maps/Meta PKM]]"
 related: []
 created: 2020-06-01
+title: "What does X mean in metadata"
 ---
+# What does X mean in metadata
 Although "X" is not a word, it can quickly be intuited. 
 
 - X is a connection. An intersection. 

@@ -1,3 +1,7 @@
+---
+title: "060 Writings MOC"
+---
+# 060 Writings MOC
 tags: #writings #MOC
 links: [[000 Index|Index]], [[060 Writings MOC|Writings]], [[070 Journal MOC|Journal]]
 

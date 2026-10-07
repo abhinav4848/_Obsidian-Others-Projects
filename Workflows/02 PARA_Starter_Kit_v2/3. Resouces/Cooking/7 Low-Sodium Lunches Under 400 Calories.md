@@ -1,3 +1,7 @@
+---
+title: "7 Low-Sodium Lunches Under 400 Calories"
+---
+# 7 Low-Sodium Lunches Under 400 Calories
 **1. [SLOW COOKER CHICKEN ADOBO WITH PINEAPPLE](https://blog.myfitnesspal.com/slow-cooker-chicken-adobo-with-pineapple/) MYFITNESSPAL'S RECIPES**
 
 Nutrition (per serving): Calories: 340; Total Fat: 14g; Saturated

@@ -1,12 +1,8 @@
 ---
 created: {{date}} 
+title: "Daily Template w ± 1 Week Window"
 ---
-
-
-
-
-
-
+# Daily Template w ± 1 Week Window
 >[!calendar]+ Calendar Time Window (± 7 days)
 > These are the calendar notes created in the 7 days before & after this note.
 > 

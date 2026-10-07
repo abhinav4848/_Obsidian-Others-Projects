@@ -12,9 +12,10 @@ show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcas
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
+title: "Ketamine_ Benefits and Risks for Depression, PTSD & Neuroplasticity"
 ---
+# Ketamine_ Benefits and Risks for Depression, PTSD & Neuroplasticity
 # Ketamine: Benefits and Risks for Depression, PTSD & Neuroplasticity
-
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F042e6144-725e-11ec-a75d-c38f702aecad%2Fimage%2Fee4f0b7b466ca35620792970d9bce2d2.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=200&h=200)
 
 ## Episode metadata
@@ -29,9 +30,7 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ###  [Exploring Different Dosage Regimens for Ketamine Treatment in Depression](https://share.snipd.com/snip/fa7b7ceb-0d35-4a82-adbd-8b195220c633) 
-
 🎧 31:30 - 31:47 (00:17)
 
 1. Ketamine has the potential to become habit-forming or addictive.
@@ -41,7 +40,6 @@ from_snipd: true
 5. Different dosage regimens have been used in studies of ketamine for depression treatment.
 
 #### 📚 Transcript
-
 **Andrew Huberman:** have used that exact regimen, twice a week for three weeks, then take some time off, repeat. Twice a week for three weeks, take some time off, repeat. Some have explored giving ketamine once per week or even three times per week, or doing it once a week for five weeks and then taking an extended period of time off before repeating the treatment schedule.
 
 ---

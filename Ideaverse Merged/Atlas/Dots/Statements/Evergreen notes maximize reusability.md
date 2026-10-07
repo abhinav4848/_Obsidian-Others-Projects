@@ -3,8 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Dots/Things/Evergreen notes]]"
 related: []
 created: 2020-06-01
+title: "Evergreen notes maximize reusability"
 ---
-
+# Evergreen notes maximize reusability
 As the number of your evergreen notes grows over time, their value compounds into a priceless amalgamation of modular, agile thought-units. 
 
 This becomes apparent as you start making more domain-lateral connections. As you develop this ability—and enough time passed—you'll see how the same evergreen note can contribute to multiple projects over time. That's long-term reusable value.

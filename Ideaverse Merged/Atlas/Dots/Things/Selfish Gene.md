@@ -8,7 +8,9 @@ created: 2020-06-01
 tags:
   - note/connect🚤
 rank: 3.9
+title: "Selfish Gene"
 ---
+# Selfish Gene
 aka Immortal Gene
 
 An individual organism is a throwaway Survival Machine for the self-replicating coded information which it contains. - Richard Dawkins

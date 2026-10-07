@@ -1,9 +1,12 @@
+---
+title: "Art MOC"
+---
+# Art MOC
 tags: #MOC #Movies; #TV; #music; #songs; #songs100; #songs250
 links: [[040 Interests MOC|Interests]]
 
 ---
 # Inputs, Media, Consumption, Art
-
 ==Note: The linked notes are not provided==
 
 ## Books

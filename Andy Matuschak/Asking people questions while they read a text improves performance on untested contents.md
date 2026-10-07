@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zSoTbuyrXFnDHibaSeEzPRx
+title: "Asking people questions while they read a text improves performance on untested contents"
 ---
 # Asking people questions while they read a text improves performance on untested contents
 Beyond the [[Testing effect]], answering questions while reading a text ([[Adjunct questions]]) promotes better *general* absorption, including of unrelated, untested material from the text. See references for more.

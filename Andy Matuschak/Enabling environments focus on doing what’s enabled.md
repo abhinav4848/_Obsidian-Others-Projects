@@ -1,3 +1,7 @@
+---
+URL: "https://notes.andymatuschak.org/z2etsLyP1LJUwNDPCwvRdUG"
+title: "Enabling environments focus on doing what’s enabled"
+---
 # Enabling environments focus on doing what’s enabled
 In a good [[Enabling environment]] like a strong corporation or Minecraft, the activities mostly comprise _doing_ what those environments enable.
 

@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zPtcwHaKGoLEZRzSoScYXha?stackedNotes=z9hscgkG2TeqgUtu3vAEW3U&stackedNotes=zNLoqjEVe5dheMKmTTyB9E3
+title: "OS-level spaced repetition system"
 ---
 # OS-level spaced repetition system
-
 Computer operating systems have come with a predictable set of personal information management tools for decades: an address book, a calendar, an e-mail client, some basic note-taking function, files and folders, etc. These are structured differently from siloed “apps,” which typically aim to subsume some workflow from start to finish. This basic OS software is more general-purpose, each both a tool and a service, connected throughout the OS via API-powered integrations. You add an event to your calendar from an email, autocomplete a contact’s name within a chat app, save and open files to the same folder from many apps, and so on.
 
 What if there were an “OS-level” [[Spaced repetition memory system]]? What if, rather than living “inside an app’s shoebox”, as in Anki and other existing tools, prompts were framed more like files in folders—readable and writable throughout the system?

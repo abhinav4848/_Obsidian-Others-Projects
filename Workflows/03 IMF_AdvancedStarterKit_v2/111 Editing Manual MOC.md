@@ -1,3 +1,7 @@
+---
+title: "111 Editing Manual MOC"
+---
+# 111 Editing Manual MOC
 tags: #editingmanual #editing 
 editing: [[111 Editing Manual MOC|Editing Manual MOC]], [[Editing Manual TOC]]
 

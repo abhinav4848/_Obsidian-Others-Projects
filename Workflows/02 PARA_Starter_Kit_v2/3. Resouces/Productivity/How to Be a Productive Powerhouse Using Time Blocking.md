@@ -1,9 +1,12 @@
+---
+title: "How to Be a Productive Powerhouse Using Time Blocking"
+---
+# How to Be a Productive Powerhouse Using Time Blocking
 Tags: [[Article]] [[Productivity]] - [[Scheduling]] [[Time Blocking]]
 Author: [[Charlie Gilkey]] 
 From: https://www.productiveflourishing.com/time-blocking/ 
 
 ## Highlights:
-
 Rather than thinking about time in an open, unstructured way, I approach time blocking by figuring out a coherent daily structure with four different kinds of blocks based upon the type of activity done in those blocks.
 
 Focus blocks are 90–120 minute blocks of time where you’re especially creative, inspired, and able to do high-level work that requires focus. Admin blocks are 30–60 minute lower-energy blocks of time where you’re not in the zone to do the work that requires heavy lifting, but there are still other types of work you can do effectively. Social blocks are 90–120 minute blocks of time where you’re primed and energetically in the right space to meet with other people. Recovery blocks are variable-length blocks of time that you use for exercise, meditation, and self-care.

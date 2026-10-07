@@ -6,7 +6,9 @@ in:
 tags:
   - "#map/view"
 created: 2023-11-24
+title: "Quotes"
 ---
+# Quotes
 This note collects all notes where their `in` property has `Quotes`.
 
 > [!Keaton]+ # Quotes

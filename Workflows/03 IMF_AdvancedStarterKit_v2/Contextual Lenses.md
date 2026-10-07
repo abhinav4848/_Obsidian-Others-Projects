@@ -1,3 +1,6 @@
+---
+title: "Contextual Lenses"
+---
 # Contextual Lenses
 An enjoyable and non-efficient way of thinking about a Thing, is to place several different lenses in front of it. Each offers a different view; some more valuable than others, all part of the process.
 

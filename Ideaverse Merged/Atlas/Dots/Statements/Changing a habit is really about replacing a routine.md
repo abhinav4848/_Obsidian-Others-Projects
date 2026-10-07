@@ -3,8 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Dots/Things/Defining a habit]]"
 related: []
 created: 2020-06-01
+title: "Changing a habit is really about replacing a routine"
 ---
-
+# Changing a habit is really about replacing a routine
 Duhigg's book, while full of the requisite filler of long pop-science stories, breaks ground on providing a simple habit formation process.[^1] 
 
 Habits are incredibly resilient: in some cases, people with extensive brain damage who could not even remember where they lived could still adhere to their old habits and pick up new ones. This is because learning and maintaining habits happens in the *basal ganglia*, a part of your brain that can function normally even if the rest of your brain is damaged.

@@ -4,8 +4,9 @@ up:
 related:
   - "[[Ideaverse Merged/Atlas/Dots/Statements/Note-making creates unexpected optionality]]"
 created: 2020-06-01
+title: "Note-making sharpens your thinking"
 ---
-
+# Note-making sharpens your thinking
 Note-making forces clear, sharp thinking. Here are the basic steps: ^5e4e28c7
 
 - figure out the key statement

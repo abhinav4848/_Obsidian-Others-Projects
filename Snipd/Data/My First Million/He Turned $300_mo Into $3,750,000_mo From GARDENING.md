@@ -12,16 +12,17 @@ mentioned_books:
 last_snip_date: 2024-05-31
 episode_duration_minutes: 69
 episode_url: "https://share.snipd.com/episode/a3df13b2-9101-4f0b-8aa3-d09a43798edc"
-image_url: "_media-sync_resources/2025/12/20/232211/77436.jpeg"
+image_url: "Attachments/21646.jpeg"
 show_url: "https://share.snipd.com/show/a3bc85ac-9318-431c-9821-7a14a7408e4b"
-show_image_url: "_media-sync_resources/2025/12/20/232211/85197.jpeg"
+show_image_url: "Attachments/21646.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 2
 from_snipd: true
+title: "He Turned $300_mo Into $3,750,000_mo From GARDENING"
 ---
+# He Turned $300_mo Into $3,750,000_mo From GARDENING
 # He Turned $300/mo Into $3,750,000/mo From GARDENING
-
-![Cover](_media-sync_resources/2025/12/20/232211/66891.jpeg)
+![Cover](../../../Attachments/40173.jpeg)
 
 ## Episode metadata
 - Episode title: He Turned $300/mo Into $3,750,000/mo From GARDENING
@@ -37,15 +38,12 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ###  [Transitioning to a Proper CEO Role](https://share.snipd.com/snip/388d565b-d427-48fb-aa36-11fe962a42e1) 
-
 🎧 20:56 - 22:18 (01:22)
 
 Transitioning from a small team to a larger one requires shifting to a proper CEO role, which involves hiring more employees to increase efficiency, understanding the complexity of the business, and being prepared for redundancy and operational challenges. This transition signifies moving towards a more structured and organized approach in leading the company.
 
 #### 📚 Transcript
-
 **Sam Parr:** Yeah. I wrestled with it for a long time. Like maybe that
 
 **Kevin Espiritu:** deal took like six months to close, I would say. And at least for the Turner Group, that's not some massive deal for them. Like that's not a ton of money for them. It was a huge amount for me. The logic ended up being, I was like, do I know what I'm gonna do in the next couple of years? Like, do I understand the complexity of the business I had built? Because that's a really lean team to be at 7.3 with like a commerce business shipping product. Yeah, there's like
@@ -57,13 +55,11 @@ Transitioning from a small team to a larger one requires shifting to a proper CE
 ---
 
 ###  [Money Doesn't Guarantee Happiness](https://share.snipd.com/snip/726a45d5-105c-4354-a835-d70c748765b8) 
-
 🎧 24:36 - 25:48 (01:12)
 
 Having financial stability eliminates worry about unexpected expenses and provides breathing room, making life less stressful. However, accumulating wealth doesn't necessarily result in significantly increased happiness. Money can alleviate downsides but doesn't guarantee a substantial improvement in overall happiness.
 
 #### 📚 Transcript
-
 **Kevin Espiritu:** I have a girlfriend. Yeah. And then a lot of my family lives in San Diego. What's
 
 **Sam Parr:** it feel like to be, I don't know if you were single at the time or not, but what's it like to be a young guy and you're like, I'm good. I'm good for potentially forever.

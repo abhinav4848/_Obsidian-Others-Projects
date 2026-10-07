@@ -3,7 +3,9 @@ up:
   - "[[Ideaverse Merged/Ideaverse Map]]"
 related: []
 created: 2020-06-01
+title: "What can we learn from nerdy discussions on MOCs"
 ---
+# What can we learn from nerdy discussions on MOCs
 Sometimes the best way of understanding something is hearing what people have to say about it. 
 
 *What is an MOC, in 10 seconds?*

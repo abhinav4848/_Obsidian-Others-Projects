@@ -1,3 +1,7 @@
+---
+title: "114- Knowledge Development"
+---
+# 114- Knowledge Development
 # Knowledge Development
 [[002- Zettelkasten]] is about knowledge development, while wikis are better suited for knowledge management ([[173- Knowledge Management]]).
 

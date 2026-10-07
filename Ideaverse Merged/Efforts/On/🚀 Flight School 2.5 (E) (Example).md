@@ -6,7 +6,9 @@ created: 2023-07-01
 rank: "2"
 aliases:
 - Flight School 2.5 (E) (Example)
+title: "🚀 Flight School 2.5 (E) (Example)"
 ---
+# 🚀 Flight School 2.5 (E) (Example)
 Deliver an update to Obsidian Flight School to existing customers.
 
 Focus on:

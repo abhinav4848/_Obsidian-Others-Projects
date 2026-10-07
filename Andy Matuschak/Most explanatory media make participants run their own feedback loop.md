@@ -1,3 +1,6 @@
+---
+title: "Most explanatory media make participants run their own feedback loop"
+---
 # Most explanatory media make participants run their own feedback loop
 [[Learning requires metacognition]]. When learning something new from a text, readers must constantly ask themselves: did I understand that? what questions can I ask myself to check my understanding? should I reread that passage? should I consult a reference for background on that? etc.
 
@@ -8,5 +11,4 @@ The situation is perhaps slightly worse in video formats. In books, readers are 
 My theory as to why this is true: [[Metacognitive supports require dynamic, participatory environments]].
 
 # References
-
 1.

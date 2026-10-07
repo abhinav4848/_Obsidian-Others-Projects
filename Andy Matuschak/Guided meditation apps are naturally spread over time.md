@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zSNDTj75ULnYMo7pGm2Frg7
+title: "Guided meditation apps are naturally spread over time"
 ---
 # Guided meditation apps are naturally spread over time
 Meditation’s insights unfold slowly. Aspirants are typically advised to practice daily. Over weeks and months, they may begin to experience the world differently. Some concepts in meditation won’t make any sense if you’re still having trouble clearly perceiving your breath—so they’re better introduced somewhat later. Other concepts must be introduced many times, in many different framings, before the moment is finally right.

@@ -5,8 +5,9 @@ created: 2023-08-30
 obsidianUIMode: preview
 in: 
 - "[[Ideaverse Merged/Atlas/Maps/Maps]]"
+title: "Ideaverse Map"
 ---
-
+# Ideaverse Map
 > [!Planet]- ## How to Customize your own Ideaverse.
 > This is the "Map of Content" for this starter ideaverse. Here you can:
 > 
@@ -83,7 +84,6 @@ in:
 ---
 
 # Extra gifts
-
 > [!Trees]- ## Explore how ideas become evergreen
 > Note-makers create *living notes* that are able to grow in value and evolve over time. Some people call these kinds of notes "evergreen".
 > 

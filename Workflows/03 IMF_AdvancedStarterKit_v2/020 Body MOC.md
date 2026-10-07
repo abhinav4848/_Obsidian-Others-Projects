@@ -1,3 +1,7 @@
+---
+title: "020 Body MOC"
+---
+# 020 Body MOC
 tags: #MOC #Body 
 links: [[000 Index|Index]], [[010 Mind MOC| Mind]], [[020 Body MOC|Body]]
 

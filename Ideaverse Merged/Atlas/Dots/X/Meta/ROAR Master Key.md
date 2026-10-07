@@ -6,4 +6,6 @@ ROAR:
   - backburner
 ROARrank: 
 ROARdetails:
+title: "ROAR Master Key"
 ---
+# ROAR Master Key

@@ -7,7 +7,9 @@ in:
   - "[[Ideaverse Merged/Atlas/Maps/Concepts]]"
 rank: 5.5
 says: I am effortless effort, timeless time
+title: "Flow"
 ---
+# Flow
  *I am effortless effort, timeless time*
 
 The concept of flow has changed my life. Flow is a state of optimal experience.

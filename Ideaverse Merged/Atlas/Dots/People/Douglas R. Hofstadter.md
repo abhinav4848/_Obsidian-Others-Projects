@@ -16,7 +16,9 @@ peopleDomain:
   - Science & Tech
 peopleGroups:
 image: https://www.babelio.com/users/AVT_Douglas-Richard-Hofstadter_6840.jpg
+title: "Douglas R. Hofstadter"
 ---
+# Douglas R. Hofstadter
 While he has been in the public light for decades, my first concentrated exposure to Hofstadter was his 2009 Presidential Lecture: [[Ideaverse Merged/Atlas/Dots/Sources/Analogy as Core (talk)]]. It's clear he's a fun and fascinating thinker. 
 
 ### Wiki

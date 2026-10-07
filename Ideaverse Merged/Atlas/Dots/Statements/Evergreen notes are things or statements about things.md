@@ -3,8 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Dots/Things/Evergreen notes]]"
 related: []
 created: 2020-06-01
+title: "Evergreen notes are things or statements about things"
 ---
-
+# Evergreen notes are things or statements about things
 Many evergreen notes should be statements with a clear opinion. That's because it forces you to really think about what you're trying to say. However, these "clear opinions" need "clear things" to talk about! What are these "things"?
 
 "THINGS" like:

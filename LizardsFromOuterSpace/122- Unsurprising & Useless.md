@@ -1,2 +1,6 @@
+---
+title: "122- Unsurprising & Useless"
+---
+# 122- Unsurprising & Useless
 # Unsurprising & Useless Information
 The worst type of information! This is the domain of cliches, whereby the phrase is unsurprising because its been overused and doesn’t help the situation at all because it is so generic.

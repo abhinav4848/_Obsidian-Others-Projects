@@ -1,3 +1,7 @@
+---
+title: "Why Categories for Your Note Archive are a Good Idea (IMF)"
+---
+# Why Categories for Your Note Archive are a Good Idea (IMF)
 tags: #pkm #IMF
 links: [[IMF]], [[IMF MOC]], [[Benefits of IMF]]
 

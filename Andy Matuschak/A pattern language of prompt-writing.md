@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/z8d1Rq2d13fdQCjQiWzJybD
+title: "A pattern language of prompt-writing"
 ---
 # A pattern language of prompt-writing
 Somewhat distinct from [[Important attributes of good spaced repetition memory prompts]] is the issue of what the prompts should be about in the first place. How to digest different kinds of ideas into different kinds of prompts, given various contexts, levels of interest, levels of background, and so on? For example, what kinds of questions should one ask to reinforce a technical concept in the context of an introductory textbook?

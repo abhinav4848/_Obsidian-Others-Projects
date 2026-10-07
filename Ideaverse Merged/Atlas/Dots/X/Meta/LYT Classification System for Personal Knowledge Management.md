@@ -6,7 +6,9 @@ related:
   - "[[Ideaverse Merged/Atlas/Dots/X/Meta/LYT Standards of Classification]]"
   - "[[Ideaverse Merged/Atlas/Maps/Library]]"
 created: 2020-08-01
+title: "LYT Classification System for Personal Knowledge Management"
 ---
+# LYT Classification System for Personal Knowledge Management
  While I encourage you to fully customize your **home** note, I urge you to start building your library note using the **LYT Classification System**.  
 
 The **LYT Classification System** is lightly modified from the Cutter, Dewey, and Universal Decimal classification systems used in libraries around the world. It will provide you a time-tested foundation as you structure the interests of your digital library.

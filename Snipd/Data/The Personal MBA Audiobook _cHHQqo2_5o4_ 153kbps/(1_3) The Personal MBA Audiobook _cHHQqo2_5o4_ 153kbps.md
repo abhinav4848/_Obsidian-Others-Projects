@@ -27,9 +27,10 @@ episode_export_date: "2026-01-15T14:45:36"
 upload_type: book
 snips_count: 2
 from_snipd: true
+title: "(1_3) The Personal MBA Audiobook _cHHQqo2_5o4_ 153kbps"
 ---
+# (1_3) The Personal MBA Audiobook _cHHQqo2_5o4_ 153kbps
 # (1/3) The Personal MBA Audiobook [cHHQqo2_5o4] 153kbps
-
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fsnipd-public%2Fsideload%2Fsideload_image.png&w=200&h=200)
 
 ## Episode metadata
@@ -44,43 +45,36 @@ from_snipd: true
 - Export date: 2026-01-15T14:45:36
 
 ## Snips
-
 ###  [Value of Business Knowledge](https://share.snipd.com/snip/bf6a6ef9-6f32-436b-8ff7-0974f44a938b) 
-
 🎧 01:18 - 01:37 (00:19)
 
 - Knowing where to start in business situations is extremely valuable. 
 - Combine reading this book with real-world experience to reap the rewards.
 
 #### 💬 Quote
-
 > Knowing where to start in common business situations is extremely valuable, whether you're a brand new entrepreneur or a successful executive with decades of experience.
 > — Narrator / Author Voice
 
 Narrator / Author Voice on the value of knowing where to start in business situations
 
 #### 📚 Transcript
-
 **Narrator / Author Voice:** Knowing where to start in common business situations is extremely valuable, whether you're a brand new entrepreneur or a successful executive with decades of experience. Having a common language to label and think about what you notice opens the door to major improvements, whether you labor alone, with a small group of colleagues, or inside the largest corporation in
 
 ---
 
 ###  [Reasons for Business Hesitation](https://share.snipd.com/snip/403723c0-f729-46a8-a8b4-0982def8d868) 
-
 🎧 02:01 - 02:36 (00:35)
 
 - People hesitate to start a business or take on more responsibility due to business angst, certification intimidation, and imposter syndrome. 
 - Overcoming these fears is essential for achieving your dreams.
 
 #### 💬 Quote
-
 > It's also likely that a few things are holding you back from achieving your dream. Number one, business angst...Number two, Certification intimidation.
 > — Narrator / Author Voice
 
 Narrator / Author Voice on reasons holding people back from achieving their business dreams
 
 #### 📚 Transcript
-
 **Narrator / Author Voice:** you're listening to this book, chances are you want to make something important happen. Start a business, get a promotion, or create something new in the world. It's also likely that a few things are holding you back from achieving your dream. Number one, business angst. The feeling that you don't know much about business, and therefore could never start your own company or take more responsibility in your current position. Better to maintain the status quo than face the fear of the unknown. 2. Certification intimidation. The idea that business is really complicated and is a subject best left to highly trained experts. If you don't have an
 
 ---

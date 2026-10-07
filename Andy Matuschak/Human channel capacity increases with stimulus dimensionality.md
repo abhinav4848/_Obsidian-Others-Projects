@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zRTbHLYsFnL2hThAZL6tVqD?stackedNotes=z86ZRZ5s5ykUzGD8v8d33ro
+title: "Human channel capacity increases with stimulus dimensionality"
 ---
 # Human channel capacity increases with stimulus dimensionality
 For unidimensional stimuli, the [[Channel capacity of humans as information processors]] is only a couple bits, but in everyday life, it seems that we routinely reproduce much more complex stimuli than that. One explanation for this discrepancy is that human channel capacity {increases} with the {dimensionality} of the stimulus.

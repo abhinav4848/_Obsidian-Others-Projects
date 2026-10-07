@@ -1,5 +1,8 @@
+---
+title: "216- Luhmann’s Note Taking Problems"
+---
+# 216- Luhmann’s Note Taking Problems
 # **Difficulties in Note Taking**
-
 As you think about creating software (Obsidian) and designing systems (Zettelkasten) it is important to keep in mind what problems you are trying to solve. It helps keep you focused and gives you an anchor to connect new thinking too.
 
 **What are the major problems people face with note taking?**
@@ -17,7 +20,6 @@ I saw [this nice post](https://forum.zettelkasten.de/discussion/1264/academic-i
 ---
 
 ### Luhmann’s Note Taking Problem
-
 **Why Luhmann started engaging with Card Indexing**
 
 > before he had any institutional affiliation with academia, he was already conscious of the fact that the notes he took from his readings at the time, would not be collected for a limited publication project but for a far more extensive endeavor, eventually for a lifelong project. The shortcomings of the common methods of organizing notes by collecting them in folders motivated him early on to start a card-based filing system.

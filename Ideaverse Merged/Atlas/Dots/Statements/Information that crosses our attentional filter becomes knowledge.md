@@ -3,8 +3,9 @@ up: []
 related:
   - "[[Ideaverse Merged/Atlas/Dots/X/+ About Dots]]"
 created: 2020-06-01
+title: "Information that crosses our attentional filter becomes knowledge"
 ---
-
+# Information that crosses our attentional filter becomes knowledge
 Information is everywhere. 
 
 > It is in a book / it is in a nook / it's absolutely everywhere you look. 

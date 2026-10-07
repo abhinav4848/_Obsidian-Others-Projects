@@ -10,16 +10,16 @@ mentioned_books:
 last_snip_date: 2023-08-12
 episode_duration_minutes: 60
 episode_url: "https://share.snipd.com/episode/ff027a57-8d3f-469b-a0fb-d86bf240f32b"
-image_url: "_media-sync_resources/2025/12/20/232019/89112.jpeg"
+image_url: "Attachments/18854.jpeg"
 show_url: "https://share.snipd.com/show/68da1931-103e-4fb5-9af5-62bfca51b9b6"
-show_image_url: "_media-sync_resources/2025/12/20/232019/18854.jpeg"
+show_image_url: "Attachments/18854.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
+title: "Overcome the Comfort Crisis"
 ---
 # Overcome the Comfort Crisis
-
-![Cover](_media-sync_resources/2025/12/20/232019/80741.jpeg)
+![Cover](../../../Attachments/80741.jpeg)
 
 ## Episode metadata
 - Episode title: Overcome the Comfort Crisis
@@ -35,9 +35,7 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ###  [Get Out of Your Comfort Zone](https://share.snipd.com/snip/7e752b20-8df5-4573-ba29-1730327cd940) 
-
 🎧 06:18 - 13:01 (06:42)
 
 1. Life can feel harder even though we've got it pretty good today because the human brain evolved to make relative comparisons.
@@ -45,7 +43,6 @@ from_snipd: true
 3. Marcus Elliott, a sports doctor, uses science and data to help NBA players prevent injuries and develop their skills.
 
 #### 📚 Transcript
-
 **Brett McKay:** Yeah. And that idea of like sense of meaning or purpose, you know, you hear people reporting how life just seems harder now. It's like, ah, I'm just, everyone's like, everyone's tired. I'm so tired. But it's like, you know, it's weird. It seems things feel harder, even though it's actually, if you compare it to the whole length of human history, it's pretty easy. What do you think is going on there? Why does life feel harder, even though we've got it pretty good today? Yeah,
 
 **Michael Easter:** that's, that's a great question. And there was a scientific reason for this, actually. I talked to researchers at Harvard, psychologists, and there's this idea that the dorky name for it is called prevalence-induced concept change. And I tend to think about it as problem or comfort creep. make relative comparisons. It's this brain mechanism that saved us energy. So we don't, when something new is sort of introduced to our lives that improves our lives, we adapt to it. And we don't sort of look back and think, oh man, we're making great progress. This is great. We kind of look back at the last thing and think, oh man, now that's totally unacceptable to us. Basically what happens is we have more comforts introduced to our lives. We don't necessarily become more satisfied with them. We just sort of lower our threshold for what we consider comfortable. This also applies to things like problems. So once we've solved the problem, we don't actually think in our brain, oh, I have fewer problems right now. We just go looking for the next problem to solve. So we end up with the same number of problems, except our new problems are progressively more hollow. So you can think about this as almost the science of first world problems. We keep on moving the dial into comfort and convenience and having everything done for us. And we don't think, oh man, 20 years ago, I didn't have a cell phone. Wow, this is amazing. Instead, it's like, man, Instagram has crashed. This is the worst thing ever. We freak out, right? And this is like, put at scale to everything

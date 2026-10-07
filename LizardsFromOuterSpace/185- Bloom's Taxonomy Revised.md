@@ -1,3 +1,7 @@
+---
+title: "185- Bloom's Taxonomy Revised"
+---
+# 185- Bloom's Taxonomy Revised
 # Bloom’s Taxonomy Revised
 Bloom’s Taxonomy Revised is a set of learning objectives used by theorists and researchers. You can think of our brains as information processing machines. Your zettelkasten can be framed in the same way, except it serves as an external machine.
 

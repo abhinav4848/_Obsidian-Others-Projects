@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/z9MxCsvv8DcHndqRECbxrRi?stackedNotes=zKubRcJXKjiCDPsPgJWckkP&stackedNotes=zyjePyZ77P2BfdkRBuQB2x
+title: "Designing new enabling environments can be framed as designing a University++"
 ---
 # Designing new enabling environments can be framed as designing a University++
 Universities have historically been effective examples of an [[Enabling environment]] (along some axes, and with some significant limitations):

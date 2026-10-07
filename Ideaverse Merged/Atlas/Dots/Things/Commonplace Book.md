@@ -4,8 +4,9 @@ up:
 created: 2020-06-01
 tags:
   - map
+title: "Commonplace Book"
 ---
-
+# Commonplace Book
 Welcome to your "commonplace book" of interesting tidbits you've collected. Try clicking on #source/quote to see a couple results. 
 
 > [[Ideaverse Merged/Atlas/Maps/Collections]] | [[Ideaverse Merged/Atlas/Dots/Things/Commonplace Book]] | [[Bookshelf 📚]]

@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zF8pCkzLVarNsaFyBxF9Aib
+title: "Salience prompts"
 ---
 # Salience prompts
 Salience prompts are spaced repetition prompts designed not so much to assure recall but rather to cause you to think certain thoughts when situations or mental states arise. For instance: you’ve just read about some best practice in keys for distributed databases, and a month later, you’re prototyping something that uses a distributed database. Does the best practice occur to you?

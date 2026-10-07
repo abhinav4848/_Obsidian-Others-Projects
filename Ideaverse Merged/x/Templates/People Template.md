@@ -6,4 +6,6 @@ created: {{date}}
 peopleType: 
 peopleDomain: 
 peopleGroups: 
+title: "People Template"
 ---
+# People Template

@@ -1,3 +1,7 @@
+---
+title: "059- Various definitions of Mental Models"
+---
+# 059- Various definitions of Mental Models
 **[Wikipedia](https://www.wikiwand.com/en/Mental_model)** - “A [mental model](https://forum.obsidian.md/t/obsidian-zettelkasten/1999/58) is an explanation of someone’s thought process about how something works in the real world. It is a representation of the surrounding world, the relationships between its various parts and a person’s intuitive perception about his or her own acts and their consequences.”
 
 ---

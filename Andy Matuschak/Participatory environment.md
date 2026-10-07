@@ -1,16 +1,11 @@
 ---
 URL: https://notes.andymatuschak.org/zQDtyijWebs1Su1Z8rZptot?stackedNotes=z92TGMiBsnraf5KXxSTNkBJ&stackedNotes=zRWEWHx4cQyqQWRh26gp7ad
+title: "Participatory environment"
 ---
 # Participatory environment
-
-Type of Link: 📝 Article
 Category talked about: Learning
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
 
 # **Participatory environment**
-
 In some environments, the core activities are fundamentally active; much of the experience is substantially created through the participants’ efforts. I call these *participatory environments*.
 
 Participatory environments may or may not have been intentionally authored. Media environments are almost always intentionally authored, but many social and natural environments are not. Part of the experience in authored participatory environments may be an [[Enacted experience]].
@@ -23,7 +18,6 @@ Participatory environments are often much more pleasurable for participants, per
 > 
 
 # Examples and counter-examples
-
 Games basically always establish participatory environments. Per Lantz (2019): "Games are the aesthetic medium of action.” But watching someone else play a game on Twitch often does not create a participatory environment.
 
 Books and films usually don’t establish participatory environments. The core activities of the environments created by these media are usually receptive and passive, for most participants. But counter-examples do exist: Make Magazine; Drawing on the Right Side of the Brain; workout videos; etc.

@@ -6,7 +6,9 @@ in:
 related: 
 created: 2010-06-01
 rank: 4
+title: "Mountain Top Water Drop"
 ---
+# Mountain Top Water Drop
 The concept was delivered by Edward James Olmos in Joaquin Phoenix's quasi-spoof movie "I'm Here". 
 
 Although the movie was hard to watch and not enjoyable, I appreciated that the journey of the Mountain Top Water Drop was essentially the through line of the film. It that sense, it's actually quite poetic.

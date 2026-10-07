@@ -1,3 +1,7 @@
+---
+title: "Is IMF For You"
+---
+# Is IMF For You
 tags: #pkm #IMF
 links: [[IMF START]], [[IMF MOC]], [[Setting Up IMF]]
 

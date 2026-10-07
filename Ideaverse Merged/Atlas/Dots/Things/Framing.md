@@ -7,8 +7,9 @@ related:
 created: 2023-11-26
 rank: 5
 says: I'm the hidden 500 pound gorilla that underpins all human communication.
+title: "Framing"
 ---
- 
+# Framing
  *I'm the hidden 500 pound gorilla that underpins all human communication.*
 
 If you hear, "this doesn't cost $1000, it only costs $50!" That sounds great because it's been framed in context to $1000. But even $50 is a lot for a cup of coffee.

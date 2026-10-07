@@ -1,3 +1,7 @@
+---
+title: "3 Ways to Help Introverts Shine in an Extrovert-Leaning Workplace by Kara Goldin"
+---
+# 3 Ways to Help Introverts Shine in an Extrovert-Leaning Workplace by Kara Goldin
 https://www.entrepreneur.com/article/342450
 
 while about half of the general population are extroverts, up to 96 percent of managers and executives display extroverted traits, reveals a study published in Industrial and Organizational Psychology. Other research estimates that up to 70 percent of C-suite executives are extroverts.

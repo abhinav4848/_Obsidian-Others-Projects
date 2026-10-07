@@ -1,3 +1,7 @@
+---
+title: "Busy is a choice productive is a skill"
+---
+# Busy is a choice productive is a skill
 https://seths.blog/2019/11/busy-is-a-choice-productive-is-a-skill/
 
 Productivity, on the other hand, has little to do with busy. 

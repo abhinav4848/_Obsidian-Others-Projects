@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zMhuu3pPa6FeNGYn3VfGCar?stackedNotes=z3M21hHKkoGYbU3S8bcYBH3&stackedNotes=z6YFBnYYve8d3ZyaBf3srk5
+title: "Spaced repetition and creativity"
 ---
 # Spaced repetition and creativity
 [[Some kinds of creative insight depend on long-term memory]]

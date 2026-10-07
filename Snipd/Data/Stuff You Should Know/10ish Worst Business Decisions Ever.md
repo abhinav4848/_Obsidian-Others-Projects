@@ -6,16 +6,16 @@ episode_publish_date: 2023-09-19
 last_snip_date: 2023-10-19
 episode_duration_minutes: 52
 episode_url: "https://share.snipd.com/episode/23b29491-afdd-447a-98b5-82e0b7a7dfe2"
-image_url: "_media-sync_resources/2025/12/20/232054/08753.jpeg"
+image_url: "Attachments/04049.jpeg"
 show_url: "https://share.snipd.com/show/145ea529-ce54-40de-ab9d-10dd8b65f7e4"
-show_image_url: "_media-sync_resources/2025/12/20/232054/91740.jpeg"
+show_image_url: "Attachments/04049.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
+title: "10ish Worst Business Decisions Ever"
 ---
 # 10ish Worst Business Decisions Ever
-
-![Cover](_media-sync_resources/2025/12/20/232054/91079.jpeg)
+![Cover](../../../Attachments/06582.jpeg)
 
 ## Episode metadata
 - Episode title: 10ish Worst Business Decisions Ever
@@ -29,15 +29,12 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ###  [Top Non-Franchise Movies Include Titanic and ET](https://share.snipd.com/snip/4edb8200-067c-40c4-adbb-993959e1296b) [[Processed]]
-
 🎧 47:11 - 47:43 (00:32)
 
 Someone asks a trivia question about the top non-franchise box office movies, including Titanic, ET, and the number three all-time movie. Other movies mentioned are Little or Fanani, and Passion of the Christ. Despite being boycotted by many churches, Passion of the Christ made over 300 million dollars. This shows the power of publicity, even when it's negative. Not taking risks is the biggest missed opportunity.
 
 #### 📚 Transcript
-
 **Chuck Bryan:** someone asks you a trivia question about non-franchise box office, Titanic, then E.T., and the number three all-time movie non-franchise. Little Orphan Annie. Passion of the Christ. What? Yeah. Wow. It's a big movie. It's like 300 and something million bucks.
 
 **Josh Clark:** But that's, I mean, that's considering it even was boycotted by lots of churches around the world, and it still made that money. Well, maybe

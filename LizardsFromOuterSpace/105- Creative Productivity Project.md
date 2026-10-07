@@ -1,5 +1,8 @@
+---
+title: "105- Creative Productivity Project"
+---
+# 105- Creative Productivity Project
 # Creative Productivity Project
-
 The [creative productivity project](https://dogwaddle.gitbook.io/zettelkasten/creative-productivity-guide/creative-productivity-guide) is a public notes collection I’m creating around giving people [models](https://forum.obsidian.md/t/obsidian-zettelkasten/1999/44) that they can use to improve different aspects of their life. It is a framework focused around developing the environment and skills needed for **creative problem solving**, which in turn can be applied to problems in your own life, your community, and society at large.
 
 The project centers around five major themes. The first theme is health because you will not be productive unless you get your physical and mental health in order. The second theme is productivity because nothing happens unless you put in the hours and do the work. This means developing good habits and routines. The third theme is learning because you need an existing knowledge base to bounce new information off in order to generate creative ideas. The fourth theme creative productivity itself, which is learning how to generate new ideas and evaluate them. The final theme is about learning how to act on your creative solution to a problem. This means either being able to effectively communicate the solution to others and mobilize people if necessary.

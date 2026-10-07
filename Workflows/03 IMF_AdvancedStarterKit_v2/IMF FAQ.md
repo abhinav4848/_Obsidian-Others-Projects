@@ -1,3 +1,6 @@
+---
+title: "IMF FAQ"
+---
 # IMF FAQ
 **QUESTION**: I 've heard hierarchies and structures are bad.
 **ANSWER**: It's correct that a note buried in folder upon folder is harder to access. A note should be able to live freely and connect to as many notes as needed without restriction.

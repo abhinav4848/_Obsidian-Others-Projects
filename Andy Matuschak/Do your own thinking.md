@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zojJRcfGstU2Ss6JRMzd15?stackedNotes=z8Ubad66AWp7ZLShUmRu3vu&stackedNotes=zLdprTyt7Ca2z2LUGLtFMSs
+title: "Do your own thinking"
 ---
 # Do your own thinking
 Beware: it’s too easy to let others’ schema and ideas dominate your own. [[It’s hard to hear yourself think]].

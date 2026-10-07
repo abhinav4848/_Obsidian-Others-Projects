@@ -1,3 +1,6 @@
+---
+title: "Situated Learning - Lave and Wenger"
+---
 # Situated Learning - Lave and Wenger
 Lave, J., & Wenger, E. (1991). Situated learning: Legitimate peripheral participation. Cambridge University Press.
 
@@ -32,7 +35,6 @@ Much consonance, too, with [[Enabling environments focus on doing what’s enab
 - This is a nice piece of rhetoric: “The notion of participation thus dissolves dichotomies between cerebral and embodied activity, between contemplation and involvement, between abstraction and experience: persons, actions, and the world are implicated in all thought, speech, knowing, and learning.” But is it true? In what domains? Does it really apply to, say, abstract algebra?
 
 ## Some key excerpts
-
 A nice criticism of “internalization”, which I’ve found myself using as a replacement for “memorize” and “understand”:
 
 > Conventional explanations view learning as a process by which a learner internalizes knowledge, whether "discovered," "transmitted" from others, or "experienced in interaction" with others. This focus on internalization does not just leave the nature of the learner, of the world, and of their relations unexplored; it can only reflect far-reaching assumptions concerning these issues. It establishes a sharp dichotomy between inside and outside, suggests that knowledge is largely cerebral, and takes the individual as the nonproblematic unit of analysis. Furthermore, learning as internalization is too easily construed as an unproblematic process of absorbing the given, as a matter of transmission and assimilation.

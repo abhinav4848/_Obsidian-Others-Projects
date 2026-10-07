@@ -1,6 +1,8 @@
-
+---
+title: "Scripts for Building TOC files"
+---
+# Scripts for Building TOC files
 ## Making a TOC:
-
 These are the scripts that I use for building a Table of Contents file from my filesystem. Note: these are all commands to be run from the terminal. I may try to compile them into some sort of tool at some point, but because I work in the terminal a lot anyway this is what I do. The logic of them is pretty straightforward, and there are, I'm sure, many other ways of doing this. 
 
 Also, I work on a mac. I am 99% sure that these will work on any \*nix system (except for the one exception noted below), but if something doesn't work on your raspi running fish shell, please let me know and we'll see if we can get it sorted. 

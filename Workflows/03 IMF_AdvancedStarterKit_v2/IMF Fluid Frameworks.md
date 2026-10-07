@@ -1,3 +1,7 @@
+---
+title: "IMF Fluid Frameworks"
+---
+# IMF Fluid Frameworks
 tags: #IMF
 links: [[IMF START]], [[IMF MOC]]
 

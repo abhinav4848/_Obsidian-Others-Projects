@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zKtYU4Uk7aTCGyqHr9Ca3Sb
+title: "Tools for thought should be evaluated in the context of intrinsically meaningful purposes"
 ---
 # Tools for thought should be evaluated in the context of intrinsically meaningful purposes
-
 We don’t evaluate [Mathematica](https://notes.andymatuschak.org/z2cqApsmXfT4gQ678JLXXNr) by asking how many students use it, by asking about its impact on test scores, or by measuring how much faster it helps people solve problems. Those are all relevant proxies, to varying degrees, but they’re not the tool’s actual purpose. Mathematica was created as part of Wolfram’s research into symbolic manipulation and automata, then eventually expanded to empower mathematicians and scientists in general. Its utility function is, roughly: how many powerful insights does it enable on the margin?
 
 Relatedly, it’s tempting to evaluate the [[Mnemonic medium]] by asking how much people remember after reading a text. But its real purpose is to enable people to do more of whatever they find most meaningful, to help them become more themselves. We’ll need to find some way to evaluate that metric.

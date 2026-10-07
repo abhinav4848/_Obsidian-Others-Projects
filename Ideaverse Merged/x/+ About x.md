@@ -9,7 +9,9 @@ version:
   - "1.5"
 aliases:
 - + About Utilities
+title: "+ About x"
 ---
+# + About x
 Think of the `x` folder in the [[Ideaverse Merged/Atlas/Dots/Things/ACE Folder Framework]] as the toolbox for your notes. 
 
 These notes *support* your other notes.

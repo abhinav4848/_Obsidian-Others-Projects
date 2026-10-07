@@ -6,16 +6,16 @@ episode_publish_date: 2023-07-20
 last_snip_date: 2023-09-04
 episode_duration_minutes: 51
 episode_url: "https://share.snipd.com/episode/1d6e52f3-334e-45e4-ad8c-a656c97da070"
-image_url: "_media-sync_resources/2025/12/20/232032/03539.jpeg"
+image_url: "Attachments/20161.jpeg"
 show_url: "https://share.snipd.com/show/c318a019-361a-4eaf-bfa8-00ba97ad3dae"
-show_image_url: "_media-sync_resources/2025/12/20/232032/48703.jpeg"
+show_image_url: "Attachments/20161.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
+title: "An update from London"
 ---
 # An update from London
-
-![Cover](_media-sync_resources/2025/12/20/232032/97532.jpeg)
+![Cover](../../../Attachments/88455.jpeg)
 
 ## Episode metadata
 - Episode title: An update from London
@@ -28,15 +28,12 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ###  [BookTalk: TikTok creators discussing popular books and creating a decentralized book club](https://share.snipd.com/snip/3c0b583a-8866-4b65-89b6-fe7d01db4b4a) [[Processed]]
-
 🎧 21:04 - 22:22 (01:18)
 
 BookTalk is a popular topic discussed in the press and newsletters. It involves TikTok creators forming their own book clubs and sharing recommendations. It's like being friends with someone who tells a compelling story about a great book. It's also about being part of a collective experience, similar to watching a popular TV show and participating in discussions and memes. This participatory era values engagement and being involved.
 
 #### 📚 Transcript
-
 BookTalk, which we have talked about in the published press a lot. Many times. A lot. We've talked about that in the newsletter quite a bit.
 
 BookTalk are TikTok creators talking about popular books. Essentially, a lot of them running their own almost book clubs. It's like a decentralized book club. Yeah, it's super interesting. And this, to me, is just branding, marketing. It's one thing to walk into Barnes & Noble or go on Amazon and be like, here's the number one book of the summer. But if you see someone who you feel like you could be friends with, telling a really good story about a great story you should know about, that's all it is. It's like,

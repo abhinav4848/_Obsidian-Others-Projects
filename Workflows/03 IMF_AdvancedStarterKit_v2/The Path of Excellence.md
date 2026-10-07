@@ -1,3 +1,6 @@
+---
+title: "The Path of Excellence"
+---
 # The Path of Excellence
 Using all of my experience, knowledge, and quad-ruled engineering paper; I developed what would become known as The Path of Excellence.
 

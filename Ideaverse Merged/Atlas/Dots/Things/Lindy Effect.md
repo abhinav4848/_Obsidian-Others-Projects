@@ -6,7 +6,9 @@ in:
 created: 2015-09-01
 rank: 4
 says: The longer I'm around, the longer I'll be around
+title: "Lindy Effect"
 ---
+# Lindy Effect
  *The longer I'm around, the longer I'll be around*
 
 - The longer a non-perishable thing has been around, the longer it will be around. Like the spoon. Not like the human. 

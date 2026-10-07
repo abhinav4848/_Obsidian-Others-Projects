@@ -6,20 +6,19 @@ related:
 created: 2023-01-01
 tags:
   - map
+title: "Workflows"
 ---
+# Workflows
 Each person is different, but these are some workflows for you to consider. 
 
 > [!planet]+ ## Atlas Workflows
-> 
 > > [!wandy] Workflow: [[Ideaverse Merged/Atlas/Dots/Things/ARC Ideation]]
 > 
 
 > [!calendar]+ ## Calendar Workflows
-> 
 > > [!projector] Workflow: [[Ideaverse Merged/Atlas/Dots/Things/First Light, Last Light]]
 
 > [!training]+ ## Efforts Workflows
-> 
 > > [!scatterchart] Workflow: [[Ideaverse Merged/Atlas/Dots/Things/Effort Maestro]]
 
 
@@ -76,9 +75,7 @@ Each person is different, but these are some workflows for you to consider.
 
 
 > [!Zap]- # Workflows
-> 
 > > [!planet]+ ## Atlas Workflows
-> > 
 > > > [!wandy] Ideate
 > > 
 > > > [!aperture] Develop
@@ -88,10 +85,8 @@ Each person is different, but these are some workflows for you to consider.
 > > > [!waypoints] Wander, Nourish, and Stimulate
 > 
 > > [!calendar]+ ## Calendar Workflows
-> > 
 > > > [!projector] First Light, Last Light
 > 
 > > [!training]+ ## Efforts Workflows
-> > 
 > > > [!scatterchart] Budget Bandwidth
 > 

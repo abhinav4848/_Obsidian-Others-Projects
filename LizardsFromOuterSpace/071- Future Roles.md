@@ -1,3 +1,7 @@
+---
+title: "071- Future Roles"
+---
+# 071- Future Roles
 # Future Roles
 In the book _The Future of the Professions: How Technology Will Transform the Work of Human Experts_, author Richard Susskind lays out 12 different roles that will emerge from a “post-professional society”:
 

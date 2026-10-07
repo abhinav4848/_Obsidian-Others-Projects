@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zTnTob5JrFYF9NpU73Zg5a1
+title: "Inboxes shouldn’t be split into multiple places"
 ---
 # Inboxes shouldn’t be split into multiple places
 [[Inboxes only work if you trust how they’re drained]], but it’s hard to keep them that way. It’s even harder to do this if a single conceptual inbox (e.g. “things to read”) is spread across many different places.

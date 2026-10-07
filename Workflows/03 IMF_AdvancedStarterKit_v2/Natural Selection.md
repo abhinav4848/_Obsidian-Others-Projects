@@ -1,3 +1,6 @@
+---
+title: "Natural Selection"
+---
 # Natural Selection
 One of the most monumental of all concepts. So many fascinating angles. 
 

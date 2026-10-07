@@ -1,10 +1,11 @@
 ---
 URL: https://notes.andymatuschak.org/zD2oDSCgLEyM4xDhjRLXtuH?stackedNotes=z7RGGgVdDVHXkzJ6BVFKws8&stackedNotes=zG1S2XhBhJa7PWeSkKna2Y2
+title: "Deep collaborations between tool-makers and tool-users may support insight through making"
 ---
 # Deep collaborations between tool-makers and tool-users may support insight through making
 One of the key claims of [[Insight through making]] is that [[Effective system design requires insights drawn from serious contexts of use]]. But [[Great tool-makers are often not great tool-users, and vice-versa]], so it’s difficult to create powerful contexts for thinking thorough making. [[Groups researching tools for thought need enough capacity to build prototypes suitable for serious work]]. One approach is to closely pair a tool-maker with a tool-user. Ideally they’re deeply immersed in each other’s work, perhaps to the point that they can produce (bad) original insight in their counterpart’s domain.
 
-This approach also allows each person to remain focused and avoid switching costs: [Mental states of deep software development and deep research thinking are mutually exclusive](https://notes.andymatuschak.org/z7RGGgVdDVHXkzJ6BVFKws8).
+This approach also allows each person to remain focused and avoid switching costs: [[Andy Matuschak/Mental states of deep software development and deep research thinking are mutually exclusive|Mental states of deep software development and deep research thinking are mutually exclusive]].
 
 More on these collaborations:
 - [[Collaborations between tool-makers and tool-users depend on building effective “armories” of tool ideas]]

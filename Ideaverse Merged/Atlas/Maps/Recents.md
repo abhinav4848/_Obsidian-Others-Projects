@@ -6,8 +6,9 @@ related:
 created: 2023-10-16
 tags:
   - map/view
+title: "Recents"
 ---
-
+# Recents
 > [!watch]+ Last modified across the ideaverse
 > ``` dataview
 > TABLE WITHOUT ID

@@ -1,3 +1,7 @@
+---
+title: "100 Projects MOC"
+---
+# 100 Projects MOC
 tags: #MOC #projects #ideas #IMF
 Index: [[000 Index|Index]], [[100 Ideas MOC|Ideas]], [[100 Projects MOC|Projects]] 
 

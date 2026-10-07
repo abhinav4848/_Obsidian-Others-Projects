@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zN7KLBKWMTmFqthmFPVSNbP?stackedNotes=zGNVRh1q5gGeF88PbmYu4BB&stackedNotes=z9MxCsvv8DcHndqRECbxrRi
+title: "Y Combinator"
 ---
 # Y Combinator
 Y Combinator is a startup incubator which, besides funding, offers its participants a structured environment meant to accelerate both their company and their personal capacity. Many of the activities focus on conveying a honed set of practices and values: e.g. interviews and dinners with successful past founders transmit cultural knowledge almost mythically; a canonical set of books and talks do likewise; the tight Demo Day timeline mandates a certain way of doing; office hours provide direct coaching in the same principles.

@@ -1,3 +1,7 @@
+---
+title: "090 PKM MOC"
+---
+# 090 PKM MOC
 tags: #PKM #TOC
 links: [[000 Index|Index]] 
 

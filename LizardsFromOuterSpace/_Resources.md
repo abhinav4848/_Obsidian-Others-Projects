@@ -1,5 +1,8 @@
+---
+title: "_Resources"
+---
+# _Resources
 ### Further Research and Integration
-
 1. How does [bloom’s taxonomy revised](https://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy/) tie into this? What other learning frameworks are out there?
 2. Insights from [lasting learning](http://www.lastinglearning.com/)
 3. Insights from [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru)

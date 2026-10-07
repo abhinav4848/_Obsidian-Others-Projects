@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zKGjQtsTKgscAoq271ZzKqw?stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zFuk9QqspNYHAgvzZc33ZGH
+title: "Close open loops"
 ---
 # Close open loops
 # Close open Loops

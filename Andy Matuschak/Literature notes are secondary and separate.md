@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zKzUzQENhyEDnuwPUhh2EQM
+title: "Literature notes are secondary and separate"
 ---
 # Literature notes are secondary and separate
 Because [[Evergreen notes should be concept-oriented]] reference-specific notes should be both brief and clearly separated from the note archive. They primarily exist to help you write durable notes.

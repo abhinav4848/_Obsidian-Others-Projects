@@ -1,6 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/z9S1FAfAadbdvdR5QWZyXug
+title: "Cognitive science"
 ---
+# Cognitive science
 “The study of the mind and intelligent behavior, whether in humans, animals, machines, or in the abstract.” –UCSD COGS1.
 
 The first department of cognitive science was established at {UCSD} in {1988}.

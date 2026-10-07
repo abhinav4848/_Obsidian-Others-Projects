@@ -3,8 +3,9 @@ up:
   - "[[Ideaverse Merged/Ideaverse Map]]"
 related: []
 created: 2020-06-01
+title: "LYT FAQ"
 ---
-
+# LYT FAQ
 - **So now I have to manage MOCs?**
 	- Don't let the LYT, MOCs or anything become an "I have to" situation. You don't *have* to do anything. You don't have to make any map. Just go about your business of making notes for life. 
 	- The MOC will just hang out. You don't have to tend to it. There are no tasks to manage. You could never open your home note and MOCs for a whole year and they will be fine. Then on Day 366, if you click to them, they will be just as helpful. They are the big friendly giants of your ideaverse. 
@@ -31,7 +32,6 @@ created: 2020-06-01
 ---
 
 ## What is LYT and an Ideaverse? 
-
 *Q: What is an Ideaverse?*
 It's the universe of ideas that exists between your brain and everything around it—but usually it refers to your digitally linked notes.
 

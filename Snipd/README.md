@@ -1,15 +1,15 @@
+---
+title: "README"
+---
+# README
 # Snipd Plugin Usage Guide
-
-
 ## 1) Quick Access
-
 Click the Snipd icon in the left navigation bar. This will open up the default Base.
 
-![Snipd Ribbon Icon](_media-sync_resources/2025/12/20/231650/29959.png)
+![Snipd Ribbon Icon](../Attachments/29959.png)
 
 
 ## 2) Base file - Main Entry Point
-
 The plugin automatically creates a `Snipd` base file with 2 views:
 - **Podcast cards** in a visual card view
 - **Podcasts** in a table view
@@ -22,7 +22,6 @@ If you'd like to reset the Base file to the latest default version, simply delet
 
 
 ## 3) File & Folder Structure
-
 Here is the file structure of the content that would be updated by the plugin:
 
 ```yaml
@@ -36,9 +35,7 @@ Snipd: # (or your own Base Folder name)
 
 
 ## 3) Sync
-
 ### How does the sync work?
-
 Each time a sync is triggered, the plugin checks whether you have created or edited any snips in the meantime. If that is the case, one of two things will happen:
 
 **A) Entire Episode Markdown File is Replaced** 
@@ -58,7 +55,6 @@ For example, in this case, if you deleted an old snip that has already been sync
 - If the Bases file or this readme file are deleted, they will be recreated during the next sync. This way, you can reset these files to the latest default version.
 
 ### How to trigger a sync
-
 **Automatic Syncing**
 In the plugin settings, you can choose to automatically sync every time you start the Obsidian app (turned on by default), and/or sync at a given fixed interval.
 
@@ -70,7 +66,6 @@ If a sync is already ongoing, this will not do anything.
 
 
 ## 4) Custom Formatting
-
 Inside the plugin's settings, go to "Custom formatting" and click "Configure":
 - **Episode filename template**: Customize how episode files are named
 - **Episode template**: Control how episode files are formatted
@@ -80,7 +75,6 @@ For each segment, you can write your own custom format and use various variables
 
 
 ## Support & Feedback
-
 If you encounter any issues, have questions or want to pass along feature requests, please contact us via the in-app feedback button inside the Snipd mobile app.  
 You can find it in "You" -> Settings -> Feedback.
 

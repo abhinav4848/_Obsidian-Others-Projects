@@ -7,7 +7,9 @@ related:
   - "[[Ideaverse Merged/Atlas/Dots/Things/Natural Selection]]"
 created: 2020-06-01
 says: Stronger from stressors!
+title: "Antifragility"
 ---
+# Antifragility
  *Stronger from stressors!*
 
 Obi-Wan Kenobi's quote from Star Wars always reminds me of Antifragility:

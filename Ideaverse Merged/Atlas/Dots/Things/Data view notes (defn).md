@@ -4,7 +4,9 @@ up:
 related:
   - "[[Ideaverse Merged/Atlas/Dots/Things/MOCs (defn)]]"
 created: 2020-06-01
+title: "Data view notes (defn)"
 ---
+# Data view notes (defn)
  *You requested the latest TPS reports?*
 
 Do you ever wish you could save a search? You can. Saved searches are called "queries".

@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zLhoRUyjKU665EY16u4XXJy?stackedNotes=zTDjZQbKAT9pALtsk2HfePx&stackedNotes=zXRs9fj5BuX5FmrQzPxqWUs
+title: "Daily working log"
 ---
 # Daily working log
 Each day, I start a note titled with that day’s date; e.g. 2020-03-12. It captures ephemera throughout the day: reflections, scratch work, etc. It’s an intentional dumping ground, a release valve so that there’s always “a place to put that thing.”

@@ -4,7 +4,9 @@ in:
 tags:
   - "#map/view"
 created: {{date}}
+title: "Collections Template"
 ---
+# Collections Template
 This note collects all notes where the `in` property says `{{title}}`.
 
 ```dataview

@@ -3,7 +3,9 @@ up:
   - "[[Ideaverse Merged/Ideaverse Map]]"
 related: []
 created: 2020-06-28
+title: "What are higher-order notes"
 ---
+# What are higher-order notes
 First let's zoom out. Every note in a note library is a note. They come in two basic varieties: 
 
 1. A [[Ideaverse Merged/Atlas/Dots/Things/What is a note|note]] with mostly words

@@ -3,7 +3,9 @@ up:
   - "[[Ideaverse Merged/Ideaverse Map]]"
 related: []
 created: 2020-06-01
+title: "On the process of note-making"
 ---
+# On the process of note-making
 Note-making is a process for:
 
 1. idea creation and connection

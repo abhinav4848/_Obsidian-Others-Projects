@@ -1,3 +1,6 @@
+---
+title: "Conditions of Flow"
+---
 tags: [[lists]] 
 # Conditions of Flow
 The three conditions of flow, as described by Mihaly are:
@@ -9,7 +12,6 @@ The three conditions of flow, as described by Mihaly are:
 To quote Mihaly et al, "Of course, this is not to say that these are the only factors that affect the degree to which one becomes involved in an activity." They then mention the level of importance ([[Enthusiasm]]) to a person and how their actions in the moment align with their character and values ([[Enthusiasm]] and [[Direction]]). Mentioned elsewhere by Mihaly et al are the additional negative factors of distractions ([[Attention]]) and low self-esteem ([[Enthusiasm]])
 
 ### More Detailed Conditions of Flow
-
 Let's look at those three conditions of flow again, this time, relating them to major factors controlling them and giving you the levers needed to master them.
 
 1. **Clear proximal goals** — Right now, what am I doing and what do I need to do?

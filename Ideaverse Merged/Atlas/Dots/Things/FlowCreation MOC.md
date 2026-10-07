@@ -5,7 +5,9 @@ related: []
 created: 2020-06-01
 tags:
   - map
+title: "FlowCreation MOC"
 ---
+# FlowCreation MOC
  *Flowcreation: the choose your own adventure field guide*
 
 - [[Ideaverse Merged/Atlas/Dots/Things/Flow Map]]

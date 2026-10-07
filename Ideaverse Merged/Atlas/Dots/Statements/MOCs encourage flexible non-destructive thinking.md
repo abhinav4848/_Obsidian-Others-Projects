@@ -3,8 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Maps/Concepts]]"
 related: []
 created: 2020-06-01
+title: "MOCs encourage flexible non-destructive thinking"
 ---
-
+# MOCs encourage flexible non-destructive thinking
 MOCs allow for flexible idea rearrangement because you can map the same bits of information in completely different ways.
 
 Take a second to unpack what's going on here. This highlights a profound but under-appreciated aspect of MOCs. 

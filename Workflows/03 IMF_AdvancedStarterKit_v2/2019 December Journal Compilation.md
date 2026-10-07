@@ -1,3 +1,7 @@
+---
+title: "2019 December Journal Compilation"
+---
+# 2019 December Journal Compilation
 tags: #journal #compilation #IMF
 
 Here's an example of when I talked about hormesis and micro-workouts

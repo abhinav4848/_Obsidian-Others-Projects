@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zWWh96dE6YZYmDCoo37977X?stackedNotes=z6sX7ZcYdPiya3SzQ5segaq&stackedNotes=zBy719GfxuM9x1FioHdUpNn
+title: "Channel capacity of humans as information processors"
 ---
 # Channel capacity of humans as information processors
 One way to examine the limits of human information processing is to ask how much information can a person can reproduce from some stimulus they observe. In this framing, we can model the observer as a communications channel using tools from information theory. This figure (Pollack, 1953, p. 422) depicts the model:  

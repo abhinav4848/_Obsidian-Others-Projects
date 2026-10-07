@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/z9uHnUB5sQeGcEmmmqEGqBV?stackedNotes=zEwJDpZiu1YQoXYznxioznL&stackedNotes=zSQhVMNeFNGfggB9Pg6MMDX
+title: "Mental representations, after Ericsson and Pool"
 ---
 # Mental representations, after Ericsson and Pool
 Ericsson and Pool (2016) use the term “mental representations” as vernacular shorthand for the chunking schema ([[Chunks in human cognition]]) a person uses in some domain ([[Efficient chunk schemas usually encode domain-specific attributes]]).

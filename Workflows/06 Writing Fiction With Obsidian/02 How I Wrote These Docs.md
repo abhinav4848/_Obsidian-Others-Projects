@@ -1,5 +1,8 @@
+---
+title: "02 How I Wrote These Docs"
+---
+# 02 How I Wrote These Docs
 # How I Wrote These Docs
-
 Obsidian makes it very easy to write technical documentation and help files. The helpfiles for Obsidian were all written in Obsidian from the earliest beta! 
 
 Here's how I do it: 

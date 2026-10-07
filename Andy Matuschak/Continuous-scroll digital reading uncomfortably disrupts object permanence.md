@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/z9uM3R9kKGKfGowdMFWaSfH
+title: "Continuous-scroll digital reading uncomfortably disrupts object permanence"
 ---
 # Continuous-scroll digital reading uncomfortably disrupts object permanence
-
 It’s painful to read endlessly-long articles on the web, which scroll continuously. I always set my e-book readers to flip, not scroll continuously. One key cause seems to be that continuous scrolling interactions disrupt object permanence.
 
 When I read a physical book, if I find myself lost, I can flip backwards a few pages, keeping my finger in my current reading spot. [LiquidText](https://notes.andymatuschak.org/zN9pG99Y6GY8f6YjUTiKi5Z)’s solution probably suffices when flipping forward to understand the book’s structure, but it doesn’t help as much when flipping backwards because I’m also using the discrete physical layout of the page in this operation: for instance, I might vaguely recall that the sentence I’m looking for is on a right-facing page, towards the bottom, etc.

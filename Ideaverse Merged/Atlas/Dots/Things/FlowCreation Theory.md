@@ -4,8 +4,9 @@ up:
 related:
   - "[[Ideaverse Merged/Atlas/Dots/Things/Conditions of Flow]]"
 created: 2020-06-01
+title: "FlowCreation Theory"
 ---
-
+# FlowCreation Theory
 [[Ideaverse Merged/Atlas/Dots/Things/FlowCreation Theory]] is about creating the [[Ideaverse Merged/Atlas/Dots/Things/Conditions of Flow]], not actually Creating Flow, because Flow cannot directly be created. You can only create the conditions of flow, and give yourself the best chance of entering it. %%(Nick, go deeper at [[Flow, Insights, and Acting cannot be forced]] - not included in the Ideaverse for Obsidian)%%
 
 Let's look at the Flow Map with a bunch of extra descriptors added:
@@ -26,5 +27,4 @@ There are four broad areas to cover when setting up the conditions for Flow. Her
 4. "I'm tired, I have a headache, everything feels like too much." Why are my Energy levels down? What needs to be improved out of the following: quality of sleep, diet, exercise, leisure time, and/or relationships?
 
 ## Four Factors of Flow
-
 I have found that using the Flow Map to find your current State of Mind is a valuable exercise to improving it. Equally valuable is using it to find any glaring weaknesses in the elements that help create a good State of Mind. I have found that there are essentially [[Ideaverse Merged/Atlas/Dots/Things/Four Factors of Flow]]. They are: [[Ideaverse Merged/Atlas/Dots/Things/Direction (re Flow)]], [[Ideaverse Merged/Atlas/Dots/Things/Attention (re Flow)]], [[Ideaverse Merged/Atlas/Dots/Things/Enthusiasm (re Flow)]], and [[Ideaverse Merged/Atlas/Dots/Things/Energy (re Flow)]]. The best way to improve your experience is to identify what you're lacking, and then taking actions to strengthen that area.

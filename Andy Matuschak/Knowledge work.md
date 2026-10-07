@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zAVF3mepMcuTWVUJaeHTL77?stackedNotes=zUJzDyeg71G9XRAXjgHQS6y&stackedNotes=zGFtGAjdHWAT5sHiGxCLCqK
+title: "Knowledge work"
 ---
 # Knowledge work
 After “knowledge industries” were introduced as a key U.S. economic concern by Fritz Machlup in 1962, Peter Drucker described those activities as “knowledge work” in 1969. ==Or perhaps in 1966 in _The Effective Executive_—will need to check==

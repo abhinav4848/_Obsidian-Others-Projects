@@ -3,8 +3,9 @@ up:
   - "[[Ideaverse Merged/Ideaverse Map]]"
 related: []
 created: 2020-06-01
+title: "Is LYT For Me"
 ---
-
+# Is LYT For Me
 _Disclaimer_: If you are completely new, ignore most of Ideaverse Lite and just start making notes. Come back after you have at least 100 notes.
 
 **If you're just starting out**
@@ -22,7 +23,6 @@ Note retrieval issues become amplified: can you find the thing you're looking fo
 ---
 
 ## If you have Asperger's, or ADHD, or you just tend to over-organize
-
 I implore you to approach Ideaverse Lite with caution. Sure, it's awesome, but you can't leap to "11" and bypass counting "1, 2, 3, 4, 5, 6, 7, 8, 9, 10". The only structure that can work over time, is the structure that slowly emerges over time—validating its own existence through its use.
 
 This kit shows you how to get there, but DO NOT start structuring your "ultimate" system right now. It will fail you, because it will be fragile, because it wasn't forged in the fire of practical usage. You will waste time and enthusiasm—and could possibly burn out.

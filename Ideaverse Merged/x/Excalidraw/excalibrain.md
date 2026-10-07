@@ -7,7 +7,9 @@ excalidraw-linkbutton-opacity: 0.3
 excalidraw-onload-script: app.plugins.plugins[`excalibrain`].start(ea.targetView.leaf);
 tags:
   - x/excalidraw
+title: "excalibrain"
 ---
+# excalibrain
 # Text Elements
 Open a document in another pane and click it to get started.
 

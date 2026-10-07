@@ -3,8 +3,9 @@ up:
   - "[[Ideaverse Merged/Home Pro]]"
 related: 
 created: 2023-11-30
+title: "Welcome to Ideaverse Pro"
 ---
-
+# Welcome to Ideaverse Pro
 - Welcome!
 - Why are you here?
 - What Pro is?

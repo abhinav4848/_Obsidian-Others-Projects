@@ -1,5 +1,8 @@
+---
+title: "090- Cross Thinking"
+---
+# 090- Cross Thinking
 # Cross Thinking
- 
 is the ability to see patterns (20e) in thinking ([[088- Thinking]]) and conceptualization (10d1). Then connecting how you can apply concepts ([[043- Concept]]) across domains. Two examples are:
 
 - Story of applying ecological extinction patterns to business extinction patterns to come to the insight that planning the future is impossible, from _Adapt: Success starts with Failure_    

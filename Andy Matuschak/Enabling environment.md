@@ -1,9 +1,12 @@
+---
+title: "Enabling environment"
+---
 # Enabling environment
 An _enabling environment_ significantly expands its participants’ capacity to do things they find meaningful and important.
 
 Schools ostensibly aspire to this purpose, but [[Educational objectives often subvert themselves]] in large part because [[Enabling environments’ activities directly serve an intrinsically meaningful purpose]]. In general, [[Enabling environments focus on creating opportunities for growth and action, not on skill-building]]. 
 
-Many other social institutions represent powerful enabling environments. Highly functional corporations are often great examples of enabling environments. In these organizations, new employees might feel far more personally capable than they ever had before, even after many years of experience. Likewise, [Y Combinator](https://notes.andymatuschak.org/z9MxCsvv8DcHndqRECbxrRi) is an enabling environment.
+Many other social institutions represent powerful enabling environments. Highly functional corporations are often great examples of enabling environments. In these organizations, new employees might feel far more personally capable than they ever had before, even after many years of experience. Likewise, [[Andy Matuschak/Y Combinator|Y Combinator]] is an enabling environment.
 
 Great software environments are enabling environments. Photoshop expands experts’ range of artistic expression and unlocks previously-rarefied photo enhancement techniques for novices. Software development tools enable teenagers to make games and distribute them to millions at zero marginal cost. By contrast, [Most games aren’t enabling environments](https://notes.andymatuschak.org/zS7EYYnBEDPVcYdqCRTCi5Q), and [Educational games are a doomed approach to creating enabling environments](https://notes.andymatuschak.org/zUVBJdPc4kBud5fsLmPFpbw). 
 
@@ -12,14 +15,13 @@ Books and videos rarely deliver here: [Mass mediums are typically bad at helpin
 A collection of densely-connected [[Andy Matuschak/Evergreen Notes]] can be an enabling environment for the author: [[Evergreen note-writing helps insight accumulate]]. (See also [[Evergreen note-writing as fundamental unit of knowledge work]])
 
 ## Designing enabling environments
+Enabling environments are generally authored, but [[Andy Matuschak/Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes|Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes]]. [[Andy Matuschak/Authored environments are significantly colored by authors’ motivations|Authored environments are significantly colored by authors’ motivations]]; that often means [[Andy Matuschak/Powerful enabling environments focus on expert use|Powerful enabling environments focus on expert use]].
 
-Enabling environments are generally authored, but [Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes](https://notes.andymatuschak.org/z2huUCj3ko99HdzFcmEDfZD). [Authored environments are significantly colored by authors’ motivations](https://notes.andymatuschak.org/z4wZFERkVVVVy6bN6BE8kQz); that often means [Powerful enabling environments focus on expert use](https://notes.andymatuschak.org/zY3aLuvtsYS54QnymGKFGwg).
-
-[Designing new enabling environments can be framed as designing a University++](https://notes.andymatuschak.org/zyjePyZ77P2BfdkRBuQB2x)
+[[Andy Matuschak/Designing new enabling environments can be framed as designing a University++|Designing new enabling environments can be framed as designing a University++]]
 
 Challenges in authoring enabling environments:
 
-- [Enabling environments focus on doing what’s enabled](https://notes.andymatuschak.org/z2etsLyP1LJUwNDPCwvRdUG)
+- [[Andy Matuschak/Enabling environments focus on doing what’s enabled|Enabling environments focus on doing what’s enabled]]
 
 Some mechanisms for designing these environments ==TODO expand into notes:==
 
@@ -36,4 +38,4 @@ Some mechanisms for designing these environments ==TODO expand into notes:==
     - SICP
     - Minecraft’s 3D editor vs. pre-existing voxel editors
     - (many existing environments here, like SICP and most executable notebooks, interplay weakly with where the enabled action happens, which significantly limits their power)
-    - (here’s the opportunity for dynamic [Cognitive scaffolding](https://notes.andymatuschak.org/zWSH2QNUsrTGP4V15JBaaEv), [Enacted experiences amplify the power of narrative](https://notes.andymatuschak.org/zQ9BWTY2JK6eJvCSqupc7UF), and some other Primer design elements)
+    - (here’s the opportunity for dynamic [[Andy Matuschak/Cognitive scaffolding|Cognitive scaffolding]], [[Andy Matuschak/Enacted experiences amplify the power of narrative|Enacted experiences amplify the power of narrative]], and some other Primer design elements)

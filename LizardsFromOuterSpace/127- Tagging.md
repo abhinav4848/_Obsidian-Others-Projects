@@ -1,3 +1,7 @@
+---
+title: "127- Tagging"
+---
+# 127- Tagging
 **Tags** are keywords/terms assigned to a piece of information to facilitate later retrieval. There are primarily two different type of tags I think about, keyword tags and thematic tags.
 
 **Keyword Tags** - you can use tags to create a unique [[026- Index]]. You do this by giving each note a tag specific enough that you will only ever have a couple notes per tag. When using tags in this manner, you do not want to tag every note. Instead you just want to create entry point into all the notes you have on a topic. An example of this would be creating a `#cognitive-skills` tag that leads to [[079- Cognitive Skills|this note]], which is the start of a sequence of notes on cognitive skills.

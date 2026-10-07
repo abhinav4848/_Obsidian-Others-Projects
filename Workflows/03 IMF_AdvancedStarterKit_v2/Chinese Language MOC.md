@@ -1,3 +1,7 @@
+---
+title: "Chinese Language MOC"
+---
+# Chinese Language MOC
 tags: #chinese #language
 links: [[040 Interests MOC|Interests]]
 

@@ -15,7 +15,9 @@ peopleDomain:
 peopleGroups:
 lifespan: 1959 -
 image: https://wp.penguin.co.uk/wp-content/uploads/2020/10/Main-Wim-Hof-by-Innerfire.jpg
+title: "Wim Hof"
 ---
+# Wim Hof
 I'm a big fan of the adventurous and eclectic Iceman. Here's an essay: [[Ideaverse Merged/Atlas/Dots/Things/Exploring Wim Hof's Breath Manipulation (kit)]].
 
 ### Wiki

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z4EXkuLjdBrBZe7PVAGXc5a?stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zF8xCU4BwXwbmSyp7tmff9i
+URL: ["https://notes.andymatuschak.org/z4EXkuLjdBrBZe7PVAGXc5a?stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zF8xCU4BwXwbmSyp7tmff9i", "https://notes.andymatuschak.org/zNUaiGAXp21eorsER1Jm9yU"]
+title: "Evergreen notes should be atomic"
 ---
 # Evergreen notes should be atomic
 It’s best to create notes which are only about one thing—but which, as much as possible, capture the entirety of that thing.

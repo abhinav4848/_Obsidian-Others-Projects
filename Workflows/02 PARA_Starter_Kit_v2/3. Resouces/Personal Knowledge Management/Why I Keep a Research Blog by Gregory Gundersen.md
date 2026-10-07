@@ -1,3 +1,7 @@
+---
+title: "Why I Keep a Research Blog by Gregory Gundersen"
+---
+# Why I Keep a Research Blog by Gregory Gundersen
 http://gregorygundersen.com/blog/2020/01/12/why-research-blog/
 
 Before I started taking writing seriously, I had a loose grasp of many mathematical and technical concepts; and I was not sure how to tackle open-ended problem

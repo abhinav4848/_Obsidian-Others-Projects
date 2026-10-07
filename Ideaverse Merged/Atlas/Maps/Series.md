@@ -10,11 +10,12 @@ tags:
 created: 2022-01-01
 cssclasses:
   - wide-page
+title: "Series"
 ---
+# Series
 This note collects all notes where the `in` property says `Series`.
 
 # Series sorted by Ratings
-
 > [!Waves]+ Series sorted by Ratings, with Covers & YearXP
 > ```dataview
 > TABLE WITHOUT ID

@@ -4,8 +4,9 @@ up:
 related: []
 created: 2014-06-28
 modified: 2020-05-28
+title: "Preparing for the next day is an important habit"
 ---
-
+# Preparing for the next day is an important habit
 This should read as common sense. Still, a refresher is nice.
 
 - Start the night before.

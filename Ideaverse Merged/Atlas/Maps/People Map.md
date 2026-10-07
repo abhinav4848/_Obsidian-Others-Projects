@@ -5,7 +5,9 @@ related: []
 created: 2016-06-01
 in: 
 - "[[Ideaverse Merged/Atlas/Maps/Maps]]"
+title: "People Map"
 ---
+# People Map
 Have a place to honor the importance of the people your life.  Once you feel comfortable, adding notes for people—whether they are living or not—you will notice how it helps your understanding of them.
 Here's a cool view for you:
 

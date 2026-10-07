@@ -1,5 +1,7 @@
+---
+title: "Let ideas and beliefs emerge organically"
+---
 # Let ideas and beliefs emerge organically
-
 Beware preconceived notions. [[Do your own thinking]].
 
 - Producing work more quickly by using existing work

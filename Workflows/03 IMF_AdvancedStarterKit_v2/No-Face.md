@@ -1,3 +1,6 @@
+---
+title: "No-Face"
+---
 # No-Face
 *The self-destructive primal tension everybody harbors.*  
 

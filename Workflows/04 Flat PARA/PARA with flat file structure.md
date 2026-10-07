@@ -1,5 +1,8 @@
+---
+title: "PARA with flat file structure"
+---
+# PARA with flat file structure
 # PARA in a flat file system
-
 The package created by @cotemaxime [[START HERE!]] lays out how to create a PARA system using multiple folders. One of the great strengths of PARA is the ability to file anything relevant to the various sections in one place in a filesystem alongside your notes. However, almost all of my work is done in markdown files, and it is very rare that I have support files that are not viewable within Obsidian. So, I created a version of PARA that works with Virtual Folders, which are just notes containing links to other notes. These are notes inside my root Vault directory, though they could just as easily be moved to a subdirectory if you wanted more separation there. 
 
 I have a file named `000 PARA INDEX`. The numbering is so alphabetical sort brings it near the top of my list, so I can easily access it in the file explorer. It looks like this: 

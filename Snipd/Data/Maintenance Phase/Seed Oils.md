@@ -16,9 +16,9 @@ show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstorage.buzzsprout.com%2Ffec
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 2
 from_snipd: true
+title: "Seed Oils"
 ---
 # Seed Oils
-
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fstorage.buzzsprout.com%2Ffec61jabs16rwgkpgcrqwe7puh43%3F.jpg&w=200&h=200)
 
 ## Episode metadata
@@ -34,20 +34,16 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ###  [Worst Person, Good Point](https://share.snipd.com/snip/bd2fb543-218c-4e69-bf3d-a2082aa31ae7) 
-
 🎧 06:20 - 07:20 (01:00)
 
 - Aubrey observes the irony of Andrew Tate making a valid point about seed oils.
 - She likens it to the Onion's 'Worst person you know just made a really great point' meme.
 
 #### 💬 Quote
-
 > You're afraid of sunflowers.
 
 #### 📚 Transcript
-
 **Aubrey Gordon:** is maybe the most profound example of a stopped clock is right twice a day that we've ever had on this show okay you're gonna love this uh
 
 **Michael Hopps:** this is a tweet from andrew tate friend of the show and Tate. The tweet opens in all caps. Seed oils, seed oils, OMG, seed oils, OMG, fucking OMG, seed oils. Fuck, fuck, OMG, fuck. I can tell you losers have never had real enemies. You're afraid of sunflowers.
@@ -63,14 +59,12 @@ from_snipd: true
 ---
 
 ###  [Fact-checking Grifters](https://share.snipd.com/snip/0a9dc5f0-3d4a-4d10-9893-5bc5649daf65) 
-
 🎧 17:57 - 17:57 (00:00)
 
 - When fact-checking grifters who cite studies, don't just double-check the citation. 
 - Instead, perform a new search for meta-analyses to understand the broader scientific consensus.
 
 #### 💬 Quote
-
 > What you have to do here is you don't just have to double check the citation. You have to basically do a completely new search for like meta-analyses of canola oil's effects on rats.
 > — Aubrey Gordon
 

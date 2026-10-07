@@ -2,7 +2,9 @@
 aliases:
   - Frame truth-seeking questions in terms of “to what extent?” and “in what sense?” rather than binaries
 URL: https://notes.andymatuschak.org/z4jRNWgKHL9dq1fH9qq3JhM?stackedNotes=zAQj4GEE7PWDDcSreCGHTP9&stackedNotes=zQA9XEs7Cph3PkM8hEiJDAn
+title: "Frame truth-seeking questions in terms of “to what extent” and “in what sense” rather than binaries"
 ---
+# Frame truth-seeking questions in terms of “to what extent” and “in what sense” rather than binaries
 # Frame truth-seeking questions in terms of “to what extent?” and “in what sense?” rather than binaries
 The easiest, most common form of question-asking is to ask yes/no questions: “Is intelligence inherited?”. But meaningful human-scale topics are almost never so black and white, and often the most important details are in the edge cases. When trying to [[Get curious]], it’s almost always more interesting and instructive to ask “to what extent is X true?” or “when is X true?” than it is to ask “is X true?”.
 

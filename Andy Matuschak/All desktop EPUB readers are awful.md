@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zTnTob5JrFYF9NpU73Zg5a1?stackedNotes=z4aipv9wyMg4qZGANaVjkrJ&stackedNotes=zX95uZHiGWNiNTDF3wETWtq
+title: "All desktop EPUB readers are awful"
 ---
 # All desktop EPUB readers are awful
 It’s pretty shocking how bad e-book readers are on the desktop.

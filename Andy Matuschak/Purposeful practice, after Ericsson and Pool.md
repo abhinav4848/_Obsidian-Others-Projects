@@ -1,6 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/z9uHnUB5sQeGcEmmmqEGqBV
+title: "Purposeful practice, after Ericsson and Pool"
 ---
+# Purposeful practice, after Ericsson and Pool
 Purposeful practice, as defined by Ericsson and Pool (2016, p. 14-22), is driven by {specific}, {proximate} goals, with difficulty set to {just outside your comfort zone ([[Skill development requires challenging homeostasis]])}. To orchestrate this type of practice, you’ll need {good feedback}, which in turn usually requires {a coach}.
 
 This type of practice is generally more characteristic of what produces experts; compare to [[Naive approaches to practice rapidly plateau]]. But, according to them, it’s not as powerful as [[Andy Matuschak/Deliberate practice|Deliberate practice]], a kind of purposeful practice which benefits from highly-developed training methods specifically designed to enhance performance.

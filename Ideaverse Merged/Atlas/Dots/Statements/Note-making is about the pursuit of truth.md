@@ -3,8 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Dots/Things/On the process of note-making]]"
 related: []
 created: 2020-06-01
+title: "Note-making is about the pursuit of truth"
 ---
-
+# Note-making is about the pursuit of truth
 *Where our attention goes, is where our meaning grows.*
 
 So if we spend our time *making* notes, we are naturally trying to make sense of things. When we forge evergreen notes and make MOCs, we are forced to ask meaningful questions:

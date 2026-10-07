@@ -1,3 +1,7 @@
+---
+title: "How to Train Your Cat to Use Wood Pellet Litter"
+---
+# How to Train Your Cat to Use Wood Pellet Litter
 https://pethelpful.com/cats/Training-Your-Cat-to-Wood-Pellet-Litter
 
 

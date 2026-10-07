@@ -1,3 +1,7 @@
+---
+title: "3 years rule note"
+---
+# 3 years rule note
 From Matt D'avella video
 
 You need to give yourself the opportunity to succeed and you need to realize it's going to take longer than you thought

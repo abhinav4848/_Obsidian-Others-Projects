@@ -27,6 +27,8 @@ yearXP: 2006
 yearXPL: 2017
 showStatus: watched
 rating: 5.3
+title: "12 Angry Men"
 ---
+# 12 Angry Men
 ![poster](https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg)
 

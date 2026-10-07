@@ -4,7 +4,9 @@ up:
 related:
   - "[[Ideaverse Merged/Atlas/Dots/Sources/Analogy as Core (talk)]]"
 created: 2020-06-01
+title: "Chunking"
 ---
+# Chunking
  *It takes years of focused reps to chunk like an expert.*
 
 Something tells me Tom Brady and Cam Newton see different things. Cam Newton might be 11 defenders. Something tells me Tom Brady sees larger movements and patterns in the defense that he can't even articulate—but he sees them and makes the right read. 

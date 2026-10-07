@@ -1,3 +1,7 @@
+---
+title: "How to build community around your publication"
+---
+# How to build community around your publication
 Tags: [[Article]] [[Community]] - [[Email Marketing]] 
 Author: Substack Blog
 From: email

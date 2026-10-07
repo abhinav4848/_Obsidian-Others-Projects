@@ -1,3 +1,7 @@
+---
+URL: "https://notes.andymatuschak.org/z8ccRLda8BqJafNxjQBpzis"
+title: "Understanding requires effortful engagement"
+---
 # Understanding requires effortful engagement
 If you want to really understand an idea, you have to grapple with it.
 
@@ -21,5 +25,3 @@ And Schopenhauer:
 # Reference
 1. Kosslyn, S. M. (2017). The Science of Learning: Mechanisms and Principles. In S. M. Kosslyn & B. Nelson (Eds.), *Building the Intentional University: Minerva and the Future of Higher Education* (1 edition, pp. 149–164). Cambridge, MA: The MIT Press.
 2. Schopenhauer, A. (2015). On reading and books. In C. Janaway (Ed.), & A. Del Caro (Trans.), *Parerga and Paralipomena: Short Philosophical Essays* (Vol. 2). [https://doi.org/10.1017/CBO9781139016889](https://doi.org/10.1017/CBO9781139016889) (Original work published 1851)
-# Source
-1. [Understanding requires effortful engagement](https://notes.andymatuschak.org/z8ccRLda8BqJafNxjQBpzis)

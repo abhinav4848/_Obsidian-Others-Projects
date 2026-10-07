@@ -1,13 +1,15 @@
 ---
 URL: https://notes.andymatuschak.org/zSve33D7x1qe5WUjojDcM9y
+title: "My daily routine"
 ---
+# My daily routine
 Working independently means the burden and opportunity of creating my own structure. I’ve found ritual and routine essential to guide me.
 
-When my days don’t go well, it’s often because something derailed me in the morning, and I never really got back on track. [The high-order bit for my productivity is whether I complete a deeply-focused morning creative block](https://notes.andymatuschak.org/z2q7U5ZvXeDxXD6vXAbZb9a). So my day is structured around making intense creative mornings happen.
+When my days don’t go well, it’s often because something derailed me in the morning, and I never really got back on track. [[Andy Matuschak/The high-order bit for my productivity is whether I complete a deeply-focused morning creative block|The high-order bit for my productivity is whether I complete a deeply-focused morning creative block]]. So my day is structured around making intense creative mornings happen.
 
 - ~7:00: Wake; shower; walk, train, feed my dog; make coffee
 - ~7:45 – 13:45: Uninterrupted morning working block
-    - Default environment: WiFi off; [Forest](https://www.forestapp.cc/) on my phone; alone at my desk ([It’s hard to hear yourself think](https://notes.andymatuschak.org/zWzVw2VM4TPjpKXnHUfLaso))
+    - Default environment: WiFi off; [Forest](https://www.forestapp.cc/) on my phone; alone at my desk ([[Andy Matuschak/It’s hard to hear yourself think|It’s hard to hear yourself think]])
     - No meetings; working in 25m/5m pomodoros (see notes on [Pomodoro technique](https://notes.andymatuschak.org/zUc2ssyE7CrHCFX57zhgpgx)); no extended breaks (I find maintaining momentum is more important than combatting fatigue)
     - Start a  [[Daily working log]], write for a minute or so about how I’m feeling and my intentions for the day; look at my [[menu]] for the week, get a sense of what I’d like to dig into.
     - Dig into whatever seems most exciting creatively, usually sticking to one task for the entire block

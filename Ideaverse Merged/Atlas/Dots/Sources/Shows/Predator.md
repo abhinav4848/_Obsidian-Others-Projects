@@ -29,6 +29,8 @@ yearXP: 2012
 yearXPL: 2023
 showStatus: watched
 rating: 5.5
+title: "Predator"
 ---
+# Predator
 ![poster](https://m.media-amazon.com/images/M/MV5BZTRjYzcxNTktMWUwMi00N2UwLWEyODYtOTIzZDE3ZjVmMGRhXkEyXkFqcGdeQXVyMjI0NTA4NzA@._V1_SX300.jpg)
 

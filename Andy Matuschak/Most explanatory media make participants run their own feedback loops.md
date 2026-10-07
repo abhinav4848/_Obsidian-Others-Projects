@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zKRrv2DmKp3VyDEp3oXrKXQ?stackedNotes=zBcm1RNbzedjDMTt8rRxoWt&stackedNotes=z2zCVix7FhroZGyufoXSXbx
+title: "Most explanatory media make participants run their own feedback loops"
 ---
 # Most explanatory media make participants run their own feedback loops
 [[Learning requires metacognition]]. When learning something new from a text, readers must constantly ask themselves: did I understand that? what questions can I ask myself to check my understanding? should I reread that passage? should I consult a reference for background on that? etc.

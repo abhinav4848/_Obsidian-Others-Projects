@@ -3,8 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Maps/Habits Map]]"
 related: []
 created: 2013-03-10
+title: "Charting out habit cycles in my life circa 2013"
 ---
-
+# Charting out habit cycles in my life circa 2013
 The following is an example of me considering the habitual cues in my life that I wanted to control in March of 2013.
 
 ### MORNING

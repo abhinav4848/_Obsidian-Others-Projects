@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/z5beUfpCZpi6fibB4vFfhzF
+title: "Quit Your Job - Wolf Tivy"
 ---
 # Quit Your Job - Wolf Tivy
 By [[Wolf Tivy]], in [Palladium Magazine](https://notes.andymatuschak.org/z159f2ooSvPMdnzdrHiTN32) [https://palladiummag.com/2022/01/06/quit-your-job/](https://palladiummag.com/2022/01/06/quit-your-job/)
@@ -23,7 +24,6 @@ Q. If you have the means to quit your job, in what sense is it your social respo
 A. Progress depends on insights derived from the pursuit of interesting novelty; working a job constrains that pursuit.
 
 ## Excerpts
-
 > The best search strategies for complex problems like life generally don’t seek out particular homogeneous objectives, but interesting novelty. The search space is too complicated and unknown for linear objective-chasing to work. … You cannot pursue interesting novelty—things that no one else is doing or which you have never seen before, or the little threads of nagging curiosity or doubt—by chasing along known direct value gradients. But that’s where the treasure is. … To get the biggest and most interesting payoffs, you have to start by chasing merely interesting novelty in an open-ended way.
 
 > Haul yourself back out and take your appointed sentence of years of hard leisure while you search for inspiring purposes that are truly worth your life and for the skills and secret knowledge you will need to fulfill them. You will find them only in the strange and unjustifiable curiosities you have when you’ve been freely following informed instinct for months.
@@ -33,7 +33,6 @@ A. Progress depends on insights derived from the pursuit of interesting novelty;
 > So quit your job and become the wild and ambitious elites you wish to see in the world. Live by instinct in the untracked frontier, shoot your shot, and live or die by your intuitive visions of what must be done. You can carry out your cosmic duty and win glory only in the bold attempt.
 
 ## Twitter thread
-
 When people ask where I work, I sometimes describe myself as “feral”. It’s a joke… but also a serious aspiration. Good things happen when I try as hard as I can to chase my sense of excitement, ignoring impulses to produce legible outcomes. This essay really captures the aim: [https://palladiummag.com/2022/01/06/quit-your-job/](https://palladiummag.com/2022/01/06/quit-your-job/)
 
 The central argument is that the most meaningful paths—for you and for the world—can’t be planned; you have to uncover them by chasing interesting novelty, without safe knowledge of which paths will succeed or fail. But working a job usually makes that impossible.

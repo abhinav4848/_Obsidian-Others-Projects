@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zKtYU4Uk7aTCGyqHr9Ca3Sb?stackedNotes=z2nUCgx2yYZFT1zaFSocZop&stackedNotes=z7X8C3Fy4wQ7nhQFaVx1aUD
+title: "Communities of action often form around media artifacts"
 ---
 # Communities of action often form around media artifacts
 Karl Marx, Stewart Brand, Adam Smith, Vannevar Bush, Ayn Rand—all these people instigated incredibly powerful communities of action, and each community centered around some small set of published works. These works create common knowledge of both a set of ideas and also a shared goal. They also become iconic, a symbol to denote membership in group.

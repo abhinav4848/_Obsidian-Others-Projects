@@ -1,9 +1,9 @@
 ---
 URL: https://notes.andymatuschak.org/zMybAxZcdkJHKSATuSZbEhz?stackedNotes=zUR6RM21Sa88cFDfC47svVv&stackedNotes=z26C6ing3sqiZMHRVFuT6xn
+title: "Generation effect"
 ---
 # Generation effect
 # Generation effect
-
 The generation effect suggests that people are better able to remember material which they themselves generate, compared to material which they read or which is presented to them.
 
 For instance, Slamecka and Graf (who coined the name for this effect in 1978) showed that memory performance was better when people had to generate a target word in an association pair (rhyme: wave / c??e) than when they read an association pair (rhyme: wave / cave).

@@ -1,3 +1,6 @@
+---
+title: "Transcendental narrative"
+---
 # Transcendental narrative
 Stories, practices, and values which give structure and meaning to life, suggest what’s worth doing, situates people relative to others, etc. Religion is the traditional source, but secular alternatives include:
 - “spiritual” sources like meditation, yoga, astrology
@@ -14,7 +17,6 @@ Related: [Ikigai](https://notes.andymatuschak.org/z4AEKngFy96zQBoW1vw5ro3)
 ---
 
 ## References
-
 [https://github.com/mnielsen/tpft/blob/master/big_picture.md](https://github.com/mnielsen/tpft/blob/master/big_picture.md)
 
 > Empirically, there’s nearly always a dominant transcendent narrative in any culture. In ours it’s most often some descendant of the Protestant work ethic: get-good-grades-in-school so you can go to a top university, then get a well-paid, highly respected job doing meaningful work, _etc_. It’s interesting to think about ways that narrative gets replaced. Paul Graham has tried, in part, to replace it. The Primer tried in some ways to inculcate something like the above, since Nell didn’t have it herself. It really did provide Nell with a lot of meaning. Or, perhaps more accurately, it opened the door to a lot of meaning. Is it possible to collectively construct a more powerful transcendent narrative?

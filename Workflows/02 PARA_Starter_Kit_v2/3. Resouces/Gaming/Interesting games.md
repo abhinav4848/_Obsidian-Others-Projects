@@ -1,3 +1,7 @@
+---
+title: "Interesting games"
+---
+# Interesting games
 - Dwarf fortress
 - Lutris
 - Crusader Kings

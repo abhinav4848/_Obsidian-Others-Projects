@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zN7KLBKWMTmFqthmFPVSNbP?stackedNotes=z984ZZLbG4wREM6HAZAovMB&stackedNotes=z179DabP631i5Mjf2DBMwoS
+URL: ["https://notes.andymatuschak.org/zN7KLBKWMTmFqthmFPVSNbP?stackedNotes=z984ZZLbG4wREM6HAZAovMB&stackedNotes=z179DabP631i5Mjf2DBMwoS", "https://notes.andymatuschak.org/z984ZZLbG4wREM6HAZAovMB"]
+title: "Enacted experiences have incredible potential as a mass medium"
 ---
 # Enacted experiences have incredible potential as a mass medium
 I believe it’s possible to create an [[Enacted experience]] with the primary purpose of communicating ideas, values, and practices—akin to doing the “job” of a book. This is a powerful proposition because [[Enacted experiences can create intense personal connection to authored targets]] and [[Enacted experiences can bootstrap active participation in enabling environments]].

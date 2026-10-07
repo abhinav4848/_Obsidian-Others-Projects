@@ -7,7 +7,9 @@ related:
 created: 2020-06-01
 rank: 2
 says: I am the "It"
+title: "The Id"
 ---
+# The Id
  *I am the "It"*  
 
 - The source of our bodily needs, wants, desires, and impulses, particularly our sexual and aggressive drives. 

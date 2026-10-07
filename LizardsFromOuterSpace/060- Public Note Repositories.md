@@ -1,3 +1,7 @@
+---
+title: "060- Public Note Repositories"
+---
+# 060- Public Note Repositories
 # Public Note Repositories
 are collections of peoples personal notes made public. I’m still thinking about the utility of them. On one hand they are a good for showing others a tangible example of how to create a notes collections. My favorite so far is [Andy’s Working Notes](https://notes.andymatuschak.org/About_these_notes) in terms of layout and quality of content.
 

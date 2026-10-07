@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zWTgG8ddRz5h1WbNMYnrnqX?stackedNotes=zY4QE4Q6NJpGZZh4Binv2xB&stackedNotes=z6UeyEqpiLy4E6CSkTbN8Tc
+title: "Sense of abundance"
 ---
 # Sense of abundance
 Expansive, curious, open, unfearful, unhurried. The opposite of [[Scarcity mindset]]. 

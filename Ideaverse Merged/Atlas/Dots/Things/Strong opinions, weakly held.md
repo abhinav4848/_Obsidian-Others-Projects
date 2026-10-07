@@ -7,7 +7,9 @@ related:
 created: 2020-05-28
 rank: 4
 says: 
+title: "Strong opinions, weakly held"
 ---
+# Strong opinions, weakly held
 This a long but powerful quote:
 
 > The fastest way to an effective forecast is often through a sequence of lousy forecasts. Instead of withholding judgment until an exhaustive search for data is complete, I will force myself to make a tentative forecast based on the information available, and then systematically tear it apart, using the insights gained to guide my search for further indicators and information. Iterate the process a few times, and it is surprising how quickly one can get to a useful forecast. 

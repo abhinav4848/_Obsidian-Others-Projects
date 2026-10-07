@@ -1,5 +1,8 @@
+---
+title: "093- Layers of Structure in a Digital Zettelkasten"
+---
+# 093- Layers of Structure in a Digital Zettelkasten
 # Layers of Structure in a Digital Zettelkasten
-
 When you build a zettelkasten you are adding [066- Layers of structure](066-%20Layers%20of%20structure.md) to facilitate note retireval ([007- Structuring for Retrieval](007-%20Structuring%20for%20Retrieval.md)).
 
 1. The **first layer** of structure is having a single storage mechanism. In this case it is plain text files using markdown syntax. The reason for this is it helps makes your notes future proof. Luhmann used his zettelkastens over a 46 year period, so you want something that lasts the test of time.

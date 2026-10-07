@@ -1,3 +1,6 @@
+---
+title: "Habits MOC"
+---
 tags: #habits 
 links: [[010 Mind MOC]]
 

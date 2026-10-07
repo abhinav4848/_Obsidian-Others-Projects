@@ -1,5 +1,7 @@
+---
+title: "Evergreen notes lower the emotional stakes in editing manuscripts"
+---
 # Evergreen notes lower the emotional stakes in editing manuscripts
-
 In writing, it can be painful to “kill one’s darlings.” It may make the effort involved in writing those sections feel wasted. It may also create open loops (see [[Close open loops]]): you may feel that you want to make sure you want to publish those ideas _somewhere,_ so now you have to remember that section (or keep track of the snippet) somewhere so that you can remember to include it in another manuscript.
 
 But if one uses the note-based [[Executable strategy for writing]], then much of the work goes into writing [[Evergreen notes]]. Material which isn’t essential for a particular piece can become a durable note, seeding a network of links ([[Evergreen notes should be densely linked]]) and contributing to future insight (see [[Evergreen note-writing helps insight accumulate]]). Or if it needs more development, it can be added to one’s writing inbox ([[A writing inbox for transient and incomplete notes]]).
@@ -13,7 +15,6 @@ Related: [[Software interfaces often harmfully frame destructive operations as 
 ---
 
 ## References
-
 Ahrens, S. (2017). _How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers_.
 
-> One of the most difficult tasks is to rigorously delete what has no function within an argument – “kill your darlings.”[42](https://notes.andymatuschak.org/zSKD44o2VTbQuQYqmjupo4B) This becomes much easier when you move the questionable passages into another document and tell yourself you might use them later.
+> One of the most difficult tasks is to rigorously delete what has no function within an argument – “kill your darlings.”[[Andy Matuschak/Executable strategy for writing|42]] This becomes much easier when you move the questionable passages into another document and tell yourself you might use them later.

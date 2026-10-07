@@ -1,3 +1,7 @@
+---
+URL: "https://notes.andymatuschak.org/zQ9BWTY2JK6eJvCSqupc7UF"
+title: "Enacted experiences amplify the power of narrative"
+---
 # Enacted experiences amplify the power of narrative
 Narrative is a powerful tool both because it creates emotional involvement and because it can support understanding ([[Narrative as cognitive scaffolding]]). Narrative can be made even more powerful by making it an [[Enacted experience]], because [[Enacted experiences can create intense personal connection to authored targets]].
 

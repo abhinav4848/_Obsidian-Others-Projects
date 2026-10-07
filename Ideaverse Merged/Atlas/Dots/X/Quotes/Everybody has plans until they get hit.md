@@ -6,5 +6,6 @@ by:
 related:
 created: 2023-11-27
 rank: 4.1
+title: "Everybody has plans until they get hit"
 ---
- 
+# Everybody has plans until they get hit

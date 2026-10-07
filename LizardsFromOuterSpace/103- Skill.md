@@ -1,3 +1,7 @@
+---
+title: "103- Skill"
+---
+# 103- Skill
 # Skill
 Skill is your ability to do something well. Being an effective worker in life often depends on your ability to execute on a skillset.
 

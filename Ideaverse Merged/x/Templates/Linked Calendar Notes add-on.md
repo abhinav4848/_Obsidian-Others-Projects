@@ -1,4 +1,7 @@
-
+---
+title: "Linked Calendar Notes add-on"
+---
+# Linked Calendar Notes add-on
 > [!calendar]+ Calendar notes pointing to this note
 > All notes in `Calendar` linking to `{{title}}`
 > ```dataview

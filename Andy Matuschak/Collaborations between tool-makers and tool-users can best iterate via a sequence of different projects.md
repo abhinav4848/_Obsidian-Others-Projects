@@ -1,3 +1,6 @@
+---
+title: "Collaborations between tool-makers and tool-users can best iterate via a sequence of different projects"
+---
 # Collaborations between tool-makers and tool-users can best iterate via a sequence of different projects
 [[Deep collaborations between tool-makers and tool-users may support insight through making]], but one practical obstacle for the tool-user’s work is that [[It’s difficult to maintain emotional connection to a creative project across delays and breaks]]. The pair can learn plenty about their tool ideas as the tool-user deploys them in serious creative projects, but each project has limited scope for iteration.
 

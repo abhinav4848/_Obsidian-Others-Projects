@@ -1,3 +1,7 @@
+---
+title: "The forest entrance"
+---
+# The forest entrance
 Welcome to Ideaverse for Obsidian. 
 
 LYT stands for **Linking Your Thinking**.

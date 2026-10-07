@@ -1,3 +1,6 @@
+---
+title: "Maps of Content"
+---
 # Maps of Content
 Once you realize the true nature of maps of content, it will likely be an 'ah ha' moment—the key to unlocking the door to a game-changing paradigm for knowledge management. 
 

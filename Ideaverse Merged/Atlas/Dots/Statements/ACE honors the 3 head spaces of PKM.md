@@ -6,7 +6,9 @@ related:
 created: 2023-08-21
 aliases:
 - ACE honors the 3 headspaces of PKM
+title: "ACE honors the 3 head spaces of PKM"
 ---
+# ACE honors the 3 head spaces of PKM
  In PKM, there are three main headspaces (or "thinking orientations") to move between.
 
 - Atlas for Knowledge-based thinking

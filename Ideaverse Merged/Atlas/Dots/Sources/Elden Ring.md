@@ -10,4 +10,6 @@ in:
 - '[[Ideaverse Merged/Atlas/Maps/Games]]'
 - '[[Ideaverse Merged/Atlas/Maps/Sources]]'
 type: "[[Ideaverse Merged/Atlas/Maps/Games]]"
+title: "Elden Ring"
 ---
+# Elden Ring

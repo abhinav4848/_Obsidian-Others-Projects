@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zNUaiGAXp21eorsER1Jm9yU?stackedNotes=zDh1yhNFQNxDEre12B4zd8k&stackedNotes=z3b7sidNrEkNaY9qfGwZjwz
+title: "Concept handles, after Alexander"
 ---
 # Concept handles, after Alexander
 A “concept handle” is a memorable noun phrase representing a complex, often abstract topic. For example: “prisoner’s dilemma,” “Overton window,” “belief in belief,” etc. In my own writing, examples include [[Enabling environment]], [[Enacted experience]] etc. The “concept handle” is a concept handle for itself, coined by [Scott Alexander](https://notes.andymatuschak.org/z9hfoSKuG9186kjhyQVZYdf).

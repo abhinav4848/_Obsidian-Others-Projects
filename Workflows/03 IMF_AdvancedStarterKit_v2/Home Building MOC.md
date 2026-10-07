@@ -1,3 +1,7 @@
+---
+title: "Home Building MOC"
+---
+# Home Building MOC
 tags: #building
 links: [[040 Interests MOC|Interests]]
 

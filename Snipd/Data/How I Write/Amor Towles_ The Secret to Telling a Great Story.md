@@ -24,9 +24,10 @@ show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcas
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 4
 from_snipd: true
+title: "Amor Towles_ The Secret to Telling a Great Story"
 ---
+# Amor Towles_ The Secret to Telling a Great Story
 # Amor Towles: The Secret to Telling a Great Story
-
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fb72a6a52-2f4c-11ee-920d-73de81dc1df9%2Fimage%2FFINALCOVER.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=200&h=200)
 
 ## Episode metadata
@@ -43,27 +44,22 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ###  [Enhancing Perception through Detailed Descriptions](https://share.snipd.com/snip/0dd8ef59-3b93-43ee-81bb-ceb148ab2c42) 
-
 🎧 30:45 - 31:45 (00:59)
 
 Detailed descriptions can enhance one's perception beyond what the mind could naturally achieve. In the context of hotel rooms or reading David Foster Wallace, a thorough description can expand one's understanding and observation. This feedback loop of describing and observing can lead to an enriched experience.
 
 #### 📚 Transcript
-
 **David Perell:** You have some experience describing hotel rooms. And one thing that was coming to mind as you begin to think about what you would say is that you could almost think of seeing as people would think about it. They would say, OK, so when you're looking, there's like a scale from zero to 100. And as you begin to maybe describe things, you can get to 100%. But I would almost argue that a really good description like gets you past what your mind could ever do on its own. And I feel this when I read David Foster Wallace. Like if my brain, David's, Perel's 100, David Foster Wallace's goes to like 500. And I even feel it now when I'm on a boat because I read his cruising out, shipping out essay. I see things that I would have never seen before. And I'm very interested in this feedback loop of you describe something, then you see more, you see more, and then you describe something. Let's say that
 
 ---
 
 ###  [Importance of Practice and Craft in Writing](https://share.snipd.com/snip/5ccce044-c72f-4751-b787-0e0bf7714aea) 
-
 🎧 40:41 - 42:21 (01:40)
 
 The key to becoming a successful writer lies in practice and gaining command of elements of craft. Teaching can help in highlighting these elements and how they work together, ultimately enabling writers to improve by repeated practice and feedback. Taking writing classes and workshops can push writers to complete work and expose them to different perspectives, contributing to their growth as writers.
 
 #### 📚 Transcript
-
 **David Perell:** I am the wrong person to ask this question.
 
 **Amor Towles:** Why is that? And that is because there are many very talented, accomplished writers, even here in the city, who do what you say. Meaning that Michael Cunningham, Pulitzer Prize winner, writing of the hours, he does teach at Yale. Gary Steingart teaches at Columbia. Jeffrey Eugenides, Pulitzer Prize winner, teaches at NYU. And they are great American novelists who are also teaching. And so they could tell you, I can't, right, because I have not actually taught. And so I could have guesses about what's teachable, what's not teachable. know. But, you know, for me, the most, you know, practice is the most important thing, right? So it's about gaining command of elements of craft. And teaching can highlight for you how the elements of craft, what the elements of craft are, how they work, how they interact. Teaching very valuably gives you a requirement of actually doing work. Like if I look back in my own study, because I did take writing classes at Yale, I did take, you know, I went to a graduate program in writing at Stanford. So I was in workshops. And the most valuable thing that comes out of those by far is the fact that you are handing something in. So it gets you to get things done. And you begin the process of exposing yourself to how other people talk about your work or analyze your work, which is fine. But mostly you're learning elements of craft through repetition.
@@ -71,25 +67,21 @@ The key to becoming a successful writer lies in practice and gaining command of 
 ---
 
 ###  [Reading and Writing: A Symbiotic Relationship](https://share.snipd.com/snip/1841ed15-2586-42bc-a9b2-3f2ed9d9b987) 
-
 🎧 47:57 - 49:23 (01:25)
 
 The process of reading and writing begins as a child with books like the Hardy Boys and evolves into more complex literature in high school. This progression involves deep analysis of the text, exploring the construction of the book, characters, language, and structure. Eventually, this journey leads to actively writing essays and analyzing works by authors like Hemingway and Melville, highlighting the symbiotic relationship between reading and writing.
 
 #### 📚 Transcript
-
 **Amor Towles:** so from that moment forward, reading and writing were things that were happening side by side, you know, where you'd start to read and get interested in somebody and get deeper and deeper into it, and you'd walk away with new insights about writing from that investigation. And so when you start as a kid, you're reading The Hardy Boys, and you're reading Ray Bradbury, and then you're reading sci-fi, and you're reading Agatha Christie Mysteries, and, you know, all these kinds of things, and James Bond, Ian Fleming. and you get into something and sort of take things away from it, as you're saying. But then you kind of shift into high school where you're reading things of greater literary merit, of more intricate construction, and you are absorbing it, as you say, with a critical eye. How does this work? Why do I love this so much? How did that just happen? Oh my God, that chapter is amazing. This character is incredible. This language is so fresh, like surprising. How this person is putting things is really like amazing. I always read with a pen. And so, and then of course, you know, I studied literature at Yale. studied literature at Stanford. So, you know, you're, you're getting to the point where you're shifting into an active mode. Not only are reading with a pen and figuring out how the whole book is constructed, but then you're writing about that. You know, where you're writing essays on, you know, structure in Hemingway or, you know, whatever. You know, the poetics of Melville or, you know, whatever the various topics are that you're tackling as a student.
 
 ---
 
 ###  [Learning from Great Authors and the Role of History in Art](https://share.snipd.com/snip/dac9c959-38de-4f52-86f7-e161bfd10944) 
-
 🎧 51:46 - 53:19 (01:32)
 
 Reading work from various authors allows one to learn and gain confidence in recognizing rewarding pieces, even if initial readings may not be enjoyable. The speaker predominantly reads deceased authors, emphasizing that history tends to discard mediocre art while potentially missing out on many great works that have been lost to time. History is better at eliminating mediocrity than capturing all the greatness in art, typically within a time frame of around 50 years.
 
 #### 📚 Transcript
-
 **Amor Towles:** Oh, the whole project has been amazing. You know, I don't, there were very few wasted efforts in that. But partly because you're in control of it. You read the first two by an author and you're like, ah, not for us. Learned a little something, but it's not our thing. But then some of you like, three, four, five, six, because you're gaining confidence that this is a rewarding person to read the work of. And so it self-regulates in that sense, that you're reading work that rewards you. I
 
 **David Perell:** don't know if you're comfortable sharing the name of an author, but has there been somebody who you learned a lot from who was very rewarding, whose work you didn't particularly like?

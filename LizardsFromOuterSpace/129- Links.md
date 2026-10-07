@@ -1,3 +1,7 @@
+---
+title: "129- Links"
+---
+# 129- Links
 # Links
 Links are pointers that allow for easy navigation between related notes. **Internal Links** are connections between notes within the program. For Obsidian these take the form of tags (link to a custom selection of notes), index (File Explorer), and links to other notes within the note itself. **External Links** are connections between a note and either an external program, most commonly a web page.
 

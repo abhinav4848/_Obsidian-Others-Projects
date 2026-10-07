@@ -4,8 +4,9 @@ up:
 related: []
 created: 2014-06-28
 modified: 2020-05-28
+title: "Writing down daily goals in the morning is an important habit"
 ---
-
+# Writing down daily goals in the morning is an important habit
 This follows: [[Ideaverse Merged/Atlas/Dots/Statements/Journaling in the morning is an important habit]]. After journaling, set some broad, simple daily goals.
 
 Daily Goals are a continuation of the Morning Journal. Basically ask yourself: *"What actions and tasks would make today feel like a worthwhile day? How much is realistic? In what order should I do them?"*

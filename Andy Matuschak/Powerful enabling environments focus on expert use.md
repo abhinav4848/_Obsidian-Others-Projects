@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zKtYU4Uk7aTCGyqHr9Ca3Sb?stackedNotes=zyjePyZ77P2BfdkRBuQB2x&stackedNotes=zY3aLuvtsYS54QnymGKFGwg
+title: "Powerful enabling environments focus on expert use"
 ---
 # Powerful enabling environments focus on expert use
 Because an [[Enabling environment]] can help people do new things, it’s tempting to design environments which aspire to help novices enter a discipline, perhaps through simplified versions of its activities. This approach is usually quite limited.
@@ -11,7 +12,6 @@ When environments focus on enabling simplified versions of an activity, the goal
 Representation design is one of the most important parts of designing enabling environments ==TODO write note==. Representations designed specifically for simplified versions of an activity usually won’t also enable expert practice. That means these representations have limited power. (contra [[Focus on power over scale for transformative system design]]) Worse: they’ll often be _discontiguous_ with representations used by experts. But representations designed for experts often can service novices. When apprentices are building their skills in environments of authentic practice, they may use simplified representations. But because those representations were conceived in the context of expert practice, they’re often contiguous with expert representations so they can evolve smoothly. (See also [[Most dynamic representations developed for communication aren’t very enabling]])
 
 ## Examples and counter-examples
-
 Research labs can be powerful enabling environments. They may include lots of structures which help junior scholars develop: reading groups, colloquiums, writing workshops, etc. When they’re working well, these activities are all about producing better research—not simply to build skills. Many of these activities (e.g. colloquiums) may actually be more important for experienced scholars. They were created for that purpose, and then perhaps additional structures were added to make them more accessible to junior faculty. Participation in these activities is participation in the discipline, for everyone. These activities grow with their participants.
 
 Mathematica enables high-school students to visualize and manipulate the data from simple experiments. But more importantly, it helps professional scientists do their work more effectively. A tool designed primarily for the students probably wouldn’t help the pros do better science; this tool, designed for the pros, also helps the students do better science—and it grows with them to the frontiers of knowledge.

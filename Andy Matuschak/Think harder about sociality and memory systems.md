@@ -1,3 +1,6 @@
+---
+title: "Think harder about sociality and memory systems"
+---
 # Think harder about sociality and memory systems
 - thickening loose ties
 - creating opportunities for repeated, lightweight contact

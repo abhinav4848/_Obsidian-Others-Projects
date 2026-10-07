@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zEhGSbBPbgmh7Ce1VQS2RPk?stackedNotes=zWSH2QNUsrTGP4V15JBaaEv&stackedNotes=z7TJeAJjP5FrruVXwUXheW4
+title: "Constraints as cognitive scaffolding"
 ---
 # Constraints as cognitive scaffolding
 If you were new to Photoshop and I presented its entire interface immediately, you might have difficulty taking a first step. But you might feel more comfortable if you began in a “welcome” workspace with most of the panels and tools hidden. Then you could reveal each piece of the interface as you discovered that you needed, or in response to your curiosity about something.

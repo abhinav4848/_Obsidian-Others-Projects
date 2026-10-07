@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/z9vSQjkBVL6dCVC6QhCu4Br?stackedNotes=zFgK9ArxAXq57iMukRsVVE9
+title: "Spaced repetition memory prompts should usually focus on one atomic unit"
 ---
 # Spaced repetition memory prompts should usually focus on one atomic unit
-
 If you’ve just learned a new way to cook peas, you might write a prompt for a [[Spaced Repetition memory system]] like: “Q. How do I cook peas sous vide?” “A. 18m @ 70°C”. But I find that questions like this are usually a struggle—I’ll frequently forget the answer. Questions which draw on multiple independent ideas seem to trip over this problem.
 
 Why is it important that questions focus on one idea? Michael Nielsen (2018) suggests:
@@ -14,7 +14,7 @@ What constitutes “one idea”? That depends on your prior context; “one idea
 
 The fix in such instances is simple: break the question down into multiple simpler questions. Then, perhaps, add another question which integrates those two simpler questions. (This seems like an opportunity for [Spaced repetition and knowledge modeling](https://notes.andymatuschak.org/zU1bKxJc9hY14jVWFXgPTJL)- *Empty note on Andy’s site*). The process of writing questions which focus precisely on one idea does seem to help sharpen my focus on the key elements of a topic (one angle on [[Writing one’s own spaced repetition prompts seems to promote understanding]]).
 
-Wozniak (1999) supplies a good example (also demonstrating [Spaced repetition memory prompts should be concise](https://notes.andymatuschak.org/z9vSQjkBVL6dCVC6QhCu4Br)):
+Wozniak (1999) supplies a good example (also demonstrating [[Andy Matuschak/Spaced repetition memory prompts should be concise|Spaced repetition memory prompts should be concise]]):
 
 > Ill-formulated knowledge - Complex and wordy
 > 

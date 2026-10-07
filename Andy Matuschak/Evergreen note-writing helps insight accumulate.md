@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zR6RRbCfY5rFkiimFnaJZKB?stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNqLdKMiTo9EHA9EWYGXs7b
+title: "Evergreen note-writing helps insight accumulate"
 ---
 # Evergreen note-writing helps insight accumulate
 Much of the day-to-day thinking involved in creative work is simply lost, like sand castles in the tide. Ephemerality can actually be useful in low-fidelity thought, but it’s simply an accidental property in many cases. We should do our serious thinking in the form of [[Andy Matuschak/Evergreen Notes|Evergreen Notes]] so that the thinking accumulates.

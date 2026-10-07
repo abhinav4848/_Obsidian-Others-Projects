@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zGD1FxbDZd7WnH7NrhRaVyC?stackedNotes=zTYb9ysCATFYCnvay3V5sF2&stackedNotes=zHV89H7dqnrvNvwXHBSGog9
+title: "Working on niche, personally-meaningful projects brings weirder, more serendipitous inbounds"
 ---
 # Working on niche, personally-meaningful projects brings weirder, more serendipitous inbounds
-
 It’s tempting to work on mass-audience projects because the scale makes high-impact results more likely. Such projects are often less striking, personal, bloody, etc. than their “weirder” alternatives. They might garner a lot more mass attention but a lot _less_ attention from unusual, singular people. Those people are frequently sources of surprising (and more meaningful) insights and opportunities.
 
 Related: [[Obsession as high-order bit]]

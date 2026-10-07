@@ -1,8 +1,11 @@
+---
+title: "Audience is a super power"
+---
+# Audience is a super power
 Tags: [[Podcast]] [[Community]] - [[Audience]]
 Podcast: [[The Future Belongs to Creators]] 
 
 ## Highlights:
-
 What is an audience, how do you find them
 	- People who want to hear from you and would miss you if you didn't show up
 	- People who want follow you around even when you jump off and change

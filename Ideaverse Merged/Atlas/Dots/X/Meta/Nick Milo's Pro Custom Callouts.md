@@ -6,7 +6,9 @@ related:
 created: 2023-11-01
 cssclasses:
   - wide-page
+title: "Nick Milo's Pro Custom Callouts"
 ---
+# Nick Milo's Pro Custom Callouts
 Here are 137+ custom callouts for you to enjoy using. Callouts can bring clarity and a splash of joy to your ideaverse. If you are using the Ideaverse Pro vault, these will work immediately. For other vaults, it requires a couple steps to activate them. Most importantly, copy over the snippet in `Settings > Appearanace` called `nick-milo-callouts` and don't forget to toggle it on.
 
 > [!Multi-column] 
@@ -341,7 +343,6 @@ Activate the plugin "List Callouts" by mgmeyers to see the color below.
 | 10 | Red | 13 |
 
 # Callouts Not Rendering Yet
-
 > [!app] app-window
 
 > [!moon] Moon

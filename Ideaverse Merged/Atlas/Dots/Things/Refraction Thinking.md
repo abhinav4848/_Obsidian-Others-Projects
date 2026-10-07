@@ -9,7 +9,9 @@ created: 2019-01-01
 modified: 2023-03-22
 rank: 4.2
 says: Thinking about ONE thing, through the lens of ANOTHER thing.
+title: "Refraction Thinking"
 ---
+# Refraction Thinking
  *Thinking about ONE thing, through the lens of ANOTHER thing.*
 
 > [!NOTE] Informally, I like saying [[Lens-bending]] instead.

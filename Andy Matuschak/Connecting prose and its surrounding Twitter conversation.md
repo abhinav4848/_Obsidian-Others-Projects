@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/z4ULp2KUgq3hBCJMWTUnLDX?stackedNotes=zGD1FxbDZd7WnH7NrhRaVyC&stackedNotes=zVYmgUqqnJD1hduFhHYTkKj
+title: "Connecting prose and its surrounding Twitter conversation"
 ---
 # Connecting prose and its surrounding Twitter conversation
-
 Most people don’t hang out on Slate Star Codex and refresh the page to see new comments. Consequently, the context for writing a comment on most blogs is limited to the moment in which one reads that article. By contrast, [[Twitter is a water cooler]]. It’s a continuous context, not a one-time context like Disqus. Ideas often surf the zeitgeist for quite some time through [Twitter](https://notes.andymatuschak.org/zNJqkMRE6arYvEtMEJN5kUo) streams, continuously “re-upped” by someone new weighing in. Unfortunately, Twitter’s ephemeral nature makes it hard to keep track of a complex conversation, relative to traditional forum presentations.
 
 It may be possible to get the best of both worlds in web publishing: to use Twitter as the ongoing water cooler to keep conversations going, but to present those conversations in-context and as a coherent, legible set of threads instead of a pointillistic maelstrom.

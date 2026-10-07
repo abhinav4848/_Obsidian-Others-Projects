@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/About_these_notes?stackedNotes=zKKB5ENRahwftH96H7mijiu&stackedNotes=zRHGYaDyQDBypztBaFYZgtR
+title: "Focus on power over scale for transformative system design"
 ---
 # Focus on power over scale for transformative system design
-
 There’s an analogue to [[Gall’s law]] in system design: if you want a transformatively powerful system (e.g. [[Tools for thought]]) that applies in many contexts for many people, you probably need to evolve it from a system which had truly transformative power in some narrow context.
 
 A system which seems only modestly powerful—no matter how broadly applicable—probably can’t be evolved in-place into something transformative. The primitive abstraction will need to change. It’ll be easier to figure out how to do that with a highly focused context of use ([[Effective system design requires insights drawn from serious contexts of use]]), and much harder if you’ve prematurely scaled ([[Premature scaling can stunt system iteration]]).

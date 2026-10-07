@@ -1,3 +1,7 @@
+---
+title: "IMF About"
+---
+# IMF About
 # About IMF
 The goal of IMF is to enhance your experience of working with your digital library. It provides flexibility, longevity, and a bevy of other [[Benefits of IMF|Benefits]].
 

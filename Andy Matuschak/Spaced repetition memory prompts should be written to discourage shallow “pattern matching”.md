@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zSiuztCZ594AZuCweRghcXT
+title: "Spaced repetition memory prompts should be written to discourage shallow “pattern matching”"
 ---
 # Spaced repetition memory prompts should be written to discourage shallow “pattern matching”
 One challenge for the efficacy of a [[Spaced repetition memory system]] is that sometimes users memorize answers to questions shallowly, through “pattern matching,” rather than by integrating the knowledge more deeply or actually thinking about the question. But [[Spaced repetition memory prompts should ensure reviewers must retrieve answers from memory]].

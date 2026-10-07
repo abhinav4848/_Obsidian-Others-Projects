@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zFSbY4oPcbeKpotrJVf1A8P
+title: "How to Read a Book - Adler and van Doren"
 ---
 See PDF: [[Adler, van Doren - 1972 - How to Read a Book.pdf]]
 # How to Read a Book - Adler and van Doren
@@ -64,7 +65,6 @@ Q. When is analytical reading unnecessary?
 A. When your goal is simply information or entertainment; analytical reading is for the sake of *understanding*.
 
 # Ch 4: Inspectional Reading
-
 Q. Prerequisites for inspectional reading?
 A. You must be able to read the text without constantly looking up words or stumbling over syntax; you should be able to make some sense of the majority of sentences.
 
@@ -72,7 +72,6 @@ Q. Two sublevels of inspectional reading?
 A. “Systematic skimming” and “superficial reading”
 
 ### **Systematic skimming**
-
 Q. The main aim of systematic skimming?
 A. To determine if the book deserves more careful reading, in limited time.
 

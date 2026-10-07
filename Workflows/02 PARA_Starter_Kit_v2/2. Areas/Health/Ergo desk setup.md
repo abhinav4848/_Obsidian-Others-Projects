@@ -1,3 +1,7 @@
+---
+title: "Ergo desk setup"
+---
+# Ergo desk setup
 Desk and chair
 
 adjust your chair in height untill the elbow are bend to 90o

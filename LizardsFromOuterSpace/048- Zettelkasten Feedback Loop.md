@@ -1,3 +1,7 @@
+---
+title: "048- Zettelkasten Feedback Loop"
+---
+# 048- Zettelkasten Feedback Loop
 # Zettelkasten Feedback Loop 
 involves structure building ([[052- Structure building framework]]) mental models ([[058- Mental Models]]) in your [[002- Zettelkasten]] over a long period of time through reading multiple books.
 

@@ -1,6 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/z852Vpw9YE5hD3mGs6ScCWJ
+title: "Expert coaches facilitate effective deliberate practice"
 ---
+# Expert coaches facilitate effective deliberate practice
 [[Practice efficacy is highly sensitive to method design]]; past a certain level of performance, effective [Deliberate practice, after Ericsson](https://notes.andymatuschak.org/Deliberate_practice%2C_after_Ericsson)- (private link) typically requires an expert coach’s knowledge about practice methods, as well as their supervision and feedback. For instance, an expert coach (typically also or formerly an expert practitioner) will invent new tasks (based on their knowledge of practice methods) to overcome weaknesses.
 
 Serious students may spend dozens of hours in practice per week, but because 1-on-1 instruction is expensive, most of that will probably be alone or in group settings. So a key role for expert coaches is to guide students’ individual practice: students meet with the coach once or twice a week for a couple hours, and the coach will suggest what the student should spend the other 20 hours that week doing.

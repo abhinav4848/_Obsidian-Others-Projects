@@ -1,3 +1,7 @@
+---
+title: "195- Cognitive Processes that underpin Learning"
+---
+# 195- Cognitive Processes that underpin Learning
 At the ground level of learning is the process of **knowing** (remembering), whereby you create the memory trace and pair it with a retrieval cue ([[197- Retrieval Cues]]) so that you can pull up the information when presented with the retrieval cue at a later date.
 
 **Understanding** ([[186- Understanding]]) is when you connect the information (memory traces [[196- Memory Trace]]) with your wider body of knowledge, whereby it gains meaning from becoming useful. An example of knowing information without understanding would be memorizing the words of a foreign language without connecting it to the equivalent words in your native language. So if someone were to say the words to you, you’d be able to say them back, but would not be able to act on them because there is no understanding. When the words have no utility then they are meaningless. Further Reading: [[192- Understanding vs. Knowing]].

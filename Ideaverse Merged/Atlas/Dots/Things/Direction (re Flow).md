@@ -3,7 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Dots/Things/FlowCreation MOC]]"
 related: []
 created: 2020-06-01
+title: "Direction (re Flow)"
 ---
+# Direction (re Flow)
 Think of Direction like "Goals." It's great to have goals, but there is a point of Diminishing Return. Too many goals creates too many Directions. Think of the [[Ideaverse Merged/Atlas/Dots/Things/evaporated in a thousand follies|Abbe Faria's sage advice]] that too many goals make them all evaporate into *"a thousand follies."*
 
 ### Subsets of Direction

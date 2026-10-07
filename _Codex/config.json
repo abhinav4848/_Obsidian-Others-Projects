@@ -10,5 +10,10 @@
   "andy_url_property": "URL",
   "andy_navigation_notes_to_keep": 3,
   "backup_format": "zip",
-  "references_read_only": true
+  "references_read_only": true,
+  "markdown_style": {
+    "blank_lines_after_headings": false,
+    "preserve_code_block_whitespace": true
+  },
+  "attachments_folder": "Attachments"
 }

@@ -4,7 +4,9 @@ up:
 related:
   - "[[Ideaverse Merged/Atlas/Dots/Statements/ACE honors the 3 head spaces of PKM]]"
 created: 2023-08-21
+title: "ACE helps you with context switching"
 ---
+# ACE helps you with context switching
 It's hard to switch contexts. It's also hard to know when you should. ACE helps with that.
 
 When I’m frolicking in the forest of new information, it's my own enthusiasm that propels my learning.

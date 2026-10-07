@@ -1,5 +1,8 @@
+---
+URL: "https://notes.andymatuschak.org/zWG9EgWoprv9cbXXkhg8YNS"
+title: "Voice-based interface"
+---
 # Voice-based interface
-
 e.g. Siri, Alexa, etc; as instantiated in dedicated devices, e.g. AirPods, HomePod, etc.
 
 See also:

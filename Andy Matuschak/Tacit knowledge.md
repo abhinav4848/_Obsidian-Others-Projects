@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/z8aBPhjq7R6o8cwVNjzfDdr?stackedNotes=zQgeXp15RWkzyiUv9WQsLtA&stackedNotes=zMdKRBZStQ4tCJJhomSYxvG
+title: "Tacit knowledge"
 ---
 # Tacit knowledge
 Term originated by Michael Polanyi.

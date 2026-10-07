@@ -1,22 +1,17 @@
 ---
 URL: https://notes.andymatuschak.org/z2q7U5ZvXeDxXD6vXAbZb9a?stackedNotes=zG8RB9kAnBBzZ8fpfGh8Drp&stackedNotes=zVNTDbWaVNxgTSPx3cNLDPc
+title: "Dullness and distraction in creative work may arise from the same causes as in meditation"
 ---
 # Dullness and distraction in creative work may arise from the same causes as in meditation
-
-Type of Link: 📝 Article
 Category talked about: Brain, Note taking
 Score /5: ⭐️⭐️⭐️
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
 
 # **Dullness and distraction in creative work may arise from the same causes as in meditation**
-
 It sounds obvious in retrospect: Meditation instructors say all the time that the point is not to achieve attention and awareness just while in explicit meditation sessions, but to bring that same quality of mind to everyday life. I’d understood that in terms of recognizing [Impermanence](Impermanence.md) and [Non-identification](Non-identification.md). But somehow I hadn’t connected that to problems I encounter when doing difficult creative work.
 
-When I’m doing some difficult design or research, it’s very common for me to struggle with feelings of tiredness. I think this is just [Dullness](https://notes.andymatuschak.org/zVNTDbWaVNxgTSPx3cNLDPc). And of course I often experience the progression of distraction -> forgetting -> mind-wandering, as described in [Moments of consciousness model, after Culadasa](https://notes.andymatuschak.org/zF3gSqhimNzCKYaWzm3rmUn).
+When I’m doing some difficult design or research, it’s very common for me to struggle with feelings of tiredness. I think this is just [[Andy Matuschak/Dullness|Dullness]]. And of course I often experience the progression of distraction -> forgetting -> mind-wandering, as described in [[Andy Matuschak/Moments of consciousness model, after Culadasa|Moments of consciousness model, after Culadasa]].
 
-These models help explain why I don’t wrestle with dullness or distraction/forgetting nearly as often when doing other activities. When I’m doing difficult creative work, I’m staring at the same object of attention for an extended period, just like in a meditation session; and just like the breath, the work rapidly ceases to produce novel stimuli. I’m staring at the same difficult paragraph I was staring at five minutes ago. And just as with the breath, when the object of attention is not generating many perceiving moments, the mind will naturally scan for other objects in awareness which might be more stimulating. Alternately (or additionally), the proportion of perceiving moments will simply drop, which in turn causes [Dullness](https://notes.andymatuschak.org/zVNTDbWaVNxgTSPx3cNLDPc).
+These models help explain why I don’t wrestle with dullness or distraction/forgetting nearly as often when doing other activities. When I’m doing difficult creative work, I’m staring at the same object of attention for an extended period, just like in a meditation session; and just like the breath, the work rapidly ceases to produce novel stimuli. I’m staring at the same difficult paragraph I was staring at five minutes ago. And just as with the breath, when the object of attention is not generating many perceiving moments, the mind will naturally scan for other objects in awareness which might be more stimulating. Alternately (or additionally), the proportion of perceiving moments will simply drop, which in turn causes [[Andy Matuschak/Dullness|Dullness]].
 
 The cure for these problems in creative work is the same as the cure for these problems in meditation:
 

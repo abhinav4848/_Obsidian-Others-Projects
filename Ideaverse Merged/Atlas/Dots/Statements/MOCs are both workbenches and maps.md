@@ -3,8 +3,9 @@ up:
   - "[[Ideaverse Merged/Ideaverse Map]]"
 related: []
 created: 2020-06-01
+title: "MOCs are both workbenches and maps"
 ---
-
+# MOCs are both workbenches and maps
 You enter your personal warehouse.  
 You can freely add a limitless amount of workbenches.
 ![[Ideaverse Merged/x/Images/lyt-crafting-mocs-0.jpg]]

@@ -19,9 +19,9 @@ show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fasse
 episode_export_date: "2026-06-23T11:17:39"
 snips_count: 1
 from_snipd: true
+title: "1114-I Have Changed Everything in My Life"
 ---
 # 1114-I Have Changed Everything in My Life
-
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F2%2F6%2Ff%2Fb%2F26fb46c8744948ee16c3140a3186d450%2FRPF-black-logo-1400x1400px.jpg&w=500&h=500)
 
 ## Episode metadata
@@ -37,9 +37,7 @@ from_snipd: true
 - Export date: 2026-06-23T11:17:39
 
 ## Snips
-
 ###  [Influence and Philosophy](https://share.snipd.com/snip/193b4304-919c-4fde-b954-122f9f9a6abc) 
-
 🎧 03:54 - 04:36 (00:41)
 
 <iframe
@@ -54,14 +52,12 @@ from_snipd: true
 - The people who influence you provide the ideas that shape your philosophy, which leads to actions.
 
 #### 💬 Quote
-
 > We need to be so careful about our influences because the people that we allow to influence us are going to provide us with the ideas that will form our philosophy.
 > — Joshua Sheets
 
 Joshua Sheets on the impact of influence on personal philosophy
 
 #### 📚 Transcript
-
 **Joshua Sheets:** And that's pretty interesting to me. And what it means is we need to be really, really careful about the philosophy that we form. But if we come back to what is before philosophy, then it comes down to influence. And what I have realized is that we need to be so careful about our influences because the people that we allow to influence us are going to provide us with the ideas that will form our philosophy. And then that philosophy will give us the ideas which will eventually result in actions. And then as we take those
 
 ---

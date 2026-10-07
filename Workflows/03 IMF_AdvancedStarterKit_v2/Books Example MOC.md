@@ -1,3 +1,7 @@
+---
+title: "Books Example MOC"
+---
+# Books Example MOC
 tags: #books #TOC #MOC
 Index: [[000 Index|Index]], [[040 Interests MOC|Interests]]
 
@@ -23,14 +27,8 @@ Index: [[000 Index|Index]], [[040 Interests MOC|Interests]]
 8. #booksFinished
 
 ## Some Notable Books
-
-
-
 ## Temp Tasks - No rush on these
 ### Temp: Notes to Extract from the Kindle
-
 ### Temp: Notes to Extract from Audible
-
 ### Temp: Notes to Extract from iBooks
-
 ### Temp: Notes to Extract from the physical book itself

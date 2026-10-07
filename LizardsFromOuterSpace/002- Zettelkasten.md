@@ -1,13 +1,14 @@
+---
+title: "002- Zettelkasten"
+---
+# 002- Zettelkasten
 # Zettelkasten
-
 Zk is for creating an interlinked network of notes to help you generate new insights/ideas of/into the subject/concept you’re interested in. 
 
 ## Definition
-
 Zk stands for “note box” in German. The practice of keeping a note box goes back a long way and technically isn’t unique to sociologist [[100- Niklas Luhmann]]
 
 ## How much to write in a zettelkasten note
-
 See: [[009- Note Size]].
 
 ![[009- Note Size#^4311cf]]

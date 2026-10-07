@@ -1,3 +1,7 @@
+---
+title: "130- Quality of Connections"
+---
+# 130- Quality of Connections
 # Quality of Connections
 Every note you create will be full of terminology. Each term is a connection you can create in a note. Then you can also put in connections to related concepts that aren’t directly mentioned in the note, which you’ll see when I put a “See” or “Related” at the end of the note.
 

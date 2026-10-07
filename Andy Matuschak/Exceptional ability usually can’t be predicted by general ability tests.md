@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zLhoRUyjKU665EY16u4XXJy?stackedNotes=z3CX38AdFzNGcujEwctVj5X&stackedNotes=z5cUVyz3Ffn1y9p5eaZTzBA
+title: "Exceptional ability usually can’t be predicted by general ability tests"
 ---
 # Exceptional ability usually can’t be predicted by general ability tests
 - “Creativity ratings” of professional architects, mathematicians, and scientists, assigned by a survey of professors, were not significantly correlated with IQ ({MacKinnon}, {1968}). However, entering these professions seems to require high IQ: {98%} of the {140} people covered by the study had IQs in the range {118}-{140}.

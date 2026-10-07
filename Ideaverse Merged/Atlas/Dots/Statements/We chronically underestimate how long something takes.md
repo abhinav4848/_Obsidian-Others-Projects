@@ -5,8 +5,9 @@ related: []
 created: 2020-06-01
 tags:
   - note/develop🍃
+title: "We chronically underestimate how long something takes"
 ---
-
+# We chronically underestimate how long something takes
 *If you're confident about time management, you have a problem.*
 
 Cognitive Bias...what's this called?

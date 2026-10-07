@@ -10,7 +10,9 @@ tags:
   - map/view
 cssclasses:
   - wide-page
+title: "Idea Development"
 ---
+# Idea Development
 What do you want to ideate on? Get the idea into 80-90% shape and then move to the *medium of expression*. 
 
 > [!Multi-column] 

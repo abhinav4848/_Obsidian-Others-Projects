@@ -4,7 +4,9 @@ in:
 tags:
   - "#map/view"
 created: 2023-11-27
+title: "Entities"
 ---
+# Entities
 This note collects all notes where the `in` property says `Entities`.
 
 > [!industry]+ # Entities

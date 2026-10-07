@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zBeBbzwU8LAyi2D5jqBJpS?stackedNotes=zJ4k4feCLspoCid7C4mzmvL&stackedNotes=zVx3t4nDyk9tyuWQiBzsSDT
+title: "Poor performance disrupts nonlinear reading in digital reading"
 ---
 # Poor performance disrupts nonlinear reading in digital reading
 [[Skillful reading is often non-linear]], but digital reading experiences often make rapid scanning and referencing more painful simply by being slow. When flipping a few pages forwards or backwards occasions hiccups or blank screens, the environment pushes readers to read less effectively.

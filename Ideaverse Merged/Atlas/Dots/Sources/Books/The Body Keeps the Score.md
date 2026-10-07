@@ -10,7 +10,7 @@ published: 2014-09-25
 created: 2023-10-25
 tags:
   - "#source/book"
-title: The Body Keeps the Score
+title: "The Body Keeps the Score"
 bookType: NF
 bookCategory: Psychology
 pages: 465
@@ -28,7 +28,7 @@ bookLCSH:
   - Stress Disorders, Post-Traumatic—physiopathology
   - Stress Disorders, Post-Traumatic—therapy
 ---
-
+# The Body Keeps the Score
 ![cover|150](http://books.google.com/books/content?id=3Q3UAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 ##### Book Analysis
@@ -70,13 +70,9 @@ font::
 ---
 
 ###### Parts & Chapters
-
 ---
 
 ###### Bibliography Notables
-
-
 ---
 
 ###### Index Notables
-

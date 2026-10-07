@@ -1,2 +1,6 @@
+---
+title: "079- Cognitive Skills"
+---
+# 079- Cognitive Skills
 # Cognitive Skills
 An important part of thriving in the economy ([[070- Future Skills and Abilities]]) is having an understanding of [[078- Cognition]] and the important skills that underlie it. Having a solid understanding of the **cognitive skills** will help you improve in how you work with existing knowledge and generate new knowledge ([[074- Creation of Knowledge]]). 

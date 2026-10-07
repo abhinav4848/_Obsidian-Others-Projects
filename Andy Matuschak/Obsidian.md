@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zGKtrhpZ3hS8bw8UGL8hMTP?stackedNotes=zJRmoVPc9vyv8QxSD5voijR&stackedNotes=zVJzGg7mUtvY8FH6AnZ2tqG
+title: "Obsidian"
 ---
 # Obsidian
 Highly extensible, closed-source [[Networked note-writing software]] based on [[Electron]].

@@ -3,7 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Dots/Things/The 3 Phases of MOCs]]"
 related: []
 created: 2020-06-01
+title: "The 3 Phases of MOCs, a coda"
 ---
+# The 3 Phases of MOCs, a coda
 The 3 phases of MOCs are *non-linear*. They are not distinct like these examples. They overlap. They are messy. Don't make this rigid. Keep it fluid.
 
 The process is overlapping and cyclical. In Italian 'coda' means 'tail', and in any cycle, the tail is closest to the head (like an [[Ouroboros]]). So don't worry if you tack on random notes to a formalized MOC—you should!

@@ -5,5 +5,6 @@ in:
 related: 
 created: {{date}}
 rank:
+title: "Concepts Template"
 ---
- 
+# Concepts Template

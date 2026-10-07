@@ -6,8 +6,9 @@ created: 2014-01-01
 modified: 2022-03-15
 tags:
   - source/speech
+title: "The Riddle IS the Answer (kit)"
 ---
-
+# The Riddle IS the Answer (kit)
 What's up with public restrooms having all those scribbles on the walls?
 
 - _Tina loves Joey."_

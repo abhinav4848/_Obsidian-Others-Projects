@@ -1,3 +1,7 @@
+---
+title: "121- Unsurprising & Useful"
+---
+# 121- Unsurprising & Useful
 # Unsurprising & Useful
 This category of information typically is what you’ve already learned. Because you already know it, it is useless when presented to you again. Ideally you’d instead want to be presented with new information.
 

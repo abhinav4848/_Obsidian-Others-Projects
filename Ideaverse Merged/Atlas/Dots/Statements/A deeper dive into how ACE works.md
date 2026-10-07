@@ -4,6 +4,7 @@ up:
 related:
   - "[[Ideaverse Merged/Atlas/Dots/Statements/Use STIR To Remember More]]"
 created: 2023-08-21
+title: "A deeper dive into how ACE works"
 ---
 The reason why the [[Ideaverse Merged/Atlas/Dots/Things/ACE Folder Framework]] works is because it allows you to organize by *Intention*.
 

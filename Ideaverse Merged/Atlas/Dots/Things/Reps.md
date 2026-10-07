@@ -7,7 +7,9 @@ related:
 created: 2017-01-01
 rank: 4.5
 says: Reps, Reps, Reps.
+title: "Reps"
 ---
+# Reps
  *"Reps, Reps, Reps."*   ^dbdd21
 
 Learning, improving, deliberate practice…the underpinning of it all—the unspoken current flowing through any progression—is getting reps, in all forms, consistently and frequently.

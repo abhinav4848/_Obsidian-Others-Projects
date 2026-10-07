@@ -5,7 +5,9 @@ related:
   - "[[Ideaverse Merged/Atlas/Dots/Things/Note-takers]]"
   - "[[Note-making is good because...]]"
 created: 2020-05-20
+title: "Note-makers"
 ---
+# Note-makers
 Note-makers are people who spend their thinking time in an active, engaged way—making sense of the stuff they encounter. 
 
 They don't try foolishly try to collect every piece of data they come across. Instead, as they encounter information, they think about it creatively, critically, and connectively.

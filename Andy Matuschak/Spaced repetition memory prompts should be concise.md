@@ -1,5 +1,8 @@
+---
+URL: "https://notes.andymatuschak.org/z9vSQjkBVL6dCVC6QhCu4Br"
+title: "Spaced repetition memory prompts should be concise"
+---
 # Spaced repetition memory prompts should be concise
-
 Related to but distinct from [[Spaced repetition memory prompts should usually focus on one atomic unit]], it’s generally best to keep [[Spaced repetition memory system]] prompts concise.
 
 For example, Wozniak (1999) gives this example of improving a prompt:
@@ -15,10 +18,9 @@ One key reason for this is simply that it maintains a light, fluid rhythm in rev
 
 I don’t understand it, but concise wording often seems to help me remember answers in fewer repetitions. This might be because long questions make it hard to focus on the most important retrieval details. Or maybe it’s just because long questions reduce my concentration.
 
-As a prompt becomes longer, it becomes more likely that it’ll include a word or texture which will trigger the answer, but without meaningful connection to the answer (“pattern matching”): [Spaced repetition memory prompts should be written to discourage shallow “pattern matching”](https://notes.andymatuschak.org/zSiuztCZ594AZuCweRghcXT).
+As a prompt becomes longer, it becomes more likely that it’ll include a word or texture which will trigger the answer, but without meaningful connection to the answer (“pattern matching”): [[Andy Matuschak/Spaced repetition memory prompts should be written to discourage shallow “pattern matching”|Spaced repetition memory prompts should be written to discourage shallow “pattern matching”]].
 
 ---
 
 ## References
-
-[Piotr Wozniak - Effective learning - Twenty rules of formulating knowledge](https://notes.andymatuschak.org/z96Xr88dMaAGrn3CobJnMUD)
+[[Andy Matuschak/Piotr Wozniak - Effective learning - Twenty rules of formulating knowledge|Piotr Wozniak - Effective learning - Twenty rules of formulating knowledge]]

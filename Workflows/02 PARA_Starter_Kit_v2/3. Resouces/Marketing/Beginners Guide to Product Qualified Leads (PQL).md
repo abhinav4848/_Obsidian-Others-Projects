@@ -1,3 +1,7 @@
+---
+title: "Beginners Guide to Product Qualified Leads (PQL)"
+---
+# Beginners Guide to Product Qualified Leads (PQL)
 https://productled.com/product-qualified-leads/
 
 A product qualified lead (PQL) is a lead who has experienced meaningful value using your product through a free trial or freemium model.

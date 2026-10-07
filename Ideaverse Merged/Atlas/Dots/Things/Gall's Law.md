@@ -7,8 +7,9 @@ related:
 created: 2020-06-01
 rank: 4
 says: Structure must be earned!
+title: "Gall's Law"
 ---
-
+# Gall's Law
 > *[[Structure must be earned]]!* #source/quote/my 
 
 ---

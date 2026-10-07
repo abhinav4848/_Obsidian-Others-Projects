@@ -1,3 +1,7 @@
+---
+title: "Cabin"
+---
+# Cabin
 The cabin is my epicenter.
 
 •

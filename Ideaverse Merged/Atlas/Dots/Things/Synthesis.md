@@ -6,7 +6,9 @@ in:
 related: 
 created: 2020-06-01
 rank: 2.5
+title: "Synthesis"
 ---
+# Synthesis
  The combining of separate elements or substances to form a coherent whole.
  
  Related: [[Ideaverse Merged/Atlas/Dots/Things/Convergence (defn)]]

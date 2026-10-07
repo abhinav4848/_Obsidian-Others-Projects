@@ -1,3 +1,7 @@
+---
+title: "080 Goals MOC"
+---
+# 080 Goals MOC
 tags: #MOC #planning #goals #review #reflections #metrics #wins
 links: [[000 Index|Index]], [[080 Goals MOC|Goals]] 
 
@@ -34,4 +38,3 @@ Journal - End of Year Reflections [[201612309999]]
 ### 2006
 ### 2005
 ### 2004
-

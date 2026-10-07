@@ -5,7 +5,9 @@ related: []
 created: 2020-01-01
 in: 
 - "[[Ideaverse Merged/Atlas/Maps/Maps]]"
+title: "Plan and Review"
 ---
+# Plan and Review
 This is the place for goals and grand strategy...for plans, reviews, analyzing, and recording wins.
 
 - Themes

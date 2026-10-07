@@ -9,8 +9,9 @@ related:
 created: 2023-11-26
 year: 1954
 rank: 5
+title: "Not all those who wander are lost"
 ---
-
+# Not all those who wander are lost
 This quote comes up again and again as the purest counterpoint to toxic productivity.
 
 ## Full quote

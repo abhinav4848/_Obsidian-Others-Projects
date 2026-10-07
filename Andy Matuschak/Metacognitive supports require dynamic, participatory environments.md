@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zBwPoJqo3vzLwzGSa4Tcgma?stackedNotes=z2zCVix7FhroZGyufoXSXbx&stackedNotes=zADYGiM6rnN6iTBHqVa6kiu
+title: "Metacognitive supports require dynamic, participatory environments"
 ---
 # Metacognitive supports require dynamic, participatory environments
 [[Metacognition is inherently dynamic]], so to design an environment which offers metacognitive supports, that environment must dynamically behave and respond to participants’ engagement with the material.

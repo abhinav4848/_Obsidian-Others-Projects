@@ -1,5 +1,8 @@
+---
+URL: "https://notes.andymatuschak.org/zEm3fU6X2i4YViURG8cd3Zx"
+title: "Spaced repetition memory prompts should encode ideas from multiple angles"
+---
 # Spaced repetition memory prompts should encode ideas from multiple angles
-
 Flashcards, like those of a [[Spaced repetition memory system]], get a deservedly bad reputation in part because they remind people of rote school learning. People remember being forced to memorize isolated facts like the names of different categories of cloud—and they remember parroting back those answers without building any enduring understanding. Part of the problem is that  [[Educational objectives often subvert themselves]]: you probably didn’t really care about learning that material. But that issue aside, these isolated exercises are particularly brittle because they develop knowledge which can only be used in one context, disconnected from broader conceptual frameworks and understandings: [[Rich understanding is about connection]].
 
 Effective spaced repetition memory prompts reinforce an idea by accessing it from multiple angles. For instance, in addition to showing a photo of a cumulonimbus cloud and asking what type it is, you might also reinforce that knowledge with these related questions:

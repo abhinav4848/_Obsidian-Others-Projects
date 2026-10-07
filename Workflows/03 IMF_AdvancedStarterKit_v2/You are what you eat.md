@@ -1,3 +1,6 @@
+---
+title: "You are what you eat"
+---
 tags: #concepts 
 links: [[Concepts MOC]]
 

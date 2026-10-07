@@ -7,7 +7,9 @@ created: 2024-09-02
 tags: 
 version:
   - "1.5"
+title: "Maps"
 ---
+# Maps
 To learn more, visit [[Ideaverse Merged/Atlas/Dots/Things/MOCs Overview]]
 
 > [!map]+ # Maps

@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zQvbnYfHdG1gARTbtC4pje6?stackedNotes=zojJRcfGstU2Ss6JRMzd15&stackedNotes=zS27HJzP3uD366crN7PYDQU
+title: "Prefer fine-grained associations"
 ---
 # Prefer fine-grained associations
 Links between materials in an information system (e.g. [[Evergreen notes should be densely linked]]) can be fine-grained (like a citation in the middle of a sentence of a paper) or coarse-grained (like a “see also” section).

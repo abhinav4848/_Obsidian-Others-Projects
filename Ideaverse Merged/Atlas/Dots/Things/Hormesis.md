@@ -6,7 +6,9 @@ in:
 related: 
 created: 2020-06-01
 tags: []
+title: "Hormesis"
 ---
+# Hormesis
  *Stronger from stressors.*
 
 Hormesis ties in tightly with [[Ideaverse Merged/Atlas/Dots/Things/Antifragility]].

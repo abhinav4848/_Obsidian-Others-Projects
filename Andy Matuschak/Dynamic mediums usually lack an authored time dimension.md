@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zKRrv2DmKp3VyDEp3oXrKXQ?stackedNotes=zBcm1RNbzedjDMTt8rRxoWt&stackedNotes=z611NYK3NCXzSWMbdZmuqXK
+title: "Dynamic mediums usually lack an authored time dimension"
 ---
 # Dynamic mediums usually lack an authored time dimension
-
 ==TODO this note should be refactored into several other notes==
 
 One thing that distinguishes a [Dynamic medium](https://notes.andymatuschak.org/zHYYdRPrLvyWy4xxXpNn4kE) (no note) from other forms is that it _behaves and responds_ (Victor 2012). Unlike other media forms, almost all dynamic mediums behave and respond the same way all the time. Users’ experiences change over time as they grow and interact with the medium differently, but that’s rarely a designed property. Dynamic mediums lack practices for communicating with an authored time dimension.
@@ -10,7 +10,6 @@ One thing that distinguishes a [Dynamic medium](https://notes.andymatuschak.org
 In film and books, by contrast, directors and authors carefully model and shape the participant’s experience over the course of the work. Often that takes the form of narrative, which can create emotional connection or help people gradually understand complex topics ([[Narrative as cognitive scaffolding]]). There’s no narrative form native to dynamic mediums.
 
 ## Prose interleaved with dynamic environments creates a disjointed experience
-
 One common approach is to interleave brief interactions with dynamic media into prose (e.g. Hart and Case, Patel. Victor (2010) is particularly fine-grained, though it’s not really trying to be narrative). This approach to narrative feels quite disjoint: the two forms have been glued together, not evolved into something new.
 
 The shallow version of this issue is that the text and dynamic elements are almost always physically separated, not visually integrated. The reader’s eye bounces back and forth between the text and the interactive elements, attaching referents to objects and churning working memory. This is a problem with static figures, too; the solutions described by e.g. Tufte mostly haven’t been applied in the dynamic domain.
@@ -24,7 +23,6 @@ Another challenge with prose interleavings is that the textual narrative complet
 These challenges are quite similar to the difficulties faced by board game instruction manuals.
 
 ## Board games suffer from the same problems; video games don’t
-
 Board games and video games both need to communicate explanation and narrative, but the way these two mediums communicate produces very different felt experiences.
 
 When playing a new board game, you might take the instructions out of the box and read them for a few minutes, then set up the game, then try to remember the instructions while playing. Inevitably, you’ll return to the instructions every couple minutes during the first play session. This experience is awfully bumpy, with many of the same challenges as prose interleaved with dynamic interactions. You might feel like you’re constantly trying to remember what you’re “supposed to do.” You might “lose your place” in both the text and the game when you switch focus. You might have trouble emotionally committing to the game when you know you’ll only be able to play a few moments before returning to the manual. The manual’s voice feels quite distant from what’s actually happening on the game board.
@@ -36,7 +34,6 @@ Video games often communicate with voice rather than text. Sometimes voice actin
 Because the narrative communication is integrated into the environment, it can behave and respond just like the rest of the environment’s elements. In good games, the authored narrative feels—continuously—like a response to players’ actions (i.e. an [[Enacted experience]]; see also [[Enacted experiences amplify the power of narrative]]). This feeling contrasts sharply with the unpleasant sense of _distance_ felt in prose narrative presented alongside interactive environments. Of course, the dynamic environment means that the narrative could vary in response to players’ actions, but that’s challenging and poorly-understood. Good video game narratives feel naturally integrated into the interactive environment _despite_ the fact that they’re often completely static.
 
 ## Centering on the dynamic environment, not on the narrative
-
 The examples I’ve given so far of narrative dynamic media are mostly focused on narrative. They mostly look like an article; text dominates the experience. The dynamic representations exist to support the narrative; they’re rarely meant to be powerful environments to think in apart from the text.
 
 Even in more ambitious [[Narrated explorable]] attempts like Sanderson and Eater’s _Visualizing quaternions_, the “text” is primary. The dynamic representation isn’t meant to be a persistent environment supporting the viewer’s later creative work (see Matuschak (2018) for more on this piece).
@@ -47,7 +44,7 @@ Twitch demonstrates the possibilities here in an interesting way. It’s not a n
 
 Twitch also demonstrates the potential value of separating the _dynamic medium’s_ author (e.g. Adobe) from the _narrative’s_ author (e.g. the streamer). Right now, narrative dynamic mediums almost always combine these roles. There are advantages to that, but executable notebooks begin to demonstrate the surprises which can arise from expanding authorship.  
 ev  
-More on a possible mechanism: [Enacted experiences have incredible potential as a mass medium](https://notes.andymatuschak.org/z984ZZLbG4wREM6HAZAovMB)
+More on a possible mechanism: [[Andy Matuschak/Enacted experiences have incredible potential as a mass medium|Enacted experiences have incredible potential as a mass medium]]
 
 ==TODO==
 

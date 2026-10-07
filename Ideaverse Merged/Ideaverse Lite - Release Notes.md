@@ -4,7 +4,9 @@ up:
 related: []
 created: 2022-05-11
 modified: 2023-08-25
+title: "Ideaverse Lite - Release Notes"
 ---
+# Ideaverse Lite - Release Notes
 # Ideaverse Lite 1.5 - Release Notes
 ## Major Changes
 - Added [[Ideaverse Merged/Home Basic]].

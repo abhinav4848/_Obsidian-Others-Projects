@@ -12,16 +12,16 @@ mentioned_books:
 last_snip_date: 2023-12-21
 episode_duration_minutes: 126
 episode_url: "https://share.snipd.com/episode/2280e4a2-5c5b-4b56-85ba-30b6156ac6b0"
-image_url: "_media-sync_resources/2025/12/20/231834/94413.jpeg"
+image_url: "Attachments/94413.jpeg"
 show_url: "https://share.snipd.com/show/e8d66ef6-b573-46f2-902b-a064e953ab50"
-show_image_url: "_media-sync_resources/2025/12/20/231834/50189.jpeg"
+show_image_url: "Attachments/50189.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 2
 from_snipd: true
+title: "Physiologist Drew Harrisberg On Everything Blood Glucose, Understanding Diabetes & Plant-Based Nutrition Fundamentals"
 ---
 # Physiologist Drew Harrisberg On Everything Blood Glucose, Understanding Diabetes & Plant-Based Nutrition Fundamentals
-
-![Cover](_media-sync_resources/2025/12/20/231834/12389.jpeg)
+![Cover](../../../Attachments/12389.jpeg)
 
 ## Episode metadata
 - Episode title: Physiologist Drew Harrisberg On Everything Blood Glucose, Understanding Diabetes & Plant-Based Nutrition Fundamentals
@@ -37,15 +37,12 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ###  [The Initial Prognosis and Perceptions of Life with Type 1 Diabetes](https://share.snipd.com/snip/06a62933-624d-4080-9d6c-3afe9981f437) 
-
 🎧 24:49 - 26:08 (01:19)
 
 When diagnosed with a condition as a young person, the prognosis seemed bleak and it felt like a life sentence. The world felt gray and the future appeared grim. However, there is now a permissiveness for living an active lifestyle with this condition. Although life expectancy may be reduced, it is still possible to live a great life.
 
 #### 📚 Transcript
-
 **Drew Harrisberg:** a role. Right,
 
 **Rich Roll:** we'll get into that. We'll get into that. There's a lot of controversy around that. A lot, lot. I'm looking for some clarity and I know you've thought a lot about that, but let's put a pin in that for the moment and just return to kind of the timeline here, which is you get diagnosed as a young person. I'm interested in what you were told the prognosis is. Now we see all kinds of people being athletic and running marathons, and there's a whole type one, professional cycling team where everybody, it's like, there's a permissiveness or a sort of understanding that you can live an active lifestyle with this condition. Was that communicated to you at the time? Or did you think suddenly your life is over you know it right yeah
@@ -55,13 +52,11 @@ When diagnosed with a condition as a young person, the prognosis seemed bleak an
 ---
 
 ###  [Food to eat in Paleo-Keto Diet](https://share.snipd.com/snip/7e548d0f-b133-49a4-9661-ebd9eda3f4f6) [[Processed]]
-
 🎧 46:45 - 48:33 (01:47)
 
 The speaker follows a paleo-y keto diet, focusing on whole foods, leafy greens, and non-starchy vegetables. They consume 75% of their calories from fat, mainly through olive oil, coconut oil, fatty meats, and proteins. Although they consume a fair amount of saturated fat, it is a healthier version of the keto diet. The speaker acknowledges that while their diet may sound extreme, it has had a positive impact on managing their diabetic condition.
 
 #### 📚 Transcript
-
 **Rich Roll:** And what exactly were you eating? Like what was the breakdown? What did that look like?
 
 **Drew Harrisberg:** So I mean 75% of the calories were from fat. I definitely did a paleo-y kind of keto diet in terms of I kept a lot of whole foods, a lot of leafy greens, non-starchy vegetables, broccoli, cauliflower. I try to keep it vegetable heavy. I wanted to keep fiber in there. Right,

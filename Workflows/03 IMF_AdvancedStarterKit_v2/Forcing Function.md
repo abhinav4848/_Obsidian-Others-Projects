@@ -1,3 +1,6 @@
+---
+title: "Forcing Function"
+---
 # Forcing Function
 like the bumper guards do for novice bowlers.
 - A forcing function is any task, activity or event that forces you to take action and produce a result. 

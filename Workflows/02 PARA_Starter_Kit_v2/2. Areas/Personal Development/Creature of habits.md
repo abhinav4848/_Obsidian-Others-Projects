@@ -1,8 +1,11 @@
+---
+title: "Creature of habits"
+---
+# Creature of habits
 Guest: [[James Clear]] [[Self-Development]] - [[Habits]] [[System]]
 Podcast: [[Make Sense With Sam Harris]] 
 
 ## Highlights:
-
 Habits are often heavily influenced by the environnement that we're in, those environnement link into the habits.
 
 Habit are solution to reccuring problems in your life.

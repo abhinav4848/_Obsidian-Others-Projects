@@ -19,8 +19,9 @@ ROAR:
 ROARrank: 1
 ROARdetails: waiting to hear back about "truth"
 image: https://thewisdomdaily.com/wp-content/uploads/2018/04/2-4.jpg
+title: "Ursula K. Le Guin"
 ---
-
+# Ursula K. Le Guin
 Guin = GWIN
 
 

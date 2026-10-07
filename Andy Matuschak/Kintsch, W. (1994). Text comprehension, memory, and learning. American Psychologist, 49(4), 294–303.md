@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zBHPw9pNzXjh84EutqH25o1
+title: "Kintsch, W. (1994). Text comprehension, memory, and learning. American Psychologist, 49(4), 294–303"
 ---
 # Kintsch, W. (1994). Text comprehension, memory, and learning. American Psychologist, 49(4), 294–303
-
 Excellent classic review paper from [Walter Kintsch](https://notes.andymatuschak.org/z4iLYNrW4FT34UpFsPZtR9h).
 
 The main thesis: interventions which help people _remember_ texts they read are not necessarily those which will best help people _learn_ from what they read. (see: [[Retrieval practice and transfer learning]]!)

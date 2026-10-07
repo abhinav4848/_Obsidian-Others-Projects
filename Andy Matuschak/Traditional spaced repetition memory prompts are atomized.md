@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zWWh96dE6YZYmDCoo37977X?stackedNotes=z8e98xn7t5QNHr5cf8oqjbJ&stackedNotes=zCjyEsQTBSY7MJf6KxXKXb9
+title: "Traditional spaced repetition memory prompts are atomized"
 ---
 # Traditional spaced repetition memory prompts are atomized
 The prompts in a [[Spaced repetition memory system]] are an unordered, unstructured set. Each prompt is intentionally quite fine-grained and atomic, since that’s what seems to work best for effective memorization ([[Spaced repetition memory prompts should usually focus on one atomic unit]]). But this lack of structure creates a feeling of wandering through a forest, able to see only one leaf at a time.

@@ -1,3 +1,6 @@
+---
+title: "Prefer explicit associations to inferred associations"
+---
 # Prefer explicit associations to inferred associations
 When building an interconnected personal knowledge base (e.g. [[Evergreen notes should be densely linked]]), is it critical to build all the associations by hand? Tools like DEVONthink use machine learning to suggest “related” notes. And on the web, one’s history (perhaps even contextualized within a single tab’s timeline) can suggest some relationships between content. Or: can we just use search functionality when we want to navigate around a set of ideas?
 

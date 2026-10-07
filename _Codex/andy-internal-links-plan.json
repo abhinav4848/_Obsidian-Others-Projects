@@ -1,0 +1,1843 @@
+{
+  "stats": {
+    "links_to_convert": 210,
+    "notes_to_update": 102,
+    "notes_receiving_sources": 38,
+    "ambiguous_links_skipped": 18
+  },
+  "links": [
+    {
+      "note": "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
+      "destination": "Andy Matuschak/Using machine learning to generate good spaced repetition prompts from explanatory text.md",
+      "label": "more notes",
+      "URL": "https://notes.andymatuschak.org/zBjh9jUahGSm7VpFtEjvKqT",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
+      "destination": "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md",
+      "label": "practicing others’ prompts doesn’t work and feels oppressive when this occurs",
+      "URL": "https://notes.andymatuschak.org/zLButXjJvGCpWKHzqhXEhhm",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/2023-11-30 Patreon letter - Initial results from highlight-driven prototype.md",
+      "destination": "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md",
+      "label": "This is surprisingly difficult",
+      "URL": "https://notes.andymatuschak.org/zLButXjJvGCpWKHzqhXEhhm",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Anti-marketing, after Michael Nielsen.md",
+      "destination": "Andy Matuschak/Explorable explanations.md",
+      "label": "Explorable explanations",
+      "URL": "https://notes.andymatuschak.org/zRXEyTA5YxgqiBP3UE3C6si",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Avoid orphan spaced repetition memory prompts.md",
+      "destination": "Andy Matuschak/The critical thing to optimize in spaced repetition memory systems is emotional connection to the review session and its contents.md",
+      "label": "The critical thing to optimize in spaced repetition memory systems is emotional connection to the review session and its contents",
+      "URL": "https://notes.andymatuschak.org/zPiRwRHQxGfF9Zej765PB8M",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Avoid orphan spaced repetition memory prompts.md",
+      "destination": "Andy Matuschak/Spaced repetition memory prompts should be written to discourage shallow “pattern matching”.md",
+      "label": "Spaced repetition memory prompts should be written to discourage shallow “pattern matching”",
+      "URL": "https://notes.andymatuschak.org/zSiuztCZ594AZuCweRghcXT",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Chunks in human cognition.md",
+      "destination": "Andy Matuschak/Span of absolute judgment.md",
+      "label": "Span of absolute judgment",
+      "URL": "https://notes.andymatuschak.org/zMQK1sFXWbVMbSQAsjSTUvm",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Chunks in human cognition.md",
+      "destination": "Andy Matuschak/Recoding can increase chunk size.md",
+      "label": "Recoding can increase chunk size",
+      "URL": "https://notes.andymatuschak.org/z3p78NbwsU2Pi1t3Q24psfB",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Cloze deletion prompts seem to produce less understanding than question answer pairs in spaced repetition memory systems.md",
+      "destination": "Andy Matuschak/Piotr Wozniak - Effective learning - Twenty rules of formulating knowledge.md",
+      "label": "Piotr Wozniak - Effective learning - Twenty rules of formulating knowledge",
+      "URL": "https://notes.andymatuschak.org/z96Xr88dMaAGrn3CobJnMUD",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Cognitive apprenticeship.md",
+      "destination": "Andy Matuschak/Transfer learning.md",
+      "label": "Transfer learning",
+      "URL": "https://notes.andymatuschak.org/z7ffiDfqTR9pPcEEUUbCL7C",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Cognitive apprenticeship.md",
+      "destination": "Andy Matuschak/Apprenticeship.md",
+      "label": "Apprenticeship",
+      "URL": "https://notes.andymatuschak.org/z8aBPhjq7R6o8cwVNjzfDdr",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Cognitive apprenticeship.md",
+      "destination": "Andy Matuschak/Situated learning.md",
+      "label": "Situated learning",
+      "URL": "https://notes.andymatuschak.org/zL7XdosCZ9qeCSSCrhcYfwY",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Cognitive load theory.md",
+      "destination": "Andy Matuschak/Worked example effect.md",
+      "label": "Worked example effect",
+      "URL": "https://notes.andymatuschak.org/zD8D8PPRBDEFk3JeM2vaWrn",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Cognitive load theory.md",
+      "destination": "Andy Matuschak/Comprehension - Kintsch.md",
+      "label": "Comprehension - Kintsch",
+      "URL": "https://notes.andymatuschak.org/Comprehension_-_Kintsch",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Cognitive load theory.md",
+      "destination": "Andy Matuschak/Element interactivity.md",
+      "label": "Element interactivity",
+      "URL": "https://notes.andymatuschak.org/Element_interactivity",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Cognitive psychology.md",
+      "destination": "Andy Matuschak/Cognitive science.md",
+      "label": "Cognitive science",
+      "URL": "https://notes.andymatuschak.org/z9S1FAfAadbdvdR5QWZyXug",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Cognitive psychology.md",
+      "destination": "Andy Matuschak/Behaviorism.md",
+      "label": "Behaviorism",
+      "URL": "https://notes.andymatuschak.org/zKiPNZsc9Eqk7Hvxx7TavqM",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Cognitive psychology.md",
+      "destination": "Andy Matuschak/The cognitive revolution.md",
+      "label": "The cognitive revolution",
+      "URL": "https://notes.andymatuschak.org/zQ7SznVVFocQtB24Db6feG8",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Cognitivism.md",
+      "destination": "Andy Matuschak/The cognitive revolution.md",
+      "label": "The cognitive revolution",
+      "URL": "https://notes.andymatuschak.org/zQ7SznVVFocQtB24Db6feG8",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Collaborations between tool-makers and tool-users depend on building effective “armories” of tool ideas.md",
+      "destination": "Andy Matuschak/Quantum Country.md",
+      "label": "Quantum Country",
+      "URL": "https://notes.andymatuschak.org/zNVVrcxnkjk7pCabiBvaic1",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Constraints often breed creativity.md",
+      "destination": "Andy Matuschak/Inappropriate time pressures often harm creative work.md",
+      "label": "Inappropriate time pressures often harm creative work",
+      "URL": "https://notes.andymatuschak.org/z9TuEpnqEtLdy2TWWVicLsU",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Deep collaborations between tool-makers and tool-users may support insight through making.md",
+      "destination": "Andy Matuschak/Mental states of deep software development and deep research thinking are mutually exclusive.md",
+      "label": "Mental states of deep software development and deep research thinking are mutually exclusive",
+      "URL": "https://notes.andymatuschak.org/z7RGGgVdDVHXkzJ6BVFKws8",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Deep research requires a slower pace than tech industry work.md",
+      "destination": "Andy Matuschak/Original thought requires solitude.md",
+      "label": "Michael Nielsen",
+      "URL": "https://notes.andymatuschak.org/z4JuirVwUcoGL4wZ8dM6Los",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Dullness and distraction in creative work may arise from the same causes as in meditation.md",
+      "destination": "Andy Matuschak/Dullness.md",
+      "label": "Dullness",
+      "URL": "https://notes.andymatuschak.org/zVNTDbWaVNxgTSPx3cNLDPc",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Dullness and distraction in creative work may arise from the same causes as in meditation.md",
+      "destination": "Andy Matuschak/Moments of consciousness model, after Culadasa.md",
+      "label": "Moments of consciousness model, after Culadasa",
+      "URL": "https://notes.andymatuschak.org/zF3gSqhimNzCKYaWzm3rmUn",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Dullness and distraction in creative work may arise from the same causes as in meditation.md",
+      "destination": "Andy Matuschak/Dullness.md",
+      "label": "Dullness",
+      "URL": "https://notes.andymatuschak.org/zVNTDbWaVNxgTSPx3cNLDPc",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Dynamic mediums usually lack an authored time dimension.md",
+      "destination": "Andy Matuschak/Enacted experiences have incredible potential as a mass medium.md",
+      "label": "Enacted experiences have incredible potential as a mass medium",
+      "URL": "https://notes.andymatuschak.org/z984ZZLbG4wREM6HAZAovMB",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Educational objectives often subvert themselves.md",
+      "destination": "Andy Matuschak/Authored environments are significantly colored by authors’ motivations.md",
+      "label": "Authored environments are significantly colored by authors’ motivations",
+      "URL": "https://notes.andymatuschak.org/z4wZFERkVVVVy6bN6BE8kQz",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Educational objectives often subvert themselves.md",
+      "destination": "Andy Matuschak/Enabling environments focus on creating opportunities for growth and action, not on skill-building.md",
+      "label": "Enabling environments focus on creating opportunities for growth and action, not on skill-building",
+      "URL": "https://notes.andymatuschak.org/z7d63BYfJrd81VFE25jkcDd",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Educational objectives often subvert themselves.md",
+      "destination": "Andy Matuschak/Educational environments usually don’t involve original thought.md",
+      "label": "Educational environments usually don’t involve original thought",
+      "URL": "https://notes.andymatuschak.org/zQDtyijWebs1Su1Z8rZptot",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Educational objectives often subvert themselves.md",
+      "destination": "Andy Matuschak/Enabling environments focus on doing what’s enabled.md",
+      "label": "Enabling environments focus on doing what’s enabled",
+      "URL": "https://notes.andymatuschak.org/z2etsLyP1LJUwNDPCwvRdUG",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Effective system design requires insights drawn from serious contexts of use.md",
+      "destination": "Andy Matuschak/Great tool-makers are often not great tool-users, and vice-versa.md",
+      "label": "Great tool-makers are often not great tool-users, and vice-versa",
+      "URL": "https://notes.andymatuschak.org/zHSk5HpDyrSWCMN669Sg4HU",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Effective system design requires insights drawn from serious contexts of use.md",
+      "destination": "Andy Matuschak/Groups researching tools for thought need enough capacity to build prototypes suitable for serious work.md",
+      "label": "Groups researching tools for thought need enough capacity to build prototypes suitable for serious work",
+      "URL": "https://notes.andymatuschak.org/zYUNgBzgTATxnnNbzLFnuLF",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Effective system design requires insights drawn from serious contexts of use.md",
+      "destination": "Andy Matuschak/Authored environments are significantly colored by authors’ motivations.md",
+      "label": "Authored environments are significantly colored by authors’ motivations",
+      "URL": "https://notes.andymatuschak.org/z4wZFERkVVVVy6bN6BE8kQz",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Effective system design requires insights drawn from serious contexts of use.md",
+      "destination": "Andy Matuschak/Powerful enabling environments focus on expert use.md",
+      "label": "Powerful enabling environments focus on expert use",
+      "URL": "https://notes.andymatuschak.org/zY3aLuvtsYS54QnymGKFGwg",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Effects of the mnemonic medium on reader memory.md",
+      "destination": "Andy Matuschak/How might the mnemonic medium enable readers in genres outside platform knowledge.md",
+      "label": "How might the mnemonic medium enable readers in genres outside platform knowledge?",
+      "URL": "https://notes.andymatuschak.org/z6eSdsLVZLGWuR7m3WQGgAY",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Efficient chunk schemas usually encode domain-specific attributes.md",
+      "destination": "Andy Matuschak/Chase and Simon - Perception in chess.md",
+      "label": "Chase and Simon - Perception in chess",
+      "URL": "https://notes.andymatuschak.org/zS64tidr4brqfuEo5xs2ySy",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Element interactivity.md",
+      "destination": "Andy Matuschak/Evergreen Notes.md",
+      "label": "Evergreen notes",
+      "URL": "https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Element interactivity.md",
+      "destination": "Andy Matuschak/Most people take only transient notes.md",
+      "label": "Most people take only transient notes",
+      "URL": "https://notes.andymatuschak.org/zKGjQtsTKgscAoq271ZzKqw",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Element interactivity.md",
+      "destination": "Andy Matuschak/Knowledge work should accrete.md",
+      "label": "Knowledge work should accrete",
+      "URL": "https://notes.andymatuschak.org/zTn3g4wTm1hbkNFUvLLjpev",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Element interactivity.md",
+      "destination": "Andy Matuschak/Evergreen note-writing as fundamental unit of knowledge work.md",
+      "label": "Evergreen note-writing as fundamental unit of knowledge work",
+      "URL": "https://notes.andymatuschak.org/zR6RRbCfY5rFkiimFnaJZKB",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Element interactivity.md",
+      "destination": "Andy Matuschak/Evergreen note-writing helps insight accumulate.md",
+      "label": "Evergreen note-writing helps insight accumulate",
+      "URL": "https://notes.andymatuschak.org/z4EXkuLjdBrBZe7PVAGXc5a",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Element interactivity.md",
+      "destination": "Andy Matuschak/Evergreen notes should be atomic.md",
+      "label": "Evergreen notes should be atomic",
+      "URL": "https://notes.andymatuschak.org/zNUaiGAXp21eorsER1Jm9yU",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Element interactivity.md",
+      "destination": "Andy Matuschak/Evergreen note titles are like APIs.md",
+      "label": "Evergreen note titles are like APIs",
+      "URL": "https://notes.andymatuschak.org/zDh1yhNFQNxDEre12B4zd8k",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Element interactivity.md",
+      "destination": "Andy Matuschak/Prefer note titles with complete phrases to sharpen claims.md",
+      "label": "Prefer note titles with complete phrases to sharpen claims",
+      "URL": "https://notes.andymatuschak.org/zLhoRUyjKU665EY16u4XXJy",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Element interactivity.md",
+      "destination": "Andy Matuschak/Evergreen notes should be concept-oriented.md",
+      "label": "Evergreen notes should be concept-oriented",
+      "URL": "https://notes.andymatuschak.org/z2hQEhqWkdRLL9JUwfawZZx",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Element interactivity.md",
+      "destination": "Andy Matuschak/Understanding requires effortful engagement.md",
+      "label": "Understanding requires effortful engagement",
+      "URL": "https://notes.andymatuschak.org/z8ccRLda8BqJafNxjQBpzis",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Element interactivity.md",
+      "destination": "Andy Matuschak/Comprehension - Kintsch.md",
+      "label": "Comprehension - Kintsch",
+      "URL": "https://notes.andymatuschak.org/zES5WRczfGgXptmM9tSCwvy",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Element interactivity.md",
+      "destination": "Andy Matuschak/Reading comprehension.md",
+      "label": "Reading comprehension",
+      "URL": "https://notes.andymatuschak.org/zMybAxZcdkJHKSATuSZbEhz",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Element interactivity.md",
+      "destination": "Andy Matuschak/Elaborative verbal rehearsal.md",
+      "label": "Elaborative verbal rehearsal",
+      "URL": "https://notes.andymatuschak.org/zUR6RM21Sa88cFDfC47svVv",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Element interactivity.md",
+      "destination": "Andy Matuschak/Generation effect.md",
+      "label": "Generation effect",
+      "URL": "https://notes.andymatuschak.org/z26C6ing3sqiZMHRVFuT6xn",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Element interactivity.md",
+      "destination": "Andy Matuschak/Testing effect.md",
+      "label": "Testing effect",
+      "URL": "https://notes.andymatuschak.org/zTpJdbe6ub7uhBFLuHkFsrT",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Element interactivity.md",
+      "destination": "Andy Matuschak/The testing effect may be diminished or inverted for immediate tests.md",
+      "label": "The testing effect may be diminished or inverted for immediate tests",
+      "URL": "https://notes.andymatuschak.org/zWoEKdbmtbSgAp1tZjU4usY",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Element interactivity.md",
+      "destination": "Andy Matuschak/Worked example effect.md",
+      "label": "Worked example effect",
+      "URL": "https://notes.andymatuschak.org/zD8D8PPRBDEFk3JeM2vaWrn",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Element interactivity.md",
+      "destination": "Andy Matuschak/Chunks in human cognition.md",
+      "label": "“Chunks” in human cognition",
+      "URL": "https://notes.andymatuschak.org/zXxUPAFZBthh97wAKBEj7Tq",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Element interactivity.md",
+      "destination": "Andy Matuschak/Working memory span is mostly independent of item complexity.md",
+      "label": "Working memory span is mostly independent of item complexity",
+      "URL": "https://notes.andymatuschak.org/zAhASsrt9VhRDzh25hsLsyD",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Element interactivity.md",
+      "destination": "Andy Matuschak/Span of working memory.md",
+      "label": "Span of working memory",
+      "URL": "https://notes.andymatuschak.org/z3zo16mx2Dp3PB4J1ty1DGy",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Element interactivity.md",
+      "destination": "Andy Matuschak/Complex ideas may be hard to learn in part because their components overflow working memory.md",
+      "label": "Complex ideas may be hard to learn in part because their components overflow working memory",
+      "URL": "https://notes.andymatuschak.org/z7JRyqSwVbW2a8U44w2RkR6",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Enabling environment.md",
+      "destination": "Andy Matuschak/Y Combinator.md",
+      "label": "Y Combinator",
+      "URL": "https://notes.andymatuschak.org/z9MxCsvv8DcHndqRECbxrRi",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Enabling environment.md",
+      "destination": "Andy Matuschak/Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes.md",
+      "label": "Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes",
+      "URL": "https://notes.andymatuschak.org/z2huUCj3ko99HdzFcmEDfZD",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Enabling environment.md",
+      "destination": "Andy Matuschak/Authored environments are significantly colored by authors’ motivations.md",
+      "label": "Authored environments are significantly colored by authors’ motivations",
+      "URL": "https://notes.andymatuschak.org/z4wZFERkVVVVy6bN6BE8kQz",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Enabling environment.md",
+      "destination": "Andy Matuschak/Powerful enabling environments focus on expert use.md",
+      "label": "Powerful enabling environments focus on expert use",
+      "URL": "https://notes.andymatuschak.org/zY3aLuvtsYS54QnymGKFGwg",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Enabling environment.md",
+      "destination": "Andy Matuschak/Designing new enabling environments can be framed as designing a University++.md",
+      "label": "Designing new enabling environments can be framed as designing a University++",
+      "URL": "https://notes.andymatuschak.org/zyjePyZ77P2BfdkRBuQB2x",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Enabling environment.md",
+      "destination": "Andy Matuschak/Enabling environments focus on doing what’s enabled.md",
+      "label": "Enabling environments focus on doing what’s enabled",
+      "URL": "https://notes.andymatuschak.org/z2etsLyP1LJUwNDPCwvRdUG",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Enabling environment.md",
+      "destination": "Andy Matuschak/Cognitive scaffolding.md",
+      "label": "Cognitive scaffolding",
+      "URL": "https://notes.andymatuschak.org/zWSH2QNUsrTGP4V15JBaaEv",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Enabling environment.md",
+      "destination": "Andy Matuschak/Enacted experiences amplify the power of narrative.md",
+      "label": "Enacted experiences amplify the power of narrative",
+      "URL": "https://notes.andymatuschak.org/zQ9BWTY2JK6eJvCSqupc7UF",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Enacted experience.md",
+      "destination": "Andy Matuschak/Participatory environment.md",
+      "label": "Participatory environment",
+      "URL": "https://notes.andymatuschak.org/zRWEWHx4cQyqQWRh26gp7ad",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Evergreen note titles are like APIs.md",
+      "destination": "Andy Matuschak/Enacted experiences have incredible potential as a mass medium.md",
+      "label": "Enacted experiences have incredible potential as a mass medium",
+      "URL": "https://notes.andymatuschak.org/z984ZZLbG4wREM6HAZAovMB",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Evergreen note titles are like APIs.md",
+      "destination": "Andy Matuschak/Prefer positive note titles to promote systematic theory.md",
+      "label": "Prefer positive note titles to promote systematic theory",
+      "URL": "https://notes.andymatuschak.org/z63PA5ATVi8oyhyLgeGvL3p",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Evergreen notes lower the emotional stakes in editing manuscripts.md",
+      "destination": "Andy Matuschak/Executable strategy for writing.md",
+      "label": "42",
+      "URL": "https://notes.andymatuschak.org/zSKD44o2VTbQuQYqmjupo4B",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Evergreen notes should be densely linked.md",
+      "destination": "Andy Matuschak/Understanding requires effortful engagement.md",
+      "label": "Understanding requires effortful engagement",
+      "URL": "https://notes.andymatuschak.org/z8ccRLda8BqJafNxjQBpzis",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Evergreen notes should be densely linked.md",
+      "destination": "Andy Matuschak/Evergreen notes should be concept-oriented.md",
+      "label": "Evergreen notes should be concept-oriented",
+      "URL": "https://notes.andymatuschak.org/z2hQEhqWkdRLL9JUwfawZZx",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Evergreen notes should be densely linked.md",
+      "destination": "Andy Matuschak/Elaborative encoding.md",
+      "label": "Elaborative encoding",
+      "URL": "https://notes.andymatuschak.org/z9Uq4yzBT1QaBU8twwyvm7P",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Evergreen notes should be densely linked.md",
+      "destination": "Andy Matuschak/Evergreen note maintenance approximates spaced repetition.md",
+      "label": "Evergreen note maintenance approximates spaced repetition",
+      "URL": "https://notes.andymatuschak.org/zWbMsEFW9LD4vsoVhaDcF4u",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Evergreen notes should be densely linked.md",
+      "destination": "Andy Matuschak/Notes should surprise you.md",
+      "label": "Notes should surprise you",
+      "URL": "https://notes.andymatuschak.org/zYaWNLqGvd3uLPDXkhRoWoq",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Evergreen notes should be densely linked.md",
+      "destination": "Andy Matuschak/Prefer fine-grained associations.md",
+      "label": "Prefer fine-grained associations",
+      "URL": "https://notes.andymatuschak.org/zS27HJzP3uD366crN7PYDQU",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Evergreen notes should be densely linked.md",
+      "destination": "Andy Matuschak/Tags are an ineffective association structure.md",
+      "label": "Tags are an ineffective association structure",
+      "URL": "https://notes.andymatuschak.org/zojJRcfGstU2Ss6JRMzd15",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Evergreen notes should be densely linked.md",
+      "destination": "Andy Matuschak/Prefer associative ontologies to hierarchical taxonomies.md",
+      "label": "Prefer associative ontologies to hierarchical taxonomies",
+      "URL": "https://notes.andymatuschak.org/z8SU3r8xyZyvwRhyDdJasJ2",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Evergreen notes should be densely linked.md",
+      "destination": "Andy Matuschak/Backlinks can be used to implicitly define nodes in knowledge management systems.md",
+      "label": "Backlinks can be used to implicitly define nodes in knowledge management systems",
+      "URL": "https://notes.andymatuschak.org/zL9q21MA7ygsKVfvn6FwBMq",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Evergreen notes should be densely linked.md",
+      "destination": "Andy Matuschak/Release valves for non-linear thought may support improved linear output.md",
+      "label": "Release valves for non-linear thought may support improved linear output",
+      "URL": "https://notes.andymatuschak.org/zDGk8tvVDD1mbTgpMMB5UGh",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Executable strategy.md",
+      "destination": "Andy Matuschak/Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle.md",
+      "label": "Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle",
+      "URL": "https://notes.andymatuschak.org/z2Pg1CbUyvjV4jEoqmr8Xua",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Executable strategy.md",
+      "destination": "Andy Matuschak/Metacognitive supports as cognitive scaffolding.md",
+      "label": "Metacognitive supports as cognitive scaffolding",
+      "URL": "https://notes.andymatuschak.org/zL2zRTTRhWf1Lx4x9p2uCDt",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Executable strategy.md",
+      "destination": "Andy Matuschak/Executable strategy for writing.md",
+      "label": "Executable strategy for writing",
+      "URL": "https://notes.andymatuschak.org/zCknixwETdFm1MWdWPwMcXs",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Executable strategy.md",
+      "destination": "Andy Matuschak/How to process reading annotations into evergreen notes.md",
+      "label": "How to process reading annotations into evergreen notes",
+      "URL": "https://notes.andymatuschak.org/zEr7kCcH6zUUroDJBwDj2n5",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Expertise requires building sophisticated chunk recoding schemes.md",
+      "destination": "Andy Matuschak/Mental representations, after Ericsson and Pool.md",
+      "label": "Mental representations, after Ericsson and Pool",
+      "URL": "https://notes.andymatuschak.org/zSQhVMNeFNGfggB9Pg6MMDX",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Expertise requires building sophisticated chunk recoding schemes.md",
+      "destination": "Andy Matuschak/Chase and Simon - Perception in chess.md",
+      "label": "Chase and Simon - Perception in chess",
+      "URL": "https://notes.andymatuschak.org/zS64tidr4brqfuEo5xs2ySy",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Expertise requires building sophisticated chunk recoding schemes.md",
+      "destination": "Andy Matuschak/Human channel capacity increases with bits-per-chunk.md",
+      "label": "Human channel capacity increases with bits-per-chunk",
+      "URL": "https://notes.andymatuschak.org/zRTbHLYsFnL2hThAZL6tVqD",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Great creative work is usually the product of a single person.md",
+      "destination": "Andy Matuschak/Tools for thought.md",
+      "label": "Tools for thought",
+      "URL": "https://notes.andymatuschak.org/z88M2wwQ8FggV7p8Wu1b8LG",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Great creative work is usually the product of a single person.md",
+      "destination": "Andy Matuschak/Deep collaborations between tool-makers and tool-users may support insight through making.md",
+      "label": "Deep collaborations between tool-makers and tool-users may support insight through making",
+      "URL": "https://notes.andymatuschak.org/zG1S2XhBhJa7PWeSkKna2Y2",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Great tool-makers are often not great tool-users, and vice-versa.md",
+      "destination": "Andy Matuschak/Groups researching tools for thought need enough capacity to build prototypes suitable for serious work.md",
+      "label": "Groups researching tools for thought need enough capacity to build prototypes suitable for serious work",
+      "URL": "https://notes.andymatuschak.org/zYUNgBzgTATxnnNbzLFnuLF",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Great tool-makers are often not great tool-users, and vice-versa.md",
+      "destination": "Andy Matuschak/Academic software interfaces generally aren’t suitable for serious use.md",
+      "label": "Academic software interfaces generally aren’t suitable for serious use",
+      "URL": "https://notes.andymatuschak.org/zEiXiw8qdUzdsEMemnwXn25",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Great tool-makers are often not great tool-users, and vice-versa.md",
+      "destination": "Andy Matuschak/Deep collaborations between tool-makers and tool-users may support insight through making.md",
+      "label": "Deep collaborations between tool-makers and tool-users may support insight through making",
+      "URL": "https://notes.andymatuschak.org/zG1S2XhBhJa7PWeSkKna2Y2",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/How to Take Smart Notes - Ahrens.md",
+      "destination": "Andy Matuschak/Executable strategy for writing.md",
+      "label": "Executable strategy for writing",
+      "URL": "https://notes.andymatuschak.org/zCknixwETdFm1MWdWPwMcXs",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/How to Take Smart Notes - Ahrens.md",
+      "destination": "Andy Matuschak/Executable strategy for writing.md",
+      "label": "Executable strategy for writing",
+      "URL": "https://notes.andymatuschak.org/zCknixwETdFm1MWdWPwMcXs",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/I should consider asymmetric part-time collaborators.md",
+      "destination": "Andy Matuschak/QCVC.md",
+      "label": "QCVC",
+      "URL": "https://notes.andymatuschak.org/zWAH46Pd3DWGrfdiU8bV25A",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Important attributes of good spaced repetition memory prompts.md",
+      "destination": "Andy Matuschak/Spaced repetition memory prompts should usually focus on one atomic unit.md",
+      "label": "Spaced repetition memory prompts should usually focus on one atomic unit",
+      "URL": "https://notes.andymatuschak.org/zFgK9ArxAXq57iMukRsVVE9",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Important attributes of good spaced repetition memory prompts.md",
+      "destination": "Andy Matuschak/Spaced repetition memory prompts should encode ideas from multiple angles.md",
+      "label": "Spaced repetition memory prompts should encode ideas from multiple angles",
+      "URL": "https://notes.andymatuschak.org/zEm3fU6X2i4YViURG8cd3Zx",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Important attributes of good spaced repetition memory prompts.md",
+      "destination": "Andy Matuschak/Spaced repetition memory prompts should connect and relate ideas.md",
+      "label": "Spaced repetition memory prompts should connect and relate ideas",
+      "URL": "https://notes.andymatuschak.org/z3whk8UxFRFLgUQX9f7Fr2o",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Important attributes of good spaced repetition memory prompts.md",
+      "destination": "Andy Matuschak/Spaced repetition memory prompts should ensure reviewers must retrieve answers from memory.md",
+      "label": "Spaced repetition memory prompts should ensure reviewers must retrieve answers from memory",
+      "URL": "https://notes.andymatuschak.org/zENFxxXLVZqyJz2qaXxuy2p",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Important attributes of good spaced repetition memory prompts.md",
+      "destination": "Andy Matuschak/Avoid yes-no spaced repetition memory prompts.md",
+      "label": "Avoid yes-no spaced repetition memory prompts",
+      "URL": "https://notes.andymatuschak.org/z4jRNWgKHL9dq1fH9qq3JhM",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Important attributes of good spaced repetition memory prompts.md",
+      "destination": "Andy Matuschak/Spaced repetition memory prompts should be written to discourage shallow “pattern matching”.md",
+      "label": "Spaced repetition memory prompts should be written to discourage shallow “pattern matching”",
+      "URL": "https://notes.andymatuschak.org/zSiuztCZ594AZuCweRghcXT",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Important attributes of good spaced repetition memory prompts.md",
+      "destination": "Andy Matuschak/Cloze deletion prompts seem to produce less understanding than question answer pairs in spaced repetition memory systems.md",
+      "label": "Cloze deletion prompts seem to produce less understanding than question-answer pairs in spaced repetition memory systems",
+      "URL": "https://notes.andymatuschak.org/zPJt42JTcoAPTTTa2vdDonV",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Important attributes of good spaced repetition memory prompts.md",
+      "destination": "Andy Matuschak/Avoid orphan spaced repetition memory prompts.md",
+      "label": "Avoid orphan spaced repetition memory prompts",
+      "URL": "https://notes.andymatuschak.org/z3uFvLFRt8ognrjd6ADZMJc",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Important attributes of good spaced repetition memory prompts.md",
+      "destination": "Andy Matuschak/A pattern language of prompt-writing.md",
+      "label": "A pattern language of prompt-writing",
+      "URL": "https://notes.andymatuschak.org/z8d1Rq2d13fdQCjQiWzJybD",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Important attributes of good spaced repetition memory prompts.md",
+      "destination": "Andy Matuschak/Piotr Wozniak - Effective learning - Twenty rules of formulating knowledge.md",
+      "label": "Piotr Wozniak - Effective learning - Twenty rules of formulating knowledge",
+      "URL": "https://notes.andymatuschak.org/z96Xr88dMaAGrn3CobJnMUD",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/It’s hard to do difficult creative work for more than a few hours a day.md",
+      "destination": "Andy Matuschak/Kevin Kelly.md",
+      "label": "Kevin Kelly",
+      "URL": "https://notes.andymatuschak.org/zRW4hZmuiYpg2vbedUScDVU",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/It’s hard to hear yourself think.md",
+      "destination": "Andy Matuschak/People prefer doing to thinking.md",
+      "label": "Many people find difficult creative work mostly unpleasant in the moment",
+      "URL": "https://notes.andymatuschak.org/zTaenCxxdcffpPUAzq3iDmQ",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Knowledge work rarely involves deliberate practice.md",
+      "destination": "Andy Matuschak/How might we situate tools for thought within intrinsically meaningful contexts.md",
+      "label": "How might we situate tools for thought within intrinsically meaningful contexts?",
+      "URL": "https://notes.andymatuschak.org/zGD1FxbDZd7WnH7NrhRaVyC",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Many people view memory as unimportant to deep creative work.md",
+      "destination": "Andy Matuschak/Some kinds of creative insight depend on long-term memory.md",
+      "label": "Some kinds of creative insight depend on long-term memory",
+      "URL": "https://notes.andymatuschak.org/zNW5jyTpU1v4XBQfTYwoM8Q",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Many people view memory as unimportant to deep creative work.md",
+      "destination": "Andy Matuschak/Memory augmentation may make it easier to learn complex topics by decreasing working memory load.md",
+      "label": "Memory augmentation may make it easier to learn complex topics by decreasing working memory load",
+      "URL": "https://notes.andymatuschak.org/zS33ebqMsefTfnh8cwgHYFR",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Many people view memory as unimportant to deep creative work.md",
+      "destination": "Andy Matuschak/Deep understanding requires detailed knowledge of fundamentals.md",
+      "label": "Deep understanding requires detailed knowledge of fundamentals",
+      "URL": "https://notes.andymatuschak.org/zDxwRLcf5pn3crwNN2EqSYM",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Many people view memory as unimportant to deep creative work.md",
+      "destination": "Andy Matuschak/Expertise requires building sophisticated chunk recoding schemes.md",
+      "label": "Expertise requires building sophisticated chunk recoding schemes",
+      "URL": "https://notes.andymatuschak.org/zK3Qi3FKpVtNp5Ss47d8136",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Many people view memory as unimportant to deep creative work.md",
+      "destination": "Andy Matuschak/Memory augmentation can accelerate the unpleasant early stages of learning a subject.md",
+      "label": "Memory augmentation can accelerate the unpleasant early stages of learning a subject",
+      "URL": "https://notes.andymatuschak.org/zQKe7JZs1CYqHBnLyDhMQYQ",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Many people view memory as unimportant to deep creative work.md",
+      "destination": "Andy Matuschak/Spaced repetition and creativity.md",
+      "label": "Spaced repetition and creativity",
+      "URL": "https://notes.andymatuschak.org/z6YFBnYYve8d3ZyaBf3srk5",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Mental states of deep software development and deep research thinking are mutually exclusive.md",
+      "destination": "Andy Matuschak/Quantum Country.md",
+      "label": "Quantum Country",
+      "URL": "https://notes.andymatuschak.org/zNVVrcxnkjk7pCabiBvaic1",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/menu.md",
+      "destination": "Andy Matuschak/Quantum Country.md",
+      "label": "Quantum Country",
+      "URL": "https://notes.andymatuschak.org/zNVVrcxnkjk7pCabiBvaic1",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium prompts are interleaved into the reading experience.md",
+      "destination": "Andy Matuschak/Mnemonic medium.md",
+      "label": "Mnemonic medium",
+      "URL": "https://notes.andymatuschak.org/zKPv6qkSErdRGqyryvgS2wS",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium prompts are interleaved into the reading experience.md",
+      "destination": "Andy Matuschak/The mnemonic medium may push readers to read more slowly and attentively.md",
+      "label": "The mnemonic medium may push readers to read more slowly and attentively",
+      "URL": "https://notes.andymatuschak.org/z5aepnaCuu6XiPqB4LgBDkH",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium.md",
+      "destination": "Andy Matuschak/Quantum Country.md",
+      "label": "Quantum Country",
+      "URL": "https://notes.andymatuschak.org/zNVVrcxnkjk7pCabiBvaic1",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium.md",
+      "destination": "Andy Matuschak/The mnemonic medium gives structure to normally-atomized spaced repetition memory prompts.md",
+      "label": "The mnemonic medium gives structure to normally-atomized spaced repetition memory prompts",
+      "URL": "https://notes.andymatuschak.org/z8e98xn7t5QNHr5cf8oqjbJ",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium.md",
+      "destination": "Andy Matuschak/Mnemonic medium prompts are interleaved into the reading experience.md",
+      "label": "Mnemonic medium prompts are interleaved into the reading experience",
+      "URL": "https://notes.andymatuschak.org/zTzb8spnoqzxs3mkvPKprmn",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium.md",
+      "destination": "Andy Matuschak/The critical thing to optimize in spaced repetition memory systems is emotional connection to the review session and its contents.md",
+      "label": "The critical thing to optimize in spaced repetition memory systems is emotional connection to the review session and its contents",
+      "URL": "https://notes.andymatuschak.org/zPiRwRHQxGfF9Zej765PB8M",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium.md",
+      "destination": "Andy Matuschak/Effects of the mnemonic medium on reader memory.md",
+      "label": "Effects of the mnemonic medium on reader memory",
+      "URL": "https://notes.andymatuschak.org/zqetsQERteJhyPitmRoaeE",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium.md",
+      "destination": "Andy Matuschak/What’s the big-picture impact of the mnemonic medium on readers.md",
+      "label": "What’s the big-picture impact of the mnemonic medium on readers?",
+      "URL": "https://notes.andymatuschak.org/zNGtyWTwns63fhzixGKZ1Bb",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium.md",
+      "destination": "Andy Matuschak/The mnemonic medium keeps readers in contact with material over time.md",
+      "label": "The mnemonic medium keeps readers in contact with material over time",
+      "URL": "https://notes.andymatuschak.org/zCQuiDgcNqncwB6pTvhdRWk",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium.md",
+      "destination": "Andy Matuschak/How might the mnemonic medium enable readers in genres outside platform knowledge.md",
+      "label": "How might the mnemonic medium enable readers in genres outside platform knowledge?",
+      "URL": "https://notes.andymatuschak.org/z6eSdsLVZLGWuR7m3WQGgAY",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium.md",
+      "destination": "Andy Matuschak/Memory augmentation can accelerate the unpleasant early stages of learning a subject.md",
+      "label": "Memory augmentation can accelerate the unpleasant early stages of learning a subject",
+      "URL": "https://notes.andymatuschak.org/zQKe7JZs1CYqHBnLyDhMQYQ",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium.md",
+      "destination": "Andy Matuschak/The mnemonic medium may push readers to read more slowly and attentively.md",
+      "label": "The mnemonic medium may push readers to read more slowly and attentively",
+      "URL": "https://notes.andymatuschak.org/z5aepnaCuu6XiPqB4LgBDkH",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium.md",
+      "destination": "Andy Matuschak/The mnemonic medium can help readers apply what they’ve learned through simple application prompts.md",
+      "label": "The mnemonic medium can help readers apply what they’ve learned through simple application prompts",
+      "URL": "https://notes.andymatuschak.org/zJoWJEpRvrjnm2zL3gdxBjg",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium.md",
+      "destination": "Andy Matuschak/Important attributes of good spaced repetition memory prompts.md",
+      "label": "Important attributes of good spaced repetition memory prompts",
+      "URL": "https://notes.andymatuschak.org/z9xavmmNq7xvNqzpnJ3HFXx",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium.md",
+      "destination": "Andy Matuschak/Taking emotion seriously.md",
+      "label": "Taking emotion seriously",
+      "URL": "https://notes.andymatuschak.org/zLYGz27y8Ba6wbQLJbqyXkr",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium.md",
+      "destination": "Andy Matuschak/How might we apply insights from the mnemonic medium to forms which focus on deep emotional connection.md",
+      "label": "How might we apply insights from the mnemonic medium to forms which focus on deep emotional connection?",
+      "URL": "https://notes.andymatuschak.org/zDG6oSEj3Z6x5eLuAZcDWUH",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium.md",
+      "destination": "Andy Matuschak/Timeful text.md",
+      "label": "Timeful text",
+      "URL": "https://notes.andymatuschak.org/zAb9R6nYuTyN6PBC4rQY9aY",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium.md",
+      "destination": "Andy Matuschak/The mnemonic medium can be adapted to author an experience which unfolds over time.md",
+      "label": "The mnemonic medium can be adapted to author an experience which unfolds over time",
+      "URL": "https://notes.andymatuschak.org/zKRrv2DmKp3VyDEp3oXrKXQ",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium.md",
+      "destination": "Andy Matuschak/The mnemonic medium can generate interesting author analytics.md",
+      "label": "The mnemonic medium can generate interesting author analytics",
+      "URL": "https://notes.andymatuschak.org/zNMBiA9U8NpBHgJR384JC46",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium.md",
+      "destination": "Andy Matuschak/The mnemonic medium can surface “proof of memory” social signals.md",
+      "label": "The mnemonic medium can surface “proof of memory” social signals",
+      "URL": "https://notes.andymatuschak.org/zQLzzf8VcSgTHn75yiEU7mJ",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium.md",
+      "destination": "Andy Matuschak/OS-level spaced repetition system.md",
+      "label": "OS-level spaced repetition system",
+      "URL": "https://notes.andymatuschak.org/zNLoqjEVe5dheMKmTTyB9E3",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium.md",
+      "destination": "Andy Matuschak/Spaced everything.md",
+      "label": "Spaced everything",
+      "URL": "https://notes.andymatuschak.org/z9hscgkG2TeqgUtu3vAEW3U",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium.md",
+      "destination": "Andy Matuschak/The mnemonic medium can be extended to one’s personal notes.md",
+      "label": "The mnemonic medium can be extended to one’s personal notes",
+      "URL": "https://notes.andymatuschak.org/zWWh96dE6YZYmDCoo37977X",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium.md",
+      "destination": "Andy Matuschak/Many people view memory as unimportant to deep creative work.md",
+      "label": "Many people view memory as unimportant to deep creative work",
+      "URL": "https://notes.andymatuschak.org/z3R2EmEqQz6CVZifHWYMB7B",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium.md",
+      "destination": "Andy Matuschak/Spaced repetition review sessions often become boring and detached without a steady stream of new prompts.md",
+      "label": "Spaced repetition review sessions often become boring and detached without a steady stream of new prompts",
+      "URL": "https://notes.andymatuschak.org/zgpG2pyVtsVgvoXTj1dfDU",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium.md",
+      "destination": "Andy Matuschak/Reading texts on computers is unpleasant.md",
+      "label": "Reading texts on computers is unpleasant",
+      "URL": "https://notes.andymatuschak.org/z2bSwDuxY2Jbv1ntLKB3SL1",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium.md",
+      "destination": "Andy Matuschak/Retrieval practice and transfer learning.md",
+      "label": "Retrieval practice and transfer learning",
+      "URL": "https://notes.andymatuschak.org/zRTw8KaPErhSCyC2NYGHyP7",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium.md",
+      "destination": "Andy Matuschak/The dominant culture around spaced repetition memory systems is fixated on meaningless goals.md",
+      "label": "The dominant culture around spaced repetition memory systems is fixated on meaningless goals",
+      "URL": "https://notes.andymatuschak.org/z4ULp2KUgq3hBCJMWTUnLDX",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/My daily routine.md",
+      "destination": "Andy Matuschak/The high-order bit for my productivity is whether I complete a deeply-focused morning creative block.md",
+      "label": "The high-order bit for my productivity is whether I complete a deeply-focused morning creative block",
+      "URL": "https://notes.andymatuschak.org/z2q7U5ZvXeDxXD6vXAbZb9a",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/My daily routine.md",
+      "destination": "Andy Matuschak/It’s hard to hear yourself think.md",
+      "label": "It’s hard to hear yourself think",
+      "URL": "https://notes.andymatuschak.org/zWzVw2VM4TPjpKXnHUfLaso",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Narrated explorable.md",
+      "destination": "Andy Matuschak/Grant Sanderson.md",
+      "label": "Grant Sanderson",
+      "URL": "https://notes.andymatuschak.org/zWy4kCZkWZFxRYjW7fi6Egw",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Novices in enabling environments often can’t do what’s enabled.md",
+      "destination": "Andy Matuschak/Enacted experiences can bootstrap active participation in enabling environments.md",
+      "label": "Enacted experiences can bootstrap active participation in enabling environments",
+      "URL": "https://notes.andymatuschak.org/zKubRcJXKjiCDPsPgJWckkP",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/People generally develop skills to a plateau and then stop.md",
+      "destination": "Andy Matuschak/Performance plateaus often require a change in approach to surmount.md",
+      "label": "Performance plateaus often require a change in approach to surmount",
+      "URL": "https://notes.andymatuschak.org/zS1N4F9fUeMQ1kYHVAvwVAU",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/People generally develop skills to a plateau and then stop.md",
+      "destination": "Andy Matuschak/Salience of improvement drives skill development.md",
+      "label": "Salience of improvement drives skill development",
+      "URL": "https://notes.andymatuschak.org/zQeW31KRF1tk2zCPPGWc7UD",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/People generally develop skills to a plateau and then stop.md",
+      "destination": "Andy Matuschak/Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do.md",
+      "label": "Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do",
+      "URL": "https://notes.andymatuschak.org/zMX9Lfuz8sGfDUivWZcyWT",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Programmable attention.md",
+      "destination": "Andy Matuschak/Original thought requires solitude.md",
+      "label": "Michael Nielsen",
+      "URL": "https://notes.andymatuschak.org/z4JuirVwUcoGL4wZ8dM6Los",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Programmable attention.md",
+      "destination": "Andy Matuschak/Original thought requires solitude.md",
+      "label": "Michael Nielsen",
+      "URL": "https://notes.andymatuschak.org/z4JuirVwUcoGL4wZ8dM6Los",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Reading comprehension.md",
+      "destination": "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md",
+      "label": "2023-06-30 Patreon letter - Reading comprehension and memory systems",
+      "URL": "https://notes.andymatuschak.org/zLButXjJvGCpWKHzqhXEhhm",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Reading texts on computers is unpleasant.md",
+      "destination": "Andy Matuschak/Poor performance disrupts nonlinear reading in digital reading.md",
+      "label": "Poor performance disrupts nonlinear reading in digital reading",
+      "URL": "https://notes.andymatuschak.org/zVx3t4nDyk9tyuWQiBzsSDT",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Reading texts on computers is unpleasant.md",
+      "destination": "Andy Matuschak/Maintaining multiple reading positions is difficult when reading digitally.md",
+      "label": "Maintaining multiple reading positions is difficult when reading digitally",
+      "URL": "https://notes.andymatuschak.org/zJ4k4feCLspoCid7C4mzmvL",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Reading texts on computers is unpleasant.md",
+      "destination": "Andy Matuschak/Parallel reading is mostly impossible in digital reading.md",
+      "label": "Parallel reading is mostly impossible in digital reading",
+      "URL": "https://notes.andymatuschak.org/zBeBbzwU8LAyi2D5jqBJpS",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Reading texts on computers is unpleasant.md",
+      "destination": "Andy Matuschak/Few digital reading environments support marginal notes.md",
+      "label": "Few digital reading environments support marginal notes",
+      "URL": "https://notes.andymatuschak.org/zGsRWkonFv1KGAsWwiYA3he",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Reading texts on computers is unpleasant.md",
+      "destination": "Andy Matuschak/Digital annotation is too formal.md",
+      "label": "Digital annotation is too formal",
+      "URL": "https://notes.andymatuschak.org/zMHusNNzg8DveY5HJFbh1RU",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Readwise.md",
+      "destination": "Andy Matuschak/Do your own thinking.md",
+      "label": "Do your own thinking",
+      "URL": "https://notes.andymatuschak.org/zLdprTyt7Ca2z2LUGLtFMSs",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Readwise.md",
+      "destination": "Andy Matuschak/Collecting material feels more useful than it usually is.md",
+      "label": "Collecting material feels more useful than it usually is",
+      "URL": "https://notes.andymatuschak.org/zQm6XAB3XXrXLHzF7gahpJ2",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Readwise.md",
+      "destination": "Andy Matuschak/Pitching out corrupts within.md",
+      "label": "Pitching out corrupts within",
+      "URL": "https://notes.andymatuschak.org/z4ehFvVvhxoMGtBudLpDoeN",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Rich understanding is about connection.md",
+      "destination": "Andy Matuschak/Comprehension - Kintsch.md",
+      "label": "Comprehension - Kintsch",
+      "URL": "https://notes.andymatuschak.org/zES5WRczfGgXptmM9tSCwvy",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Silent speech interface.md",
+      "destination": "Andy Matuschak/Voice-based interface.md",
+      "label": "Voice-based interface",
+      "URL": "https://notes.andymatuschak.org/zWG9EgWoprv9cbXXkhg8YNS",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Situated learning.md",
+      "destination": "Andy Matuschak/The Reflective Practitioner - Donald Schön.md",
+      "label": "The Reflective Practitioner - Donald Schön",
+      "URL": "https://notes.andymatuschak.org/z5wZoGy72FafNGd1AHgtghs",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Situated learning.md",
+      "destination": "Andy Matuschak/Cognitive apprenticeship.md",
+      "label": "Cognitive apprenticeship",
+      "URL": "https://notes.andymatuschak.org/zQgeXp15RWkzyiUv9WQsLtA",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Situated learning.md",
+      "destination": "Andy Matuschak/Constructivism.md",
+      "label": "Constructivism",
+      "URL": "https://notes.andymatuschak.org/zWceTLNTjH3DQ7iVpy38ocq",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Situated learning.md",
+      "destination": "Andy Matuschak/Enabling environments focus on doing what’s enabled.md",
+      "label": "Enabling environments focus on doing what’s enabled",
+      "URL": "https://notes.andymatuschak.org/z2etsLyP1LJUwNDPCwvRdUG",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Skillful reading is often non-linear.md",
+      "destination": "Andy Matuschak/Edwards, P N (2005) How to Read a Book.md",
+      "label": "Edwards, P. N. (2005). How to Read a Book.",
+      "URL": "https://notes.andymatuschak.org/zF3idWHy3CyBA7foes3nagx",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Spaced repetition can lower the stakes around destructive inbox-maintenance operations.md",
+      "destination": "Andy Matuschak/Spaced repetition systems can be used to program attention.md",
+      "label": "Spaced repetition systems can be used to program attention",
+      "URL": "https://notes.andymatuschak.org/zB92WZZ5baBHKZPPbWMbYEv",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Spaced repetition may be a helpful tool to incrementally develop inklings.md",
+      "destination": "Andy Matuschak/Evergreen Notes.md",
+      "label": "Evergreen notes",
+      "URL": "https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Spaced repetition mechanics create a sense of effortlessness.md",
+      "destination": "Andy Matuschak/Spaced everything.md",
+      "label": "Spaced everything",
+      "URL": "https://notes.andymatuschak.org/z9hscgkG2TeqgUtu3vAEW3U",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Spaced repetition memory prompts alone are a poor communications medium.md",
+      "destination": "Andy Matuschak/Traditional spaced repetition memory prompts are atomized.md",
+      "label": "Traditional spaced repetition memory prompts are atomized",
+      "URL": "https://notes.andymatuschak.org/zCjyEsQTBSY7MJf6KxXKXb9",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Spaced repetition memory prompts alone are a poor communications medium.md",
+      "destination": "Andy Matuschak/Mnemonic medium.md",
+      "label": "Mnemonic medium",
+      "URL": "https://notes.andymatuschak.org/zKPv6qkSErdRGqyryvgS2wS",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Spaced repetition memory prompts alone are a poor communications medium.md",
+      "destination": "Andy Matuschak/The mnemonic medium gives structure to normally-atomized spaced repetition memory prompts.md",
+      "label": "The mnemonic medium gives structure to normally-atomized spaced repetition memory prompts",
+      "URL": "https://notes.andymatuschak.org/z8e98xn7t5QNHr5cf8oqjbJ",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Spaced repetition memory prompts should be concise.md",
+      "destination": "Andy Matuschak/Spaced repetition memory prompts should be written to discourage shallow “pattern matching”.md",
+      "label": "Spaced repetition memory prompts should be written to discourage shallow “pattern matching”",
+      "URL": "https://notes.andymatuschak.org/zSiuztCZ594AZuCweRghcXT",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Spaced repetition memory prompts should be concise.md",
+      "destination": "Andy Matuschak/Piotr Wozniak - Effective learning - Twenty rules of formulating knowledge.md",
+      "label": "Piotr Wozniak - Effective learning - Twenty rules of formulating knowledge",
+      "URL": "https://notes.andymatuschak.org/z96Xr88dMaAGrn3CobJnMUD",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Spaced repetition memory prompts should usually focus on one atomic unit.md",
+      "destination": "Andy Matuschak/Spaced repetition memory prompts should be concise.md",
+      "label": "Spaced repetition memory prompts should be concise",
+      "URL": "https://notes.andymatuschak.org/z9vSQjkBVL6dCVC6QhCu4Br",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Spaced Repetition memory system.md",
+      "destination": "Andy Matuschak/supermemo.md",
+      "label": "Supermemo",
+      "URL": "https://notes.andymatuschak.org/z2oUypiCEtPaDqNjbUsawCj",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Spaced Repetition memory system.md",
+      "destination": "Andy Matuschak/Execute Program.md",
+      "label": "Execute Program",
+      "URL": "https://notes.andymatuschak.org/zSsjk5UvNPGrYp8B6DEFCMS",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Spaced Repetition memory system.md",
+      "destination": "Andy Matuschak/Spaced repetition memory prompts alone are a poor communications medium.md",
+      "label": "Studying another person’s spaced repetition memory prompts is usually ineffective",
+      "URL": "https://notes.andymatuschak.org/zAPNwLWboaoymgEAPyUwjnT",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Spaced Repetition memory system.md",
+      "destination": "Andy Matuschak/Using machine learning to generate good spaced repetition prompts from explanatory text.md",
+      "label": "Using machine learning to generate good spaced repetition prompts from explanatory text",
+      "URL": "https://notes.andymatuschak.org/zBjh9jUahGSm7VpFtEjvKqT",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Spaced repetition memory systems can be used to prompt application, synthesis, and creation.md",
+      "destination": "Andy Matuschak/The mnemonic medium can help readers apply what they’ve learned through simple application prompts.md",
+      "label": "The mnemonic medium can help readers apply what they’ve learned through simple application prompts",
+      "URL": "https://notes.andymatuschak.org/zJoWJEpRvrjnm2zL3gdxBjg",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Spaced repetition prompt design is about designing tasks for your future self.md",
+      "destination": "Andy Matuschak/Spaced Repetition memory system.md",
+      "label": "Spaced repetition memory system",
+      "URL": "https://notes.andymatuschak.org/z2D1qPwddPktBjpNuwYFVva",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Spaced repetition prompt design is about designing tasks for your future self.md",
+      "destination": "Andy Matuschak/Spaced repetition memory prompts should usually focus on one atomic unit.md",
+      "label": "Spaced repetition memory prompts should usually focus on one atomic unit",
+      "URL": "https://notes.andymatuschak.org/zFgK9ArxAXq57iMukRsVVE9",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Spaced repetition systems can be used to program attention.md",
+      "destination": "Andy Matuschak/Spaced everything.md",
+      "label": "Spaced everything",
+      "URL": "https://notes.andymatuschak.org/z9hscgkG2TeqgUtu3vAEW3U",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Spaced repetition systems can be used to program attention.md",
+      "destination": "Andy Matuschak/Timeful text.md",
+      "label": "Timeful text",
+      "URL": "https://notes.andymatuschak.org/zAb9R6nYuTyN6PBC4rQY9aY",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Spaced repetition systems can be used to program attention.md",
+      "destination": "Andy Matuschak/Readwise.md",
+      "label": "Readwise",
+      "URL": "https://notes.andymatuschak.org/zAt1K9ARQYguinoHH8cfaqQ",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Spaced repetition systems can be used to program attention.md",
+      "destination": "Andy Matuschak/Spaced repetition systems as catechism.md",
+      "label": "Spaced repetition systems as catechism",
+      "URL": "https://notes.andymatuschak.org/zPtcwHaKGoLEZRzSoScYXha",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Spaced repetition systems can be used to program attention.md",
+      "destination": "Andy Matuschak/OS-level spaced repetition system.md",
+      "label": "OS-level spaced repetition system",
+      "URL": "https://notes.andymatuschak.org/zNLoqjEVe5dheMKmTTyB9E3",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/The critical thing to optimize in spaced repetition memory systems is emotional connection to the review session and its contents.md",
+      "destination": "Andy Matuschak/Important attributes of good spaced repetition memory prompts.md",
+      "label": "Important attributes of good spaced repetition memory prompts",
+      "URL": "https://notes.andymatuschak.org/z9xavmmNq7xvNqzpnJ3HFXx",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/The critical thing to optimize in spaced repetition memory systems is emotional connection to the review session and its contents.md",
+      "destination": "Andy Matuschak/Taking emotion seriously.md",
+      "label": "Taking emotion seriously",
+      "URL": "https://notes.andymatuschak.org/zLYGz27y8Ba6wbQLJbqyXkr",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/The critical thing to optimize in spaced repetition memory systems is emotional connection to the review session and its contents.md",
+      "destination": "Andy Matuschak/How might we apply insights from the mnemonic medium to forms which focus on deep emotional connection.md",
+      "label": "How might we apply insights from the mnemonic medium to forms which focus on deep emotional connection?",
+      "URL": "https://notes.andymatuschak.org/zDG6oSEj3Z6x5eLuAZcDWUH",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/The mnemonic medium can be adapted to author an experience which unfolds over time.md",
+      "destination": "Andy Matuschak/Quantum Country.md",
+      "label": "Quantum Country",
+      "URL": "https://notes.andymatuschak.org/zNVVrcxnkjk7pCabiBvaic1",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/The mnemonic medium can be adapted to author an experience which unfolds over time.md",
+      "destination": "Andy Matuschak/Application prompts should vary when repeated.md",
+      "label": "Application prompts should vary when repeated",
+      "URL": "https://notes.andymatuschak.org/zSisETSpZBCgZH4rFNHRcnC",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/The mnemonic medium can help readers apply what they’ve learned through simple application prompts.md",
+      "destination": "Andy Matuschak/Quantum Country.md",
+      "label": "Quantum Country",
+      "URL": "https://notes.andymatuschak.org/zNVVrcxnkjk7pCabiBvaic1",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/The mnemonic medium can help readers apply what they’ve learned through simple application prompts.md",
+      "destination": "Andy Matuschak/Application prompts are much harder to write than recall prompts.md",
+      "label": "Application prompts are much harder to write than recall prompts",
+      "URL": "https://notes.andymatuschak.org/z2EgZth9aD42QbGnFAggerw",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/The mnemonic medium keeps readers in contact with material over time.md",
+      "destination": "Andy Matuschak/Readwise.md",
+      "label": "Readwise",
+      "URL": "https://notes.andymatuschak.org/zAt1K9ARQYguinoHH8cfaqQ",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Tool-makers usually lack connection to a serious context of use.md",
+      "destination": "Andy Matuschak/Tools for thought.md",
+      "label": "Tools for thought",
+      "URL": "https://notes.andymatuschak.org/z88M2wwQ8FggV7p8Wu1b8LG",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/We lack UI patterns for linked representations for arrangements on a 2D canvas.md",
+      "destination": "Andy Matuschak/Figma.md",
+      "label": "Figma",
+      "URL": "https://notes.andymatuschak.org/zF6yhcVZ2yT7xpRQTWBzstB",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/We lack UI patterns for non-destructive filtering and rearrangement on a 2D canvas.md",
+      "destination": "Andy Matuschak/Physical cut and paste is a parallel act involving informal intermediate states.md",
+      "label": "Physical cut and paste is a parallel act involving informal intermediate states",
+      "URL": "https://notes.andymatuschak.org/zCRXo3avHi3fNuw43BHM8ch",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Where do ideas come from.md",
+      "destination": "Andy Matuschak/Insight through making prefers bricolage to big design up front.md",
+      "label": "Insight through making prefers bricolage to big design up front",
+      "URL": "https://notes.andymatuschak.org/zT2CnA38ERsCY2NKGw2thSL",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Worked example effect.md",
+      "destination": "Andy Matuschak/Element interactivity.md",
+      "label": "Element interactivity",
+      "URL": "https://notes.andymatuschak.org/zBk3AaWYp4spoTbc1f5aYvC",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Worked example effect.md",
+      "destination": "Andy Matuschak/Testing effect.md",
+      "label": "Testing effect",
+      "URL": "https://notes.andymatuschak.org/zTpJdbe6ub7uhBFLuHkFsrT",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Worked example effect.md",
+      "destination": "Andy Matuschak/Retrieval practice.md",
+      "label": "Retrieval practice",
+      "URL": "https://notes.andymatuschak.org/zXA8c6XtMLgRCGwJFGnZUvw",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Worked example effect.md",
+      "destination": "Andy Matuschak/The testing effect may be diminished or inverted for immediate tests.md",
+      "label": "The testing effect may be diminished or inverted for immediate tests",
+      "URL": "https://notes.andymatuschak.org/zWoEKdbmtbSgAp1tZjU4usY",
+      "match": "exact title"
+    },
+    {
+      "note": "Andy Matuschak/Worked example effect.md",
+      "destination": "Andy Matuschak/Testing effect.md",
+      "label": "Testing effect",
+      "URL": "https://notes.andymatuschak.org/zTpJdbe6ub7uhBFLuHkFsrT",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Worked example effect.md",
+      "destination": "Andy Matuschak/Testing effect.md",
+      "label": "Testing effect",
+      "URL": "https://notes.andymatuschak.org/zTpJdbe6ub7uhBFLuHkFsrT",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Writing forces sharper understanding.md",
+      "destination": "Andy Matuschak/Original thought requires solitude.md",
+      "label": "Michael Nielsen",
+      "URL": "https://notes.andymatuschak.org/z4JuirVwUcoGL4wZ8dM6Los",
+      "match": "source URL identity"
+    },
+    {
+      "note": "Andy Matuschak/Writing good spaced repetition memory prompts is hard.md",
+      "destination": "Andy Matuschak/Using machine learning to generate good spaced repetition prompts from explanatory text.md",
+      "label": "Using machine learning to generate good spaced repetition prompts from explanatory text",
+      "URL": "https://notes.andymatuschak.org/zBjh9jUahGSm7VpFtEjvKqT",
+      "match": "source URL identity"
+    }
+  ],
+  "source_additions": [
+    {
+      "note": "Andy Matuschak/The critical thing to optimize in spaced repetition memory systems is emotional connection to the review session and its contents.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/zPiRwRHQxGfF9Zej765PB8M"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Piotr Wozniak - Effective learning - Twenty rules of formulating knowledge.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/z96Xr88dMaAGrn3CobJnMUD"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Comprehension - Kintsch.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/Comprehension_-_Kintsch"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Element interactivity.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/Element_interactivity"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Moments of consciousness model, after Culadasa.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/zF3gSqhimNzCKYaWzm3rmUn"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Enacted experiences have incredible potential as a mass medium.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/z984ZZLbG4wREM6HAZAovMB"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Enabling environments focus on doing what’s enabled.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/z2etsLyP1LJUwNDPCwvRdUG"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Great tool-makers are often not great tool-users, and vice-versa.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/zHSk5HpDyrSWCMN669Sg4HU"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/How might the mnemonic medium enable readers in genres outside platform knowledge.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/z6eSdsLVZLGWuR7m3WQGgAY"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Evergreen Notes.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Knowledge work should accrete.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/zTn3g4wTm1hbkNFUvLLjpev"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Evergreen notes should be atomic.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/zNUaiGAXp21eorsER1Jm9yU"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Prefer note titles with complete phrases to sharpen claims.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/zLhoRUyjKU665EY16u4XXJy"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/The testing effect may be diminished or inverted for immediate tests.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/zWoEKdbmtbSgAp1tZjU4usY"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Complex ideas may be hard to learn in part because their components overflow working memory.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/z7JRyqSwVbW2a8U44w2RkR6"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Enacted experiences amplify the power of narrative.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/zQ9BWTY2JK6eJvCSqupc7UF"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Prefer associative ontologies to hierarchical taxonomies.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/z8SU3r8xyZyvwRhyDdJasJ2"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Backlinks can be used to implicitly define nodes in knowledge management systems.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/zL9q21MA7ygsKVfvn6FwBMq"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Metacognitive supports as cognitive scaffolding.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/zL2zRTTRhWf1Lx4x9p2uCDt"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Executable strategy for writing.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/zCknixwETdFm1MWdWPwMcXs"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Spaced repetition memory prompts should encode ideas from multiple angles.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/zEm3fU6X2i4YViURG8cd3Zx"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Spaced repetition memory prompts should connect and relate ideas.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/z3whk8UxFRFLgUQX9f7Fr2o"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Avoid yes-no spaced repetition memory prompts.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/z4jRNWgKHL9dq1fH9qq3JhM"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Cloze deletion prompts seem to produce less understanding than question answer pairs in spaced repetition memory systems.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/zPJt42JTcoAPTTTa2vdDonV"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Avoid orphan spaced repetition memory prompts.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/z3uFvLFRt8ognrjd6ADZMJc"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Memory augmentation may make it easier to learn complex topics by decreasing working memory load.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/zS33ebqMsefTfnh8cwgHYFR"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Deep understanding requires detailed knowledge of fundamentals.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/zDxwRLcf5pn3crwNN2EqSYM"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/The mnemonic medium can help readers apply what they’ve learned through simple application prompts.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/zJoWJEpRvrjnm2zL3gdxBjg"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Important attributes of good spaced repetition memory prompts.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/z9xavmmNq7xvNqzpnJ3HFXx"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/The mnemonic medium can surface “proof of memory” social signals.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/zQLzzf8VcSgTHn75yiEU7mJ"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Spaced everything.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/z9hscgkG2TeqgUtu3vAEW3U"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Many people view memory as unimportant to deep creative work.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/z3R2EmEqQz6CVZifHWYMB7B"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/The high-order bit for my productivity is whether I complete a deeply-focused morning creative block.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/z2q7U5ZvXeDxXD6vXAbZb9a"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Voice-based interface.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/zWG9EgWoprv9cbXXkhg8YNS"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Edwards, P N (2005) How to Read a Book.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/zF3idWHy3CyBA7foes3nagx"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Spaced repetition systems can be used to program attention.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/zB92WZZ5baBHKZPPbWMbYEv"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Spaced repetition memory prompts should be concise.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/z9vSQjkBVL6dCVC6QhCu4Br"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/supermemo.md",
+      "URLs": [
+        "https://notes.andymatuschak.org/z2oUypiCEtPaDqNjbUsawCj"
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "note": "Andy Matuschak/2021-10-31 Patreon post- Doing-centric explanatory mediums- board game instruction manuals, and an unusual Figma document.md",
+      "label": "Figma",
+      "URL": "https://www.figma.com/",
+      "reason": "topic name matches, but a different website does not establish the same captured article"
+    },
+    {
+      "note": "Andy Matuschak/2023-05-31 Patreon letter - Fluid practice for fluid understanding.md",
+      "label": "2",
+      "URL": "https://notes.andymatuschak.org/z8d1Rq2d13fdQCjQiWzJybD?stackedNotes=z21VhT726p7bX8JcGM41QSA&stackedNotes=zY3RYK9gJ6eDnq27vSwBDQh",
+      "reason": "ambiguous destination",
+      "candidates": [
+        "2023-05-31 Patreon letter - Fluid practice for fluid understanding.md",
+        "Patron letters on memory system experiments.md"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/2023-05-31 Patreon letter - Fluid practice for fluid understanding.md",
+      "label": "3",
+      "URL": "https://notes.andymatuschak.org/z8d1Rq2d13fdQCjQiWzJybD?stackedNotes=z21VhT726p7bX8JcGM41QSA&stackedNotes=zY3RYK9gJ6eDnq27vSwBDQh",
+      "reason": "ambiguous destination",
+      "candidates": [
+        "2023-05-31 Patreon letter - Fluid practice for fluid understanding.md",
+        "Patron letters on memory system experiments.md"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md",
+      "label": "Quantum Country",
+      "URL": "https://quantum.country/",
+      "reason": "topic name matches, but a different website does not establish the same captured article"
+    },
+    {
+      "note": "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md",
+      "label": "forward testing effect",
+      "URL": "https://en.wikipedia.org/wiki/Forward_testing_effect#cite_note-WhiffenKarpicke2017-4",
+      "reason": "topic name matches, but a different website does not establish the same captured article"
+    },
+    {
+      "note": "Andy Matuschak/2023-11-30 Patreon letter - Initial results from highlight-driven prototype.md",
+      "label": "Quantum Country",
+      "URL": "https://quantum.country/",
+      "reason": "topic name matches, but a different website does not establish the same captured article"
+    },
+    {
+      "note": "Andy Matuschak/2023-11-30 Patreon letter - Initial results from highlight-driven prototype.md",
+      "label": "mnemonic medium",
+      "URL": "https://numinous.productions/ttft",
+      "reason": "topic name matches, but a different website does not establish the same captured article"
+    },
+    {
+      "note": "Andy Matuschak/2023-11-30 Patreon letter - Initial results from highlight-driven prototype.md",
+      "label": "Execute Program",
+      "URL": "https://www.executeprogram.com/",
+      "reason": "topic name matches, but a different website does not establish the same captured article"
+    },
+    {
+      "note": "Andy Matuschak/2023-11-30 Patreon letter - Initial results from highlight-driven prototype.md",
+      "label": "salience prompts",
+      "URL": "https://andymatuschak.org/prompts/#prompting-salience",
+      "reason": "topic name matches, but a different website does not establish the same captured article"
+    },
+    {
+      "note": "Andy Matuschak/Anti-marketing, after Michael Nielsen.md",
+      "label": "source",
+      "URL": "https://dynamicland.org/archive/2016/Transactional_interpretations",
+      "reason": "ambiguous destination",
+      "candidates": [
+        "Noam Chomsky.md",
+        "Effective system design requires insights drawn from serious contexts of use.md",
+        "Grant Sanderson.md"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Effects of the mnemonic medium on reader memory.md",
+      "label": "source",
+      "URL": "https://twitter.com/KeithMansfield/status/1132031824513966080",
+      "reason": "ambiguous destination",
+      "candidates": [
+        "Noam Chomsky.md",
+        "Effective system design requires insights drawn from serious contexts of use.md",
+        "Grant Sanderson.md"
+      ]
+    },
+    {
+      "note": "Andy Matuschak/Evergreen notes should be densely linked.md",
+      "label": "Evergreen notes permit smooth incremental progress in writing (“incremental writing”)",
+      "URL": "https://notes.andymatuschak.org/zNqLdKMiTo9EHA9EWYGXs7b",
+      "reason": "URL identity and link title disagree"
+    },
+    {
+      "note": "Andy Matuschak/Executable strategy.md",
+      "label": "Spaced repetition memory systems make memory a choice",
+      "URL": "https://notes.andymatuschak.org/zSTqsQ4ATXB61k3Z43TforN",
+      "reason": "URL identity and link title disagree"
+    },
+    {
+      "note": "Andy Matuschak/How to Take Smart Notes - Ahrens.md",
+      "label": "Evergreen notes lower the emotional stakes in editing manuscripts",
+      "URL": "https://notes.andymatuschak.org/zSKD44o2VTbQuQYqmjupo4B",
+      "reason": "URL identity and link title disagree"
+    },
+    {
+      "note": "Andy Matuschak/Important attributes of good spaced repetition memory prompts.md",
+      "label": "Spaced repetition prompt design is about designing tasks for your future self",
+      "URL": "https://notes.andymatuschak.org/z53zJy6y76MGuJuWW4Qvab9",
+      "reason": "URL identity and link title disagree"
+    },
+    {
+      "note": "Andy Matuschak/Metacognitive supports as cognitive scaffolding.md",
+      "label": "Quantum Country",
+      "URL": "https://quantum.country/",
+      "reason": "topic name matches, but a different website does not establish the same captured article"
+    },
+    {
+      "note": "Andy Matuschak/Mnemonic medium prompts are interleaved into the reading experience.md",
+      "label": "Asking people questions while they read a text improves performance on untested contents",
+      "URL": "https://notes.andymatuschak.org/z4m9Gat7zi9YUmZzQRR7pwt",
+      "reason": "URL identity and link title disagree"
+    },
+    {
+      "note": "Andy Matuschak/Release valves for non-linear thought may support improved linear output.md",
+      "label": "source",
+      "URL": "https://www.youtube.com/watch?v=En_2T7KH6RA",
+      "reason": "ambiguous destination",
+      "candidates": [
+        "Noam Chomsky.md",
+        "Effective system design requires insights drawn from serious contexts of use.md",
+        "Grant Sanderson.md"
+      ]
+    }
+  ]
+}

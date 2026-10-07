@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/z92TGMiBsnraf5KXxSTNkBJ?stackedNotes=zQDtyijWebs1Su1Z8rZptot
+title: "Educational environments usually don’t involve original thought"
 ---
 # Educational environments usually don’t involve original thought
 Educational environments usually consist of activities with known outcomes, involving a known set of concepts or ideas. Students are expected to reconstruct or rederive those concepts for themselves through their studies. But even in “discovery learning” environments and interpretive liberal arts courses, activities generally aren’t designed to facilitate original thought.

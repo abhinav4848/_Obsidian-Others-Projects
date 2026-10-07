@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/z8e98xn7t5QNHr5cf8oqjbJ?stackedNotes=zAwYPQGGGv2rPXVWRuHNgij&stackedNotes=z7nmQ12agpmDmFoonENsQQN
+title: "Learn before you memorize"
 ---
 # Learn before you memorize
 One classic piece of advice from [[Piotr Wozniak - Effective learning - Twenty rules of formulating knowledge]] is that spaced repetition is best used to help you reinforce something you have *already* understood. Think of it as a way to “save state”—you have to be in a sufficiently good state before you apply the practice technique.

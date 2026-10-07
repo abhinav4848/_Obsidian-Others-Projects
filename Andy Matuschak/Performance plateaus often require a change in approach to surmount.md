@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zS1N4F9fUeMQ1kYHVAvwVAU
+title: "Performance plateaus often require a change in approach to surmount"
 ---
 # Performance plateaus often require a change in approach to surmount
 [[Purposeful practice, after Ericsson and Pool]] requires that you’re always pushing your comfort zone. By honing a given set of practices, it’s often possible to perform incrementally better, but returns usually diminish. At that point, “generally the solution is not ‘try harder’ but rather ‘try differently’” (Ericsson & Pool, 2016, p. 19). (Compare to [[Naive approaches to practice rapidly plateau]])
@@ -17,7 +18,6 @@ Related: [[Powerful innovations often focus on creating new paradigms, not solv
 
 ---
 ## References
-
 Chase, W. G., & Ericsson, A. (1981). Skilled memory. In A. Ericsson (Ed.), Cognitive skills and their acquisition (pp. 141–189). Erlbaum. [https://apps.dtic.mil/dtic/tr/fulltext/u2/a114635.pdf](https://apps.dtic.mil/dtic/tr/fulltext/u2/a114635.pdf)
 
 Ericsson, A., & Pool, R. (2016). _Peak: Secrets from the New Science of Expertise_ (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [Peak - Ericsson and Pool](https://notes.andymatuschak.org/zEwJDpZiu1YQoXYznxioznL)

@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zSoTbuyrXFnDHibaSeEzPRx?stackedNotes=zCaVdAEo3YDwAbuxLeW9JZ7
+title: "Pre-testing effect"
 ---
 # Pre-testing effect
 Taking practice tests _before_ information has been learned may cause improved learning performance. Presumably this occurs through a different mechanism than [[Retrieval practice]] / [[Testing effect]].

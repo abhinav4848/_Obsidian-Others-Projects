@@ -6,7 +6,9 @@ related:
   - "[[Ideaverse Merged/Atlas/Dots/Things/The ACE Folder Framework Flexes For You]]"
 aliases:
 - ACE Headspace
+title: "ACE Folder Framework"
 ---
+# ACE Folder Framework
 ACE is the most universal thinking system to learn, remember, and create. 
 
 > [!Map]+ ACE stands for: 

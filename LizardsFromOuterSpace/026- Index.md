@@ -1,3 +1,7 @@
+---
+title: "026- Index"
+---
+# 026- Index
 # Index
 is an alphabetical list that you can use to look up the locations of terms. It is an ancient form of information sorting that allowed for easier information retrieval. It operates similar to your memory in the sense that it relies on a retrieval cue ([[197- Retrieval Cues]]) in the form of a word.
 

@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zY3aLuvtsYS54QnymGKFGwg?stackedNotes=zU6upTVz687icnQegpMhLY8&stackedNotes=z4wZFERkVVVVy6bN6BE8kQz
+title: "Authored environments are significantly colored by authors’ motivations"
 ---
 # Authored environments are significantly colored by authors’ motivations
-
 Activities in an authored environment might have their own ostensible goals, but authors’ own motivations will infect and color those purposes. When authors’, participants’, and activities’ objectives are aligned, authors can create powerful environments; when they’re misaligned, the environments won’t cohere.
 
 In non-fiction, for instance, there might be some examples intended to motivate a topic and build readers’ excitement for its implications. If the book’s author is writing because he’s brimming over with enthusiasm for a subject and feels compelled to share it, that’ll elevate the examples’ prose. By contrast, a disinterested textbook author, writing out of obligation, will subvert the purpose of prose meant to convey enthusiasm.

@@ -1,16 +1,11 @@
 ---
 URL: https://notes.andymatuschak.org/zWzVw2VM4TPjpKXnHUfLaso?stackedNotes=zPLYeEZ1gQRNMFeuBQt6Gmo&stackedNotes=z4JuirVwUcoGL4wZ8dM6Los
+title: "Original thought requires solitude"
 ---
 # Original thought requires solitude
-
-Type of Link: 📝 Article
 Category talked about: Brain, Learning
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
 
 # **Original thought requires solitude**
-
 Grothendieck, “[The importance of Solitude”](https://web.archive.org/web/20040104204837/http://www.fermentmagazine.org/rands/promenade2.html), via [Michael Nielsen](https://notes.andymatuschak.org/z4JuirVwUcoGL4wZ8dM6Los):
 
 > In those critical years I learned how to be alone. But even this formulation doesn’t really capture my meaning. I didn’t, in any literal sense, learn to be alone, for the simple reason that this knowledge had never been unlearned during my childhood. It is a basic capacity in all of us from the day of our birth. However these three years of work in isolation 1945-1948, when I was thrown onto my own resources, following guidelines which I myself had spontaneously invented, instilled in me a strong degree of confidence, unassuming yet enduring in my ability to do mathematics, which owes nothing to any consensus or to the fashions which pass as law. By this I mean to say: to reach out in my own way to the things I wished to learn, rather than relying on the notions of the consensus, overt or tacit, coming from a more or less extended clan of which I found myself a member, or which for any other reason laid claim to be taken as an authority. This silent consensus had informed me both at the lycee and at the university, that one shouldn’t bother worrying about what was really meant when using a term like “volume” which was “obviously self-evident”, “generally known,” “in problematic” etc… it is in this gesture of “going beyond” to be in oneself rather than the pawn of a consensus, the refusal to stay within a rigid circle that others have drawn around one – it is in this solitary act that one finds true creativity. All others things follow as a matter of course.

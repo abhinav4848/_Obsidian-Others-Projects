@@ -19,7 +19,9 @@ finalAge: "72"
 image: https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/sites/11339/images/3ocdDMX0TFW3q5JtFbUn_Anders_Ericcson_Headshot_.jpg
 aliases:
 - K. Anders Ericsson
+title: "K. Anders Ericsson (kit)"
 ---
+# K. Anders Ericsson (kit)
 Made popular the term [[Ideaverse Merged/Atlas/Dots/Things/Deliberate Practice]], along with Malcolm Gladwell.
 
 

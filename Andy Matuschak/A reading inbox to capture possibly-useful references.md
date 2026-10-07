@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zNQV445UEcyLXVsRVgoVSfv?stackedNotes=zFuk9QqspNYHAgvzZc33ZGH&stackedNotes=zDXBGEWk7msyonQ2Ngnrf8h
+title: "A reading inbox to capture possibly-useful references"
 ---
 # A reading inbox to capture possibly-useful references
 To avoid a proliferation of anxiety-inducing browser tabs and a terrifying folder of PDFs, it’s important to have an automatic procedure for capturing references to readings which might prove useful.

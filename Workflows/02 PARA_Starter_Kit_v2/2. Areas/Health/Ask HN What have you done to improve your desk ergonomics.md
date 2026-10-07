@@ -1,3 +1,7 @@
+---
+title: "Ask HN What have you done to improve your desk ergonomics"
+---
+# Ask HN What have you done to improve your desk ergonomics
 https://news.ycombinator.com/item?id=21623319
 
 Taking breaks is important even if it just means you get coffee in

@@ -20,9 +20,9 @@ show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fasse
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 3
 from_snipd: true
+title: "Alex Danco — Speeches and Spells for the Kings and Priests (EP.283)"
 ---
 # Alex Danco — Speeches and Spells for the Kings and Priests (EP.283)
-
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F1%2F2%2Fd%2F9%2F12d92fe05f883fa916c3140a3186d450%2F283_-_Square.png&w=200&h=200)
 
 ## Episode metadata
@@ -39,43 +39,36 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ###  [Startup Founder's Spell](https://share.snipd.com/snip/a3c3abbc-a9a3-483a-936f-70446a564185) 
-
 🎧 22:17 - 22:46 (00:29)
 
 - Alex Danco recalls that when he was doing his startup, nobody listened to him unless he could talk about something he had read from Paul Graham, Semil Shah, Mark Suster, or Fred Wilson.
 - After mastering and casting that 'spell', people would listen to him for about 45 minutes.
 
 #### 💬 Quote
-
 > The default state of the world is that nobody listens to you at all, right? Everybody just completely ignores you and no one takes you seriously, except [...] when I would read whatever that day's Paul Graham post or Semel Shah or like Mark Schuster or Fred Wilson [...] where you would read it and you would really do the work of understanding [...] And it would really work, right? You would cast that spell and then for 45 minutes, people would listen to you.
 > — Alex Danco
 
 Alex Danco on how to get people to listen to you when you're a startup founder.
 
 #### 📚 Transcript
-
 **Alex Danco:** It's like, you know, the money is helpful, but you don't, it's not a prerequisite. And I remember in the, in the old days, you know, something that had a really big effect on me was when I was doing my startup, I remember very well that like the default state of the world is that nobody listens to you at all, right? Everybody just completely ignores you and no one takes you seriously, except there would be one exception to this, which is that when I would read whatever that day's Paul Graham post or Semel Shah or like Mark Schuster or Fred Wilson or all the people who are blogging in those days, where you would read it and you would really do the work of understanding and
 
 ---
 
 ###  [The Power of Great Speeches](https://share.snipd.com/snip/82488dc7-cd21-4f50-a0b4-e5466b025cb7) 
-
 🎧 32:13 - 34:02 (01:49)
 
 - Improve the overall impact and seriousness of the work founders are doing by encouraging great speeches.
 - Even Reagan's speeches were amazing and made you feel like a million bucks.
 
 #### 💬 Quote
-
 > If you can tip perceptions just a little bit towards people kind of mimetically being like, oh, like, they had a great speech at their launch announcement, I need to have a great speech for my launch announcement, or whatever.
 > — Alex Danco
 
 Alex Danco on the impact of great speeches
 
 #### 📚 Transcript
-
 **Alex Danco:** Because if you can tip perceptions just a little bit towards people kind of mimetically being like, oh, like, they had a great speech at their launch announcement, I need to have a great speech for my launch announcement, or whatever. If you can just get people to like kind of flip their orientation towards like that sort of competition, then it's like you could increase the overall level of seriousness and the overall degree to which the good work that these founders are doing actually being heard by the outside world. Right. In a very high leverage way. Right. A relatively small amount of initial effort, you know, talking a few people andto-day jobs, could result in a massive change in the overall impact of what is actually heard by the outside world about why these founders are doing the work they do. So, end of soliloquy.
 
 **Jim O'Shaughnessy:** because as you were outlining your goal for me, I was immediately seeing Winston Churchill. was immediately seeing Kennedy saying America will land a man on the moon when we had absolutely no technologies in place that allowed for that. And I used to love reading great speeches. But I mean, of course, Lincoln. But so even as
@@ -91,21 +84,18 @@ Alex Danco on the impact of great speeches
 ---
 
 ###  [American Hypomania](https://share.snipd.com/snip/4c5e9f15-fb09-459f-8fd7-fb0c9d0d672a) 
-
 🎧 35:10 - 37:08 (01:58)
 
 - Alex Danco shared a story about helping friends recover Bitcoin, which turned out to be worth only $80. 
 - This experience reminded him of the feeling of hypomania and limitless possibility that characterizes the American spirit.
 
 #### 💬 Quote
-
 > Remember that feeling before we saw the number, that's what being an american feels like all the time. That's what America's about.
 > — Alex Danco
 
 Alex Danco on the feeling of hypomania that characterizes the American spirit.
 
 #### 📚 Transcript
-
 **Alex Danco:** like the story so the other day we were over at some friends houses for dinner and it was you know it was a it was a many bottles of wine kind of dinner and midway through the dinner so this friend is like hey i have something maybe you can help with i remember just i just remember the other day that like many many years ago at this secret Santa, someone gave me a couple of Bitcoin on a thing as a present. Do you think you can help me recover this? It's in a Coinbase account. I didn't want to go through the flow or whatever. Do you think you can help me with this? I was like, yes. How many did you say it was? She's like, oh, I think it was like two or something it's like let's go work on this right now and so we're like so i i i i go in it's like okay let's figure out how to get the account recovered it wasn't that bad and over the 10 to 15 minutes of like doing the like find the account thing this idea of like oh just found all this money became a self-actualized state of reality for a minute. Right. It was like, this is sick. Are we going to we're like, we're going to split this with you and we're going to do this and it's going to be so great. And then over the upon conclusion of the retrieval exercise, it turned out that it was some amount of money that's worth about 80 bucks today. you know like in the slow period of deflation after seeing the total i told them i was like remember that feeling before we saw the number that's what being an american feels like all the time That's what America's about. Yes. I made it. We have made it. I just need this password to the account and I'm back, baby. I'm back. It's like that feeling all the time. Again, like as Canadians, it's like you drive across the border into Buffalo or something and it's just the energy of the place just gets
 
 ---

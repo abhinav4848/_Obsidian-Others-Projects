@@ -8,8 +8,9 @@ created: 2022-01-01
 obsidianUIMode: preview
 in:
   - "[[Ideaverse Merged/Atlas/Maps/Views]]"
+title: "Add"
 ---
-
+# Add
 This **Add** note isn't just an inbox. It's a cooling pad 🧊.
 Thoughts come in hot. But after a few days, they cool down.
 When cooler thoughts prevail, you can better prioritize. Cool?

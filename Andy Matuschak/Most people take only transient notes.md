@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zKGjQtsTKgscAoq271ZzKqw
+title: "Most people take only transient notes"
 ---
 # Most people take only transient notes
 In contrast to [[Andy Matuschak/Evergreen Notes|Evergreen Notes]], [[Most people use notes as a bucket for storage or scratch thoughts]]. These are very convenient to write, but after a year of writing such notes, they’ll just have a pile of dissociated notes. The notes won’t have added up to anything: they’re more like fuel, written and discarded to help the author process their ongoing experiences. 

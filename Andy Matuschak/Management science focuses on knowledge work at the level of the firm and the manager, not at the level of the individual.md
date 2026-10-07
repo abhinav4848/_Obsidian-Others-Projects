@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/z2Nv3jADtpYcgbCXww7nSEG?stackedNotes=zAVF3mepMcuTWVUJaeHTL77&stackedNotes=z42RbvjQwHecBesDThrPobe
+title: "Management science focuses on knowledge work at the level of the firm and the manager, not at the level of the individual"
 ---
 # Management science focuses on knowledge work at the level of the firm and the manager, not at the level of the individual
-
 [Quite tentative—just my rough, fairly uninformed sense; haven’t done enough nearly reading to validate](https://notes.andymatuschak.org/z2Nv3jADtpYcgbCXww7nSEG?stackedNotes=zAVF3mepMcuTWVUJaeHTL77&stackedNotes=z42RbvjQwHecBesDThrPobe) #internal_link 
 
 Prior to the 20th century, management science focused on the challenges of the industrial economy. It tackled problems like getting more widgets manufactured by tracking the amount of time each worker spent on each task, then finding efficiencies. Workers were fungible and unspecialized, so it emphasized problem-solving at the level of the firm and of the manager.

@@ -4,18 +4,18 @@ up:
 created: 2023-10-15
 tags:
   - map/view
+title: "Templates"
 ---
+# Templates
 Templates are growing in importance. Why? Largely because of [[Ideaverse Merged/Atlas/Maps/Collections]]. 
 
 > [!sparkles]- ## Base Templates
-> 
 > - [[Ideaverse Merged/x/Templates/Base Template]]: Just the basics: up, related, and created
 > 	- [[Ideaverse Merged/x/Templates/Base Template w In]]: Includes "in" for collections
 > 	- [[Ideaverse Merged/x/Templates/Template, Properties, Base + Tags (Kit)]]: Includes "tags"
 > - [[Ideaverse Merged/x/Templates/Daily Template]]: Just created
 
 > [!planet]- ## Atlas Templates & Collections
-> 
 > > [!map]+ [[Ideaverse Merged/Atlas/Maps/Maps]]
 > > - [[Ideaverse Merged/x/Templates/Map (MOC) Template]] - For manual gathering, developing, creating
 > > - [[Ideaverse Merged/x/Templates/Map (View) Template]] - For more passive, dynamic dashboards
@@ -63,7 +63,6 @@ Templates are growing in importance. Why? Largely because of [[Ideaverse Merged/
 > - [[Ideaverse Merged/x/Templates/Linked Calendar Notes add-on]] - Lists all notes in `Calendar` mentioning the note
 
 > [!training]- ## Efforts Templates & Collections
-> 
 > > [!training] [[Ideaverse Merged/Atlas/Maps/Efforts]] — [[Ideaverse Merged/x/Templates/Template, Properties, Effort (Kit)]]
 > 
 > - [[Ideaverse Merged/x/Templates/Outputs Template]] - Just a basic one

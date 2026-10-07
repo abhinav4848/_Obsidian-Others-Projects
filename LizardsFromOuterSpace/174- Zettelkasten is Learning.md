@@ -1,3 +1,7 @@
+---
+title: "174- Zettelkasten is Learning"
+---
+# 174- Zettelkasten is Learning
 # Zettelkasten is Learning
 Learning is essentially the process of taking in new information, processing it for long term storage, and tying it to your prior knowledge.
 

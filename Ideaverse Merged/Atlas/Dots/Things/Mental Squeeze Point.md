@@ -4,7 +4,9 @@ up:
 related:
   - "[[Ideaverse Merged/Atlas/Dots/Things/MOCs Overview]]"
 created: 2020-06-01
+title: "Mental Squeeze Point"
 ---
+# Mental Squeeze Point
 A **Mental Squeeze Point** is when your unsorted knowledge becomes so messy it overwhelms and discourages you. Either you are equipped with frameworks to overcome the squeeze point, or you are discouraged and possibly abandon your project. This is usually followed by yet another search for the next shiny thing to distract from the pain. ^64cf60a6
 
 The MSP is about unsorted knowledge, but really, it's about undealt with emotion.

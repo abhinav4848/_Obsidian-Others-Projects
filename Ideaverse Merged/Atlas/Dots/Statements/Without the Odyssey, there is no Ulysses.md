@@ -4,8 +4,9 @@ up:
 related:
   - "[[Kate Bush, Stranger Things, & Idea Emergence]]"
 created: 2022-06-26
+title: "Without the Odyssey, there is no Ulysses"
 ---
-
+# Without the Odyssey, there is no Ulysses
 *I wanted to make this a note to capture a snapshot of the ever-elusive Idea Emergence.*
 
 ---

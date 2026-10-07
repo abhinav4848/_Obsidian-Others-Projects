@@ -7,7 +7,9 @@ tags:
   - map/view
 cssclasses:
   - wide-page
+title: "People ROARs"
 ---
+# People ROARs
 ROAR stands for "Reach-Outs And Replies".
 
 > [!video]- [Click here for the video lesson](https://community.linkingyourthinking.com/c/ideaverse-pro/sections/138335/lessons/471747)  UPDATE LINK

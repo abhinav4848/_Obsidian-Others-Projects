@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=z4RDymitJVXdYzjNgDYWqQK&stackedNotes=z6Dd9qGVLLBchS8R9wow4sk
+title: "Conversations incorporating multiple discussants’ evergreen notes may promote collaborative sense-making"
 ---
 # Conversations incorporating multiple discussants’ evergreen notes may promote collaborative sense-making
 [[Evergreen notes can increase conversational bandwidth]], but something particularly interesting happens when multiple people have written [[Evergreen notes]] related to a single discussion topic. Instead of figuratively “comparing notes” on an idea conversationally, the discussants can _literally_ compare notes around some idea. Each person will have factored their notes somewhat differently, so it usually won’t be possible to make a 1:1 correspondence—and that’s the whole point. Each person will approach the idea from a different angle, notice different implications, frame it within different contexts.

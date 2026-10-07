@@ -1,3 +1,7 @@
+---
+title: "035 Places MOC"
+---
+# 035 Places MOC
 tags: #TOC #travel #places
 Index: [[000 Index|Index]], [[035 Places MOC|Places]]
 

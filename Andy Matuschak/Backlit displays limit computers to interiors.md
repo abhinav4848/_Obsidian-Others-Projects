@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zDN6nH4MHc78Tq6opuSaRmw
+title: "Backlit displays limit computers to interiors"
 ---
 # Backlit displays limit computers to interiors
-
 Living in California, we have so many perfect days. It would be so lovely to spend lots of time working outside, but computers’ backlit displays just don’t work in that context.
 
 I don’t need a whole workstation: I’d be thrilled if I could do even simple tasks like reading and writing documents outside. One could use physical documents, of course, but that excludes [[Computer-supported thinking]]. 

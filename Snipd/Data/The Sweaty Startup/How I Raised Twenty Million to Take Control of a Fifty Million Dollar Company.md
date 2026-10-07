@@ -14,9 +14,9 @@ show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fasse
 episode_export_date: "2026-01-15T14:45:36"
 snips_count: 1
 from_snipd: true
+title: "How I Raised Twenty Million to Take Control of a Fifty Million Dollar Company"
 ---
 # How I Raised Twenty Million to Take Control of a Fifty Million Dollar Company
-
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2Fc%2Fa%2Fe%2Fa%2Fcaeae8d4a5b0d219%2Fthe_sweaty.png&w=200&h=200)
 
 ## Episode metadata
@@ -32,23 +32,19 @@ from_snipd: true
 - Export date: 2026-01-15T14:45:36
 
 ## Snips
-
 ### ⭐ [Improve Your Copywriting](https://share.snipd.com/snip/d0435c41-482f-4a31-9cb8-3509dd30b7ca) 
-
 🎧 03:35 - 04:17 (00:42)
 
 - Practice copywriting to improve your writing skills. 
 - Nick Huber recommends Sam Parr's 'copy that.com' course, which teaches you to copy good copywriting by hand.
 
 #### 💬 Quote
-
 > Get your computer out and retype my tweets until it starts so it starts to come.
 > — Nick Huber
 
 Nick Huber on how to improve your copywriting skills.
 
 #### 📚 Transcript
-
 **Tom:** no real insights for the audience on how they can do it is more of a gift. No,
 
 **Nick Huber:** I think practice definitely is a, is an important part of it. There's a course that Sam Parr, Sam Parr is a great copywriter. He's the, my first million co-host, which you're familiar with. He has a course called copy that, copy that.com. And you get good at writing copy by actually writing it, like literally copying it by hand. Benjamin Franklin. That's how he wrote copy. He copied the great copywriters. That's why it's called copywriting so um yeah get your computer out and retype my tweets until it

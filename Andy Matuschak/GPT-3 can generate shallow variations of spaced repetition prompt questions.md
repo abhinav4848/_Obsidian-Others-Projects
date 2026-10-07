@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zSisETSpZBCgZH4rFNHRcnC?stackedNotes=z3NDe3nR9hvqRqWWtvZdxe7&stackedNotes=zBcEii9Hf2Rv7vsUSB7pBoP
+title: "GPT-3 can generate shallow variations of spaced repetition prompt questions"
 ---
 # GPT-3 can generate shallow variations of spaced repetition prompt questions
-
 Rather than trying to generate full question/answer pairs, a much easier task for [[Using machine learning to generate good spaced repetition prompts from explanatory text]] is to use [Large language models](https://notes.andymatuschak.org/zBe9vHWwqLoyaeA7eJfLnBA) (no access) to generate _variations_ on question text, so that it’s phrased differently every time you see it, but reinforcing the same basic retrieval pattern. i.e. this is one way to automate [[Would spaced repetition memory systems perform better with varied question texts]]? and to accomplish [[Spaced repetition memory prompts should be written to discourage shallow “pattern matching”]].
 
 [2023-06-14](https://notes.andymatuschak.org/2023-06-14) (no access): this is working pretty well in simple experiments: [[20230614100259]], with both GPT-4 and GPT-3.5-turbo (slightly better results for the former)

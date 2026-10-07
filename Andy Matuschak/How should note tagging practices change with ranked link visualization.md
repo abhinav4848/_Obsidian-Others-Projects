@@ -1,6 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zH7AVUkqYYK7xmoAn8PTpAV?stackedNotes=z2qjVZKqSqrqkhFhvUpPDtd&stackedNotes=zQvbnYfHdG1gARTbtC4pje6
+title: "How should note tagging practices change with ranked link visualization"
 ---
+# How should note tagging practices change with ranked link visualization
 # How should note tagging practices change with ranked link visualization?
 In their indexes, Zettelkasten practitioners try to tag only the most important few notes for a given topic, then they rely on inter-note linkages to navigate from there (see [[Indexed references vs. tags]] ). This keeps the entry high-signal (see [[Tags are an ineffective association structure]]).
 

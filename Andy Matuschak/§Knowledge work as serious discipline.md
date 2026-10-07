@@ -1,3 +1,7 @@
+---
+title: "§Knowledge work as serious discipline"
+---
+# §Knowledge work as serious discipline
 - [[Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do]]
 - [[Core practices in knowledge work are often ad-hoc]]
 	- [[Management science focuses on knowledge work at the level of the firm and the manager, not at the level of the individual]] 

@@ -26,6 +26,8 @@ yearXP: 1998
 yearXPL: "2023"
 showStatus: watched
 rating: 5
+title: "A Few Good Men"
 ---
+# A Few Good Men
 ![poster](https://m.media-amazon.com/images/M/MV5BMmRlZDQ1MmUtMzE2Yi00YTkxLTk1MGMtYmIyYWQwODcxYzRlXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX300.jpg)
 

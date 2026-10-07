@@ -3,8 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Dots/Things/MOCs Overview]]"
 created: 2022-01-01
 rank: "4"
+title: "Sensemaking happens by triangulation"
 ---
-
+# Sensemaking happens by triangulation
 > [!Box]- Outputs by date and location
 > - #output/lesson 2022-02-01 - lesson retired
 > - #output/twitter☑️ 2022-07-21 - [twitter thread](https://twitter.com/NickMilo/status/1562063375491817473).
@@ -68,7 +69,6 @@ You will have an emergent system that strengthens your ability to triangulate "k
 
 ---
 ### Outro 
-
 **The three powers of triangulation**
 - You can use what you know to make sense of stuff.
 	- Use two known points, to better understand a third point.
@@ -229,7 +229,6 @@ By the way, some of these graphics came from one of [@ProfFeynman](https://twitt
 
 # Newsletter copy
 # Lesson: Sensemaking happens by Triangulation
-
 “Triangulation” is using two known points to find a third point. Triangulating is how we make sense of the world.
 
 Triangulation is why we love to link our thoughts.

@@ -1,3 +1,6 @@
+---
+title: "Levels of Magnification"
+---
 # Levels of Magnification
 ### Analyzing a Problem Through Three Different Levels of Magnification
 I have found it useful to use three different levels of magnification when looking at some Thing and asking the question: 

@@ -25,7 +25,9 @@ rating: "3"
 type: "[[Ideaverse Merged/Atlas/Maps/Books]]"
 aliases:
 - Ptolemy's Almagest
+title: "The Almagest"
 ---
+# The Almagest
 ![image|150](http://books.google.com/books/content?id=YTbSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 The Almagest is a 2nd-century Greek-language mathematical and astronomical treatise on the apparent motions of the stars and planetary paths, written by Claudius [[Ideaverse Merged/Atlas/Dots/Things/Ptolemy (kit)]]
@@ -51,7 +53,6 @@ The Almagest is a 2nd-century Greek-language mathematical and astronomical treat
 ---
 
 ## Cite
-
 ### 1999 📚 The Cambridge Concise History of Astronomy
 - Michael Hoskin, Cambridge University Press, Mar 18, 1999 - 362 pages
 - Astronomy is one of the oldest sciences, and one which has repeatedly led to fundamental changes in our view of the world. This book covers the history of our study of the cosmos from prehistory to a survey of modern astronomy and astrophysics. It does not attempt to cover everything, but deliberately concentrates on the important themes and topics, including stellar astronomy in the seventeenth and eighteenth centuries--the source of many important concepts in modern astronomy--and the Copernican revolution, which led to the challenge of ancient authorities in many areas other than astronomy. This is an essential text for students of the history of science and for students of astronomy who require a historical background to their studies.

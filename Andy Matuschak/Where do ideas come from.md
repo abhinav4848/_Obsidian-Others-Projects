@@ -1,10 +1,12 @@
 ---
 URL: https://notes.andymatuschak.org/zLg3XjSSrDofz6cW3F6DESx
+title: "Where do ideas come from"
 ---
+# Where do ideas come from
 - [[Powerful innovations often focus on creating new paradigms, not solving problems of the current context]] 
 - [[Insight through making]]
     - [[Effective system design requires insights drawn from serious contexts of use]] 
-    - [Insight through making prefers bricolage to big design up front](https://notes.andymatuschak.org/zT2CnA38ERsCY2NKGw2thSL) 
+    - [[Andy Matuschak/Insight through making prefers bricolage to big design up front|Insight through making prefers bricolage to big design up front]] 
 - [[Evergreen note-writing helps insight accumulate]]
     - [[Brainstorming may often substitute for missing insight accretion systems]]
 - [[Some kinds of creative insight depend on long-term memory]] 

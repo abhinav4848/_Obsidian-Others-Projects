@@ -1,10 +1,13 @@
+---
+title: "Charlie Munger's Mental Models"
+---
+# Charlie Munger's Mental Models
 tags: #mentalModels #list  
 links: [[010 Mind MOC|Mind]], [[Concepts MOC|Concepts]]
 created: 201906183333
 
 ---
 # List of Charlie Munger's Mental Models
-
 ## Short List of Munger's Models
 * Math (Munger is particularly fond of the algebraic idea of inversion, that is, to solve a problem you address it backwards)
 * Accounting (and its limits)

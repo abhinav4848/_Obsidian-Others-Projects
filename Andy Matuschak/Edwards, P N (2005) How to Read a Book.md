@@ -1,3 +1,8 @@
+---
+URL: "https://notes.andymatuschak.org/zF3idWHy3CyBA7foes3nagx"
+title: "Edwards, P N (2005) How to Read a Book"
+---
+# Edwards, P N (2005) How to Read a Book
 # Edwards, P. N. (2005). How to Read a Book.
 Not to be confused with [[How to Read a Book - Adler and van Doren]]
 
@@ -22,5 +27,4 @@ Q. If reading a book will take three hours, how does Paul Edwards suggest schedu
 A. As three one-hours sessions.
 
 # Reference
-
 1.

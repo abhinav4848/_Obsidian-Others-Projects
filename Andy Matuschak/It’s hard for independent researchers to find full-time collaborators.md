@@ -1,5 +1,7 @@
+---
+title: "It’s hard for independent researchers to find full-time collaborators"
+---
 # It’s hard for independent researchers to find full-time collaborators
-
 It’s rare enough for independent researchers to have enough funding to support themselves; it’s much rarer for them to be able to also support other people! So collaborators must either have their own independent source of funding, or they must be post-money.
 
 Professors are one promising group: they usually have their own funding and the freedom to pursue projects they find interesting. But I’ve noticed that their attention is usually split ten ways by tons of projects in-flight, often with their students; also, many of them are mostly supervising graduate students rather than doing primary research of their own.

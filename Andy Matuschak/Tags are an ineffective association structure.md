@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zojJRcfGstU2Ss6JRMzd15
+title: "Tags are an ineffective association structure"
 ---
 # Tags are an ineffective association structure
 Tags are an easy way to relate heterogenous items, but they’re quite a low-signal way of describing relationships.

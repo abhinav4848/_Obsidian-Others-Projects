@@ -1,3 +1,7 @@
+---
+title: "Metaphor MOC WIP"
+---
+# Metaphor MOC WIP
 tags: #Mind
 links: [[055 Figures MOC|Figures]]
 

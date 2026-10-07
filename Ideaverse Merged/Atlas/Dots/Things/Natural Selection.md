@@ -9,7 +9,9 @@ tags:
   - note/tidy🧹
 rank: 5.3
 says: Your natural environment "selects" traits for evolutionary advantage
+title: "Natural Selection"
 ---
+# Natural Selection
 One of the most monumental of all concepts. So many fascinating angles. 
 
 [[Ideaverse Merged/Atlas/Dots/Things/Natural Selection]] is closely related to [[Ideaverse Merged/Atlas/Dots/Things/Hormesis]] and [[Ideaverse Merged/Atlas/Dots/Things/Antifragility]].

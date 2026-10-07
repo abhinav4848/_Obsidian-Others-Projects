@@ -6,16 +6,16 @@ episode_publish_date: 2017-01-09
 last_snip_date: 2025-05-27
 episode_duration_minutes: 46
 episode_url: "https://share.snipd.com/episode/662697c5-1bba-45df-965a-e8b7f61c92f4"
-image_url: "_media-sync_resources/2025/12/20/231711/06565.jpeg"
+image_url: "Attachments/71638.jpeg"
 show_url: "https://share.snipd.com/show/f24451b4-1e4a-429d-a98f-776c48582a45"
-show_image_url: "_media-sync_resources/2025/12/20/231711/15749.jpeg"
+show_image_url: "Attachments/71638.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
+title: "Behind-the-Scenes Making the Show"
 ---
 # Behind-the-Scenes Making the Show
-
-![Cover](_media-sync_resources/2025/12/20/231711/97076.jpeg)
+![Cover](../../../Attachments/63883.jpeg)
 
 ## Episode metadata
 - Episode title: Behind-the-Scenes Making the Show
@@ -29,23 +29,19 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ###  [Mimicry for Voice](https://share.snipd.com/snip/bfa398a9-0b68-490a-a728-e7819d72ff7d) 
-
 🎧 29:03 - 29:36 (00:32)
 
 - Use mimicry to embody a voice or build a format.
 - Do a full episode in the style of Anthony Bourdain to retell a story.
 
 #### 💬 Quote
-
 > Mimicry is the easiest way to build a format or like embody a voice.
 > — Jay Acunzo
 
 Jay Acunzo on using mimicry to develop a voice
 
 #### 📚 Transcript
-
 Okay, so remember a long time ago, I told you like mimicry is the easiest way to build a format or like embody a voice. I actually, I think you should do this with one full episode of of verdane show like take that Mexico episode and do exactly what you're doing. Like, I'm going to retell the Brenner story. In exactly like as close as I can mimic. Bourdain's voice and style and beats
 
 ---

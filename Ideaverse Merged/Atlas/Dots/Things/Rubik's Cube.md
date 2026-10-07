@@ -6,8 +6,9 @@ in:
 related: 
 created: 2020-06-01
 rank: 1.5
+title: "Rubik's Cube"
 ---
-
+# Rubik's Cube
 ### Themes
 - Structure amidst Chaos
     - There can never be a white edge next to a white edge, therefore, there are constraints, meaning there are not infinite permutations, there are patterns, structure built into the chaos, but it's only chaos, unless you know what to look for, which is where practice and experience give help you see the patterns.

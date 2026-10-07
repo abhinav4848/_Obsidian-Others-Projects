@@ -3,8 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Maps/Habits Map]]"
 created: 2015-02-20
 modified: 2020-05-28
+title: "An asymptotic curve models the development of skills, strength, habits, and more"
 ---
-
+# An asymptotic curve models the development of skills, strength, habits, and more
 An asymptotic curve is seen in the development of habits, skills,  muscles, and more.
 
 The asymptotic curve rises fast on the y-axis before leveling out. Practically, this models the rate of improvement when we start a new habit or develop a new skill.

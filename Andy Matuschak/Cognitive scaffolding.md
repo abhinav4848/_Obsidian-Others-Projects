@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zWSH2QNUsrTGP4V15JBaaEv
+title: "Cognitive scaffolding"
 ---
 # Cognitive scaffolding
 When thinking or doing something new and challenging, one common failure mode is that the smallest possible incremental step might still be too difficult to conceive. In these instances, it’s best to adopt an environment which will erect *cognitive scaffolding* to support part of the cognitive load, enabling that next step. As the actor builds capacity, the scaffolding can be gradually removed, either by him or by his environment. The temporary nature of the scaffolding makes this a subset of mechanisms for augmenting cognition.

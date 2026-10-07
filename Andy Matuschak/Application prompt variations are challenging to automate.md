@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zJoWJEpRvrjnm2zL3gdxBjg?stackedNotes=zSisETSpZBCgZH4rFNHRcnC&stackedNotes=z3NDe3nR9hvqRqWWtvZdxe7
+title: "Application prompt variations are challenging to automate"
 ---
 # Application prompt variations are challenging to automate
 [[The mnemonic medium can help readers apply what they’ve learned through simple application prompts]], but [[Application prompts are much harder to write than recall prompts]]. It’s tempting to try automatically generating these variations, but in practice that seemed challenging in 2020.

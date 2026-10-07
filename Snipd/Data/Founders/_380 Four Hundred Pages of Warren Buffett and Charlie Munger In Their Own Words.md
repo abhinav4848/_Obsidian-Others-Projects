@@ -23,9 +23,10 @@ show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcas
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 5
 from_snipd: true
+title: "_380 Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words"
 ---
+# _380 Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words
 # #380 Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words
-
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F0fe786f2-3d92-11f0-8fb0-e778594b8bf8%2Fimage%2Fb3123fe637dbdfa2bd55f9fbfb386aca.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=200&h=200)
 
 ## Episode metadata
@@ -41,91 +42,75 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ###  [Great Fortunes](https://share.snipd.com/snip/9c7195fb-18ca-4e8f-a8ce-6b4915f3b28c) 
-
 🎧 25:33 - 26:08 (00:34)
 
 - Great financial success comes from starting businesses with real-world products and creating value.
 - This is how fortunes are built, not through pure investing, as exemplified by figures like John D. Rockefeller, Sam Walton, and Bill Gates.
 
 #### 💬 Quote
-
 > Although few of the great fortunes have been made in investing, [...] great financial success comes from starting businesses with concrete products in the real world, building jobs, creating value, and helping people.
 
 #### 📚 Transcript
-
 **David Senra:** And he realized, like, actually most of, like, the great wealth in the country was not through just pure investing. It's the entrepreneurs. You know, I love that line from Nick Sleep, one of my favorite lines ever. It's like, the greatest investors aren't investors at all. They're entrepreneurs who never sold. Bloomberg still owns all of his company. So Bloomberg writes in his autobiography, although few of the great fortunes have been made in investing. So from John D. Rockefeller to Sam Walton to Bill Gates, great financial success comes from starting businesses with concrete products in the real world, building
 
 ---
 
 ###  [Opportunity Cost](https://share.snipd.com/snip/02dc6ea1-2502-49f8-8ac6-346bec0d4aab) 
-
 🎧 26:32 - 27:15 (00:43)
 
 - Run every single decision through opportunity costs. 
 - Consider your alternatives when you make decisions.
 
 #### 💬 Quote
-
 > All intelligent people should think primarily in terms of opportunity costs.
 
 #### 📚 Transcript
-
 **David Senra:** Like you should be running every single decision through opportunity costs. Munger says all intelligent people should think primarily in terms of opportunity costs. There's a great book. I think it's episode 286 of Founders. It's called All I Want to Know is Where I'm Going to Die So I'll Never Go There. I think it's a Buffett and Munger, Uncommon Common Sense, something like that. I forgot the actual subtitle, but it's one of my favorite episodes I've ever done. If you could only read one book on Buffett and Munger, that's the book I would read. And I want to pull a line out of that book that Munger says, decisions in life are all about opportunity costs. And wise people think in terms personal opportunity costs. In other words, it's your alternatives that matter. That is how we make all of our decisions. So this idea of using opportunity costs as a filter
 
 ---
 
 ###  [Opportunity Cost](https://share.snipd.com/snip/260bb816-d1ed-4d70-ba57-3c145e4b01a3) 
-
 🎧 30:15 - 30:47 (00:31)
 
 - When deciding whether to do something, compare it with the best opportunity you have.
 - If you have one thing you can do more of, don't be interested in anything that isn't better than that.
 
 #### 💬 Quote
-
 > When deciding whether to do something, compare it with the best opportunity you have.
 
 #### 📚 Transcript
-
 **David Senra:** Next page, everything we do comes back to opportunity costs. There's a bunch of great lines. I don't think most of these even need explanation. We love working with people who are just plain nuts about their business. The best thing to do is learn from the other guy's mistakes. George Patton used to say, it's an honor to die for your country. Make sure the other guy gets the honor. One thing they're constantly preaching to protect yourself against. They saw so many people go broke because they abused leverage. So
 
 ---
 
 ###  [Adapt to New Technologies](https://share.snipd.com/snip/33920ada-94fc-4570-83cf-902d245c52ef) 
-
 🎧 01:00:53 - 01:01:28 (00:34)
 
 - If you're in a business threatened by new tech, don't resist the change.
 -  Instead, embrace the new technology like Billy Durant, who transitioned from horse carriages to automobiles.
 
 #### 💬 Quote
-
 > If you are in a business [...] where technology is going to do what you're doing today better and cheaper, the move is to do what Billy Durant would do, which is to jump into that oncoming phenomenon.
 > — David Senra
 
 David Senra on adapting to technological advancements.
 
 #### 📚 Transcript
-
 **David Senra:** Most of them didn't go very far. He immediately switched. He's like the car, they're going to improve the car. They're going to figure this out. I'm getting out of the horse carriage business because this new technology has come around and he immediately jumped into the automobile business. That's why I said, if you are in a business or you're identifying one, or maybe you're in where technology is going to do what you're doing today better and cheaper, the move is to do what Billy Durant would do, which is to jump into that oncoming phenomenon that was impossible. It was impossible for any one person to stop the phenomenon of the automobile.
 
 ---
 
 ###  [Avoid Bloat](https://share.snipd.com/snip/63aa421a-c331-4230-9cae-6c07a57d4a2a) 
-
 🎧 01:07:33 - 01:09:00 (01:26)
 
 - Be careful about becoming bloated.
 - Avoid immediately assuming that adding more people is the solution to every problem.
 
 #### 💬 Quote
-
 > If you ask me to name businesses that [were] half-ruined or ruined by bloat, I could rattle off name after name after name.
 
 #### 📚 Transcript
-
 **David Senra:** I cannot think of a single one. But if you ask me to name businesses that were or ruined by bloat, I could rattle off name after name after name. It has gotten fashionable to assume downsizing is wrong. Well, it may have been wrong to let the business get so fat that eventually had to be downsized. Goes back to being almost deliberately understaffed. There's a great example in Sam Walton's autobiography where they're interviewing other people around him and he's constantly questioning. He gets annoyed at any extra level of layer any extra level of process and you know he says over and over again in his autobiography like if you you either serve customers or support the people that do or we don't need you and you know there was this one example where they were having a problem uh when when inventory comes into the walmart stores of actually putting the right prices on there so they had to add another layer of guys that would go around and they would like have these like handheld devices and they would scan every single thing to make sure that the price that the computer says it should be is actually the price that the customer sees. And their mere presence would annoy Sam. He asking, why do we have this extra layer? Like, why don't we just do it right the first time? And I think implied in there is his correct instincts that you have to be very careful being bloated, of jumping immediately that the solution to the problem is more people. Then there is an interesting comment here where they're like, we really don't want to clutter up our minds. And so we try to focus on what is important and what is knowable.
 
 ---

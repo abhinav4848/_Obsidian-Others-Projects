@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zR6RRbCfY5rFkiimFnaJZKB?stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zKiPFE1KYieeAJs3cEaCtdf
+title: "Evergreen note-writing helps reading efforts accumulate"
 ---
 # Evergreen note-writing helps reading efforts accumulate
 It’s important to [[Write about what you read to internalize texts deeply]], but instead of just writing about the specific book you’re reading, you can (and should) write your notes such that your reading observations accumulate over time as they interact with each other and with your own ideas (see [[Evergreen note-writing helps insight accumulate]], [[Knowledge work should accrete]]).

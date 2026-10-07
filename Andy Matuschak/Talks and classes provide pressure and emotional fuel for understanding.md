@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zFjTBdLjTRYsyoDyqyBEPNN?stackedNotes=zHMNN7GPf7gqABzgre5jeJi&stackedNotes=z9Ks9E6UseNapjj9scwpFjo
+title: "Talks and classes provide pressure and emotional fuel for understanding"
 ---
 # Talks and classes provide pressure and emotional fuel for understanding
-
 Agreeing to give a lecture on a subject is often a great way to push yourself to learn and distill as much as you can about it.
 
 It’s a commitment device, putting an actual timeline on an otherwise-nebulous process. It’s also a way of creating a stronger emotional connection to the material, which in turn can help you understand it more deeply: [[Deep understanding requires (and is a result of) intense personal connection]].

@@ -1,3 +1,7 @@
+---
+title: "189- Deliberate memorization of information"
+---
+# 189- Deliberate memorization of information
 # Deliberate Memorization of Information
 is one of they key parts of learning ([[190- Learning]]). This becomes important when you **aren’t** dealing with ideas with such frequency that they naturally get memorized. So you have to create an artificial exposure by deliberately attempting to retrieve the memories. This is what we mean by studying and rote memorization.
 

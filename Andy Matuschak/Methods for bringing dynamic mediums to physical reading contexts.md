@@ -1,3 +1,6 @@
+---
+title: "Methods for bringing dynamic mediums to physical reading contexts"
+---
 # Methods for bringing dynamic mediums to physical reading contexts
 One response to [[Reading texts on computers is unpleasant]] is to give up, to invert the problem: how to bring the properties of dynamic mediums to physical books?
 

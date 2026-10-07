@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/z4ULp2KUgq3hBCJMWTUnLDX?stackedNotes=zNGtyWTwns63fhzixGKZ1Bb&stackedNotes=z4phduwKGaFtURDJwFBdBxF
+title: "Impact of mnemonic medium on downstream learning"
 ---
 # Impact of mnemonic medium on downstream learning
-
 [Does studying QCVC help readers understand the subsequent Search essay?](https://notes.andymatuschak.org/zXkYGRQvJLYnh7PYeXsFiBf) (no access)
 
 Jeremy

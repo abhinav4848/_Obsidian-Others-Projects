@@ -1,8 +1,10 @@
 ---
 aliases:
   - Cloze deletion prompts seem to produce less understanding than question/answer pairs in spaced repetition memory systems
-URL: https://notes.andymatuschak.org/zX95uZHiGWNiNTDF3wETWtq?stackedNotes=zAt1K9ARQYguinoHH8cfaqQ&stackedNotes=Cloze_deletion_prompts_seem_to_produce_less_understanding_than_question%2Fanswer_pairs_in_spaced_repetition_memory_systems
+URL: ["https://notes.andymatuschak.org/zX95uZHiGWNiNTDF3wETWtq?stackedNotes=zAt1K9ARQYguinoHH8cfaqQ&stackedNotes=Cloze_deletion_prompts_seem_to_produce_less_understanding_than_question%2Fanswer_pairs_in_spaced_repetition_memory_systems", "https://notes.andymatuschak.org/zPJt42JTcoAPTTTa2vdDonV"]
+title: "Cloze deletion prompts seem to produce less understanding than question answer pairs in spaced repetition memory systems"
 ---
+# Cloze deletion prompts seem to produce less understanding than question answer pairs in spaced repetition memory systems
 # Cloze deletion prompts seem to produce less understanding than question-answer pairs in spaced repetition memory systems
 It’s much easier to write [[Cloze deletion]] prompts: you can just copy/paste some source text and delete some phrase. But I find that prompts created this way tend to result in shallower understanding. After several repetitions, I’ll remember the answer, but it often feels like I’m pattern matching ([[Spaced repetition memory prompts should be written to discourage shallow “pattern matching”]]) rather than deeply integrating the idea into my conceptual network. This is probably because cloze deletions usually contain lots of extraneous information one can use as “hints.”
 
@@ -23,4 +25,4 @@ Note that these observations are about the impact of cloze deletion prompts on m
 
 ---
 # Reference
-2. [Piotr Wozniak - Effective learning - Twenty rules of formulating knowledge](https://notes.andymatuschak.org/z96Xr88dMaAGrn3CobJnMUD) 
+2. [[Andy Matuschak/Piotr Wozniak - Effective learning - Twenty rules of formulating knowledge|Piotr Wozniak - Effective learning - Twenty rules of formulating knowledge]] 

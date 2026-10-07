@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/z2MeZGv57tNcz5rh64ebSNz?stackedNotes=zFjTBdLjTRYsyoDyqyBEPNN&stackedNotes=zHMNN7GPf7gqABzgre5jeJi
+title: "The best time to write about your lecture’s topic is around the time you deliver it"
 ---
 # The best time to write about your lecture’s topic is around the time you deliver it
 [[Talks and classes provide pressure and emotional fuel for understanding]], but a lecture itself often has fairly limited impact. Ideally, you would compile your newfound understanding into some publishable notes or a book to increase your reach.
@@ -11,7 +12,6 @@ In many cases, it’s best to do this soon before or after the talk: your emotio
 Peter Høeg, _Smilla’s Sense of Snow_
 
 ## References
-
 MN tells me that someone (Wheeler?) said that the best strategy for getting Feynman to write a book was to ask him to give a lecture on the topic, but again, I can’t find a reference online.
 
 MN also told me that someone (Preskill?) said that the best time to write a text is when you’re giving a class on that topic. Can’t find the reference.

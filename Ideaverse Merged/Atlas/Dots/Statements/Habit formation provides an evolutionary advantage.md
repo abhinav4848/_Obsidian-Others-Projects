@@ -4,8 +4,9 @@ up:
 related:
   - "[[Ideaverse Merged/Atlas/Dots/Things/Selfish Gene]]"
 created: 2020-05-29
+title: "Habit formation provides an evolutionary advantage"
 ---
-
+# Habit formation provides an evolutionary advantage
 Whenever we take an action, neurons fire and strengthen their connections. Then, when we repeat that same action, it  miraculously requires less effort. How can this be?!
 
 It's because Nature's [[Ideaverse Merged/Atlas/Dots/Things/Selfish Gene]] has a prime directive to survive—which means to become more efficient—so whatever you do once, is easier to do a second time.

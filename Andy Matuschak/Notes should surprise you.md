@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/z4EXkuLjdBrBZe7PVAGXc5a?stackedNotes=zKiPFE1KYieeAJs3cEaCtdf&stackedNotes=zYaWNLqGvd3uLPDXkhRoWoq
+title: "Notes should surprise you"
 ---
 # Notes should surprise you
 If reading and writing notes doesn’t lead to surprises, what’s the point?

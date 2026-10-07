@@ -1,3 +1,6 @@
+---
+title: "Guiding Principles of Knowledge Management"
+---
 # Guiding Principles of Knowledge Management
 When it comes to managing your digital knowledge, the following are some guiding values and principles to consider.
 

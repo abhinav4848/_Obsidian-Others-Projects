@@ -1,3 +1,7 @@
+---
+title: "113- Levels of Development make a Zettelkasten"
+---
+# 113- Levels of Development make a Zettelkasten
 # Levels of Development make a Zettelkasten
 What is the difference between [[002- Zettelkasten]] and other note taking methods?
 

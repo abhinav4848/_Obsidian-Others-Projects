@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zALB77pBFKPZae7f5kD3ro1
+title: "Naive approaches to practice rapidly plateau"
 ---
 # Naive approaches to practice rapidly plateau
 If you want to pick up a new skill, like sketching, you might read some books, take a few lessons, then repeat the basic procedures you’ve seen until they’re comfortable. This approach often plateaus rapidly once you reach a basic level of automaticity. Ericsson and Pool (2016) call this “{naive practice}”: a student {performs an action repeatedly}, expecting that {repetition alone} will {improve performance} (p. 14), contra [[Skill development requires challenging homeostasis]]. [[Performance plateaus often require a change in approach to surmount]].
@@ -14,7 +15,6 @@ This may partially explain [[Note-writing practices are generally ineffective]]
 ---
 
 ## References
-
 Chase, W. G., & Ericsson, A. (1981). Skilled memory. In A. Ericsson (Ed.), Cognitive skills and their acquisition (pp. 141–189). Erlbaum. [https://apps.dtic.mil/dtic/tr/fulltext/u2/a114635.pdf](https://apps.dtic.mil/dtic/tr/fulltext/u2/a114635.pdf)
 
 Ericsson, A., & Pool, R. (2016). _Peak: Secrets from the New Science of Expertise_ (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [Peak - Ericsson and Pool](https://notes.andymatuschak.org/zEwJDpZiu1YQoXYznxioznL)

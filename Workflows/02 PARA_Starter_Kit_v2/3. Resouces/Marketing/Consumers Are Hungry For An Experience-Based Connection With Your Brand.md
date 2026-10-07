@@ -1,3 +1,7 @@
+---
+title: "Consumers Are Hungry For An Experience-Based Connection With Your Brand"
+---
+# Consumers Are Hungry For An Experience-Based Connection With Your Brand
 https://www.forbes.com/sites/forbesbusinesscouncil/2019/11/21/consumers-are-hungry-for-an-experience-based-connection-with-your-brand/
 
 According to one study, 83% of consumers admit paying as much attention to how brands treat them as on the product they sell. The same study states that 73% say they are willing to pay more for a product if they love the brand. These statistics call attention to the fact that customer experience is critical.

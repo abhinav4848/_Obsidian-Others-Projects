@@ -1,3 +1,7 @@
+---
+title: "IMF MOC"
+---
+# IMF MOC
 tags: #IMF #MOC #PKM
 links: [[IMF MOC]] — [[000 Index|Index]]
 # IMF Map of Contents

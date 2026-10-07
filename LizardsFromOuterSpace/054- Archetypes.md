@@ -1,11 +1,12 @@
+---
+title: "054- Archetypes"
+---
+# 054- Archetypes
 # Archetypes
-
 # Definition
-
 An original model or type after which other similar things are patterned; a prototype.
 
 # Ray Dalio Archetypes
-
 Ray Dalio has a process for developing external models within the zettelkasten. Instead of calling his maps of reality [044- Model](044-%20Model.md)s, he uses archetypes. Here is a explanation from him: 
 
 “Through my research I saw that there were many cases of the same type of thing happening (e.g., depressions) and that by studying them just like a doctor studies many cases of a particular type of disease, I could gain a deeper understanding of how they work. The way I work is to study as many of the important cases of a particular thing I can find and then to form a picture of a typical one, which I call an archetype. 

@@ -27,6 +27,8 @@ yearXP: 2014
 yearXPL: 2014
 showStatus: watched
 rating: 5.3
+title: "Whiplash"
 ---
+# Whiplash
 ![poster](https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg)
 

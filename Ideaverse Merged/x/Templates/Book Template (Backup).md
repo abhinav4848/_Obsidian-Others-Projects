@@ -1,3 +1,7 @@
+---
+title: "Book Template (Backup)"
+---
+# Book Template (Backup)
 This is a backup because the formatting of [[Ideaverse Merged/x/Templates/Book Template]] seems to get wonky. When that happens, you can copy and paste the below:
 
 ```

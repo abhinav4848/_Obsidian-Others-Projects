@@ -4,8 +4,9 @@ up:
 related: []
 created: 2014-06-28
 modified: 2020-05-28
+title: "Important habits preserve mental clarity and a sense of control"
 ---
-
+# Important habits preserve mental clarity and a sense of control
 I have found that important habits seem to be excellent at preserving mental clarity and a [[Ideaverse Merged/Atlas/Dots/Things/Sense of Control]]. It's no surprise. The forces of psychic entropy must constantly be held at bay. 
 
 Psychic Entropy encompasses anything that leads to a feeling of chaos. It's a frenetic energy. It's feeling scatter-brained, constantly distracted, overwhelmed, overrun, and burnt out. It's a constant battle; and we must be diligent. We will be bent, bowed, and bloodied. We will lose our way countless times. 

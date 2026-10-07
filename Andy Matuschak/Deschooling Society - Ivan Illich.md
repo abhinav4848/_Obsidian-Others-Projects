@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zPrYC99kH227c1otipAefyQ?stackedNotes=zMhuu3pPa6FeNGYn3VfGCar&stackedNotes=z3M21hHKkoGYbU3S8bcYBH3
+title: "Deschooling Society - Ivan Illich"
 ---
 # Deschooling Society - Ivan Illich
 [Ivan Illich](https://notes.andymatuschak.org/z6xoCXR75oaLLAdN1p57sux)’s 1971 strident critique of the institutionalization not only of learning but of society and its values as a whole.
@@ -7,7 +8,6 @@ URL: https://notes.andymatuschak.org/zPrYC99kH227c1otipAefyQ?stackedNotes=zMhuu3
 His thesis, much compressed: Learning—which individuals naturally pursue and derive from their physical and social environments—has been supplanted and monopolized by _schooling_, which not only demands that individuals not only spend most of their time in artificial, authoritarian settings, learning topics specified by others, but also makes them obediant perpetuators of a prescriptive social order in which only authority-certified knowledge is legitimate, and one must always be seeking more. Illich proposes a return to a more naturalistic decentralized learning environment in which people learn things they care about, in authentic environments, from peers and “masters” in their communities. But his proposal isn’t a simple “return”: he suggests social and technological systems which can coordinate these learning networks more effectively and give people the autonomous agency they need to pursue what matters to them. He hopes this “deschooling” will not transform not only learning but also society itself, replacing modernity’s all-consuming systematization with human-scale networks of care.
 
 ## Some choice quotes
-
 > The current search for educational _funnels_ must be reversed into the search for their institutional inverse: educational _webs_ which heighten the opportunity for each one to transform each moment of his living into one of learning, sharing, and caring.
 
 > We are all involvedin schooling, from both the side of production and that of consumption. We are superstitiously convinced that good learning can and should be produced in us—and that we can produce it in others. Our attempt to withdraw from the concept of school will reveal the resistance we find in ourselves when we try to renounce limitless consumption and the pervasive presumption that others can be manipulated for their own good. No one is fully exempt from the exploitation of others in the schooling process.

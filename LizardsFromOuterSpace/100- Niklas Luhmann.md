@@ -1,9 +1,12 @@
+---
+title: "100- Niklas Luhmann"
+---
+# 100- Niklas Luhmann
 **Niklas Luhmann** was a German sociologist during the 20th century who is known for his prolific writing and work towards creating a theory of society. He created two [[002- Zettelkasten]]s over his career, starting the first one as a response to the need for an effective way to organize notes for the long term ([Johannes F.K. Schmidt, 2018 5](https://sociologica.unibo.it/article/view/8350/8270)).
 
 The reason he is so popular among the zettelkasten community is because [his zettelkasten](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1_1_V) is public, the focus of a [long term university research project](https://niklas-luhmann-archiv.de/), was part of his prolific output, and has a [book](https://www.goodreads.com/en/book/show/34507927-how-to-take-smart-notes) written about it.
 
 ### **Notebox 1**
-
 > Note box I: 7 extracts with notes from the period from approx. 1952 to 1963, a total of approx. 23,000 pieces of paper
 
 [Source](https://niklas-luhmann-archiv.de/bestand/zettelkasten/auszuege)
@@ -15,7 +18,6 @@ The reason he is so popular among the zettelkasten community is because [his ze
 ---
 
 ### **Notebox 2**
-
 > Note box II: 20 extracts with notes from the period from 1963 to the beginning of 1997, a total of approx. 67,000 pieces of paper.
 
 [Source](https://niklas-luhmann-archiv.de/bestand/zettelkasten/auszuege)
@@ -27,7 +29,6 @@ The reason he is so popular among the zettelkasten community is because [his ze
 ---
 
 ### **Department Overview**
-
 > The **overview created by the NL Archives** is based on the structure of the collection with its 108 thematic departments (as well as the four register departments) specified by Luhmann and provides a further breakdown within the individual thematic departments based on Luhmann’s priorities on the respective notes.
 
 > Therefore, the number structure does not represent a hierarchical structure. The departmental overviews **do not** claim to be complete (thematic or numerical).
@@ -43,7 +44,6 @@ The reason he is so popular among the zettelkasten community is because [his ze
 ---
 
 ### Related Links
-
 - [Note Box Introduction 11](https://niklas-luhmann-archiv.de/nachlass/zettelkasten) (Niklas Luhmann Archive)
 - [[206- Luhmann on Arbitrary Branching]]
 - [[207- Luhmann on Possibility of Linking]]

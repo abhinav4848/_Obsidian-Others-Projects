@@ -5,7 +5,9 @@ related: []
 created: 2016-01-01
 in: 
 - "[[Ideaverse Merged/Atlas/Maps/Maps]]"
+title: "Life Map"
 ---
+# Life Map
 I'm amazed at how many people don't zoom out and consider how to live a good life.
 
 > [!Compass]+ ## Compass 🧭

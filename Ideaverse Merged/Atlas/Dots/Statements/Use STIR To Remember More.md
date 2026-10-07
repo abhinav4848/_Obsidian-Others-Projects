@@ -3,8 +3,9 @@ up:
   - "[[Ideaverse Merged/Ideaverse Map]]"
 related: []
 created: 2022-06-01
+title: "Use STIR To Remember More"
 ---
-
+# Use STIR To Remember More
 *What will Future Me like to see?*
 
 "STIR" stands for:
@@ -24,7 +25,6 @@ See [[Ideaverse Merged/Atlas/Dots/Things/ACE Folder Framework]] for more.
 
 ---
 ## Example of how STIR works in the real world
-
 ### If you have a daily digital note...
 ...whatever you jot down is organized by **time**. What's recent is weighted as more important in our minds, but that **importance** cannot be relied upon long-term, as it'll be covered up by always more recent things. The key is to connect your THING—your spark, idea, or piece of information—to a **related** thing. 
 

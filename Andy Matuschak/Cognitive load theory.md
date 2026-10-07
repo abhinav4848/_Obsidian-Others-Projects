@@ -1,9 +1,10 @@
 ---
 URL: https://notes.andymatuschak.org/zWSH2QNUsrTGP4V15JBaaEv?stackedNotes=zKPm7dRfoX7TPXR9KvBCAeM
+title: "Cognitive load theory"
 ---
 # Cognitive load theory
 # Cognitive load theory
-Originated by [John Sweller](https://notes.andymatuschak.org/zPgXrAJFwMCMLBTZiKaPtvD). See also [Worked example effect](https://notes.andymatuschak.org/zD8D8PPRBDEFk3JeM2vaWrn).
+Originated by [John Sweller](https://notes.andymatuschak.org/zPgXrAJFwMCMLBTZiKaPtvD). See also [[Andy Matuschak/Worked example effect|Worked example effect]].
 
 Q. Central claim?  
 A. limited WM capacity is the bottleneck for acquiring new knowledge
@@ -29,10 +30,10 @@ A. distracting classroom; intrusive thoughts; interpreting complex problems with
 {split-attention effect}: {students learn more from one integrated source of information than from multiple sources distributed in time or space}
 
 Q. Surprising primary conflict between the split-attention effect and other cognitivist findings?  
-A. Integrating information from multiple sources requires more processing ([Comprehension - Kintsch](https://notes.andymatuschak.org/Comprehension_-_Kintsch)); difficulties seem desirable ([Desirable difficulty](https://notes.andymatuschak.org/Desirable_difficulty))
+A. Integrating information from multiple sources requires more processing ([[Andy Matuschak/Comprehension - Kintsch|Comprehension - Kintsch]]); difficulties seem desirable ([Desirable difficulty](https://notes.andymatuschak.org/Desirable_difficulty))
 
 Q. Two main factors which determine a task’s intrinsic cognitive load?  
-A. Complexity of the task ([Element interactivity](https://notes.andymatuschak.org/Element_interactivity)) and the person’s prior knowledge (schemas)
+A. Complexity of the task ([[Andy Matuschak/Element interactivity|Element interactivity]]) and the person’s prior knowledge (schemas)
 
 Q. What is germane cognitive load?  
 A. Load caused by productive learning process—e.g. constructing (or re-construct) schemas.

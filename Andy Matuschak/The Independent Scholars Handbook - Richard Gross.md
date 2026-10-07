@@ -1,11 +1,7 @@
 ---
 URL: https://notes.andymatuschak.org/z6Y1zo4evjFNUim1nHtL6Sv
+title: "The Independent Scholars Handbook - Richard Gross"
 ---
-Type of Link: 📝 Article
-Author: Andy Matuschak
-Completion Status: To Start
-Last edited time: January 18, 2024 7:55 PM
-
 # The Independent Scholars Handbook - Richard Gross
 Originally published in 1982, substantially revised in 1993. Via [[Kevin Kelly]].
 

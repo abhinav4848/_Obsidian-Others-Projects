@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zQvwwb95vzcHcpow3GWy5Wi?stackedNotes=zJ5Yzvba2729XKXivBBZ91J&stackedNotes=z2Pg1CbUyvjV4jEoqmr8Xua
+title: "Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle"
 ---
 # Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle
 [[Inboxes only work if you trust how they’re drained]], and [Inbox Zero](http://www.43folders.com/izero) is one approach to ensure that they do. It lowers items’ wait times (theoretically to one day) by aggressively increasing the departure rate.

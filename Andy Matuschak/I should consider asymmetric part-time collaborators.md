@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/z2MeZGv57tNcz5rh64ebSNz?stackedNotes=zWfTX3cjB1mFZhCJkFGu8aH&stackedNotes=z8Acd5zbstpRqjoHPgRKJW6
+title: "I should consider asymmetric part-time collaborators"
 ---
 # I should consider asymmetric part-time collaborators
-
 I’ve struggled to find collaborators for my work in part because I’ve implicitly assumed the requirement that they be available full-time—and [[It’s hard for independent researchers to find full-time collaborators]]. I’ve ignored the possibility of collaborating with people who have a full-time job, e.g. meeting once or twice a week in evenings. But a collaboration like that could be quite promising!
 
 Obviously, this wouldn’t be a totally equal partnership. That’s partly why I’ve overlooked this configuration. But an asymmetric partnership could still offer:
@@ -13,7 +13,7 @@ Obviously, this wouldn’t be a totally equal partnership. That’s partly why I
 - a usefully different perspective
 - complementary knowledge / skills
 
-For example, [Michael Nielsen](https://notes.andymatuschak.org/Michael_Nielsen) and I started working on the [[Mnemonic medium]] on these terms. He was working full time on writing the text of [QCVC](https://notes.andymatuschak.org/zWAH46Pd3DWGrfdiU8bV25A), and I was just thinking about it on a couple evenings per week. We made a ton of creative progress. Though this is not an ideal example: I was in the critical path for actual execution work.
+For example, [Michael Nielsen](https://notes.andymatuschak.org/Michael_Nielsen) and I started working on the [[Mnemonic medium]] on these terms. He was working full time on writing the text of [[Andy Matuschak/QCVC|QCVC]], and I was just thinking about it on a couple evenings per week. We made a ton of creative progress. Though this is not an ideal example: I was in the critical path for actual execution work.
 
 A better example, perhaps, can be found in [Michael Nielsen](https://notes.andymatuschak.org/Michael_Nielsen)’s collaborations with [Patrick Collison](https://notes.andymatuschak.org/Patrick_Collison) and [Kanjun Qiu](https://notes.andymatuschak.org/Kanjun_Qiu), on their two co-authored essays. In these, Michael drove the project and the writing, while his collaborators offered regular deep high-context conversation. They also did independent research and development on subtopics of interest to bring to those conversations. But they mostly avoided the critical path, and they could scale up or down their involvement somewhat flexibly.
 

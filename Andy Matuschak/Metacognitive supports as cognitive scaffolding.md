@@ -1,3 +1,7 @@
+---
+URL: "https://notes.andymatuschak.org/zL2zRTTRhWf1Lx4x9p2uCDt"
+title: "Metacognitive supports as cognitive scaffolding"
+---
 # Metacognitive supports as cognitive scaffolding
 [[Learning requires metacognition]], but environments can take some of that metacognitive burden off of learners’ shoulders.
 
@@ -10,5 +14,4 @@ Games are particularly good at this:
 - [Games help players make and adapt plans](https://notes.andymatuschak.org/z8cCUawpidfMcH7bYE67CEf) 
 
 # References
-
 1.

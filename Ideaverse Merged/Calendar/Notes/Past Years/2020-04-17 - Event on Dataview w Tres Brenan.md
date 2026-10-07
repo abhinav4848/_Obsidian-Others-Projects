@@ -4,7 +4,9 @@ up:
 related:
   - "[[Ideaverse Merged/Atlas/Dots/Things/On the process of note-making]]"
 created: 2020-04-17
+title: "2020-04-17 - Event on Dataview w Tres Brenan"
 ---
+# 2020-04-17 - Event on Dataview w Tres Brenan
  **Topic**: Dataview and its creator Tres Brenan (Linking Your Thinking)  
  **Description**: Tres Brenan is the creator of dataview, a powerful and popular plugin for Obsidian. In this session, we’ll explore why it was created and how to use it.
 

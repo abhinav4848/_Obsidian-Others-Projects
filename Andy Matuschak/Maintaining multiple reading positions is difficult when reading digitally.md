@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zX95uZHiGWNiNTDF3wETWtq?stackedNotes=zBeBbzwU8LAyi2D5jqBJpS&stackedNotes=zJ4k4feCLspoCid7C4mzmvL
+title: "Maintaining multiple reading positions is difficult when reading digitally"
 ---
 # Maintaining multiple reading positions is difficult when reading digitally
-
 When reading physical books (particularly during [[Inspectional reading]]), a skilled reader naturally maintains their reading position in multiple sections of the book simultaneously. For example, this might be a “stack” operation (keeping their place while referencing another), a “dog-earing” operation (accumulating a set of places to focus on; see Askwall), or a parallel reading operation (comparing several passages). Digital readers make this kind of operation very difficult.
 
 Because screens are often bigger than physical books, one might use multiple windows to manage this, but [[Parallel reading is mostly impossible in digital reading]]. Even on desktop operating systems, most digital reading applications won’t even let you open a second window viewing the same document. This limitation is exacerbated by the problems described in [[Poor performance disrupts nonlinear reading in digital reading]].

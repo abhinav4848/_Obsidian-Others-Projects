@@ -1,3 +1,7 @@
+---
+title: "081- Forming Knowledge"
+---
+# 081- Forming Knowledge
 # Forming Knowledge
 To work ([[068- Knowledge work]]) with knowledge ([[073- Knowledge]]), you first must **form information in your mind** . While this may seem quite obvious to you, there are good and bad ways of doing this. Improving this skill will help you learn quicker and form a more useful understanding of the world.
 

@@ -1,3 +1,6 @@
+---
+title: "Span of absolute judgment"
+---
 # Span of absolute judgment
 There’s limit to how accurately people can identify the absolute magnitude of a unidimensional stimulus. For example, say I mark a point on a number line that only has labels at 0 and 100. Then I ask you to estimate the numeric position of the marked point. How well would your answer correlate to the true position?
 

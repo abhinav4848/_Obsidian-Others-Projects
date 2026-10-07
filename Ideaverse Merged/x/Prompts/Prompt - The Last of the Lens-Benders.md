@@ -4,7 +4,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Maps/Prompts]]"
 related: []
 created: 2023-10-17
+title: "Prompt - The Last of the Lens-Benders"
 ---
+# Prompt - The Last of the Lens-Benders
 Let's play a game called **The Last of the Lens-Benders**.
 
 Game Backstory: 
@@ -37,7 +39,6 @@ END OF PROMPT
 
 
 # Examples to Try Out
-
 - Your Target Concept: "The mood of the moment is weighted too heavily"
 - Your Prism Concepts: Environment, Hot-Cold Empathy Gap, Levels of Abstraction, Overlapping Gels for Shooting Film, Pace Layers
 - ---

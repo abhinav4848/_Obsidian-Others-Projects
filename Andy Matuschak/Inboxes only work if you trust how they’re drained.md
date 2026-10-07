@@ -1,3 +1,6 @@
+---
+title: "Inboxes only work if you trust how they’re drained"
+---
 # Inboxes only work if you trust how they’re drained
 Reliable inboxes are powerful because they let us [[Close open loops]] and focus on the work itself, rather than on meta-work.
 

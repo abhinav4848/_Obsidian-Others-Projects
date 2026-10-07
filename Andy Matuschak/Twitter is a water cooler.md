@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zGD1FxbDZd7WnH7NrhRaVyC?stackedNotes=zVYmgUqqnJD1hduFhHYTkKj&stackedNotes=zAzVAQPP8BynSTBmxjzBG3n
+title: "Twitter is a water cooler"
 ---
 # Twitter is a water cooler
-
 Almost all web sites are visited for some transactional purpose or in response to some specific trigger. But some web sites (Twitter, Reddit, Facebook) are their own trigger: if someone’s bored and has a browser open, they may end up at one of those sites automatically, without any exogenous trigger.
 
 Conversations can arise there with no apparent cause, and they can naturally continue over days or weeks as participants naturally return to their “water cooler,” or as more new people stumble into the conversation.

@@ -2,9 +2,10 @@
 aliases:
   - "2021-10-31 Patreon post- Doing-centric explanatory mediums: board game instruction manuals, and an unusual Figma document"
 URL: https://notes.andymatuschak.org/zTYb9ysCATFYCnvay3V5sF2?stackedNotes=zGD1FxbDZd7WnH7NrhRaVyC&stackedNotes=zaEHQwE8PM2yxLppv8XrTj
+title: "2021-10-31 Patreon post- Doing-centric explanatory mediums- board game instruction manuals, and an unusual Figma document"
 ---
+# 2021-10-31 Patreon post- Doing-centric explanatory mediums- board game instruction manuals, and an unusual Figma document
 # 2021-10-31 Patreon post - Doing-centric explanatory mediums: board game instruction manuals, and an unusual Figma document
-
 It’s board game night in a post-COVID world. You and a few friends gather around a table to try out a new game. The thing is: there are a lot of these little cardboard tokens and playing cards and—I’m not even sure… totems?
 
 You pick up the instructions and begin to read aloud to the group, but after a few minutes, everyone becomes restless. So you figure you’ll just start and figure it out as you go. Now the first turn is taking forever because you’re returning to the instructions every ten seconds, but you keep losing your place and needing to reacquire it each time; and after the second turn’s over, you realize you need to unwind the first turn because you made an invalid move which will screw up the game; and you’re constantly straining to remember what you’re “supposed to do”; and it’s hard to emotionally commit to the game when you know you’ll only be able to play a few moments before returning to the manual.

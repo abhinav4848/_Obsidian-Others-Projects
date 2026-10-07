@@ -3,8 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Dots/Sources/+ About Sources]]"
 related: []
 created: 2020-06-01
+title: "Ask Gandalf for assistance."
 ---
-
+# Ask Gandalf for assistance.
 Fortunately, Gandalf will save you this time. He summons the flame of Anor and epically declares:
 
 GANDALF: *"You shall not pass!"*

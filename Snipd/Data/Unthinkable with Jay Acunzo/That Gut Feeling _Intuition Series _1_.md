@@ -6,16 +6,17 @@ episode_publish_date: 2017-01-22
 last_snip_date: 2025-05-28
 episode_duration_minutes: 21
 episode_url: "https://share.snipd.com/episode/ae152a91-1282-4946-b50d-dd4ef7dc76bf"
-image_url: "_media-sync_resources/2025/12/20/231700/30482.jpeg"
+image_url: "Attachments/71638.jpeg"
 show_url: "https://share.snipd.com/show/f24451b4-1e4a-429d-a98f-776c48582a45"
-show_image_url: "_media-sync_resources/2025/12/20/231700/68316.jpeg"
+show_image_url: "Attachments/71638.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
+title: "That Gut Feeling _Intuition Series _1_"
 ---
+# That Gut Feeling _Intuition Series _1_
 # That Gut Feeling [Intuition Series #1]
-
-![Cover](_media-sync_resources/2025/12/20/231700/12323.jpeg)
+![Cover](../../../Attachments/63883.jpeg)
 
 ## Episode metadata
 - Episode title: That Gut Feeling [Intuition Series #1]
@@ -29,20 +30,16 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ###  [Musical Expertise](https://share.snipd.com/snip/9ac162fe-4377-49b1-9c0f-063d1e2b1661) 
-
 🎧 02:43 - 03:41 (00:57)
 
 - Andrew Davis suggests that extensive listening experience can make anyone a musical expert, not necessarily a genius. 
 - Intuition might be the subconscious leveraging years of musical experience.
 
 #### 💬 Quote
-
 > With enough listening experience, not experience playing music, but enough experience just listening to music, you have the power to become a musical expert?
 
 #### 📚 Transcript
-
 Um, no. Okay, good. Because I'm not either. Now, what if I told you that with enough listening experience, not experience playing music, but enough experience just listening to music, you have the power to become a musical expert? Well,
 
 I get on board with that. I mean, if I listened to enough music, I could be an expert, but you said genius and like, that's kind of like a thing you can't explain at all. And I could, I don't know, I don't know about that.

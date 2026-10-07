@@ -3,8 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Maps/Workflows]]"
 related: 
 created: 2023-02-01
+title: "First Light, Last Light"
 ---
- 
+# First Light, Last Light
 > [!Joystick] Hit `cmd/ctrl-d` and start typing
  
  For people who have tried bullet journaling, or are neurodivergent, or who are easily distracted; **First Light, Last Light** has proven to be a simple, doable solution. 

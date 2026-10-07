@@ -1,3 +1,7 @@
+---
+title: "Best Writings MOC"
+---
+# Best Writings MOC
 tags: #writings #TOC
 links: [[060 Writings MOC|Writings]]
 

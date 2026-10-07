@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/z2Nv3jADtpYcgbCXww7nSEG?stackedNotes=zAVF3mepMcuTWVUJaeHTL77&stackedNotes=zUJzDyeg71G9XRAXjgHQS6y
+title: "We don’t know how to measure knowledge worker productivity"
 ---
 # We don’t know how to measure knowledge worker productivity
 We can’t measure number of widgets produced in [[Knowledge work]]. We can measure trailing-indicator outcomes like OKRs instead, but that’s separate from the work itself.

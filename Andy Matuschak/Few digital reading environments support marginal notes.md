@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/z4aipv9wyMg4qZGANaVjkrJ?stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zGsRWkonFv1KGAsWwiYA3he
+title: "Few digital reading environments support marginal notes"
 ---
 # Few digital reading environments support marginal notes
-
 When reading a physical book, the natural thing to do is to scribble in the margins, next to the relevant passages. Or maybe to attach a sticky note at the relevant spot. But for whatever reason, digital reading environments almost never support this kind of interaction. Annotations are hidden away under some icon of a sticky note, or in a “notebook” which displays them in a flat list, de-spatialized and disconnected from the content.
 
 [LiquidText](https://notes.andymatuschak.org/zN9pG99Y6GY8f6YjUTiKi5Z) and MarginNote are the only exceptions which come to mind. Note that neither supports EPUB! [[All desktop EPUB readers are awful]] More recently, [[Readwise]] Reader has added marginal notes. And they support EPUB—a rarity. Unfortunately, the PDF support is quite clunky.

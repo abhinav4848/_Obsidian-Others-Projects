@@ -3,7 +3,7 @@ up:
 related: 
 in:
   - "[[Ideaverse Merged/Atlas/Maps/Books]]"
-title: The Three-Body Problem
+title: "The Three-Body Problem"
 by:
   - "[[Cixin Liu]]"
 publisher: Tor Books
@@ -24,7 +24,6 @@ yearXPL: 2023
 bookStatus: read
 rating: 4
 ---
-
 ![cover|150](http://books.google.com/books/content?id=ZrNzAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 # The Three-Body Problem

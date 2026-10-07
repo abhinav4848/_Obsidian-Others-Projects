@@ -8,7 +8,9 @@ born: {{date}}
 encountered: {{date}}
 coined: {{date}}
 presented: {{date}}
+title: "Template, Properties, Dates Dates Dates (Kit)"
 ---
+# Template, Properties, Dates Dates Dates (Kit)
 More to being reminded to consider
 
 touched: {{date}}

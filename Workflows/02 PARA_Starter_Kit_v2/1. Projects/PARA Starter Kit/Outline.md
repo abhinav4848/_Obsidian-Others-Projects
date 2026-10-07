@@ -1,3 +1,7 @@
+---
+title: "Outline"
+---
+# Outline
 ## Start here
 - General how-this-work
 - What to expect

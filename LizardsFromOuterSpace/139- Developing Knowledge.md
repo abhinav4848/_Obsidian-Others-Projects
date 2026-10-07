@@ -1,3 +1,7 @@
+---
+title: "139- Developing Knowledge"
+---
+# 139- Developing Knowledge
 # Developing Knowledge
 What are the different ways we develop knowledge ([[114- Knowledge Development]])?
 

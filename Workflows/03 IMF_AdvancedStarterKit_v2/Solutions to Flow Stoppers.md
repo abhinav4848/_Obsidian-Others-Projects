@@ -1,3 +1,6 @@
+---
+title: "Solutions to Flow Stoppers"
+---
 # Solutions to Flow Stoppers
 - [ ] Organize these using the four factors
 

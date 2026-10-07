@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zyjePyZ77P2BfdkRBuQB2x?stackedNotes=zY3aLuvtsYS54QnymGKFGwg&stackedNotes=zU6upTVz687icnQegpMhLY8
+title: "Most dynamic representations developed for communication aren’t very enabling"
 ---
 # Most dynamic representations developed for communication aren’t very enabling
-
 Interactive diagrams and small embedded sandbox simulations in [[Explorable explanations]] may help the author get their point across, but they’re rarely useful as independent environments for the reader to think in. These elements’ main purpose is to help the reader more effectively understand the point the author wants to make.
 
 Authors will often pay lip service to open-ended exploration and problem-solving. One common trope is giving the reader a sandbox at the end of an article. This rarely leads to anything interesting. That’s because such environments are primarily designed to help the author get their point across—rather than as a generally-useful environment to help the reader (or the author) think about problems in that domain. (See [[Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes]] and [[Authored environments are significantly colored by authors’ motivations]])

@@ -2,7 +2,9 @@
 up:
   - "[[Collective Intelligence MOC]]"
 created: 2020-06-01
+title: "Collective Intelligence"
 ---
+# Collective Intelligence
 Later...How would I define this??
 
 ### Wiki

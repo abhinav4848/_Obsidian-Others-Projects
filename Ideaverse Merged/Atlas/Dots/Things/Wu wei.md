@@ -7,7 +7,9 @@ related:
 created: 2020-06-01
 rank: 4
 says: The art of sailing, rather than the art of rowing.
+title: "Wu wei"
 ---
+# Wu wei
  *“The art of sailing, rather than the art of rowing.” - Alan Watts*
 
 Definition: a concept literally meaning “inexertion”, “inaction”, or “effortless action”. Alan Watts called wu wei “not forcing”.  

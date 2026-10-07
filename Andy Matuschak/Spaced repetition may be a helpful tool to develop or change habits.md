@@ -1,3 +1,6 @@
+---
+title: "Spaced repetition may be a helpful tool to develop or change habits"
+---
 # Spaced repetition may be a helpful tool to develop or change habits
 Imagine that you read an article which suggests something like this:
 

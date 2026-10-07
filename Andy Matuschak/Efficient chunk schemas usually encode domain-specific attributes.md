@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zEwJDpZiu1YQoXYznxioznL?stackedNotes=zSQhVMNeFNGfggB9Pg6MMDX&stackedNotes=zDg4aPkDSdzDCNNetyitsr7
+title: "Efficient chunk schemas usually encode domain-specific attributes"
 ---
 # Efficient chunk schemas usually encode domain-specific attributes
 As people develop more efficient chunks for some domain ([[Chunks in human cognition]], [[Recoding can increase chunk size]]), they often incorporate abstract, domain-specific attributes into their encodings. For instance, a chess master perceives chessboards in terms of “Pawn chains” and “attacking files” (Chase and Simon, 1973, p. 80)—rather than a bunch of positions of pieces. Their mental representation of the state of a game of chess is abstract, high-variance, high-dimensional, and relatively illegible to a novice. An improvising musician might think in terms of “tension” and “anticipation.”
@@ -12,5 +13,5 @@ Ericsson and Pool use this observation to make a (likely too strong) generalizat
 
 ---
 # References
-2. Chase, W. G., & Simon, H. A. (1973). Perception in chess. _Cognitive Psychology_, _4_(1), 55–81. [Chase and Simon - Perception in chess](https://notes.andymatuschak.org/zS64tidr4brqfuEo5xs2ySy)
+2. Chase, W. G., & Simon, H. A. (1973). Perception in chess. _Cognitive Psychology_, _4_(1), 55–81. [[Andy Matuschak/Chase and Simon - Perception in chess|Chase and Simon - Perception in chess]]
 3. Ericsson, A., & Pool, R. (2016). _Peak: Secrets from the New Science of Expertise_ (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [Peak - Ericsson and Pool](https://notes.andymatuschak.org/zEwJDpZiu1YQoXYznxioznL) 

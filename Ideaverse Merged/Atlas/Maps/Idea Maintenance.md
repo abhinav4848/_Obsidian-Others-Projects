@@ -10,8 +10,9 @@ tags:
   - map/view
 cssclasses:
   - wide-page
+title: "Idea Maintenance"
 ---
-
+# Idea Maintenance
 > [!Multi-column] 
 > > [!connect]+ #### Notes to refactor across the ideaverse
 > > All notes with `#note/refactor🪓`. Limit `10`

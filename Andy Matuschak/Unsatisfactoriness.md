@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zW4ibrYmQAq5tTY4JEsGcDX?stackedNotes=zHBvLXrgmfDj5QB2KZzf45e&stackedNotes=zVQuo8ZL8VN5HZwfhLYuRwh
+title: "Unsatisfactoriness"
 ---
 # Unsatisfactoriness
 One of the [[Three characteristics of existence]] central to Buddhism. It describes the pervasive subtle suffering of life: one is always trying to escape thoughts, feelings, and concepts which are undesirable; or else one is grasping at objects of desire.

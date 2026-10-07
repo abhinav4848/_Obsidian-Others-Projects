@@ -5,10 +5,10 @@ related: "[[Ideaverse Merged/Atlas/Dots/Sources/The Almagest]]"
 created: 2021-02-28
 tags:
   - output/newsletter
+title: "LYT Notes 2 (Example)"
 ---
-
+# LYT Notes 2 (Example)
 # Obsidian Timelapse, The Almagest, and the strangeness of what we believe
-
 The feedback on the draft of LYT Kit (now Ideaverse Lite), Version 5 has been plentiful and even a bit passionate. Half of you like the numbers (like “010 Mindsets”), and half of you don’t.
 
 Here’s what’s most clear: the LYT Kit (now Ideaverse Lite) should help newcomers see what it would look like if they wanted to do certain things (like numbering notes, or using tags like “meetings” to chronologically sort their notes). I’ll make sure to show those examples, especially in the highly requested LYT Kit video :)
@@ -16,7 +16,6 @@ Here’s what’s most clear: the LYT Kit (now Ideaverse Lite) should help newco
 Thanks for all the feedback; it’s very much appreciated!
 
 ## On Obsidian “Timelapse”
-
 Some features change the game, others just make it more fun. Obsidian “Timelapse” is definitely in the “fun” category. Here’s my [3-minute showcase on Youtube](https://youtu.be/9NyOGXOTmUc) of four different vaults set to some Norwegian’s music (maybe you’ve heard it before?).
 
 [![](https://embed.filekitcdn.com/e/dv87Nny89souiCFyZqnEgh/rK4Gg4drcUasKhsHNaH5mb/email)](https://youtu.be/9NyOGXOTmUc)
@@ -24,7 +23,6 @@ Some features change the game, others just make it more fun. Obsidian “Timelap
 How to do a timelapse? Go to the graph view, hit Command-P (on a Mac), and start typing “timelapse” until you see “Start graph timelapse animation”, then hit enter. The animation will start.
 
 ## On why everyone believed the book that said the moon doubled in size each year
-
 Ptolemy was a Greek guy living around 150 CE in Alexandria, Egypt, where the biggest library in the world was.
 
 And so Ptolemy did what any self-respecting librarian and star-lover would do: He read and stared at the stars…a lot.

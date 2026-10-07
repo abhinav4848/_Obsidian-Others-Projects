@@ -3,7 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Dots/Things/The forest entrance]]"
 related: []
 created: 2020-06-01
+title: "Guiding Values of PKM"
 ---
+# Guiding Values of PKM
 When it comes to managing your digital knowledge, the following are some guiding values and principles to consider.
 
 *Your digital library should:*

@@ -8,8 +8,9 @@ tags:
 premiered: 2021-01-08
 URLs:
   - https://www.youtube.com/watch?v=ehkbLyeKuII
+title: "What is a note"
 ---
-
+# What is a note
 > [!Box]+ Outputs by date and location
 > - output:: #output/lesson 2020-11-12 - lesson
 > - output:: #output/youtube☑️ 2021-01-08 - [youtube](https://www.youtube.com/watch?v=ehkbLyeKuII).

@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/z4aipv9wyMg4qZGANaVjkrJ?stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zAt1K9ARQYguinoHH8cfaqQ
+title: "Readwise"
 ---
 # Readwise
 Readwise is a service which tries to help you remain engaged with interesting ideas you’ve read. It extracts highlights from Kindle, “read later” services, physical books via photos + OCR, etc. Then it sends you a daily email with a random assortment of those highlights so that they’re periodically refreshed in your mind.
@@ -21,13 +22,12 @@ This detailed UI for managing the intervals of specific books is a thoughtful to
 
 ## Note management
 Readwise also offers note organization features: you can tag and add notes on your highlights.
-In general, I fear that the choice to organize everything around books falls afoul of [Do your own thinking](https://notes.andymatuschak.org/zLdprTyt7Ca2z2LUGLtFMSs) and [Collecting material feels more useful than it usually is](https://notes.andymatuschak.org/zQm6XAB3XXrXLHzF7gahpJ2). You’re reading these highlights, and you can make a note about an individual highlight, but the product makes it difficult to draw those insights together into something larger. For that, the workflow is to export your highlights to some other environment (Notion, Evernote, etc). But there’s no connection (as far as I can see) between the review workflow and that environment.
+In general, I fear that the choice to organize everything around books falls afoul of [[Andy Matuschak/Do your own thinking|Do your own thinking]] and [[Andy Matuschak/Collecting material feels more useful than it usually is|Collecting material feels more useful than it usually is]]. You’re reading these highlights, and you can make a note about an individual highlight, but the product makes it difficult to draw those insights together into something larger. For that, the workflow is to export your highlights to some other environment (Notion, Evernote, etc). But there’s no connection (as far as I can see) between the review workflow and that environment.
 
 ## Organization
-
 Readwise was created by {Daniel Doyon} and {Tristan Homsi}. It’s a bootstrapped business.
 
-Perhaps because it’s a business, it’s often misleadingly confident in its claims, contra [Pitching out corrupts within](https://notes.andymatuschak.org/z4ehFvVvhxoMGtBudLpDoeN):
+Perhaps because it’s a business, it’s often misleadingly confident in its claims, contra [[Andy Matuschak/Pitching out corrupts within|Pitching out corrupts within]]:
 
 > We don’t remember things by just reading them once. Readwise fixes this using a scientific process called Spaced Repetition.
 
@@ -40,6 +40,5 @@ Perhaps because it’s a business, it’s often misleadingly confident in its cl
 ---
 
 ## References
-
 - [Using Spaced Repetition and Active Recall with Books to Hack Your Brain](https://blog.readwise.io/hack-your-brain-with-spaced-repetition-and-active-recall/)
 - [Remember Significantly More of What You Read With Readwise](https://blog.readwise.io/remember-more-of-what-you-read-with-readwise/)

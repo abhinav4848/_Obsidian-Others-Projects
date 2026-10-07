@@ -6,7 +6,7 @@
   "isSyncing": false,
   "isTestSyncing": false,
   "hasCompletedFirstSync": true,
-  "latestSyncedSnipUpdateTs": "2026-02-15T16:34:33.653Z",
+  "latestSyncedSnipUpdateTs": "2026-08-18T19:47:13.471Z",
   "fileHashMap": {
     "Snipd/Data/_WhatifAlthist_ _ World History, Philosophy, Culture/The Greatest Lie Ever Told.md": "29d12b82cb44ca51899537c177d752da",
     "Snipd/Data/The Side Hustle Show/707_ $70k on the Side in 6 Months with Aura Photography.md": "4976666f78a0e35557f8c079dc7dc856",
@@ -123,7 +123,8 @@
     "Snipd/Data/The Sweaty Startup/How I Raised Twenty Million to Take Control of a Fifty Million Dollar Company.md": "6d856b7bf60d0cf810ad9f59fce21857",
     "Snipd/Data/Unthinkable with Jay Acunzo/Welcome to the Jumble.md": "22617c824825a30c6ae317790cd5ff34",
     "Snipd/Data/Radical Personal Finance/1114-I Have Changed Everything in My Life.md": "622f9bfd4a0889f38c8e9af4570d9b77",
-    "Snipd/Data/The Sweaty Startup/The One Deal That Changed My Life and What Wealth Really Means.md": "525c1711a5d49648f4f68b26ca1e77d5"
+    "Snipd/Data/The Sweaty Startup/The One Deal That Changed My Life and What Wealth Really Means.md": "525c1711a5d49648f4f68b26ca1e77d5",
+    "Snipd/Data/NB Hot Topics Podcast/S7 E10_ _Fit Note for the Last GP_ song; Best UTI Abx; Kidney Failure Risk Tool & Death; Phone Empathy & Outcomes.md": "60ef519d0edff491b7f2c8398f4f358d"
   },
   "appendOnlyFiles": {},
   "baseFileHashes": {
@@ -134,21 +135,26 @@
     "Snipd/Base/Snipd.base": true,
     "Snipd/README.md": true
   },
-  "lastBaseFileSyncToken": "2026-01-24T12:44:01.373Z",
+  "lastBaseFileSyncToken": "2026-02-15T16:34:33.653Z",
   "baseFileDefaultOpenPath": "Base/Snipd.base",
-  "last_updated_after": "2026-02-15T16:34:33.653Z",
+  "last_updated_after": "2026-08-18T19:47:13.471Z",
   "current_export_updated_after": null,
   "current_export_batch_index": 0,
   "current_export_total_batches": 0,
   "current_batch_episode_count": 0,
   "current_batch_snip_count": 0,
-  "lastSyncTimestamp": "2026-06-23T11:17:40.339Z",
-  "lastSyncEpisodeCount": 2,
+  "lastSyncTimestamp": "2026-10-07T21:56:07.655Z",
+  "lastSyncEpisodeCount": 1,
   "lastSyncSnipCount": 2,
+  "lastSyncTranscriptCount": 0,
   "saveDebugZips": false,
   "onlyEditedSnips": false,
+  "syncTranscripts": false,
   "episodeTemplate": null,
   "snipTemplate": null,
   "episodeFileNameTemplate": null,
-  "additionalProperties": null
+  "additionalProperties": null,
+  "episodeTranscriptsSyncedTs": {},
+  "pendingTranscriptEpisodeIds": [],
+  "transcriptEligibilityCheckedTs": {}
 }

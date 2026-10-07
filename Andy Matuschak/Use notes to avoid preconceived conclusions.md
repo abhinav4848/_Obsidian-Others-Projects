@@ -1,3 +1,6 @@
+---
+title: "Use notes to avoid preconceived conclusions"
+---
 # Use notes to avoid preconceived conclusions
 When writing manuscripts, one often begins with a conclusion (or at least an angle) in mind, and then we write or do research with an eye to supporting that idea. If we’re not careful, those preconceptions will distort our thinking. But if we begin by writing [[Evergreen notes should be atomic]], we can let the conclusions and topic *emerge* from our careful thinking.
 

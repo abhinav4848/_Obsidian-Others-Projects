@@ -1,3 +1,7 @@
+---
+title: "Speeches MOC"
+---
+# Speeches MOC
 tags: #MOC #speech #speech80 #speechNotes
 links: [[060 Writings MOC|Writings]] 
 
@@ -29,7 +33,6 @@ Use #speech to see all speeches. Use #speech80 as a way sort by speeches that ar
 ### Personal Development
 ### Story Development
 ### Science
-
 ## By Cronology
 ### 2020
 ### 2019

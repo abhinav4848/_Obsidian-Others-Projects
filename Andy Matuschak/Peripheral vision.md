@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/About_these_notes?stackedNotes=zCMhncA1iSE74MKKYQS5PBZ&stackedNotes=z4geAr5cERWdJPrdhU5gy3N
+title: "Peripheral vision"
 ---
 # Peripheral vision
 My physical workspace is full of subtle cues. The books I read or bought most recently are lying out. Papers I’ve accumulated are lying in stacks on my desk, very roughly arranged by their relationship to each other. I notice a broken door every time I walk by it. These cues together give me a kind of “peripheral vision”: when I’m doing one thing, it’s easy for me to fluidly notice other nearby things. So long as the peripheral vision is reasonably dynamic, anyway—[[Unchanging peripheral vision desensitizes]].
@@ -7,17 +8,14 @@ My physical workspace is full of subtle cues. The books I read or bought most re
 Software systems, by contrast, often lack this kind of peripheral vision. (Though there have been some attempts; see e.g. [[Just-in-time information retrieval agents]])
 
 ## Peripheral vision can spontaneously prompt actions
-
 Digital task lists live in a dedicated app. I have no natural reason to look at the contents of that app. If I need to fix a broken door, I’ll be reminded of that task intermittently as I walk around the house. But if the tasks live primarily on a digital task list, I’ll need to establish a habit of explicitly reviewing my task list.
 
 ## Peripheral vision emphasizes the concrete
-
 Unread digital books and papers live in some folder or app, invisible until I decide that “it’s reading time.” But that confuses cause and effect. When I leave books lying on my coffee table, I’ll naturally notice them at receptive moments, and I’ll decide to start reading based on my reaction to a specific book. In these cases, the motivation to read physical books comes from my actual interest in a concrete work; the motivation to read digital books comes from my abstract interest in the habit of reading.
 
 This is a big issue with the system described in [[A reading inbox to capture possibly-useful references]].
 
 ## Peripheral vision offers context
-
 If I mark up a physical book, then later flip through to see my margin notes, I’ll always see them in the context of the surrounding text. By contrast, digital annotation listings usually display only the text I highlighted, removed from its context. The primary “unit” in such systems is a single highlight or note, but that’s not how I think. Margin marks have fuzzy boundaries, and I often think of a page’s worth of markings as a single unit.
 
 [LiquidText](https://notes.andymatuschak.org/zN9pG99Y6GY8f6YjUTiKi5Z) is a lovely counterexample: it works hard to display annotations in context. See also [PeekQuotes](https://notes.andymatuschak.org/PeekQuotes). 

@@ -20,8 +20,8 @@ yearXP: 2020
 yearXPL: 2022
 bookStatus: read
 rating: 5.4
+title: "Don Quixote"
 ---
-
 ![cover|150](http://books.google.com/books/content?id=VV2XAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 # Don Quixote

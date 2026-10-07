@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/z4ULp2KUgq3hBCJMWTUnLDX?stackedNotes=zGD1FxbDZd7WnH7NrhRaVyC&stackedNotes=zTYb9ysCATFYCnvay3V5sF2
+title: "Obsession as high-order bit"
 ---
 # Obsession as high-order bit
-
 It seems obvious, but: amazing creative work tends to come from people who find creation or discovery in their domain to be among the most meaningful activities in their world. An almost spiritual devotion to seeking moments where one can see beyond the profane secular world and come into contact with something “higher”, eternal, a patterned view of reality itself—whatever that means for one’s particular domain.
 
 I think this is in large part what [Michael Nielsen](https://notes.andymatuschak.org/Michael_Nielsen) means when he describes himself as “searching for the numinous.”

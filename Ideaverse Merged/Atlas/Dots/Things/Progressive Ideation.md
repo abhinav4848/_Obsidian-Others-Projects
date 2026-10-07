@@ -3,7 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Dots/Statements/Small Wins foster a Sense of Control]]"
 related: []
 created: 2020-06-01
+title: "Progressive Ideation"
 ---
+# Progressive Ideation
  **Progressive Ideation** is the process of relating and developing ideas over time. 
 
 Through this process, your thinking efforts naturally compound.

@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zMdKRBZStQ4tCJJhomSYxvG?stackedNotes=z5wZoGy72FafNGd1AHgtghs&stackedNotes=The_Sciences_of_the_Artificial_-_Herb_Simon
+title: "The Sciences of the Artificial - Herb Simon"
 ---
 # The Sciences of the Artificial - Herb Simon
 By [Herb Simon](https://notes.andymatuschak.org/z2khQEBddUwRBv2hXGqNzBq)

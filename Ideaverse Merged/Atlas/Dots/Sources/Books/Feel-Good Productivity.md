@@ -21,16 +21,12 @@ yearXP: 2023
 yearXPL: 2023
 bookStatus: read
 rating: 5
+title: "Feel-Good Productivity"
 ---
-
 ![cover|150](http://books.google.com/books/content?id=ZnagEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # Feel-Good Productivity
-
-
-
 ## CONTENTS
-
 Introduction
 
 PART 1 | ENERGISE 

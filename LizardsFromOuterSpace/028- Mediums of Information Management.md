@@ -1,3 +1,7 @@
+---
+title: "028- Mediums of Information Management"
+---
+# 028- Mediums of Information Management
 ## Mediums of Information Management
 are the different ways we record information or knowledge.
 
@@ -36,5 +40,4 @@ A lot of the programs are geared towards information storage and retrieval, basi
 - Make notes shareable through
 
 #### Unconventional Storage
-
 - One form of unconventional storage is showcased in the movie [Memento](https://www.wikiwand.com/en/Memento_(film)), directed by Christopher Nolan. The main character has important information written on his body as a way to overcome [anterograde amnesia](https://www.wikiwand.com/en/Anterograde_amnesia).

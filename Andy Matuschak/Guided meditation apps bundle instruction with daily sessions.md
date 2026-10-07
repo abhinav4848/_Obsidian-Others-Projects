@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zSNDTj75ULnYMo7pGm2Frg7?stackedNotes=z4exmF6rnZTE9GjCnpFBKUT&stackedNotes=zC4sWYDcheVSeCxpQPA9w88
+title: "Guided meditation apps bundle instruction with daily sessions"
 ---
 # Guided meditation apps bundle instruction with daily sessions
 When I sit down to [Meditation](https://notes.andymatuschak.org/z3hBXnDxbvTaSPstyxoD5pj) (no link) with a [[Guided meditation app]], I don’t think of myself as “taking a lesson” or even really “receiving instruction.” I’m sitting down _to meditate._ But in fact, those sessions are lessons, and I do receive instruction. I use an app to guide my meditation session. These apps generally open each day’s session with a brief lesson that frames the day’s practice. Then throughout the session, the teacher will offer intermittent pointers, relating to that day’s theme. After the session, the lesson will often close with a few parting sentences.

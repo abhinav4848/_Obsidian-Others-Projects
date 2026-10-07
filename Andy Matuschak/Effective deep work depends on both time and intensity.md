@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zJwcvZbtq2iQwpd63Go9tD4?stackedNotes=zWTgG8ddRz5h1WbNMYnrnqX
+title: "Effective deep work depends on both time and intensity"
 ---
 # Effective deep work depends on both time and intensity
 It’s tough for many people to block off four contiguous hours for focused work, and even harder for many to avoid spending much of that time checking email or social media. But these things are doable, fairly mechanically: schedule the time; turn off the WiFi; block the web sites; etc. The trouble is that this isn’t enough. It’s relatively easy to zone out—not in a creative day-dreaming fashion, but in a scattered, dull fashion.

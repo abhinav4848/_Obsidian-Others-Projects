@@ -1,7 +1,9 @@
 ---
 excalidraw-plugin: parsed
 tags: [x/excalidraw]
+title: "How ARC + Basic Idea Emergence"
 ---
+# How ARC + Basic Idea Emergence
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 # Text Elements

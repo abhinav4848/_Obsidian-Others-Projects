@@ -1,4 +1,7 @@
-### Obsidian requests
+---
+title: "Obsidian requests"
+---
+# Obsidian requests
 - [x] renaming filenames doesn't successfully update all the links with the [[Note|Wikipedia-Note Reference]] notation. It updates some, but not all. [[TODO]]
 - [ ] really missing the ability to highlight text and hit a hotkey to instantly add bullets/numbers to each new line. In The Archive this is called "Switch List Type" and is cmd+ctrl+t
 - [X] File Explorer functionality

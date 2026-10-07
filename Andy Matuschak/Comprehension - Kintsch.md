@@ -1,6 +1,8 @@
 ---
-URL: https://notes.andymatuschak.org/zES5WRczfGgXptmM9tSCwvy
+URL: ["https://notes.andymatuschak.org/zES5WRczfGgXptmM9tSCwvy", "https://notes.andymatuschak.org/Comprehension_-_Kintsch"]
+title: "Comprehension - Kintsch"
 ---
+# Comprehension - Kintsch
 A (1998) monograph on a theory for a [[Cognitive psychology]] model for comprehension, mostly in the context of [[Reading comprehension]].
 
 I’ve just done [[Inspectional reading]] so far. Chapter 8 (on long-term short-term memory) seems particularly interesting and relevant to my work. The rest is probably a notch too low-level for my purposes, though it looks very interesting. Chapter 9 is quite relevant, too: it tries to provide a more mechanistic definition of deep and shallow understanding.

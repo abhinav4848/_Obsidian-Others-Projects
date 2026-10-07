@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/z9AH3dD42uGiJzR1WH1eo7n?stackedNotes=z8v56RCUFx6Zp6sBG6mTL95
+title: "Unusual applications of spaced repetition memory systems"
 ---
 # Unusual applications of spaced repetition memory systems
 While a [[Spaced Repetition memory system]] is primarily designed to help people remember facts, their flashcard mechanism can be used for a variety of other purposes.

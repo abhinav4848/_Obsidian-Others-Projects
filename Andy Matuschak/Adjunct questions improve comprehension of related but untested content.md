@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zSoTbuyrXFnDHibaSeEzPRx?stackedNotes=zCaVdAEo3YDwAbuxLeW9JZ7&stackedNotes=z4m9Gat7zi9YUmZzQRR7pwt
+title: "Adjunct questions improve comprehension of related but untested content"
 ---
 # Adjunct questions improve comprehension of related but untested content
 Beyond the [[Testing effect]], answering questions while reading a text ([[Adjunct questions]]) promotes better _general_ absorption, including of untested material from the text.

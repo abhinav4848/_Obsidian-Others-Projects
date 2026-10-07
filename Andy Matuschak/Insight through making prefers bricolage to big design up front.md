@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/About_these_notes?stackedNotes=zKKB5ENRahwftH96H7mijiu&stackedNotes=zT2CnA38ERsCY2NKGw2thSL
+title: "Insight through making prefers bricolage to big design up front"
 ---
 # Insight through making prefers bricolage to big design up front
 When developing systems which push the frontiers of their own foundational theory, [[Insight through making]] suggests that you’ll need to make simultaneous progress in theory-space and system-space to spot the new implications in their conjoined space. [[Effective system design requires insights drawn from serious contexts of use]]: you must constantly instantiate new theoretical ideas in new systems, then observe their impact in some serious context of use.

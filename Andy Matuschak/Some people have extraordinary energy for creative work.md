@@ -1,3 +1,6 @@
+---
+title: "Some people have extraordinary energy for creative work"
+---
 # Some people have extraordinary energy for creative work
 Contra [[It’s hard to do difficult creative work for more than a few hours a day]]:
 
@@ -67,5 +70,4 @@ From [Stephen Malina - Energetic Aliens](https://stephenmalina.com/post/2021-07
     A. They’ve overcome [Many people find difficult creative work mostly unpleasant in the moment](https://notes.andymatuschak.org/Many_people_find_difficult_creative_work_mostly_unpleasant_in_the_moment) (No access on Andy’s Site), find the creative work deeply joyful.
 
 # References
-
 1.

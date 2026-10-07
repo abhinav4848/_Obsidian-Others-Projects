@@ -3,8 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Maps/Habits Map]]"
 related: []
 created: 2020-06-01
+title: "Assembling a random article on habits"
 ---
-
+# Assembling a random article on habits
 Here's my showing how I can use the [[Ideaverse Merged/Atlas/Maps/Habits Map]] to outline a specific and linear article about habits.
 
 
@@ -38,7 +39,6 @@ Here's my showing how I can use the [[Ideaverse Merged/Atlas/Maps/Habits Map]] t
 
 ---
 ### Supporting Material
-
 #### Important Habits
 [[Ideaverse Merged/Atlas/Dots/Statements/Important habits preserve mental clarity and a sense of control]]
 [[Ideaverse Merged/Atlas/Dots/Statements/Preparing for the next day is an important habit]]

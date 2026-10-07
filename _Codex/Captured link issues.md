@@ -1,9 +1,10 @@
+---
+title: "Captured link issues"
+---
 # Captured link issues
-
 These are local file and section checks. They do not establish whether a remote website currently works. No further Andy or Lizards repairs listed here have been applied.
 
 ## Andy Matuschak
-
 31 unresolved link occurrences.
 
 - [[Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support|2023-09-30 Patreon letter - Highlight-driven practice and comprehension support]] — line 10: `2023-08-01 Patreon letter - Initial experiments in self-explanation support` (missing file).
@@ -39,7 +40,6 @@ These are local file and section checks. They do not establish whether a remote 
 - [[Andy Matuschak/Spaced repetition memory prompts should be written to discourage shallow “pattern matching”|Spaced repetition memory prompts should be written to discourage shallow “pattern matching”]] — line 17: `Is there a way to detect spaced repetition memory prompts which are likely to be answered through pattern matching` (missing file).
 
 ## LizardsFromOuterSpace
-
 13 unresolved link occurrences.
 
 - [[LizardsFromOuterSpace/002- Zettelkasten|002- Zettelkasten]] — line 23: `130- Design of Perfect Zettelkasten App` (missing file).
@@ -57,7 +57,6 @@ These are local file and section checks. They do not establish whether a remote 
 - [[LizardsFromOuterSpace/099- Zettelkasten Model (aka Zettelkasten Principles)|099- Zettelkasten Model (aka Zettelkasten Principles)]] — line 5: `114- Zettelksaten is about Knowledge Development` (missing file).
 
 ## LYT reference omissions
-
 The completed LYT collection still contains links to material omitted from the creator’s distributed examples. Many are personal maps, people, publishers, or placeholders in templates. Missing material was not invented. Full locations are recorded in `verification-final.json`.
 
 There are 425 missing-file occurrences and one missing-section occurrence. All previously valid linked files retain a canonical target. The theme table of contents points to “How to Use LYT Mode”, a section absent from both supplied reference versions. The other stale theme heading was repaired to “Alternative Checkboxes aka Icon Bullets”.

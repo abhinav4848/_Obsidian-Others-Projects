@@ -1,3 +1,7 @@
+---
+title: "040 Interests MOC"
+---
+# 040 Interests MOC
 tags: #interests #MOC 
 links: [[000 Index|Index]], [[040 Interests MOC|Interests]]
 

@@ -2,7 +2,9 @@
 up:
   - "[[Ideaverse Merged/Ideaverse Map]]"
 created: 2020-06-01
+title: "About LYT"
 ---
+# About LYT
  *Why do you care about digital notes? What are you actually trying to do?*
 
 That is not easy to answer. And that’s okay! But it’s worth thinking about. For me, it’s: 

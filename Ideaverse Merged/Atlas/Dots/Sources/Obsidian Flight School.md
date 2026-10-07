@@ -14,7 +14,9 @@ tags:
   - source/course
 type: "[[Ideaverse Merged/Atlas/Maps/Courses]]"
 URLs: https://www.linkingyourthinking.com/obsidian-flight-school
+title: "Obsidian Flight School"
 ---
+# Obsidian Flight School
 > [!Video]+ Youtube Video
 > [Make Notes at the Speed of Thought - YouTube](https://youtu.be/I1RXGhZZ2r0?si=XDYKc2UbcZRTGXeR)
 

@@ -3,7 +3,9 @@ up:
   - "[[Allusion MOC]]"
 related: []
 created: 2020-06-01
+title: "Some Greek Allusions"
 ---
+# Some Greek Allusions
 Many of the words we use today are actually allusions to historical figures and Greek Gods. Here are just a few examples:
 Greek
 

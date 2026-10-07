@@ -5,8 +5,9 @@ related:
   - "[[Ideaverse Merged/Atlas/Dots/Things/Four Factors of Flow]]"
 created: 2012-06-01
 evolved: 2019
+title: "Conditions of Flow"
 ---
-
+# Conditions of Flow
 ### The Three Major Conditions of Flow
 The three conditions of flow, as described by Mihaly are:
 

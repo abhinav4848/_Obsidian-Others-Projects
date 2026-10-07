@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zX95uZHiGWNiNTDF3wETWtq?stackedNotes=zBeBbzwU8LAyi2D5jqBJpS&stackedNotes=zCRXo3avHi3fNuw43BHM8ch
+title: "Physical cut and paste is a parallel act involving informal intermediate states"
 ---
 # Physical cut and paste is a parallel act involving informal intermediate states
 [Larry Tesler](https://notes.andymatuschak.org/zFxLnPYGBKFA2vjFYKViN3f)’s (no note) classic “cut” and “paste” operations are named after physical counterparts an author might employ as he edits a composition. But, as Ted Nelson points out in _Geeks Bearing Gifts_, the digital version is rigidly formal and sequential, whereas the physical activities are inherently parallel and informal. When physically cutting and pasting, you cut up your work, spread it on the floor, and rearrange the pieces. Along the way, they’ll pass through various temporary, “invalid” configurations as you explore the connections.

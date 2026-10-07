@@ -1,3 +1,7 @@
+---
+title: "199- Retrieval Practice"
+---
+# 199- Retrieval Practice
 # Retrieval Practice
 is the act of repeatedly retrieving a memory from long-term storage in order to test yourself and increase the memories retrieval strength. This works by being presented with a retrieval cue ([[197- Retrieval Cues]]) (flash card) that has to pull up the right set of knowledge (memory traces) from memory.
 

@@ -5,7 +5,9 @@ related:
   - "[[Ideaverse Merged/Atlas/Dots/Statements/The big differences between efforts and projects]]"
   - "[[Ideaverse Merged/Atlas/Dots/Statements/Why Efforts are Liberating]]"
 created: 2020-06-01
+title: "How ideas and efforts play nicely together"
 ---
+# How ideas and efforts play nicely together
 The best way to understand "efforts" is to walk through an example of how "efforts" naturally support existing ideas.
 
 For example, check out [[Ideaverse Merged/Atlas/Dots/Statements/Sensemaking happens by triangulation]]. It started out as an idea I had. I wanted to better understand what "sensemaking" was and how it worked. 

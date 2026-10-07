@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/z5Rvwe2Wo2UvxHxLujUWnsa?stackedNotes=zTkRoDEXnMQqwb6uDxyA8Us&stackedNotes=zTgkGMCSgQes6NL1kCFZpEC
+title: "Deliberate practice doesn’t have to be unenjoyable"
 ---
 # Deliberate practice doesn’t have to be unenjoyable
 One of Ericsson’s classic attributes of [[Andy Matuschak/Deliberate practice|Deliberate practice]] is that it’s not inherently enjoyable, and in fact is generally less enjoyable than other relevant activities. When he writes this, he’s usually making a descriptive claim—describing properties of expert practice of this kin in the world—rather than a normative claim. But he suggests that the non-enjoyability is a natural consequence of deliberate practice being a) necessarily difficult/effortful; and b) primarily for improving performance.

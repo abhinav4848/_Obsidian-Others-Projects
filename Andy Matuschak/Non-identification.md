@@ -1,3 +1,6 @@
+---
+title: "Non-identification"
+---
 # Non-identification
 See also [Not-self](https://notes.andymatuschak.org/z2xShjQ58nLW8XNuHqJgq14). (No article by andy yet)
 
@@ -6,7 +9,6 @@ It is possible to notice an impulse, thought, desire, aversion, concern, etc, wi
 This is a practice I learned from Buddhism, though I imagine it’s a part of many contemplative traditions.
 
 ### [@vgr on work and identity](https://twitter.com/vgr/status/1317193254480138240):
-
 - tweet: https://x.com/vgr/status/1317193254480138240?s=20 #linkrot 
     
 - Tweet text itself
@@ -20,5 +22,4 @@ This is a practice I learned from Buddhism, though I imagine it’s a part of m
     5. I am, I have doings 
 
 # References
-
 1.

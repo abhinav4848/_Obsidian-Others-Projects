@@ -1,3 +1,7 @@
+---
+title: "Lorem 500 Add-on"
+---
+# Lorem 500 Add-on
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor aliquam nulla facilisi cras fermentum odio eu feugiat pretium. Leo a diam sollicitudin tempor id eu nisl. 

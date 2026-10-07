@@ -1,3 +1,7 @@
+---
+title: "Easy Mini Quiche Recipe"
+---
+# Easy Mini Quiche Recipe
 ## Ingredients   
 - 6 slices bread
 - 1/2 onion, grated

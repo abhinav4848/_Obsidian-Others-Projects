@@ -4,7 +4,9 @@ up:
 related:
   - "[[Ideaverse Merged/Atlas/Dots/Things/Balancing Challenge and Skill]]"
 created: 2020-06-01
+title: "Attention (re Flow)"
 ---
+# Attention (re Flow)
 Attention is what the mind is focused on—and what it has been focused on over the recent past (the past 72 hours is simple way to look at it). Everything that enters the mind in the past 72 hours affects the next hour of thought. That's what it's so important to Guard and Guide Your Mind wisely.
 
 Guard what enters your mind, and what stays in the mind. Reduce distractions. Reduce attentional switching.

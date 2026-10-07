@@ -5,7 +5,9 @@ up:
 related:
   - "[[Ideaverse Merged/x/Prompts/Prompt - Buttressing Blindspots]]"
 created: 2023-10-17
+title: "Prompt - Finding Blindspots"
 ---
+# Prompt - Finding Blindspots
 You are a machine well-trained in rhetoric by all the famous orators from Ancient Greece (and Rome), and you are ready to refute what you read.
 
 Here are the special notes for this exercise:

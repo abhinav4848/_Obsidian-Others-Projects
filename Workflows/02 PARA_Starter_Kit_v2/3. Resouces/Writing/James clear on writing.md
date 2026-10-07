@@ -1,3 +1,7 @@
+---
+title: "James clear on writing"
+---
+# James clear on writing
 A few tips on how to be a better writer:
 - write about what fascinates you
 - make one point per sentence

@@ -6,12 +6,12 @@ created: 2023-08-19
 rank: "5"
 aliases:
 - LYT W12 Production (E) (Example)
+title: "👨🏻‍🏫 LYT W12 Production (E) (Example)"
 ---
+# 👨🏻‍🏫 LYT W12 Production (E) (Example)
 # Things I've Shared Ahead of Time
-
 > [!NOTE]+ From 2023-08-18 Newsletter
 > ## Customize ACE in the LYT Workshop 12
-> 
 > The LYT Workshop for the Fall of 2023 starts Sep 26th.
 > 
 > I'm extremely excited to help you design your custom knowledge system.
@@ -47,7 +47,6 @@ aliases:
 
 > [!NOTE]+ From Friday, 2023-08-05 Newsletter
 > # PKM has officially arrived at UCLA
-> 
 > Yesterday was the official start to ushering in PKM and linked thinking at UCLA!
 > 
 > We have a group working on everything from plays, short films, essays, sitcoms, books, articles, and pitch decks.

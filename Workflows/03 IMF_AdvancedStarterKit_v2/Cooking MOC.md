@@ -1,3 +1,7 @@
+---
+title: "Cooking MOC"
+---
+# Cooking MOC
 tags: #cooking
 links: [[040 Interests MOC|Interests]]
 

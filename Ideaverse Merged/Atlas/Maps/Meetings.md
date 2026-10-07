@@ -4,7 +4,9 @@ in:
 tags:
   - "#map/view"
 created: 2023-11-21
+title: "Meetings"
 ---
+# Meetings
 This note collects all notes where the `in` property says `Meeting`.
 
 > [!calendar]+ # Meetings

@@ -4,7 +4,9 @@ up:
 related:
   - "[[Ideaverse Merged/Atlas/Dots/Things/The 3 Phases of MOCs]]"
 created: 2020-06-01
+title: "MOCs Overview"
 ---
+# MOCs Overview
 This is a brief overview of MOCs. An M—O—C is a cluster of information that maps "things" in context with other "things".
 
 - MOC stands for **Maps of Content** because these notes *map* the contents of some of your notes.

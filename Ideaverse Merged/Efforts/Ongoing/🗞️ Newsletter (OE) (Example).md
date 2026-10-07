@@ -9,7 +9,9 @@ tags:
   - map
 aliases:
 - Newsletter (OE) (Example)
+title: "🗞️ Newsletter (OE) (Example)"
 ---
+# 🗞️ Newsletter (OE) (Example)
 This note is a simple example of how you can consolidate all of your notes related to an effort into a single spot.
 
 ## Previous Newsletter Examples

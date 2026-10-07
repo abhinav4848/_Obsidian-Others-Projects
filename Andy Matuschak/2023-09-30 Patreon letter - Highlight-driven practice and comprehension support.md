@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zY3RYK9gJ6eDnq27vSwBDQh?stackedNotes=zPNoWjs5jQ7iMDpxxBtjSbg
+title: "2023-09-30 Patreon letter - Highlight-driven practice and comprehension support"
 ---
 # 2023-09-30 Patreon letter - Highlight-driven practice and comprehension support
-
 _Private copy; not to be shared publicly; part of [[Patron letters on memory system experiments]]_
 
 I’ve been wrestling with a new insight this summer: when people struggle to recall and use what they’ve read after a few months, it’s often because they didn’t really understand in the first place. The lapse _feels_ like forgetting, but people often can’t tell the difference. I’ve argued that “[books don’t work](https://andymatuschak.org/books) #external ” because people seem to rapidly forget almost all of what they read. But when those supposed memory failures are actually poor initial comprehension in disguise, memory augmentation probably isn’t the right solution.
@@ -42,7 +42,6 @@ This makes sense: it _feels good_ to point at things you feel are important. I
 **Smooth on-ramps to obligation.** In my late 2022 user research, [I observed](https://notes.andymatuschak.org/zFcmVJAwG2YaEvJVxDM6Emc#:~:text=be%20filed!%20Oops.-,Incrementalism,-Expressivity%20aside%2C%20there%E2%80%99s) an interesting tension: readers often weren’t initially sure how much they cared about a detail. They could see that it was important. But did they want to sign up for ongoing practice? It wasn’t clear—they had to read a little further, to get a sense of how that detail fit into the whole. Many readers asked for a highlighter; when I dug in, this uncertainty was often behind their request. People wanted to mark details as _tentatively_ important, then to come back and “upgrade” those details by saving the adjacent prompts later, if it seemed appropriate. This makes sense! I often do something similar in my own memory practice. I’ll read through a section, highlighting what seems important. Then I’ll make a second pass, guided by my highlights, to write prompts for whichever details seem to deserve it. My proposed design lends itself naturally to these smoothly escalating interactions. You can have an ordinary yellow highlighter to mark details which seem tentatively important, and a purple “magic” highlighter to mark details you want to make sure get reinforced. Highlights can be “swapped” to the other color with a click. Readers would have a smooth slope between “mark as important” to “mark as to-be-reinforced.”
 
 ### Conceptual challenges for this design
-
 **Highlights don’t encourage deep processing.** [Effective readers are demanding](http://andymatuschak.org/files/papers/Wyatt%20et%20al%20-%201993%20-%20Comprehension%20strategies,%20worth%20and%20credibility%20monitoring,%20and%20evaluations.pdf). They interrogate a text, interpret it, elaborate it, and connect it to prior knowledge. People can—and typically do—highlight without much of that happening. It’s easy to highlight text without even processing what it says. All this means that my system’s “comprehension support” is setting a very low bar. But if the goal is to resolve my three motivating problems, I think it’ll help a great deal. You’ll be much less likely to be given prompts about ideas you completely missed. And the prompts can be constructed to _induce_ the elaboration and interpretation which might not yet have occurred.
 
 **Density and ambiguity.** Prompt-writing has given me a great appreciation for just how many separate details can be conveyed in a single sentence. If the reader highlights a key sentence, they could be interested in many different details—or all of them. Also, they might have _comprehended_ only half those details. (I had this happen to me in testing.) I’ve found that helps to make “minimal” highlights—i.e. to highlight a key adjective if that’s what you’re interested in, alongside perhaps other separate small highlights in the same sentence. It also helps in these cases to jot a few words about your specific interest.
@@ -52,7 +51,6 @@ This makes sense: it _feels good_ to point at things you feel are important. I
 **Novices can’t reliably judge what matters.** One advantage of the original mnemonic medium design is that a domain expert tells you exactly what you need to know. In the proposed design, we shift the locus of control quite decisively to the reader; an expert merely provides “hints”. For a reader who really does want to be authoritatively led, this new design has much more friction. The deeper problem is that readers often aren’t in a good position to judge what matters most in a text. Is the “extra highlights” interaction enough to mitigate that problem?
 
 ## An initial test
-
 I took the concept for a scrappy initial test drive, with Wizard-of-Oz help from my friend Elliott Jin (a computer science instructor at [Bradfield](https://bradfieldcs.com/)). Continuing [last month’s studies](https://notes.andymatuschak.org/zCh4yPnzh6Y8WfCtUp9oWQw), I read section One.III.1 of [Jim Hefferon’s _Linear Algebra_](https://hefferon.net/linearalgebra/index.html), highlighting the details I wanted reinforced as I went. This material was already familiar to Elliott; he separately and carefully marked all the important details in the section. Then, once I’d finished reading, he manually compared my highlights to his, and marked my copy with any ideas I’d skipped. Then I could review those extra highlights as proposed in the design.
 
 First, and most crucially, the interaction helped me notice three important ideas which I had completely ignored. My eyes had simply slid right past them on the page. That’s a promising validation of the notion that this kind of “extra highlights” interaction can surface comprehension gaps.
@@ -89,7 +87,6 @@ I feel this distribution of prompt counts also illustrates a limitation of the o
 This exercise also helped me see the catch quite clearly: as we’ve discussed, readers are not always the best judge of what’s important. The proposed design would result in people missing important details, relative to Quantum Country’s design. That’s a price we’d be paying to permit a more fluid and reader-centric experience. Of course, I don’t yet understand the true cost or the true perceived benefit. That will require more user research.
 
 ### Interaction cost
-
 More than two years ago, when I was just starting to dig into tensions around reader control in the mnemonic medium, [I observed](https://notes.andymatuschak.org/zNXS7UkMmGYTFRyJCeLnEoH#:~:text=And%20so%20maybe,think%20that%E2%80%99s%20enough.) that if QCVC contains 112 prompts, a reader wouldn’t want to make 112 decisions about which prompts to save, or even to click “save this prompt” 112 times in the interface! That motivated the introduction of the “bulk” prompt interaction in [last year’s prototypes](https://www.youtube.com/watch?v=aYjJIzJwK8U) #external youtube. 
 
 And yet I notice that I don’t feel much concern about requiring a reader to make 78 highlights. 78 still seems like a lot of interactions. Why do I feel so differently?
@@ -101,7 +98,6 @@ It’s also important that readers wouldn’t be required to evaluate prompts. C
 Some of QCVC’s prompts are much less important than others. In Quantum Country and in last year’s mnemonic medium designs, all prompts had the same status, so a user would have to evaluate all 112 prompts on equal footing. But in the proposed design, a user might naturalistically not highlight some text representing a less important detail, and that’s no big deal. The text doesn’t impose a cost. And the cost of evaluating an “extra highlight”, while low, could be further mitigated by a visual indication of importance.
 
 ## Implementation details and challenges
-
 So far, I’ve focused on the interaction design and ignored how it would actually work. I think that’s the right emphasis, but I’ll briefly discuss implementation insofar as it bears on my next steps for the design.
 
 We can factor this design’s implementation into three core problems:
@@ -125,7 +121,7 @@ Of course, I don’t think I would have come up with this design idea in the fir
 Back to reality. I’ve run many experiments with using GPT-4 to perform all three of these tasks. My coarse impression so far has been: these systems are amazing, and I’m able to get remarkably far; I’ve not yet managed to make their output quite as good as it needs to be; but I expect they’ll get there with some combination of determined prompt engineering, fine-tuning, or patience for next year’s model.
 
 1. Text to curated highlights: A surprisingly good start. Usually includes 10-20% unimportant details (even when I ask the model to include an importance rating), and omits a handful of important elements. The endpoints of the highlight are often not quite in the best spot.
-2. Highlights to tasks: The most difficult of the tasks. I believe that much of this will come down to articulating a philosophy of instructional design, or a “pattern language” for review. The issue generally isn’t the model’s “intelligence”; it’s that you can’t describe the sorts of tasks you want (and don’t want) clearly enough. Still, for basic retrieval practice tasks, I can get usable results somewhat more than half the time. ([more notes](https://notes.andymatuschak.org/zBjh9jUahGSm7VpFtEjvKqT))
+2. Highlights to tasks: The most difficult of the tasks. I believe that much of this will come down to articulating a philosophy of instructional design, or a “pattern language” for review. The issue generally isn’t the model’s “intelligence”; it’s that you can’t describe the sorts of tasks you want (and don’t want) clearly enough. Still, for basic retrieval practice tasks, I can get usable results somewhat more than half the time. ([[Andy Matuschak/Using machine learning to generate good spaced repetition prompts from explanatory text|more notes]])
 3. Semantic highlight diff: Surprisingly difficult for the model. It particularly struggles with user highlights which aren’t in the set of “curated” highlights—it wants to make spurious mappings.
 
 ## Next steps
@@ -144,7 +140,7 @@ I’ll test initially with some experienced spaced repetition users, so that I c
 Ultimately, what excites me about this design is that it’s positioned to attack three distinct problems which have emerged in my experiments over the past few years:
 
 1. The mnemonic medium [feels unpleasantly authoritarian in many contexts](https://notes.andymatuschak.org/zNXS7UkMmGYTFRyJCeLnEoH); the locus of control should move towards readers.
-2. Comprehension gaps are routine; [practicing others’ prompts doesn’t work and feels oppressive when this occurs](https://notes.andymatuschak.org/zLButXjJvGCpWKHzqhXEhhm) in conceptual material.
+2. Comprehension gaps are routine; [[Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems|practicing others’ prompts doesn’t work and feels oppressive when this occurs]] in conceptual material.
 3. “Mere” retrieval practice of conceptual material often produces brittle understanding which transfers poorly; [more fluid practice would likely produce more fluid understanding](https://notes.andymatuschak.org/z21VhT726p7bX8JcGM41QSA).
 
 It’s safe to assume that this new design will fail, too, but I’m feeling optimistic that it will fail in interesting and instructive ways.

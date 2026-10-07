@@ -8,7 +8,9 @@ down:
 tags:
   - "#map/view"
 created: 2021-01-01
+title: "Things"
 ---
+# Things
 This note collects all notes in the folder `Things`.
 
 > [!waves]+ ## Things

@@ -1,3 +1,7 @@
+---
+title: "Setting up your Index Categories (IMF)"
+---
+# Setting up your Index Categories (IMF)
 tags: #pkm #IMF
 links: [[IMF START]], [[IMF MOC]] — [[000 Index|Index]]
 

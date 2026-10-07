@@ -3,8 +3,9 @@ up:
   - "[[Ideaverse Merged/Ideaverse Map]]"
 related: []
 created: 2020-06-01
+title: "Why Categories for Your Notes are a Good Idea"
 ---
-
+# Why Categories for Your Notes are a Good Idea
 The idea that "categories are bad" hinges on a faulty notion that categories limit access and cause rigidity that inhibit organic thinking.
 
 That argument applies to a system of folders. It does not apply to more fluid structures. Let's explore...

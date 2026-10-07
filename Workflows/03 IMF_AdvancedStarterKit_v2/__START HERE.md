@@ -1,3 +1,7 @@
+---
+title: "__START HERE"
+---
+# __START HERE
 First, make sure you're using the Dark Theme (or switch themes)
 In the File explorer, select "Sort by file name (A to Z)"
 Go to the introduction: [[IMF START]]

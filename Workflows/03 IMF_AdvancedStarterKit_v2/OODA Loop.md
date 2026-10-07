@@ -1,3 +1,6 @@
+---
+title: "OODA Loop"
+---
 # OODA Loop
 The OODA loop is the decision cycle of observe, orient, decide, and act developed by John Boyd.
 

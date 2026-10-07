@@ -1,3 +1,7 @@
+---
+title: "=Draft= Project Manager for solo person"
+---
+# =Draft= Project Manager for solo person
 - Tags: [[Project Management]] [[Productivity]] [[Notion]] [[ClickUp]] [[Todoist]] [[Drafts]]
 - ## References/Ideas
     - Refererences: 

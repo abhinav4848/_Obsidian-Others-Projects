@@ -1,6 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zLF5cEEjtKs7t8Rx3xTJVXP
+title: "Gumption"
 ---
+# Gumption
 The essential fuel for doing hard creative work.
 - [[Gumption transcends willpower and confidence]]
 

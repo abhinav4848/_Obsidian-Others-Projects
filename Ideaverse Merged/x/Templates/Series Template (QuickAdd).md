@@ -19,6 +19,8 @@ yearXP:
 yearXPL: 
 showStatus: 
 rating:
+title: "Series Template (QuickAdd)"
 ---
+# Series Template (QuickAdd)
 ![image]({{VALUE:Poster}})
 

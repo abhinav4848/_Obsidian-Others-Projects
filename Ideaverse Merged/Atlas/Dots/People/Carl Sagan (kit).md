@@ -22,7 +22,9 @@ culturalWorks:
 image: http://www.heikegani.com/wp-content/uploads/2012/11/sagan.jpg
 aliases:
 - Carl Sagan
+title: "Carl Sagan (kit)"
 ---
+# Carl Sagan (kit)
 Carl Sagan has earned my highest praise out of basically anyone I know.
 
 > [!Abstract]+ In a simple effort of note-making, I wrote the following...

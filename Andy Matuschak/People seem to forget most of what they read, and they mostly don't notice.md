@@ -1,3 +1,7 @@
+---
+title: "People seem to forget most of what they read, and they mostly don't notice"
+---
+# People seem to forget most of what they read, and they mostly don't notice
 # People seem to forget most of what they read, and they mostly don’t notice
 It seems that most people can remember only a few high-level details of a book weeks later—if that. A typical reader might spend hours finishing some serious non-fiction—then maybe it comes up at a dinner party, and they find you can remember like three sentences. Basically no detailed recall. Barely the gist!
 

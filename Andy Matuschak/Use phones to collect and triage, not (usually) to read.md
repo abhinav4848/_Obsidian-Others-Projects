@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=z63PA5ATVi8oyhyLgeGvL3p&stackedNotes=z5WxoE5azJstBPkERETy5kv
+title: "Use phones to collect and triage, not (usually) to read"
 ---
 # Use phones to collect and triage, not (usually) to read
-
 Because it’s important to [[Write about what you read to internalize texts deeply]], we should be wary of reading on our phones: we’re usually not in a position or mindset to write!
 
 This can be dangerous because reading articles on the phone can _feel_ like it’s doing work, but [[Knowledge work should accrete]], and this kind of reading mostly doesn’t. It’s mostly just for entertainment.

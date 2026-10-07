@@ -1,5 +1,8 @@
+---
+title: "009- Note Size"
+---
+# 009- Note Size
 # Note Size
-
 A common question people have regarding the zettelkasten and note taking in general is one of note length. A good way to think of this is through the concept usability of information. We structure information such that it can be used repeatedly. You can think of notes in the same way.
 
 `a` - smallest unit of usability is the letter. As you see I repeatedly make use of the letter a in this sentence.

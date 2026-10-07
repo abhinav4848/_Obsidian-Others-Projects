@@ -19,5 +19,7 @@ yearXP:
 yearXPL: 
 showStatus: 
 rating:
+title: "Movie Template (QuickAdd)"
 ---
+# Movie Template (QuickAdd)
 ![image]({{VALUE:Poster}})

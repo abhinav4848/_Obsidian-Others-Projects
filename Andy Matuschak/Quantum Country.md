@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zSiuztCZ594AZuCweRghcXT?stackedNotes=zWAH46Pd3DWGrfdiU8bV25A&stackedNotes=zNVVrcxnkjk7pCabiBvaic1
+title: "Quantum Country"
 ---
 # Quantum Country
 Our first project in the [[Mnemonic medium]], a primer on quantum computing and quantum mechanics.

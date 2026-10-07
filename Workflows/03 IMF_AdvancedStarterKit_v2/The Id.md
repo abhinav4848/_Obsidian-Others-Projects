@@ -1,3 +1,7 @@
+---
+title: "The Id"
+---
+# The Id
 # The "Id"
 *aka the "It"*  
 - The source of our bodily needs, wants, desires, and impulses, particularly our sexual and aggressive drives. 

@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zDKZVL9Fr1NnDRsQD2B4EW1?stackedNotes=z2huUCj3ko99HdzFcmEDfZD&stackedNotes=zB7bdhotesiTDgSjHwGr9i4
+title: "Pixar’s movies and technology development act as coupled flywheels"
 ---
 # Pixar’s movies and technology development act as coupled flywheels
 Pixar began as a technology company, developing 3D rendering systems mostly for advertising purposes. But now we know it primarily as a movie studio. In fact, it’s both, and each side makes the other possible.

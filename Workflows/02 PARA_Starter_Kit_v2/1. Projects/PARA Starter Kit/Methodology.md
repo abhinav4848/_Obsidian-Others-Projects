@@ -1,5 +1,8 @@
+---
+title: "Methodology"
+---
+# Methodology
 # The Methodology
-
 The P.A.R.A system is surprisingly simple at first glance but very powerful when applied. At its core it's just a four folder wide hierarchy with four-layer deeps:
 
 1. Projects
@@ -44,5 +47,3 @@ Once you have the folder hierarchy done, you want to copy it across all your oth
 
 
 # Next stop [[Workflow]]
-
-

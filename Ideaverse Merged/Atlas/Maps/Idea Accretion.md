@@ -8,7 +8,9 @@ related:
 created: 2023-10-15
 tags:
   - map/view
+title: "Idea Accretion"
 ---
+# Idea Accretion
 Never start with a blank page. Surprise yourself with the work you've invisibly done already.
 
 > [!orbit]- #### Accreting placeholder notes with at least `3` links pointing to it

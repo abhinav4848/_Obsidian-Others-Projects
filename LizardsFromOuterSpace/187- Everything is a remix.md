@@ -1,3 +1,7 @@
+---
+title: "187- Everything is a remix"
+---
+# 187- Everything is a remix
 # Everything is a remix
 **Remix** to combine or edit existing material to produce something new. With knowledge work, the existing material takes the form of information and knowledge.
 

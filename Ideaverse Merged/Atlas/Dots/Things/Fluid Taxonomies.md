@@ -4,7 +4,9 @@ up:
 related:
   - "[[Ideaverse Merged/Atlas/Dots/Things/Fluid Frameworks]]"
 created: 2020-06-01
+title: "Fluid Taxonomies"
 ---
+# Fluid Taxonomies
 Fluid Taxonomies is a term coined by [[Steen Comer]], which came up in our conversations about MOCs and other ways of managing knowledge.
 
 Steen wrote:

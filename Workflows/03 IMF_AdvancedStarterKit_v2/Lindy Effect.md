@@ -1,3 +1,6 @@
+---
+title: "Lindy Effect"
+---
 # Lindy Effect
 - The longer a non-perishable thing has been around, the longer it will be around. Like the spoon. Not like the human. 
 - Things that have been around for a long time are not "aging" like people, but "aging" in reverse.

@@ -10,7 +10,9 @@ in:
   - "[[Ideaverse Merged/Atlas/Maps/Sources]]"
 URL: https://www.linkingyourthinking.com/ideaverse-pro
 year: 2023
+title: "Ideaverse Pro"
 ---
+# Ideaverse Pro
 > [!Video]+ Youtube Video
 > ![Get my ultimate thinking system (in Obsidian) - YouTube](https://youtu.be/A88eoHn_UKk?si=JxKTWso4HpItGJit)
 
@@ -30,6 +32,5 @@ Ideaverse Pro empowers you to organize intuitively, remember more, and have a sy
 - Access to all lessons and updates for 12 months.
 
 ### What shouldn't I expect out of Ideaverse Pro?
-
 Ideaverse Pro explores both foundations and advanced systems in knowledge management.
 

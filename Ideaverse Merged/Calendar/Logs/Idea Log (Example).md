@@ -2,8 +2,9 @@
 up:
   - "[[Ideaverse Merged/Calendar/Logs/Logs (Example)]]"
 created: 2020-01-01
+title: "Idea Log (Example)"
 ---
-
+# Idea Log (Example)
 > [!fingerprint]+ These are my personal ideas
 > I've redacted about half of the random ideas I've logged here from June 2022 to July 2023. I hope this help you see how low-tech an idea log can be. And yet, you can see how I've naturally linked out to so many different URLs and notes.
 

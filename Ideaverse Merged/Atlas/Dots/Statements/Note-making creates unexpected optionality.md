@@ -4,8 +4,9 @@ up:
 related:
   - "[[Ideaverse Merged/Atlas/Dots/Statements/Note-making sharpens your thinking]]"
 created: 2020-06-01
+title: "Note-making creates unexpected optionality"
 ---
-
+# Note-making creates unexpected optionality
 A second-order effect that results from "linking your thinking" is how much "Optionality" it offers. 
 
 Simply put, optionality is not feeling stuck.

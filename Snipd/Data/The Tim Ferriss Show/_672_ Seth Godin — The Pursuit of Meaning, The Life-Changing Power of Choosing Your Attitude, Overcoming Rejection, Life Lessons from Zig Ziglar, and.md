@@ -24,16 +24,17 @@ mentioned_books:
 last_snip_date: 2023-08-11
 episode_duration_minutes: 99
 episode_url: "https://share.snipd.com/episode/fe382814-7a6f-4191-b20f-5bd66a061c81"
-image_url: "_media-sync_resources/2025/12/20/231724/02079.jpeg"
+image_url: "Attachments/02041.jpeg"
 show_url: "https://share.snipd.com/show/58c6e181-d2ff-4da6-a7ee-39414fb72dba"
-show_image_url: "_media-sync_resources/2025/12/20/231724/23269.jpeg"
+show_image_url: "Attachments/02041.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
+title: "_672_ Seth Godin — The Pursuit of Meaning, The Life-Changing Power of Choosing Your Attitude, Overcoming Rejection, Life Lessons from Zig Ziglar, and"
 ---
+# _672_ Seth Godin — The Pursuit of Meaning, The Life-Changing Power of Choosing Your Attitude, Overcoming Rejection, Life Lessons from Zig Ziglar, and
 # #672: Seth Godin — The Pursuit of Meaning, The Life-Changing Power of Choosing Your Attitude, Overcoming Rejection, Life Lessons from Zig Ziglar, and Committing to Making Positive Change
-
-![Cover](_media-sync_resources/2025/12/20/231724/66166.jpeg)
+![Cover](../../../Attachments/66166.jpeg)
 
 ## Episode metadata
 - Episode title: #672: Seth Godin — The Pursuit of Meaning, The Life-Changing Power of Choosing Your Attitude, Overcoming Rejection, Life Lessons from Zig Ziglar, and Committing to Making Positive Change
@@ -49,9 +50,7 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ###  [The Power of Meaning in Viktor Frankl's Work](https://share.snipd.com/snip/227c59ea-052d-4025-bf41-3ec2cdc56e26) 
-
 🎧 12:50 - 16:14 (03:23)
 
 1. Frankel was one of the Austrian pioneers in the way we think about the mind alongside Freud and Adler
@@ -59,7 +58,6 @@ from_snipd: true
 3. Frankel's work in suicide prevention was exceptional and he lived for another 70 years after getting out of the camp
 
 #### 📚 Transcript
-
 **Seth Godin:** that have been brought up on this podcast more than that one. Very few. And Victor Frankl's story, Survival of Four Concentration Camps, just generous, heroic. The thing is, a lot of people stop reading halfway through the first book that they touch of his because the story is really powerful. But then you get to this stuff about lobotherapy. And some people say that he was part of the triad of Austrian pioneers in the way we think about the mind. There was Freud, who focused on sensuality and sex. There was Adler, who focused on status, dominance. And then there was Frankel, who focused on meaning. And meaning, as far as I can tell from my limited reading of Frankl's work, is when a human being finds a thing that means something to them, a chance for a path forward, a pathway to hope, everything in their life gets better. And that his work, he lived for another 70 years after he out of the camp, 65 years. His work in suicide prevention was extraordinary from the statistics I've read because he understood that for many people, I'm not generalizing everyone, but for many people, finding a path toward hope meaning, of realizing that the struggle is the struggle, but you get to decide what to do with it is really profound. And I think as our industrialized world has gotten more narcissistic, which basically says marketers need to make you uncomfortable so that you will buy more stuff to feel better about yourself and your standing. Marketers are trying to push people to find meaning in purchases. And the problem with that, also in friends and likes and social media nonsense, the problem with that is it doesn't scale. And after you've got one storage room full of stuff, buying more things doesn't seem to help you find more meaning. And I really feel like we're in this moment in our culture, this moment in time, where people are waking up and saying, thank you very much, but I don't need to buy another thing. What I need to do is find something to care about. And I'll finish this with a two-parter about, I went to see a community orchestra last week. My friend is in it, all volunteers. And the thing about community orchestras is there are violinists and flautists and oboists who get paid money to do it. But no one in the community orchestra is saying, why aren't I getting paid? Because that's not why they're there. In fact, they often pay to be there. And I'm guessing, with no data whatsoever, that if you surveyed people who are in community orchestras, they probably index happier and more engaged in life than people who aren't. So the question is, where are we going to find our community orchestra? For me, the last year and a half, it was the Carbon Almanac. I have 1900 friends in 90 countries around the world. I ran into a bunch of them yesterday, Union Square. And they're not doing it for money. None of us got paid. They're not doing it for me. I wasn't even there until I showed up at the end of the day. They're doing it because the meaning that they get from it is so valuable. It gives them a reason to put up with all the other stuff they have to do every day. I
 
 ---

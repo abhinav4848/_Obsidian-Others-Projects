@@ -3,7 +3,9 @@ up:
   - "[[Ideaverse Merged/Ideaverse Map]]"
 related: []
 created: 2021-06-01
+title: "Publish your own stuff with Obsidian Publish"
 ---
+# Publish your own stuff with Obsidian Publish
 This is amazing. I'm just typing. 
 
 Then I hit the publish button.

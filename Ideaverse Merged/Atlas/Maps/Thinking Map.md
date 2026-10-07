@@ -8,8 +8,9 @@ related:
 created: 2023-08-18
 in:
   - "[[Ideaverse Merged/Atlas/Maps/Maps]]"
+title: "Thinking Map"
 ---
-
+# Thinking Map
 It's time to give **_"thinking"_** the space it deserves. Let's cultivate this inherently rich endeavor.
 
 My first stop for thinking is to the [[Ideaverse Merged/Atlas/Maps/Relate]] where I do what's easy. That means bouncing from note to note, developing them in a special way to maintain [[Ideaverse Merged/Atlas/Dots/Things/Flow]]. I keep the [[Ideaverse Merged/Atlas/Maps/Concepts]] handy because I believe a handful of core concepts influence our entire worldview in disproportionately powerful ways. These notes help me make leaps of insights while connecting new ideas to existing concepts.
@@ -35,7 +36,6 @@ Want more mind training?
 Always remember, one of the best prompting tools out there is the thesaurus. So when you want to both jumpstart and enrich your thinking, grab a thesaurus and go on a [[Word Excursion]].
 
 ## Definitions
-
 Let's define some overlapping conceptual categories:
 
 - **Concept**: A concept is a pattern, truth, or mechanism that has been given a name.
@@ -44,7 +44,6 @@ Let's define some overlapping conceptual categories:
 - [[Ideaverse Merged/Atlas/Dots/Things/Refraction Thinking]] is primarily for broadening perspective and deepening understanding. Great for reviewing, planning, empathizing, and meditating.
 
 ## Three thinking styles
-
 1. Top-down thinking
 2. [[Ideaverse Merged/Atlas/Dots/Things/Bottom-up thinking]]
 3. Middle-out thinking

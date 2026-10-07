@@ -1,3 +1,6 @@
+---
+title: "Tidbits MOC"
+---
 tags: #tidbits #MOC
 links: [[000 Index|Index]], [[050 Quotes MOC|Quotes]]
 

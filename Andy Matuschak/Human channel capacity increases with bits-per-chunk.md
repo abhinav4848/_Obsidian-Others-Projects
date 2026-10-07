@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zRTbHLYsFnL2hThAZL6tVqD
+title: "Human channel capacity increases with bits-per-chunk"
 ---
 # Human channel capacity increases with bits-per-chunk
 One common workaround for [[Channel capacity of humans as information processors]] appears to be making a sequence of smaller observations, rather than a single complex absolute judgment. This only works if you can hold the sequence in your head, so it’s limited by your [[Span of working memory]]. Happily, [[Working memory span is mostly independent of item complexity]]. So you can increase your effective channel capacity by increasing the number of bits in each observed chunk ([[Chunks in human cognition]]).

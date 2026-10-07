@@ -4,8 +4,9 @@ up:
 related:
   - "[[Ideaverse Merged/Atlas/Maps/Recents]]"
 created: 2023-11-14
+title: "Recents Visualized"
 ---
- 
+# Recents Visualized
 Let's visually look at the last `15` notes modified in my ideaverse:
 
 ~~~~note-gallery     #           default | options

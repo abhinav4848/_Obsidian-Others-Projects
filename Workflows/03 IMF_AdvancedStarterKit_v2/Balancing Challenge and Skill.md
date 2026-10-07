@@ -1,3 +1,6 @@
+---
+title: "Balancing Challenge and Skill"
+---
 # Balancing Challenge and Skill
 Conceptually, getting into flow requires [[Workflows/03 IMF_AdvancedStarterKit_v2/Balancing Challenge and Skill]]. It's the meta-meta-skill of creating the conditions of flow.
 

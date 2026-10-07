@@ -1,5 +1,8 @@
+---
+URL: "https://notes.andymatuschak.org/z7JRyqSwVbW2a8U44w2RkR6"
+title: "Complex ideas may be hard to learn in part because their components overflow working memory"
+---
 # Complex ideas may be hard to learn in part because their components overflow working memory
-
 Ideas typically build on other ideas. Some directly combine a few prior insights; others might be difficult to express without special notation or terminology. When an idea has few dependencies (low [[Element interactivity]]), you can introduce them all, then immediately express the idea: green means go; red means go; a green or red stoplight pointing right means you can or can’t turn right.
 
 But if you’ve just been introduced to a zoo of new terms, you probably won’t absorb much from a sentence which uses many of those terms at once. You can’t juggle all those terms in working memory at once, and you haven’t had time to encode any of them more durably. And so: [[Memory augmentation may make it easier to learn complex topics by decreasing working memory load]].

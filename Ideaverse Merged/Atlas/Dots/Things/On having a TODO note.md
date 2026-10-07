@@ -3,7 +3,9 @@ up:
   - "[[Ideaverse Merged/Ideaverse Map]]"
 related: []
 created: 2020-06-01
+title: "On having a TODO note"
 ---
+# On having a TODO note
 Usually, the people who are "Daily Notes" practitioners also like tagging their entries with `[[TODO]]` or `#task`. I recommend using a different app to fully manage your projects and tasks.
 
 But if you won't be deterred, here is a way to handle tasks in markdown.

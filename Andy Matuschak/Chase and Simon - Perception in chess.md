@@ -1,6 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zS64tidr4brqfuEo5xs2ySy
+title: "Chase and Simon - Perception in chess"
 ---
+# Chase and Simon - Perception in chess
 Chase, W. G., & Simon, H. A. (1973). Perception in chess. _Cognitive Psychology_, _4_(1), 55–81.
 
 ---

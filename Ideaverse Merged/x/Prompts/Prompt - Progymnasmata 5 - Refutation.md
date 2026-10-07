@@ -4,7 +4,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Maps/Prompts]]"
 related: []
 created: 2023-10-17
+title: "Prompt - Progymnasmata 5 - Refutation"
 ---
+# Prompt - Progymnasmata 5 - Refutation
 The Progymnasmata (pronounced pro-gym-nas'-ma-ta) were a set of basic exercises intended to prepare students of rhetoric for creating and performing. 
 
 The Progymnasmata started in Ancient Greece, where pro means "before" and gymnasmata means "exercises". So basically, these are *warmups*. Or as we might also find ourselves saying, prompts. 

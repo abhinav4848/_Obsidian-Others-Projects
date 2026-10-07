@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zCQYRYZTQRmrR4bFGCzCMkR?stackedNotes=zF9BD4B7W9MaknXXn3Uhvox&stackedNotes=zVdb1Ku6fzVAFP5A6BhBbWR
+title: "Moore method"
 ---
 # Moore method
 An [[Inquiry-based learning]] method used by mathematician Robert Lee Moore. Students generally aren’t allowed to read any texts on the subject [1]; instead, they’re given basic axioms and definitions, and asked to find proofs themselves for the sequence of theorems which might otherwise be presented in lecture. Lectures are absent; during class meetings, students are asked to prove the theorems they’re assigned. Students are meant to work alone[2], and they prove theorems in class individually, rotating only when one student can’t complete the proof.

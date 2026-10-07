@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zSoTbuyrXFnDHibaSeEzPRx
+title: "Adjunct questions"
 ---
 # Adjunct questions
 Questions inserted into a reading experience. These may be presented either before or after the content being tested. When placed after, these produce the [[Testing effect]] on the specific information being tested, as one would expect. But they also produce a more general effect: [[Adjunct questions improve comprehension of related but untested content]]. And there appear to be a [[Pre-testing effect]].

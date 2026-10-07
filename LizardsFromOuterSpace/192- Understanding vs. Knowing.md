@@ -1,3 +1,7 @@
+---
+title: "192- Understanding vs. Knowing"
+---
+# 192- Understanding vs. Knowing
 Understanding vs. Knowing: in life it is useful to understand (ba dum tish) ([[186- Understanding]]) the distinction between understanding and knowing. I learned this distinction through the writings of Richard Feynman. He uses a couple different examples to illustrate it:
 
 - His Bird Story

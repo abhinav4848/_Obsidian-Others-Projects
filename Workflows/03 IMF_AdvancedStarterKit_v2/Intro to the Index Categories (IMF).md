@@ -1,4 +1,7 @@
-
+---
+title: "Intro to the Index Categories (IMF)"
+---
+# Intro to the Index Categories (IMF)
 tags: #pkm #IMF
 links: [[IMF START]], [[IMF MOC]]
 

@@ -5,7 +5,9 @@ up:
 related:
   - "[[Ideaverse Merged/x/Prompts/Prompt - Thought Enriching Machine]]"
 created: 2023-10-17
+title: "Prompt - Thought Unpacking Machine"
 ---
+# Prompt - Thought Unpacking Machine
 This relates to [[Thought Unpacking]] in Nick's private notes.
 
 ---

@@ -4,7 +4,9 @@ up:
 related:
   - "[[Ideaverse Merged/Atlas/Dots/Things/On the process of note-making]]"
 created: 2015-02-20
+title: "2015-02-20 Habit Concepts and Theory"
 ---
+# 2015-02-20 Habit Concepts and Theory
  **"Neurons that fire together wire together” Hebb's Rule**
  
 **"Passing mental states become lasting neural traits” maybe Rick Hanson**

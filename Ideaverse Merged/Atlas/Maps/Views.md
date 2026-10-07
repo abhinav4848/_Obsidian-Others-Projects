@@ -4,8 +4,9 @@ related:
 created: 2024-09-02
 version:
   - "1.5"
+title: "Views"
 ---
-
+# Views
 "Views" are maps whose main purpose is ***to show auto-updating, dynamic results of custom searches.*** 
 
 

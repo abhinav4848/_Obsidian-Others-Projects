@@ -1,3 +1,7 @@
+---
+title: "193- Meaning"
+---
+# 193- Meaning
 # Meaning
 is when information has acquired significance through its utility. This happens when you’ve connected the information to other pieces of information such that it. 
 

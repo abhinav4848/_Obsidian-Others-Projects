@@ -15,11 +15,9 @@ ROAR:
 ROARrank: 4
 ROARdetails: email about my sci-fi idea
 image: https://i1.wp.com/shoppeblack.us/wp-content/uploads/2020/03/1_Trsx8jHsPkE6T-OtFg-0Xw.png?fit=1400%2C870&ssl=1
+title: "Octavia Butler"
 ---
-
-
-
-
+# Octavia Butler
 # Research
 [Octavia Butler's "Essentials of Success" - by Jillian Hess](https://jillianhess.substack.com/p/octavia-butlers-essentials-of-success).
 [How to Write a Bestselling Novel: 4 Tips from Octavia Butler's Notes](https://jillianhess.substack.com/p/how-to-write-a-bestselling-novel).

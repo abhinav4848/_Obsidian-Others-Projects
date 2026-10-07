@@ -1,21 +1,15 @@
 ---
 URL: https://notes.andymatuschak.org/z59PYkSdPeznr95fco4GRQx?stackedNotes=z4m9Gat7zi9YUmZzQRR7pwt&stackedNotes=zTzb8spnoqzxs3mkvPKprmn
+title: "Mnemonic medium prompts are interleaved into the reading experience"
 ---
 # Mnemonic medium prompts are interleaved into the reading experience
-
-Type of Link: 📝 Article
-Author: Andy Matuschak
-Completion Status: Started
-Last edited time: January 18, 2024 7:55 PM
-
 # **Mnemonic medium prompts are interleaved into the reading experience**
-
-A [Quizlet](https://notes.andymatuschak.org/zNeYdw8ag4qijewtZ3BEc9J)-style implementation of the idea described in [The mnemonic medium supplies expert-authored prompts to remove the burden of prompt-writing](https://notes.andymatuschak.org/zPkuLaEFFPqkcWpLcPzbW6i) would deliver the prompts separately from the text itself. For instance, perhaps you read a text, and then some days later you’re quizzed on its contents. Or perhaps the prompts are supplied at the end of an article, after you’ve read it at all. Our design for the [Mnemonic medium](https://notes.andymatuschak.org/zKPv6qkSErdRGqyryvgS2wS) differs from these approaches by interleaving the prompts into the reading experience at a finer granularity.
+A [Quizlet](https://notes.andymatuschak.org/zNeYdw8ag4qijewtZ3BEc9J)-style implementation of the idea described in [The mnemonic medium supplies expert-authored prompts to remove the burden of prompt-writing](https://notes.andymatuschak.org/zPkuLaEFFPqkcWpLcPzbW6i) would deliver the prompts separately from the text itself. For instance, perhaps you read a text, and then some days later you’re quizzed on its contents. Or perhaps the prompts are supplied at the end of an article, after you’ve read it at all. Our design for the [[Andy Matuschak/Mnemonic medium|Mnemonic medium]] differs from these approaches by interleaving the prompts into the reading experience at a finer granularity.
 
 Some consequences (potential, intended, observed):
 
 - [Asking people questions while they read a text improves performance on untested contents](https://notes.andymatuschak.org/z4m9Gat7zi9YUmZzQRR7pwt)
-- [The mnemonic medium may push readers to read more slowly and attentively](https://notes.andymatuschak.org/z5aepnaCuu6XiPqB4LgBDkH)
+- [[Andy Matuschak/The mnemonic medium may push readers to read more slowly and attentively|The mnemonic medium may push readers to read more slowly and attentively]]
 - [The mnemonic medium gives structure to normally-atomized spaced repetition memory prompts/Interleaved practice may help anchor the prompts in the narrative](https://notes.andymatuschak.org/The_mnemonic_medium_gives_structure_to_normally-atomized_spaced_repetition_memory_prompts%2FInterleaved_practice_may_help_anchor_the_prompts_in_the_narrative)
 - [Mnemonic medium prompts signal what the author finds important](https://notes.andymatuschak.org/zLZ3jitQiJenfFnnb33vNKo)
 - [Interleaved mnemonic medium prompts promote a feeling of safety](https://notes.andymatuschak.org/zWDbxJ2Ffc2EtFqvXMZEkte)

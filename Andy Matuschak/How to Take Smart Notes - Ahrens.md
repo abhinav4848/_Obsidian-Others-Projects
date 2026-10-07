@@ -1,3 +1,6 @@
+---
+title: "How to Take Smart Notes - Ahrens"
+---
 # How to Take Smart Notes - Ahrens
 Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
 
@@ -6,7 +9,6 @@ A core book on [[§Note-writing systems.md|§Note-writing systems]] practice. 
 ---
 
 # Advice on associations
-
 Keywords should be sparse and tightly curated. They’re meant mostly as a “jumping-off” point: the connections between notes will be the primary navigational device. [[Indexed references vs. tags]] [[Tags are an ineffective association structure]] 
 
 - c) Making sure you will be able to find this note later by either linking to it from your index or by making a link to it on a note that you use as an entry point to a discussion or topic and is itself linked to the index.
@@ -47,7 +49,6 @@ Limitations of memory
 - “Selection is the very keel on which our mental ship is built. And in this case of memory its utility is obvious. If we remembered everything, we should on most occasions be as ill off as if we remembered nothing. It would take as long for us to recall a space of time as it took the original time to elapse, and we should never get ahead with our thinking.” (William James 1890, 680).
 
 # Notes help you think accurately
-
 Writing while we read is a great way to monitor understanding: it’s hard to summarize something you don’t understand. The additional step of making associations and integrating that writing with prior notes makes this effect even more powerful. [[Writing forces sharper understanding]]
 
 - If we try to fool ourselves here and write down incomprehensible words, we will detect it in the next step when we try to turn our literature notes into permanent notes and try to connect them with others.
@@ -67,7 +68,6 @@ It’s hard to see what’s *not* said in a text. By integrating our reading o
 - Experienced academic readers usually read a text with questions in mind and try to relate it to other possible approaches, while inexperienced readers tend to adopt the question of a text and the frames of the argument and take it as a given. What good readers can do is spot the limitations of a particular approach and see what is not mentioned in the text.
 
 # People inappropriately ignore note-taking
-
 Most people are bad at writing notes, and they don’t know it, because the feedback is indirect and delayed. [[Note-writing practices are generally ineffective]]
 
 - There is another reason that note-taking flies mostly under the radar: We don’t experience any immediate negative feedback if we do it badly.
@@ -77,7 +77,6 @@ Writing notes feels like a huge time imposition, but that’s in comparison to a
 - And while writing down an idea feels like a detour, extra time spent, not writing it down is the real waste of time, as it renders most of what we read as ineffectual.
 
 # Notes help make creative insights happen
-
 People fixate on writing books and papers, but those things don’t emerge fully formed: they’re the synthesis of lots of detailed thinking on those topics.
 
 - focus lies almost always on the few exceptional moments where we write a lengthy piece, a book, an article or, as students, the essays and theses we have to hand in.
@@ -93,8 +92,7 @@ The note archive is a safe place for unjustified inklings to grow.
 - Steven Johnson, who wrote an insightful book about how people in science and in general come up with genuine new ideas, calls it the “slow hunch.” As a precondition to make use of this intuition, he emphasises the importance of experimental spaces where ideas can freely mingle (Johnson 2011). A laboratory with open-minded colleagues can be such a space, much as intellectuals and artists freely discussed ideas in the cafés of old Paris. I would add the slip-box as such a space in which ideas can mingle freely, so they can give birth to new ones.
 
 # Morale while writing
-
-Note-taking practices can turn writing into a predictable, actionable process (“start from abundance”). [Executable strategy for writing](https://notes.andymatuschak.org/zCknixwETdFm1MWdWPwMcXs)
+Note-taking practices can turn writing into a predictable, actionable process (“start from abundance”). [[Andy Matuschak/Executable strategy for writing|Executable strategy for writing]]
 
 - To get a good paper written, you only have to rewrite a good draft; to get a good draft written, you only have to turn a series of notes into a continuous text. And as a series of notes is just the rearrangement of notes you already have in your slip-box, all you really have to do is have a pen in your hand when you read.
 
@@ -111,7 +109,7 @@ Zettelkasten is a great release valve for editing. Material which isn’t essent
 
 - One of the most difficult tasks is to rigorously delete what has no function within an argument – “kill your darlings.”[42](https://notes.andymatuschak.org/zB74H9CuWrosEuqve7jZyCo?stackedNotes=zRbqwbnhmVdfLtKxMCibMoX&stackedNotes=zH7AVUkqYYK7xmoAn8PTpAV) This becomes much easier when you move the questionable passages into another document and tell yourself you might use them later.
 
-Notes are a way to focus on “inputs, not outputs” that isn’t just about time. [Executable strategy for writing](https://notes.andymatuschak.org/zCknixwETdFm1MWdWPwMcXs) [[Evergreen note-writing as fundamental unit of knowledge work]]
+Notes are a way to focus on “inputs, not outputs” that isn’t just about time. [[Andy Matuschak/Executable strategy for writing|Executable strategy for writing]] [[Evergreen note-writing as fundamental unit of knowledge work]]
 
 sense of ease
 
@@ -126,12 +124,10 @@ Litmus test: all that matters is writing. All activities should lead to writing
 ---
 
 # Unsorted
-
 - Abstraction is also the key to analyse and compare concepts, to make analogies and to combine ideas; this is especially true when it comes to interdisciplinary work (Goldstone and Wilensky 2008). Being able to abstract and re-specify ideas is, again, only one side of the equation. It is not good for anything if we don’t have a system in place that allows us to put this into practice. Here, it is the concrete standardization of notes in just one format that enables us to literally shuffle them around, to add one idea to multiple contexts and to compare and combine them in a creative way without losing sight of what they truly contain.
 - We don’t need to worry about the question of what to write about because we have answered the question already – many times on a daily basis. Every time we read something, we make a decision on what is worth writing down and what is not.
 - It is the one decision in the beginning, to make writing the mean and the end of the whole intellectual endeavour, that changed the role of topic-finding completely. It is now less about finding a topic to write about and more about working on the questions we generated by writing.
 - That is why we need to elaborate on it. But elaboration is nothing more than connecting information to other information in a meaningful way. The first step of elaboration is to think enough about a piece of information so we are able to write about it. The second step is to think about what it means for other contexts as well.
 
 # Reference
-
 1.

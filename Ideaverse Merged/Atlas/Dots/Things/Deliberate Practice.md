@@ -3,7 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Maps/Habits Map]]"
 related: []
 created: 2011-06-01
+title: "Deliberate Practice"
 ---
+# Deliberate Practice
  *Train to improve.*
 
 ## Sources
@@ -25,7 +27,6 @@ people:: D. Memmert, in [Encyclopedia of Creativity (Second Edition)](https://ww
 URL:: [Link](https://www.sciencedirect.com/science/article/pii/B9780123750389002077)
 
 #### Deliberate Practice
-
 The term ‘deliberate practice’ refers to targeted and task-centered training programs based on instructions.
 
 ---

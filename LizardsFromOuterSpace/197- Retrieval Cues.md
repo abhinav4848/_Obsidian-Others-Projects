@@ -1,3 +1,7 @@
+---
+title: "197- Retrieval Cues"
+---
+# 197- Retrieval Cues
 ## Retrieval Cues
 are pieces of stimuli you encounter that trigger the retrieval of a memory. Many different stimuli can serve as retrieval cues. A very unique smell may take you back to a memorable episode where last encountered that smell. This can also happen if there was a very specific smell during a meaningful event in your life. Music can often do this, listening to certain songs that I haven’t heard in a very long time bring up emotions I had experienced during that period of my life.
 

@@ -5,8 +5,9 @@ related: []
 created: 2023-08-19
 in: 
 - "[[Ideaverse Merged/Atlas/Maps/Maps]]"
+title: "Language MOC"
 ---
-
+# Language MOC
 > [!NOTE]- Some links and content in this note have been removed.
 > Because this is a vertical slice of my actual PKM system, I can't include everything in this vault and I left out some notes and material for ease of navigation and understanding the concepts (rather than getting lost in the knowledge) as well as for privacy. 
 >  

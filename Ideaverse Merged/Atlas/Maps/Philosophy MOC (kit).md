@@ -5,8 +5,9 @@ related: []
 created: 2023-08-19
 in: 
 - "[[Ideaverse Merged/Atlas/Maps/Maps]]"
+title: "Philosophy MOC (kit)"
 ---
-
+# Philosophy MOC (kit)
 > [!NOTE]+ Notes on this note
 > - Content and links have been removed.
 > - It's *okay* to have incomplete notes! They can still provide valuable scaffolding for me to hang ideas on in the future. That's what I'm doing here.
@@ -27,7 +28,6 @@ in:
 - [[Montaigne]]
 
 ### Chronological 
-
 *Add as needed*
 **5th Century BC**
 - 490 – 420 BC - [[Protagoras]] - Sophist
@@ -41,13 +41,10 @@ in:
 
 **3rd Century BC**
 - 
-
 **2nd Century BC**
 - 
-
 **1st Century BC**
 - 
-
 **1st Century AD**
 100 AD (get more accurate date) [[Juvenal]] - Roman poet
 

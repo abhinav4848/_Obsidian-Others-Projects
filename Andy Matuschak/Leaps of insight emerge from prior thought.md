@@ -1,19 +1,15 @@
 ---
 URL: https://notes.andymatuschak.org/zR6RRbCfY5rFkiimFnaJZKB?stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zVeajFC9i9mrpLhZ5ScXumn
+title: "Leaps of insight emerge from prior thought"
 ---
+# Leaps of insight emerge from prior thought
 # Leaps of insight emerge from prior thought.
-
-Type of Link: 📝 Article
 Category talked about: Note taking
 Shelving category: archive
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
 
 See: [[Ideaverse Merged/Atlas/Dots/Things/Idea Emergence (defn)]]
 
 # Leaps of insight emerge from prior thought
-
 When looking at someone else’s stroke of genius, you see only the end product. You don’t see how much kindling was burnt before that sudden realization was possible. In part, that’s because even our own epiphanies don’t feel like they emerge as a natural consequence of prior efforts—but they do!
 
 Leaps of insight depend on having accumulated lots of prior thought on those topics. Sometimes that accumulation happens entirely within our subconscious (our “subconscious back burners,” as May-Li would say), but it’s helpful to design our external cognitive systems such that our day-to-day noodling can accrete (see [[Knowledge work should accrete]]).
@@ -23,7 +19,6 @@ One practical implication of this notion: [[Evergreen note-writing as fundament
 ---
 
 ## References
-
 Ahrens, S. (2017). _How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers_.
 
 > focus lies almost always on the few exceptional moments where we write a lengthy piece, a book, an article or, as students, the essays and theses we have to hand in.

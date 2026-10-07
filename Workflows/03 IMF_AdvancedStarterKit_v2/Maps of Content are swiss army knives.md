@@ -1,3 +1,6 @@
+---
+title: "Maps of Content are swiss army knives"
+---
 tags: #MOC #lists #concepts #PKM
 links: [[IMF START]], [[IMF MOC]]
 
@@ -66,7 +69,6 @@ For more avenues to re-expanded my narrowed perspectve, try to revisit the [[Wor
 
 ---
 ## (Example 3) By Different Categories 
-
 #### Goal-Oriented, Fairly Actionable and Practical Concepts
 - [[Workflows/03 IMF_AdvancedStarterKit_v2/OODA Loop]]
 - [[Workflows/03 IMF_AdvancedStarterKit_v2/Forcing Function]] 

@@ -10,8 +10,9 @@ in:
 obsidianUIMode: preview
 cssclasses:
   - wide-page
+title: "Relate"
 ---
-
+# Relate
 Your **Relate** note is a place of joy—without expectations or obligations.
 
 This will be a head-scratcher for a culture obsessed with tasks, but when you start giving your thoughts the honor they deserve, you start to have better and better thoughts!

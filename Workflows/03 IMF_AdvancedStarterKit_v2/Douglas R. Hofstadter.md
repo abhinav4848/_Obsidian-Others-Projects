@@ -1,3 +1,6 @@
+---
+title: "Douglas R. Hofstadter"
+---
 tags: #people 
 
 # Douglas R. Hofstadter

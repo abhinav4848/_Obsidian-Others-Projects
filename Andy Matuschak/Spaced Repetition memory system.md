@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zKGjQtsTKgscAoq271ZzKqw?stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=z2D1qPwddPktBjpNuwYFVva
+title: "Spaced Repetition memory system"
 ---
 # Spaced Repetition memory system
 A spaced-repetition memory system combines the [[Testing effect]] and the [[Spacing effect]]  to enable efficient memorization of many thousands of facts ([[Spaced repetition memory systems are extremely efficient]]). Some people also use them for a broader set of tasks (see below). [[Spaced repetition memory systems make memory a choice]], but they’re not just for rote facts: [[Spaced repetition memory systems can be used to develop conceptual understanding]].
@@ -9,10 +10,10 @@ The first consumer system of this kind was [[Supermemo]], created by [[Piotr W
 - Related systems and possibilities:
     - [[Differences in my approach to spaced repetition systems]]
     - Implementations:
-    - Traditional: [Supermemo](https://notes.andymatuschak.org/z2oUypiCEtPaDqNjbUsawCj), [Mnemosyne](https://notes.andymatuschak.org/zJJX5DtJFGkgWTtPmkgR3ih), [Anki](https://notes.andymatuschak.org/z9HA7vGGZbu1QBUKc41eYm1)
+    - Traditional: [[Andy Matuschak/supermemo|Supermemo]], [Mnemosyne](https://notes.andymatuschak.org/zJJX5DtJFGkgWTtPmkgR3ih), [Anki](https://notes.andymatuschak.org/z9HA7vGGZbu1QBUKc41eYm1)
     - Unusual variations:
         - [[Mnemonic medium]]
-        - [Execute Program](https://notes.andymatuschak.org/zSsjk5UvNPGrYp8B6DEFCMS)
+        - [[Andy Matuschak/Execute Program|Execute Program]]
         - [RemNote](https://notes.andymatuschak.org/zvZiz35n9aN8RJSEoa4yE5)
         - [Mochi](https://notes.andymatuschak.org/zMxXQHmTuLN9mKA46RPpqJs)
         - [[Readwise]]
@@ -33,9 +34,9 @@ The first consumer system of this kind was [[Supermemo]], created by [[Piotr W
     - [[Many people view memory as unimportant to deep creative work]]
     - [[Writing good spaced repetition memory prompts is hard]]
     - [[Important attributes of good spaced repetition memory prompts]]
-    - [Studying another person’s spaced repetition memory prompts is usually ineffective](https://notes.andymatuschak.org/zAPNwLWboaoymgEAPyUwjnT)
+    - [[Andy Matuschak/Spaced repetition memory prompts alone are a poor communications medium|Studying another person’s spaced repetition memory prompts is usually ineffective]]
     - [The limiting factor in spaced repetition system capacity is writing enough good prompts](https://notes.andymatuschak.org/z2ySBuuMjHwuewNBi65YmXD)
-    - [Using machine learning to generate good spaced repetition prompts from explanatory text](https://notes.andymatuschak.org/zBjh9jUahGSm7VpFtEjvKqT)
+    - [[Andy Matuschak/Using machine learning to generate good spaced repetition prompts from explanatory text|Using machine learning to generate good spaced repetition prompts from explanatory text]]
     - [[The critical thing to optimize in spaced repetition memory systems is emotional connection to the review session and its contents]]
     - [[Memory system practice sessions are too disconnected from activities you actually care about]] 
     - [Regular spaced repetition memory practice is an onerous habit to adopt](https://notes.andymatuschak.org/z3DiwZKDuLxMV17mt2nWH7y)
@@ -64,7 +65,6 @@ The first consumer system of this kind was [[Supermemo]], created by [[Piotr W
 ---
 
 # References
-
 1. Ali Abdaal
     
     [How to Study for Exams - Spaced Repetition | Evidence-based revision tips](https://youtu.be/Z-zNHHpXoMM?t=64)

@@ -9,7 +9,9 @@ tags:
   - note/develop🍃
 rank: 4.5
 says: I'll stay or go
+title: "Use it or Lose it"
 ---
+# Use it or Lose it
 This is another example of where the [[Ideaverse Merged/Atlas/Dots/Things/Selfish Gene]] is acting. Since [[Ideaverse Merged/Atlas/Dots/Statements/Habit formation provides an evolutionary advantage]] it's always adjusting to what we are up to. One of the fundamental truism emerges once again:
 
 ![[Ideaverse Merged/Atlas/Dots/Statements/It's circular but true, we become what we do#^f8ca0f]]

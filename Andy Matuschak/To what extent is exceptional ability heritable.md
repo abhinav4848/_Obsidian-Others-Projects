@@ -1,6 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/z3CX38AdFzNGcujEwctVj5X?stackedNotes=z3QKv5mY5mprx5hMJdkHefG&stackedNotes=zF99FY5PtnuKnn8JyQ4qSD8
+title: "To what extent is exceptional ability heritable"
 ---
+# To what extent is exceptional ability heritable
 # To what extent is exceptional ability heritable?
 Nature or nurture?
 

@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zEhGSbBPbgmh7Ce1VQS2RPk?stackedNotes=zQ9BWTY2JK6eJvCSqupc7UF&stackedNotes=zJxSaJaCeXZsY7pH2Q6t89t
+title: "Enacted experiences can create intense personal connection to authored targets"
 ---
 # Enacted experiences can create intense personal connection to authored targets
 The creator of an [[Enacted experience]] can induce intense personal connection to a specific experience they have authored. One important consequence: [[Enacted experiences amplify the power of narrative]].

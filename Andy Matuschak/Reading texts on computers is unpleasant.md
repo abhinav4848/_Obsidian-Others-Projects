@@ -1,17 +1,17 @@
 ---
 URL: https://notes.andymatuschak.org/z2bSwDuxY2Jbv1ntLKB3SL1
+title: "Reading texts on computers is unpleasant"
 ---
 # Reading texts on computers is unpleasant
-
 > The real growth in the adoption of e-books will happen when the traditional book is deconstructed and reconstructed (textually, behaviourally and commercially) in order to create new paradigms for storing and delivering content in electronic forms. 
 > Carden, 2008
 
 - [[Continuous-scroll digital reading uncomfortably disrupts object permanence]]
-- [Poor performance disrupts nonlinear reading in digital reading](https://notes.andymatuschak.org/zVx3t4nDyk9tyuWQiBzsSDT)
-- [Maintaining multiple reading positions is difficult when reading digitally](https://notes.andymatuschak.org/zJ4k4feCLspoCid7C4mzmvL)
-- [Parallel reading is mostly impossible in digital reading](https://notes.andymatuschak.org/zBeBbzwU8LAyi2D5jqBJpS) 
-- [Few digital reading environments support marginal notes](https://notes.andymatuschak.org/zGsRWkonFv1KGAsWwiYA3he)
-- [Digital annotation is too formal](https://notes.andymatuschak.org/zMHusNNzg8DveY5HJFbh1RU)
+- [[Andy Matuschak/Poor performance disrupts nonlinear reading in digital reading|Poor performance disrupts nonlinear reading in digital reading]]
+- [[Andy Matuschak/Maintaining multiple reading positions is difficult when reading digitally|Maintaining multiple reading positions is difficult when reading digitally]]
+- [[Andy Matuschak/Parallel reading is mostly impossible in digital reading|Parallel reading is mostly impossible in digital reading]] 
+- [[Andy Matuschak/Few digital reading environments support marginal notes|Few digital reading environments support marginal notes]]
+- [[Andy Matuschak/Digital annotation is too formal|Digital annotation is too formal]]
 - [[Backlit displays limit computers to interiors]] 
 
 This is an important problem because [Mass adoption of written media with novel cognitive supports requires mass adoption of reading on computers](https://notes.andymatuschak.org/zVBFE2LDCotxGFucwap8rRt) (or else we need[[ Methods for bringing dynamic mediums to physical reading contexts]]). 

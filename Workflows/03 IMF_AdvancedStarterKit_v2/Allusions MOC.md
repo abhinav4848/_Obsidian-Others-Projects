@@ -1,9 +1,12 @@
+---
+title: "Allusions MOC"
+---
+# Allusions MOC
 tags: #metaphors #allusions
 links: [[055 Figures MOC|Figures]]
  
 ---
 # Allusions
-
 ### Greek Allusions
 Many of the words we use today are actually allusions to historical figures and Greek Gods. Here are just a few examples:
 Greek
@@ -31,7 +34,6 @@ Like other uses of simile, this example functions to help readers visualize the 
 - Volcanoes – originated from Vulcan, the Roman god of fire.
 
 ### Some Allusions from Literature
-
 - Babbitt – a self-satisfied person concerned chiefly with business and middle-class ideals, like material success. Comes from Babbitt by Sinclair Lewis.
 - Cinderella – one who gains affluence or recognition after being treated poorly.
 - Don Juan – a libertine, profligate, a man obsessed with women.

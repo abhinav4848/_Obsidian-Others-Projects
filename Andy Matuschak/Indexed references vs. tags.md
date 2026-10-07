@@ -1,3 +1,6 @@
+---
+title: "Indexed references vs. tags"
+---
 # Indexed references vs. tags
 Tagging is common in contemporary information systems, but [[Tags are an ineffective association structure]]. One more effective historical antecedent is the *index* in publishing.
 

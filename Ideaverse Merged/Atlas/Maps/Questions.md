@@ -6,7 +6,9 @@ in:
 created: 2023-11-26
 tags:
   - map/view
+title: "Questions"
 ---
+# Questions
  This note collects all notes where the `in` property says `Questions`.
 
 > [!Question]+ ## Questions

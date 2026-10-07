@@ -5,7 +5,9 @@ related: []
 created: 2023-08-19
 in: 
 - "[[Ideaverse Merged/Atlas/Maps/Maps]]"
+title: "Places MOC"
 ---
+# Places MOC
 Welcome to the Places MOC. It is the most under-developed major category for me, but I value having a "map" for "places", it's rather apt.
 
 > [!NOTE]- Some links and content in this note have been removed.

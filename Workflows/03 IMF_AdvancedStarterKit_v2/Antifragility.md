@@ -1,3 +1,6 @@
+---
+title: "Antifragility"
+---
 # Antifragility
 *"If you strike me down I shall become more powerful than you can possibly imagine."* 
 - Getting **stronger from stressors**, more settled from shaking, more adaptable from attacks

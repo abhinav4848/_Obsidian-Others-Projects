@@ -1,3 +1,7 @@
+---
+title: "186- Understanding"
+---
+# 186- Understanding
 ## Understanding
 more broadly is the process of acquiring knowledge about a topic such that you can make predictions about it.
 

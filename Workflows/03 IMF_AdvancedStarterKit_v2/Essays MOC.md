@@ -1,3 +1,7 @@
+---
+title: "Essays MOC"
+---
+# Essays MOC
 tags: #essays #blogs #MOC #blog
 links: [[060 Writings MOC|Writings]] 
 

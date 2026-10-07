@@ -7,7 +7,9 @@ tags:
 created: 2023-10-12
 cssclasses:
   - wide-page
+title: "People"
 ---
+# People
 This note collects all notes where the `in` property says `People`. The views provided focus on prominent people so you can get plenty of ideas on how to do cultural sensemaking.
 
 Ideaverse Pro also comes with [[Ideaverse Merged/Atlas/Maps/People ROARs]] for managing your "Reach-Outs And Replies".

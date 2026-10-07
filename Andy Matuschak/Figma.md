@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zSL87LuijMXkMput8dd1f61?stackedNotes=zXo7vt8C47Wj8Wh2ZNfozZ&stackedNotes=zF6yhcVZ2yT7xpRQTWBzstB
+title: "Figma"
 ---
 # Figma
 - [[Figma is a surprisingly general-purpose infinite canvas]]

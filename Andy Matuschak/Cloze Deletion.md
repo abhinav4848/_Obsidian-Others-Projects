@@ -1,10 +1,8 @@
+---
+title: "Cloze Deletion"
+---
 # Cloze Deletion
-
-Type of Link: 📝 Article
 Category talked about: Learning, Note taking
-Author: Andy Matuschak
-Completion Status: Started
-Last edited time: January 18, 2024 7:55 PM
 
 **Cloze deletion** is a sentence in which an important keyword has been replaced with three dots: **[...]**.
 

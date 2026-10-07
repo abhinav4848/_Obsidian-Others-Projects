@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/z2q7U5ZvXeDxXD6vXAbZb9a?stackedNotes=zWzVw2VM4TPjpKXnHUfLaso&stackedNotes=zMmH3GBLKotdP4t1sdSvEQJ
+title: "Culturally default behaviors fill spare time with others’ ideas"
 ---
 # Culturally default behaviors fill spare time with others’ ideas
 Nature abhors a vacuum; contemporary culture abhors a silence. If I find myself with a spare moment, the culturally “default” thing to do seems to be to fill it—with reading or listening (books, articles, podcasts), with a friendly conversation, with an execution-oriented task. These activities may be restful and enjoyable, of course, but they often combine so that days or weeks may easily pass without a contiguous hour spent in deep thought about one’s own ideas. There’s always plenty more in the (reading, email, browser tab, to-do list) inbox.

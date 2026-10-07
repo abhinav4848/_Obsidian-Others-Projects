@@ -4,7 +4,9 @@ up:
 related:
   - "[[Ideaverse Merged/Atlas/Dots/Things/Evergreen notes]]"
 created: 2020-06-01
+title: "BOAT notes"
 ---
+# BOAT notes
 A BOAT note is a "Block of Atomic Thought" floating alone in an empty ocean... 🚤 ^706f5c
 
 - [[Ideaverse Merged/Atlas/Dots/Things/Evergreen notes]] are well-linked, fully formed members of society.

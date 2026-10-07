@@ -6,7 +6,9 @@ created: 2004-12-15
 evolved: 2021-01-01
 in: 
 - "[[Ideaverse Merged/Atlas/Maps/Maps]]"
+title: "My Virtues (starter)"
 ---
+# My Virtues (starter)
  *"Where attention goes, meaning grows.”* 
 
 That means, just by thinking of a virtue, you may just start to live more in line with it.

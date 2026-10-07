@@ -1,6 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zQeW31KRF1tk2zCPPGWc7UD
+title: "Salience of improvement drives skill development"
 ---
+# Salience of improvement drives skill development
 Everyone knows what virtuosic piano playing sounds like. When an amateur plays, he naturally compares himself to recording he’s heard—and may quite painfully feel how much improvement is possible! By contrast, when people make complex decisions, they usually lack a visceral sense that they’re an amateur. Military officers are trained to make strategic and decisive decisions, but that’s not particularly salient to a small business owner. Decision-making, as an abstract skill, wouldn’t appear on the “skill weightlifting” menu.
 
 I suspect that this is one key reason why [[People generally develop skills to a plateau and then stop]], and in particular why [[Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do]]. If you’ve never heard of a [[Spaced repetition memory system]], it’s probably not obvious that memory can be made a solved problem. If you’ve never heard of [[Andy Matuschak/Evergreen Notes]], it’s probably not obvious that [[Knowledge workers usually have no specific methods for developing ideas over time]].

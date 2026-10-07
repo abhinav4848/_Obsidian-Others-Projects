@@ -3,7 +3,9 @@ up:
   - "[[Ideaverse Merged/Ideaverse Map]]"
 related: []
 created: 2020-06-01
+title: "Set Up Your Home Note"
 ---
+# Set Up Your Home Note
 Your Home note is your north star, navigating you to your Maps of Content (MOCs). It keeps the entire system organized.
 
 1. Go to the [[Ideaverse Merged/Home]] note. Check it out. 

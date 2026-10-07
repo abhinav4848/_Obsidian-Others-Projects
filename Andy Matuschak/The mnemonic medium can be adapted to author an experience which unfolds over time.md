@@ -1,10 +1,11 @@
 ---
 URL: https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zKRrv2DmKp3VyDEp3oXrKXQ
+title: "The mnemonic medium can be adapted to author an experience which unfolds over time"
 ---
 # The mnemonic medium can be adapted to author an experience which unfolds over time
 [[The mnemonic medium keeps readers in contact with material over time]]. This means that texts in the [[Mnemonic medium]]—particularly the prompts—must be written to be consumed not only in some initial reading session, but on dozens of occasions over the following weeks and months ([[Timeful text]]).
 
-The initial instantiation of the medium in [Quantum Country](https://notes.andymatuschak.org/zNVVrcxnkjk7pCabiBvaic1) doesn’t do much with this, authorially. Readers see the same material every review session. Insofar as that material changes (e.g. via [Application prompts should vary when repeated](https://notes.andymatuschak.org/zSisETSpZBCgZH4rFNHRcnC)), the evolutions aren’t constructed with calendar time specifically in mind.
+The initial instantiation of the medium in [[Andy Matuschak/Quantum Country|Quantum Country]] doesn’t do much with this, authorially. Readers see the same material every review session. Insofar as that material changes (e.g. via [[Andy Matuschak/Application prompts should vary when repeated|Application prompts should vary when repeated]]), the evolutions aren’t constructed with calendar time specifically in mind.
 
 The medium creates a context in which readers repeatedly return to the author’s material. It should be possible to use that context to unfold an authored experience over time. This would be unusual in a mass medium: [[Mass mediums mostly lack an authored time dimension beyond a day]]
 

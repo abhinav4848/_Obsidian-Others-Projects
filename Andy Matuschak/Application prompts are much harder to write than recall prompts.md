@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zSisETSpZBCgZH4rFNHRcnC?stackedNotes=z3NDe3nR9hvqRqWWtvZdxe7&stackedNotes=z2EgZth9aD42QbGnFAggerw
+title: "Application prompts are much harder to write than recall prompts"
 ---
 # Application prompts are much harder to write than recall prompts
 [[The mnemonic medium can help readers apply what they’ve learned through simple application prompts]]. One challenge is that such prompts are much more taxing to write than recall prompts are.

@@ -1,3 +1,7 @@
+---
+title: "061- Match quality in learning"
+---
+# 061- Match quality in learning
 # Match Quality in Learning 
 **Match Quality in Learning** is the idea that you want new information being processed by someone to connect with their [prior knowledge](https://tll.mit.edu/guidelines/prior-knowledge) such that they are able to understand the new information being taught.
 

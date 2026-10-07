@@ -8,7 +8,9 @@ created: 2020-06-01
 tags:
   - note/connect🚤
 rank: 3
+title: "Method of Loci"
 ---
+# Method of Loci
 The Ancient Greeks and Romans filled their minds with tomes of knowledge that they could recall when needed. 
 
 The underlying principle was the "Method of Loci" (loci being Latin for "places"). 

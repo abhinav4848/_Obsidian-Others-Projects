@@ -1,10 +1,12 @@
+---
+title: "IMF Glossary"
+---
 tags: #pkm #IMF
 links: [[IMF START]], [[Benefits of IMF|Benefits]], [[Setting Up IMF|Setting Up]], [[IMF FAQ|FAQ]], [[IMF About|About]]
 
 
 ---
 # IMF Glossary
-
 ### IMF Terms
 - **[[000 Index|Index]]** - This is where it all begins. It's the most root-level of all your notes. It's the most meta. Nothing outranks the Index. 
 	- **[[Intro to the Index Categories (IMF)|Index Categories]]** - These are your 10 or so main categories of personal knowledge. Each category should have a link to a related Content Map.

@@ -1,6 +1,8 @@
 ---
 excalidraw-plugin: parsed
+title: "Triangulation-1a (Drawing)"
 ---
+# Triangulation-1a (Drawing)
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 

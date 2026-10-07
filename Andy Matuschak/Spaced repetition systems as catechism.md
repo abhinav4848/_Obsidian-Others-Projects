@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zAb9R6nYuTyN6PBC4rQY9aY?stackedNotes=zCQuiDgcNqncwB6pTvhdRWk&stackedNotes=zPtcwHaKGoLEZRzSoScYXha
+title: "Spaced repetition systems as catechism"
 ---
 # Spaced repetition systems as catechism
-
 In [James (“Brad”) DeLong - Quantum Country interview - 2019-11-22](https://notes.andymatuschak.org/zWtVMjiuF8n3tNEtyWGwXt4) (no access to link), Brad jokingly suggested that the [[Mnemonic medium]] represents a new kind of “catechism.” It’s an amusing comparison, but it’s also worth pondering seriously!
 
 A typical example from the [Westminster Shorter Catechism](https://www.ccel.org/creeds/westminster-shorter-cat.html) #external :

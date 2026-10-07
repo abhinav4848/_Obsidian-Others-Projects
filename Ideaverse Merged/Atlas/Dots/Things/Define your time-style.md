@@ -3,7 +3,9 @@ up:
   - "[[Ideaverse Merged/Atlas/Maps/Calendar]]"
 related: []
 created: 2023-08-21
+title: "Define your time-style"
 ---
+# Define your time-style
 What's your time-style? I'm a more of a "monthly note" kind of person, but many people love their Daily Note workflow. I will still randomly capture sparks in a daily note, but I like to work from a monthly note.
 
 In the [LYT Workshop](https://www.linkingyourthinking.com/), we go over:

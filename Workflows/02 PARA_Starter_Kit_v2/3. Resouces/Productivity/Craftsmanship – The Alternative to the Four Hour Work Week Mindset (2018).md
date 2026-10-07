@@ -1,3 +1,7 @@
+---
+title: "Craftsmanship – The Alternative to the Four Hour Work Week Mindset (2018)"
+---
+# Craftsmanship – The Alternative to the Four Hour Work Week Mindset (2018)
 http://dantawfik.com/craftsmanship-the-alternative-to-the-four-hour-work-week-mindset-1
 
 What is missed in all of this is the mindset of craftsmanship; that one’s expertise and deliberate focus on one’s craft is actually the primary driver for success and not some crapshoot of a series of hacks.

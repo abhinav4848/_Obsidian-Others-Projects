@@ -1,17 +1,12 @@
 ---
 URL: https://notes.andymatuschak.org/zB92WZZ5baBHKZPPbWMbYEv?stackedNotes=zPpaHZYKuBPyoDtgcsiZ9RV&stackedNotes=zYHvjdAHV8eKdtFh18LavmM
+title: "Programmable attention"
 ---
 # Programmable attention
-
-Type of Link: 📝 Article
 Category talked about: Learning
-Author: Andy Matuschak
-Completion Status: Finished
-Last edited time: January 18, 2024 7:55 PM
 
 # **Programmable attention**
-
-[Michael Nielsen](https://notes.andymatuschak.org/z4JuirVwUcoGL4wZ8dM6Los) has suggested that the review sessions of a [[Spaced Repetition memory system]] don’t just help you remember things: it orchestrates your repeated attention over time across hundreds of tiny tasks, too many to manage by hand. Systems like these are a form of *programmable attention*.
+[[Andy Matuschak/Original thought requires solitude|Michael Nielsen]] has suggested that the review sessions of a [[Spaced Repetition memory system]] don’t just help you remember things: it orchestrates your repeated attention over time across hundreds of tiny tasks, too many to manage by hand. Systems like these are a form of *programmable attention*.
 
 More generally, environments can be designed to modify their occupants attention by e.g. lowering executive overhead, mitigating unhelpful habits or biases, orchestrating the attention of multiple people in concert, distributing known-good attentional strategies, etc. You use simpler forms of programmable attention all the time: inboxes with snooze and alarm features; bots which remind you of things; [[Twitter is a kind of programmable attention]]. What is the core properties of such systems? What is their potential reach?
 
@@ -31,6 +26,6 @@ This term is evocative, but it has unfortunate connotations of roboticism and al
 Maybe it’s better to focus on finding great terms for specific instantiations of programmable attention—e.g. “coordinated attention” for ideas around collective intelligence, etc.
 
 # References
-2. The concept and term come from [Michael Nielsen](https://notes.andymatuschak.org/z4JuirVwUcoGL4wZ8dM6Los), in conversations from ~2018— I’ve forgotten the details, unfortunately.
+2. The concept and term come from [[Andy Matuschak/Original thought requires solitude|Michael Nielsen]], in conversations from ~2018— I’ve forgotten the details, unfortunately.
     Correspondence with Igor Dvorkin,
     > Coaching is paying someone to program your attention

@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zY3aLuvtsYS54QnymGKFGwg?stackedNotes=zU6upTVz687icnQegpMhLY8&stackedNotes=zLNcy2JiH3AGNaZjYkHzK9P
+title: "Executable books"
 ---
 # Executable books
 (See central discussion in [_How can we develop transformative tools for thought_; subsection “Executable books”](https://numinous.productions/ttft/#how-to-invent-hindu-arabic-numerals)) ==TODO== #external 

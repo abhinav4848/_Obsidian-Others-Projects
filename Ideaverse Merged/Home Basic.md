@@ -6,7 +6,9 @@ in:
 rank: 5
 version:
   - "1.5"
+title: "Home Basic"
 ---
+# Home Basic
  Your launchpad and home base. That's here. That's **home**.
 
 - I want to...[[Ideaverse Merged/Atlas/Maps/Add]] ideas.

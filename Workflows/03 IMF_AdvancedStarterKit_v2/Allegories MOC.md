@@ -1,3 +1,7 @@
+---
+title: "Allegories MOC"
+---
+# Allegories MOC
 tags: #allegories #koans #intuitionPumps 
 links: [[055 Figures MOC|Figures]]
 

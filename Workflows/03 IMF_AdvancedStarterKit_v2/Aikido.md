@@ -1,3 +1,6 @@
+---
+title: "Aikido"
+---
 # Aikido
 There is an art to handling self-perpetuating aggressiveness. Aikido is great at deflecting and dissipating an attacker's energy. [Adding the word Hormesis as a test]
 

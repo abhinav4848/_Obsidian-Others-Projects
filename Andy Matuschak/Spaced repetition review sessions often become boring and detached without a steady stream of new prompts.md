@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zgpG2pyVtsVgvoXTj1dfDU
+title: "Spaced repetition review sessions often become boring and detached without a steady stream of new prompts"
 ---
 # Spaced repetition review sessions often become boring and detached without a steady stream of new prompts
-
 Daily practice with a [[Spaced repetition memory system]] should feel vital, relevant. When one hasn’t added many new prompts in a while, the daily review sessions begin to feel stuck in the past, disconnected from what you’re thinking about right now. This appears to be a common failure mode for new users, who add many new prompts at once in a fit of initial enthusiasm, then feel bored when they’re still reviewing those same prompts (and no others) months later.
 
 ---

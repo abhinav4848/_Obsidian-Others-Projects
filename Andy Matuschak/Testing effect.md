@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/zTpJdbe6ub7uhBFLuHkFsrT
+title: "Testing effect"
 ---
 # Testing effect
 When you try to recall some detail from memory, that act strengthens your memory of that detail. When exploited as a learning activity, this is called [[Retrieval practice]]. 

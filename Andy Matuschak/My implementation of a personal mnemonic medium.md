@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/z8kPkXQZ3wVR5DfJ79uhnuz?stackedNotes=z6sX7ZcYdPiya3SzQ5segaq
+title: "My implementation of a personal mnemonic medium"
 ---
 # My implementation of a personal mnemonic medium
 I have implemented [[The mnemonic medium can be extended to one’s personal notes]] in my own [[Note-writing system]].

@@ -8,8 +8,9 @@ tags:
   - output/article☑️
 URLs:
   - https://medium.com/@nickmilo22/in-what-ways-can-we-form-useful-relationships-between-notes-9b9ec46973c6
+title: "In what ways can we form useful relationships between notes"
 ---
-
+# In what ways can we form useful relationships between notes
 > [!NOTE] This is the 2nd best version. The best version is in the LYT Curriculum.
 > 
 

@@ -9,7 +9,9 @@ tags:
   - map
 aliases:
 - Videos (OE) (Example)
+title: "📹 Videos (OE) (Example)"
 ---
+# 📹 Videos (OE) (Example)
 This note is a simple example of how you can consolidate all of your notes related to an effort into a single spot.
 
 

@@ -21,9 +21,9 @@ show_image_url: "https://wsrv.nl/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 3
 from_snipd: true
+title: "How to practice 'deep reading'"
 ---
 # How to practice 'deep reading'
-
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2024%2F04%2F26%2Fgettyimages-978258068_sq-0a330f136074179c7488c9738c02d11de567c7af.jpg%3Fs%3D3000%26c%3D66%26f%3Djpg&w=200&h=200)
 
 ## Episode metadata
@@ -40,15 +40,12 @@ from_snipd: true
 - Export date: 2025-11-30T03:30:26
 
 ## Snips
-
 ###  [Deep Reading: Discovering Wisdom within Solitude](https://share.snipd.com/snip/ed0f6e24-9b38-4c71-8055-639d463e06e2) 
-
 🎧 01:56 - 03:20 (01:24)
 
 Deep reading is the process where readers go beyond the author's wisdom to find their own insights. It involves a fertile miracle of communication that occurs in solitude, where the reader delves into a space of introspection and discovery.
 
 #### 📚 Transcript
-
 **Andrew Limbaugh:** She's also the author of the book Proust and the Squid, The Story and Science of the Reading Brain. So the perfect person to ask about deep reading. I'm interested in tackling this idea of deep reading and how hard it is to do. It's hard for me to do personally. And I'm curious, what does deep reading actually look like or feel like? You know, I was reading your book and you excerpt a passage from Marcel Proust's book on reading, right? Towards the beginning. And I'm curious, if you're reading deeply, what's happening in your body and your brain? Well,
 
 **Maryanne Wolf:** Andrew, you set me up for my response beautifully by referring to Marcel Proust, because what he said in a tiny little book called On Reading, which Andrew, by the way, no one reads. It's terrible. It's terrible. So at least I can quote him. He said it's that fertile miracle of communication that occurs in solitude. And at the heart of it is the point where we, the reader, go beyond the wisdom of the author to discover our own. Deep reading is when we enter that space. I
@@ -56,13 +53,11 @@ Deep reading is the process where readers go beyond the author's wisdom to find 
 ---
 
 ###  [Cultivating a Space for Deep Reading](https://share.snipd.com/snip/36599cfc-0eb7-4bb2-9f18-086839574ed0) 
-
 🎧 09:31 - 10:52 (01:20)
 
 For deep reading, it is essential to consider the purpose of the reading. If the goal is to experience the beauty of an author, avoid reading on a screen due to the tendency to skim. Instead, opt for printed material that allows for a slower and more deliberate reading pace. Conversely, for practical tasks like reviewing articles or legal documents, printing the material out enables careful and thorough consideration, unlike the rushed nature of screen reading.
 
 #### 📚 Transcript
-
 **Maryanne Wolf:** worlds. So
 
 **Andrew Limbaugh:** when it comes to cultivating a space to read deeply, what do you suggest? So
@@ -72,13 +67,11 @@ For deep reading, it is essential to consider the purpose of the reading. If the
 ---
 
 ###  [Resisting and Rejecting a Book](https://share.snipd.com/snip/8ad9a427-db01-4fe5-9399-cb977f9884cc) 
-
 🎧 14:55 - 16:05 (01:09)
 
 The speaker initially rejected and resisted a book that he had previously loved, questioning the merit of the author's Nobel Prize. The rejection stemmed from a new skimming reading mode, which made the speaker impatient and unwilling to invest time in comprehending the text thoroughly.
 
 #### 📚 Transcript
-
 **Andrew Limbaugh:** For listeners, in your book, there's a funny moment where you're like, maybe this book is just bad. Exactly.
 
 **Maryanne Wolf:** Yeah. You are so right. I mean, that was a piece of it. I stubbornly rejecting the book and thinking, you know, I hate to say it on NPR, but I said, why the – who in the world gave him a Nobel Prize for this? You know? I mean, that's how bad I was. And I think this is a good question that you're asking me because I, who had once loved this and appreciated it, was quite capable of rejecting it now because of my new skimming reading mode. My brain didn't want to give that kind of time to every word, to the sentences, to the buildup, to the evaluation, to the monitoring of my comprehension. I didn't want to do this because you have built up a desire that's almost affectively saying, hurry up, get

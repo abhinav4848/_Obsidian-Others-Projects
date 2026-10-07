@@ -1,3 +1,7 @@
+---
+title: "027 - Core Note Functions"
+---
+# 027 - Core Note Functions
 # Core Note Functions
 I see the four core note functions of text management as the “[[first principles]]” of note taking, serving as a set of useful lenses to look at the tools and methods of note taking throughout history. They can also be used for thinking about modern note taking. The **four core functions** are: [[053- Storing]], [sorting](https://forum.obsidian.md/t/obsidian-zettelkasten/1999/96), [selecting](https://forum.obsidian.md/t/obsidian-zettelkasten/1999/97), and [summarizing](https://forum.obsidian.md/t/obsidian-zettelkasten/1999/98) [(Blair 2010, pg 15)](https://forum.obsidian.md/t/obsidian-zettelkasten/1999/10). I’ve also added [compiling](https://forum.obsidian.md/t/obsidian-zettelkasten/1999/124) to the list.
 

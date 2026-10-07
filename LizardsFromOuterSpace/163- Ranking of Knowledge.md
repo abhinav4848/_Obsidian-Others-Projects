@@ -1,3 +1,7 @@
+---
+title: "163- Ranking of Knowledge"
+---
+# 163- Ranking of Knowledge
 Ranking of [[073- Knowledge]]
 
 If you imagine a graph quadrant:

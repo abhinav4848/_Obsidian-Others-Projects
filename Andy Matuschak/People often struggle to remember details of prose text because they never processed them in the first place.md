@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/z59PYkSdPeznr95fco4GRQx
+title: "People often struggle to remember details of prose text because they never processed them in the first place"
 ---
 # People often struggle to remember details of prose text because they never processed them in the first place
-
 [[People seem to forget most of what they read, and they mostly don't notice]], but this isn’t just a process of long-term memory decay. In my personal experiences, and in my experiences working with students, some details are apparently forgotten because they were never really processed in the first place. The reader’s eye just skidded right over some sentence or paragraph, and the idea was never perceived at all, or so little attention was paid that the idea was never really processed. Sometimes the trouble is that the reader didn’t understand what a sentence was saying, but didn’t realize that or didn’t interrogate it; in either case, the idea will not be remembered. The problem here isn’t that these ideas can’t be recalled a day or a week later; it’s that they can’t be recalled ten seconds later—the idea never made it that far.
 
 Per [[How to Read a Book - Adler and van Doren]], this is an “elementary reading” problem: the reader can’t state “what the text says” (as opposed to what it means, or why it’s being said).

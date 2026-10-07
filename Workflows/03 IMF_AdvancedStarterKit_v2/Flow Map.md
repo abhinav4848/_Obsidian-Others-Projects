@@ -1,3 +1,6 @@
+---
+title: "Flow Map"
+---
 # Flow Map
 The [[Workflows/03 IMF_AdvancedStarterKit_v2/Flow Map]] is Dr. Mihaly Csikszentmihalyi's way to describe where [[Workflows/03 IMF_AdvancedStarterKit_v2/Flow]] takes place in regards to the variables: Challenge and Skill. However he came about plotting the two variables against each, it's a landmark discovery. It's a lodestar to which I keep returning. It's the foundation much of my thinking and to my carving of that theory to practical, moment-to-moment application.
 
@@ -8,7 +11,6 @@ Later on, Dr. Mihaly used this version to show the different states of mind plot
 ![[Flow Map - Original.jpg]]
 
 ### What is my Contribution to Flow Theory?
-
 My contribution to Flow Theory is just to expand on using the Flow Map as a practical tool to adjust one’s state of mind as needed—usually to create the [[Workflows/03 IMF_AdvancedStarterKit_v2/Conditions of Flow]] ([[Workflows/03 IMF_AdvancedStarterKit_v2/FlowCreation Theory]]).
 
 Basically, Mihaly’s Flow Map can be used many times a day as a simple tool to identify one’s current state of mind. That’s the easy part.

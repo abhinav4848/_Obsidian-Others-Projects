@@ -1,5 +1,8 @@
+---
+title: "01 Writing Fiction in Obsidian"
+---
+# 01 Writing Fiction in Obsidian
 # Writing Fiction with Obsidian 
-
 Obsidian can be used to write long or short form fiction. Its powerful capabilities give it the ability to compete in many ways with more complex tools such as Scrivener or Ulysses, with the added advantage that your work is always in plain markdown files, and thus never trapped inside proprietary software. I (@mediapathic) am currently experimenting with doing so and it's working great so far. 
 
 If you're writing short fiction and submitting it places, you may also be interested in [[03 Tracking Submissions in Obsidian]]

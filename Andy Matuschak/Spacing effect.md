@@ -1,5 +1,6 @@
 ---
 URL: https://notes.andymatuschak.org/z9Uq4yzBT1QaBU8twwyvm7P?stackedNotes=z2D1qPwddPktBjpNuwYFVva&stackedNotes=z4KScVkQCD2XmVwvSDUbZtn
+title: "Spacing effect"
 ---
 # Spacing effect 
 You’ll remember material more reliably if you study it on separate occasions, with some space in between—rather than if you spend the same amount of time cramming it all in one evening.
@@ -71,7 +72,6 @@ Q. What’s the central claim of predictive utility theories for the spacing eff
 A. The mind “learns” how long memories are needed according to their access patterns; longer study intervals encourage longer storage.
 
 # Reference
-
 Branwen, G. (2009). Spaced Repetition for Efficient Learning. Retrieved December 16, 2019, from [https://www.gwern.net/Spaced-repetition](https://www.gwern.net/Spaced-repetition)
 
 Kornell, N. (2009). Optimising learning using flashcards: Spacing is more effective than cramming. Applied Cognitive Psychology, 23(9), 1297–1317. [https://doi.org/10.1002/acp.1537](https://doi.org/10.1002/acp.1537)

@@ -20,11 +20,8 @@ yearXP: 2023
 yearXPL: 2023
 bookStatus: partially read
 rating:
+title: "The Third Wave"
 ---
-
 ![cover|150](http://books.google.com/books/content?id=C1NSEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 # The Third Wave
-
-
-

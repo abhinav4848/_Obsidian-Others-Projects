@@ -1,3 +1,6 @@
+---
+title: "Everything takes longer than you think it will"
+---
 # Everything takes longer than you think it will
 … so choose projects and their scope much more carefully, Andy.
 
@@ -20,5 +23,4 @@ I like a variant [[Joe Edelman]] proposes:
 Q. David Holz, paraphrasing advice from a research mentor: “projects either take ??? or ???.”
 A. three months / ten years
 # References
-
 1.

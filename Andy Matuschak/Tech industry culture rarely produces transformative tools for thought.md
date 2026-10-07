@@ -1,8 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zKKB5ENRahwftH96H7mijiu?stackedNotes=zRHGYaDyQDBypztBaFYZgtR&stackedNotes=z9u6vyghiV3M1QaGhbYoWtR
+title: "Tech industry culture rarely produces transformative tools for thought"
 ---
 # Tech industry culture rarely produces transformative tools for thought
-
 Why are [[Tools for thought]] so rarely produced by industry work?
 
 - [[Effective system design requires insights drawn from serious contexts of use]], but [[Tool-makers usually lack connection to a serious context of use]]

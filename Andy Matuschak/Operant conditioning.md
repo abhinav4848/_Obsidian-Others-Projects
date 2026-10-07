@@ -1,6 +1,8 @@
 ---
 URL: https://notes.andymatuschak.org/zJsAFwrLCXymvs33Lsm95ub
+title: "Operant conditioning"
 ---
+# Operant conditioning
 Key explanatory framework of [[Behaviorism]], pioneered by [[B. F. Skinner]]. Unlike the behaviors in [[Classical conditioning]] (“respondent behaviors”), operant conditioning involves “operant behaviors” which are voluntary and affected by their consequences (the provision/withdrawal of rewards/punishments), possibly in the presence of some discriminative stimulus (like a light being on).
 
 Thorndike’s puzzle box was a classic experiment in this vein: put a cat in a box, observe that it takes less time to escape (and eat its reward, sitting outside the box) by pressing a lever in successive trials. This experiment suggested that classical conditioning couldn’t explain all behavior, since it doesn’t explain how a cat’s reward would cause it to learn to operate the lever. He called this the “law of effect”: pleasant consequences increase behaviors; unpleasant consequences inhibit behaviors.

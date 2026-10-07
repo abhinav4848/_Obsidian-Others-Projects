@@ -1,3 +1,7 @@
+---
+title: "132- Foundational Notes"
+---
+# 132- Foundational Notes
 **132 - Foundational Notes** are the notes you make to create an initial layer of structure that further notes will be tied to. **They are created to help facilitate [knowledge development](https://forum.obsidian.md/t/obsidian-zettelkasten/1999/115)**.
 
 They can take the form of basic knowledge (e.g. term’s definition) or structural knowledge (e.g. book’s table of contents). Sometimes those are combined, as is the case with my [future roles note](https://forum.obsidian.md/t/obsidian-zettelkasten/1999/72), which lays out all the different future roles and provides defenitions for each.

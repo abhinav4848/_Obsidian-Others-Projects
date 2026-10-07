@@ -5,7 +5,9 @@ created: 2023-08-19
 rank: "3"
 aliases:
 - LYT Workshops (OE) (Example)
+title: "👨🏻‍🏫 LYT Workshops (OE) (Example)"
 ---
+# 👨🏻‍🏫 LYT Workshops (OE) (Example)
 ## Workshop Production Hubs
 - [[Ideaverse Merged/Efforts/On/👨🏻‍🏫 LYT W12 Production (E) (Example)]] - Fall 2023
 - [[Ideaverse Merged/Efforts/On/👨🏻‍🏫 UCLA Supercharge Course (E) (Example)]] - Summer 2023

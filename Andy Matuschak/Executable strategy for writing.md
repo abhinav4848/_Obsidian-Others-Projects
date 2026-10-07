@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z4EXkuLjdBrBZe7PVAGXc5a?stackedNotes=zCknixwETdFm1MWdWPwMcXs&stackedNotes=zSKD44o2VTbQuQYqmjupo4B
+URL: ["https://notes.andymatuschak.org/z4EXkuLjdBrBZe7PVAGXc5a?stackedNotes=zCknixwETdFm1MWdWPwMcXs&stackedNotes=zSKD44o2VTbQuQYqmjupo4B", "https://notes.andymatuschak.org/zCknixwETdFm1MWdWPwMcXs"]
+title: "Executable strategy for writing"
 ---
 # Executable strategy for writing
 A naive writing process begins with a rough inkling about what one wants to write and a blank page. Progress from this point requires an enormous amount of activation energy and cognitive effort: there’s nothing external, so you must juggle all of the piece-to-be in your head.

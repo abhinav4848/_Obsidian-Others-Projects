@@ -1,11 +1,11 @@
 ---
 URL: https://notes.andymatuschak.org/z2vMujPz4bgD3BwtwbU9U9B?stackedNotes=zWG9EgWoprv9cbXXkhg8YNS&stackedNotes=zFNrLkCqVyTK22wRfDKDsqy
+title: "Silent speech interface"
 ---
 # Silent speech interface
-
 (see also [my survey article](https://www.patreon.com/posts/prospects-for-69855805) on this subject)
 
-Silent speech interfaces attempt to discern speech without any (or with very little) audible utterance. They’re a form of [Voice-based interface](https://notes.andymatuschak.org/zWG9EgWoprv9cbXXkhg8YNS).
+Silent speech interfaces attempt to discern speech without any (or with very little) audible utterance. They’re a form of [[Andy Matuschak/Voice-based interface|Voice-based interface]].
 
 I’m excited about these systems as a possible poor man’s [Brain-computer interface](https://notes.andymatuschak.org/z7dxuJewoUHQZyoDMLodTGc) - *has just some links*. In the ideal case, they’d allow pervasive, unobtrusive command and textual input, and even a slow form of synthetic telepathy. More practically, they’re perhaps a way to resolve [[Reading texts on computers is unpleasant]] by bringing elements of the [Dynamic medium](https://notes.andymatuschak.org/zHYYdRPrLvyWy4xxXpNn4kE) (empty) to physical books.
 

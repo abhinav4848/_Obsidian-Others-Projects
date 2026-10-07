@@ -5,7 +5,9 @@ related:
   - "[[Ideaverse Merged/Atlas/Dots/Things/Divergence (defn)]]"
   - "[[Ideaverse Merged/Atlas/Dots/Things/Convergence (defn)]]"
 created: 2020-06-01
+title: "Complexity (defn)"
 ---
+# Complexity (defn)
  **Complexity** is basically how many units of information we’re looking at in a given system. 
 
 In the LYT frameworks, the more links, the more complexity a note has.

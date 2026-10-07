@@ -1,6 +1,5 @@
+---
+URL: "https://notes.andymatuschak.org/zDxwRLcf5pn3crwNN2EqSYM"
+title: "Deep understanding requires detailed knowledge of fundamentals"
+---
 # Deep understanding requires detailed knowledge of fundamentals
-
-Type of Link: 📝 Article
-Author: Andy Matuschak
-Completion Status: To Start
-Last edited time: January 18, 2024 7:55 PM

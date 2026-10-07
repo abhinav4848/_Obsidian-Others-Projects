@@ -5,7 +5,7 @@ related:
   - "[[1943 - The Little Prince]]"
 by:
   - "[[Antoine de Saint-Exupéry]]"
-title: The Little Prince
+title: "The Little Prince"
 publisher: 
 published: 1943-01-01
 created: 2020-01-01
@@ -23,11 +23,9 @@ yearXPL: 2020
 bookStatus: read
 rating: 5.5
 ---
-
 ![cover|150](http://books.google.com/books/content?id=LnNtswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # The Little Prince
-
 combine with [[1943 - The Little Prince]]
 
 

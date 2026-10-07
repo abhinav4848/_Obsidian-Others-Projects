@@ -1,3 +1,6 @@
+---
+title: "Two-component model of memory"
+---
 # Two-component model of memory
 This model of memory suggests that the decay of a memory over time can be accurately described by two parameters: {retrievability} and {stability}.
 

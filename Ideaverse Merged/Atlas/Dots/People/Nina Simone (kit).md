@@ -23,7 +23,9 @@ culturalWorks:
 image: https://conversationsabouther.net/wp-content/uploads/2018/06/Nina-Simone-fight-for-her-beliefs.jpg
 aliases:
 - Nina Simone
+title: "Nina Simone (kit)"
 ---
+# Nina Simone (kit)
 I absolutely love Nina Simone's song [[Ideaverse Merged/Atlas/Dots/Sources/Sinnerman (song)]]. It's in my top 100.
 
 > [!NOTE]- Some links and content in this note have been removed.

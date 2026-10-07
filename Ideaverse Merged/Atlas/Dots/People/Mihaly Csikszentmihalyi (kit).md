@@ -22,7 +22,9 @@ culturalWorks:
 image: https://www.worldgovernmentsummit.org/images/default-source/speakers/2017/mihaly821679c4e97c6578b2f8ff0000a7ddb6.jpg
 aliases:
 - Mihaly Csikszentmihalyi
+title: "Mihaly Csikszentmihalyi (kit)"
 ---
+# Mihaly Csikszentmihalyi (kit)
 Mihaly Csikszentmihalyi is the author of [[1990 - Flow]] (not included in Ideaverse for Obsidian). Flow remains one of the most influential books on my thinking.
 
 ![[Ideaverse Merged/x/Images/flow-map-original.jpg]]

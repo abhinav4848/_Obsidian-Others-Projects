@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z3zo16mx2Dp3PB4J1ty1DGy?stackedNotes=z7JRyqSwVbW2a8U44w2RkR6&stackedNotes=zBk3AaWYp4spoTbc1f5aYvC
+URL: ["https://notes.andymatuschak.org/z3zo16mx2Dp3PB4J1ty1DGy?stackedNotes=z7JRyqSwVbW2a8U44w2RkR6&stackedNotes=zBk3AaWYp4spoTbc1f5aYvC", "https://notes.andymatuschak.org/Element_interactivity"]
+title: "Element interactivity"
 ---
 # Element interactivity
 Originated in [Sweller, J. (1994). Cognitive load theory, learning difficulty, and instructional design. Learning and Instruction, 4(4), 295–312](https://notes.andymatuschak.org/zBjmQuuhR8d1WsimXGX7srF). A central concept of [[Cognitive load theory]].
@@ -16,25 +17,24 @@ A whole issue in Ed Psy Rev about high element interactivity and the [[Testing 
 
 # Reference
 ### Above link fails. Here are the individual links I traversed to reach it
-1. [Evergreen notes](https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX)
-2. [Most people take only transient notes](https://notes.andymatuschak.org/zKGjQtsTKgscAoq271ZzKqw)
-3. [Knowledge work should accrete](https://notes.andymatuschak.org/zTn3g4wTm1hbkNFUvLLjpev)
-4. [Evergreen note-writing as fundamental unit of knowledge work](https://notes.andymatuschak.org/zR6RRbCfY5rFkiimFnaJZKB)
-5. [Evergreen note-writing helps insight accumulate](https://notes.andymatuschak.org/z4EXkuLjdBrBZe7PVAGXc5a)
-6. [Evergreen notes should be atomic](https://notes.andymatuschak.org/zNUaiGAXp21eorsER1Jm9yU)
-7. [Evergreen note titles are like APIs](https://notes.andymatuschak.org/zDh1yhNFQNxDEre12B4zd8k)
-8. [Prefer note titles with complete phrases to sharpen claims](https://notes.andymatuschak.org/zLhoRUyjKU665EY16u4XXJy)
-9. [Evergreen notes should be concept-oriented](https://notes.andymatuschak.org/z2hQEhqWkdRLL9JUwfawZZx)
-10. [Understanding requires effortful engagement](https://notes.andymatuschak.org/z8ccRLda8BqJafNxjQBpzis)
-11. [Comprehension - Kintsch](https://notes.andymatuschak.org/zES5WRczfGgXptmM9tSCwvy)
-12. [Reading comprehension](https://notes.andymatuschak.org/zMybAxZcdkJHKSATuSZbEhz)
-13. [Elaborative verbal rehearsal](https://notes.andymatuschak.org/zUR6RM21Sa88cFDfC47svVv)
-14. [Generation effect](https://notes.andymatuschak.org/z26C6ing3sqiZMHRVFuT6xn)
-15. [Testing effect](https://notes.andymatuschak.org/zTpJdbe6ub7uhBFLuHkFsrT)
-16. [The testing effect may be diminished or inverted for immediate tests](https://notes.andymatuschak.org/zWoEKdbmtbSgAp1tZjU4usY)
-17. [Worked example effect](https://notes.andymatuschak.org/zD8D8PPRBDEFk3JeM2vaWrn)
-18. [“Chunks” in human cognition](https://notes.andymatuschak.org/zXxUPAFZBthh97wAKBEj7Tq)
-19. [Working memory span is mostly independent of item complexity](https://notes.andymatuschak.org/zAhASsrt9VhRDzh25hsLsyD)
-20. [Span of working memory](https://notes.andymatuschak.org/z3zo16mx2Dp3PB4J1ty1DGy)
-21. [Complex ideas may be hard to learn in part because their components overflow working memory](https://notes.andymatuschak.org/z7JRyqSwVbW2a8U44w2RkR6)
-22. [Element interactivity](https://notes.andymatuschak.org/zBk3AaWYp4spoTbc1f5aYvC) 
+1. [[Andy Matuschak/Evergreen Notes|Evergreen notes]]
+2. [[Andy Matuschak/Most people take only transient notes|Most people take only transient notes]]
+3. [[Andy Matuschak/Knowledge work should accrete|Knowledge work should accrete]]
+4. [[Andy Matuschak/Evergreen note-writing as fundamental unit of knowledge work|Evergreen note-writing as fundamental unit of knowledge work]]
+5. [[Andy Matuschak/Evergreen note-writing helps insight accumulate|Evergreen note-writing helps insight accumulate]]
+6. [[Andy Matuschak/Evergreen notes should be atomic|Evergreen notes should be atomic]]
+7. [[Andy Matuschak/Evergreen note titles are like APIs|Evergreen note titles are like APIs]]
+8. [[Andy Matuschak/Prefer note titles with complete phrases to sharpen claims|Prefer note titles with complete phrases to sharpen claims]]
+9. [[Andy Matuschak/Evergreen notes should be concept-oriented|Evergreen notes should be concept-oriented]]
+10. [[Andy Matuschak/Understanding requires effortful engagement|Understanding requires effortful engagement]]
+11. [[Andy Matuschak/Comprehension - Kintsch|Comprehension - Kintsch]]
+12. [[Andy Matuschak/Reading comprehension|Reading comprehension]]
+13. [[Andy Matuschak/Elaborative verbal rehearsal|Elaborative verbal rehearsal]]
+14. [[Andy Matuschak/Generation effect|Generation effect]]
+15. [[Andy Matuschak/Testing effect|Testing effect]]
+16. [[Andy Matuschak/The testing effect may be diminished or inverted for immediate tests|The testing effect may be diminished or inverted for immediate tests]]
+17. [[Andy Matuschak/Worked example effect|Worked example effect]]
+18. [[Andy Matuschak/Chunks in human cognition|“Chunks” in human cognition]]
+19. [[Andy Matuschak/Working memory span is mostly independent of item complexity|Working memory span is mostly independent of item complexity]]
+20. [[Andy Matuschak/Span of working memory|Span of working memory]]
+21. [[Andy Matuschak/Complex ideas may be hard to learn in part because their components overflow working memory|Complex ideas may be hard to learn in part because their components overflow working memory]]

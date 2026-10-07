@@ -4,7 +4,9 @@ up:
 created: 2022-07-19
 tags:
   - output/newsletter
+title: "Hello, Old Friend (Example)"
 ---
+# Hello, Old Friend (Example)
 I was working long hours on another TV show. 
 
 It wasn't Better Call Saul. It was a TV pilot that no one ever saw.

@@ -1,9 +1,12 @@
+---
+title: "Opinion How Not to Be Alone by Jonathan Safran Foer"
+---
+# Opinion How Not to Be Alone by Jonathan Safran Foer
 Tags: [[Article]] [[Writing]] - [[Writing Swipe]] [[Writing intro]]
 Author: [[Jonathan Safran]] 
 From: https://www.nytimes.com/2013/06/09/opinion/sunday/how-not-to-be-alone.html
 
 ## Highlights:
-
 Mainly the intro as a swipe file: 
 
 A COUPLE of weeks ago, I saw a stranger crying in public. I was in Brooklyn's Fort Greene neighborhood, waiting to meet a friend for breakfast. I arrived at the restaurant a few minutes early and was sitting on the bench outside, scrolling through my contact list. A girl, maybe 15 years old, was sitting on the bench opposite me, crying into her phone. I heard her say, "I know, I know, I know" over and over.

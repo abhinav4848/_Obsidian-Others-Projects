@@ -1,3 +1,6 @@
+---
+title: "FlowCreation Theory"
+---
 # FlowCreation Theory
 [[Workflows/03 IMF_AdvancedStarterKit_v2/FlowCreation Theory]] is about creating the [[Workflows/03 IMF_AdvancedStarterKit_v2/Conditions of Flow]], not actually Creating Flow, because Flow cannot directly be created. You can only create the conditions of flow, and give yourself the best chance of entering it. (Go deeper at [[Indirect Access]]).
 
@@ -19,7 +22,6 @@ There are four broad areas to cover when setting up the conditions for Flow. Her
 4. "I'm tired, I have a headache, everything feels like too much." Why are my Energy levels down? What needs to be improved out of the following: quality of sleep, diet, exercise, leisure time, and/or relationships?
 
 ## Four Factors of Flow
-
 I have found that using the Flow Map to find your current State of Mind is a valuable exercise to improving it. Equally valuable is using it to find any glaring weaknesses in the elements that help create a good State of Mind. I have found that there are essentially [[Workflows/03 IMF_AdvancedStarterKit_v2/Four Factors of Flow]]. They are: [[Direction]], [[Attention]], [[Enthusiasm]], and [[Energy]]. The best way to improve your experience is to identify what you're lacking, and then taking actions to strengthen that area.
 
 ---

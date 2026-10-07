@@ -4,10 +4,10 @@ up:
 created: 2021-03-21
 tags:
   - output/newsletter
+title: "LYT Notes 5 (Example)"
 ---
-
+# LYT Notes 5 (Example)
 ## On Damian Lillard getting the reps
-
 This Tuesday in the NBA, something notable happened on the court. Down 17 points with under 6 minutes remaining, Damian Lillard led his team to an improbable comeback win, scoring 20 points in the final quarter (and 50 points for the entire game).
 
 But it was the post-game interview that I found the most notable:
@@ -30,7 +30,6 @@ Let's re-strengthen and rebuild our thinking muscles. The good news is: just lik
 This is one of the most essential concepts to live by in my opinion. Here's the note I have on [reps in the LYT Kit (now Ideaverse Lite)](https://publish.obsidian.md/lyt-kit/Reps). (Notice how it's already exhibiting evergreen-ness by already connecting to Damian?)
 
 ## On the Anti-Tag
-
 The anti-tag sounds like some sort of super-villain, but it’s actually just another trick employed by a wily PKM’er.
 
 Let’s say I use a daily note but after tons and tons of daily notes, my graph is useless. One solution is to have all your daily notes in a folder, like “Timestamps” and filter out that entire folder with the notation: `-path:Timestamps` (like I emailed about last week).

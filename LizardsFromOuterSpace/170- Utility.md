@@ -1,3 +1,7 @@
+---
+title: "170- Utility"
+---
+# 170- Utility
 # Utility
 Utility is a common theme throughout how I approach thinking about zettelkasten ([[002- Zettelkasten]]) and knowledge ([[073- Knowledge]]) work more broadly. It is also useful to use as one of many lenses to think about life with. At the end of the day, we have limited time and must make a decision ([[086- Decision making]]). Therefore you should consider the utility of an activity. I think where this conversation gets lost is that people often don’t understand the utility of activities and therefore perceive them as bad.
 

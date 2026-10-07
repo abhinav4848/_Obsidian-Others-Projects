@@ -1,10 +1,7 @@
+---
+title: "Evergreen notes are a safe place to develop wild ideas"
+---
 # Evergreen notes are a safe place to develop wild ideas
-
-Type of Link: 📝 Article
-Author: Andy Matuschak
-Completion Status: To Start
-Last edited time: January 18, 2024 7:55 PM
-
 When you have some inkling about a novel idea, it’s tempting to try to immediately write down the idea and develop it in-place. But often, that’s not possible, practically or emotionally: the idea may just not be solid enough yet to attack directly. The blank page may feel intimidating; the claims may still feel mushy.
 
 Instead, nurture the wild idea and let it develop over time by incrementally writing [[Andy Matuschak/Evergreen Notes]] about small facets of the idea. Those notes have much tighter scope: they just have to describe one atomic concept ([[Evergreen notes should be atomic]], [[Evergreen notes should be concept-oriented]]).
@@ -18,7 +15,6 @@ By contrast: [[Brainstorming may often substitute for missing insight accretion
 ---
 
 ## References
-
 Ahrens, S. (2017). _How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers_.
 
 > Steven Johnson, who wrote an insightful book about how people in science and in general come up with genuine new ideas, calls it the “slow hunch.” As a precondition to make use of this intuition, he emphasises the importance of experimental spaces where ideas can freely mingle (Johnson 2011). A laboratory with open-minded colleagues can be such a space, much as intellectuals and artists freely discussed ideas in the cafés of old Paris. I would add the slip-box as such a space in which ideas can mingle freely, so they can give birth to new ones.
