@@ -1,5 +1,7 @@
 ---
-URL: ["https://notes.andymatuschak.org/zN7KLBKWMTmFqthmFPVSNbP?stackedNotes=z984ZZLbG4wREM6HAZAovMB&stackedNotes=z179DabP631i5Mjf2DBMwoS", "https://notes.andymatuschak.org/z984ZZLbG4wREM6HAZAovMB"]
+URL:
+  - "https://notes.andymatuschak.org/zN7KLBKWMTmFqthmFPVSNbP?stackedNotes=z984ZZLbG4wREM6HAZAovMB&stackedNotes=z179DabP631i5Mjf2DBMwoS"
+  - "https://notes.andymatuschak.org/z984ZZLbG4wREM6HAZAovMB"
 title: "Enacted experiences have incredible potential as a mass medium"
 ---
 # Enacted experiences have incredible potential as a mass medium

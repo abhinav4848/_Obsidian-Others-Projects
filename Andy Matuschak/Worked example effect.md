@@ -1,5 +1,7 @@
 ---
 title: "Worked example effect"
+URL:
+  - "https://notes.andymatuschak.org/zD8D8PPRBDEFk3JeM2vaWrn"
 ---
 # Worked example effect
 Carefully studying worked examples may produce more learning than solving problems.

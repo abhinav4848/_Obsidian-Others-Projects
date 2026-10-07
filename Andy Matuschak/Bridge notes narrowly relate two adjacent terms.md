@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zRxv4aMPUXowy5bPAiKPJEy
+URL:
+  - "https://notes.andymatuschak.org/zRxv4aMPUXowy5bPAiKPJEy"
 title: "Bridge notes narrowly relate two adjacent terms"
 ---
 # Bridge notes narrowly relate two adjacent terms

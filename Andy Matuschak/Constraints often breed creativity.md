@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zWSH2QNUsrTGP4V15JBaaEv?stackedNotes=z7TJeAJjP5FrruVXwUXheW4&stackedNotes=zDbtYWz1F7MzeihPJvnTuD3
+URL:
+  - "https://notes.andymatuschak.org/zWSH2QNUsrTGP4V15JBaaEv?stackedNotes=z7TJeAJjP5FrruVXwUXheW4&stackedNotes=zDbtYWz1F7MzeihPJvnTuD3"
 title: "Constraints often breed creativity"
 ---
 # Constraints often breed creativity

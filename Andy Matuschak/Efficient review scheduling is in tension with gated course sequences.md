@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zKRrv2DmKp3VyDEp3oXrKXQ&stackedNotes=zAFdUuHnU6tNTSTfSK6rJyn
+URL:
+  - "https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zKRrv2DmKp3VyDEp3oXrKXQ&stackedNotes=zAFdUuHnU6tNTSTfSK6rJyn"
 title: "Efficient review scheduling is in tension with gated course sequences"
 ---
 # Efficient review scheduling is in tension with gated course sequences

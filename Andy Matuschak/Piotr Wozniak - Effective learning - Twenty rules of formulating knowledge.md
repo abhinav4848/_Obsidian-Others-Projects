@@ -1,5 +1,7 @@
 ---
-URL: ["https://notes.andymatuschak.org/z7nmQ12agpmDmFoonENsQQN", "https://notes.andymatuschak.org/z96Xr88dMaAGrn3CobJnMUD"]
+URL:
+  - "https://notes.andymatuschak.org/z7nmQ12agpmDmFoonENsQQN"
+  - "https://notes.andymatuschak.org/z96Xr88dMaAGrn3CobJnMUD"
 title: "Piotr Wozniak - Effective learning - Twenty rules of formulating knowledge"
 ---
 # Piotr Wozniak - Effective learning - Twenty rules of formulating knowledge

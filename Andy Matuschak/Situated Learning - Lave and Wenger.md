@@ -1,5 +1,7 @@
 ---
 title: "Situated Learning - Lave and Wenger"
+URL:
+  - "https://notes.andymatuschak.org/zMhuu3pPa6FeNGYn3VfGCar"
 ---
 # Situated Learning - Lave and Wenger
 Lave, J., & Wenger, E. (1991). Situated learning: Legitimate peripheral participation. Cambridge University Press.

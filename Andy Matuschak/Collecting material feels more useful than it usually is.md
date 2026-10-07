@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zQm6XAB3XXrXLHzF7gahpJ2
+URL:
+  - "https://notes.andymatuschak.org/zQm6XAB3XXrXLHzF7gahpJ2"
 title: "Collecting material feels more useful than it usually is"
 ---
 # Collecting material feels more useful than it usually is

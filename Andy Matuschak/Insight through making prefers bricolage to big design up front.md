@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/About_these_notes?stackedNotes=zKKB5ENRahwftH96H7mijiu&stackedNotes=zT2CnA38ERsCY2NKGw2thSL
+URL:
+  - "https://notes.andymatuschak.org/About_these_notes?stackedNotes=zKKB5ENRahwftH96H7mijiu&stackedNotes=zT2CnA38ERsCY2NKGw2thSL"
 title: "Insight through making prefers bricolage to big design up front"
 ---
 # Insight through making prefers bricolage to big design up front

@@ -1,5 +1,7 @@
 ---
 title: "Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences"
+URL:
+  - "https://notes.andymatuschak.org/z4xE8FBHhDo5pTvJuCBPRYC"
 ---
 # Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences
 [[Inboxes only work if you trust how they’re drained]], and usually that requires aggressively dropping lower-priority items. Some examples:

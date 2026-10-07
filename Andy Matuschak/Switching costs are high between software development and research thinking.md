@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zT2CnA38ERsCY2NKGw2thSL?stackedNotes=zCPXepV6zuoDDGosHBY62ai&stackedNotes=zD2oDSCgLEyM4xDhjRLXtuH
+URL:
+  - "https://notes.andymatuschak.org/zT2CnA38ERsCY2NKGw2thSL?stackedNotes=zCPXepV6zuoDDGosHBY62ai&stackedNotes=zD2oDSCgLEyM4xDhjRLXtuH"
 title: "Switching costs are high between software development and research thinking"
 ---
 # Switching costs are high between software development and research thinking

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z8kPkXQZ3wVR5DfJ79uhnuz?stackedNotes=z6sX7ZcYdPiya3SzQ5segaq&stackedNotes=zWWh96dE6YZYmDCoo37977X
+URL:
+  - "https://notes.andymatuschak.org/z8kPkXQZ3wVR5DfJ79uhnuz?stackedNotes=z6sX7ZcYdPiya3SzQ5segaq&stackedNotes=zWWh96dE6YZYmDCoo37977X"
 title: "The mnemonic medium can be extended to one’s personal notes"
 ---
 # The mnemonic medium can be extended to one’s personal notes

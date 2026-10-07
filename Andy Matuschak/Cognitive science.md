@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z9S1FAfAadbdvdR5QWZyXug
+URL:
+  - "https://notes.andymatuschak.org/z9S1FAfAadbdvdR5QWZyXug"
 title: "Cognitive science"
 ---
 # Cognitive science

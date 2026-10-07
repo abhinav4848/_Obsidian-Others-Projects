@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zMhuu3pPa6FeNGYn3VfGCar?stackedNotes=z8aBPhjq7R6o8cwVNjzfDdr&stackedNotes=zQgeXp15RWkzyiUv9WQsLtA
+URL:
+  - "https://notes.andymatuschak.org/zMhuu3pPa6FeNGYn3VfGCar?stackedNotes=z8aBPhjq7R6o8cwVNjzfDdr&stackedNotes=zQgeXp15RWkzyiUv9WQsLtA"
 title: "Cognitive apprenticeship"
 ---
 # Cognitive apprenticeship

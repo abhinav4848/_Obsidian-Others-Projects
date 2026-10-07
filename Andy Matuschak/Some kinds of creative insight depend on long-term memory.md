@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zNW5jyTpU1v4XBQfTYwoM8Q
+URL:
+  - "https://notes.andymatuschak.org/zNW5jyTpU1v4XBQfTYwoM8Q"
 title: "Some kinds of creative insight depend on long-term memory"
 ---
 # Some kinds of creative insight depend on long-term memory

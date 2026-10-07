@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zG1S2XhBhJa7PWeSkKna2Y2?stackedNotes=z2MeZGv57tNcz5rh64ebSNz&stackedNotes=zFjTBdLjTRYsyoDyqyBEPNN
+URL:
+  - "https://notes.andymatuschak.org/zG1S2XhBhJa7PWeSkKna2Y2?stackedNotes=z2MeZGv57tNcz5rh64ebSNz&stackedNotes=zFjTBdLjTRYsyoDyqyBEPNN"
 title: "It’s difficult to maintain emotional connection to a creative project across delays and breaks"
 ---
 # It’s difficult to maintain emotional connection to a creative project across delays and breaks

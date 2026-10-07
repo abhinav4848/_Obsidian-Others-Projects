@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zJ4k4feCLspoCid7C4mzmvL?stackedNotes=zVx3t4nDyk9tyuWQiBzsSDT&stackedNotes=zGyuqjqaSGWzT9ndJJVxiaw
+URL:
+  - "https://notes.andymatuschak.org/zJ4k4feCLspoCid7C4mzmvL?stackedNotes=zVx3t4nDyk9tyuWQiBzsSDT&stackedNotes=zGyuqjqaSGWzT9ndJJVxiaw"
 title: "Skillful reading is often non-linear"
 ---
 # Skillful reading is often non-linear

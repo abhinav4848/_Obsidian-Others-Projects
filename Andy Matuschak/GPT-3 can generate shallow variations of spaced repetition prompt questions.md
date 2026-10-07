@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zSisETSpZBCgZH4rFNHRcnC?stackedNotes=z3NDe3nR9hvqRqWWtvZdxe7&stackedNotes=zBcEii9Hf2Rv7vsUSB7pBoP
+URL:
+  - "https://notes.andymatuschak.org/zSisETSpZBCgZH4rFNHRcnC?stackedNotes=z3NDe3nR9hvqRqWWtvZdxe7&stackedNotes=zBcEii9Hf2Rv7vsUSB7pBoP"
 title: "GPT-3 can generate shallow variations of spaced repetition prompt questions"
 ---
 # GPT-3 can generate shallow variations of spaced repetition prompt questions

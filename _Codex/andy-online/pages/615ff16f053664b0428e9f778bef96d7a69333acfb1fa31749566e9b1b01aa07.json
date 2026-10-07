@@ -1,0 +1,58 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Linked_representations",
+  "checked_at": "2026-10-07T22:28:43.804069+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zTTKcEY5M9mb8Gc1yovh6wM",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zTTKcEY5M9mb8Gc1yovh6wM": {
+        "data": {
+          "slug": "zTTKcEY5M9mb8Gc1yovh6wM",
+          "title": "Linked representations",
+          "contentMarkdown": "# Linked representations\n\n(stub)\n\ne.g. [[zT6QcspwtJ55KAasV5jHwjJ:::Up and Down the Ladder of Abstraction - Bret Victor]]\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "We lack UI patterns for linked representations for arrangements on a 2D canvas",
+              "linkingNoteSlug": "zXo7vt8C47Wj8Wh2ZNfozZ",
+              "contextBlocks": [
+                "[[zTTKcEY5M9mb8Gc1yovh6wM:::Linked representations]] are an essential design pattern of the [[zHYYdRPrLvyWy4xxXpNn4kE:::Dynamic medium]]. [[zRXEyTA5YxgqiBP3UE3C6si:::Explorable explanations]] often link representations between multiple figures; tools like Descript link audio and textual representations; [[zVLVGffrkZiYmahXqFPQtP4:::Transclusion]] links text when simultaneously presented in several contexts. Tools like these let us make sense of information by moving interactively between several ways of presenting the same content, or between several levels of abstraction (see e.g. [[zT6QcspwtJ55KAasV5jHwjJ:::Up and Down the Ladder of Abstraction - Bret Victor]]). But we lack good linking patterns when one of the representations is an arrangement on a 2D canvas, e.g. in [[zF6yhcVZ2yT7xpRQTWBzstB:::Figma]]."
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zT6QcspwtJ55KAasV5jHwjJ"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zTTKcEY5M9mb8Gc1yovh6wM",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zTTKcEY5M9mb8Gc1yovh6wM",
+      "title": "Linked representations",
+      "contentMarkdown": "# Linked representations\n\n(stub)\n\ne.g. [[zT6QcspwtJ55KAasV5jHwjJ:::Up and Down the Ladder of Abstraction - Bret Victor]]\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "We lack UI patterns for linked representations for arrangements on a 2D canvas",
+          "linkingNoteSlug": "zXo7vt8C47Wj8Wh2ZNfozZ",
+          "contextBlocks": [
+            "[[zTTKcEY5M9mb8Gc1yovh6wM:::Linked representations]] are an essential design pattern of the [[zHYYdRPrLvyWy4xxXpNn4kE:::Dynamic medium]]. [[zRXEyTA5YxgqiBP3UE3C6si:::Explorable explanations]] often link representations between multiple figures; tools like Descript link audio and textual representations; [[zVLVGffrkZiYmahXqFPQtP4:::Transclusion]] links text when simultaneously presented in several contexts. Tools like these let us make sense of information by moving interactively between several ways of presenting the same content, or between several levels of abstraction (see e.g. [[zT6QcspwtJ55KAasV5jHwjJ:::Up and Down the Ladder of Abstraction - Bret Victor]]). But we lack good linking patterns when one of the representations is an arrangement on a 2D canvas, e.g. in [[zF6yhcVZ2yT7xpRQTWBzstB:::Figma]]."
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zT6QcspwtJ55KAasV5jHwjJ"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

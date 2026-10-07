@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zP8p4SqgpSQ6tb3dbxGPKqF
+URL:
+  - "https://notes.andymatuschak.org/zP8p4SqgpSQ6tb3dbxGPKqF"
 title: "Frederic Bartlett"
 ---
 # Frederic Bartlett

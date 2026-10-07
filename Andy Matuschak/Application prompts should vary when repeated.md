@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zSiuztCZ594AZuCweRghcXT?stackedNotes=zJoWJEpRvrjnm2zL3gdxBjg&stackedNotes=zSisETSpZBCgZH4rFNHRcnC
+URL:
+  - "https://notes.andymatuschak.org/zSiuztCZ594AZuCweRghcXT?stackedNotes=zJoWJEpRvrjnm2zL3gdxBjg&stackedNotes=zSisETSpZBCgZH4rFNHRcnC"
 title: "Application prompts should vary when repeated"
 ---
 # Application prompts should vary when repeated

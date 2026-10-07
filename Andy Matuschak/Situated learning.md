@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zL7XdosCZ9qeCSSCrhcYfwY
+URL:
+  - "https://notes.andymatuschak.org/zL7XdosCZ9qeCSSCrhcYfwY"
 title: "Situated learning"
 ---
 # Situated learning

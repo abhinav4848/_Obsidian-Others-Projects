@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=z4RDymitJVXdYzjNgDYWqQK
+URL:
+  - "https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=z4RDymitJVXdYzjNgDYWqQK"
 title: "Evergreen notes can increase conversational bandwidth"
 ---
 # Evergreen notes can increase conversational bandwidth

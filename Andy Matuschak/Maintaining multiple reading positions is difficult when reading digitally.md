@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zX95uZHiGWNiNTDF3wETWtq?stackedNotes=zBeBbzwU8LAyi2D5jqBJpS&stackedNotes=zJ4k4feCLspoCid7C4mzmvL
+URL:
+  - "https://notes.andymatuschak.org/zX95uZHiGWNiNTDF3wETWtq?stackedNotes=zBeBbzwU8LAyi2D5jqBJpS&stackedNotes=zJ4k4feCLspoCid7C4mzmvL"
 title: "Maintaining multiple reading positions is difficult when reading digitally"
 ---
 # Maintaining multiple reading positions is difficult when reading digitally

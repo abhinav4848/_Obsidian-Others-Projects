@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/About_these_notes?stackedNotes=zKKB5ENRahwftH96H7mijiu
+URL:
+  - "https://notes.andymatuschak.org/About_these_notes?stackedNotes=zKKB5ENRahwftH96H7mijiu"
 title: "Premature scaling can stunt system iteration"
 ---
 # Premature scaling can stunt system iteration

@@ -1,0 +1,90 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Let_ideas_and_beliefs_emerge_organically",
+  "checked_at": "2026-10-07T22:28:43.179308+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zR5J4ZucL8A9xTWBmDZpNJQ",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zR5J4ZucL8A9xTWBmDZpNJQ": {
+        "data": {
+          "slug": "zR5J4ZucL8A9xTWBmDZpNJQ",
+          "title": "Let ideas and beliefs emerge organically",
+          "contentMarkdown": "# Let ideas and beliefs emerge organically\n\nBeware preconceived notions. [[zLdprTyt7Ca2z2LUGLtFMSs:::Do your own thinking]].\n\n*   Producing work more quickly by using existing work\n    *   [[zR6RRbCfY5rFkiimFnaJZKB:::Evergreen note-writing as fundamental unit of knowledge work]]\n    *   [[z79rMNNuLrUj6R8q1CXSpDm:::Create speculative outlines while you write]]\n    *   [[zCknixwETdFm1MWdWPwMcXs:::Executable strategy for writing]]\n*   Epistemology, originality\n    *   [[z6H1QypHEq3vak9sV7XLdKx:::Use notes to avoid preconceived conclusions]]\n    *   [[zVeajFC9i9mrpLhZ5ScXumn:::Leaps of insight emerge from prior thought]]\n    *   [[zGbMMKcybSmwFR4jLS12iY2:::Brainstorming may often substitute for missing insight accretion systems]]\n    *   [[z8SU3r8xyZyvwRhyDdJasJ2:::Prefer associative ontologies to hierarchical taxonomies]]\n    *   [[zE92ANLEszr5pwoYatKzka8:::Evergreen notes are a safe place to develop wild ideas]]\n*   Morale:\n    *   responding to authentic interest and thought instead of thinking “I should write about X”\n    *   no more “what should I write about?”\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Executable strategy for writing",
+              "linkingNoteSlug": "zCknixwETdFm1MWdWPwMcXs",
+              "contextBlocks": [
+                "Eventually, you’ll feel excited about fleshing out one of those outlines. ([[zR5J4ZucL8A9xTWBmDZpNJQ:::Let ideas and beliefs emerge organically]])"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Prefer associative ontologies to hierarchical taxonomies",
+              "linkingNoteSlug": "z8SU3r8xyZyvwRhyDdJasJ2",
+              "contextBlocks": [
+                "It’s better to let networks of related ideas to gradually emerge, unlabeled: [[zR5J4ZucL8A9xTWBmDZpNJQ:::Let ideas and beliefs emerge organically]]. Once you can see the shape, then you can think about its character. This is one reason why [[zE92ANLEszr5pwoYatKzka8:::Evergreen notes are a safe place to develop wild ideas]]."
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zLdprTyt7Ca2z2LUGLtFMSs",
+            "zR6RRbCfY5rFkiimFnaJZKB",
+            "z79rMNNuLrUj6R8q1CXSpDm",
+            "zCknixwETdFm1MWdWPwMcXs",
+            "z6H1QypHEq3vak9sV7XLdKx",
+            "zVeajFC9i9mrpLhZ5ScXumn",
+            "zGbMMKcybSmwFR4jLS12iY2",
+            "z8SU3r8xyZyvwRhyDdJasJ2",
+            "zE92ANLEszr5pwoYatKzka8"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zR5J4ZucL8A9xTWBmDZpNJQ",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zR5J4ZucL8A9xTWBmDZpNJQ",
+      "title": "Let ideas and beliefs emerge organically",
+      "contentMarkdown": "# Let ideas and beliefs emerge organically\n\nBeware preconceived notions. [[zLdprTyt7Ca2z2LUGLtFMSs:::Do your own thinking]].\n\n*   Producing work more quickly by using existing work\n    *   [[zR6RRbCfY5rFkiimFnaJZKB:::Evergreen note-writing as fundamental unit of knowledge work]]\n    *   [[z79rMNNuLrUj6R8q1CXSpDm:::Create speculative outlines while you write]]\n    *   [[zCknixwETdFm1MWdWPwMcXs:::Executable strategy for writing]]\n*   Epistemology, originality\n    *   [[z6H1QypHEq3vak9sV7XLdKx:::Use notes to avoid preconceived conclusions]]\n    *   [[zVeajFC9i9mrpLhZ5ScXumn:::Leaps of insight emerge from prior thought]]\n    *   [[zGbMMKcybSmwFR4jLS12iY2:::Brainstorming may often substitute for missing insight accretion systems]]\n    *   [[z8SU3r8xyZyvwRhyDdJasJ2:::Prefer associative ontologies to hierarchical taxonomies]]\n    *   [[zE92ANLEszr5pwoYatKzka8:::Evergreen notes are a safe place to develop wild ideas]]\n*   Morale:\n    *   responding to authentic interest and thought instead of thinking “I should write about X”\n    *   no more “what should I write about?”\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Executable strategy for writing",
+          "linkingNoteSlug": "zCknixwETdFm1MWdWPwMcXs",
+          "contextBlocks": [
+            "Eventually, you’ll feel excited about fleshing out one of those outlines. ([[zR5J4ZucL8A9xTWBmDZpNJQ:::Let ideas and beliefs emerge organically]])"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Prefer associative ontologies to hierarchical taxonomies",
+          "linkingNoteSlug": "z8SU3r8xyZyvwRhyDdJasJ2",
+          "contextBlocks": [
+            "It’s better to let networks of related ideas to gradually emerge, unlabeled: [[zR5J4ZucL8A9xTWBmDZpNJQ:::Let ideas and beliefs emerge organically]]. Once you can see the shape, then you can think about its character. This is one reason why [[zE92ANLEszr5pwoYatKzka8:::Evergreen notes are a safe place to develop wild ideas]]."
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zLdprTyt7Ca2z2LUGLtFMSs",
+        "zR6RRbCfY5rFkiimFnaJZKB",
+        "z79rMNNuLrUj6R8q1CXSpDm",
+        "zCknixwETdFm1MWdWPwMcXs",
+        "z6H1QypHEq3vak9sV7XLdKx",
+        "zVeajFC9i9mrpLhZ5ScXumn",
+        "zGbMMKcybSmwFR4jLS12iY2",
+        "z8SU3r8xyZyvwRhyDdJasJ2",
+        "zE92ANLEszr5pwoYatKzka8"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

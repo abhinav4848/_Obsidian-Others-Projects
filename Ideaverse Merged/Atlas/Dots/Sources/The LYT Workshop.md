@@ -9,7 +9,8 @@ year: 2020
 in:
   - "[[Ideaverse Merged/Atlas/Maps/Courses]]"
   - "[[Ideaverse Merged/Atlas/Maps/Sources]]"
-URL: https://www.linkingyourthinking.com/workshop
+URL:
+  - "https://www.linkingyourthinking.com/workshop"
 tags:
   - source/course
 type: "[[Ideaverse Merged/Atlas/Maps/Courses]]"

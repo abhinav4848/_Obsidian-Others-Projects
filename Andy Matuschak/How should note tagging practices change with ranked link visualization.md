@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zH7AVUkqYYK7xmoAn8PTpAV?stackedNotes=z2qjVZKqSqrqkhFhvUpPDtd&stackedNotes=zQvbnYfHdG1gARTbtC4pje6
+URL:
+  - "https://notes.andymatuschak.org/zH7AVUkqYYK7xmoAn8PTpAV?stackedNotes=z2qjVZKqSqrqkhFhvUpPDtd&stackedNotes=zQvbnYfHdG1gARTbtC4pje6"
 title: "How should note tagging practices change with ranked link visualization"
 ---
 # How should note tagging practices change with ranked link visualization

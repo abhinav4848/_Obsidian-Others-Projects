@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zKKB5ENRahwftH96H7mijiu?stackedNotes=zRHGYaDyQDBypztBaFYZgtR&stackedNotes=z9u6vyghiV3M1QaGhbYoWtR
+URL:
+  - "https://notes.andymatuschak.org/zKKB5ENRahwftH96H7mijiu?stackedNotes=zRHGYaDyQDBypztBaFYZgtR&stackedNotes=z9u6vyghiV3M1QaGhbYoWtR"
 title: "Tech industry culture rarely produces transformative tools for thought"
 ---
 # Tech industry culture rarely produces transformative tools for thought

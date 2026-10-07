@@ -1,0 +1,108 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Enacted_experiences_are_hard_to_author",
+  "checked_at": "2026-10-07T22:28:39.071901+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/z8r1EZL3sFrFe7brjiwFbFN",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "z8r1EZL3sFrFe7brjiwFbFN": {
+        "data": {
+          "slug": "z8r1EZL3sFrFe7brjiwFbFN",
+          "title": "Enacted experiences are hard to author",
+          "contentMarkdown": "# Enacted experiences are hard to author\n\nPlaywrights, novelists, and lecturers can leverage known forms to make their work easier. They can deploy prior patterns, tools, methodologies, etc. when solving problems or evaluating their work. By contrast, if you want to design an [[z92TGMiBsnraf5KXxSTNkBJ:::Enacted experience]], you’re mostly starting in the wilderness.\n\nThere are some key exceptions: game designers have patterns for aesthetic enacted experiences in their form; organizational design has patterns for instantiating team cultures and practices through enacted experiences.\n\nThere may be techniques and processes which underlie both these fields’ practices and which may yield general approaches for creating enacted experiences. This would be exciting because [[zKubRcJXKjiCDPsPgJWckkP:::Enacted experiences can bootstrap active participation in enabling environments]].\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Enacted experience",
+              "linkingNoteSlug": "z92TGMiBsnraf5KXxSTNkBJ",
+              "contextBlocks": [
+                "[[z8r1EZL3sFrFe7brjiwFbFN:::Enacted experiences are hard to author]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Enacted experiences can bootstrap active participation in enabling environments",
+              "linkingNoteSlug": "zKubRcJXKjiCDPsPgJWckkP",
+              "contextBlocks": [
+                "Unfortunately, [[z8r1EZL3sFrFe7brjiwFbFN:::Enacted experiences are hard to author]] and [[zGNVRh1q5gGeF88PbmYu4BB:::Enacted experiences are hard to distribute]]. Still, [[z984ZZLbG4wREM6HAZAovMB:::Enacted experiences have incredible potential as a mass medium]]. I see this as the central promise of media like the Primer: [[zP7xzHHLs9rLZudGvGjmD9k:::The Primer++ is embedded in a field, bootstrapping participation through enacted experience]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "The Primer++ is embedded in a field, bootstrapping participation through enacted experience",
+              "linkingNoteSlug": "zP7xzHHLs9rLZudGvGjmD9k",
+              "contextBlocks": [
+                "[[z9R3ho4NmDFScAohj3J8J3Y:::The Primer isn’t a viable enabling environment]]—but it does suggests a promising direction.  One challenge with creating enabling environments (like, say, a scientific field) is that [[z2etsLyP1LJUwNDPCwvRdUG:::Enabling environments focus on doing what’s enabled]], but that’s often impossible for novice participants, so they end up mired in abstract introductory materials. One promising approach: [[zKubRcJXKjiCDPsPgJWckkP:::Enacted experiences can bootstrap active participation in enabling environments]]. Unfortunately, [[z8r1EZL3sFrFe7brjiwFbFN:::Enacted experiences are hard to author]] and [[zGNVRh1q5gGeF88PbmYu4BB:::Enacted experiences are hard to distribute]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "§Enabling environments, games, and the Primer",
+              "linkingNoteSlug": "zGSGS1UHDogPKtvZB5hdT2A",
+              "contextBlocks": [
+                "Unfortunately, [[z8r1EZL3sFrFe7brjiwFbFN:::Enacted experiences are hard to author]] and [[zGNVRh1q5gGeF88PbmYu4BB:::Enacted experiences are hard to distribute]]."
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "z92TGMiBsnraf5KXxSTNkBJ",
+            "zKubRcJXKjiCDPsPgJWckkP"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "z8r1EZL3sFrFe7brjiwFbFN",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "z8r1EZL3sFrFe7brjiwFbFN",
+      "title": "Enacted experiences are hard to author",
+      "contentMarkdown": "# Enacted experiences are hard to author\n\nPlaywrights, novelists, and lecturers can leverage known forms to make their work easier. They can deploy prior patterns, tools, methodologies, etc. when solving problems or evaluating their work. By contrast, if you want to design an [[z92TGMiBsnraf5KXxSTNkBJ:::Enacted experience]], you’re mostly starting in the wilderness.\n\nThere are some key exceptions: game designers have patterns for aesthetic enacted experiences in their form; organizational design has patterns for instantiating team cultures and practices through enacted experiences.\n\nThere may be techniques and processes which underlie both these fields’ practices and which may yield general approaches for creating enacted experiences. This would be exciting because [[zKubRcJXKjiCDPsPgJWckkP:::Enacted experiences can bootstrap active participation in enabling environments]].\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Enacted experience",
+          "linkingNoteSlug": "z92TGMiBsnraf5KXxSTNkBJ",
+          "contextBlocks": [
+            "[[z8r1EZL3sFrFe7brjiwFbFN:::Enacted experiences are hard to author]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Enacted experiences can bootstrap active participation in enabling environments",
+          "linkingNoteSlug": "zKubRcJXKjiCDPsPgJWckkP",
+          "contextBlocks": [
+            "Unfortunately, [[z8r1EZL3sFrFe7brjiwFbFN:::Enacted experiences are hard to author]] and [[zGNVRh1q5gGeF88PbmYu4BB:::Enacted experiences are hard to distribute]]. Still, [[z984ZZLbG4wREM6HAZAovMB:::Enacted experiences have incredible potential as a mass medium]]. I see this as the central promise of media like the Primer: [[zP7xzHHLs9rLZudGvGjmD9k:::The Primer++ is embedded in a field, bootstrapping participation through enacted experience]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "The Primer++ is embedded in a field, bootstrapping participation through enacted experience",
+          "linkingNoteSlug": "zP7xzHHLs9rLZudGvGjmD9k",
+          "contextBlocks": [
+            "[[z9R3ho4NmDFScAohj3J8J3Y:::The Primer isn’t a viable enabling environment]]—but it does suggests a promising direction.  One challenge with creating enabling environments (like, say, a scientific field) is that [[z2etsLyP1LJUwNDPCwvRdUG:::Enabling environments focus on doing what’s enabled]], but that’s often impossible for novice participants, so they end up mired in abstract introductory materials. One promising approach: [[zKubRcJXKjiCDPsPgJWckkP:::Enacted experiences can bootstrap active participation in enabling environments]]. Unfortunately, [[z8r1EZL3sFrFe7brjiwFbFN:::Enacted experiences are hard to author]] and [[zGNVRh1q5gGeF88PbmYu4BB:::Enacted experiences are hard to distribute]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "§Enabling environments, games, and the Primer",
+          "linkingNoteSlug": "zGSGS1UHDogPKtvZB5hdT2A",
+          "contextBlocks": [
+            "Unfortunately, [[z8r1EZL3sFrFe7brjiwFbFN:::Enacted experiences are hard to author]] and [[zGNVRh1q5gGeF88PbmYu4BB:::Enacted experiences are hard to distribute]]."
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "z92TGMiBsnraf5KXxSTNkBJ",
+        "zKubRcJXKjiCDPsPgJWckkP"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

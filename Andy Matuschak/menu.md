@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z7YL32DPACvqsSZrMpt88X5
+URL:
+  - "https://notes.andymatuschak.org/z7YL32DPACvqsSZrMpt88X5"
 title: "menu"
 ---
 # menu

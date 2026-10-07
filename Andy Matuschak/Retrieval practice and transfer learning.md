@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zYB7kwEFRu8QALcbzbcoy9T?stackedNotes=z7ffiDfqTR9pPcEEUUbCL7C&stackedNotes=zRTw8KaPErhSCyC2NYGHyP7
+URL:
+  - "https://notes.andymatuschak.org/zYB7kwEFRu8QALcbzbcoy9T?stackedNotes=z7ffiDfqTR9pPcEEUUbCL7C&stackedNotes=zRTw8KaPErhSCyC2NYGHyP7"
 title: "Retrieval practice and transfer learning"
 ---
 # Retrieval practice and transfer learning

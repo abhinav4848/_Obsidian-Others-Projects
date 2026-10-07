@@ -1,0 +1,960 @@
+[
+  {
+    "note": "Andy Matuschak/A rigid fixation on “focus” can harm creative work.md",
+    "status": "needs_search",
+    "titles_tried": [
+      "A rigid fixation on “focus” can harm creative work"
+    ],
+    "attempts": [
+      {
+        "requested_URL": "https://notes.andymatuschak.org/A_rigid_fixation_on_%E2%80%9Cfocus%E2%80%9D_can_harm_creative_work",
+        "checked_at": "2026-10-07T22:28:37.275228+00:00",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "note": "Andy Matuschak/A writing inbox for transient and incomplete notes.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zUP4GuzPF33dWkZPiu9N6V5",
+    "online_title": "A writing inbox for transient and incomplete notes",
+    "requested_URL": "https://notes.andymatuschak.org/A_writing_inbox_for_transient_and_incomplete_notes",
+    "title_used": "A writing inbox for transient and incomplete notes",
+    "body_word_overlap": 0.966,
+    "cache": "andy-online\\pages\\72d106da9b5b2dd36549b993f13b233a69a22a770a65cbcbf42d7b01f4c67954.json"
+  },
+  {
+    "note": "Andy Matuschak/About these notes.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/About_these_notes",
+    "online_title": "About these notes",
+    "requested_URL": "https://notes.andymatuschak.org/About_these_notes",
+    "title_used": "About these notes",
+    "body_word_overlap": 0.993,
+    "cache": "andy-online\\pages\\07f1314638df84b5ac50b0454e3d57bd73c0159663db97aa382bf3c978296b74.json"
+  },
+  {
+    "note": "Andy Matuschak/Advantages and disadvantages of using notes to form associations in content.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zqX3qgwcs1XksYoyD5GpZx",
+    "online_title": "Advantages and disadvantages of using notes to form associations in content",
+    "requested_URL": "https://notes.andymatuschak.org/Advantages_and_disadvantages_of_using_notes_to_form_associations_in_content",
+    "title_used": "Advantages and disadvantages of using notes to form associations in content",
+    "body_word_overlap": 1.0,
+    "cache": "andy-online\\pages\\dc30c1cef46ed37235b364304aeb815dcb5d58d4bf346c03f2f5fc3c1da6864f.json"
+  },
+  {
+    "note": "Andy Matuschak/B. F. Skinner.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zTSp2CfdD1wQWDW8jjiXqWr",
+    "online_title": "B. F. Skinner",
+    "requested_URL": "https://notes.andymatuschak.org/B._F._Skinner",
+    "title_used": "B. F. Skinner",
+    "body_word_overlap": 0.987,
+    "cache": "andy-online\\pages\\3b6844f112a85c13e2a2c4107d144371ff84766fda62c1803aa57dddc6b602fe.json"
+  },
+  {
+    "note": "Andy Matuschak/Basic cognitive tasks rely on memory.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zTQiLBRW9Kd8epZczkjWN7e",
+    "online_title": "Basic cognitive tasks rely on memory",
+    "requested_URL": "https://notes.andymatuschak.org/Basic_cognitive_tasks_rely_on_memory",
+    "title_used": "Basic cognitive tasks rely on memory",
+    "body_word_overlap": 1.0,
+    "cache": "andy-online\\pages\\475f7dfed26df95b3d64c1cdaaa6d62b818ac1b8e5cc60979a19ca546b937ca7.json"
+  },
+  {
+    "note": "Andy Matuschak/Beware automatic import into the reading inbox.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zL2SPWGitsD4TruNYBzSZ7s",
+    "online_title": "Beware automatic import into the reading inbox",
+    "requested_URL": "https://notes.andymatuschak.org/Beware_automatic_import_into_the_reading_inbox",
+    "title_used": "Beware automatic import into the reading inbox",
+    "body_word_overlap": 1.0,
+    "cache": "andy-online\\pages\\8b293edcdbb98babba466b9e146d16be8c359f033f5c2d270700dba806e5bb78.json"
+  },
+  {
+    "note": "Andy Matuschak/Brooks, F. P., Jr. (1977). The computer “scientist” as toolsmith- Studies in interactive computer graphics. Information Processing, 625–634.md",
+    "status": "needs_search",
+    "titles_tried": [
+      "Brooks, F. P., Jr. (1977). The computer “scientist” as toolsmith- Studies in interactive computer graphics. Information Processing, 625–634",
+      "Brooks, F. P., Jr. (1977). The computer “scientist” as toolsmith: Studies in interactive computer graphics. Information Processing, 625–634."
+    ],
+    "attempts": [
+      {
+        "requested_URL": "https://notes.andymatuschak.org/Brooks%2C_F._P.%2C_Jr._%281977%29._The_computer_%E2%80%9Cscientist%E2%80%9D_as_toolsmith-_Studies_in_interactive_computer_graphics._Information_Processing%2C_625%E2%80%93634",
+        "checked_at": "2026-10-07T22:28:37.982673+00:00",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "requested_URL": "https://notes.andymatuschak.org/Brooks%2C_F._P.%2C_Jr._%281977%29._The_computer_%E2%80%9Cscientist%E2%80%9D_as_toolsmith%3A_Studies_in_interactive_computer_graphics._Information_Processing%2C_625%E2%80%93634.",
+        "checked_at": "2026-10-07T22:28:38.380528+00:00",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "note": "Andy Matuschak/Cloze Deletion.md",
+    "status": "needs_search",
+    "titles_tried": [
+      "Cloze Deletion"
+    ],
+    "attempts": [
+      {
+        "requested_URL": "https://notes.andymatuschak.org/Cloze_Deletion",
+        "checked_at": "2026-10-07T22:28:38.299885+00:00",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "note": "Andy Matuschak/Collaborations between tool-makers and tool-users can best iterate via a sequence of different projects.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/z2MeZGv57tNcz5rh64ebSNz",
+    "online_title": "Collaborations between tool-makers and tool-users can best iterate via a sequence of different projects",
+    "requested_URL": "https://notes.andymatuschak.org/Collaborations_between_tool-makers_and_tool-users_can_best_iterate_via_a_sequence_of_different_projects",
+    "title_used": "Collaborations between tool-makers and tool-users can best iterate via a sequence of different projects",
+    "body_word_overlap": 0.987,
+    "cache": "andy-online\\pages\\d7f016f8dd6b0c9943da43af1103444b512af3edb1ddb27594892257ca6e139c.json"
+  },
+  {
+    "note": "Andy Matuschak/Collaborations between tool-makers and tool-users depend on building effective “armories” of tool ideas.md",
+    "status": "needs_search",
+    "titles_tried": [
+      "Collaborations between tool-makers and tool-users depend on building effective “armories” of tool ideas"
+    ],
+    "attempts": [
+      {
+        "requested_URL": "https://notes.andymatuschak.org/Collaborations_between_tool-makers_and_tool-users_depend_on_building_effective_%E2%80%9Carmories%E2%80%9D_of_tool_ideas",
+        "checked_at": "2026-10-07T22:28:38.642395+00:00",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "note": "Andy Matuschak/Core practices in knowledge work are often ad-hoc.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zPFYKBrsvL88opKh28UYxWv",
+    "online_title": "Core practices in knowledge work are often ad-hoc",
+    "requested_URL": "https://notes.andymatuschak.org/Core_practices_in_knowledge_work_are_often_ad-hoc",
+    "title_used": "Core practices in knowledge work are often ad-hoc",
+    "body_word_overlap": 0.982,
+    "cache": "andy-online\\pages\\4359c6f9ccf01c13dc103e80b7854623329396c2cd5734e818cfbccc8a44cc89.json"
+  },
+  {
+    "note": "Andy Matuschak/Enabling environment.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/z492hGrHvRvJiEY9UfB4Mby",
+    "online_title": "Enabling environment",
+    "requested_URL": "https://notes.andymatuschak.org/Enabling_environment",
+    "title_used": "Enabling environment",
+    "body_word_overlap": 0.969,
+    "cache": "andy-online\\pages\\5e87d1c65953ece729731f81ef13dfa697fffd566dac59dcd642af133256ff66.json"
+  },
+  {
+    "note": "Andy Matuschak/Enacted experience.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/z92TGMiBsnraf5KXxSTNkBJ",
+    "online_title": "Enacted experience",
+    "requested_URL": "https://notes.andymatuschak.org/Enacted_experience",
+    "title_used": "Enacted experience",
+    "body_word_overlap": 0.948,
+    "cache": "andy-online\\pages\\439f1df8f3268ac1111ac957d3343bd8070f269f4b609e0ab5b6a37602f3ea3b.json"
+  },
+  {
+    "note": "Andy Matuschak/Enacted experiences are hard to author.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/z8r1EZL3sFrFe7brjiwFbFN",
+    "online_title": "Enacted experiences are hard to author",
+    "requested_URL": "https://notes.andymatuschak.org/Enacted_experiences_are_hard_to_author",
+    "title_used": "Enacted experiences are hard to author",
+    "body_word_overlap": 1.0,
+    "cache": "andy-online\\pages\\b0ad13c0d70f39325553520353097bc22af88fca7c2441a8ea9a9b9c783bd43a.json"
+  },
+  {
+    "note": "Andy Matuschak/Evergreen notes are a safe place to develop wild ideas.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zE92ANLEszr5pwoYatKzka8",
+    "online_title": "Evergreen notes are a safe place to develop wild ideas",
+    "requested_URL": "https://notes.andymatuschak.org/Evergreen_notes_are_a_safe_place_to_develop_wild_ideas",
+    "title_used": "Evergreen notes are a safe place to develop wild ideas",
+    "body_word_overlap": 0.985,
+    "cache": "andy-online\\pages\\6f3f4548eacdbc00ff71fa44acd8437344832c92c25a60bbc10533cdc0eaa4b2.json"
+  },
+  {
+    "note": "Andy Matuschak/Evergreen notes lower the emotional stakes in editing manuscripts.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zSKD44o2VTbQuQYqmjupo4B",
+    "online_title": "Evergreen notes lower the emotional stakes in editing manuscripts",
+    "requested_URL": "https://notes.andymatuschak.org/Evergreen_notes_lower_the_emotional_stakes_in_editing_manuscripts",
+    "title_used": "Evergreen notes lower the emotional stakes in editing manuscripts",
+    "body_word_overlap": 0.973,
+    "cache": "andy-online\\pages\\36094ee9a03f2072c008d66d25ef37d0954af2a6215a77f35a4fca130c83089d.json"
+  },
+  {
+    "note": "Andy Matuschak/Evergreen notes permit smooth incremental progress in writing (“incremental writing”).md",
+    "status": "needs_search",
+    "titles_tried": [
+      "Evergreen notes permit smooth incremental progress in writing (“incremental writing”)"
+    ],
+    "attempts": [
+      {
+        "requested_URL": "https://notes.andymatuschak.org/Evergreen_notes_permit_smooth_incremental_progress_in_writing_%28%E2%80%9Cincremental_writing%E2%80%9D%29",
+        "checked_at": "2026-10-07T22:28:39.875266+00:00",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "note": "Andy Matuschak/Everything takes longer than you think it will.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zWzai58V4EEmGDVHTEv7g61",
+    "online_title": "Everything takes longer than you think it will",
+    "requested_URL": "https://notes.andymatuschak.org/Everything_takes_longer_than_you_think_it_will",
+    "title_used": "Everything takes longer than you think it will",
+    "body_word_overlap": 0.958,
+    "cache": "andy-online\\pages\\f19bcc0cf0602a8aeb1544c8754dfe1f07f49ea17961ed5849982f088fee1dbe.json"
+  },
+  {
+    "note": "Andy Matuschak/Executable strategy.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zVyJffuisLSjaDVtBtxsmSS",
+    "online_title": "Executable strategy",
+    "requested_URL": "https://notes.andymatuschak.org/Executable_strategy",
+    "title_used": "Executable strategy",
+    "body_word_overlap": 0.97,
+    "cache": "andy-online\\pages\\54f2a74c90c5de899092b270babe8814af6e4e26a90f7665085a9c5b00ed1887.json"
+  },
+  {
+    "note": "Andy Matuschak/Existing spaced repetition systems discourage evergreen notes.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zMXZQANJPzCDUFPrUAYAFrn",
+    "online_title": "Existing spaced repetition systems discourage evergreen notes",
+    "requested_URL": "https://notes.andymatuschak.org/Existing_spaced_repetition_systems_discourage_evergreen_notes",
+    "title_used": "Existing spaced repetition systems discourage evergreen notes",
+    "body_word_overlap": 0.981,
+    "cache": "andy-online\\pages\\fcfe5538b7e231881c820c9e8cfa56a250727e4d4f77911b4fe4807c20410cdf.json"
+  },
+  {
+    "note": "Andy Matuschak/Flow (What is a state of flow ).md",
+    "status": "needs_search",
+    "titles_tried": [
+      "Flow (What is a state of flow )",
+      "Flow (What is a state of flow?)"
+    ],
+    "attempts": [
+      {
+        "requested_URL": "https://notes.andymatuschak.org/Flow_%28What_is_a_state_of_flow_%29",
+        "checked_at": "2026-10-07T22:28:40.655131+00:00",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "requested_URL": "https://notes.andymatuschak.org/Flow_%28What_is_a_state_of_flow%3F%29",
+        "checked_at": "2026-10-07T22:28:41.325896+00:00",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "note": "Andy Matuschak/Forgetting curve.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/z26AXzY1oNUMSENevADMhGV",
+    "online_title": "Forgetting curve",
+    "requested_URL": "https://notes.andymatuschak.org/Forgetting_curve",
+    "title_used": "Forgetting curve",
+    "body_word_overlap": 0.945,
+    "cache": "andy-online\\pages\\6cbc2e119955b02b0339e8afe285eda424f5ec40f3b69db3547f52259ee15e7a.json"
+  },
+  {
+    "note": "Andy Matuschak/How rapidly do people forget practical knowledge.md",
+    "status": "needs_search",
+    "titles_tried": [
+      "How rapidly do people forget practical knowledge",
+      "How rapidly do people forget practical knowledge?"
+    ],
+    "attempts": [
+      {
+        "requested_URL": "https://notes.andymatuschak.org/How_rapidly_do_people_forget_practical_knowledge",
+        "checked_at": "2026-10-07T22:28:41.138237+00:00",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "requested_URL": "https://notes.andymatuschak.org/How_rapidly_do_people_forget_practical_knowledge%3F",
+        "checked_at": "2026-10-07T22:28:41.670751+00:00",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "note": "Andy Matuschak/How to collect observations while reading.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zME6gV6mc1mQ2KDE5acyho8",
+    "online_title": "How to collect observations while reading",
+    "requested_URL": "https://notes.andymatuschak.org/How_to_collect_observations_while_reading",
+    "title_used": "How to collect observations while reading",
+    "body_word_overlap": 0.992,
+    "cache": "andy-online\\pages\\76468a29b087b27f4c4add76acc1fd4b971f7735328c2788a608234b2d34c1ec.json"
+  },
+  {
+    "note": "Andy Matuschak/How to Take Smart Notes - Ahrens.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zH7AVUkqYYK7xmoAn8PTpAV",
+    "online_title": "How to Take Smart Notes - Ahrens",
+    "requested_URL": "https://notes.andymatuschak.org/How_to_Take_Smart_Notes_-_Ahrens",
+    "title_used": "How to Take Smart Notes - Ahrens",
+    "body_word_overlap": 0.987,
+    "cache": "andy-online\\pages\\5d8d06cc961099caa2c303f155b50c9cff3100e845b1643d479a7acaf366f353.json"
+  },
+  {
+    "note": "Andy Matuschak/Impermanence.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zW4ibrYmQAq5tTY4JEsGcDX",
+    "online_title": "Impermanence",
+    "requested_URL": "https://notes.andymatuschak.org/Impermanence",
+    "title_used": "Impermanence",
+    "body_word_overlap": 0.976,
+    "cache": "andy-online\\pages\\7fbbe13efe95d35f1a80bf83749fef914d637cb9b5b1fed3c641cc8ed2a6cede.json"
+  },
+  {
+    "note": "Andy Matuschak/Inboxes only work if you trust how they’re drained.md",
+    "status": "needs_search",
+    "titles_tried": [
+      "Inboxes only work if you trust how they’re drained"
+    ],
+    "attempts": [
+      {
+        "requested_URL": "https://notes.andymatuschak.org/Inboxes_only_work_if_you_trust_how_they%E2%80%99re_drained",
+        "checked_at": "2026-10-07T22:28:41.779422+00:00",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "note": "Andy Matuschak/Indexed references vs. tags.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/z2qjVZKqSqrqkhFhvUpPDtd",
+    "online_title": "Indexed references vs. tags",
+    "requested_URL": "https://notes.andymatuschak.org/Indexed_references_vs._tags",
+    "title_used": "Indexed references vs. tags",
+    "body_word_overlap": 0.986,
+    "cache": "andy-online\\pages\\a1cb79282b6cbe78146181afaacafb5a7336d0324c2df718465cf955fe1176ac.json"
+  },
+  {
+    "note": "Andy Matuschak/Insight through making.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/z6JLcoBBGh7uKrgTiKLcPv2",
+    "online_title": "Insight through making",
+    "requested_URL": "https://notes.andymatuschak.org/Insight_through_making",
+    "title_used": "Insight through making",
+    "body_word_overlap": 1.0,
+    "cache": "andy-online\\pages\\faad2d3244ecfba0ebcfd83fe1be3cf377cebc32573cdfae552647134d8bde16.json"
+  },
+  {
+    "note": "Andy Matuschak/It’s hard for independent researchers to find full-time collaborators.md",
+    "status": "needs_search",
+    "titles_tried": [
+      "It’s hard for independent researchers to find full-time collaborators"
+    ],
+    "attempts": [
+      {
+        "requested_URL": "https://notes.andymatuschak.org/It%E2%80%99s_hard_for_independent_researchers_to_find_full-time_collaborators",
+        "checked_at": "2026-10-07T22:28:42.288008+00:00",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "note": "Andy Matuschak/It’s hard to do difficult creative work for more than a few hours a day.md",
+    "status": "needs_search",
+    "titles_tried": [
+      "It’s hard to do difficult creative work for more than a few hours a day"
+    ],
+    "attempts": [
+      {
+        "requested_URL": "https://notes.andymatuschak.org/It%E2%80%99s_hard_to_do_difficult_creative_work_for_more_than_a_few_hours_a_day",
+        "checked_at": "2026-10-07T22:28:42.542528+00:00",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "note": "Andy Matuschak/Just-in-time information retrieval agents.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zPMX7HYXAg2cyetFH1JTcpd",
+    "online_title": "Just-in-time information retrieval agents",
+    "requested_URL": "https://notes.andymatuschak.org/Just-in-time_information_retrieval_agents",
+    "title_used": "Just-in-time information retrieval agents",
+    "body_word_overlap": 0.937,
+    "cache": "andy-online\\pages\\a1f0bcf6c141516a50d2a532e76f37d07f97427ceab2c005aed6e24c047b3502.json"
+  },
+  {
+    "note": "Andy Matuschak/Learning increasingly complex ideas may amount to forming larger effective chunk sizes.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zV7JyZE547zrC5Wkm1iymGg",
+    "online_title": "Learning increasingly complex ideas may amount to forming larger effective chunk sizes",
+    "requested_URL": "https://notes.andymatuschak.org/Learning_increasingly_complex_ideas_may_amount_to_forming_larger_effective_chunk_sizes",
+    "title_used": "Learning increasingly complex ideas may amount to forming larger effective chunk sizes",
+    "body_word_overlap": 1.0,
+    "cache": "andy-online\\pages\\766390fb1b811fad3f9fdd3a2e6f68d52f6b109a7fadb44a904a980ead38b21b.json"
+  },
+  {
+    "note": "Andy Matuschak/Learning requires metacognition.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zBwPoJqo3vzLwzGSa4Tcgma",
+    "online_title": "Learning requires metacognition",
+    "requested_URL": "https://notes.andymatuschak.org/Learning_requires_metacognition",
+    "title_used": "Learning requires metacognition",
+    "body_word_overlap": 0.844,
+    "cache": "andy-online\\pages\\4f760d6e1ad8359ce0e66c055c4952db9271d2ecff1295068c0ec99c8fbea8d1.json"
+  },
+  {
+    "note": "Andy Matuschak/Less accessible memories are more reinforced by retrieval.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zCyRxeMEg53C6mMfXYH2gxn",
+    "online_title": "Less accessible memories are more reinforced by retrieval",
+    "requested_URL": "https://notes.andymatuschak.org/Less_accessible_memories_are_more_reinforced_by_retrieval",
+    "title_used": "Less accessible memories are more reinforced by retrieval",
+    "body_word_overlap": 0.901,
+    "cache": "andy-online\\pages\\868d50197f256f3db33c041aab93e5d65d6d7623201f0160b5e7779e575d2cfa.json"
+  },
+  {
+    "note": "Andy Matuschak/Let ideas and beliefs emerge organically.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zR5J4ZucL8A9xTWBmDZpNJQ",
+    "online_title": "Let ideas and beliefs emerge organically",
+    "requested_URL": "https://notes.andymatuschak.org/Let_ideas_and_beliefs_emerge_organically",
+    "title_used": "Let ideas and beliefs emerge organically",
+    "body_word_overlap": 1.0,
+    "cache": "andy-online\\pages\\9eef93aea0fd3c91b724f04154e3f73a7bd110e15e33a7a317b031798c7f9405.json"
+  },
+  {
+    "note": "Andy Matuschak/Linked representations.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zTTKcEY5M9mb8Gc1yovh6wM",
+    "online_title": "Linked representations",
+    "requested_URL": "https://notes.andymatuschak.org/Linked_representations",
+    "title_used": "Linked representations",
+    "body_word_overlap": 1.0,
+    "cache": "andy-online\\pages\\615ff16f053664b0428e9f778bef96d7a69333acfb1fa31749566e9b1b01aa07.json"
+  },
+  {
+    "note": "Andy Matuschak/Messy thought, neat thought.md",
+    "status": "needs_search",
+    "titles_tried": [
+      "Messy thought, neat thought"
+    ],
+    "attempts": [
+      {
+        "requested_URL": "https://notes.andymatuschak.org/Messy_thought%2C_neat_thought",
+        "checked_at": "2026-10-07T22:28:43.804926+00:00",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "note": "Andy Matuschak/Metacognition is inherently dynamic.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zXaviMzj3x8DPjDDiUgJhoC",
+    "online_title": "Metacognition is inherently dynamic",
+    "requested_URL": "https://notes.andymatuschak.org/Metacognition_is_inherently_dynamic",
+    "title_used": "Metacognition is inherently dynamic",
+    "body_word_overlap": 0.926,
+    "cache": "andy-online\\pages\\0b84156610b9711a050efd6ab9ba8a7d30ca2a8d894efceb97f640d4c62b7f9f.json"
+  },
+  {
+    "note": "Andy Matuschak/Methods for bringing dynamic mediums to physical reading contexts.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/z2vMujPz4bgD3BwtwbU9U9B",
+    "online_title": "Methods for bringing dynamic mediums to physical reading contexts",
+    "requested_URL": "https://notes.andymatuschak.org/Methods_for_bringing_dynamic_mediums_to_physical_reading_contexts",
+    "title_used": "Methods for bringing dynamic mediums to physical reading contexts",
+    "body_word_overlap": 0.927,
+    "cache": "andy-online\\pages\\6a7abdac7bbdd31e183111821d4fbfdbcac6a96a1a6d6b4bbeefb569b8e723d5.json"
+  },
+  {
+    "note": "Andy Matuschak/Mind.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zAbJK6ZZVGmgYD6CRRFGKCE",
+    "online_title": "Mind",
+    "requested_URL": "https://notes.andymatuschak.org/Mind",
+    "title_used": "Mind",
+    "body_word_overlap": 1.0,
+    "cache": "andy-online\\pages\\d71a3ee640271bd7542ba369381ad02a03ac922f3f5e679f95fdca6489ee266e.json"
+  },
+  {
+    "note": "Andy Matuschak/Mnemonic texts could be serialized in small sections over time, timed to reader recall.md",
+    "status": "needs_search",
+    "titles_tried": [
+      "Mnemonic texts could be serialized in small sections over time, timed to reader recall"
+    ],
+    "attempts": [
+      {
+        "requested_URL": "https://notes.andymatuschak.org/Mnemonic_texts_could_be_serialized_in_small_sections_over_time%2C_timed_to_reader_recall",
+        "checked_at": "2026-10-07T22:28:44.306629+00:00",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "note": "Andy Matuschak/Most explanatory media make participants run their own feedback loop.md",
+    "status": "needs_search",
+    "titles_tried": [
+      "Most explanatory media make participants run their own feedback loop"
+    ],
+    "attempts": [
+      {
+        "requested_URL": "https://notes.andymatuschak.org/Most_explanatory_media_make_participants_run_their_own_feedback_loop",
+        "checked_at": "2026-10-07T22:28:44.663907+00:00",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "note": "Andy Matuschak/My morning writing practice.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zHTevHGZQPu8QHpRhUmtsuK",
+    "online_title": "My morning writing practice",
+    "requested_URL": "https://notes.andymatuschak.org/My_morning_writing_practice",
+    "title_used": "My morning writing practice",
+    "body_word_overlap": 0.991,
+    "cache": "andy-online\\pages\\976f09272f2aefbb362d651aea776cc678a7280670030d1ae7deab38126b36a1.json"
+  },
+  {
+    "note": "Andy Matuschak/Narrative as cognitive scaffolding.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zEhGSbBPbgmh7Ce1VQS2RPk",
+    "online_title": "Narrative as cognitive scaffolding",
+    "requested_URL": "https://notes.andymatuschak.org/Narrative_as_cognitive_scaffolding",
+    "title_used": "Narrative as cognitive scaffolding",
+    "body_word_overlap": 0.983,
+    "cache": "andy-online\\pages\\09256dc550033e9ee00b950237fd088edc1d3a7f9c303b52da057988eec85186.json"
+  },
+  {
+    "note": "Andy Matuschak/Non-identification.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/z5URdYxJwnM5TVhQnbZER8b",
+    "online_title": "Non-identification",
+    "requested_URL": "https://notes.andymatuschak.org/Non-identification",
+    "title_used": "Non-identification",
+    "body_word_overlap": 0.805,
+    "cache": "andy-online\\pages\\1c5ee17bee7cecd044c0ec2df06bfec3264f0a4c33a3ad76137958bf18ace9a3.json"
+  },
+  {
+    "note": "Andy Matuschak/Novices in enabling environments often can’t do what’s enabled.md",
+    "status": "needs_search",
+    "titles_tried": [
+      "Novices in enabling environments often can’t do what’s enabled"
+    ],
+    "attempts": [
+      {
+        "requested_URL": "https://notes.andymatuschak.org/Novices_in_enabling_environments_often_can%E2%80%99t_do_what%E2%80%99s_enabled",
+        "checked_at": "2026-10-07T22:28:44.991530+00:00",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "note": "Andy Matuschak/People seem to forget most of what they read, and they mostly don't notice.md",
+    "status": "needs_search",
+    "titles_tried": [
+      "People seem to forget most of what they read, and they mostly don't notice",
+      "People seem to forget most of what they read, and they mostly don’t notice"
+    ],
+    "attempts": [
+      {
+        "requested_URL": "https://notes.andymatuschak.org/People_seem_to_forget_most_of_what_they_read%2C_and_they_mostly_don%27t_notice",
+        "checked_at": "2026-10-07T22:28:45.175995+00:00",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "requested_URL": "https://notes.andymatuschak.org/People_seem_to_forget_most_of_what_they_read%2C_and_they_mostly_don%E2%80%99t_notice",
+        "checked_at": "2026-10-07T22:28:45.803641+00:00",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "note": "Andy Matuschak/People who write extensively about note-writing rarely have a serious context of use.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/z51q8prEJzs5Jqa5WPThYoV",
+    "online_title": "People who write extensively about note-writing rarely have a serious context of use",
+    "requested_URL": "https://notes.andymatuschak.org/People_who_write_extensively_about_note-writing_rarely_have_a_serious_context_of_use",
+    "title_used": "People who write extensively about note-writing rarely have a serious context of use",
+    "body_word_overlap": 0.993,
+    "cache": "andy-online\\pages\\aa80fe625963b76137aed0ee3fb3a02be4a62e21e9ba6c35f8fe9bea1fde0a28.json"
+  },
+  {
+    "note": "Andy Matuschak/Piotr Wozniak.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zT8N3LTbePn2LVD7ZhJ5TLr",
+    "online_title": "Piotr Wozniak",
+    "requested_URL": "https://notes.andymatuschak.org/Piotr_Wozniak",
+    "title_used": "Piotr Wozniak",
+    "body_word_overlap": 0.923,
+    "cache": "andy-online\\pages\\dbd8a96dd0d8c6b4285ec7df6a41d7e90450f39880a54ce751723b56574ad5a4.json"
+  },
+  {
+    "note": "Andy Matuschak/Prefer explicit associations to inferred associations.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/z8Ubad66AWp7ZLShUmRu3vu",
+    "online_title": "Prefer explicit associations to inferred associations",
+    "requested_URL": "https://notes.andymatuschak.org/Prefer_explicit_associations_to_inferred_associations",
+    "title_used": "Prefer explicit associations to inferred associations",
+    "body_word_overlap": 1.0,
+    "cache": "andy-online\\pages\\aecf15cd2baac2dc21fc7bbb023dfae5e0fa453c080937a4d0a10448fc50bf21.json"
+  },
+  {
+    "note": "Andy Matuschak/Process over product.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zY4QE4Q6NJpGZZh4Binv2xB",
+    "online_title": "Process over product",
+    "requested_URL": "https://notes.andymatuschak.org/Process_over_product",
+    "title_used": "Process over product",
+    "body_word_overlap": 0.965,
+    "cache": "andy-online\\pages\\b5022c4f9dada81841831697f015f38d0af3597d1d4ee3b08fd11f77e7223c91.json"
+  },
+  {
+    "note": "Andy Matuschak/ReadMe.md",
+    "status": "needs_search",
+    "titles_tried": [
+      "ReadMe",
+      "Lizard Men From Outer Space",
+      "Ideaverse by Nick Milo"
+    ],
+    "attempts": [
+      {
+        "requested_URL": "https://notes.andymatuschak.org/ReadMe",
+        "checked_at": "2026-10-07T22:28:46.241424+00:00",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "requested_URL": "https://notes.andymatuschak.org/Lizard_Men_From_Outer_Space",
+        "checked_at": "2026-10-07T22:28:46.697964+00:00",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "requested_URL": "https://notes.andymatuschak.org/Ideaverse_by_Nick_Milo",
+        "checked_at": "2026-10-07T22:28:47.183651+00:00",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "note": "Andy Matuschak/Retrieval practice may be less effective without feedback.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zyvKN4BdHujBNpez2uZjYx",
+    "online_title": "Retrieval practice may be less effective without feedback",
+    "requested_URL": "https://notes.andymatuschak.org/Retrieval_practice_may_be_less_effective_without_feedback",
+    "title_used": "Retrieval practice may be less effective without feedback",
+    "body_word_overlap": 0.833,
+    "cache": "andy-online\\pages\\f0d6d3a8f177b7d4c2faf23bd7b0eb282bacfa8ec6e0e4922ecff00494024796.json"
+  },
+  {
+    "note": "Andy Matuschak/Similarities and differences between evergreen note-writing and Zettelkasten.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zQvwwb95vzcHcpow3GWy5Wi",
+    "online_title": "Similarities and differences between evergreen note-writing and Zettelkasten",
+    "requested_URL": "https://notes.andymatuschak.org/Similarities_and_differences_between_evergreen_note-writing_and_Zettelkasten",
+    "title_used": "Similarities and differences between evergreen note-writing and Zettelkasten",
+    "body_word_overlap": 1.0,
+    "cache": "andy-online\\pages\\de86792b389443e34ccb92b8a43f9cde309a8927b618c5fc0c4fe984c98d892e.json"
+  },
+  {
+    "note": "Andy Matuschak/Situated Learning - Lave and Wenger.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zMhuu3pPa6FeNGYn3VfGCar",
+    "online_title": "Situated Learning - Lave and Wenger",
+    "requested_URL": "https://notes.andymatuschak.org/Situated_Learning_-_Lave_and_Wenger",
+    "title_used": "Situated Learning - Lave and Wenger",
+    "body_word_overlap": 0.961,
+    "cache": "andy-online\\pages\\28bda295e3fd95c1a6783b4922c2679e83675899b2e9217ba260dd126d42b52e.json"
+  },
+  {
+    "note": "Andy Matuschak/Skilful reading is often non-linear.md",
+    "status": "needs_search",
+    "titles_tried": [
+      "Skilful reading is often non-linear"
+    ],
+    "attempts": [
+      {
+        "requested_URL": "https://notes.andymatuschak.org/Skilful_reading_is_often_non-linear",
+        "checked_at": "2026-10-07T22:28:46.916293+00:00",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "note": "Andy Matuschak/Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences.md",
+    "status": "needs_search",
+    "titles_tried": [
+      "Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences"
+    ],
+    "attempts": [
+      {
+        "requested_URL": "https://notes.andymatuschak.org/Software_interfaces_often_harmfully_frame_destructive_operations_as_final_decisions%2C_not_contingent_preferences",
+        "checked_at": "2026-10-07T22:28:47.336235+00:00",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "note": "Andy Matuschak/Some people have extraordinary energy for creative work.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zLxj4xVQa4ZQNH2kgX4NTaT",
+    "online_title": "Some people have extraordinary energy for creative work",
+    "requested_URL": "https://notes.andymatuschak.org/Some_people_have_extraordinary_energy_for_creative_work",
+    "title_used": "Some people have extraordinary energy for creative work",
+    "body_word_overlap": 0.961,
+    "cache": "andy-online\\pages\\96d4647eccc727acf526201e505424300801cc23e83ccf55b6db2091d3ecfd3e.json"
+  },
+  {
+    "note": "Andy Matuschak/Spaced repetition can lower the stakes around destructive inbox-maintenance operations.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zJ5Yzvba2729XKXivBBZ91J",
+    "online_title": "Spaced repetition can lower the stakes around destructive inbox-maintenance operations",
+    "requested_URL": "https://notes.andymatuschak.org/Spaced_repetition_can_lower_the_stakes_around_destructive_inbox-maintenance_operations",
+    "title_used": "Spaced repetition can lower the stakes around destructive inbox-maintenance operations",
+    "body_word_overlap": 1.0,
+    "cache": "andy-online\\pages\\77064000d8c1985eeabe1911e261c5f511d5e96d621ce9a6a14f8ce78aef13b4.json"
+  },
+  {
+    "note": "Andy Matuschak/Spaced repetition may be a helpful tool to develop or change habits.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/z9AH3dD42uGiJzR1WH1eo7n",
+    "online_title": "Spaced repetition may be a helpful tool to develop or change habits",
+    "requested_URL": "https://notes.andymatuschak.org/Spaced_repetition_may_be_a_helpful_tool_to_develop_or_change_habits",
+    "title_used": "Spaced repetition may be a helpful tool to develop or change habits",
+    "body_word_overlap": 0.969,
+    "cache": "andy-online\\pages\\4c56d2130bbda6cbc7ba9d780f3b800f923fd7f07d1d34df527baf80f03c11ec.json"
+  },
+  {
+    "note": "Andy Matuschak/Spaced repetition may be a helpful tool to incrementally develop inklings.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zSK4LyrCbG9zDrdCWmcovUW",
+    "online_title": "Spaced repetition may be a helpful tool to incrementally develop inklings",
+    "requested_URL": "https://notes.andymatuschak.org/Spaced_repetition_may_be_a_helpful_tool_to_incrementally_develop_inklings",
+    "title_used": "Spaced repetition may be a helpful tool to incrementally develop inklings",
+    "body_word_overlap": 0.981,
+    "cache": "andy-online\\pages\\c3d84050ee30429c690f55e554f8b4368607a568c707e0e3109c4d2dae086d68.json"
+  },
+  {
+    "note": "Andy Matuschak/Spaced repetition mechanics create a sense of effortlessness.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zM2KVgUySDFDqAZ7MoD3oZd",
+    "online_title": "Spaced repetition mechanics create a sense of effortlessness",
+    "requested_URL": "https://notes.andymatuschak.org/Spaced_repetition_mechanics_create_a_sense_of_effortlessness",
+    "title_used": "Spaced repetition mechanics create a sense of effortlessness",
+    "body_word_overlap": 0.973,
+    "cache": "andy-online\\pages\\358be4c74c1d9f2ae1ab8fabcf65f9442da26f9a9277d0bc4119f3656a410c10.json"
+  },
+  {
+    "note": "Andy Matuschak/Spaced repetition memory systems are extremely efficient.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/z64yjxVfMvJTSAjWFpyEtnA",
+    "online_title": "Spaced repetition memory systems are extremely efficient",
+    "requested_URL": "https://notes.andymatuschak.org/Spaced_repetition_memory_systems_are_extremely_efficient",
+    "title_used": "Spaced repetition memory systems are extremely efficient",
+    "body_word_overlap": 1.0,
+    "cache": "andy-online\\pages\\aa48a98efba44699137f6c8dc2fa80eb21bbb3a77f276b92bbce339b943d7ade.json"
+  },
+  {
+    "note": "Andy Matuschak/Spaced repetition memory systems can be used to develop conceptual understanding.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/z9Vi7YVx7NzxU2wawNgsJbk",
+    "online_title": "Spaced repetition memory systems can be used to develop conceptual understanding",
+    "requested_URL": "https://notes.andymatuschak.org/Spaced_repetition_memory_systems_can_be_used_to_develop_conceptual_understanding",
+    "title_used": "Spaced repetition memory systems can be used to develop conceptual understanding",
+    "body_word_overlap": 0.396,
+    "cache": "andy-online\\pages\\5d04bd14cc472c3b91849d5c6080f62edc43b377887375de6f5fc48f393c80b4.json"
+  },
+  {
+    "note": "Andy Matuschak/Spaced repetition memory systems can be used to prompt application, synthesis, and creation.md",
+    "status": "needs_search",
+    "titles_tried": [
+      "Spaced repetition memory systems can be used to prompt application, synthesis, and creation"
+    ],
+    "attempts": [
+      {
+        "requested_URL": "https://notes.andymatuschak.org/Spaced_repetition_memory_systems_can_be_used_to_prompt_application%2C_synthesis%2C_and_creation",
+        "checked_at": "2026-10-07T22:28:48.661928+00:00",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "note": "Andy Matuschak/Spaced repetition memory systems make memory a choice.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zSTqsQ4ATXB61k3Z43TforN",
+    "online_title": "Spaced repetition memory systems make memory a choice",
+    "requested_URL": "https://notes.andymatuschak.org/Spaced_repetition_memory_systems_make_memory_a_choice",
+    "title_used": "Spaced repetition memory systems make memory a choice",
+    "body_word_overlap": 0.34,
+    "cache": "andy-online\\pages\\823c5472e92a2fb20b4337fa64af902cc0094e75d8da87dcff70a055e14e6d30.json"
+  },
+  {
+    "note": "Andy Matuschak/Spaced repetition prompt design is about designing tasks for your future self.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/z53zJy6y76MGuJuWW4Qvab9",
+    "online_title": "Spaced repetition prompt design is about designing tasks for your future self",
+    "requested_URL": "https://notes.andymatuschak.org/Spaced_repetition_prompt_design_is_about_designing_tasks_for_your_future_self",
+    "title_used": "Spaced repetition prompt design is about designing tasks for your future self",
+    "body_word_overlap": 0.987,
+    "cache": "andy-online\\pages\\f9ec378f58e4bd82c827dbf94180a23baaf72d4cc5a2c5fb694ba4edc0a028f9.json"
+  },
+  {
+    "note": "Andy Matuschak/Span of absolute judgment.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zMQK1sFXWbVMbSQAsjSTUvm",
+    "online_title": "Span of absolute judgment",
+    "requested_URL": "https://notes.andymatuschak.org/Span_of_absolute_judgment",
+    "title_used": "Span of absolute judgment",
+    "body_word_overlap": 0.947,
+    "cache": "andy-online\\pages\\8bac5b1c075ebc4ebbe3b5702af4991d0c66de9699fb8a9f9e667b2181c9afa4.json"
+  },
+  {
+    "note": "Andy Matuschak/The best way to read is highly contextual.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zNhg2x8e6yHJXxf7GeBLu1R",
+    "online_title": "The best way to read is highly contextual",
+    "requested_URL": "https://notes.andymatuschak.org/The_best_way_to_read_is_highly_contextual",
+    "title_used": "The best way to read is highly contextual",
+    "body_word_overlap": 0.976,
+    "cache": "andy-online\\pages\\e9f9d8b7278e0bf05d79a1542ccdce6659da5a4182b87b32886c36348b9a37a0.json"
+  },
+  {
+    "note": "Andy Matuschak/The most effective readers and thinkers I know don’t take notes when reading.md",
+    "status": "needs_search",
+    "titles_tried": [
+      "The most effective readers and thinkers I know don’t take notes when reading"
+    ],
+    "attempts": [
+      {
+        "requested_URL": "https://notes.andymatuschak.org/The_most_effective_readers_and_thinkers_I_know_don%E2%80%99t_take_notes_when_reading",
+        "checked_at": "2026-10-07T22:28:49.691577+00:00",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "note": "Andy Matuschak/Think harder about sociality and memory systems.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zTLbubuUTz75EDoYizxCSXg",
+    "online_title": "Think harder about sociality and memory systems",
+    "requested_URL": "https://notes.andymatuschak.org/Think_harder_about_sociality_and_memory_systems",
+    "title_used": "Think harder about sociality and memory systems",
+    "body_word_overlap": 0.943,
+    "cache": "andy-online\\pages\\782f9e0e564a4ada0c9e134c3159c5ab1a61a98be79d362637c421ec17d69192.json"
+  },
+  {
+    "note": "Andy Matuschak/Transcendental narrative.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/z2nUCgx2yYZFT1zaFSocZop",
+    "online_title": "Transcendental narrative",
+    "requested_URL": "https://notes.andymatuschak.org/Transcendental_narrative",
+    "title_used": "Transcendental narrative",
+    "body_word_overlap": 0.964,
+    "cache": "andy-online\\pages\\d4e4c4a302473851922443478ed40189f5003e9c85343a25ce2e5f17e4366a5a.json"
+  },
+  {
+    "note": "Andy Matuschak/Two-component model of memory.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zCgYSHF9xQSEe71x9ML1NLB",
+    "online_title": "Two-component model of memory",
+    "requested_URL": "https://notes.andymatuschak.org/Two-component_model_of_memory",
+    "title_used": "Two-component model of memory",
+    "body_word_overlap": 0.974,
+    "cache": "andy-online\\pages\\71d528d31d8f8d9934d2d9573713dee9926bcc0fdacac6b99762ad2dcf454b95.json"
+  },
+  {
+    "note": "Andy Matuschak/Unchanging peripheral vision desensitizes.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zYLNg1BLCBM9jECoNnHvysL",
+    "online_title": "Unchanging peripheral vision desensitizes",
+    "requested_URL": "https://notes.andymatuschak.org/Unchanging_peripheral_vision_desensitizes",
+    "title_used": "Unchanging peripheral vision desensitizes",
+    "body_word_overlap": 1.0,
+    "cache": "andy-online\\pages\\d0c422692b491a977365b56cec1b3cc28dd8d491a7bb83348109e12be51c6ba1.json"
+  },
+  {
+    "note": "Andy Matuschak/Use notes to avoid preconceived conclusions.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/z6H1QypHEq3vak9sV7XLdKx",
+    "online_title": "Use notes to avoid preconceived conclusions",
+    "requested_URL": "https://notes.andymatuschak.org/Use_notes_to_avoid_preconceived_conclusions",
+    "title_used": "Use notes to avoid preconceived conclusions",
+    "body_word_overlap": 0.994,
+    "cache": "andy-online\\pages\\95890bf51a2346e3e51c64509c7b8f9370d6bc79f6402dd530bb221916b6f2a9.json"
+  },
+  {
+    "note": "Andy Matuschak/Worked example effect.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zD8D8PPRBDEFk3JeM2vaWrn",
+    "online_title": "Worked example effect",
+    "requested_URL": "https://notes.andymatuschak.org/Worked_example_effect",
+    "title_used": "Worked example effect",
+    "body_word_overlap": 0.532,
+    "cache": "andy-online\\pages\\b4a3aaa7e300bceccfaa10604e45036b03b03677ac589383c16a962b0f57f1de.json"
+  },
+  {
+    "note": "Andy Matuschak/Working memory span is mostly independent of item  complexity.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zAhASsrt9VhRDzh25hsLsyD",
+    "online_title": "Working memory span is mostly independent of item complexity",
+    "requested_URL": "https://notes.andymatuschak.org/Working_memory_span_is_mostly_independent_of_item_complexity",
+    "title_used": "Working memory span is mostly independent of item complexity",
+    "body_word_overlap": 0.948,
+    "cache": "andy-online\\pages\\06e3ed051a76a569918a46d3db711cc221d7423dbf715d622512b10d7b477016.json"
+  },
+  {
+    "note": "Andy Matuschak/Write notes for yourself by default, disregarding audience.md",
+    "status": "needs_search",
+    "titles_tried": [
+      "Write notes for yourself by default, disregarding audience"
+    ],
+    "attempts": [
+      {
+        "requested_URL": "https://notes.andymatuschak.org/Write_notes_for_yourself_by_default%2C_disregarding_audience",
+        "checked_at": "2026-10-07T22:28:51.260416+00:00",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "note": "Andy Matuschak/Writing good spaced repetition memory prompts is hard.md",
+    "status": "verified",
+    "URL": "https://notes.andymatuschak.org/zKy4FsHTcf8LdkgXkMueeGL",
+    "online_title": "Writing good spaced repetition memory prompts is hard",
+    "requested_URL": "https://notes.andymatuschak.org/Writing_good_spaced_repetition_memory_prompts_is_hard",
+    "title_used": "Writing good spaced repetition memory prompts is hard",
+    "body_word_overlap": 0.979,
+    "cache": "andy-online\\pages\\fb1b9d576a73508a6ff1deddee6a4c0412d4ebc441c0ac92773b8976f53266a9.json"
+  },
+  {
+    "note": "Andy Matuschak/Writing notes helps develop exceptional ideas.md",
+    "status": "needs_search",
+    "titles_tried": [
+      "Writing notes helps develop exceptional ideas"
+    ],
+    "attempts": [
+      {
+        "requested_URL": "https://notes.andymatuschak.org/Writing_notes_helps_develop_exceptional_ideas",
+        "checked_at": "2026-10-07T22:28:51.536672+00:00",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "note": "Andy Matuschak/§Knowledge work as serious discipline.md",
+    "status": "needs_search",
+    "titles_tried": [
+      "§Knowledge work as serious discipline"
+    ],
+    "attempts": [
+      {
+        "requested_URL": "https://notes.andymatuschak.org/%C2%A7Knowledge_work_as_serious_discipline",
+        "checked_at": "2026-10-07T22:28:51.633359+00:00",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  }
+]

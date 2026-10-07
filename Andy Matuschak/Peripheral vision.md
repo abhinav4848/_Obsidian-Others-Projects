@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/About_these_notes?stackedNotes=zCMhncA1iSE74MKKYQS5PBZ&stackedNotes=z4geAr5cERWdJPrdhU5gy3N
+URL:
+  - "https://notes.andymatuschak.org/About_these_notes?stackedNotes=zCMhncA1iSE74MKKYQS5PBZ&stackedNotes=z4geAr5cERWdJPrdhU5gy3N"
 title: "Peripheral vision"
 ---
 # Peripheral vision

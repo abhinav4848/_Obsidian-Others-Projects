@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/z4jRNWgKHL9dq1fH9qq3JhM"
+URL:
+  - "https://notes.andymatuschak.org/z4jRNWgKHL9dq1fH9qq3JhM"
 title: "Avoid yes-no spaced repetition memory prompts"
 ---
 # Avoid yes-no spaced repetition memory prompts

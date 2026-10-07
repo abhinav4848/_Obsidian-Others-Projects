@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/zWG9EgWoprv9cbXXkhg8YNS"
+URL:
+  - "https://notes.andymatuschak.org/zWG9EgWoprv9cbXXkhg8YNS"
 title: "Voice-based interface"
 ---
 # Voice-based interface

@@ -1,0 +1,296 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Writing_good_spaced_repetition_memory_prompts_is_hard",
+  "checked_at": "2026-10-07T22:28:51.341069+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zKy4FsHTcf8LdkgXkMueeGL",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zKy4FsHTcf8LdkgXkMueeGL": {
+        "data": {
+          "slug": "zKy4FsHTcf8LdkgXkMueeGL",
+          "title": "Writing good spaced repetition memory prompts is hard",
+          "contentMarkdown": "# Writing good spaced repetition memory prompts is hard\n\nPeople regard flashcards as something trivial from their school days, so they don’t take writing them very seriously. But it’s awfully hard to write good prompts for a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]]. For example, good prompts:\n\n*   access an idea from multiple angles\n*   capture one precise thought (likely reflective of [[zXxUPAFZBthh97wAKBEj7Tq:::“Chunks” in human cognition]])\n*   avoid unintentional ambiguity\n*   are concise\n*   get to what really matters about the topic, not just what’s easy to memorize\n\nFor more, see: [[z9xavmmNq7xvNqzpnJ3HFXx:::Important attributes of good spaced repetition memory prompts]]\n\n## It’s harder than people think\n\nUnfortunately, it’s not obvious when the prompts you’ve written are bad, so people often don’t realize that their prompts are bad. This can cause them to underrate the performance or overrate the tedium of spaced repetition memory practice. More: [[zWvJME6Mj3CVaZEguDcz6zX:::To what extent do review sessions offer prompt-writing feedback?]]\n\nOne solution: [[zJSUEFHrJLVspreiCpnAnKJ:::The mnemonic medium may help scaffold prompt-writing through author-provided prompts]]\n\n## It’s taxing even if you know how\n\nEven if one develops the skill to write good prompts, it’s quite time-consuming and cognitively taxing to do it. I believe that this is another significant barrier to widespread adoption.\n\nOne solution: [[zPkuLaEFFPqkcWpLcPzbW6i:::The mnemonic medium supplies expert-authored prompts to remove the burden of prompt-writing]]. Or, maybe [[zBjh9jUahGSm7VpFtEjvKqT:::Using machine learning to generate good spaced repetition prompts from explanatory text]].\n\n---\n\n## References\n\nMatuschak, A., & Nielsen, M. (2019, October). How can we develop transformative tools for thought? <https://numinous.productions/ttft>\n\nNielsen, M. (2018). Augmenting Long-term Memory. <http://augmentingcognition.com/ltm.html>\n\n[[zT8XEeFLdnpYheco8XxSicY:::Using spaced repetition systems to see through a piece of mathematics - Michael Nielsen]]\n\n<https://andymatuschak.org/prompts>\n\n[Anki Practice Cards: Language, Music, Mathematics - Album on Imgur](https://imgur.com/a/7dpMHhc) some examples and notes from Eric Siggy\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Spaced repetition memory system",
+              "linkingNoteSlug": "z2D1qPwddPktBjpNuwYFVva",
+              "contextBlocks": [
+                "[[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Readwise",
+              "linkingNoteSlug": "zAt1K9ARQYguinoHH8cfaqQ",
+              "contextBlocks": [
+                "If the goal were to produce good SRS recall prompts, I’d worry that this wouldn’t work well: [[Cloze deletion prompts seem to produce less understanding than question/answer pairs in spaced repetition memory systems]], and people mostly won’t write good Q/A prompts because [[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]]. This interface also encodes a 1:1 relationship between passages and prompts, which is not good for thoroughly learning material: [[zEm3fU6X2i4YViURG8cd3Zx:::Spaced repetition memory prompts should encode ideas from multiple angles]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Spaced repetition memory systems can be used to develop conceptual understanding",
+              "linkingNoteSlug": "z9Vi7YVx7NzxU2wawNgsJbk",
+              "contextBlocks": [
+                "[[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]]; writing good conceptual prompts is much more so. The techniques used to encode abstract, conceptual knowledge are not well or widely understood. See [[z9xavmmNq7xvNqzpnJ3HFXx:::Important attributes of good spaced repetition memory prompts]] for more. Particularly relevant here: [[zEm3fU6X2i4YViURG8cd3Zx:::Spaced repetition memory prompts should encode ideas from multiple angles]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Studying another person’s spaced repetition memory prompts is usually ineffective",
+              "linkingNoteSlug": "zAPNwLWboaoymgEAPyUwjnT",
+              "contextBlocks": [
+                "It also happens that most downloadable SRS decks are badly made: [[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "In prompt generation, choosing reinforcement targets and writing prompts for those targets are two separate problems",
+              "linkingNoteSlug": "zPZqDQquq8TAxRVqCQTkxkq",
+              "contextBlocks": [
+                "I see this difficulty as basically fine. It’s very natural to use a highlighter while reading to point at the parts which seem most important or interesting ([[z4ipbCkPaf5wwDkpgqUFgTg:::Deciding to remember something with a spaced repetition system is (aspirationally) a lightweight gesture]]). That mostly does the job here. Going back through and writing prompts, *given* those highlights, is quite effortful and time-consuming ([[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]]); if models can help with that, that’s great. Even highlights aren’t quite enough: [[zRQJZytpQme5JHS83MSboQ4:::In prompt generation, LLMs often need extra hints about what angle to reinforce]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "The mnemonic medium may help scaffold prompt-writing through author-provided prompts",
+              "linkingNoteSlug": "zJSUEFHrJLVspreiCpnAnKJ",
+              "contextBlocks": [
+                "[[zPkuLaEFFPqkcWpLcPzbW6i:::The mnemonic medium supplies expert-authored prompts to remove the burden of prompt-writing]], which helps ameliorate [[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]]. But by including the prompts, we also help readers who want to write some prompts of their own. They get to see expert examples of prompt-writing, which they can use as templates for their own prompts."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Regular spaced repetition memory practice is an onerous habit to adopt",
+              "linkingNoteSlug": "z3DiwZKDuLxMV17mt2nWH7y",
+              "contextBlocks": [
+                "So a successful [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] must deliver significant personal value immediately to overcome this barrier to adoption. Most systems don’t: they’re an empty box meant for the user to fill. But [[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]], so most users’ initial review sessions will comprise a small number of mediocre prompts. And [[z8a6SPMmmTjzDGkbCmJP75Y:::Spaced repetition memory systems don’t rapidly demonstrate their benefits]]. So people churn."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "The mnemonic medium supplies expert-authored prompts to remove the burden of prompt-writing",
+              "linkingNoteSlug": "zPkuLaEFFPqkcWpLcPzbW6i",
+              "contextBlocks": [
+                "[[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]], but the [[zKPv6qkSErdRGqyryvgS2wS:::Mnemonic medium]] removes that barrier to adopting a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] by supplying author-written prompts, which allow the readers to retain the material without writing their own."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "The limiting factor in spaced repetition system capacity is writing enough good prompts",
+              "linkingNoteSlug": "z2ySBuuMjHwuewNBi65YmXD",
+              "contextBlocks": [
+                "[[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]]. The obvious solution is to pool prompts like [[zNeYdw8ag4qijewtZ3BEc9J:::Quizlet]] and others do, but [[zAPNwLWboaoymgEAPyUwjnT:::Studying another person’s spaced repetition memory prompts is usually ineffective]]. The [[zKPv6qkSErdRGqyryvgS2wS:::Mnemonic medium]] is one solution: [[zJSUEFHrJLVspreiCpnAnKJ:::The mnemonic medium may help scaffold prompt-writing through author-provided prompts]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Prompt-writing supports reading comprehension",
+              "linkingNoteSlug": "zSv7fL6SRMchq1bvuoQjrxz",
+              "contextBlocks": [
+                "**It’s awfully expensive.** [[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]], even if you know how. I find it pretty exhausting—much more so than more traditional [[zCQYRYZTQRmrR4bFGCzCMkR:::Self-explanation]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Differences in my approach to spaced repetition systems",
+              "linkingNoteSlug": "zHfGyWHe5JaMW3874CHqf69",
+              "contextBlocks": [
+                "[[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]]; this is a key blocker to useful widespread adoption. System designers mostly ignore this, but that’s like a publishing company ignoring the importance of sentences."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "To what extent do review sessions offer prompt-writing feedback?",
+              "linkingNoteSlug": "zWvJME6Mj3CVaZEguDcz6zX",
+              "contextBlocks": [
+                "[[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]], but to make matters worse, it’s hard for many novices to actually *notice* that writing good prompts is hard. There aren’t any strong feedback mechanisms."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Spaced repetition prompt design is about designing tasks for your future self",
+              "linkingNoteSlug": "z53zJy6y76MGuJuWW4Qvab9",
+              "contextBlocks": [
+                "[[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]], but here’s one useful mental model. When you make a prompt for a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]], you are *giving your future self a recurring task*. Prompt design is task design."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Writing good prompts for others is likely harder than writing good prompts for oneself",
+              "linkingNoteSlug": "z38RfesDX92VLV4En1AuMSv",
+              "contextBlocks": [
+                "[[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]], but I suspect it’ll be even harder for authors to write good prompts for other people, as they must do in the [[zKPv6qkSErdRGqyryvgS2wS:::Mnemonic medium]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Programmed instruction",
+              "linkingNoteSlug": "zJnwHfze71uA7T6pUwfe36f",
+              "contextBlocks": [
+                "[[zTSp2CfdD1wQWDW8jjiXqWr:::B. F. Skinner]] suggests (1984) that bad writing may have been the problem (reminds me of [[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]]). But of course, he goes on to suggest that it’s because people have “deeply entrenched views of human behavior” which he feels are wrong. “Cognitive psychology is causing much more trouble”, he says (of course)."
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "z2D1qPwddPktBjpNuwYFVva",
+            "zXxUPAFZBthh97wAKBEj7Tq",
+            "z9xavmmNq7xvNqzpnJ3HFXx",
+            "zWvJME6Mj3CVaZEguDcz6zX",
+            "zJSUEFHrJLVspreiCpnAnKJ",
+            "zPkuLaEFFPqkcWpLcPzbW6i",
+            "zBjh9jUahGSm7VpFtEjvKqT",
+            "zT8XEeFLdnpYheco8XxSicY"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zKy4FsHTcf8LdkgXkMueeGL",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zKy4FsHTcf8LdkgXkMueeGL",
+      "title": "Writing good spaced repetition memory prompts is hard",
+      "contentMarkdown": "# Writing good spaced repetition memory prompts is hard\n\nPeople regard flashcards as something trivial from their school days, so they don’t take writing them very seriously. But it’s awfully hard to write good prompts for a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]]. For example, good prompts:\n\n*   access an idea from multiple angles\n*   capture one precise thought (likely reflective of [[zXxUPAFZBthh97wAKBEj7Tq:::“Chunks” in human cognition]])\n*   avoid unintentional ambiguity\n*   are concise\n*   get to what really matters about the topic, not just what’s easy to memorize\n\nFor more, see: [[z9xavmmNq7xvNqzpnJ3HFXx:::Important attributes of good spaced repetition memory prompts]]\n\n## It’s harder than people think\n\nUnfortunately, it’s not obvious when the prompts you’ve written are bad, so people often don’t realize that their prompts are bad. This can cause them to underrate the performance or overrate the tedium of spaced repetition memory practice. More: [[zWvJME6Mj3CVaZEguDcz6zX:::To what extent do review sessions offer prompt-writing feedback?]]\n\nOne solution: [[zJSUEFHrJLVspreiCpnAnKJ:::The mnemonic medium may help scaffold prompt-writing through author-provided prompts]]\n\n## It’s taxing even if you know how\n\nEven if one develops the skill to write good prompts, it’s quite time-consuming and cognitively taxing to do it. I believe that this is another significant barrier to widespread adoption.\n\nOne solution: [[zPkuLaEFFPqkcWpLcPzbW6i:::The mnemonic medium supplies expert-authored prompts to remove the burden of prompt-writing]]. Or, maybe [[zBjh9jUahGSm7VpFtEjvKqT:::Using machine learning to generate good spaced repetition prompts from explanatory text]].\n\n---\n\n## References\n\nMatuschak, A., & Nielsen, M. (2019, October). How can we develop transformative tools for thought? <https://numinous.productions/ttft>\n\nNielsen, M. (2018). Augmenting Long-term Memory. <http://augmentingcognition.com/ltm.html>\n\n[[zT8XEeFLdnpYheco8XxSicY:::Using spaced repetition systems to see through a piece of mathematics - Michael Nielsen]]\n\n<https://andymatuschak.org/prompts>\n\n[Anki Practice Cards: Language, Music, Mathematics - Album on Imgur](https://imgur.com/a/7dpMHhc) some examples and notes from Eric Siggy\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Spaced repetition memory system",
+          "linkingNoteSlug": "z2D1qPwddPktBjpNuwYFVva",
+          "contextBlocks": [
+            "[[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Readwise",
+          "linkingNoteSlug": "zAt1K9ARQYguinoHH8cfaqQ",
+          "contextBlocks": [
+            "If the goal were to produce good SRS recall prompts, I’d worry that this wouldn’t work well: [[Cloze deletion prompts seem to produce less understanding than question/answer pairs in spaced repetition memory systems]], and people mostly won’t write good Q/A prompts because [[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]]. This interface also encodes a 1:1 relationship between passages and prompts, which is not good for thoroughly learning material: [[zEm3fU6X2i4YViURG8cd3Zx:::Spaced repetition memory prompts should encode ideas from multiple angles]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Spaced repetition memory systems can be used to develop conceptual understanding",
+          "linkingNoteSlug": "z9Vi7YVx7NzxU2wawNgsJbk",
+          "contextBlocks": [
+            "[[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]]; writing good conceptual prompts is much more so. The techniques used to encode abstract, conceptual knowledge are not well or widely understood. See [[z9xavmmNq7xvNqzpnJ3HFXx:::Important attributes of good spaced repetition memory prompts]] for more. Particularly relevant here: [[zEm3fU6X2i4YViURG8cd3Zx:::Spaced repetition memory prompts should encode ideas from multiple angles]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Studying another person’s spaced repetition memory prompts is usually ineffective",
+          "linkingNoteSlug": "zAPNwLWboaoymgEAPyUwjnT",
+          "contextBlocks": [
+            "It also happens that most downloadable SRS decks are badly made: [[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "In prompt generation, choosing reinforcement targets and writing prompts for those targets are two separate problems",
+          "linkingNoteSlug": "zPZqDQquq8TAxRVqCQTkxkq",
+          "contextBlocks": [
+            "I see this difficulty as basically fine. It’s very natural to use a highlighter while reading to point at the parts which seem most important or interesting ([[z4ipbCkPaf5wwDkpgqUFgTg:::Deciding to remember something with a spaced repetition system is (aspirationally) a lightweight gesture]]). That mostly does the job here. Going back through and writing prompts, *given* those highlights, is quite effortful and time-consuming ([[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]]); if models can help with that, that’s great. Even highlights aren’t quite enough: [[zRQJZytpQme5JHS83MSboQ4:::In prompt generation, LLMs often need extra hints about what angle to reinforce]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "The mnemonic medium may help scaffold prompt-writing through author-provided prompts",
+          "linkingNoteSlug": "zJSUEFHrJLVspreiCpnAnKJ",
+          "contextBlocks": [
+            "[[zPkuLaEFFPqkcWpLcPzbW6i:::The mnemonic medium supplies expert-authored prompts to remove the burden of prompt-writing]], which helps ameliorate [[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]]. But by including the prompts, we also help readers who want to write some prompts of their own. They get to see expert examples of prompt-writing, which they can use as templates for their own prompts."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Regular spaced repetition memory practice is an onerous habit to adopt",
+          "linkingNoteSlug": "z3DiwZKDuLxMV17mt2nWH7y",
+          "contextBlocks": [
+            "So a successful [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] must deliver significant personal value immediately to overcome this barrier to adoption. Most systems don’t: they’re an empty box meant for the user to fill. But [[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]], so most users’ initial review sessions will comprise a small number of mediocre prompts. And [[z8a6SPMmmTjzDGkbCmJP75Y:::Spaced repetition memory systems don’t rapidly demonstrate their benefits]]. So people churn."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "The mnemonic medium supplies expert-authored prompts to remove the burden of prompt-writing",
+          "linkingNoteSlug": "zPkuLaEFFPqkcWpLcPzbW6i",
+          "contextBlocks": [
+            "[[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]], but the [[zKPv6qkSErdRGqyryvgS2wS:::Mnemonic medium]] removes that barrier to adopting a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] by supplying author-written prompts, which allow the readers to retain the material without writing their own."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "The limiting factor in spaced repetition system capacity is writing enough good prompts",
+          "linkingNoteSlug": "z2ySBuuMjHwuewNBi65YmXD",
+          "contextBlocks": [
+            "[[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]]. The obvious solution is to pool prompts like [[zNeYdw8ag4qijewtZ3BEc9J:::Quizlet]] and others do, but [[zAPNwLWboaoymgEAPyUwjnT:::Studying another person’s spaced repetition memory prompts is usually ineffective]]. The [[zKPv6qkSErdRGqyryvgS2wS:::Mnemonic medium]] is one solution: [[zJSUEFHrJLVspreiCpnAnKJ:::The mnemonic medium may help scaffold prompt-writing through author-provided prompts]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Prompt-writing supports reading comprehension",
+          "linkingNoteSlug": "zSv7fL6SRMchq1bvuoQjrxz",
+          "contextBlocks": [
+            "**It’s awfully expensive.** [[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]], even if you know how. I find it pretty exhausting—much more so than more traditional [[zCQYRYZTQRmrR4bFGCzCMkR:::Self-explanation]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Differences in my approach to spaced repetition systems",
+          "linkingNoteSlug": "zHfGyWHe5JaMW3874CHqf69",
+          "contextBlocks": [
+            "[[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]]; this is a key blocker to useful widespread adoption. System designers mostly ignore this, but that’s like a publishing company ignoring the importance of sentences."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "To what extent do review sessions offer prompt-writing feedback?",
+          "linkingNoteSlug": "zWvJME6Mj3CVaZEguDcz6zX",
+          "contextBlocks": [
+            "[[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]], but to make matters worse, it’s hard for many novices to actually *notice* that writing good prompts is hard. There aren’t any strong feedback mechanisms."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Spaced repetition prompt design is about designing tasks for your future self",
+          "linkingNoteSlug": "z53zJy6y76MGuJuWW4Qvab9",
+          "contextBlocks": [
+            "[[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]], but here’s one useful mental model. When you make a prompt for a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]], you are *giving your future self a recurring task*. Prompt design is task design."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Writing good prompts for others is likely harder than writing good prompts for oneself",
+          "linkingNoteSlug": "z38RfesDX92VLV4En1AuMSv",
+          "contextBlocks": [
+            "[[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]], but I suspect it’ll be even harder for authors to write good prompts for other people, as they must do in the [[zKPv6qkSErdRGqyryvgS2wS:::Mnemonic medium]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Programmed instruction",
+          "linkingNoteSlug": "zJnwHfze71uA7T6pUwfe36f",
+          "contextBlocks": [
+            "[[zTSp2CfdD1wQWDW8jjiXqWr:::B. F. Skinner]] suggests (1984) that bad writing may have been the problem (reminds me of [[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]]). But of course, he goes on to suggest that it’s because people have “deeply entrenched views of human behavior” which he feels are wrong. “Cognitive psychology is causing much more trouble”, he says (of course)."
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "z2D1qPwddPktBjpNuwYFVva",
+        "zXxUPAFZBthh97wAKBEj7Tq",
+        "z9xavmmNq7xvNqzpnJ3HFXx",
+        "zWvJME6Mj3CVaZEguDcz6zX",
+        "zJSUEFHrJLVspreiCpnAnKJ",
+        "zPkuLaEFFPqkcWpLcPzbW6i",
+        "zBjh9jUahGSm7VpFtEjvKqT",
+        "zT8XEeFLdnpYheco8XxSicY"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

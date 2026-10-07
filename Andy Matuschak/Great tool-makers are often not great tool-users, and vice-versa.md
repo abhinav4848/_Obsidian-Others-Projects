@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/zHSk5HpDyrSWCMN669Sg4HU"
+URL:
+  - "https://notes.andymatuschak.org/zHSk5HpDyrSWCMN669Sg4HU"
 title: "Great tool-makers are often not great tool-users, and vice-versa"
 ---
 # Great tool-makers are often not great tool-users, and vice-versa

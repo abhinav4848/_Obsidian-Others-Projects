@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zWWh96dE6YZYmDCoo37977X?stackedNotes=z8e98xn7t5QNHr5cf8oqjbJ&stackedNotes=zAwYPQGGGv2rPXVWRuHNgij
+URL:
+  - "https://notes.andymatuschak.org/zWWh96dE6YZYmDCoo37977X?stackedNotes=z8e98xn7t5QNHr5cf8oqjbJ&stackedNotes=zAwYPQGGGv2rPXVWRuHNgij"
 title: "Mnemonic medium prompts rely on invoking external experiences (from narrative, from real-world experience)"
 ---
 # Mnemonic medium prompts rely on invoking external experiences (from narrative, from real-world experience)

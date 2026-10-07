@@ -1,7 +1,8 @@
 ---
 aliases:
   - Frame truth-seeking questions in terms of “to what extent?” and “in what sense?” rather than binaries
-URL: https://notes.andymatuschak.org/z4jRNWgKHL9dq1fH9qq3JhM?stackedNotes=zAQj4GEE7PWDDcSreCGHTP9&stackedNotes=zQA9XEs7Cph3PkM8hEiJDAn
+URL:
+  - "https://notes.andymatuschak.org/z4jRNWgKHL9dq1fH9qq3JhM?stackedNotes=zAQj4GEE7PWDDcSreCGHTP9&stackedNotes=zQA9XEs7Cph3PkM8hEiJDAn"
 title: "Frame truth-seeking questions in terms of “to what extent” and “in what sense” rather than binaries"
 ---
 # Frame truth-seeking questions in terms of “to what extent” and “in what sense” rather than binaries

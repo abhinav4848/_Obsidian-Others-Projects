@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zBcEii9Hf2Rv7vsUSB7pBoP?stackedNotes=zBjh9jUahGSm7VpFtEjvKqT
+URL:
+  - "https://notes.andymatuschak.org/zBcEii9Hf2Rv7vsUSB7pBoP?stackedNotes=zBjh9jUahGSm7VpFtEjvKqT"
 title: "Using machine learning to generate good spaced repetition prompts from explanatory text"
 ---
 # Using machine learning to generate good spaced repetition prompts from explanatory text

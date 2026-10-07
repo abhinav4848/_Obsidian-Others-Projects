@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zGD1FxbDZd7WnH7NrhRaVyC?stackedNotes=zTYb9ysCATFYCnvay3V5sF2&stackedNotes=zHV89H7dqnrvNvwXHBSGog9
+URL:
+  - "https://notes.andymatuschak.org/zGD1FxbDZd7WnH7NrhRaVyC?stackedNotes=zTYb9ysCATFYCnvay3V5sF2&stackedNotes=zHV89H7dqnrvNvwXHBSGog9"
 title: "Working on niche, personally-meaningful projects brings weirder, more serendipitous inbounds"
 ---
 # Working on niche, personally-meaningful projects brings weirder, more serendipitous inbounds

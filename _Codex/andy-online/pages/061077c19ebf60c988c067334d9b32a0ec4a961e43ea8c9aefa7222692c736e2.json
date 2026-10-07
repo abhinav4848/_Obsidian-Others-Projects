@@ -1,0 +1,116 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/zEjyrAtUG7LbgKYWCBC1fpT",
+  "checked_at": "2026-10-07T22:30:58.169728+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zEjyrAtUG7LbgKYWCBC1fpT",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zEjyrAtUG7LbgKYWCBC1fpT": {
+        "data": {
+          "slug": "zEjyrAtUG7LbgKYWCBC1fpT",
+          "title": "It’s hard to do difficult creative work for more than a few hours a day",
+          "contentMarkdown": "# It’s hard to do difficult creative work for more than a few hours a day\n\nI notice that when working on difficult creative projects, I usually can’t meaningfully work for more than 4 or 5 hours a day, and most days it’s more like 3. By contrast, when I’m programming or doing other relatively more mechanical work, diminishing returns occur at more like 8 or 9 hours. Sometimes more if the work is somewhat varied, or if it’s very well-specified.\n\nAfter a few hours of intense creative work in a day, the marginal hour usually starts to feel much more difficult. I’ll have trouble maintaining focus. I’ll notice myself becoming detached and caring less (which can lead to awful persistent knock-on effects!).\n\nThis surprisingly low limit is a common trope among writers, who often write in a focused session in the morning, then spend the rest of the day doing other tasks and relaxing. And yet… this is not always true: [[zLxj4xVQa4ZQNH2kgX4NTaT:::Some people have extraordinary energy for creative work]]\n\nWhile many creatives report doing only a few hours of core work per day, they often gain more effective hours by {working on the weekend}.\n\nRelated:\n\n*   [[z9TuEpnqEtLdy2TWWVicLsU:::Inappropriate time pressures often harm creative work]]\n*   [[zDbtYWz1F7MzeihPJvnTuD3:::Constraints often breed creativity]]\n*   [[Timekeeper]]\n\n## References\n\n[[Ericsson et al - The Role of Deliberate Practice in the Acquisition of Expert Performance]]\n\n> Almost without exception, [writers] tend to schedule 3–4 hr of writing every morning and to spend the rest of the day on walking, correspondence, napping, and other less demanding activities (Cowley, 1959; Plimpton, 1977).\n\n[How to Work Hard](http://paulgraham.com/hwh.html)\n\n> Once you know the shape of real work, you have to learn how many hours a day to spend on it. You can’t solve this problem by simply working every waking hour, because in many kinds of work there’s a point beyond which the quality of the result will start to decline.\n>\n> That limit varies depending on the type of work and the person. I’ve done several different kinds of work, and the limits were different for each. My limit for the harder types of writing or programming is about five hours a day. Whereas when I was running a startup, I could work all the time. At least for the three years I did it; if I’d kept going much longer, I’d probably have needed to take occasional vacations. [~5~]\n\n<https://twitter.com/michael_nielsen/status/1411700590661472260?s=20>\n\n> Mason Curry has a book on the daily work habits of (very successful) writers and artists. And it’s strikingly similar to this - the median seems to be about 4 hours per day of real work, usually in the morning, with a lot of outliers.\n\nSome related references at [What Is The Morning Writing Effect? · Gwern.net](https://www.gwern.net/Morning-writing)\n\n[Unemployment Part 2 - How to Save Yourself | Applied Divinity Studies](https://applieddivinitystudies.com/2020/09/03/quitting-II/)\n\n> Accept that you max out at 4 hours a day, and make sure you actually hit it every day.\n\n[[zRW4hZmuiYpg2vbedUScDVU:::Kevin Kelly]]:\n\n> Efficiency is highly overrated; Goofing off is highly underrated. Regularly scheduled sabbaths, sabbaticals, vacations, breaks, aimless walks and time off are essential for top performance of any kind. The best work ethic requires {a good rest ethic}.\n> [The Technium: 103 Bits of Advice I Wish I Had Known](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/)\n\nNeal Stephenson, “[Cow Milking, Cud Chewing, and Flying Monkeys](https://nealstephenson.substack.com/p/cow-milking-cud-chewing-and-flying)”:\n\n> I get the best results by spending a couple of hours in the morning writing new material, then spending the rest of the day working on unrelated projects. This makes it possible for some kind of background process to happen such that when I sit down again the next morning I actually have something to write.\n>\n> When that process is up and running, I call it Milking the Cow.\n>\n> You can’t milk a cow 24/7, you have to milk her for a short time and then let her go out to pasture and be a cow for the rest of the day, chewing her cud and so on. Likewise with writing or any other form of focused creative work.\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "A rigid fixation on “focus” can harm creative work",
+              "linkingNoteSlug": "z6tpWc9UuqskrUAVvwePuWV",
+              "contextBlocks": [
+                "Also, just empirically, it’s usually not possible to do hard, ultra-focused creative work all day! [[zEjyrAtUG7LbgKYWCBC1fpT:::It’s hard to do difficult creative work for more than a few hours a day]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Solving the Procrastination Puzzle - Timothy Pychyl",
+              "linkingNoteSlug": "zGtbUHQDrBoiSdtnXYxdF8n",
+              "contextBlocks": [
+                "Adding consonant cognitions (e.g. perhaps [[zEjyrAtUG7LbgKYWCBC1fpT:::It’s hard to do difficult creative work for more than a few hours a day]])"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Some people have extraordinary energy for creative work",
+              "linkingNoteSlug": "zLxj4xVQa4ZQNH2kgX4NTaT",
+              "contextBlocks": [
+                "Contra [[zEjyrAtUG7LbgKYWCBC1fpT:::It’s hard to do difficult creative work for more than a few hours a day]]:"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "It’s easier to remain focused when collaborating live",
+              "linkingNoteSlug": "zVU7qsuk5eq1bWMvk8Sm82h",
+              "contextBlocks": [
+                "Aligning with [[zEjyrAtUG7LbgKYWCBC1fpT:::It’s hard to do difficult creative work for more than a few hours a day]], I don’t really find that I can do *longer* days working with someone else. My brain starts to crap out after roughly the same number of hours. But there’s less strain during the working time."
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zLxj4xVQa4ZQNH2kgX4NTaT",
+            "z9TuEpnqEtLdy2TWWVicLsU",
+            "zDbtYWz1F7MzeihPJvnTuD3",
+            "Timekeeper",
+            "Ericsson et al - The Role of Deliberate Practice in the Acquisition of Expert Performance",
+            "zRW4hZmuiYpg2vbedUScDVU"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zEjyrAtUG7LbgKYWCBC1fpT",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zEjyrAtUG7LbgKYWCBC1fpT",
+      "title": "It’s hard to do difficult creative work for more than a few hours a day",
+      "contentMarkdown": "# It’s hard to do difficult creative work for more than a few hours a day\n\nI notice that when working on difficult creative projects, I usually can’t meaningfully work for more than 4 or 5 hours a day, and most days it’s more like 3. By contrast, when I’m programming or doing other relatively more mechanical work, diminishing returns occur at more like 8 or 9 hours. Sometimes more if the work is somewhat varied, or if it’s very well-specified.\n\nAfter a few hours of intense creative work in a day, the marginal hour usually starts to feel much more difficult. I’ll have trouble maintaining focus. I’ll notice myself becoming detached and caring less (which can lead to awful persistent knock-on effects!).\n\nThis surprisingly low limit is a common trope among writers, who often write in a focused session in the morning, then spend the rest of the day doing other tasks and relaxing. And yet… this is not always true: [[zLxj4xVQa4ZQNH2kgX4NTaT:::Some people have extraordinary energy for creative work]]\n\nWhile many creatives report doing only a few hours of core work per day, they often gain more effective hours by {working on the weekend}.\n\nRelated:\n\n*   [[z9TuEpnqEtLdy2TWWVicLsU:::Inappropriate time pressures often harm creative work]]\n*   [[zDbtYWz1F7MzeihPJvnTuD3:::Constraints often breed creativity]]\n*   [[Timekeeper]]\n\n## References\n\n[[Ericsson et al - The Role of Deliberate Practice in the Acquisition of Expert Performance]]\n\n> Almost without exception, [writers] tend to schedule 3–4 hr of writing every morning and to spend the rest of the day on walking, correspondence, napping, and other less demanding activities (Cowley, 1959; Plimpton, 1977).\n\n[How to Work Hard](http://paulgraham.com/hwh.html)\n\n> Once you know the shape of real work, you have to learn how many hours a day to spend on it. You can’t solve this problem by simply working every waking hour, because in many kinds of work there’s a point beyond which the quality of the result will start to decline.\n>\n> That limit varies depending on the type of work and the person. I’ve done several different kinds of work, and the limits were different for each. My limit for the harder types of writing or programming is about five hours a day. Whereas when I was running a startup, I could work all the time. At least for the three years I did it; if I’d kept going much longer, I’d probably have needed to take occasional vacations. [~5~]\n\n<https://twitter.com/michael_nielsen/status/1411700590661472260?s=20>\n\n> Mason Curry has a book on the daily work habits of (very successful) writers and artists. And it’s strikingly similar to this - the median seems to be about 4 hours per day of real work, usually in the morning, with a lot of outliers.\n\nSome related references at [What Is The Morning Writing Effect? · Gwern.net](https://www.gwern.net/Morning-writing)\n\n[Unemployment Part 2 - How to Save Yourself | Applied Divinity Studies](https://applieddivinitystudies.com/2020/09/03/quitting-II/)\n\n> Accept that you max out at 4 hours a day, and make sure you actually hit it every day.\n\n[[zRW4hZmuiYpg2vbedUScDVU:::Kevin Kelly]]:\n\n> Efficiency is highly overrated; Goofing off is highly underrated. Regularly scheduled sabbaths, sabbaticals, vacations, breaks, aimless walks and time off are essential for top performance of any kind. The best work ethic requires {a good rest ethic}.\n> [The Technium: 103 Bits of Advice I Wish I Had Known](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/)\n\nNeal Stephenson, “[Cow Milking, Cud Chewing, and Flying Monkeys](https://nealstephenson.substack.com/p/cow-milking-cud-chewing-and-flying)”:\n\n> I get the best results by spending a couple of hours in the morning writing new material, then spending the rest of the day working on unrelated projects. This makes it possible for some kind of background process to happen such that when I sit down again the next morning I actually have something to write.\n>\n> When that process is up and running, I call it Milking the Cow.\n>\n> You can’t milk a cow 24/7, you have to milk her for a short time and then let her go out to pasture and be a cow for the rest of the day, chewing her cud and so on. Likewise with writing or any other form of focused creative work.\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "A rigid fixation on “focus” can harm creative work",
+          "linkingNoteSlug": "z6tpWc9UuqskrUAVvwePuWV",
+          "contextBlocks": [
+            "Also, just empirically, it’s usually not possible to do hard, ultra-focused creative work all day! [[zEjyrAtUG7LbgKYWCBC1fpT:::It’s hard to do difficult creative work for more than a few hours a day]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Solving the Procrastination Puzzle - Timothy Pychyl",
+          "linkingNoteSlug": "zGtbUHQDrBoiSdtnXYxdF8n",
+          "contextBlocks": [
+            "Adding consonant cognitions (e.g. perhaps [[zEjyrAtUG7LbgKYWCBC1fpT:::It’s hard to do difficult creative work for more than a few hours a day]])"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Some people have extraordinary energy for creative work",
+          "linkingNoteSlug": "zLxj4xVQa4ZQNH2kgX4NTaT",
+          "contextBlocks": [
+            "Contra [[zEjyrAtUG7LbgKYWCBC1fpT:::It’s hard to do difficult creative work for more than a few hours a day]]:"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "It’s easier to remain focused when collaborating live",
+          "linkingNoteSlug": "zVU7qsuk5eq1bWMvk8Sm82h",
+          "contextBlocks": [
+            "Aligning with [[zEjyrAtUG7LbgKYWCBC1fpT:::It’s hard to do difficult creative work for more than a few hours a day]], I don’t really find that I can do *longer* days working with someone else. My brain starts to crap out after roughly the same number of hours. But there’s less strain during the working time."
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zLxj4xVQa4ZQNH2kgX4NTaT",
+        "z9TuEpnqEtLdy2TWWVicLsU",
+        "zDbtYWz1F7MzeihPJvnTuD3",
+        "Timekeeper",
+        "Ericsson et al - The Role of Deliberate Practice in the Acquisition of Expert Performance",
+        "zRW4hZmuiYpg2vbedUScDVU"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

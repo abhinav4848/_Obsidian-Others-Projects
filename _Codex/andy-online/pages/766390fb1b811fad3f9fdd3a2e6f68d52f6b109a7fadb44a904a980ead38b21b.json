@@ -1,0 +1,134 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Learning_increasingly_complex_ideas_may_amount_to_forming_larger_effective_chunk_sizes",
+  "checked_at": "2026-10-07T22:28:42.737181+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zV7JyZE547zrC5Wkm1iymGg",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zV7JyZE547zrC5Wkm1iymGg": {
+        "data": {
+          "slug": "zV7JyZE547zrC5Wkm1iymGg",
+          "title": "Learning increasingly complex ideas may amount to forming larger effective chunk sizes",
+          "contentMarkdown": "# Learning increasingly complex ideas may amount to forming larger effective chunk sizes\n\n[[z7JRyqSwVbW2a8U44w2RkR6:::Complex ideas may be hard to learn in part because their components overflow working memory]]. But [[zRTbHLYsFnL2hThAZL6tVqD:::Human channel capacity increases with bits-per-chunk]], and [[z3p78NbwsU2Pi1t3Q24psfB:::Recoding can increase chunk size]]. So when you’re finally able to learn something that’s eluded you, it may be because you’ve finally encoded large enough chunks ([[zXxUPAFZBthh97wAKBEj7Tq:::“Chunks” in human cognition]]) representing the constituents.\n\nMiller suggested a narrower interpretation of this notion in his paper introducing the term (1956, p. 95):\n\n> It seems probable that even memorization can be studied in these terms. The process of memorizing may be simply the formation of chunks, or groups of items that go together, until there are few enough chunks so that we can recall all the items.\n\n[[zT8XEeFLdnpYheco8XxSicY:::Using spaced repetition systems to see through a piece of mathematics - Michael Nielsen]]:\n\n> I think that what’s going on is what psychologists call chunking. People who intensively study a subject gradually start to build mental libraries of “chunks” – large-scale patterns that they recognize and use to reason. … Experts begin to think, perhaps only semi-consciously, using such chunks. The conventional representations – words or symbols in mathematics, or moves on a chessboard – are still there, but they are somehow secondary.\n>\n> So, my informal pop-psychology explanation is that when I’m doing mathematics really well, in the deeply internalized state I described earlier, I’m mostly using such higher-level chunks, and that’s why it no longer seems symbolic or verbal or even visual. I’m not entirely conscious of what’s going on – it’s more a sense of just playing around a lot with the various objects, trying things out, trying to find unexpected connections. But, presumably, what’s underlying the process is these chunked patterns.\n\n---\n\n## References\n\nMiller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63(2), 81–97. <https://doi.org/10.1037/h0043158> [[zNCrrN6aGXeuiVXgnoiT7ND:::Miller - The magical number seven, plus or minus two]]\n\n[[z2kL5dsbU6myECcr4Cn7ZGc:::Chen, O., Castro-Alonso, J. C., Paas, F., & Sweller, J. (2018). Undesirable difficulty effects in the learning of high-element interactivity materials. Frontiers in Psychology, 9]]\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Miller - The magical number seven, plus or minus two",
+              "linkingNoteSlug": "zNCrrN6aGXeuiVXgnoiT7ND",
+              "contextBlocks": [
+                "[[zV7JyZE547zrC5Wkm1iymGg:::Learning increasingly complex ideas may amount to forming larger effective chunk sizes]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Complex ideas may be hard to learn in part because their components overflow working memory",
+              "linkingNoteSlug": "z7JRyqSwVbW2a8U44w2RkR6",
+              "contextBlocks": [
+                "More concretely: [[zV7JyZE547zrC5Wkm1iymGg:::Learning increasingly complex ideas may amount to forming larger effective chunk sizes]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Memory augmentation may make it easier to learn complex topics by decreasing working memory load",
+              "linkingNoteSlug": "zS33ebqMsefTfnh8cwgHYFR",
+              "contextBlocks": [
+                "A possible part of an underlying mechanism here: [[zV7JyZE547zrC5Wkm1iymGg:::Learning increasingly complex ideas may amount to forming larger effective chunk sizes]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Studying another person’s spaced repetition memory prompts is usually ineffective",
+              "linkingNoteSlug": "zAPNwLWboaoymgEAPyUwjnT",
+              "contextBlocks": [
+                "Once one understands that [[zSTqsQ4ATXB61k3Z43TforN:::Spaced repetition memory systems make memory a choice]] and that [[zV7JyZE547zrC5Wkm1iymGg:::Learning increasingly complex ideas may amount to forming larger effective chunk sizes]], it’s awfully tempting to gobble up new knowledge by downloading others’ decks of [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] prompts. But assuming you’ve never studied it before, you’re much better off reading a textbook chapter on cell biology than you would be memorizing someone else’s deck: you must [[z7nmQ12agpmDmFoonENsQQN:::Learn before you memorize]]. Separately, [[zHV9RymMTYzjYv8ioA3xaAs:::Spaced repetition memory prompts alone are a poor communications medium]]; you still need the textbook’s narrative to ground the material."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Using spaced repetition systems to see through a piece of mathematics - Michael Nielsen",
+              "linkingNoteSlug": "zT8XEeFLdnpYheco8XxSicY",
+              "contextBlocks": [
+                "Michael has some notes about understanding via [[zXxUPAFZBthh97wAKBEj7Tq:::“Chunks” in human cognition]]: [[zV7JyZE547zrC5Wkm1iymGg:::Learning increasingly complex ideas may amount to forming larger effective chunk sizes]]"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "z7JRyqSwVbW2a8U44w2RkR6",
+            "zRTbHLYsFnL2hThAZL6tVqD",
+            "z3p78NbwsU2Pi1t3Q24psfB",
+            "zXxUPAFZBthh97wAKBEj7Tq",
+            "zT8XEeFLdnpYheco8XxSicY",
+            "zNCrrN6aGXeuiVXgnoiT7ND",
+            "z2kL5dsbU6myECcr4Cn7ZGc"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zV7JyZE547zrC5Wkm1iymGg",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zV7JyZE547zrC5Wkm1iymGg",
+      "title": "Learning increasingly complex ideas may amount to forming larger effective chunk sizes",
+      "contentMarkdown": "# Learning increasingly complex ideas may amount to forming larger effective chunk sizes\n\n[[z7JRyqSwVbW2a8U44w2RkR6:::Complex ideas may be hard to learn in part because their components overflow working memory]]. But [[zRTbHLYsFnL2hThAZL6tVqD:::Human channel capacity increases with bits-per-chunk]], and [[z3p78NbwsU2Pi1t3Q24psfB:::Recoding can increase chunk size]]. So when you’re finally able to learn something that’s eluded you, it may be because you’ve finally encoded large enough chunks ([[zXxUPAFZBthh97wAKBEj7Tq:::“Chunks” in human cognition]]) representing the constituents.\n\nMiller suggested a narrower interpretation of this notion in his paper introducing the term (1956, p. 95):\n\n> It seems probable that even memorization can be studied in these terms. The process of memorizing may be simply the formation of chunks, or groups of items that go together, until there are few enough chunks so that we can recall all the items.\n\n[[zT8XEeFLdnpYheco8XxSicY:::Using spaced repetition systems to see through a piece of mathematics - Michael Nielsen]]:\n\n> I think that what’s going on is what psychologists call chunking. People who intensively study a subject gradually start to build mental libraries of “chunks” – large-scale patterns that they recognize and use to reason. … Experts begin to think, perhaps only semi-consciously, using such chunks. The conventional representations – words or symbols in mathematics, or moves on a chessboard – are still there, but they are somehow secondary.\n>\n> So, my informal pop-psychology explanation is that when I’m doing mathematics really well, in the deeply internalized state I described earlier, I’m mostly using such higher-level chunks, and that’s why it no longer seems symbolic or verbal or even visual. I’m not entirely conscious of what’s going on – it’s more a sense of just playing around a lot with the various objects, trying things out, trying to find unexpected connections. But, presumably, what’s underlying the process is these chunked patterns.\n\n---\n\n## References\n\nMiller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63(2), 81–97. <https://doi.org/10.1037/h0043158> [[zNCrrN6aGXeuiVXgnoiT7ND:::Miller - The magical number seven, plus or minus two]]\n\n[[z2kL5dsbU6myECcr4Cn7ZGc:::Chen, O., Castro-Alonso, J. C., Paas, F., & Sweller, J. (2018). Undesirable difficulty effects in the learning of high-element interactivity materials. Frontiers in Psychology, 9]]\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Miller - The magical number seven, plus or minus two",
+          "linkingNoteSlug": "zNCrrN6aGXeuiVXgnoiT7ND",
+          "contextBlocks": [
+            "[[zV7JyZE547zrC5Wkm1iymGg:::Learning increasingly complex ideas may amount to forming larger effective chunk sizes]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Complex ideas may be hard to learn in part because their components overflow working memory",
+          "linkingNoteSlug": "z7JRyqSwVbW2a8U44w2RkR6",
+          "contextBlocks": [
+            "More concretely: [[zV7JyZE547zrC5Wkm1iymGg:::Learning increasingly complex ideas may amount to forming larger effective chunk sizes]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Memory augmentation may make it easier to learn complex topics by decreasing working memory load",
+          "linkingNoteSlug": "zS33ebqMsefTfnh8cwgHYFR",
+          "contextBlocks": [
+            "A possible part of an underlying mechanism here: [[zV7JyZE547zrC5Wkm1iymGg:::Learning increasingly complex ideas may amount to forming larger effective chunk sizes]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Studying another person’s spaced repetition memory prompts is usually ineffective",
+          "linkingNoteSlug": "zAPNwLWboaoymgEAPyUwjnT",
+          "contextBlocks": [
+            "Once one understands that [[zSTqsQ4ATXB61k3Z43TforN:::Spaced repetition memory systems make memory a choice]] and that [[zV7JyZE547zrC5Wkm1iymGg:::Learning increasingly complex ideas may amount to forming larger effective chunk sizes]], it’s awfully tempting to gobble up new knowledge by downloading others’ decks of [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] prompts. But assuming you’ve never studied it before, you’re much better off reading a textbook chapter on cell biology than you would be memorizing someone else’s deck: you must [[z7nmQ12agpmDmFoonENsQQN:::Learn before you memorize]]. Separately, [[zHV9RymMTYzjYv8ioA3xaAs:::Spaced repetition memory prompts alone are a poor communications medium]]; you still need the textbook’s narrative to ground the material."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Using spaced repetition systems to see through a piece of mathematics - Michael Nielsen",
+          "linkingNoteSlug": "zT8XEeFLdnpYheco8XxSicY",
+          "contextBlocks": [
+            "Michael has some notes about understanding via [[zXxUPAFZBthh97wAKBEj7Tq:::“Chunks” in human cognition]]: [[zV7JyZE547zrC5Wkm1iymGg:::Learning increasingly complex ideas may amount to forming larger effective chunk sizes]]"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "z7JRyqSwVbW2a8U44w2RkR6",
+        "zRTbHLYsFnL2hThAZL6tVqD",
+        "z3p78NbwsU2Pi1t3Q24psfB",
+        "zXxUPAFZBthh97wAKBEj7Tq",
+        "zT8XEeFLdnpYheco8XxSicY",
+        "zNCrrN6aGXeuiVXgnoiT7ND",
+        "z2kL5dsbU6myECcr4Cn7ZGc"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

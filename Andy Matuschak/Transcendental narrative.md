@@ -1,5 +1,7 @@
 ---
 title: "Transcendental narrative"
+URL:
+  - "https://notes.andymatuschak.org/z2nUCgx2yYZFT1zaFSocZop"
 ---
 # Transcendental narrative
 Stories, practices, and values which give structure and meaning to life, suggest what’s worth doing, situates people relative to others, etc. Religion is the traditional source, but secular alternatives include:

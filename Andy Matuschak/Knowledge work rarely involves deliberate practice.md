@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zMbCwoVdjsqPNyTRRr3phPN
+URL:
+  - "https://notes.andymatuschak.org/zMbCwoVdjsqPNyTRRr3phPN"
 title: "Knowledge work rarely involves deliberate practice"
 ---
 # Knowledge work rarely involves deliberate practice

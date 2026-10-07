@@ -1,5 +1,7 @@
 ---
 title: "Spaced repetition may be a helpful tool to develop or change habits"
+URL:
+  - "https://notes.andymatuschak.org/z9AH3dD42uGiJzR1WH1eo7n"
 ---
 # Spaced repetition may be a helpful tool to develop or change habits
 Imagine that you read an article which suggests something like this:

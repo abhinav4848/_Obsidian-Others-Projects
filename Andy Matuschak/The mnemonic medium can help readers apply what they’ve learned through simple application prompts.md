@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/zJoWJEpRvrjnm2zL3gdxBjg"
+URL:
+  - "https://notes.andymatuschak.org/zJoWJEpRvrjnm2zL3gdxBjg"
 title: "The mnemonic medium can help readers apply what they’ve learned through simple application prompts"
 ---
 # The mnemonic medium can help readers apply what they’ve learned through simple application prompts

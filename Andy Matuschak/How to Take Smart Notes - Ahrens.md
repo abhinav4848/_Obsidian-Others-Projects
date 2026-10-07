@@ -1,5 +1,7 @@
 ---
 title: "How to Take Smart Notes - Ahrens"
+URL:
+  - "https://notes.andymatuschak.org/zH7AVUkqYYK7xmoAn8PTpAV"
 ---
 # How to Take Smart Notes - Ahrens
 Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zS64tidr4brqfuEo5xs2ySy
+URL:
+  - "https://notes.andymatuschak.org/zS64tidr4brqfuEo5xs2ySy"
 title: "Chase and Simon - Perception in chess"
 ---
 # Chase and Simon - Perception in chess

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zR6RRbCfY5rFkiimFnaJZKB?stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zKiPFE1KYieeAJs3cEaCtdf
+URL:
+  - "https://notes.andymatuschak.org/zR6RRbCfY5rFkiimFnaJZKB?stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zKiPFE1KYieeAJs3cEaCtdf"
 title: "Evergreen note-writing helps reading efforts accumulate"
 ---
 # Evergreen note-writing helps reading efforts accumulate

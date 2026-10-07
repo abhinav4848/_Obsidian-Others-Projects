@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andy Matuschak/Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do.md",
+                "file": "Andy Matuschak/Working memory span is mostly independent of item  complexity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do"
+              "title": "Working memory span is mostly independent of item  complexity"
             }
           },
           {
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "note path:\"Andy Matuschak\"  pattern match",
+                "query": "verified sou",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andy Matuschak/Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do.md",
+                "file": "Andy Matuschak/Working memory span is mostly independent of item  complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,32 +216,36 @@
   },
   "active": "5bf3f270666cb61f",
   "lastOpenFiles": [
-    "_Codex/note-titles-and-sources-applied.json",
-    "_Codex/note-update.tmp",
-    "_Codex/backups/note-titles-and-sources-before-20261007T222449Z.zip",
-    "_Codex/__pycache__/note_titles_and_sources.cpython-313.pyc",
-    "_Codex/note-titles-and-sources-plan.json",
-    "_Codex/note_titles_and_sources.py",
-    "Andy Matuschak/Educational objectives often subvert themselves.md",
+    "_Codex/duplicate-title-inspection.json",
+    "_Codex/Andy online sources.md",
+    "Andy Matuschak/Methods for bringing dynamic mediums to physical reading contexts.md",
+    "_Codex/Andy sources to identify.md",
+    "Attachments/02041.jpeg",
+    "Attachments/99453.jpeg",
+    "Attachments/91708.jpeg",
+    "Attachments/54109.jpeg",
+    "Attachments/40984.jpeg",
+    "Attachments/48639.jpeg",
+    "Attachments/51618.jpeg",
+    "collection.md",
+    "_Codex/property-types.json",
+    "_Codex/andy-online/list-property-applied.json",
+    "_Codex/andy-online/note.tmp",
+    "_Codex/backups/andy-online-sources-and-URL-lists-before-20261007T223306Z.zip",
+    "_Codex/andy-online/list-property-plan.json",
+    "_Codex/apply_andy_online_sources_and_lists.py",
+    "_Codex/andy-online/verified-sources.json",
+    "_Codex/andy-online/verified-external-sources.json",
+    "_Codex/andy-online/verified-candidates.json",
+    "_Codex/andy-online/pages/1bcd61d10c58b3386feec57d90c90e35d76d526aa0ee4f14173c574201fd3fba.json",
     "Andy Matuschak/Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do.md",
+    "Andy Matuschak/Educational objectives often subvert themselves.md",
     "Andy Matuschak/Asking people questions while they read a text improves performance on untested contents.md",
-    "_Codex/media-and-links-verification.json",
-    "_Codex/verify_media_and_links.py",
     "_Codex/Andy internal links.md",
-    "_Codex/andy-internal-links-applied.json",
-    "_Codex/backups/andy-internal-links-before-20261007T221125Z.zip",
-    "_Codex/andy-internal-links-plan.json",
     "_Codex/Media recovery.md",
     "Attachments/35102.jpeg",
     "Attachments/05997.jpeg",
-    "Attachments/48639.jpeg",
     "Attachments/36377.jpeg",
-    "Attachments/40173.jpeg",
-    "Attachments/21646.jpeg",
-    "Attachments/44833.jpeg",
-    "Attachments/42198.jpeg",
-    "Attachments/54109.jpeg",
-    "Attachments/51573.jpeg",
     "Andy Matuschak/Conversation with others often emphasizes the most well-understood elements of an idea.md",
     "Andy Matuschak/Cognitive scaffolding.md",
     "Andy Matuschak/Classical conditioning.md",
@@ -254,13 +258,9 @@
     "Andy Matuschak/Knowledge work should accrete.md",
     "Andy Matuschak/A writing inbox for transient and incomplete notes.md",
     "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
-    "collection.md",
     "Snipd/Data/The Colin and Samir Show/How Ali Abdaal makes $5,741,266.32 a year on YouTube.md",
     "_Codex/Source identity conflicts.md",
     "Snipd/Data/NB Hot Topics Podcast/S7 E10_ _Fit Note for the Last GP_ song; Best UTI Abx; Kidney Failure Risk Tool & Death; Phone Empathy & Outcomes.md",
-    "_Codex/Review and recommendations.md",
-    "_Codex/README.md",
-    "Ideaverse Merged/Atlas/Notes/People/Bill Russell.md",
-    "Ideaverse Merged/Atlas/Dots/Statements/MOCs Overview.md"
+    "_Codex/Review and recommendations.md"
   ]
 }

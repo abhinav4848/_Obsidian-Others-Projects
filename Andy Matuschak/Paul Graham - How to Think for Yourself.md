@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z5zoV8TdSds59vQEkqp3JEz?stackedNotes=zJSKcfuiq25LpAasw4yK7xk
+URL:
+  - "https://notes.andymatuschak.org/z5zoV8TdSds59vQEkqp3JEz?stackedNotes=zJSKcfuiq25LpAasw4yK7xk"
 title: "Paul Graham - How to Think for Yourself"
 ---
 # Paul Graham - How to Think for Yourself

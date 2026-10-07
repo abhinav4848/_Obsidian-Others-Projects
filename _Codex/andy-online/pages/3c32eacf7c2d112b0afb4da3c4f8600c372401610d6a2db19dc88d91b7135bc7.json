@@ -1,0 +1,124 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/z2zCVix7FhroZGyufoXSXbx",
+  "checked_at": "2026-10-07T22:30:59.433193+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/z2zCVix7FhroZGyufoXSXbx",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "z2zCVix7FhroZGyufoXSXbx": {
+        "data": {
+          "slug": "z2zCVix7FhroZGyufoXSXbx",
+          "title": "Most explanatory media make participants run their own feedback loops",
+          "contentMarkdown": "# Most explanatory media make participants run their own feedback loops\n\n[[zBwPoJqo3vzLwzGSa4Tcgma:::Learning requires metacognition]]. When learning something new from a text, readers must constantly ask themselves: did I understand that? what questions can I ask myself to check my understanding? should I reread that passage? should I consult a reference for background on that? etc.\n\nIn other words, readers have to run their own feedback loops. When readers are focused on challenging object-level material, they may not be able to effectively perform this kind of metacognition; conversely, too much effort spent on evaluation, planning, and executive control may make it difficult to engage with difficult object-level material.\n\nThe situation is perhaps slightly worse in video formats. In books, readers are in complete control of the pace, but in videos, there’s a default pace, and viewers must actively decide to subvert it.\n\nMy theory as to why this is true: [[zADYGiM6rnN6iTBHqVa6kiu:::Metacognitive supports require dynamic, participatory environments]].\n\n---\n\n## References\n\nMatuschak, A. (2019). Why books don’t work. Retrieved from  <https://andymatuschak.org/books>\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Metacognitive supports require dynamic, participatory environments",
+              "linkingNoteSlug": "zADYGiM6rnN6iTBHqVa6kiu",
+              "contextBlocks": [
+                "This is one reason that [[z2zCVix7FhroZGyufoXSXbx:::Most explanatory media make participants run their own feedback loops]]: most explanatory media are static."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Learning requires metacognition",
+              "linkingNoteSlug": "zBwPoJqo3vzLwzGSa4Tcgma",
+              "contextBlocks": [
+                "In a classroom or professional setting, an expert might perform some of these tasks for a learner ([[zL2zRTTRhWf1Lx4x9p2uCDt:::Metacognitive supports as cognitive scaffolding]]), but when a learner’s on their own, these metacognitive activities may be taxing or beyond reach. Unfortunately, [[z2zCVix7FhroZGyufoXSXbx:::Most explanatory media make participants run their own feedback loops]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Games help players evaluate their developing skills",
+              "linkingNoteSlug": "zJP88EJ3qnPdZLMFK9g4Boh",
+              "contextBlocks": [
+                "Contra [[z2zCVix7FhroZGyufoXSXbx:::Most explanatory media make participants run their own feedback loops]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Games help players make and adapt plans",
+              "linkingNoteSlug": "z8cCUawpidfMcH7bYE67CEf",
+              "contextBlocks": [
+                "In sum, all this means that players can focus on the action—not on trying to figure out what they should do next. This contrasts [[z2zCVix7FhroZGyufoXSXbx:::Most explanatory media make participants run their own feedback loops]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Mass mediums mostly lack an authored time dimension beyond a day",
+              "linkingNoteSlug": "zBcm1RNbzedjDMTt8rRxoWt",
+              "contextBlocks": [
+                "Consider a real expert–apprentice relationship. The expert can introduce an idea, then observe it as it blooms in the apprentice over the ensuing weeks, perhaps referencing it a few times in various ways to nudge its evolution. Then after the apprentice has had enough time to thoroughly absorb the idea, the expert can introduce some consequence of that idea at a time when it’ll make the most impact. This isn’t just about the problems described in [[z2zCVix7FhroZGyufoXSXbx:::Most explanatory media make participants run their own feedback loops]]: the expert is curating the time component of the apprentice’s experience."
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zBwPoJqo3vzLwzGSa4Tcgma",
+            "zADYGiM6rnN6iTBHqVa6kiu"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "z2zCVix7FhroZGyufoXSXbx",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "z2zCVix7FhroZGyufoXSXbx",
+      "title": "Most explanatory media make participants run their own feedback loops",
+      "contentMarkdown": "# Most explanatory media make participants run their own feedback loops\n\n[[zBwPoJqo3vzLwzGSa4Tcgma:::Learning requires metacognition]]. When learning something new from a text, readers must constantly ask themselves: did I understand that? what questions can I ask myself to check my understanding? should I reread that passage? should I consult a reference for background on that? etc.\n\nIn other words, readers have to run their own feedback loops. When readers are focused on challenging object-level material, they may not be able to effectively perform this kind of metacognition; conversely, too much effort spent on evaluation, planning, and executive control may make it difficult to engage with difficult object-level material.\n\nThe situation is perhaps slightly worse in video formats. In books, readers are in complete control of the pace, but in videos, there’s a default pace, and viewers must actively decide to subvert it.\n\nMy theory as to why this is true: [[zADYGiM6rnN6iTBHqVa6kiu:::Metacognitive supports require dynamic, participatory environments]].\n\n---\n\n## References\n\nMatuschak, A. (2019). Why books don’t work. Retrieved from  <https://andymatuschak.org/books>\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Metacognitive supports require dynamic, participatory environments",
+          "linkingNoteSlug": "zADYGiM6rnN6iTBHqVa6kiu",
+          "contextBlocks": [
+            "This is one reason that [[z2zCVix7FhroZGyufoXSXbx:::Most explanatory media make participants run their own feedback loops]]: most explanatory media are static."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Learning requires metacognition",
+          "linkingNoteSlug": "zBwPoJqo3vzLwzGSa4Tcgma",
+          "contextBlocks": [
+            "In a classroom or professional setting, an expert might perform some of these tasks for a learner ([[zL2zRTTRhWf1Lx4x9p2uCDt:::Metacognitive supports as cognitive scaffolding]]), but when a learner’s on their own, these metacognitive activities may be taxing or beyond reach. Unfortunately, [[z2zCVix7FhroZGyufoXSXbx:::Most explanatory media make participants run their own feedback loops]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Games help players evaluate their developing skills",
+          "linkingNoteSlug": "zJP88EJ3qnPdZLMFK9g4Boh",
+          "contextBlocks": [
+            "Contra [[z2zCVix7FhroZGyufoXSXbx:::Most explanatory media make participants run their own feedback loops]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Games help players make and adapt plans",
+          "linkingNoteSlug": "z8cCUawpidfMcH7bYE67CEf",
+          "contextBlocks": [
+            "In sum, all this means that players can focus on the action—not on trying to figure out what they should do next. This contrasts [[z2zCVix7FhroZGyufoXSXbx:::Most explanatory media make participants run their own feedback loops]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Mass mediums mostly lack an authored time dimension beyond a day",
+          "linkingNoteSlug": "zBcm1RNbzedjDMTt8rRxoWt",
+          "contextBlocks": [
+            "Consider a real expert–apprentice relationship. The expert can introduce an idea, then observe it as it blooms in the apprentice over the ensuing weeks, perhaps referencing it a few times in various ways to nudge its evolution. Then after the apprentice has had enough time to thoroughly absorb the idea, the expert can introduce some consequence of that idea at a time when it’ll make the most impact. This isn’t just about the problems described in [[z2zCVix7FhroZGyufoXSXbx:::Most explanatory media make participants run their own feedback loops]]: the expert is curating the time component of the apprentice’s experience."
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zBwPoJqo3vzLwzGSa4Tcgma",
+        "zADYGiM6rnN6iTBHqVa6kiu"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

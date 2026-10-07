@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zSoTbuyrXFnDHibaSeEzPRx
+URL:
+  - "https://notes.andymatuschak.org/zSoTbuyrXFnDHibaSeEzPRx"
 title: "Adjunct questions"
 ---
 # Adjunct questions

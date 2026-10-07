@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zsRuFxYgckGS81tr2eiBAP
+URL:
+  - "https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zsRuFxYgckGS81tr2eiBAP"
 title: "Digital note-writing systems fixate on the presentation and manipulation of individual notes, mostly ignoring inter-note sense-making"
 ---
 # Digital note-writing systems fixate on the presentation and manipulation of individual notes, mostly ignoring inter-note sense-making

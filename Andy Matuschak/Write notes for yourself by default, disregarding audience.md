@@ -1,5 +1,7 @@
 ---
 title: "Write notes for yourself by default, disregarding audience"
+URL:
+  - "https://notes.andymatuschak.org/zXDPrYcxUSZbF5M8vM5Y1U9"
 ---
 # Write notes for yourself by default, disregarding audience
 Because [[Andy Matuschak/Evergreen Notes]] can be used as part of a strategy for writing public work ([[Executable strategy for writing]]), it’s tempting to “save time” by writing notes in publishable form. That might mean providing all the necessary background to understand some (boring to you) idea, or self-censoring, or adding lots of qualifiers, or spending lots of effort on clarity. Many of these practices can be somewhat useful as part of your own thinking process—for instance, clearer writing usually involves clearer thinking. But I find it substantially increases the overhead and effort in writing, often to the point of producing blockage.

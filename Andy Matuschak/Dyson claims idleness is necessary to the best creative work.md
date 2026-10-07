@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zDVxH26siVXJXRnNgPASA3q
+URL:
+  - "https://notes.andymatuschak.org/zDVxH26siVXJXRnNgPASA3q"
 title: "Dyson claims idleness is necessary to the best creative work"
 ---
 # Dyson claims idleness is necessary to the best creative work

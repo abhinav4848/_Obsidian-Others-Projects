@@ -1,5 +1,7 @@
 ---
 title: "Narrative as cognitive scaffolding"
+URL:
+  - "https://notes.andymatuschak.org/zEhGSbBPbgmh7Ce1VQS2RPk"
 ---
 # Narrative as cognitive scaffolding
 A good narrative structures and sequences the key elements of a complex topic, focusing participants’ attention on limited subsets of the ideas so that they’re more able to take each step. This creates [[Cognitive scaffolding]]. A reference article, which may provide the same information without scaffolding, may be a more efficient summary of the topic for an expert, but the first step of its comprehension may be too large for a novice to take.

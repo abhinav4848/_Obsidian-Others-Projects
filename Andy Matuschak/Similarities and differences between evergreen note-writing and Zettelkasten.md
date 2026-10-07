@@ -1,5 +1,7 @@
 ---
 title: "Similarities and differences between evergreen note-writing and Zettelkasten"
+URL:
+  - "https://notes.andymatuschak.org/zQvwwb95vzcHcpow3GWy5Wi"
 ---
 # Similarities and differences between evergreen note-writing and Zettelkasten
 My practice of writing [[Andy Matuschak/Evergreen Notes|Evergreen Notes]] is heavily inspired by Niklas Luhmann’s [[Zettelkasten]] practice and its contemporary advocates. I use a different term both because there are some distinctions and because I want to give myself space to explore ideas in this space apart from the culture surrounding Zettelkasten, which has its own prior values and proclivities. 

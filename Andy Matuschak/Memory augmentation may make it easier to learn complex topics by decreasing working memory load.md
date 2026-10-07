@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/zS33ebqMsefTfnh8cwgHYFR"
+URL:
+  - "https://notes.andymatuschak.org/zS33ebqMsefTfnh8cwgHYFR"
 title: "Memory augmentation may make it easier to learn complex topics by decreasing working memory load"
 ---
 # Memory augmentation may make it easier to learn complex topics by decreasing working memory load

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zR6RRbCfY5rFkiimFnaJZKB?stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zVeajFC9i9mrpLhZ5ScXumn
+URL:
+  - "https://notes.andymatuschak.org/zR6RRbCfY5rFkiimFnaJZKB?stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zVeajFC9i9mrpLhZ5ScXumn"
 title: "Leaps of insight emerge from prior thought"
 ---
 # Leaps of insight emerge from prior thought

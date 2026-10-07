@@ -1,5 +1,7 @@
 ---
 title: "People seem to forget most of what they read, and they mostly don't notice"
+URL:
+  - "https://notes.andymatuschak.org/zL33c5cHy4bH7HvMcv2py9H"
 ---
 # People seem to forget most of what they read, and they mostly don't notice
 # People seem to forget most of what they read, and they mostly don’t notice

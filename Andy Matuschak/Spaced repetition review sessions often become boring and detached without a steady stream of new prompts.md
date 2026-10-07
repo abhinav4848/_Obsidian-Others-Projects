@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zgpG2pyVtsVgvoXTj1dfDU
+URL:
+  - "https://notes.andymatuschak.org/zgpG2pyVtsVgvoXTj1dfDU"
 title: "Spaced repetition review sessions often become boring and detached without a steady stream of new prompts"
 ---
 # Spaced repetition review sessions often become boring and detached without a steady stream of new prompts

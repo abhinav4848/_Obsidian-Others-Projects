@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zJoWJEpRvrjnm2zL3gdxBjg?stackedNotes=zSisETSpZBCgZH4rFNHRcnC&stackedNotes=z3NDe3nR9hvqRqWWtvZdxe7
+URL:
+  - "https://notes.andymatuschak.org/zJoWJEpRvrjnm2zL3gdxBjg?stackedNotes=zSisETSpZBCgZH4rFNHRcnC&stackedNotes=z3NDe3nR9hvqRqWWtvZdxe7"
 title: "Application prompt variations are challenging to automate"
 ---
 # Application prompt variations are challenging to automate

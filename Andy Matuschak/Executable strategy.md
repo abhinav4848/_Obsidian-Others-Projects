@@ -1,5 +1,7 @@
 ---
 title: "Executable strategy"
+URL:
+  - "https://notes.andymatuschak.org/zVyJffuisLSjaDVtBtxsmSS"
 ---
 # Executable strategy
 In creative work and in life, many goals seem unpredictable and unwieldy, reliant on hope and luck: starting a habit, getting in shape, writing a book, doing a research project, etc. (see [[Core practices in knowledge work are often ad-hoc]])

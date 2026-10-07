@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zRTbHLYsFnL2hThAZL6tVqD?stackedNotes=z86ZRZ5s5ykUzGD8v8d33ro
+URL:
+  - "https://notes.andymatuschak.org/zRTbHLYsFnL2hThAZL6tVqD?stackedNotes=z86ZRZ5s5ykUzGD8v8d33ro"
 title: "Human channel capacity increases with stimulus dimensionality"
 ---
 # Human channel capacity increases with stimulus dimensionality

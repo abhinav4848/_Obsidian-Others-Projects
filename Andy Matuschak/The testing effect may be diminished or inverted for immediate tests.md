@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/zWoEKdbmtbSgAp1tZjU4usY"
+URL:
+  - "https://notes.andymatuschak.org/zWoEKdbmtbSgAp1tZjU4usY"
 title: "The testing effect may be diminished or inverted for immediate tests"
 ---
 # The testing effect may be diminished or inverted for immediate tests

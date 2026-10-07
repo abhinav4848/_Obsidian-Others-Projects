@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/z8SU3r8xyZyvwRhyDdJasJ2"
+URL:
+  - "https://notes.andymatuschak.org/z8SU3r8xyZyvwRhyDdJasJ2"
 title: "Prefer associative ontologies to hierarchical taxonomies"
 ---
 # Prefer associative ontologies to hierarchical taxonomies

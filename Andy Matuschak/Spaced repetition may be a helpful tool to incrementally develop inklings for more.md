@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z9hscgkG2TeqgUtu3vAEW3U?stackedNotes=zNLoqjEVe5dheMKmTTyB9E3&stackedNotes=zSK4LyrCbG9zDrdCWmcovUW
+URL:
+  - "https://notes.andymatuschak.org/z9hscgkG2TeqgUtu3vAEW3U?stackedNotes=zNLoqjEVe5dheMKmTTyB9E3&stackedNotes=zSK4LyrCbG9zDrdCWmcovUW"
 title: "Spaced repetition may be a helpful tool to incrementally develop inklings for more"
 ---
 # Spaced repetition may be a helpful tool to incrementally develop inklings for more

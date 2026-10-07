@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/Cloze_deletion_prompts_seem_to_produce_less_understanding_than_question%2Fanswer_pairs_in_spaced_repetition_memory_systems?stackedNotes=zSiuztCZ594AZuCweRghcXT&stackedNotes=zENFxxXLVZqyJz2qaXxuy2p
+URL:
+  - "https://notes.andymatuschak.org/Cloze_deletion_prompts_seem_to_produce_less_understanding_than_question%2Fanswer_pairs_in_spaced_repetition_memory_systems?stackedNotes=zSiuztCZ594AZuCweRghcXT&stackedNotes=zENFxxXLVZqyJz2qaXxuy2p"
 title: "Spaced repetition memory prompts should ensure reviewers must retrieve answers from memory"
 ---
 # Spaced repetition memory prompts should ensure reviewers must retrieve answers from memory

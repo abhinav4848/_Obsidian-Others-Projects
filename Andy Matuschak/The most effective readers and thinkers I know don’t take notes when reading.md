@@ -1,5 +1,7 @@
 ---
 title: "The most effective readers and thinkers I know don’t take notes when reading"
+URL:
+  - "https://notes.andymatuschak.org/z12PGwFx275xTmGHazNgQbn"
 ---
 # The most effective readers and thinkers I know don’t take notes when reading
 Some of them do very simple things—jotting a few key references on the back page, or writing intermittently in the margin—but none of them implements any kind of consistent practice like the one described in [[Write about what you read to internalize texts deeply]]. It’s not that they’ve so deeply internalized and automatized those practices that they seem invisible: they’re just not doing those things.

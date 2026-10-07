@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zSve33D7x1qe5WUjojDcM9y
+URL:
+  - "https://notes.andymatuschak.org/zSve33D7x1qe5WUjojDcM9y"
 title: "My daily routine"
 ---
 # My daily routine

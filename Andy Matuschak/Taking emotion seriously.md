@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zPiRwRHQxGfF9Zej765PB8M?stackedNotes=zEmEnm29YT9Lp4mnWzPVQZJ&stackedNotes=zLYGz27y8Ba6wbQLJbqyXkr
+URL:
+  - "https://notes.andymatuschak.org/zPiRwRHQxGfF9Zej765PB8M?stackedNotes=zEmEnm29YT9Lp4mnWzPVQZJ&stackedNotes=zLYGz27y8Ba6wbQLJbqyXkr"
 title: "Taking emotion seriously"
 ---
 # Taking emotion seriously

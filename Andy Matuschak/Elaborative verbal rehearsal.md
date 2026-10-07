@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z9Uq4yzBT1QaBU8twwyvm7P?stackedNotes=zUR6RM21Sa88cFDfC47svVv
+URL:
+  - "https://notes.andymatuschak.org/z9Uq4yzBT1QaBU8twwyvm7P?stackedNotes=zUR6RM21Sa88cFDfC47svVv"
 title: "Elaborative verbal rehearsal"
 ---
 # Elaborative verbal rehearsal

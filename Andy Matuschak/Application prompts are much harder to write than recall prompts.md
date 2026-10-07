@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zSisETSpZBCgZH4rFNHRcnC?stackedNotes=z3NDe3nR9hvqRqWWtvZdxe7&stackedNotes=z2EgZth9aD42QbGnFAggerw
+URL:
+  - "https://notes.andymatuschak.org/zSisETSpZBCgZH4rFNHRcnC?stackedNotes=z3NDe3nR9hvqRqWWtvZdxe7&stackedNotes=z2EgZth9aD42QbGnFAggerw"
 title: "Application prompts are much harder to write than recall prompts"
 ---
 # Application prompts are much harder to write than recall prompts

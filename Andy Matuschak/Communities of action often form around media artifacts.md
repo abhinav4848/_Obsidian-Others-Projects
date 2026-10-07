@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zKtYU4Uk7aTCGyqHr9Ca3Sb?stackedNotes=z2nUCgx2yYZFT1zaFSocZop&stackedNotes=z7X8C3Fy4wQ7nhQFaVx1aUD
+URL:
+  - "https://notes.andymatuschak.org/zKtYU4Uk7aTCGyqHr9Ca3Sb?stackedNotes=z2nUCgx2yYZFT1zaFSocZop&stackedNotes=z7X8C3Fy4wQ7nhQFaVx1aUD"
 title: "Communities of action often form around media artifacts"
 ---
 # Communities of action often form around media artifacts

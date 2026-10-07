@@ -1,0 +1,192 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Spaced_repetition_may_be_a_helpful_tool_to_develop_or_change_habits",
+  "checked_at": "2026-10-07T22:28:47.779042+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/z9AH3dD42uGiJzR1WH1eo7n",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "z9AH3dD42uGiJzR1WH1eo7n": {
+        "data": {
+          "slug": "z9AH3dD42uGiJzR1WH1eo7n",
+          "title": "Spaced repetition may be a helpful tool to develop or change habits",
+          "contentMarkdown": "# Spaced repetition may be a helpful tool to develop or change habits\n\nImagine that you read an article which suggests something like this:\n\n> Going around in circles with a challenging prioritization exercise? If none of the factors seems especially decisive on their own, you’re probably not going to get anywhere with a big pro/con table. You’ll need to either create new choices, identify more powerful axes of evaluation, or accept that you can’t make a strongly-informed choice.\n\nYou could memorize pieces of this with a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]], but you can also use the same system to help “install” this habit in your mind. Here are some example questions you might try:\n\n> Q: Recall a situation in which you went around in circles endlessly trying to prioritize various options. (Generate one you haven’t thought about before for this question)\n> A: [blank]\n\n> Q: Imagine an unusual series of concrete steps you might take next time you find yourself stuck in an unclear prioritization exercise. (Generate a series of steps that you haven’t generated before)\n> A: [blank]\n\n> Q: Imagine a specific situation in which you would have trouble escaping a prioritization quagmire by finding a single decisive factor. (Generate one you haven’t thought about before)\n> A: [blank]\n\nAfter you’ve answered this type of prompt about a specific habit a few times, it’s often helpful to make much more specific prompts to reinforce that habit. For example ([via Kanjun, 2020-07-01](https://twitter.com/kanjun/status/1278501271226298368)): “When I pick up my toothbrush in the morning…” “…get my phone and open Anki.”\n\nThis is an example of [[zB92WZZ5baBHKZPPbWMbYEv:::Spaced repetition systems can be used to program attention]].\n\n---\n\n## References\n\nConversation with [[Florent Crivello]], 2019-11-17\n\nRelated notion from [[zAgiS9VaDo969dpx9eDntgA:::Alexey Guzey]]: [Instilling Novel Thought Patterns and Making Your Long-Term Memory Accountable with Anki - Alexey Guzey](https://guzey.com/things/software/anki/#instilling-novel-thought-patterns-with-anki)\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Spaced repetition systems can be used to program attention",
+              "linkingNoteSlug": "zB92WZZ5baBHKZPPbWMbYEv",
+              "contextBlocks": [
+                "Within a traditional flashcard-style system, you can use this observation to go far beyond memorization: see [[z4KxfCZPkVEf2R8nayLJZBG:::Spaced repetition memory systems can be used to prompt application, synthesis, and creation]] and [[z9AH3dD42uGiJzR1WH1eo7n:::Spaced repetition may be a helpful tool to develop or change habits]]. [[z53zJy6y76MGuJuWW4Qvab9:::Spaced repetition prompt design is about designing tasks for your future self]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Spaced repetition memory systems can be used to prompt application, synthesis, and creation",
+              "linkingNoteSlug": "z4KxfCZPkVEf2R8nayLJZBG",
+              "contextBlocks": [
+                "[[z9AH3dD42uGiJzR1WH1eo7n:::Spaced repetition may be a helpful tool to develop or change habits]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Unusual applications of spaced repetition memory systems",
+              "linkingNoteSlug": "z8v56RCUFx6Zp6sBG6mTL95",
+              "contextBlocks": [
+                "[[z9AH3dD42uGiJzR1WH1eo7n:::Spaced repetition may be a helpful tool to develop or change habits]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Spaced repetition systems as catechism",
+              "linkingNoteSlug": "zPtcwHaKGoLEZRzSoScYXha",
+              "contextBlocks": [
+                "You can imagine creating cards about new habits (“Think of a new concrete situation in which I’ll have trouble leaving space for others to speak.”) or values (“What’s an unusual recent situation in which you thought on the century scale?”); see [[z9AH3dD42uGiJzR1WH1eo7n:::Spaced repetition may be a helpful tool to develop or change habits]]. More exotic [[z9hscgkG2TeqgUtu3vAEW3U:::Spaced everything]] systems can be used to schedule arbitrary fine-grained tasks associated with some new identity, like iteratively reaching out to interesting people in a new field."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Embedded prompt templates may actively scaffold prompt-writing for mnemonic medium readers",
+              "linkingNoteSlug": "zGZAVcDnNSnWF3oPLn2JmQp",
+              "contextBlocks": [
+                "[[zJSUEFHrJLVspreiCpnAnKJ:::The mnemonic medium may help scaffold prompt-writing through author-provided prompts]], but sometimes it’s particularly important that the reader write their own prompts—e.g. particularly when the impact is personal rather than intellectual, as in [[z9AH3dD42uGiJzR1WH1eo7n:::Spaced repetition may be a helpful tool to develop or change habits]]. In these situations, what if the author could help the reader write their own prompts? Perhaps they could provide a set of prompt templates to remix, interleaved directly into the reading experience as in this sketch:"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Matt Bateman on agency",
+              "linkingNoteSlug": "zWYtAUkGpTQKCJ6GgyQkAth",
+              "contextBlocks": [
+                "Q. Why does Matt suggest that activities thought to be low-agency (repetition, memorization) are actually good for developing agency?"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "§Enabling environments, games, and the Primer",
+              "linkingNoteSlug": "zGSGS1UHDogPKtvZB5hdT2A",
+              "contextBlocks": [
+                "[[z9AH3dD42uGiJzR1WH1eo7n:::Spaced repetition may be a helpful tool to develop or change habits]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Guided meditation apps are naturally spread over time",
+              "linkingNoteSlug": "zSNDTj75ULnYMo7pGm2Frg7",
+              "contextBlocks": [
+                "Some connections here to [[z9hscgkG2TeqgUtu3vAEW3U:::Spaced everything]]; e.g. [[z9AH3dD42uGiJzR1WH1eo7n:::Spaced repetition may be a helpful tool to develop or change habits]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "§Inboxes and attention management",
+              "linkingNoteSlug": "zShQzFXDGrA1bTMCnbM9Qud",
+              "contextBlocks": [
+                "[[z9AH3dD42uGiJzR1WH1eo7n:::Spaced repetition may be a helpful tool to develop or change habits]]"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "z2D1qPwddPktBjpNuwYFVva",
+            "zB92WZZ5baBHKZPPbWMbYEv",
+            "Florent Crivello",
+            "zAgiS9VaDo969dpx9eDntgA"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "z9AH3dD42uGiJzR1WH1eo7n",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "z9AH3dD42uGiJzR1WH1eo7n",
+      "title": "Spaced repetition may be a helpful tool to develop or change habits",
+      "contentMarkdown": "# Spaced repetition may be a helpful tool to develop or change habits\n\nImagine that you read an article which suggests something like this:\n\n> Going around in circles with a challenging prioritization exercise? If none of the factors seems especially decisive on their own, you’re probably not going to get anywhere with a big pro/con table. You’ll need to either create new choices, identify more powerful axes of evaluation, or accept that you can’t make a strongly-informed choice.\n\nYou could memorize pieces of this with a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]], but you can also use the same system to help “install” this habit in your mind. Here are some example questions you might try:\n\n> Q: Recall a situation in which you went around in circles endlessly trying to prioritize various options. (Generate one you haven’t thought about before for this question)\n> A: [blank]\n\n> Q: Imagine an unusual series of concrete steps you might take next time you find yourself stuck in an unclear prioritization exercise. (Generate a series of steps that you haven’t generated before)\n> A: [blank]\n\n> Q: Imagine a specific situation in which you would have trouble escaping a prioritization quagmire by finding a single decisive factor. (Generate one you haven’t thought about before)\n> A: [blank]\n\nAfter you’ve answered this type of prompt about a specific habit a few times, it’s often helpful to make much more specific prompts to reinforce that habit. For example ([via Kanjun, 2020-07-01](https://twitter.com/kanjun/status/1278501271226298368)): “When I pick up my toothbrush in the morning…” “…get my phone and open Anki.”\n\nThis is an example of [[zB92WZZ5baBHKZPPbWMbYEv:::Spaced repetition systems can be used to program attention]].\n\n---\n\n## References\n\nConversation with [[Florent Crivello]], 2019-11-17\n\nRelated notion from [[zAgiS9VaDo969dpx9eDntgA:::Alexey Guzey]]: [Instilling Novel Thought Patterns and Making Your Long-Term Memory Accountable with Anki - Alexey Guzey](https://guzey.com/things/software/anki/#instilling-novel-thought-patterns-with-anki)\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Spaced repetition systems can be used to program attention",
+          "linkingNoteSlug": "zB92WZZ5baBHKZPPbWMbYEv",
+          "contextBlocks": [
+            "Within a traditional flashcard-style system, you can use this observation to go far beyond memorization: see [[z4KxfCZPkVEf2R8nayLJZBG:::Spaced repetition memory systems can be used to prompt application, synthesis, and creation]] and [[z9AH3dD42uGiJzR1WH1eo7n:::Spaced repetition may be a helpful tool to develop or change habits]]. [[z53zJy6y76MGuJuWW4Qvab9:::Spaced repetition prompt design is about designing tasks for your future self]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Spaced repetition memory systems can be used to prompt application, synthesis, and creation",
+          "linkingNoteSlug": "z4KxfCZPkVEf2R8nayLJZBG",
+          "contextBlocks": [
+            "[[z9AH3dD42uGiJzR1WH1eo7n:::Spaced repetition may be a helpful tool to develop or change habits]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Unusual applications of spaced repetition memory systems",
+          "linkingNoteSlug": "z8v56RCUFx6Zp6sBG6mTL95",
+          "contextBlocks": [
+            "[[z9AH3dD42uGiJzR1WH1eo7n:::Spaced repetition may be a helpful tool to develop or change habits]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Spaced repetition systems as catechism",
+          "linkingNoteSlug": "zPtcwHaKGoLEZRzSoScYXha",
+          "contextBlocks": [
+            "You can imagine creating cards about new habits (“Think of a new concrete situation in which I’ll have trouble leaving space for others to speak.”) or values (“What’s an unusual recent situation in which you thought on the century scale?”); see [[z9AH3dD42uGiJzR1WH1eo7n:::Spaced repetition may be a helpful tool to develop or change habits]]. More exotic [[z9hscgkG2TeqgUtu3vAEW3U:::Spaced everything]] systems can be used to schedule arbitrary fine-grained tasks associated with some new identity, like iteratively reaching out to interesting people in a new field."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Embedded prompt templates may actively scaffold prompt-writing for mnemonic medium readers",
+          "linkingNoteSlug": "zGZAVcDnNSnWF3oPLn2JmQp",
+          "contextBlocks": [
+            "[[zJSUEFHrJLVspreiCpnAnKJ:::The mnemonic medium may help scaffold prompt-writing through author-provided prompts]], but sometimes it’s particularly important that the reader write their own prompts—e.g. particularly when the impact is personal rather than intellectual, as in [[z9AH3dD42uGiJzR1WH1eo7n:::Spaced repetition may be a helpful tool to develop or change habits]]. In these situations, what if the author could help the reader write their own prompts? Perhaps they could provide a set of prompt templates to remix, interleaved directly into the reading experience as in this sketch:"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Matt Bateman on agency",
+          "linkingNoteSlug": "zWYtAUkGpTQKCJ6GgyQkAth",
+          "contextBlocks": [
+            "Q. Why does Matt suggest that activities thought to be low-agency (repetition, memorization) are actually good for developing agency?"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "§Enabling environments, games, and the Primer",
+          "linkingNoteSlug": "zGSGS1UHDogPKtvZB5hdT2A",
+          "contextBlocks": [
+            "[[z9AH3dD42uGiJzR1WH1eo7n:::Spaced repetition may be a helpful tool to develop or change habits]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Guided meditation apps are naturally spread over time",
+          "linkingNoteSlug": "zSNDTj75ULnYMo7pGm2Frg7",
+          "contextBlocks": [
+            "Some connections here to [[z9hscgkG2TeqgUtu3vAEW3U:::Spaced everything]]; e.g. [[z9AH3dD42uGiJzR1WH1eo7n:::Spaced repetition may be a helpful tool to develop or change habits]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "§Inboxes and attention management",
+          "linkingNoteSlug": "zShQzFXDGrA1bTMCnbM9Qud",
+          "contextBlocks": [
+            "[[z9AH3dD42uGiJzR1WH1eo7n:::Spaced repetition may be a helpful tool to develop or change habits]]"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "z2D1qPwddPktBjpNuwYFVva",
+        "zB92WZZ5baBHKZPPbWMbYEv",
+        "Florent Crivello",
+        "zAgiS9VaDo969dpx9eDntgA"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

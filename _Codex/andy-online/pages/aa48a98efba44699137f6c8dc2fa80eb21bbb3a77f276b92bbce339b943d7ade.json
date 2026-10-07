@@ -1,0 +1,174 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Spaced_repetition_memory_systems_are_extremely_efficient",
+  "checked_at": "2026-10-07T22:28:48.588154+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/z64yjxVfMvJTSAjWFpyEtnA",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "z64yjxVfMvJTSAjWFpyEtnA": {
+        "data": {
+          "slug": "z64yjxVfMvJTSAjWFpyEtnA",
+          "title": "Spaced repetition memory systems are extremely efficient",
+          "contentMarkdown": "# Spaced repetition memory systems are extremely efficient\n\nUsing a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]], you can memorize the answers thousands of questions in just a few minutes a day. This is the unintuitive consequence of an exponential at work in the [[z4KScVkQCD2XmVwvSDUbZtn:::Spacing effect]]: [[zFTNCRPoNgwrxyF5H5VdNM8:::Spaced repetition yields (what feel like) exponential returns for small increases in effort]].\n\nEach time you remember an answer correctly, that question’s test interval increases geometrically, forming an exponential curve: 5 days, 2 weeks, 1 month, 2 months, 4 months, etc. If you add questions at a constant rate, and each question’s probability of occurring on a given day diminishes exponential with time, then you’ll have a roughly constant number of questions to review on a given day.\n\n---\n\n## References\n\nBranwen, G. (2009). Spaced Repetition for Efficient Learning. Retrieved December 16, 2019, from <https://www.gwern.net/Spaced-repetition>\n\nNielsen, M. (2018). Augmenting Long-term Memory. Retrieved from <http://augmentingcognition.com/ltm.html>\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Spaced repetition memory system",
+              "linkingNoteSlug": "z2D1qPwddPktBjpNuwYFVva",
+              "contextBlocks": [
+                "A spaced-repetition memory system combines the [[zTpJdbe6ub7uhBFLuHkFsrT:::Testing effect]] and the [[z4KScVkQCD2XmVwvSDUbZtn:::Spacing effect]] to enable efficient memorization of many thousands of facts ([[z64yjxVfMvJTSAjWFpyEtnA:::Spaced repetition memory systems are extremely efficient]]). Some people also use them for a broader set of tasks (see below). [[zSTqsQ4ATXB61k3Z43TforN:::Spaced repetition memory systems make memory a choice]], but they’re not just for rote facts: [[z9Vi7YVx7NzxU2wawNgsJbk:::Spaced repetition memory systems can be used to develop conceptual understanding]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Spaced repetition memory systems make memory a choice",
+              "linkingNoteSlug": "zSTqsQ4ATXB61k3Z43TforN",
+              "contextBlocks": [
+                "One fascinating consequence of using a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] is that they **make memory a choice.** Once you’ve adopted a memory practice, if you want to remember something, you can simply cause it to happen: just take a few moments to write a question about it. Over the next few weeks, you’ll encode it durably into long-term memory. Moreover, it’ll only take you a few minutes cumulatively: [[z64yjxVfMvJTSAjWFpyEtnA:::Spaced repetition memory systems are extremely efficient]]. So not only do these systems make memory a choice, but they make the choice very  low-stakes: [[z4ipbCkPaf5wwDkpgqUFgTg:::Deciding to remember something with a spaced repetition system is (aspirationally) a lightweight gesture]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Spaced repetition memory systems don’t rapidly demonstrate their benefits",
+              "linkingNoteSlug": "z8a6SPMmmTjzDGkbCmJP75Y",
+              "contextBlocks": [
+                "[[z64yjxVfMvJTSAjWFpyEtnA:::Spaced repetition memory systems are extremely efficient]], but the curves start shallow. So a new user’s experience with a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] is front-loaded in terms of effort… and delayed in terms of powerful results. Initially, it seems no better than a trivial flashcard system which they might have used in school. And the long-term benefit is very non-obvious: [[zFTNCRPoNgwrxyF5H5VdNM8:::Spaced repetition yields (what feel like) exponential returns for small increases in effort]], but almost nothing else does, and [[z8iUiQ4ZpX6yfZ3hb23w83g:::People have poor intuitions for exponentials]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Deciding to remember something with a spaced repetition system is (aspirationally) a lightweight gesture",
+              "linkingNoteSlug": "z4ipbCkPaf5wwDkpgqUFgTg",
+              "contextBlocks": [
+                "But [[z64yjxVfMvJTSAjWFpyEtnA:::Spaced repetition memory systems are extremely efficient]]. Deciding to remember something is not a high-stakes decision; it’s a decision that’ll cost a fraction of a minute over the next couple years. These systems wouldn’t be very interesting if you only used them to memorize the kinds of material you already memorize, because most people don’t explicitly memorize very much. Not only do [[zSTqsQ4ATXB61k3Z43TforN:::Spaced repetition memory systems make memory a choice]], but they make it an *almost costless* choice. Emotionally, it’s closer to choosing what to highlight or write marginalia next to on a book page. And practically speaking, when a once-expensive resource becomes nearly costless, surprising things can happen (e.g. electricity)."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Spaced repetition yields (what feel like) exponential returns for small increases in effort",
+              "linkingNoteSlug": "zFTNCRPoNgwrxyF5H5VdNM8",
+              "contextBlocks": [
+                "[[z64yjxVfMvJTSAjWFpyEtnA:::Spaced repetition memory systems are extremely efficient]], but that phrase doesn’t get across the nature of the efficiency. There are lots of things you might try to improve yourself—reading more books, talking to experts, etc. These things will all help, of course, but they also yield diminishing returns fairly rapidly. Spaced repetition doesn’t work like this. If you spend a few extra minutes reviewing prompts about something you’ve read, you’ll get vastly more out of the material. Each time you subsequently review (constant time), you’ll be able to wait longer until the next review (exponential increase… or at least an increasing increase)."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "The limiting factor in spaced repetition system capacity is writing enough good prompts",
+              "linkingNoteSlug": "z2ySBuuMjHwuewNBi65YmXD",
+              "contextBlocks": [
+                "[[z64yjxVfMvJTSAjWFpyEtnA:::Spaced repetition memory systems are extremely efficient]]. In fact, they’re so efficient that once someone’s adopted a reliable spaced repetition habit, system “throughput” tends to be limited by how many good prompts they can write, rather than by how much material they can absorb."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "§Taking knowledge work seriously (Stripe convergence talk, 2019-12-12)",
+              "linkingNoteSlug": "zBmSSpM1WfFDehxNCBcqSZp",
+              "contextBlocks": [
+                "[[z64yjxVfMvJTSAjWFpyEtnA:::Spaced repetition memory systems are extremely efficient]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Rule of thumb: write more spaced repetition prompts than seems natural",
+              "linkingNoteSlug": "zXteepWVP13Ch2snpGHHSSG",
+              "contextBlocks": [
+                "Most people tend to write a smaller number of larger prompts, likely because of small frictions in the authoring interfaces and because they don’t understand that prompts are cheap ([[z64yjxVfMvJTSAjWFpyEtnA:::Spaced repetition memory systems are extremely efficient]]). Prompts seem to carry a per-unit “price,” so people naturally try to write fewer questions which cover more ground. But that’s counter-productive. Unless you explicitly decide to exclude certain information, the number of “units of raw knowledge” is fixed, a constant of the territory. When you write coarser prompts in smaller quantity, you’re not reducing the amount you have to learn. You’re just making the material harder to review."
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "z2D1qPwddPktBjpNuwYFVva",
+            "z4KScVkQCD2XmVwvSDUbZtn",
+            "zFTNCRPoNgwrxyF5H5VdNM8"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "z64yjxVfMvJTSAjWFpyEtnA",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "z64yjxVfMvJTSAjWFpyEtnA",
+      "title": "Spaced repetition memory systems are extremely efficient",
+      "contentMarkdown": "# Spaced repetition memory systems are extremely efficient\n\nUsing a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]], you can memorize the answers thousands of questions in just a few minutes a day. This is the unintuitive consequence of an exponential at work in the [[z4KScVkQCD2XmVwvSDUbZtn:::Spacing effect]]: [[zFTNCRPoNgwrxyF5H5VdNM8:::Spaced repetition yields (what feel like) exponential returns for small increases in effort]].\n\nEach time you remember an answer correctly, that question’s test interval increases geometrically, forming an exponential curve: 5 days, 2 weeks, 1 month, 2 months, 4 months, etc. If you add questions at a constant rate, and each question’s probability of occurring on a given day diminishes exponential with time, then you’ll have a roughly constant number of questions to review on a given day.\n\n---\n\n## References\n\nBranwen, G. (2009). Spaced Repetition for Efficient Learning. Retrieved December 16, 2019, from <https://www.gwern.net/Spaced-repetition>\n\nNielsen, M. (2018). Augmenting Long-term Memory. Retrieved from <http://augmentingcognition.com/ltm.html>\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Spaced repetition memory system",
+          "linkingNoteSlug": "z2D1qPwddPktBjpNuwYFVva",
+          "contextBlocks": [
+            "A spaced-repetition memory system combines the [[zTpJdbe6ub7uhBFLuHkFsrT:::Testing effect]] and the [[z4KScVkQCD2XmVwvSDUbZtn:::Spacing effect]] to enable efficient memorization of many thousands of facts ([[z64yjxVfMvJTSAjWFpyEtnA:::Spaced repetition memory systems are extremely efficient]]). Some people also use them for a broader set of tasks (see below). [[zSTqsQ4ATXB61k3Z43TforN:::Spaced repetition memory systems make memory a choice]], but they’re not just for rote facts: [[z9Vi7YVx7NzxU2wawNgsJbk:::Spaced repetition memory systems can be used to develop conceptual understanding]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Spaced repetition memory systems make memory a choice",
+          "linkingNoteSlug": "zSTqsQ4ATXB61k3Z43TforN",
+          "contextBlocks": [
+            "One fascinating consequence of using a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] is that they **make memory a choice.** Once you’ve adopted a memory practice, if you want to remember something, you can simply cause it to happen: just take a few moments to write a question about it. Over the next few weeks, you’ll encode it durably into long-term memory. Moreover, it’ll only take you a few minutes cumulatively: [[z64yjxVfMvJTSAjWFpyEtnA:::Spaced repetition memory systems are extremely efficient]]. So not only do these systems make memory a choice, but they make the choice very  low-stakes: [[z4ipbCkPaf5wwDkpgqUFgTg:::Deciding to remember something with a spaced repetition system is (aspirationally) a lightweight gesture]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Spaced repetition memory systems don’t rapidly demonstrate their benefits",
+          "linkingNoteSlug": "z8a6SPMmmTjzDGkbCmJP75Y",
+          "contextBlocks": [
+            "[[z64yjxVfMvJTSAjWFpyEtnA:::Spaced repetition memory systems are extremely efficient]], but the curves start shallow. So a new user’s experience with a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] is front-loaded in terms of effort… and delayed in terms of powerful results. Initially, it seems no better than a trivial flashcard system which they might have used in school. And the long-term benefit is very non-obvious: [[zFTNCRPoNgwrxyF5H5VdNM8:::Spaced repetition yields (what feel like) exponential returns for small increases in effort]], but almost nothing else does, and [[z8iUiQ4ZpX6yfZ3hb23w83g:::People have poor intuitions for exponentials]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Deciding to remember something with a spaced repetition system is (aspirationally) a lightweight gesture",
+          "linkingNoteSlug": "z4ipbCkPaf5wwDkpgqUFgTg",
+          "contextBlocks": [
+            "But [[z64yjxVfMvJTSAjWFpyEtnA:::Spaced repetition memory systems are extremely efficient]]. Deciding to remember something is not a high-stakes decision; it’s a decision that’ll cost a fraction of a minute over the next couple years. These systems wouldn’t be very interesting if you only used them to memorize the kinds of material you already memorize, because most people don’t explicitly memorize very much. Not only do [[zSTqsQ4ATXB61k3Z43TforN:::Spaced repetition memory systems make memory a choice]], but they make it an *almost costless* choice. Emotionally, it’s closer to choosing what to highlight or write marginalia next to on a book page. And practically speaking, when a once-expensive resource becomes nearly costless, surprising things can happen (e.g. electricity)."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Spaced repetition yields (what feel like) exponential returns for small increases in effort",
+          "linkingNoteSlug": "zFTNCRPoNgwrxyF5H5VdNM8",
+          "contextBlocks": [
+            "[[z64yjxVfMvJTSAjWFpyEtnA:::Spaced repetition memory systems are extremely efficient]], but that phrase doesn’t get across the nature of the efficiency. There are lots of things you might try to improve yourself—reading more books, talking to experts, etc. These things will all help, of course, but they also yield diminishing returns fairly rapidly. Spaced repetition doesn’t work like this. If you spend a few extra minutes reviewing prompts about something you’ve read, you’ll get vastly more out of the material. Each time you subsequently review (constant time), you’ll be able to wait longer until the next review (exponential increase… or at least an increasing increase)."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "The limiting factor in spaced repetition system capacity is writing enough good prompts",
+          "linkingNoteSlug": "z2ySBuuMjHwuewNBi65YmXD",
+          "contextBlocks": [
+            "[[z64yjxVfMvJTSAjWFpyEtnA:::Spaced repetition memory systems are extremely efficient]]. In fact, they’re so efficient that once someone’s adopted a reliable spaced repetition habit, system “throughput” tends to be limited by how many good prompts they can write, rather than by how much material they can absorb."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "§Taking knowledge work seriously (Stripe convergence talk, 2019-12-12)",
+          "linkingNoteSlug": "zBmSSpM1WfFDehxNCBcqSZp",
+          "contextBlocks": [
+            "[[z64yjxVfMvJTSAjWFpyEtnA:::Spaced repetition memory systems are extremely efficient]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Rule of thumb: write more spaced repetition prompts than seems natural",
+          "linkingNoteSlug": "zXteepWVP13Ch2snpGHHSSG",
+          "contextBlocks": [
+            "Most people tend to write a smaller number of larger prompts, likely because of small frictions in the authoring interfaces and because they don’t understand that prompts are cheap ([[z64yjxVfMvJTSAjWFpyEtnA:::Spaced repetition memory systems are extremely efficient]]). Prompts seem to carry a per-unit “price,” so people naturally try to write fewer questions which cover more ground. But that’s counter-productive. Unless you explicitly decide to exclude certain information, the number of “units of raw knowledge” is fixed, a constant of the territory. When you write coarser prompts in smaller quantity, you’re not reducing the amount you have to learn. You’re just making the material harder to review."
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "z2D1qPwddPktBjpNuwYFVva",
+        "z4KScVkQCD2XmVwvSDUbZtn",
+        "zFTNCRPoNgwrxyF5H5VdNM8"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

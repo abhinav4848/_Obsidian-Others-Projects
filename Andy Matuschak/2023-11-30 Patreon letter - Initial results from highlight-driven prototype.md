@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zY3RYK9gJ6eDnq27vSwBDQh?stackedNotes=z9V2PxHVYB9p5DeCnQXcfJa
+URL:
+  - "https://notes.andymatuschak.org/zY3RYK9gJ6eDnq27vSwBDQh?stackedNotes=z9V2PxHVYB9p5DeCnQXcfJa"
 title: "2023-11-30 Patreon letter - Initial results from highlight-driven prototype"
 ---
 # 2023-11-30 Patreon letter - Initial results from highlight-driven prototype

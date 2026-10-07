@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zB92WZZ5baBHKZPPbWMbYEv?stackedNotes=zPpaHZYKuBPyoDtgcsiZ9RV&stackedNotes=zYHvjdAHV8eKdtFh18LavmM
+URL:
+  - "https://notes.andymatuschak.org/zB92WZZ5baBHKZPPbWMbYEv?stackedNotes=zPpaHZYKuBPyoDtgcsiZ9RV&stackedNotes=zYHvjdAHV8eKdtFh18LavmM"
 title: "Programmable attention"
 ---
 # Programmable attention

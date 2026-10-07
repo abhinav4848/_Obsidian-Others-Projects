@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z6sX7ZcYdPiya3SzQ5segaq?stackedNotes=zRTbHLYsFnL2hThAZL6tVqD&stackedNotes=zAhASsrt9VhRDzh25hsLsyD
+URL:
+  - "https://notes.andymatuschak.org/z6sX7ZcYdPiya3SzQ5segaq?stackedNotes=zRTbHLYsFnL2hThAZL6tVqD&stackedNotes=zAhASsrt9VhRDzh25hsLsyD"
 title: "Working memory span is mostly independent of item complexity"
 ---
 # Working memory span is mostly independent of item complexity

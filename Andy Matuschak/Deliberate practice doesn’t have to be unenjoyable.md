@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z5Rvwe2Wo2UvxHxLujUWnsa?stackedNotes=zTkRoDEXnMQqwb6uDxyA8Us&stackedNotes=zTgkGMCSgQes6NL1kCFZpEC
+URL:
+  - "https://notes.andymatuschak.org/z5Rvwe2Wo2UvxHxLujUWnsa?stackedNotes=zTkRoDEXnMQqwb6uDxyA8Us&stackedNotes=zTgkGMCSgQes6NL1kCFZpEC"
 title: "Deliberate practice doesn’t have to be unenjoyable"
 ---
 # Deliberate practice doesn’t have to be unenjoyable

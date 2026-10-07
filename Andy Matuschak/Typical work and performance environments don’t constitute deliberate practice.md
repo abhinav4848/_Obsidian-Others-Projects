@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z5Rvwe2Wo2UvxHxLujUWnsa
+URL:
+  - "https://notes.andymatuschak.org/z5Rvwe2Wo2UvxHxLujUWnsa"
 title: "Typical work and performance environments don’t constitute deliberate practice"
 ---
 # Typical work and performance environments don’t constitute deliberate practice

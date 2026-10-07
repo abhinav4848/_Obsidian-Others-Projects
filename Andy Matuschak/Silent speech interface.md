@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z2vMujPz4bgD3BwtwbU9U9B?stackedNotes=zWG9EgWoprv9cbXXkhg8YNS&stackedNotes=zFNrLkCqVyTK22wRfDKDsqy
+URL:
+  - "https://notes.andymatuschak.org/z2vMujPz4bgD3BwtwbU9U9B?stackedNotes=zWG9EgWoprv9cbXXkhg8YNS&stackedNotes=zFNrLkCqVyTK22wRfDKDsqy"
 title: "Silent speech interface"
 ---
 # Silent speech interface

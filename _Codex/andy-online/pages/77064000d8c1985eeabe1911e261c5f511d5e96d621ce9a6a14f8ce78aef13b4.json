@@ -1,0 +1,180 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Spaced_repetition_can_lower_the_stakes_around_destructive_inbox-maintenance_operations",
+  "checked_at": "2026-10-07T22:28:47.628155+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zJ5Yzvba2729XKXivBBZ91J",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zJ5Yzvba2729XKXivBBZ91J": {
+        "data": {
+          "slug": "zJ5Yzvba2729XKXivBBZ91J",
+          "title": "Spaced repetition can lower the stakes around destructive inbox-maintenance operations",
+          "contentMarkdown": "# Spaced repetition can lower the stakes around destructive inbox-maintenance operations\n\n[[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]], but [[z2Pg1CbUyvjV4jEoqmr8Xua:::Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle]]. In large part that’s because [[z4xE8FBHhDo5pTvJuCBPRYC:::Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences]].\n\nIf you recast the destructive operations as “not right now,” they feel completely different. That browser tab isn’t gone—it’ll come back later. Maybe it’s a day later at first, then if I skip it again, a few days later, then maybe a week, and so on, until “not right now” is effectively “close”… but it doesn’t feel nearly so stressful. This notion can be applied to task queues, reading lists ([[zDXBGEWk7msyonQ2Ngnrf8h:::A reading inbox to capture possibly-useful references]]), email inboxes, etc. [[zM2KVgUySDFDqAZ7MoD3oZd:::Spaced repetition mechanics create a sense of effortlessness]].\n\nIt helps me to bring some physicality into the metaphor. Imagine your desk has lots of papers on it. You naturally pull out the few which you’re using at the moment, and maybe you set a few aside for special attention. The rest sit, perhaps in a couple of piles. You intermittently look through the piles, pulling out ones which strike your fancy. The ones which sit long enough start to simply dissolve, compost into the table surface. You can always restore them if you like, but if you don’t, they’ll get tilled under.\n\nThis is an example of a way in which [[zB92WZZ5baBHKZPPbWMbYEv:::Spaced repetition systems can be used to program attention]].\n\n---\n\n## References\n\nMatuschak, A. (2019, December). Taking knowledge work seriously. Presented at the Stripe Convergence, San Francisco.\n\nDiscovered in Dec 2020 that Simon Hørup Eskildsen [blogged](https://sirupsen.com/playlists/) about a similar idea in June 2018.\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Spaced repetition systems can be used to program attention",
+              "linkingNoteSlug": "zB92WZZ5baBHKZPPbWMbYEv",
+              "contextBlocks": [
+                "[[zJ5Yzvba2729XKXivBBZ91J:::Spaced repetition can lower the stakes around destructive inbox-maintenance operations]] (to-do lists, email, reading lists, etc)"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle",
+              "linkingNoteSlug": "z2Pg1CbUyvjV4jEoqmr8Xua",
+              "contextBlocks": [
+                "One possible instantiation: [[zJ5Yzvba2729XKXivBBZ91J:::Spaced repetition can lower the stakes around destructive inbox-maintenance operations]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Similarities and differences between evergreen note-writing and Zettelkasten",
+              "linkingNoteSlug": "zQvwwb95vzcHcpow3GWy5Wi",
+              "contextBlocks": [
+                "an unusual method for managing that inbox: [[zJ5Yzvba2729XKXivBBZ91J:::Spaced repetition can lower the stakes around destructive inbox-maintenance operations]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences",
+              "linkingNoteSlug": "z4xE8FBHhDo5pTvJuCBPRYC",
+              "contextBlocks": [
+                "Typical software systems are over-formal. They insist on finality, though their users usually think in terms of relative preferences, contingent on context. On the other hand, systems which explicitly reify “priority” and “context” are typically over-fiddly and unusable. A better “core verb” is needed. One example of a possible solution: [[zJ5Yzvba2729XKXivBBZ91J:::Spaced repetition can lower the stakes around destructive inbox-maintenance operations]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "How might the mnemonic medium adapt to readers’ differing backgrounds and goals?",
+              "linkingNoteSlug": "z3BAzmUnG7hvAmfhKytuCWF",
+              "contextBlocks": [
+                "In a default-opt-in context, prompts should have a “skip” or “not right now” action. This mechanism can potentially take advantage of spaced repetition mechanics: that prompt may re-appear in a review session in a few weeks. If you “skip” again, it may disappear for several months. This accommodates the need for a potentially-destructive “delete” or “disable” operation, but without making it a high-stakes decision: [[zJ5Yzvba2729XKXivBBZ91J:::Spaced repetition can lower the stakes around destructive inbox-maintenance operations]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "A “skip” mechanism may help spaced repetition memory system sessions remain emotionally connected",
+              "linkingNoteSlug": "zCajfeVzLxpqtCzvF7jXVVy",
+              "contextBlocks": [
+                "[[zPiRwRHQxGfF9Zej765PB8M:::The critical thing to optimize in spaced repetition memory systems is emotional connection to the review session and its contents]]. One possible lever here is to give users a low-friction way to de-prioritize material they don’t care about. In particular, perhaps we could offer a “skip” button which defers a prompt with exponential backoff. This would be a lower-stakes alternative to deletion: [[zJ5Yzvba2729XKXivBBZ91J:::Spaced repetition can lower the stakes around destructive inbox-maintenance operations]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "§Taking knowledge work seriously (Stripe convergence talk, 2019-12-12)",
+              "linkingNoteSlug": "zBmSSpM1WfFDehxNCBcqSZp",
+              "contextBlocks": [
+                "[[zJ5Yzvba2729XKXivBBZ91J:::Spaced repetition can lower the stakes around destructive inbox-maintenance operations]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "§Inboxes and attention management",
+              "linkingNoteSlug": "zShQzFXDGrA1bTMCnbM9Qud",
+              "contextBlocks": [
+                "[[zJ5Yzvba2729XKXivBBZ91J:::Spaced repetition can lower the stakes around destructive inbox-maintenance operations]]"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zGKqPvetpYbvbXmPmuuvfx8",
+            "z2Pg1CbUyvjV4jEoqmr8Xua",
+            "z4xE8FBHhDo5pTvJuCBPRYC",
+            "zDXBGEWk7msyonQ2Ngnrf8h",
+            "zM2KVgUySDFDqAZ7MoD3oZd",
+            "zB92WZZ5baBHKZPPbWMbYEv"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zJ5Yzvba2729XKXivBBZ91J",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zJ5Yzvba2729XKXivBBZ91J",
+      "title": "Spaced repetition can lower the stakes around destructive inbox-maintenance operations",
+      "contentMarkdown": "# Spaced repetition can lower the stakes around destructive inbox-maintenance operations\n\n[[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]], but [[z2Pg1CbUyvjV4jEoqmr8Xua:::Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle]]. In large part that’s because [[z4xE8FBHhDo5pTvJuCBPRYC:::Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences]].\n\nIf you recast the destructive operations as “not right now,” they feel completely different. That browser tab isn’t gone—it’ll come back later. Maybe it’s a day later at first, then if I skip it again, a few days later, then maybe a week, and so on, until “not right now” is effectively “close”… but it doesn’t feel nearly so stressful. This notion can be applied to task queues, reading lists ([[zDXBGEWk7msyonQ2Ngnrf8h:::A reading inbox to capture possibly-useful references]]), email inboxes, etc. [[zM2KVgUySDFDqAZ7MoD3oZd:::Spaced repetition mechanics create a sense of effortlessness]].\n\nIt helps me to bring some physicality into the metaphor. Imagine your desk has lots of papers on it. You naturally pull out the few which you’re using at the moment, and maybe you set a few aside for special attention. The rest sit, perhaps in a couple of piles. You intermittently look through the piles, pulling out ones which strike your fancy. The ones which sit long enough start to simply dissolve, compost into the table surface. You can always restore them if you like, but if you don’t, they’ll get tilled under.\n\nThis is an example of a way in which [[zB92WZZ5baBHKZPPbWMbYEv:::Spaced repetition systems can be used to program attention]].\n\n---\n\n## References\n\nMatuschak, A. (2019, December). Taking knowledge work seriously. Presented at the Stripe Convergence, San Francisco.\n\nDiscovered in Dec 2020 that Simon Hørup Eskildsen [blogged](https://sirupsen.com/playlists/) about a similar idea in June 2018.\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Spaced repetition systems can be used to program attention",
+          "linkingNoteSlug": "zB92WZZ5baBHKZPPbWMbYEv",
+          "contextBlocks": [
+            "[[zJ5Yzvba2729XKXivBBZ91J:::Spaced repetition can lower the stakes around destructive inbox-maintenance operations]] (to-do lists, email, reading lists, etc)"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle",
+          "linkingNoteSlug": "z2Pg1CbUyvjV4jEoqmr8Xua",
+          "contextBlocks": [
+            "One possible instantiation: [[zJ5Yzvba2729XKXivBBZ91J:::Spaced repetition can lower the stakes around destructive inbox-maintenance operations]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Similarities and differences between evergreen note-writing and Zettelkasten",
+          "linkingNoteSlug": "zQvwwb95vzcHcpow3GWy5Wi",
+          "contextBlocks": [
+            "an unusual method for managing that inbox: [[zJ5Yzvba2729XKXivBBZ91J:::Spaced repetition can lower the stakes around destructive inbox-maintenance operations]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences",
+          "linkingNoteSlug": "z4xE8FBHhDo5pTvJuCBPRYC",
+          "contextBlocks": [
+            "Typical software systems are over-formal. They insist on finality, though their users usually think in terms of relative preferences, contingent on context. On the other hand, systems which explicitly reify “priority” and “context” are typically over-fiddly and unusable. A better “core verb” is needed. One example of a possible solution: [[zJ5Yzvba2729XKXivBBZ91J:::Spaced repetition can lower the stakes around destructive inbox-maintenance operations]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "How might the mnemonic medium adapt to readers’ differing backgrounds and goals?",
+          "linkingNoteSlug": "z3BAzmUnG7hvAmfhKytuCWF",
+          "contextBlocks": [
+            "In a default-opt-in context, prompts should have a “skip” or “not right now” action. This mechanism can potentially take advantage of spaced repetition mechanics: that prompt may re-appear in a review session in a few weeks. If you “skip” again, it may disappear for several months. This accommodates the need for a potentially-destructive “delete” or “disable” operation, but without making it a high-stakes decision: [[zJ5Yzvba2729XKXivBBZ91J:::Spaced repetition can lower the stakes around destructive inbox-maintenance operations]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "A “skip” mechanism may help spaced repetition memory system sessions remain emotionally connected",
+          "linkingNoteSlug": "zCajfeVzLxpqtCzvF7jXVVy",
+          "contextBlocks": [
+            "[[zPiRwRHQxGfF9Zej765PB8M:::The critical thing to optimize in spaced repetition memory systems is emotional connection to the review session and its contents]]. One possible lever here is to give users a low-friction way to de-prioritize material they don’t care about. In particular, perhaps we could offer a “skip” button which defers a prompt with exponential backoff. This would be a lower-stakes alternative to deletion: [[zJ5Yzvba2729XKXivBBZ91J:::Spaced repetition can lower the stakes around destructive inbox-maintenance operations]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "§Taking knowledge work seriously (Stripe convergence talk, 2019-12-12)",
+          "linkingNoteSlug": "zBmSSpM1WfFDehxNCBcqSZp",
+          "contextBlocks": [
+            "[[zJ5Yzvba2729XKXivBBZ91J:::Spaced repetition can lower the stakes around destructive inbox-maintenance operations]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "§Inboxes and attention management",
+          "linkingNoteSlug": "zShQzFXDGrA1bTMCnbM9Qud",
+          "contextBlocks": [
+            "[[zJ5Yzvba2729XKXivBBZ91J:::Spaced repetition can lower the stakes around destructive inbox-maintenance operations]]"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zGKqPvetpYbvbXmPmuuvfx8",
+        "z2Pg1CbUyvjV4jEoqmr8Xua",
+        "z4xE8FBHhDo5pTvJuCBPRYC",
+        "zDXBGEWk7msyonQ2Ngnrf8h",
+        "zM2KVgUySDFDqAZ7MoD3oZd",
+        "zB92WZZ5baBHKZPPbWMbYEv"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

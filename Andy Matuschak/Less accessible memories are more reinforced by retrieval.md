@@ -1,5 +1,7 @@
 ---
 title: "Less accessible memories are more reinforced by retrieval"
+URL:
+  - "https://notes.andymatuschak.org/zCyRxeMEg53C6mMfXYH2gxn"
 ---
 # Less accessible memories are more reinforced by retrieval
 Category talked about: Learning

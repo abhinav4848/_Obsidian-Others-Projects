@@ -1,5 +1,7 @@
 ---
 title: "Process over product"
+URL:
+  - "https://notes.andymatuschak.org/zY4QE4Q6NJpGZZh4Binv2xB"
 ---
 # Process over product
 Creative work requires openness, interplay, slack, [[Sense of abundance]]. Fixation on output often creates [[Scarcity mindset]], subverts its own goal. Also readily makes creative work miserable.

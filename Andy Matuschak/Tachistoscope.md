@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z8ccRLda8BqJafNxjQBpzis?stackedNotes=zWceTLNTjH3DQ7iVpy38ocq&stackedNotes=zVMUXKoCtjqGZZ2FLLjpW95
+URL:
+  - "https://notes.andymatuschak.org/z8ccRLda8BqJafNxjQBpzis?stackedNotes=zWceTLNTjH3DQ7iVpy38ocq&stackedNotes=zVMUXKoCtjqGZZ2FLLjpW95"
 title: "Tachistoscope"
 ---
 # Tachistoscope

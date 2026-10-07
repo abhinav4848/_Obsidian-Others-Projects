@@ -1,0 +1,94 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Learning_requires_metacognition",
+  "checked_at": "2026-10-07T22:28:42.940040+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zBwPoJqo3vzLwzGSa4Tcgma",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zBwPoJqo3vzLwzGSa4Tcgma": {
+        "data": {
+          "slug": "zBwPoJqo3vzLwzGSa4Tcgma",
+          "title": "Learning requires metacognition",
+          "contentMarkdown": "# Learning requires metacognition\n\nTo successfully learn something new, people must evaluate their understanding, monitor for confusion or inconsistency, plan what to do next based on those observations, and coordinate that plan’s execution. This often falls under the category of “metacognition,” though [[z3CJCzuKJw53tiQAP1zgsEs:::Metacognition is too imprecise a category: prefer to unbundle its phenomena]].\n\nIn a classroom or professional setting, an expert might perform some of these tasks for a learner ([[zL2zRTTRhWf1Lx4x9p2uCDt:::Metacognitive supports as cognitive scaffolding]]), but when a learner’s on their own, these metacognitive activities may be taxing or beyond reach. Unfortunately, [[z2zCVix7FhroZGyufoXSXbx:::Most explanatory media make participants run their own feedback loops]].\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Most explanatory media make participants run their own feedback loops",
+              "linkingNoteSlug": "z2zCVix7FhroZGyufoXSXbx",
+              "contextBlocks": [
+                "[[zBwPoJqo3vzLwzGSa4Tcgma:::Learning requires metacognition]]. When learning something new from a text, readers must constantly ask themselves: did I understand that? what questions can I ask myself to check my understanding? should I reread that passage? should I consult a reference for background on that? etc."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Metacognitive supports as cognitive scaffolding",
+              "linkingNoteSlug": "zL2zRTTRhWf1Lx4x9p2uCDt",
+              "contextBlocks": [
+                "[[zBwPoJqo3vzLwzGSa4Tcgma:::Learning requires metacognition]], but environments can take some of that metacognitive burden off of learners’ shoulders."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Most explanatory media place heavy metacognitive demands on participants",
+              "linkingNoteSlug": "zo6qizTMapyWk2rh8amnF1",
+              "contextBlocks": [
+                "[[zBwPoJqo3vzLwzGSa4Tcgma:::Learning requires metacognition]]. When learning something new from a text, readers must constantly ask themselves: did I understand that? what questions can I ask myself to check my understanding? should I reread that passage? should I consult a reference for background on that? etc."
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "z3CJCzuKJw53tiQAP1zgsEs",
+            "zL2zRTTRhWf1Lx4x9p2uCDt",
+            "z2zCVix7FhroZGyufoXSXbx"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zBwPoJqo3vzLwzGSa4Tcgma",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zBwPoJqo3vzLwzGSa4Tcgma",
+      "title": "Learning requires metacognition",
+      "contentMarkdown": "# Learning requires metacognition\n\nTo successfully learn something new, people must evaluate their understanding, monitor for confusion or inconsistency, plan what to do next based on those observations, and coordinate that plan’s execution. This often falls under the category of “metacognition,” though [[z3CJCzuKJw53tiQAP1zgsEs:::Metacognition is too imprecise a category: prefer to unbundle its phenomena]].\n\nIn a classroom or professional setting, an expert might perform some of these tasks for a learner ([[zL2zRTTRhWf1Lx4x9p2uCDt:::Metacognitive supports as cognitive scaffolding]]), but when a learner’s on their own, these metacognitive activities may be taxing or beyond reach. Unfortunately, [[z2zCVix7FhroZGyufoXSXbx:::Most explanatory media make participants run their own feedback loops]].\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Most explanatory media make participants run their own feedback loops",
+          "linkingNoteSlug": "z2zCVix7FhroZGyufoXSXbx",
+          "contextBlocks": [
+            "[[zBwPoJqo3vzLwzGSa4Tcgma:::Learning requires metacognition]]. When learning something new from a text, readers must constantly ask themselves: did I understand that? what questions can I ask myself to check my understanding? should I reread that passage? should I consult a reference for background on that? etc."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Metacognitive supports as cognitive scaffolding",
+          "linkingNoteSlug": "zL2zRTTRhWf1Lx4x9p2uCDt",
+          "contextBlocks": [
+            "[[zBwPoJqo3vzLwzGSa4Tcgma:::Learning requires metacognition]], but environments can take some of that metacognitive burden off of learners’ shoulders."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Most explanatory media place heavy metacognitive demands on participants",
+          "linkingNoteSlug": "zo6qizTMapyWk2rh8amnF1",
+          "contextBlocks": [
+            "[[zBwPoJqo3vzLwzGSa4Tcgma:::Learning requires metacognition]]. When learning something new from a text, readers must constantly ask themselves: did I understand that? what questions can I ask myself to check my understanding? should I reread that passage? should I consult a reference for background on that? etc."
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "z3CJCzuKJw53tiQAP1zgsEs",
+        "zL2zRTTRhWf1Lx4x9p2uCDt",
+        "z2zCVix7FhroZGyufoXSXbx"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

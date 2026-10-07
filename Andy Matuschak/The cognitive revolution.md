@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zQ7SznVVFocQtB24Db6feG8
+URL:
+  - "https://notes.andymatuschak.org/zQ7SznVVFocQtB24Db6feG8"
 title: "The cognitive revolution"
 ---
 # The cognitive revolution

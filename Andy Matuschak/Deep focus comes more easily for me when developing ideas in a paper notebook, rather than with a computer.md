@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z2bSwDuxY2Jbv1ntLKB3SL1?stackedNotes=z9BbAQGiGNhty2SPHSwUzKM
+URL:
+  - "https://notes.andymatuschak.org/z2bSwDuxY2Jbv1ntLKB3SL1?stackedNotes=z9BbAQGiGNhty2SPHSwUzKM"
 title: "Deep focus comes more easily for me when developing ideas in a paper notebook, rather than with a computer"
 ---
 # Deep focus comes more easily for me when developing ideas in a paper notebook, rather than with a computer

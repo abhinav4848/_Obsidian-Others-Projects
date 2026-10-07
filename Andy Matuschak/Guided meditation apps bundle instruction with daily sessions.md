@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zSNDTj75ULnYMo7pGm2Frg7?stackedNotes=z4exmF6rnZTE9GjCnpFBKUT&stackedNotes=zC4sWYDcheVSeCxpQPA9w88
+URL:
+  - "https://notes.andymatuschak.org/zSNDTj75ULnYMo7pGm2Frg7?stackedNotes=z4exmF6rnZTE9GjCnpFBKUT&stackedNotes=zC4sWYDcheVSeCxpQPA9w88"
 title: "Guided meditation apps bundle instruction with daily sessions"
 ---
 # Guided meditation apps bundle instruction with daily sessions

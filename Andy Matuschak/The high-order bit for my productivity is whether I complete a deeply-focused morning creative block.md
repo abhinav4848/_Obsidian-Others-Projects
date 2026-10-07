@@ -1,5 +1,7 @@
 ---
-URL: ["https://notes.andymatuschak.org/zSve33D7x1qe5WUjojDcM9y?stackedNotes=z2q7U5ZvXeDxXD6vXAbZb9a&stackedNotes=zWTgG8ddRz5h1WbNMYnrnqX", "https://notes.andymatuschak.org/z2q7U5ZvXeDxXD6vXAbZb9a"]
+URL:
+  - "https://notes.andymatuschak.org/zSve33D7x1qe5WUjojDcM9y?stackedNotes=z2q7U5ZvXeDxXD6vXAbZb9a&stackedNotes=zWTgG8ddRz5h1WbNMYnrnqX"
+  - "https://notes.andymatuschak.org/z2q7U5ZvXeDxXD6vXAbZb9a"
 title: "The high-order bit for my productivity is whether I complete a deeply-focused morning creative block"
 ---
 # The high-order bit for my productivity is whether I complete a deeply-focused morning creative block

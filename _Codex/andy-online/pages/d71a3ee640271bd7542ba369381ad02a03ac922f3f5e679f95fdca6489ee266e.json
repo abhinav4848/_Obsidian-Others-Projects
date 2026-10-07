@@ -1,0 +1,54 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Mind",
+  "checked_at": "2026-10-07T22:28:44.071254+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zAbJK6ZZVGmgYD6CRRFGKCE",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zAbJK6ZZVGmgYD6CRRFGKCE": {
+        "data": {
+          "slug": "zAbJK6ZZVGmgYD6CRRFGKCE",
+          "title": "Mind",
+          "contentMarkdown": "# Mind\n\nDefinition from COGS101b 2018, lecture 1:\n\n> the mind creates and controls mental functions, such as perception, attention, memory, language, etc., and creates representations of the world that enables us to function\n\nQ. The mind creates and controls… (two key things)\nA. mental functions; representations of the world\n\nQ. The mind creates and controls mental functions, such as…\nA. perception, attention, memory, language\n\nThe mind is in important ways an epiphenomenon. That is, we believe that if you could map and record every neuron, you couldn’t understand mind. Trying to do so would be like understanding a microprocessor playing Donkey Kong in terms of recording individual transistors and their connections (metaphor from “Could a Neuroscientist Understand a Microprocessor” by Jonas and Kording, 2017)\n\nQ. What’s the significance of “Could a Neuroscientist Understand a Microprocessor” for cognitive psychology? (Jonas and Kording, 2017)\nA. You probably can’t understand the mind just by mapping and recording every neuron.\n\nQ. Title of paper in which neuroscience-like techniques are applied to execution of classic video games?\nA. “Could a Neuroscientist Understand a Microprocessor”\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Cognitive psychology",
+              "linkingNoteSlug": "z5h4qfsMg1t1vC9EnfiAdK1",
+              "contextBlocks": [
+                "The study of the human [[zAbJK6ZZVGmgYD6CRRFGKCE:::Mind]] and mental processes, often with computational or information-theoretical models of the brain (see [[zCyoCsqj8ZNUR7vfYKVCUu7:::Cognitivism]] for more on the theoretical framework)."
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zAbJK6ZZVGmgYD6CRRFGKCE",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zAbJK6ZZVGmgYD6CRRFGKCE",
+      "title": "Mind",
+      "contentMarkdown": "# Mind\n\nDefinition from COGS101b 2018, lecture 1:\n\n> the mind creates and controls mental functions, such as perception, attention, memory, language, etc., and creates representations of the world that enables us to function\n\nQ. The mind creates and controls… (two key things)\nA. mental functions; representations of the world\n\nQ. The mind creates and controls mental functions, such as…\nA. perception, attention, memory, language\n\nThe mind is in important ways an epiphenomenon. That is, we believe that if you could map and record every neuron, you couldn’t understand mind. Trying to do so would be like understanding a microprocessor playing Donkey Kong in terms of recording individual transistors and their connections (metaphor from “Could a Neuroscientist Understand a Microprocessor” by Jonas and Kording, 2017)\n\nQ. What’s the significance of “Could a Neuroscientist Understand a Microprocessor” for cognitive psychology? (Jonas and Kording, 2017)\nA. You probably can’t understand the mind just by mapping and recording every neuron.\n\nQ. Title of paper in which neuroscience-like techniques are applied to execution of classic video games?\nA. “Could a Neuroscientist Understand a Microprocessor”\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Cognitive psychology",
+          "linkingNoteSlug": "z5h4qfsMg1t1vC9EnfiAdK1",
+          "contextBlocks": [
+            "The study of the human [[zAbJK6ZZVGmgYD6CRRFGKCE:::Mind]] and mental processes, often with computational or information-theoretical models of the brain (see [[zCyoCsqj8ZNUR7vfYKVCUu7:::Cognitivism]] for more on the theoretical framework)."
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

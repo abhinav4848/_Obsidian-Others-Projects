@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zEhGSbBPbgmh7Ce1VQS2RPk?stackedNotes=zWSH2QNUsrTGP4V15JBaaEv&stackedNotes=z7TJeAJjP5FrruVXwUXheW4
+URL:
+  - "https://notes.andymatuschak.org/zEhGSbBPbgmh7Ce1VQS2RPk?stackedNotes=zWSH2QNUsrTGP4V15JBaaEv&stackedNotes=z7TJeAJjP5FrruVXwUXheW4"
 title: "Constraints as cognitive scaffolding"
 ---
 # Constraints as cognitive scaffolding

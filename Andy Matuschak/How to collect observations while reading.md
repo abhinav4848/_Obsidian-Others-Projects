@@ -1,5 +1,7 @@
 ---
 title: "How to collect observations while reading"
+URL:
+  - "https://notes.andymatuschak.org/zME6gV6mc1mQ2KDE5acyho8"
 ---
 # How to collect observations while reading
 It’s important to [[Write about what you read to internalize texts deeply]], but it’s distracting to switch back and forth between reading and writing polished notes. Instead, collect insights in a lightweight way while you read. You can put them in [[A writing inbox for transient and incomplete notes]]. That'll [[Close open loops]], and you’ll process them later (see [[How to process reading annotations into evergreen notes]]).

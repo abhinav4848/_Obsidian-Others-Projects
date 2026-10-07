@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zDN6nH4MHc78Tq6opuSaRmw
+URL:
+  - "https://notes.andymatuschak.org/zDN6nH4MHc78Tq6opuSaRmw"
 title: "Backlit displays limit computers to interiors"
 ---
 # Backlit displays limit computers to interiors

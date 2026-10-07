@@ -1,0 +1,352 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Worked_example_effect",
+  "checked_at": "2026-10-07T22:28:50.731884+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zD8D8PPRBDEFk3JeM2vaWrn",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zD8D8PPRBDEFk3JeM2vaWrn": {
+        "data": {
+          "slug": "zD8D8PPRBDEFk3JeM2vaWrn",
+          "title": "Worked example effect",
+          "contentMarkdown": "# Worked example effect\n\nCarefully studying worked examples may produce more learning than solving problems.\n\n*   Foundations\n    *   [[zYHdLJ7TFdpcwGtqDChMNbm:::Sweller, J., & Cooper, G. A. (1985). The Use of Worked Examples as a Substitute for Problem Solving in Learning Algebra. Cognition and Instruction, 2(1), 59–89]]\n    *   [[z9oJyCh2UgEHU1LrkqNGDxm:::Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. Cognitive Science, 12(2), 257–285]]\n*   Related studies\n    *   [[zMbuRKNDzLXba2nEcCa6MKV:::Paas, F. G., & Van Merriënboer, J. J. (1994). Variability of worked examples and transfer of geometrical problem-solving skills: A cognitive-load approach. Journal of Educational Psychology, 86(1), 122]]\n    *   [[zLXN7M8jgARxLcNdTnWS4yU:::Yeo, D. J., & Fazio, L. K. (2019). The optimal learning strategy depends on learning goals and processes: Retrieval practice versus worked examples. Journal of Educational Psychology, 111(1), 73–90]]\n    *   [[z2kL5dsbU6myECcr4Cn7ZGc:::Chen, O., Castro-Alonso, J. C., Paas, F., & Sweller, J. (2018). Undesirable difficulty effects in the learning of high-element interactivity materials. Frontiers in Psychology, 9]]\n*   Related but not identical:\n    *   [[zACCVs7DZQCm7H4txDJD134:::van Gog, T., Kester, L., Dirkx, K., Hoogerheide, V., Boerboom, J., & Verkoeijen, P. P. J. L. (2015). Testing After Worked Example Study Does Not Enhance Delayed Problem-Solving Performance Compared to Restudy. Educational Psychology Review, 27(2), 265–289]]\n    *   [[zR7pUgEqqBEPq2eZvMpRrHX:::Leahy, W., Hanham, J., & Sweller, J. (2015). High Element Interactivity Information During Problem Solving may Lead to Failure to Obtain the Testing Effect. Educational Psychology Review, 27(2), 291–304]]\n*   More distantly related theoretical work:\n    *   [[zAfNBYHdvA9nVmVEJJy4WM1:::Paas, F. G. W. C., & Van Merriënboer, J. J. G. (1994). Instructional control of cognitive load in the training of complex cognitive tasks. Educational Psychology Review, 6(4), 351–371]]\n    *   [[zBjmQuuhR8d1WsimXGX7srF:::Sweller, J. (1994). Cognitive load theory, learning difficulty, and instructional design. Learning and Instruction, 4(4), 295–312]]\n\nWhile the term “worked example effect” usually refers to comparisons of studying related worked examples to solving related problems, it’s sometimes discussed in comparison to the [[zTpJdbe6ub7uhBFLuHkFsrT:::Testing effect]]—i.e. is it better to study related worked examples, or to engage in [[zXA8c6XtMLgRCGwJFGnZUvw:::Retrieval practice]] by re-solving related problems? See e.g. Yeo and Fazio, 2019. [[z6d4D1bSzhdaGpnAKGBX3FT:::Jeffrey Karpicke]] argues (see commentary on [[zMjGz9ddgwjxadBRxQCnnWY:::van Gog, T., & Sweller, J. (2015). Not New, but Nearly Forgotten: The Testing Effect Decreases or even Disappears as the Complexity of Learning Materials Increases. Educational Psychology Review, 27(2), 247–264]]) that “the worked-example experiments all failed to show retrieval practice effects because of the way retrieval practice was implemented” (i.e. immediate, massed, “requiring no episodic context reinstatement”).\n\nQ. Relate the [[Worked example effect]] to intrinsic, extrinsic, and germane [[Cognitive load theory]].\nA. If you try to learn through problem solving, intrinsic load (e.g. via high [[Element interactivity]]) and extrinsic load (e.g. rehearsing procedural strategies) leave no room for the germane load necessary to construct schemas.\n\nBut problem-solving practice is probably more effective after initial acquisition; see e.g.\n\n*   Ruitenburg, S. K., Ackermans, K., Kirschner, P. A., Jarodzka, H., & Camp, G. (2025). After initial acquisition, problem-solving leads to better long-term performance than example study, even for complex tasks. *Learning and Instruction*, *95*, 102027. ~<https://doi.org/10.1016/j.learninstruc.2024.102027>~\n\n## Questions\n\n*   Can schema acquisition be directly induced through e.g. a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]]?\n    *   [[zLXN7M8jgARxLcNdTnWS4yU:::Yeo, D. J., & Fazio, L. K. (2019). The optimal learning strategy depends on learning goals and processes: Retrieval practice versus worked examples. Journal of Educational Psychology, 111(1), 73–90]] suggests not, at least not just by repeated problem solving.\n    *   \\*\n*   How important is memory consolidation to schema acquisition? To put that another way, if you observe a schema pattern once, is it likely to be forgotten as quickly as, say, a simple fact? Is the challenge in schema acquisition mostly in *initially noticing* the patterns, or is an important part in *reinforcing* those insights once identified?\n*   What exactly is the daylight between the concept of a “schema” and the concept of a “chunk” ([[zXxUPAFZBthh97wAKBEj7Tq:::“Chunks” in human cognition]])?\n    *   Tentatively: schemas evolve over time while chunks do not; schemas involve not only the grouping of information but also the organization of that information into a larger structure or framework. Chunks are a somewhat narrower concept: they’re usually considered in the context of memory; while schemas are usually discussed in the broader contexts of information processing and problem solving.\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Worked example effect",
+              "linkingNoteSlug": "zD8D8PPRBDEFk3JeM2vaWrn",
+              "contextBlocks": [
+                "Q. Relate the [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]] to intrinsic, extrinsic, and germane [[zKPm7dRfoX7TPXR9KvBCAeM:::Cognitive load theory]]."
+              ],
+              "hidden": false
+            },
+            {
+              "linkingNoteTitle": "Cognitive load theory",
+              "linkingNoteSlug": "zKPm7dRfoX7TPXR9KvBCAeM",
+              "contextBlocks": [
+                "Originated by [[zPgXrAJFwMCMLBTZiKaPtvD:::John Sweller]]. See also [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "John Sweller",
+              "linkingNoteSlug": "zPgXrAJFwMCMLBTZiKaPtvD",
+              "contextBlocks": [
+                "Q. How was I introduced to the work of John Sweller?"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "van Gog, T., Kester, L., Dirkx, K., Hoogerheide, V., Boerboom, J., & Verkoeijen, P. P. J. L. (2015). Testing After Worked Example Study Does Not Enhance Delayed Problem-Solving Performance Compared to Restudy. Educational Psychology Review, 27(2), 265–289",
+              "linkingNoteSlug": "zACCVs7DZQCm7H4txDJD134",
+              "contextBlocks": [
+                "For high [[zBk3AaWYp4spoTbc1f5aYvC:::Element interactivity]] material (modestly complex problem solving), the authors fail to find a [[zTpJdbe6ub7uhBFLuHkFsrT:::Testing effect]] and instead find a [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]]: restudying isomorphic worked examples leads to better results on final test performance. This holds both when the [[zXA8c6XtMLgRCGwJFGnZUvw:::Retrieval practice]] involves solving isomorphic/identical problems and also when it involves simply recalling the text of the example solution."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "The testing effect may be diminished or inverted for immediate tests",
+              "linkingNoteSlug": "zWoEKdbmtbSgAp1tZjU4usY",
+              "contextBlocks": [
+                "As reviewed in [[zGfjkW1ociSmSUCLcpbhKjf:::Roediger, H. L., & Karpicke, J. D. (2006). The Power of Testing Memory: Basic Research and Implications for Educational Practice. Perspectives on Psychological Science, 1(3), 181–210]], experiments which successfully demonstrate the testing effect usually use retention intervals of several days or longer. When tests are administered immediately, more studying may be better than more testing (see also [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]])."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Chen, O., Castro-Alonso, J. C., Paas, F., & Sweller, J. (2018). Undesirable difficulty effects in the learning of high-element interactivity materials. Frontiers in Psychology, 9",
+              "linkingNoteSlug": "z2kL5dsbU6myECcr4Cn7ZGc",
+              "contextBlocks": [
+                "Theoretical summary integrating recent studies demonstrating a failure of the [[zTpJdbe6ub7uhBFLuHkFsrT:::Testing effect]] and [[z26C6ing3sqiZMHRVFuT6xn:::Generation effect]] in situations where [[zBk3AaWYp4spoTbc1f5aYvC:::Element interactivity]] is high. They extrapolate to suggest that [[zYB7kwEFRu8QALcbzbcoy9T:::Desirable difficulties, after Bjork]] in general may be undesirable when element interactivity is high, by reasoning in terms of [[zKPm7dRfoX7TPXR9KvBCAeM:::Cognitive load theory]] and working memory availability. This logic may also explain the [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Sweller, J. (1994). Cognitive load theory, learning difficulty, and instructional design. Learning and Instruction, 4(4), 295–312",
+              "linkingNoteSlug": "zBjmQuuhR8d1WsimXGX7srF",
+              "contextBlocks": [
+                "If we’d like to control the cognitive load involved in learning tasks, we can minimize the extraneous cognitive load in various ways (see e.g. [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]]). But we also need to moderate the intrinsic cognitive load.",
+                "Sweller points out that “while extraneous cognitive load can severely reduce instructional effectiveness, it may do so only when coupled with a high intrinsic cognitive load.” All the studies done at the time of this publication involved problems with high element interactivity. So, as an instructional designer, if you’re creating low-interactivity tasks, you may not have to worry about things like [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Leahy, W., Hanham, J., & Sweller, J. (2015). High Element Interactivity Information During Problem Solving may Lead to Failure to Obtain the Testing Effect. Educational Psychology Review, 27(2), 291–304",
+              "linkingNoteSlug": "zR7pUgEqqBEPq2eZvMpRrHX",
+              "contextBlocks": [
+                "[[zPgXrAJFwMCMLBTZiKaPtvD:::John Sweller]] and colleagues run three experiments intended to explore the hypothesis that the [[zTpJdbe6ub7uhBFLuHkFsrT:::Testing effect]] may not hold for high [[zBk3AaWYp4spoTbc1f5aYvC:::Element interactivity]] tasks; students who study more worked examples may prevail (i.e. a [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]])."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Sweller, J., & Cooper, G. A. (1985). The Use of Worked Examples as a Substitute for Problem Solving in Learning Algebra. Cognition and Instruction, 2(1), 59–89",
+              "linkingNoteSlug": "zYHdLJ7TFdpcwGtqDChMNbm",
+              "contextBlocks": [
+                "The first paper to suggest [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]] (AFAICT), by [[zPgXrAJFwMCMLBTZiKaPtvD:::John Sweller]] and Graham Cooper. The paper predates [[zKPm7dRfoX7TPXR9KvBCAeM:::Cognitive load theory]] but its claims are clearly starting to point in that direction."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Idea-centric memory system",
+              "linkingNoteSlug": "z7wCFe7MP9VeCVApcBLC7SN",
+              "contextBlocks": [
+                "A good early “step” might be to complete steps of worked examples (see [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]] literature… presumably people have looked at the effects of this as a task?)"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Paas, F. G. W. C., & Van Merriënboer, J. J. G. (1994). Instructional control of cognitive load in the training of complex cognitive tasks. Educational Psychology Review, 6(4), 351–371",
+              "linkingNoteSlug": "zAfNBYHdvA9nVmVEJJy4WM1",
+              "contextBlocks": [
+                "Having decreased cognitive load, you’ll want to focus learners’ attention on task aspects that facilitate schema acquisition. To help with that, you’ll want to eliminate extraneous elements of the task, or make sure that they’ll be automated away. Or you can provide [[zWSH2QNUsrTGP4V15JBaaEv:::Cognitive scaffolding]] in the form of worked examples ([[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]]) or partially completed problems."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Math Academy",
+              "linkingNoteSlug": "z4WGXpWwYbbBjrnDQRao6pE",
+              "contextBlocks": [
+                "Worked examples consistently presented before user tasks [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]]",
+                "I like the heavy use of worked examples as scaffolding ([[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]]), but I notice that when the worked examples are long (as they often necessarily are), my eyes often glaze over.",
+                "They mention taking advantage of the [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]]. But there’s usually just one worked example before students are asked to do exercises—advocates of that effect usually point to studies with many worked examples."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching. Educational Psychologist, 41(2), 75–86",
+              "linkingNoteSlug": "zUiDqjKiS3udc3wcvcFbcpc",
+              "contextBlocks": [
+                "Citing a 2004 review from Richard E. Mayer, it seems that empirical evidence repeatedly demonstrates that unguided approaches are ineffective. By contrast, students—particularly domain-novices—benefit from being “explicitly shown what to do and how to do it.“ ([[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]]). Problem solving is likely to be effective only when learners are sufficiently experienced.",
+                "It’s true that in e.g. [[zYHdLJ7TFdpcwGtqDChMNbm:::Sweller, J., & Cooper, G. A. (1985). The Use of Worked Examples as a Substitute for Problem Solving in Learning Algebra. Cognition and Instruction, 2(1), 59–89]], the [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]] applies only to identical test problems."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "O’Day, G. M. (2019). Improving Problem Solving with Retrieval-Based Learning [Unpublished master’s thesis, Purdue University",
+              "linkingNoteSlug": "O’Day, G. M. (2019). Improving Problem Solving with Retrieval-Based Learning [Unpublished master’s thesis, Purdue University",
+              "contextBlocks": [
+                "The author’s hypothesis was that [[z6TYDg3hS2xeHNjpQdNHxss:::Transfer-appropriate processing]] would explain some of the experiments in which a [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]] is observed rather than a testing effect: retrieval tasks need to be similar to the tasks they’re tested on."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Paas, F. G., & Van Merriënboer, J. J. (1994). Variability of worked examples and transfer of geometrical problem-solving skills: A cognitive-load approach. Journal of Educational Psychology, 86(1), 122",
+              "linkingNoteSlug": "zMbuRKNDzLXba2nEcCa6MKV",
+              "contextBlocks": [
+                "Connections between [[z7ffiDfqTR9pPcEEUUbCL7C:::Transfer learning]] and [[zKPm7dRfoX7TPXR9KvBCAeM:::Cognitive load theory]], along with [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. Cognitive Science, 12(2), 257–285",
+              "linkingNoteSlug": "z9oJyCh2UgEHU1LrkqNGDxm",
+              "contextBlocks": [
+                "Foundational paper introducing [[zKPm7dRfoX7TPXR9KvBCAeM:::Cognitive load theory]] from [[zPgXrAJFwMCMLBTZiKaPtvD:::John Sweller]]. Also central to the literature on the [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]]:"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Yeo, D. J., & Fazio, L. K. (2019). The optimal learning strategy depends on learning goals and processes: Retrieval practice versus worked examples. Journal of Educational Psychology, 111(1), 73–90",
+              "linkingNoteSlug": "zLXN7M8jgARxLcNdTnWS4yU",
+              "contextBlocks": [
+                "How do the [[zTpJdbe6ub7uhBFLuHkFsrT:::Testing effect]] and [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]] interact? Should one study worked examples or engage in retrieval practice? The authors run several experiments, focused on problem-solving."
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zYHdLJ7TFdpcwGtqDChMNbm",
+            "z9oJyCh2UgEHU1LrkqNGDxm",
+            "zMbuRKNDzLXba2nEcCa6MKV",
+            "zLXN7M8jgARxLcNdTnWS4yU",
+            "z2kL5dsbU6myECcr4Cn7ZGc",
+            "zACCVs7DZQCm7H4txDJD134",
+            "zR7pUgEqqBEPq2eZvMpRrHX",
+            "zAfNBYHdvA9nVmVEJJy4WM1",
+            "zBjmQuuhR8d1WsimXGX7srF",
+            "zTpJdbe6ub7uhBFLuHkFsrT",
+            "zXA8c6XtMLgRCGwJFGnZUvw",
+            "z6d4D1bSzhdaGpnAKGBX3FT",
+            "zMjGz9ddgwjxadBRxQCnnWY",
+            "z2D1qPwddPktBjpNuwYFVva",
+            "zLXN7M8jgARxLcNdTnWS4yU",
+            "zXxUPAFZBthh97wAKBEj7Tq"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zD8D8PPRBDEFk3JeM2vaWrn",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zD8D8PPRBDEFk3JeM2vaWrn",
+      "title": "Worked example effect",
+      "contentMarkdown": "# Worked example effect\n\nCarefully studying worked examples may produce more learning than solving problems.\n\n*   Foundations\n    *   [[zYHdLJ7TFdpcwGtqDChMNbm:::Sweller, J., & Cooper, G. A. (1985). The Use of Worked Examples as a Substitute for Problem Solving in Learning Algebra. Cognition and Instruction, 2(1), 59–89]]\n    *   [[z9oJyCh2UgEHU1LrkqNGDxm:::Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. Cognitive Science, 12(2), 257–285]]\n*   Related studies\n    *   [[zMbuRKNDzLXba2nEcCa6MKV:::Paas, F. G., & Van Merriënboer, J. J. (1994). Variability of worked examples and transfer of geometrical problem-solving skills: A cognitive-load approach. Journal of Educational Psychology, 86(1), 122]]\n    *   [[zLXN7M8jgARxLcNdTnWS4yU:::Yeo, D. J., & Fazio, L. K. (2019). The optimal learning strategy depends on learning goals and processes: Retrieval practice versus worked examples. Journal of Educational Psychology, 111(1), 73–90]]\n    *   [[z2kL5dsbU6myECcr4Cn7ZGc:::Chen, O., Castro-Alonso, J. C., Paas, F., & Sweller, J. (2018). Undesirable difficulty effects in the learning of high-element interactivity materials. Frontiers in Psychology, 9]]\n*   Related but not identical:\n    *   [[zACCVs7DZQCm7H4txDJD134:::van Gog, T., Kester, L., Dirkx, K., Hoogerheide, V., Boerboom, J., & Verkoeijen, P. P. J. L. (2015). Testing After Worked Example Study Does Not Enhance Delayed Problem-Solving Performance Compared to Restudy. Educational Psychology Review, 27(2), 265–289]]\n    *   [[zR7pUgEqqBEPq2eZvMpRrHX:::Leahy, W., Hanham, J., & Sweller, J. (2015). High Element Interactivity Information During Problem Solving may Lead to Failure to Obtain the Testing Effect. Educational Psychology Review, 27(2), 291–304]]\n*   More distantly related theoretical work:\n    *   [[zAfNBYHdvA9nVmVEJJy4WM1:::Paas, F. G. W. C., & Van Merriënboer, J. J. G. (1994). Instructional control of cognitive load in the training of complex cognitive tasks. Educational Psychology Review, 6(4), 351–371]]\n    *   [[zBjmQuuhR8d1WsimXGX7srF:::Sweller, J. (1994). Cognitive load theory, learning difficulty, and instructional design. Learning and Instruction, 4(4), 295–312]]\n\nWhile the term “worked example effect” usually refers to comparisons of studying related worked examples to solving related problems, it’s sometimes discussed in comparison to the [[zTpJdbe6ub7uhBFLuHkFsrT:::Testing effect]]—i.e. is it better to study related worked examples, or to engage in [[zXA8c6XtMLgRCGwJFGnZUvw:::Retrieval practice]] by re-solving related problems? See e.g. Yeo and Fazio, 2019. [[z6d4D1bSzhdaGpnAKGBX3FT:::Jeffrey Karpicke]] argues (see commentary on [[zMjGz9ddgwjxadBRxQCnnWY:::van Gog, T., & Sweller, J. (2015). Not New, but Nearly Forgotten: The Testing Effect Decreases or even Disappears as the Complexity of Learning Materials Increases. Educational Psychology Review, 27(2), 247–264]]) that “the worked-example experiments all failed to show retrieval practice effects because of the way retrieval practice was implemented” (i.e. immediate, massed, “requiring no episodic context reinstatement”).\n\nQ. Relate the [[Worked example effect]] to intrinsic, extrinsic, and germane [[Cognitive load theory]].\nA. If you try to learn through problem solving, intrinsic load (e.g. via high [[Element interactivity]]) and extrinsic load (e.g. rehearsing procedural strategies) leave no room for the germane load necessary to construct schemas.\n\nBut problem-solving practice is probably more effective after initial acquisition; see e.g.\n\n*   Ruitenburg, S. K., Ackermans, K., Kirschner, P. A., Jarodzka, H., & Camp, G. (2025). After initial acquisition, problem-solving leads to better long-term performance than example study, even for complex tasks. *Learning and Instruction*, *95*, 102027. ~<https://doi.org/10.1016/j.learninstruc.2024.102027>~\n\n## Questions\n\n*   Can schema acquisition be directly induced through e.g. a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]]?\n    *   [[zLXN7M8jgARxLcNdTnWS4yU:::Yeo, D. J., & Fazio, L. K. (2019). The optimal learning strategy depends on learning goals and processes: Retrieval practice versus worked examples. Journal of Educational Psychology, 111(1), 73–90]] suggests not, at least not just by repeated problem solving.\n    *   \\*\n*   How important is memory consolidation to schema acquisition? To put that another way, if you observe a schema pattern once, is it likely to be forgotten as quickly as, say, a simple fact? Is the challenge in schema acquisition mostly in *initially noticing* the patterns, or is an important part in *reinforcing* those insights once identified?\n*   What exactly is the daylight between the concept of a “schema” and the concept of a “chunk” ([[zXxUPAFZBthh97wAKBEj7Tq:::“Chunks” in human cognition]])?\n    *   Tentatively: schemas evolve over time while chunks do not; schemas involve not only the grouping of information but also the organization of that information into a larger structure or framework. Chunks are a somewhat narrower concept: they’re usually considered in the context of memory; while schemas are usually discussed in the broader contexts of information processing and problem solving.\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Worked example effect",
+          "linkingNoteSlug": "zD8D8PPRBDEFk3JeM2vaWrn",
+          "contextBlocks": [
+            "Q. Relate the [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]] to intrinsic, extrinsic, and germane [[zKPm7dRfoX7TPXR9KvBCAeM:::Cognitive load theory]]."
+          ],
+          "hidden": false
+        },
+        {
+          "linkingNoteTitle": "Cognitive load theory",
+          "linkingNoteSlug": "zKPm7dRfoX7TPXR9KvBCAeM",
+          "contextBlocks": [
+            "Originated by [[zPgXrAJFwMCMLBTZiKaPtvD:::John Sweller]]. See also [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "John Sweller",
+          "linkingNoteSlug": "zPgXrAJFwMCMLBTZiKaPtvD",
+          "contextBlocks": [
+            "Q. How was I introduced to the work of John Sweller?"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "van Gog, T., Kester, L., Dirkx, K., Hoogerheide, V., Boerboom, J., & Verkoeijen, P. P. J. L. (2015). Testing After Worked Example Study Does Not Enhance Delayed Problem-Solving Performance Compared to Restudy. Educational Psychology Review, 27(2), 265–289",
+          "linkingNoteSlug": "zACCVs7DZQCm7H4txDJD134",
+          "contextBlocks": [
+            "For high [[zBk3AaWYp4spoTbc1f5aYvC:::Element interactivity]] material (modestly complex problem solving), the authors fail to find a [[zTpJdbe6ub7uhBFLuHkFsrT:::Testing effect]] and instead find a [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]]: restudying isomorphic worked examples leads to better results on final test performance. This holds both when the [[zXA8c6XtMLgRCGwJFGnZUvw:::Retrieval practice]] involves solving isomorphic/identical problems and also when it involves simply recalling the text of the example solution."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "The testing effect may be diminished or inverted for immediate tests",
+          "linkingNoteSlug": "zWoEKdbmtbSgAp1tZjU4usY",
+          "contextBlocks": [
+            "As reviewed in [[zGfjkW1ociSmSUCLcpbhKjf:::Roediger, H. L., & Karpicke, J. D. (2006). The Power of Testing Memory: Basic Research and Implications for Educational Practice. Perspectives on Psychological Science, 1(3), 181–210]], experiments which successfully demonstrate the testing effect usually use retention intervals of several days or longer. When tests are administered immediately, more studying may be better than more testing (see also [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]])."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Chen, O., Castro-Alonso, J. C., Paas, F., & Sweller, J. (2018). Undesirable difficulty effects in the learning of high-element interactivity materials. Frontiers in Psychology, 9",
+          "linkingNoteSlug": "z2kL5dsbU6myECcr4Cn7ZGc",
+          "contextBlocks": [
+            "Theoretical summary integrating recent studies demonstrating a failure of the [[zTpJdbe6ub7uhBFLuHkFsrT:::Testing effect]] and [[z26C6ing3sqiZMHRVFuT6xn:::Generation effect]] in situations where [[zBk3AaWYp4spoTbc1f5aYvC:::Element interactivity]] is high. They extrapolate to suggest that [[zYB7kwEFRu8QALcbzbcoy9T:::Desirable difficulties, after Bjork]] in general may be undesirable when element interactivity is high, by reasoning in terms of [[zKPm7dRfoX7TPXR9KvBCAeM:::Cognitive load theory]] and working memory availability. This logic may also explain the [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Sweller, J. (1994). Cognitive load theory, learning difficulty, and instructional design. Learning and Instruction, 4(4), 295–312",
+          "linkingNoteSlug": "zBjmQuuhR8d1WsimXGX7srF",
+          "contextBlocks": [
+            "If we’d like to control the cognitive load involved in learning tasks, we can minimize the extraneous cognitive load in various ways (see e.g. [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]]). But we also need to moderate the intrinsic cognitive load.",
+            "Sweller points out that “while extraneous cognitive load can severely reduce instructional effectiveness, it may do so only when coupled with a high intrinsic cognitive load.” All the studies done at the time of this publication involved problems with high element interactivity. So, as an instructional designer, if you’re creating low-interactivity tasks, you may not have to worry about things like [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Leahy, W., Hanham, J., & Sweller, J. (2015). High Element Interactivity Information During Problem Solving may Lead to Failure to Obtain the Testing Effect. Educational Psychology Review, 27(2), 291–304",
+          "linkingNoteSlug": "zR7pUgEqqBEPq2eZvMpRrHX",
+          "contextBlocks": [
+            "[[zPgXrAJFwMCMLBTZiKaPtvD:::John Sweller]] and colleagues run three experiments intended to explore the hypothesis that the [[zTpJdbe6ub7uhBFLuHkFsrT:::Testing effect]] may not hold for high [[zBk3AaWYp4spoTbc1f5aYvC:::Element interactivity]] tasks; students who study more worked examples may prevail (i.e. a [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]])."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Sweller, J., & Cooper, G. A. (1985). The Use of Worked Examples as a Substitute for Problem Solving in Learning Algebra. Cognition and Instruction, 2(1), 59–89",
+          "linkingNoteSlug": "zYHdLJ7TFdpcwGtqDChMNbm",
+          "contextBlocks": [
+            "The first paper to suggest [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]] (AFAICT), by [[zPgXrAJFwMCMLBTZiKaPtvD:::John Sweller]] and Graham Cooper. The paper predates [[zKPm7dRfoX7TPXR9KvBCAeM:::Cognitive load theory]] but its claims are clearly starting to point in that direction."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Idea-centric memory system",
+          "linkingNoteSlug": "z7wCFe7MP9VeCVApcBLC7SN",
+          "contextBlocks": [
+            "A good early “step” might be to complete steps of worked examples (see [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]] literature… presumably people have looked at the effects of this as a task?)"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Paas, F. G. W. C., & Van Merriënboer, J. J. G. (1994). Instructional control of cognitive load in the training of complex cognitive tasks. Educational Psychology Review, 6(4), 351–371",
+          "linkingNoteSlug": "zAfNBYHdvA9nVmVEJJy4WM1",
+          "contextBlocks": [
+            "Having decreased cognitive load, you’ll want to focus learners’ attention on task aspects that facilitate schema acquisition. To help with that, you’ll want to eliminate extraneous elements of the task, or make sure that they’ll be automated away. Or you can provide [[zWSH2QNUsrTGP4V15JBaaEv:::Cognitive scaffolding]] in the form of worked examples ([[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]]) or partially completed problems."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Math Academy",
+          "linkingNoteSlug": "z4WGXpWwYbbBjrnDQRao6pE",
+          "contextBlocks": [
+            "Worked examples consistently presented before user tasks [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]]",
+            "I like the heavy use of worked examples as scaffolding ([[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]]), but I notice that when the worked examples are long (as they often necessarily are), my eyes often glaze over.",
+            "They mention taking advantage of the [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]]. But there’s usually just one worked example before students are asked to do exercises—advocates of that effect usually point to studies with many worked examples."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching. Educational Psychologist, 41(2), 75–86",
+          "linkingNoteSlug": "zUiDqjKiS3udc3wcvcFbcpc",
+          "contextBlocks": [
+            "Citing a 2004 review from Richard E. Mayer, it seems that empirical evidence repeatedly demonstrates that unguided approaches are ineffective. By contrast, students—particularly domain-novices—benefit from being “explicitly shown what to do and how to do it.“ ([[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]]). Problem solving is likely to be effective only when learners are sufficiently experienced.",
+            "It’s true that in e.g. [[zYHdLJ7TFdpcwGtqDChMNbm:::Sweller, J., & Cooper, G. A. (1985). The Use of Worked Examples as a Substitute for Problem Solving in Learning Algebra. Cognition and Instruction, 2(1), 59–89]], the [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]] applies only to identical test problems."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "O’Day, G. M. (2019). Improving Problem Solving with Retrieval-Based Learning [Unpublished master’s thesis, Purdue University",
+          "linkingNoteSlug": "O’Day, G. M. (2019). Improving Problem Solving with Retrieval-Based Learning [Unpublished master’s thesis, Purdue University",
+          "contextBlocks": [
+            "The author’s hypothesis was that [[z6TYDg3hS2xeHNjpQdNHxss:::Transfer-appropriate processing]] would explain some of the experiments in which a [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]] is observed rather than a testing effect: retrieval tasks need to be similar to the tasks they’re tested on."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Paas, F. G., & Van Merriënboer, J. J. (1994). Variability of worked examples and transfer of geometrical problem-solving skills: A cognitive-load approach. Journal of Educational Psychology, 86(1), 122",
+          "linkingNoteSlug": "zMbuRKNDzLXba2nEcCa6MKV",
+          "contextBlocks": [
+            "Connections between [[z7ffiDfqTR9pPcEEUUbCL7C:::Transfer learning]] and [[zKPm7dRfoX7TPXR9KvBCAeM:::Cognitive load theory]], along with [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. Cognitive Science, 12(2), 257–285",
+          "linkingNoteSlug": "z9oJyCh2UgEHU1LrkqNGDxm",
+          "contextBlocks": [
+            "Foundational paper introducing [[zKPm7dRfoX7TPXR9KvBCAeM:::Cognitive load theory]] from [[zPgXrAJFwMCMLBTZiKaPtvD:::John Sweller]]. Also central to the literature on the [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]]:"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Yeo, D. J., & Fazio, L. K. (2019). The optimal learning strategy depends on learning goals and processes: Retrieval practice versus worked examples. Journal of Educational Psychology, 111(1), 73–90",
+          "linkingNoteSlug": "zLXN7M8jgARxLcNdTnWS4yU",
+          "contextBlocks": [
+            "How do the [[zTpJdbe6ub7uhBFLuHkFsrT:::Testing effect]] and [[zD8D8PPRBDEFk3JeM2vaWrn:::Worked example effect]] interact? Should one study worked examples or engage in retrieval practice? The authors run several experiments, focused on problem-solving."
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zYHdLJ7TFdpcwGtqDChMNbm",
+        "z9oJyCh2UgEHU1LrkqNGDxm",
+        "zMbuRKNDzLXba2nEcCa6MKV",
+        "zLXN7M8jgARxLcNdTnWS4yU",
+        "z2kL5dsbU6myECcr4Cn7ZGc",
+        "zACCVs7DZQCm7H4txDJD134",
+        "zR7pUgEqqBEPq2eZvMpRrHX",
+        "zAfNBYHdvA9nVmVEJJy4WM1",
+        "zBjmQuuhR8d1WsimXGX7srF",
+        "zTpJdbe6ub7uhBFLuHkFsrT",
+        "zXA8c6XtMLgRCGwJFGnZUvw",
+        "z6d4D1bSzhdaGpnAKGBX3FT",
+        "zMjGz9ddgwjxadBRxQCnnWY",
+        "z2D1qPwddPktBjpNuwYFVva",
+        "zLXN7M8jgARxLcNdTnWS4yU",
+        "zXxUPAFZBthh97wAKBEj7Tq"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

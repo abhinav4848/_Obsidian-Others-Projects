@@ -1,0 +1,126 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Piotr_Wozniak",
+  "checked_at": "2026-10-07T22:28:45.669122+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zT8N3LTbePn2LVD7ZhJ5TLr",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zT8N3LTbePn2LVD7ZhJ5TLr": {
+        "data": {
+          "slug": "zT8N3LTbePn2LVD7ZhJ5TLr",
+          "title": "Piotr Wozniak",
+          "contentMarkdown": "# Piotr Wozniak\n\nCreator of [[z2oUypiCEtPaDqNjbUsawCj:::Supermemo]] and popularizer of [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] and [[zHwr5v9VJGX3MzHyzz4V8wt:::Incremental reading]].\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Spaced repetition memory system",
+              "linkingNoteSlug": "z2D1qPwddPktBjpNuwYFVva",
+              "contextBlocks": [
+                "The first consumer system of this kind was [[z2oUypiCEtPaDqNjbUsawCj:::Supermemo]], created by [[zT8N3LTbePn2LVD7ZhJ5TLr:::Piotr Wozniak]]. It adopted and popularized the term “spaced repetition”; prior literature had used a variety of terms (often referring to more specific facets of the underlying phenomenon)."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Supermemo",
+              "linkingNoteSlug": "z2oUypiCEtPaDqNjbUsawCj",
+              "contextBlocks": [
+                "The original digital [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]], created by [[zT8N3LTbePn2LVD7ZhJ5TLr:::Piotr Wozniak]]. Includes support for various related personal information management systems, such as [[zHwr5v9VJGX3MzHyzz4V8wt:::Incremental reading]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Two-component model of memory",
+              "linkingNoteSlug": "zCgYSHF9xQSEe71x9ML1NLB",
+              "contextBlocks": [
+                "[[zT8N3LTbePn2LVD7ZhJ5TLr:::Piotr Wozniak]] uses retrievability and stability in his analysis; [[zYPeHVeq311Jh4whSstyeFX:::Robert A. Bjork]] and Bjork (1992) call an analogous pair of parameters retrieval strength and storage strength, respectively."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Piotr Wozniak - Effective learning - Twenty rules of formulating knowledge",
+              "linkingNoteSlug": "z96Xr88dMaAGrn3CobJnMUD",
+              "contextBlocks": [
+                "<https://www.supermemo.com/en/archives1990-2015/articles/20rules>"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "To what extent is it helpful to use a memory system to reinforce aspects of a concept you don’t really understand?",
+              "linkingNoteSlug": "z7gF1xvdiEnurVCbDv9Zrdx",
+              "contextBlocks": [
+                "[[zT8N3LTbePn2LVD7ZhJ5TLr:::Piotr Wozniak]] says “Understand before you memorize”, but I wonder… is it truly never valuable to start reinforcing *bits* of a concept before you can really see the whole? Can knowing the bits make it easier to see the whole?"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "z2oUypiCEtPaDqNjbUsawCj",
+            "z2D1qPwddPktBjpNuwYFVva",
+            "zHwr5v9VJGX3MzHyzz4V8wt"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zT8N3LTbePn2LVD7ZhJ5TLr",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zT8N3LTbePn2LVD7ZhJ5TLr",
+      "title": "Piotr Wozniak",
+      "contentMarkdown": "# Piotr Wozniak\n\nCreator of [[z2oUypiCEtPaDqNjbUsawCj:::Supermemo]] and popularizer of [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] and [[zHwr5v9VJGX3MzHyzz4V8wt:::Incremental reading]].\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Spaced repetition memory system",
+          "linkingNoteSlug": "z2D1qPwddPktBjpNuwYFVva",
+          "contextBlocks": [
+            "The first consumer system of this kind was [[z2oUypiCEtPaDqNjbUsawCj:::Supermemo]], created by [[zT8N3LTbePn2LVD7ZhJ5TLr:::Piotr Wozniak]]. It adopted and popularized the term “spaced repetition”; prior literature had used a variety of terms (often referring to more specific facets of the underlying phenomenon)."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Supermemo",
+          "linkingNoteSlug": "z2oUypiCEtPaDqNjbUsawCj",
+          "contextBlocks": [
+            "The original digital [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]], created by [[zT8N3LTbePn2LVD7ZhJ5TLr:::Piotr Wozniak]]. Includes support for various related personal information management systems, such as [[zHwr5v9VJGX3MzHyzz4V8wt:::Incremental reading]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Two-component model of memory",
+          "linkingNoteSlug": "zCgYSHF9xQSEe71x9ML1NLB",
+          "contextBlocks": [
+            "[[zT8N3LTbePn2LVD7ZhJ5TLr:::Piotr Wozniak]] uses retrievability and stability in his analysis; [[zYPeHVeq311Jh4whSstyeFX:::Robert A. Bjork]] and Bjork (1992) call an analogous pair of parameters retrieval strength and storage strength, respectively."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Piotr Wozniak - Effective learning - Twenty rules of formulating knowledge",
+          "linkingNoteSlug": "z96Xr88dMaAGrn3CobJnMUD",
+          "contextBlocks": [
+            "<https://www.supermemo.com/en/archives1990-2015/articles/20rules>"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "To what extent is it helpful to use a memory system to reinforce aspects of a concept you don’t really understand?",
+          "linkingNoteSlug": "z7gF1xvdiEnurVCbDv9Zrdx",
+          "contextBlocks": [
+            "[[zT8N3LTbePn2LVD7ZhJ5TLr:::Piotr Wozniak]] says “Understand before you memorize”, but I wonder… is it truly never valuable to start reinforcing *bits* of a concept before you can really see the whole? Can knowing the bits make it easier to see the whole?"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "z2oUypiCEtPaDqNjbUsawCj",
+        "z2D1qPwddPktBjpNuwYFVva",
+        "zHwr5v9VJGX3MzHyzz4V8wt"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

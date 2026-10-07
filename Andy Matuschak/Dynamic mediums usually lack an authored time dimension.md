@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zKRrv2DmKp3VyDEp3oXrKXQ?stackedNotes=zBcm1RNbzedjDMTt8rRxoWt&stackedNotes=z611NYK3NCXzSWMbdZmuqXK
+URL:
+  - "https://notes.andymatuschak.org/zKRrv2DmKp3VyDEp3oXrKXQ?stackedNotes=zBcm1RNbzedjDMTt8rRxoWt&stackedNotes=z611NYK3NCXzSWMbdZmuqXK"
 title: "Dynamic mediums usually lack an authored time dimension"
 ---
 # Dynamic mediums usually lack an authored time dimension

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z3QWwvfYS5exfZE53dKwt7r
+URL:
+  - "https://notes.andymatuschak.org/z3QWwvfYS5exfZE53dKwt7r"
 title: "Good practice encodes more effective chunk recoding schemes"
 ---
 # Good practice encodes more effective chunk recoding schemes

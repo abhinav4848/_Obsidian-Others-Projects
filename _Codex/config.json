@@ -13,7 +13,22 @@
   "references_read_only": true,
   "markdown_style": {
     "blank_lines_after_headings": false,
-    "preserve_code_block_whitespace": true
+    "preserve_code_block_whitespace": true,
+    "first_heading": "captured filename without .md"
   },
-  "attachments_folder": "Attachments"
+  "attachments_folder": "Attachments",
+  "note_title_property": "title",
+  "preserve_captured_filename_on_future_renames": true,
+  "andy_removed_import_fields": [
+    "Type of Link",
+    "Author: Andy Matuschak",
+    "Completion Status",
+    "Last edited time"
+  ],
+  "andy_url_property_type": "list",
+  "url_property_yaml_format": "block sequence",
+  "obsidian_property_types": {
+    "URL": "multitext"
+  },
+  "url_list_conversion_scope": "All existing URL properties in working vault; all Andy notes receive URL lists"
 }

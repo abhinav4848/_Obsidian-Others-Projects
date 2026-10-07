@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zX95uZHiGWNiNTDF3wETWtq?stackedNotes=zBeBbzwU8LAyi2D5jqBJpS&stackedNotes=zCRXo3avHi3fNuw43BHM8ch
+URL:
+  - "https://notes.andymatuschak.org/zX95uZHiGWNiNTDF3wETWtq?stackedNotes=zBeBbzwU8LAyi2D5jqBJpS&stackedNotes=zCRXo3avHi3fNuw43BHM8ch"
 title: "Physical cut and paste is a parallel act involving informal intermediate states"
 ---
 # Physical cut and paste is a parallel act involving informal intermediate states

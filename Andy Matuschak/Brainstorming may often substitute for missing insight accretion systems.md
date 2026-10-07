@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zGbMMKcybSmwFR4jLS12iY2
+URL:
+  - "https://notes.andymatuschak.org/zGbMMKcybSmwFR4jLS12iY2"
 title: "Brainstorming may often substitute for missing insight accretion systems"
 ---
 # Brainstorming may often substitute for missing insight accretion systems

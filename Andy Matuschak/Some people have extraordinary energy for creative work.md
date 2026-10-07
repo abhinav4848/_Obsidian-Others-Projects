@@ -1,5 +1,7 @@
 ---
 title: "Some people have extraordinary energy for creative work"
+URL:
+  - "https://notes.andymatuschak.org/zLxj4xVQa4ZQNH2kgX4NTaT"
 ---
 # Some people have extraordinary energy for creative work
 Contra [[It’s hard to do difficult creative work for more than a few hours a day]]:

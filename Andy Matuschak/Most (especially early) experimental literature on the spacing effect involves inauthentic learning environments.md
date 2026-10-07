@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zKtYU4Uk7aTCGyqHr9Ca3Sb?stackedNotes=zaDSgGYrcUSuQty6WSMm2H&stackedNotes=zSpH2JJ636oT9zLw1SskCTX
+URL:
+  - "https://notes.andymatuschak.org/zKtYU4Uk7aTCGyqHr9Ca3Sb?stackedNotes=zaDSgGYrcUSuQty6WSMm2H&stackedNotes=zSpH2JJ636oT9zLw1SskCTX"
 title: "Most (especially early) experimental literature on the spacing effect involves inauthentic learning environments"
 ---
 # Most (especially early) experimental literature on the spacing effect involves inauthentic learning environments

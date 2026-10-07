@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/zEm3fU6X2i4YViURG8cd3Zx"
+URL:
+  - "https://notes.andymatuschak.org/zEm3fU6X2i4YViURG8cd3Zx"
 title: "Spaced repetition memory prompts should encode ideas from multiple angles"
 ---
 # Spaced repetition memory prompts should encode ideas from multiple angles

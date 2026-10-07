@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zCRXo3avHi3fNuw43BHM8ch?stackedNotes=zSL87LuijMXkMput8dd1f61&stackedNotes=zXo7vt8C47Wj8Wh2ZNfozZ
+URL:
+  - "https://notes.andymatuschak.org/zCRXo3avHi3fNuw43BHM8ch?stackedNotes=zSL87LuijMXkMput8dd1f61&stackedNotes=zXo7vt8C47Wj8Wh2ZNfozZ"
 title: "We lack UI patterns for linked representations for arrangements on a 2D canvas"
 ---
 # We lack UI patterns for linked representations for arrangements on a 2D canvas

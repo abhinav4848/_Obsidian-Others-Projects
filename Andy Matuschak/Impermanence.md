@@ -1,5 +1,7 @@
 ---
 title: "Impermanence"
+URL:
+  - "https://notes.andymatuschak.org/zW4ibrYmQAq5tTY4JEsGcDX"
 ---
 # Impermanence
 One of the [[Three characteristics of existence]] central to Buddhism. All experiences, perceptions, and forms arise and pass away; they are always in flux. This is true from the smallest sensation or concept to one’s existence itself.

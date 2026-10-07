@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zUR6RM21Sa88cFDfC47svVv?stackedNotes=zCQYRYZTQRmrR4bFGCzCMkR&stackedNotes=zF9BD4B7W9MaknXXn3Uhvox
+URL:
+  - "https://notes.andymatuschak.org/zUR6RM21Sa88cFDfC47svVv?stackedNotes=zCQYRYZTQRmrR4bFGCzCMkR&stackedNotes=zF9BD4B7W9MaknXXn3Uhvox"
 title: "Self-explanation effect"
 ---
 # Self-explanation effect

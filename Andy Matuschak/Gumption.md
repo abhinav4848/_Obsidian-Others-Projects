@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zLF5cEEjtKs7t8Rx3xTJVXP
+URL:
+  - "https://notes.andymatuschak.org/zLF5cEEjtKs7t8Rx3xTJVXP"
 title: "Gumption"
 ---
 # Gumption

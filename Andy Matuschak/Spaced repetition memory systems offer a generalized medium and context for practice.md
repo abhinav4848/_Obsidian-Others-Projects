@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z3R2EmEqQz6CVZifHWYMB7B?stackedNotes=zSTqsQ4ATXB61k3Z43TforN&stackedNotes=zWVP73b92oJ4RzB2EK2WRqh
+URL:
+  - "https://notes.andymatuschak.org/z3R2EmEqQz6CVZifHWYMB7B?stackedNotes=zSTqsQ4ATXB61k3Z43TforN&stackedNotes=zWVP73b92oJ4RzB2EK2WRqh"
 title: "Spaced repetition memory systems offer a generalized medium and context for practice"
 ---
 # Spaced repetition memory systems offer a generalized medium and context for practice

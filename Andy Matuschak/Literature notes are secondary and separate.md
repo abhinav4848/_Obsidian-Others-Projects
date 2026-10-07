@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zKzUzQENhyEDnuwPUhh2EQM
+URL:
+  - "https://notes.andymatuschak.org/zKzUzQENhyEDnuwPUhh2EQM"
 title: "Literature notes are secondary and separate"
 ---
 # Literature notes are secondary and separate

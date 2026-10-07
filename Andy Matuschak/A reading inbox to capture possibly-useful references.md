@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zNQV445UEcyLXVsRVgoVSfv?stackedNotes=zFuk9QqspNYHAgvzZc33ZGH&stackedNotes=zDXBGEWk7msyonQ2Ngnrf8h
+URL:
+  - "https://notes.andymatuschak.org/zNQV445UEcyLXVsRVgoVSfv?stackedNotes=zFuk9QqspNYHAgvzZc33ZGH&stackedNotes=zDXBGEWk7msyonQ2Ngnrf8h"
 title: "A reading inbox to capture possibly-useful references"
 ---
 # A reading inbox to capture possibly-useful references

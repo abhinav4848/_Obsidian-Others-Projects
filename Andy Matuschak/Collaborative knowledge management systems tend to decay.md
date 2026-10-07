@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z4RDymitJVXdYzjNgDYWqQK?stackedNotes=z6Dd9qGVLLBchS8R9wow4sk&stackedNotes=zHcouiwcynak2Xu5wh8FbFj
+URL:
+  - "https://notes.andymatuschak.org/z4RDymitJVXdYzjNgDYWqQK?stackedNotes=z6Dd9qGVLLBchS8R9wow4sk&stackedNotes=zHcouiwcynak2Xu5wh8FbFj"
 title: "Collaborative knowledge management systems tend to decay"
 ---
 # Collaborative knowledge management systems tend to decay

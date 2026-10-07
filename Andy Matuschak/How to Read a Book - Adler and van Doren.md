@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zFSbY4oPcbeKpotrJVf1A8P
+URL:
+  - "https://notes.andymatuschak.org/zFSbY4oPcbeKpotrJVf1A8P"
 title: "How to Read a Book - Adler and van Doren"
 ---
 See PDF: [[Adler, van Doren - 1972 - How to Read a Book.pdf]]

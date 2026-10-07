@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zXxUPAFZBthh97wAKBEj7Tq?stackedNotes=zAhASsrt9VhRDzh25hsLsyD&stackedNotes=z3zo16mx2Dp3PB4J1ty1DGy
+URL:
+  - "https://notes.andymatuschak.org/zXxUPAFZBthh97wAKBEj7Tq?stackedNotes=zAhASsrt9VhRDzh25hsLsyD&stackedNotes=z3zo16mx2Dp3PB4J1ty1DGy"
 title: "Span of working memory"
 ---
 # Span of working memory

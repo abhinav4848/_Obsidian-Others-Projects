@@ -1,5 +1,7 @@
 ---
 title: "A writing inbox for transient and incomplete notes"
+URL:
+  - "https://notes.andymatuschak.org/zUP4GuzPF33dWkZPiu9N6V5"
 ---
 # A writing inbox for transient and incomplete notes
 Category talked about: Note taking

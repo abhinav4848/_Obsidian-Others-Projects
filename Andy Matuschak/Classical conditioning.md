@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z7DEBj8tSRKL4jbwXQTi49b
+URL:
+  - "https://notes.andymatuschak.org/z7DEBj8tSRKL4jbwXQTi49b"
 title: "Classical conditioning"
 ---
 # Classical conditioning

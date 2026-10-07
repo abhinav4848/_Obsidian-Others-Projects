@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zGNVRh1q5gGeF88PbmYu4BB?stackedNotes=z9MxCsvv8DcHndqRECbxrRi&stackedNotes=zKubRcJXKjiCDPsPgJWckkP
+URL:
+  - "https://notes.andymatuschak.org/zGNVRh1q5gGeF88PbmYu4BB?stackedNotes=z9MxCsvv8DcHndqRECbxrRi&stackedNotes=zKubRcJXKjiCDPsPgJWckkP"
 title: "Enacted experiences can bootstrap active participation in enabling environments"
 ---
 # Enacted experiences can bootstrap active participation in enabling environments

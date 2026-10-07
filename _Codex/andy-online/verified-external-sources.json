@@ -1,0 +1,19 @@
+[
+  {
+    "note": "Andy Matuschak/Cloze Deletion.md",
+    "status": "verified",
+    "URL": "https://supermemo.guru/wiki/Cloze_deletion",
+    "online_title": "Cloze deletion",
+    "evidence": "Live source page heading and copied definition/example match the captured note; verified 2026-10-07",
+    "verification_method": "page title and copied body match",
+    "original_note_reference_URL": "https://supermemo.guru/wiki/Cloze_deletion"
+  },
+  {
+    "note": "Andy Matuschak/Messy thought, neat thought.md",
+    "status": "verified",
+    "URL": "https://klr.tumblr.com/post/154784481858/messy-thought-neat-thought",
+    "online_title": "Messy thought, neat thought",
+    "evidence": "Original Khan Academy / May-Li Khoe post; matching paragraph sequence, named examples and illustrations confirmed live on 2026-10-07",
+    "verification_method": "title, byline and copied body match"
+  }
+]

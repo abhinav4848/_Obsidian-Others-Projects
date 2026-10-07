@@ -1,0 +1,74 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Less_accessible_memories_are_more_reinforced_by_retrieval",
+  "checked_at": "2026-10-07T22:28:42.961212+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zCyRxeMEg53C6mMfXYH2gxn",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zCyRxeMEg53C6mMfXYH2gxn": {
+        "data": {
+          "slug": "zCyRxeMEg53C6mMfXYH2gxn",
+          "title": "Less accessible memories are more reinforced by retrieval",
+          "contentMarkdown": "# Less accessible memories are more reinforced by retrieval\n\nAttempting to retrieve a memory which is hard to access will have a greater impact on subsequent retrieval attempts than attempting to retrieve a memory which is easy to access.\n\nStated as conjecture in [[zYPeHVeq311Jh4whSstyeFX:::Robert A. Bjork]] and Bjork (1992), synthesizing a body of empirical research reported elsewhere (which I’ve not surveyed).\n\n---\n\n## References\n\nBjork, R. A., & Bjork, E. L. (1992). *A new theory of disuse and an old theory of stimulus fluctuation.* In A. F. Healy, S. M. Kosslyn, & R. M. Shiffrin (Eds.), *Essays in honor of William K. Estes, Vol. 1. From learning theory to connectionist theory; Vol. 2. From learning processes to cognitive processes* (p. 35–67). Lawrence Erlbaum Associates, Inc.\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Spacing effect",
+              "linkingNoteSlug": "z4KScVkQCD2XmVwvSDUbZtn",
+              "contextBlocks": [
+                "[[zCyRxeMEg53C6mMfXYH2gxn:::Less accessible memories are more reinforced by retrieval]], which may enhance learning via [[zCgYSHF9xQSEe71x9ML1NLB:::Two-component model of memory]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Two-component model of memory",
+              "linkingNoteSlug": "zCgYSHF9xQSEe71x9ML1NLB",
+              "contextBlocks": [
+                "Stability increases with each review, so that retrievability falls more slowly with each repetition (see [[z4KScVkQCD2XmVwvSDUbZtn:::Spacing effect]]). Retrieval appears to increase stability more when retrievability is low: that is, [[zCyRxeMEg53C6mMfXYH2gxn:::Less accessible memories are more reinforced by retrieval]] (see also [[zYB7kwEFRu8QALcbzbcoy9T:::Desirable difficulties, after Bjork]]). [[z2oUypiCEtPaDqNjbUsawCj:::Supermemo]] [tries to characterize this relationship with an exponential curve](https://supermemo.guru/wiki/Spacing_effect_gain), but the model complexity is high enough that I’m skeptical."
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zYPeHVeq311Jh4whSstyeFX"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zCyRxeMEg53C6mMfXYH2gxn",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zCyRxeMEg53C6mMfXYH2gxn",
+      "title": "Less accessible memories are more reinforced by retrieval",
+      "contentMarkdown": "# Less accessible memories are more reinforced by retrieval\n\nAttempting to retrieve a memory which is hard to access will have a greater impact on subsequent retrieval attempts than attempting to retrieve a memory which is easy to access.\n\nStated as conjecture in [[zYPeHVeq311Jh4whSstyeFX:::Robert A. Bjork]] and Bjork (1992), synthesizing a body of empirical research reported elsewhere (which I’ve not surveyed).\n\n---\n\n## References\n\nBjork, R. A., & Bjork, E. L. (1992). *A new theory of disuse and an old theory of stimulus fluctuation.* In A. F. Healy, S. M. Kosslyn, & R. M. Shiffrin (Eds.), *Essays in honor of William K. Estes, Vol. 1. From learning theory to connectionist theory; Vol. 2. From learning processes to cognitive processes* (p. 35–67). Lawrence Erlbaum Associates, Inc.\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Spacing effect",
+          "linkingNoteSlug": "z4KScVkQCD2XmVwvSDUbZtn",
+          "contextBlocks": [
+            "[[zCyRxeMEg53C6mMfXYH2gxn:::Less accessible memories are more reinforced by retrieval]], which may enhance learning via [[zCgYSHF9xQSEe71x9ML1NLB:::Two-component model of memory]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Two-component model of memory",
+          "linkingNoteSlug": "zCgYSHF9xQSEe71x9ML1NLB",
+          "contextBlocks": [
+            "Stability increases with each review, so that retrievability falls more slowly with each repetition (see [[z4KScVkQCD2XmVwvSDUbZtn:::Spacing effect]]). Retrieval appears to increase stability more when retrievability is low: that is, [[zCyRxeMEg53C6mMfXYH2gxn:::Less accessible memories are more reinforced by retrieval]] (see also [[zYB7kwEFRu8QALcbzbcoy9T:::Desirable difficulties, after Bjork]]). [[z2oUypiCEtPaDqNjbUsawCj:::Supermemo]] [tries to characterize this relationship with an exponential curve](https://supermemo.guru/wiki/Spacing_effect_gain), but the model complexity is high enough that I’m skeptical."
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zYPeHVeq311Jh4whSstyeFX"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

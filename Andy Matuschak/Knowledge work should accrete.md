@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/zTn3g4wTm1hbkNFUvLLjpev"
+URL:
+  - "https://notes.andymatuschak.org/zTn3g4wTm1hbkNFUvLLjpev"
 title: "Knowledge work should accrete"
 ---
 # Knowledge work should accrete

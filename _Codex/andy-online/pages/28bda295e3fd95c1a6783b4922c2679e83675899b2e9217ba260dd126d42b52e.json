@@ -1,0 +1,232 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Situated_Learning_-_Lave_and_Wenger",
+  "checked_at": "2026-10-07T22:28:46.734280+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zMhuu3pPa6FeNGYn3VfGCar",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zMhuu3pPa6FeNGYn3VfGCar": {
+        "data": {
+          "slug": "zMhuu3pPa6FeNGYn3VfGCar",
+          "title": "Situated Learning - Lave and Wenger",
+          "contentMarkdown": "# Situated Learning - Lave and Wenger\n\nLave, J., & Wenger, E. (1991). Situated learning: Legitimate peripheral participation. Cambridge University Press.\n\nCanonical work in [[zL7XdosCZ9qeCSSCrhcYfwY:::Situated learning]].\n\nThe thesis, much compressed: Learning is best understood not in terms of an individual “acquiring knowledge”, but in terms of learners’ growing participation and shifting identities within a community of practice, which in turn changes through their involvement. The authors criticize decontextualized, abstract learning, insisting instead that knowledge is inherently contextual and social, pertaining to activities we do together in the world, in their historical and cultural settings. Their preferred lens for understanding learning is “legitimate peripheral participation”, which emphasizes paths for novice participants to legitimately contribute to the activities of a community, at first peripherally but more fully over time, negotiating meaning with other members, developing and eventually transforming their own identities and the community itself.\n\nThrough a series of case studies, they draw a clear separation between their theory and simple [[z8aBPhjq7R6o8cwVNjzfDdr:::Apprenticeship]]:\n\n*   learning may occur without explicit teaching\n*   learning happens more through *participation* in the culture of practice than through focused “skill learning”\n*   peripheral belonging to that community provides opportunities to understand values, habits, and forms from exemplars and more advanced exemplars\n*   master–apprenticeship relationships aren’t necessarily formalized\n*   novices may learn from many more experienced community members, rather than a single “master”\n*   learning doesn’t just happen in the context of production\n*   mastery won’t necessarily happen without enough legitimacy and peripherality\n*   much of the learner’s momentum comes from being able to participate more fully in community—a change in identity.\n\nOne of my favorite suggestions the authors make is to consider a *learning curriculum* (a field of situated opportunities for developing new practices, viewed from learners’ perspective) in contrast to a *teaching curriculum* (instructor-centric resources for delivering knowledge).\n\n{learning curriculum}: {a field of situated opportunities for developing new practices, viewed from learners’ perspective}\n\nMany of the claims here about the limitations of abstract knowledge go too far, more or less throwing out the empirical base of [[zCyoCsqj8ZNUR7vfYKVCUu7:::Cognitivism]] completely (I sympathize with much of the criticism in [[zNwHYafJejVD1CBXNDSLqFS:::Anderson, J. R., Reder, L. M., & Simon, H. A. (1996). Situated Learning and Education. Educational Researcher, 25(4), 5–11]]). But the *lens* is an extremely powerful one, I think, particularly when thinking about motivation, meaning, and identity; the cognitivists don’t pay nearly enough attention to these issues, I believe. (see [[zXMrq3eeGJSZV9BqX1E35ex:::Internally-modulated learning is self-actualizing; externally-modulated learning is self-abnegating]])\n\nIn its criticism of explicit instruction as an instrument of systematic, depersonalized society, and its sympathy to social/critical theory, there’s a lot of overlap with [[z3M21hHKkoGYbU3S8bcYBH3:::Deschooling Society - Ivan Illich]].\n\nMuch consonance, too, with [[z2etsLyP1LJUwNDPCwvRdUG:::Enabling environments focus on doing what’s enabled]]:\n\n> It is thus necessary to refine our distinction between *talking about* and *talking within* a practice. Talking within itself includes both talking within (e.g., exchanging information necessary to the progress of ongoing activities) and talking about (e.g., stories, community lore). Inside the shared practice, both forms of talk fulfill specific functions: engaging, focusing, and shifting attention, bringing about coordination, etc., on the one hand; and supporting communal forms of memory and reflection, as well as signaling membership, on the other. (And, similarly, talking about includes both forms of talk once it becomes part of a practice of its own, usually sequestered in some respects.) For newcomers then the purpose is not to learn *from* talk as a substitute for legitimate peripheral participation; it is *to* learn to talk as a key to legitimate peripheral participation.\n\n## Questions\n\n*   This is a nice piece of rhetoric: “The notion of participation thus dissolves dichotomies between cerebral and embodied activity, between contemplation and involvement, between abstraction and experience: persons, actions, and the world are implicated in all thought, speech, knowing, and learning.” But is it true? In what domains? Does it really apply to, say, abstract algebra?\n\n## Some key excerpts\n\nA nice criticism of “internalization”, which I’ve found myself using as a replacement for “memorize” and “understand”:\n\n> Conventional explanations view learning as a process by which a learner internalizes knowledge, whether \"discovered,\" \"transmitted\" from others, or \"experienced in interaction\" with others. This focus on internalization does not just leave the nature of the learner, of the world, and of their relations unexplored; it can only reflect far-reaching assumptions concerning these issues. It establishes a sharp dichotomy between inside and outside, suggests that knowledge is largely cerebral, and takes the individual as the nonproblematic unit of analysis. Furthermore, learning as internalization is too easily construed as an unproblematic process of absorbing the given, as a matter of transmission and assimilation.\n\n> As an aspect of social practice, learning involves the whole person; it implies not only a relation to specific activities but a relation to social communities—it implies becoming a full participant, a member, a kind of person. ==In this view, learning only partly—and often incidentally—implies becoming able to be involved in new activities==, to perform new tasks and functions, to master new understandings. Activities, tasks, functions, and understandings do not exist in isolation; they are part of broader systems of relations in which they have meaning. These systems of relations arise out of and are reproduced and developed within social communities, which are in part systems of relations among persons. The person is defined by as well as defines these relations. Learning thus implies becoming a different person with respect to the possibilities enabled by these systems of relations. To ignore this aspect of learning is to overlook the fact that ==learning involves the construction of identities==.\n\n> [Problems] of schooling are not, at their most fundamental level, pedagogical. Above all, they have to do with the ways in which the community of adults reproduces itself, with the places that newcomers can or cannot find in such communities, and with relations that can or cannot be established between these newcomers and the cultural and political life of the community.\n\n> These categories [(“abstract” and “concrete”)] do not reside in the world as distinct forms of *knowledge*… Rather, they derive from the nature of the new practice generated by sequestration. ==Abstraction in this sense stems from the disconnectedness of a particular cultural practice==. (p104)\n\nQ. How do the authors reject the abstract/concrete dichotomy?\nA. Abstraction isn’t a property of the *knowledge*, but a consequence of sequestration from authentic practitioner activity. (i.e. when those ideas are rooted in practice, they feel the same as “concrete” ideas)\n\n> Notions like those of \"intrinsic rewards\" in empirical studies of apprenticeship focus quite narrowly on task knowledge and skill as the activities to be learned. Such knowledge is of course important; but a deeper sense of the value of participation to the community and the learner lies in becoming part of the community.\n\n> When the process of increasing participation is not the primary motivation for learning, it is often because \"didactic caretakers\" assume responsibility for motivating newcomers. In such circumstances, ==the focus of attention shifts from coparticipating in practice to acting upon the person-to-be-changed==.\n> …\n> Second, where there is no cultural identity encompassing the activity in which newcomers participate and no field of mature practice for what is being learned, exchange value replaces the use value of increasing participation. The commoditization of learning engenders a fundamental contradiction between the use and exchange values of the outcome of learning, which manifests itself in conflicts between learning to know and learning to display knowledge for evaluation. Testing in schools and trade schools (unnecessary in situations of apprenticeship learning) is perhaps the most pervasive and salient example of a way of establishing the exchange value of knowledge. ==Test taking then becomes a new parasitic practice, the goal of which is to increase the exchange value of learning independently of its use value==.\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Enabling environments’ activities directly serve an intrinsically meaningful purpose",
+              "linkingNoteSlug": "z3PJFWDZ7gar2ttawQTmBek",
+              "contextBlocks": [
+                "[[zMhuu3pPa6FeNGYn3VfGCar:::Situated Learning - Lave and Wenger]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Enabling environments focus on doing what’s enabled",
+              "linkingNoteSlug": "z2etsLyP1LJUwNDPCwvRdUG",
+              "contextBlocks": [
+                "[[zMhuu3pPa6FeNGYn3VfGCar:::Situated Learning - Lave and Wenger]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Situated learning",
+              "linkingNoteSlug": "zL7XdosCZ9qeCSSCrhcYfwY",
+              "contextBlocks": [
+                "Perhaps most canonically represented by [[zMhuu3pPa6FeNGYn3VfGCar:::Situated Learning - Lave and Wenger]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Enacted experiences can bootstrap active participation in enabling environments",
+              "linkingNoteSlug": "zKubRcJXKjiCDPsPgJWckkP",
+              "contextBlocks": [
+                "[[zMhuu3pPa6FeNGYn3VfGCar:::Situated Learning - Lave and Wenger]] argues a subtle point about what I’m describing here: it’s important that the activity is *legitimate*. The manager’s assigning a feature which really does need to get built, primarily because they want help building it—not primarily as a “training exercise”. The (somewhat implicit) claim is that these sorts of activities will produce more effective transfer and greater identity transformation."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Enacted experiences can create intense personal connection to authored targets",
+              "linkingNoteSlug": "zJxSaJaCeXZsY7pH2Q6t89t",
+              "contextBlocks": [
+                "This relates to [[zMhuu3pPa6FeNGYn3VfGCar:::Situated Learning - Lave and Wenger]]’s arguments that [[zL7XdosCZ9qeCSSCrhcYfwY:::Situated learning]] is a process of *identity construction/transformation*. I think they’d also suggest that my framing here is too didactic; they’d advocate *legitimate* participation in a task in community:",
+                "[[zMhuu3pPa6FeNGYn3VfGCar:::Situated Learning - Lave and Wenger]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Cognitive apprenticeship",
+              "linkingNoteSlug": "zQgeXp15RWkzyiUv9WQsLtA",
+              "contextBlocks": [
+                "Unlike [[zMhuu3pPa6FeNGYn3VfGCar:::Situated Learning - Lave and Wenger]], the authors still imagine that this apprenticeship would take place in an educational setting, disconnected from the actual community of practice. In fact, to promote [[z7ffiDfqTR9pPcEEUUbCL7C:::Transfer learning]], the authors suggest that we should intentionally decontextualize and abstract knowledge so that it can be more readily applied to different contexts."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Novices in enabling environments often can’t do what’s enabled",
+              "linkingNoteSlug": "zPrYC99kH227c1otipAefyQ",
+              "contextBlocks": [
+                "[[zL7XdosCZ9qeCSSCrhcYfwY:::Situated learning]] (see in particular [[zMhuu3pPa6FeNGYn3VfGCar:::Situated Learning - Lave and Wenger]]) suggests that this problem can be overcome through *legitimate peripheral participation*: you can usually do *part* of the thing, particularly if you’re sitting alongside an expert."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Anderson, J. R., Reder, L. M., & Simon, H. A. (1996). Situated Learning and Education. Educational Researcher, 25(4), 5–11",
+              "linkingNoteSlug": "zNwHYafJejVD1CBXNDSLqFS",
+              "contextBlocks": [
+                "Criticism of [[zL7XdosCZ9qeCSSCrhcYfwY:::Situated learning]] and in particular [[zMhuu3pPa6FeNGYn3VfGCar:::Situated Learning - Lave and Wenger]], from [[zFNsXgqNKRmNCM1J9FBeGFP:::John Anderson]], Reder, and [[z2khQEBddUwRBv2hXGqNzBq:::Herb Simon]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "The Reflective Practitioner - Donald Schön",
+              "linkingNoteSlug": "z5wZoGy72FafNGd1AHgtghs",
+              "contextBlocks": [
+                "Lots of connections here to [[zL7XdosCZ9qeCSSCrhcYfwY:::Situated learning]], though Schön’s claims aren’t nearly as extreme as [[zMhuu3pPa6FeNGYn3VfGCar:::Situated Learning - Lave and Wenger]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "The Primer++ is embedded in a field, bootstrapping participation through enacted experience",
+              "linkingNoteSlug": "zP7xzHHLs9rLZudGvGjmD9k",
+              "contextBlocks": [
+                "[[zMhuu3pPa6FeNGYn3VfGCar:::Situated Learning - Lave and Wenger]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Apprenticeship",
+              "linkingNoteSlug": "z8aBPhjq7R6o8cwVNjzfDdr",
+              "contextBlocks": [
+                "[[zMhuu3pPa6FeNGYn3VfGCar:::Situated Learning - Lave and Wenger]]"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zL7XdosCZ9qeCSSCrhcYfwY",
+            "z8aBPhjq7R6o8cwVNjzfDdr",
+            "zCyoCsqj8ZNUR7vfYKVCUu7",
+            "zNwHYafJejVD1CBXNDSLqFS",
+            "zXMrq3eeGJSZV9BqX1E35ex",
+            "z3M21hHKkoGYbU3S8bcYBH3",
+            "z2etsLyP1LJUwNDPCwvRdUG"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zMhuu3pPa6FeNGYn3VfGCar",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zMhuu3pPa6FeNGYn3VfGCar",
+      "title": "Situated Learning - Lave and Wenger",
+      "contentMarkdown": "# Situated Learning - Lave and Wenger\n\nLave, J., & Wenger, E. (1991). Situated learning: Legitimate peripheral participation. Cambridge University Press.\n\nCanonical work in [[zL7XdosCZ9qeCSSCrhcYfwY:::Situated learning]].\n\nThe thesis, much compressed: Learning is best understood not in terms of an individual “acquiring knowledge”, but in terms of learners’ growing participation and shifting identities within a community of practice, which in turn changes through their involvement. The authors criticize decontextualized, abstract learning, insisting instead that knowledge is inherently contextual and social, pertaining to activities we do together in the world, in their historical and cultural settings. Their preferred lens for understanding learning is “legitimate peripheral participation”, which emphasizes paths for novice participants to legitimately contribute to the activities of a community, at first peripherally but more fully over time, negotiating meaning with other members, developing and eventually transforming their own identities and the community itself.\n\nThrough a series of case studies, they draw a clear separation between their theory and simple [[z8aBPhjq7R6o8cwVNjzfDdr:::Apprenticeship]]:\n\n*   learning may occur without explicit teaching\n*   learning happens more through *participation* in the culture of practice than through focused “skill learning”\n*   peripheral belonging to that community provides opportunities to understand values, habits, and forms from exemplars and more advanced exemplars\n*   master–apprenticeship relationships aren’t necessarily formalized\n*   novices may learn from many more experienced community members, rather than a single “master”\n*   learning doesn’t just happen in the context of production\n*   mastery won’t necessarily happen without enough legitimacy and peripherality\n*   much of the learner’s momentum comes from being able to participate more fully in community—a change in identity.\n\nOne of my favorite suggestions the authors make is to consider a *learning curriculum* (a field of situated opportunities for developing new practices, viewed from learners’ perspective) in contrast to a *teaching curriculum* (instructor-centric resources for delivering knowledge).\n\n{learning curriculum}: {a field of situated opportunities for developing new practices, viewed from learners’ perspective}\n\nMany of the claims here about the limitations of abstract knowledge go too far, more or less throwing out the empirical base of [[zCyoCsqj8ZNUR7vfYKVCUu7:::Cognitivism]] completely (I sympathize with much of the criticism in [[zNwHYafJejVD1CBXNDSLqFS:::Anderson, J. R., Reder, L. M., & Simon, H. A. (1996). Situated Learning and Education. Educational Researcher, 25(4), 5–11]]). But the *lens* is an extremely powerful one, I think, particularly when thinking about motivation, meaning, and identity; the cognitivists don’t pay nearly enough attention to these issues, I believe. (see [[zXMrq3eeGJSZV9BqX1E35ex:::Internally-modulated learning is self-actualizing; externally-modulated learning is self-abnegating]])\n\nIn its criticism of explicit instruction as an instrument of systematic, depersonalized society, and its sympathy to social/critical theory, there’s a lot of overlap with [[z3M21hHKkoGYbU3S8bcYBH3:::Deschooling Society - Ivan Illich]].\n\nMuch consonance, too, with [[z2etsLyP1LJUwNDPCwvRdUG:::Enabling environments focus on doing what’s enabled]]:\n\n> It is thus necessary to refine our distinction between *talking about* and *talking within* a practice. Talking within itself includes both talking within (e.g., exchanging information necessary to the progress of ongoing activities) and talking about (e.g., stories, community lore). Inside the shared practice, both forms of talk fulfill specific functions: engaging, focusing, and shifting attention, bringing about coordination, etc., on the one hand; and supporting communal forms of memory and reflection, as well as signaling membership, on the other. (And, similarly, talking about includes both forms of talk once it becomes part of a practice of its own, usually sequestered in some respects.) For newcomers then the purpose is not to learn *from* talk as a substitute for legitimate peripheral participation; it is *to* learn to talk as a key to legitimate peripheral participation.\n\n## Questions\n\n*   This is a nice piece of rhetoric: “The notion of participation thus dissolves dichotomies between cerebral and embodied activity, between contemplation and involvement, between abstraction and experience: persons, actions, and the world are implicated in all thought, speech, knowing, and learning.” But is it true? In what domains? Does it really apply to, say, abstract algebra?\n\n## Some key excerpts\n\nA nice criticism of “internalization”, which I’ve found myself using as a replacement for “memorize” and “understand”:\n\n> Conventional explanations view learning as a process by which a learner internalizes knowledge, whether \"discovered,\" \"transmitted\" from others, or \"experienced in interaction\" with others. This focus on internalization does not just leave the nature of the learner, of the world, and of their relations unexplored; it can only reflect far-reaching assumptions concerning these issues. It establishes a sharp dichotomy between inside and outside, suggests that knowledge is largely cerebral, and takes the individual as the nonproblematic unit of analysis. Furthermore, learning as internalization is too easily construed as an unproblematic process of absorbing the given, as a matter of transmission and assimilation.\n\n> As an aspect of social practice, learning involves the whole person; it implies not only a relation to specific activities but a relation to social communities—it implies becoming a full participant, a member, a kind of person. ==In this view, learning only partly—and often incidentally—implies becoming able to be involved in new activities==, to perform new tasks and functions, to master new understandings. Activities, tasks, functions, and understandings do not exist in isolation; they are part of broader systems of relations in which they have meaning. These systems of relations arise out of and are reproduced and developed within social communities, which are in part systems of relations among persons. The person is defined by as well as defines these relations. Learning thus implies becoming a different person with respect to the possibilities enabled by these systems of relations. To ignore this aspect of learning is to overlook the fact that ==learning involves the construction of identities==.\n\n> [Problems] of schooling are not, at their most fundamental level, pedagogical. Above all, they have to do with the ways in which the community of adults reproduces itself, with the places that newcomers can or cannot find in such communities, and with relations that can or cannot be established between these newcomers and the cultural and political life of the community.\n\n> These categories [(“abstract” and “concrete”)] do not reside in the world as distinct forms of *knowledge*… Rather, they derive from the nature of the new practice generated by sequestration. ==Abstraction in this sense stems from the disconnectedness of a particular cultural practice==. (p104)\n\nQ. How do the authors reject the abstract/concrete dichotomy?\nA. Abstraction isn’t a property of the *knowledge*, but a consequence of sequestration from authentic practitioner activity. (i.e. when those ideas are rooted in practice, they feel the same as “concrete” ideas)\n\n> Notions like those of \"intrinsic rewards\" in empirical studies of apprenticeship focus quite narrowly on task knowledge and skill as the activities to be learned. Such knowledge is of course important; but a deeper sense of the value of participation to the community and the learner lies in becoming part of the community.\n\n> When the process of increasing participation is not the primary motivation for learning, it is often because \"didactic caretakers\" assume responsibility for motivating newcomers. In such circumstances, ==the focus of attention shifts from coparticipating in practice to acting upon the person-to-be-changed==.\n> …\n> Second, where there is no cultural identity encompassing the activity in which newcomers participate and no field of mature practice for what is being learned, exchange value replaces the use value of increasing participation. The commoditization of learning engenders a fundamental contradiction between the use and exchange values of the outcome of learning, which manifests itself in conflicts between learning to know and learning to display knowledge for evaluation. Testing in schools and trade schools (unnecessary in situations of apprenticeship learning) is perhaps the most pervasive and salient example of a way of establishing the exchange value of knowledge. ==Test taking then becomes a new parasitic practice, the goal of which is to increase the exchange value of learning independently of its use value==.\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Enabling environments’ activities directly serve an intrinsically meaningful purpose",
+          "linkingNoteSlug": "z3PJFWDZ7gar2ttawQTmBek",
+          "contextBlocks": [
+            "[[zMhuu3pPa6FeNGYn3VfGCar:::Situated Learning - Lave and Wenger]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Enabling environments focus on doing what’s enabled",
+          "linkingNoteSlug": "z2etsLyP1LJUwNDPCwvRdUG",
+          "contextBlocks": [
+            "[[zMhuu3pPa6FeNGYn3VfGCar:::Situated Learning - Lave and Wenger]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Situated learning",
+          "linkingNoteSlug": "zL7XdosCZ9qeCSSCrhcYfwY",
+          "contextBlocks": [
+            "Perhaps most canonically represented by [[zMhuu3pPa6FeNGYn3VfGCar:::Situated Learning - Lave and Wenger]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Enacted experiences can bootstrap active participation in enabling environments",
+          "linkingNoteSlug": "zKubRcJXKjiCDPsPgJWckkP",
+          "contextBlocks": [
+            "[[zMhuu3pPa6FeNGYn3VfGCar:::Situated Learning - Lave and Wenger]] argues a subtle point about what I’m describing here: it’s important that the activity is *legitimate*. The manager’s assigning a feature which really does need to get built, primarily because they want help building it—not primarily as a “training exercise”. The (somewhat implicit) claim is that these sorts of activities will produce more effective transfer and greater identity transformation."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Enacted experiences can create intense personal connection to authored targets",
+          "linkingNoteSlug": "zJxSaJaCeXZsY7pH2Q6t89t",
+          "contextBlocks": [
+            "This relates to [[zMhuu3pPa6FeNGYn3VfGCar:::Situated Learning - Lave and Wenger]]’s arguments that [[zL7XdosCZ9qeCSSCrhcYfwY:::Situated learning]] is a process of *identity construction/transformation*. I think they’d also suggest that my framing here is too didactic; they’d advocate *legitimate* participation in a task in community:",
+            "[[zMhuu3pPa6FeNGYn3VfGCar:::Situated Learning - Lave and Wenger]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Cognitive apprenticeship",
+          "linkingNoteSlug": "zQgeXp15RWkzyiUv9WQsLtA",
+          "contextBlocks": [
+            "Unlike [[zMhuu3pPa6FeNGYn3VfGCar:::Situated Learning - Lave and Wenger]], the authors still imagine that this apprenticeship would take place in an educational setting, disconnected from the actual community of practice. In fact, to promote [[z7ffiDfqTR9pPcEEUUbCL7C:::Transfer learning]], the authors suggest that we should intentionally decontextualize and abstract knowledge so that it can be more readily applied to different contexts."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Novices in enabling environments often can’t do what’s enabled",
+          "linkingNoteSlug": "zPrYC99kH227c1otipAefyQ",
+          "contextBlocks": [
+            "[[zL7XdosCZ9qeCSSCrhcYfwY:::Situated learning]] (see in particular [[zMhuu3pPa6FeNGYn3VfGCar:::Situated Learning - Lave and Wenger]]) suggests that this problem can be overcome through *legitimate peripheral participation*: you can usually do *part* of the thing, particularly if you’re sitting alongside an expert."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Anderson, J. R., Reder, L. M., & Simon, H. A. (1996). Situated Learning and Education. Educational Researcher, 25(4), 5–11",
+          "linkingNoteSlug": "zNwHYafJejVD1CBXNDSLqFS",
+          "contextBlocks": [
+            "Criticism of [[zL7XdosCZ9qeCSSCrhcYfwY:::Situated learning]] and in particular [[zMhuu3pPa6FeNGYn3VfGCar:::Situated Learning - Lave and Wenger]], from [[zFNsXgqNKRmNCM1J9FBeGFP:::John Anderson]], Reder, and [[z2khQEBddUwRBv2hXGqNzBq:::Herb Simon]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "The Reflective Practitioner - Donald Schön",
+          "linkingNoteSlug": "z5wZoGy72FafNGd1AHgtghs",
+          "contextBlocks": [
+            "Lots of connections here to [[zL7XdosCZ9qeCSSCrhcYfwY:::Situated learning]], though Schön’s claims aren’t nearly as extreme as [[zMhuu3pPa6FeNGYn3VfGCar:::Situated Learning - Lave and Wenger]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "The Primer++ is embedded in a field, bootstrapping participation through enacted experience",
+          "linkingNoteSlug": "zP7xzHHLs9rLZudGvGjmD9k",
+          "contextBlocks": [
+            "[[zMhuu3pPa6FeNGYn3VfGCar:::Situated Learning - Lave and Wenger]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Apprenticeship",
+          "linkingNoteSlug": "z8aBPhjq7R6o8cwVNjzfDdr",
+          "contextBlocks": [
+            "[[zMhuu3pPa6FeNGYn3VfGCar:::Situated Learning - Lave and Wenger]]"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zL7XdosCZ9qeCSSCrhcYfwY",
+        "z8aBPhjq7R6o8cwVNjzfDdr",
+        "zCyoCsqj8ZNUR7vfYKVCUu7",
+        "zNwHYafJejVD1CBXNDSLqFS",
+        "zXMrq3eeGJSZV9BqX1E35ex",
+        "z3M21hHKkoGYbU3S8bcYBH3",
+        "z2etsLyP1LJUwNDPCwvRdUG"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

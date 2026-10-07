@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zFuk9QqspNYHAgvzZc33ZGH?stackedNotes=zDXBGEWk7msyonQ2Ngnrf8h&stackedNotes=zB74H9CuWrosEuqve7jZyCo
+URL:
+  - "https://notes.andymatuschak.org/zFuk9QqspNYHAgvzZc33ZGH?stackedNotes=zDXBGEWk7msyonQ2Ngnrf8h&stackedNotes=zB74H9CuWrosEuqve7jZyCo"
 title: "Write about what you read to internalize texts deeply"
 ---
 # Write about what you read to internalize texts deeply

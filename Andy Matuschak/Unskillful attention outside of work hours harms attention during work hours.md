@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/Pomodoro_technique?stackedNotes=z6yUMNozmk9oamZmKFn5Ldh&stackedNotes=z5411exwfs7LDbNHUJoL7vk
+URL:
+  - "https://notes.andymatuschak.org/Pomodoro_technique?stackedNotes=z6yUMNozmk9oamZmKFn5Ldh&stackedNotes=z5411exwfs7LDbNHUJoL7vk"
 title: "Unskillful attention outside of work hours harms attention during work hours"
 ---
 # Unskillful attention outside of work hours harms attention during work hours

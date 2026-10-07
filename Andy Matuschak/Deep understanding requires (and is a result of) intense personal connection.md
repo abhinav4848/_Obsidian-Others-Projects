@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/zPMRGaKwPXyo4qaPdcXQA5Z"
+URL:
+  - "https://notes.andymatuschak.org/zPMRGaKwPXyo4qaPdcXQA5Z"
 title: "Deep understanding requires (and is a result of) intense personal connection"
 ---
 # Deep understanding requires (and is a result of) intense personal connection

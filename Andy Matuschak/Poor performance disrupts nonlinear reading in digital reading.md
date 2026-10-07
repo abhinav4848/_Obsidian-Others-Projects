@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zBeBbzwU8LAyi2D5jqBJpS?stackedNotes=zJ4k4feCLspoCid7C4mzmvL&stackedNotes=zVx3t4nDyk9tyuWQiBzsSDT
+URL:
+  - "https://notes.andymatuschak.org/zBeBbzwU8LAyi2D5jqBJpS?stackedNotes=zJ4k4feCLspoCid7C4mzmvL&stackedNotes=zVx3t4nDyk9tyuWQiBzsSDT"
 title: "Poor performance disrupts nonlinear reading in digital reading"
 ---
 # Poor performance disrupts nonlinear reading in digital reading

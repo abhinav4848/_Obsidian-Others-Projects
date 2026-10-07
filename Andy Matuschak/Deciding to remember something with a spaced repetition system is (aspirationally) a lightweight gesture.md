@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z4ipbCkPaf5wwDkpgqUFgTg
+URL:
+  - "https://notes.andymatuschak.org/z4ipbCkPaf5wwDkpgqUFgTg"
 title: "Deciding to remember something with a spaced repetition system is (aspirationally) a lightweight gesture"
 ---
 # Deciding to remember something with a spaced repetition system is (aspirationally) a lightweight gesture

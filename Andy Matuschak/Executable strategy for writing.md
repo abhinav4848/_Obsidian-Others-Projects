@@ -1,5 +1,7 @@
 ---
-URL: ["https://notes.andymatuschak.org/z4EXkuLjdBrBZe7PVAGXc5a?stackedNotes=zCknixwETdFm1MWdWPwMcXs&stackedNotes=zSKD44o2VTbQuQYqmjupo4B", "https://notes.andymatuschak.org/zCknixwETdFm1MWdWPwMcXs"]
+URL:
+  - "https://notes.andymatuschak.org/z4EXkuLjdBrBZe7PVAGXc5a?stackedNotes=zCknixwETdFm1MWdWPwMcXs&stackedNotes=zSKD44o2VTbQuQYqmjupo4B"
+  - "https://notes.andymatuschak.org/zCknixwETdFm1MWdWPwMcXs"
 title: "Executable strategy for writing"
 ---
 # Executable strategy for writing

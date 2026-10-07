@@ -1,0 +1,92 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Impermanence",
+  "checked_at": "2026-10-07T22:28:41.699534+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zW4ibrYmQAq5tTY4JEsGcDX",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zW4ibrYmQAq5tTY4JEsGcDX": {
+        "data": {
+          "slug": "zW4ibrYmQAq5tTY4JEsGcDX",
+          "title": "Impermanence",
+          "contentMarkdown": "# Impermanence\n\nOne of the [[zHBvLXrgmfDj5QB2KZzf45e:::Three characteristics of existence]] central to [[zWZzZPYQXoZgLWsHC8tcokm:::Buddhism]]. All experiences, perceptions, and forms arise and pass away; they are always in flux. This is true from the smallest sensation or concept to one’s existence itself.\n\nThe Buddhist claim is specifically that all *sankhara* are impermanent. That word’s meaning is subtle, and I don’t think I understand it well. Simple translations include “formations” and “conditioned things.” It’s meant to represent a fused “subject-object” epistemological thing. I think this means that Buddhism makes no claim that, say, the Platonic number 3 is impermanent: that’s just an object. But our thoughts, claims, and activities with respect to 3 are impermanent.\n\nThe Pali word for this is {anicca}.\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Three characteristics of existence",
+              "linkingNoteSlug": "zHBvLXrgmfDj5QB2KZzf45e",
+              "contextBlocks": [
+                "[[zW4ibrYmQAq5tTY4JEsGcDX:::Impermanence]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Dullness and distraction in creative work may arise from the same causes as in meditation",
+              "linkingNoteSlug": "zG8RB9kAnBBzZ8fpfGh8Drp",
+              "contextBlocks": [
+                "It sounds obvious in retrospect: [[z3hBXnDxbvTaSPstyxoD5pj:::Meditation]] instructors say all the time that the point is not to achieve attention and awareness just while in explicit meditation sessions, but to bring that same quality of mind to everyday life. I’d understood that in terms of recognizing [[zW4ibrYmQAq5tTY4JEsGcDX:::Impermanence]] and [[z5URdYxJwnM5TVhQnbZER8b:::Non-identification]]. But somehow I hadn’t connected that to problems I encounter when doing difficult creative work."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Four Thousand Weeks - Oliver Burkeman",
+              "linkingNoteSlug": "zSkiQC8doMdCAMwTeiXgjXx",
+              "contextBlocks": [
+                "Variations on [[Today is not a dress rehearsal]]; [[There are many experiences]]; [[zW4ibrYmQAq5tTY4JEsGcDX:::Impermanence]]: “When I finally get my workload under control/get my candidate elected/find the right romantic partner/sort out my psychological issues, then I can relax, and the life I was always meant to be living can begin.”"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zHBvLXrgmfDj5QB2KZzf45e",
+            "zWZzZPYQXoZgLWsHC8tcokm"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zW4ibrYmQAq5tTY4JEsGcDX",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zW4ibrYmQAq5tTY4JEsGcDX",
+      "title": "Impermanence",
+      "contentMarkdown": "# Impermanence\n\nOne of the [[zHBvLXrgmfDj5QB2KZzf45e:::Three characteristics of existence]] central to [[zWZzZPYQXoZgLWsHC8tcokm:::Buddhism]]. All experiences, perceptions, and forms arise and pass away; they are always in flux. This is true from the smallest sensation or concept to one’s existence itself.\n\nThe Buddhist claim is specifically that all *sankhara* are impermanent. That word’s meaning is subtle, and I don’t think I understand it well. Simple translations include “formations” and “conditioned things.” It’s meant to represent a fused “subject-object” epistemological thing. I think this means that Buddhism makes no claim that, say, the Platonic number 3 is impermanent: that’s just an object. But our thoughts, claims, and activities with respect to 3 are impermanent.\n\nThe Pali word for this is {anicca}.\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Three characteristics of existence",
+          "linkingNoteSlug": "zHBvLXrgmfDj5QB2KZzf45e",
+          "contextBlocks": [
+            "[[zW4ibrYmQAq5tTY4JEsGcDX:::Impermanence]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Dullness and distraction in creative work may arise from the same causes as in meditation",
+          "linkingNoteSlug": "zG8RB9kAnBBzZ8fpfGh8Drp",
+          "contextBlocks": [
+            "It sounds obvious in retrospect: [[z3hBXnDxbvTaSPstyxoD5pj:::Meditation]] instructors say all the time that the point is not to achieve attention and awareness just while in explicit meditation sessions, but to bring that same quality of mind to everyday life. I’d understood that in terms of recognizing [[zW4ibrYmQAq5tTY4JEsGcDX:::Impermanence]] and [[z5URdYxJwnM5TVhQnbZER8b:::Non-identification]]. But somehow I hadn’t connected that to problems I encounter when doing difficult creative work."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Four Thousand Weeks - Oliver Burkeman",
+          "linkingNoteSlug": "zSkiQC8doMdCAMwTeiXgjXx",
+          "contextBlocks": [
+            "Variations on [[Today is not a dress rehearsal]]; [[There are many experiences]]; [[zW4ibrYmQAq5tTY4JEsGcDX:::Impermanence]]: “When I finally get my workload under control/get my candidate elected/find the right romantic partner/sort out my psychological issues, then I can relax, and the life I was always meant to be living can begin.”"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zHBvLXrgmfDj5QB2KZzf45e",
+        "zWZzZPYQXoZgLWsHC8tcokm"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

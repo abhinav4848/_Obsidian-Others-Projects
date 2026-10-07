@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/About_these_notes?stackedNotes=zCMhncA1iSE74MKKYQS5PBZ&stackedNotes=zF9ywLHqHfN5rFuPApiyqmP
+URL:
+  - "https://notes.andymatuschak.org/About_these_notes?stackedNotes=zCMhncA1iSE74MKKYQS5PBZ&stackedNotes=zF9ywLHqHfN5rFuPApiyqmP"
 title: "Anti-marketing, after Michael Nielsen"
 ---
 # Anti-marketing, after Michael Nielsen

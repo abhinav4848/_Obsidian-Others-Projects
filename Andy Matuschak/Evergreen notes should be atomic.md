@@ -1,5 +1,7 @@
 ---
-URL: ["https://notes.andymatuschak.org/z4EXkuLjdBrBZe7PVAGXc5a?stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zF8xCU4BwXwbmSyp7tmff9i", "https://notes.andymatuschak.org/zNUaiGAXp21eorsER1Jm9yU"]
+URL:
+  - "https://notes.andymatuschak.org/z4EXkuLjdBrBZe7PVAGXc5a?stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zF8xCU4BwXwbmSyp7tmff9i"
+  - "https://notes.andymatuschak.org/zNUaiGAXp21eorsER1Jm9yU"
 title: "Evergreen notes should be atomic"
 ---
 # Evergreen notes should be atomic

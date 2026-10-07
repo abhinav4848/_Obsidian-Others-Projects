@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z92TGMiBsnraf5KXxSTNkBJ?stackedNotes=zQDtyijWebs1Su1Z8rZptot
+URL:
+  - "https://notes.andymatuschak.org/z92TGMiBsnraf5KXxSTNkBJ?stackedNotes=zQDtyijWebs1Su1Z8rZptot"
 title: "Educational environments usually don’t involve original thought"
 ---
 # Educational environments usually don’t involve original thought

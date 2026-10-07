@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zXiWsZY761uNMUKeMEqNVqi
+URL:
+  - "https://notes.andymatuschak.org/zXiWsZY761uNMUKeMEqNVqi"
 title: "Anki seems to make it harder to “sketch” and revise prompts"
 ---
 # Anki seems to make it harder to “sketch” and revise prompts

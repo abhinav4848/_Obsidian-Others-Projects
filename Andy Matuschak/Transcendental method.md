@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z6SMtarpsqrMoeJF7NeSkxG
+URL:
+  - "https://notes.andymatuschak.org/z6SMtarpsqrMoeJF7NeSkxG"
 title: "Transcendental method"
 ---
 # Transcendental method

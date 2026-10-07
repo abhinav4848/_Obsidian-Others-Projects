@@ -1,5 +1,7 @@
 ---
 title: "Learning requires metacognition"
+URL:
+  - "https://notes.andymatuschak.org/zBwPoJqo3vzLwzGSa4Tcgma"
 ---
 # Learning requires metacognition
 To successfully learn something new, people must evaluate their understanding, monitor for confusion or inconsistency, plan what to do next based on those observations, and coordinate that plan’s execution. This often falls under the category of “metacognition,” though [Metacognition is too imprecise a category: prefer to unbundle its phenomena](https://notes.andymatuschak.org/z3CJCzuKJw53tiQAP1zgsEs). (Not Linking as very vague text on Andy’s site)

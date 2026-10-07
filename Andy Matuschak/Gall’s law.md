@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zKKB5ENRahwftH96H7mijiu?stackedNotes=zRHGYaDyQDBypztBaFYZgtR&stackedNotes=z4GDrXLY7RaUDcvZLim3mfA
+URL:
+  - "https://notes.andymatuschak.org/zKKB5ENRahwftH96H7mijiu?stackedNotes=zRHGYaDyQDBypztBaFYZgtR&stackedNotes=z4GDrXLY7RaUDcvZLim3mfA"
 title: "Gall’s law"
 ---
 # Gall’s law

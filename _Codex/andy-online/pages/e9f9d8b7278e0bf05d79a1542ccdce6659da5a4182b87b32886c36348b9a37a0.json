@@ -1,0 +1,94 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/The_best_way_to_read_is_highly_contextual",
+  "checked_at": "2026-10-07T22:28:49.491014+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zNhg2x8e6yHJXxf7GeBLu1R",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zNhg2x8e6yHJXxf7GeBLu1R": {
+        "data": {
+          "slug": "zNhg2x8e6yHJXxf7GeBLu1R",
+          "title": "The best way to read is highly contextual",
+          "contentMarkdown": "# The best way to read is highly contextual\n\nHow a book should best be read depends a great deal on the book, the reader, and the context. You’ll read some texts essentially just for entertainment; some you’ll skip around and mine for gems ([[zGyuqjqaSGWzT9ndJJVxiaw:::Skillful reading is often non-linear]]); others you’ll want to deeply internalize (e.g. [[zB74H9CuWrosEuqve7jZyCo:::Write about what you read to internalize texts deeply]]). Some of this variance is explained by the work itself, but much depends on your motivations and feelings as the reader.\n\nAs Adler and van Doren put it: “Every book should be read no more slowly than it deserves, and no more quickly than you can read it with satisfaction and comprehension.” (p. 43) I find this incredibly difficult to do in practice! It requires active monitoring and self-control to adjust the speed according to my interest and comprehension in the moment.\n\nDigital reading experiences often fail to recognize this variability and instead reinforce the implicit default of linear, completionist reading.\n\n> Some books are to be tasted, others to be swallowed, and some few to be chewed and digested: that is, some books are to be read only in parts, others to be read, but not curiously, and some few to be read wholly, and with diligence and attention.\n\n—Francis Bacon\n\n## References\n\n[[zFSbY4oPcbeKpotrJVf1A8P:::How to Read a Book - Adler and van Doren]]\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Write about what you read to internalize texts deeply",
+              "linkingNoteSlug": "zB74H9CuWrosEuqve7jZyCo",
+              "contextBlocks": [
+                "But of course, it doesn’t always make sense to read in this way: much of the time you’re not really trying to internalize the text deeply, and text may not be worthy of that much attention: [[zNhg2x8e6yHJXxf7GeBLu1R:::The best way to read is highly contextual]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "The mnemonic medium should give readers control over the prompts they collect",
+              "linkingNoteSlug": "z8kPkXQZ3wVR5DfJ79uhnuz",
+              "contextBlocks": [
+                "discourage/prevent many valuable active modes of reading, e.g. skimming for gems, reading with a specific purpose in mind motivated by authentic use, reading non-linearly, etc: [[zNhg2x8e6yHJXxf7GeBLu1R:::The best way to read is highly contextual]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Edwards, P. N. (2005). How to Read a Book.",
+              "linkingNoteSlug": "zF3idWHy3CyBA7foes3nagx",
+              "contextBlocks": [
+                "General advice on how to read non-fiction effectively. Comments related to [[zB74H9CuWrosEuqve7jZyCo:::Write about what you read to internalize texts deeply]]; [[zGyuqjqaSGWzT9ndJJVxiaw:::Skillful reading is often non-linear]]; [[zNhg2x8e6yHJXxf7GeBLu1R:::The best way to read is highly contextual]]."
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zGyuqjqaSGWzT9ndJJVxiaw",
+            "zB74H9CuWrosEuqve7jZyCo",
+            "zFSbY4oPcbeKpotrJVf1A8P"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zNhg2x8e6yHJXxf7GeBLu1R",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zNhg2x8e6yHJXxf7GeBLu1R",
+      "title": "The best way to read is highly contextual",
+      "contentMarkdown": "# The best way to read is highly contextual\n\nHow a book should best be read depends a great deal on the book, the reader, and the context. You’ll read some texts essentially just for entertainment; some you’ll skip around and mine for gems ([[zGyuqjqaSGWzT9ndJJVxiaw:::Skillful reading is often non-linear]]); others you’ll want to deeply internalize (e.g. [[zB74H9CuWrosEuqve7jZyCo:::Write about what you read to internalize texts deeply]]). Some of this variance is explained by the work itself, but much depends on your motivations and feelings as the reader.\n\nAs Adler and van Doren put it: “Every book should be read no more slowly than it deserves, and no more quickly than you can read it with satisfaction and comprehension.” (p. 43) I find this incredibly difficult to do in practice! It requires active monitoring and self-control to adjust the speed according to my interest and comprehension in the moment.\n\nDigital reading experiences often fail to recognize this variability and instead reinforce the implicit default of linear, completionist reading.\n\n> Some books are to be tasted, others to be swallowed, and some few to be chewed and digested: that is, some books are to be read only in parts, others to be read, but not curiously, and some few to be read wholly, and with diligence and attention.\n\n—Francis Bacon\n\n## References\n\n[[zFSbY4oPcbeKpotrJVf1A8P:::How to Read a Book - Adler and van Doren]]\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Write about what you read to internalize texts deeply",
+          "linkingNoteSlug": "zB74H9CuWrosEuqve7jZyCo",
+          "contextBlocks": [
+            "But of course, it doesn’t always make sense to read in this way: much of the time you’re not really trying to internalize the text deeply, and text may not be worthy of that much attention: [[zNhg2x8e6yHJXxf7GeBLu1R:::The best way to read is highly contextual]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "The mnemonic medium should give readers control over the prompts they collect",
+          "linkingNoteSlug": "z8kPkXQZ3wVR5DfJ79uhnuz",
+          "contextBlocks": [
+            "discourage/prevent many valuable active modes of reading, e.g. skimming for gems, reading with a specific purpose in mind motivated by authentic use, reading non-linearly, etc: [[zNhg2x8e6yHJXxf7GeBLu1R:::The best way to read is highly contextual]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Edwards, P. N. (2005). How to Read a Book.",
+          "linkingNoteSlug": "zF3idWHy3CyBA7foes3nagx",
+          "contextBlocks": [
+            "General advice on how to read non-fiction effectively. Comments related to [[zB74H9CuWrosEuqve7jZyCo:::Write about what you read to internalize texts deeply]]; [[zGyuqjqaSGWzT9ndJJVxiaw:::Skillful reading is often non-linear]]; [[zNhg2x8e6yHJXxf7GeBLu1R:::The best way to read is highly contextual]]."
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zGyuqjqaSGWzT9ndJJVxiaw",
+        "zB74H9CuWrosEuqve7jZyCo",
+        "zFSbY4oPcbeKpotrJVf1A8P"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

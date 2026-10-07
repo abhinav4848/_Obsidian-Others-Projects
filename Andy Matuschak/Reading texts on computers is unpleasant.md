@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z2bSwDuxY2Jbv1ntLKB3SL1
+URL:
+  - "https://notes.andymatuschak.org/z2bSwDuxY2Jbv1ntLKB3SL1"
 title: "Reading texts on computers is unpleasant"
 ---
 # Reading texts on computers is unpleasant

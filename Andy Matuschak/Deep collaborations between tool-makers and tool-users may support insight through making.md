@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zD2oDSCgLEyM4xDhjRLXtuH?stackedNotes=z7RGGgVdDVHXkzJ6BVFKws8&stackedNotes=zG1S2XhBhJa7PWeSkKna2Y2
+URL:
+  - "https://notes.andymatuschak.org/zD2oDSCgLEyM4xDhjRLXtuH?stackedNotes=z7RGGgVdDVHXkzJ6BVFKws8&stackedNotes=zG1S2XhBhJa7PWeSkKna2Y2"
 title: "Deep collaborations between tool-makers and tool-users may support insight through making"
 ---
 # Deep collaborations between tool-makers and tool-users may support insight through making

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zF3gSqhimNzCKYaWzm3rmUn?stackedNotes=z8dXowKop2xGp9UEVwXpG2Q&stackedNotes=zVNTDbWaVNxgTSPx3cNLDPc
+URL:
+  - "https://notes.andymatuschak.org/zF3gSqhimNzCKYaWzm3rmUn?stackedNotes=z8dXowKop2xGp9UEVwXpG2Q&stackedNotes=zVNTDbWaVNxgTSPx3cNLDPc"
 title: "Dullness"
 ---
 # Dullness

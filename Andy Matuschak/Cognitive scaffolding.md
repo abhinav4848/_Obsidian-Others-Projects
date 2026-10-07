@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zWSH2QNUsrTGP4V15JBaaEv
+URL:
+  - "https://notes.andymatuschak.org/zWSH2QNUsrTGP4V15JBaaEv"
 title: "Cognitive scaffolding"
 ---
 # Cognitive scaffolding

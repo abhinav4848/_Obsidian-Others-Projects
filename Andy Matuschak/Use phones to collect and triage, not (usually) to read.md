@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=z63PA5ATVi8oyhyLgeGvL3p&stackedNotes=z5WxoE5azJstBPkERETy5kv
+URL:
+  - "https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=z63PA5ATVi8oyhyLgeGvL3p&stackedNotes=z5WxoE5azJstBPkERETy5kv"
 title: "Use phones to collect and triage, not (usually) to read"
 ---
 # Use phones to collect and triage, not (usually) to read

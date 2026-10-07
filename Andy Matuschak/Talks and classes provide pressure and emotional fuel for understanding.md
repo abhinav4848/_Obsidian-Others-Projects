@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zFjTBdLjTRYsyoDyqyBEPNN?stackedNotes=zHMNN7GPf7gqABzgre5jeJi&stackedNotes=z9Ks9E6UseNapjj9scwpFjo
+URL:
+  - "https://notes.andymatuschak.org/zFjTBdLjTRYsyoDyqyBEPNN?stackedNotes=zHMNN7GPf7gqABzgre5jeJi&stackedNotes=z9Ks9E6UseNapjj9scwpFjo"
 title: "Talks and classes provide pressure and emotional fuel for understanding"
 ---
 # Talks and classes provide pressure and emotional fuel for understanding

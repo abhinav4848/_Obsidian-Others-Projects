@@ -1,0 +1,94 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/zJip1ikfjnqm8veu4GE4SmK",
+  "checked_at": "2026-10-07T22:30:57.583936+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zJip1ikfjnqm8veu4GE4SmK",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zJip1ikfjnqm8veu4GE4SmK": {
+        "data": {
+          "slug": "zJip1ikfjnqm8veu4GE4SmK",
+          "title": "Collaborations between tool-makers and tool-users depend on building effective “armories” of tool ideas",
+          "contentMarkdown": "# Collaborations between tool-makers and tool-users depend on building effective “armories” of tool ideas\n\n[[zG1S2XhBhJa7PWeSkKna2Y2:::Deep collaborations between tool-makers and tool-users may support insight through making]], and because the tool-user is driving the serious use in these collaborations, they’ll generally be the one to *instigate* the pair’s creative projects. That initial conception is often the result of semi-private tinkering. The pair’s division of responsibility will naturally focus the tool-user’s tinkering on the creative project itself, rather than unanswered questions in the tools. As the tool-user tinkers with ideas which might become new creative projects, they’ll mostly be incorporating tools that are mostly already “within grasp.”\n\nSo if the pair hopes to explore some idea in tool-space through a serious creative project, that idea must already be concrete and accessible when the tool-user’s conceiving of a next project. The pair must proactively *develop an armory* of tool ideas (both embryonic and mature) to equip the tool-user’s explorations.\n\nTool ideas in the armory don’t have to be working software. They just have to be solid enough to stand on—understood well enough that the tool-user can tinker with them in emerging creative projects. For example, when Michael started work on [[zNVVrcxnkjk7pCabiBvaic1:::Quantum Country]], the software was only an early sketch: the important thing was that he understood the idea’s *shape* well enough to imagine a book which powerfully implemented it. While sketching the book, it was fine (for a while) to simply write “Question: How many dimensions does a qubit’s vector space have?” in the text. The core *idea* behind the mnemonic medium was already “in the armory.”\n\nThe armory has important implications for the pair’s relationship and the division of labor. The tool-maker isn’t conceiving the creative projects, so if there’s an idea he finds promising, he must drive its development to the point that the tool idea is “in the armory,” so that it can then inspire future creative projects. On the other hand, the tool-user’s mostly not developing tool ideas, so if he’s struck by a tool idea—but that idea is not yet solid enough to be “in the armory”—he should be able to lean on the tool-maker to drive the idea’s development until it’s ready for the armory.\n\nIn both cases, the pair must develop ideas for the armory without assurance that they’ll necessarily be used by a future project. Entering the armory is just a necessary (but not at all sufficient) precondition for use in a serious creative project.\n\nThe armory conception is mostly useful in the context of repeated collaborations, particularly across distinct projects (i.e. [[z2MeZGv57tNcz5rh64ebSNz:::Collaborations between tool-makers and tool-users can best iterate via a sequence of different projects]]).\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Deep collaborations between tool-makers and tool-users may support insight through making",
+              "linkingNoteSlug": "zG1S2XhBhJa7PWeSkKna2Y2",
+              "contextBlocks": [
+                "[[zJip1ikfjnqm8veu4GE4SmK:::Collaborations between tool-makers and tool-users depend on building effective “armories” of tool ideas]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "2020-06-15 Patreon update - Armories for tool-maker / tool-user collaborations",
+              "linkingNoteSlug": "zWV2yPQUJWNm6MfbbxT1Tur",
+              "contextBlocks": [
+                "[[zJip1ikfjnqm8veu4GE4SmK:::Collaborations between tool-makers and tool-users depend on building effective “armories” of tool ideas]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "§Corporate research lab practices",
+              "linkingNoteSlug": "zKHWU8WK3KKy9peGmq1nTwi",
+              "contextBlocks": [
+                "[[zJip1ikfjnqm8veu4GE4SmK:::Collaborations between tool-makers and tool-users depend on building effective “armories” of tool ideas]]"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zG1S2XhBhJa7PWeSkKna2Y2",
+            "zNVVrcxnkjk7pCabiBvaic1",
+            "z2MeZGv57tNcz5rh64ebSNz"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zJip1ikfjnqm8veu4GE4SmK",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zJip1ikfjnqm8veu4GE4SmK",
+      "title": "Collaborations between tool-makers and tool-users depend on building effective “armories” of tool ideas",
+      "contentMarkdown": "# Collaborations between tool-makers and tool-users depend on building effective “armories” of tool ideas\n\n[[zG1S2XhBhJa7PWeSkKna2Y2:::Deep collaborations between tool-makers and tool-users may support insight through making]], and because the tool-user is driving the serious use in these collaborations, they’ll generally be the one to *instigate* the pair’s creative projects. That initial conception is often the result of semi-private tinkering. The pair’s division of responsibility will naturally focus the tool-user’s tinkering on the creative project itself, rather than unanswered questions in the tools. As the tool-user tinkers with ideas which might become new creative projects, they’ll mostly be incorporating tools that are mostly already “within grasp.”\n\nSo if the pair hopes to explore some idea in tool-space through a serious creative project, that idea must already be concrete and accessible when the tool-user’s conceiving of a next project. The pair must proactively *develop an armory* of tool ideas (both embryonic and mature) to equip the tool-user’s explorations.\n\nTool ideas in the armory don’t have to be working software. They just have to be solid enough to stand on—understood well enough that the tool-user can tinker with them in emerging creative projects. For example, when Michael started work on [[zNVVrcxnkjk7pCabiBvaic1:::Quantum Country]], the software was only an early sketch: the important thing was that he understood the idea’s *shape* well enough to imagine a book which powerfully implemented it. While sketching the book, it was fine (for a while) to simply write “Question: How many dimensions does a qubit’s vector space have?” in the text. The core *idea* behind the mnemonic medium was already “in the armory.”\n\nThe armory has important implications for the pair’s relationship and the division of labor. The tool-maker isn’t conceiving the creative projects, so if there’s an idea he finds promising, he must drive its development to the point that the tool idea is “in the armory,” so that it can then inspire future creative projects. On the other hand, the tool-user’s mostly not developing tool ideas, so if he’s struck by a tool idea—but that idea is not yet solid enough to be “in the armory”—he should be able to lean on the tool-maker to drive the idea’s development until it’s ready for the armory.\n\nIn both cases, the pair must develop ideas for the armory without assurance that they’ll necessarily be used by a future project. Entering the armory is just a necessary (but not at all sufficient) precondition for use in a serious creative project.\n\nThe armory conception is mostly useful in the context of repeated collaborations, particularly across distinct projects (i.e. [[z2MeZGv57tNcz5rh64ebSNz:::Collaborations between tool-makers and tool-users can best iterate via a sequence of different projects]]).\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Deep collaborations between tool-makers and tool-users may support insight through making",
+          "linkingNoteSlug": "zG1S2XhBhJa7PWeSkKna2Y2",
+          "contextBlocks": [
+            "[[zJip1ikfjnqm8veu4GE4SmK:::Collaborations between tool-makers and tool-users depend on building effective “armories” of tool ideas]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "2020-06-15 Patreon update - Armories for tool-maker / tool-user collaborations",
+          "linkingNoteSlug": "zWV2yPQUJWNm6MfbbxT1Tur",
+          "contextBlocks": [
+            "[[zJip1ikfjnqm8veu4GE4SmK:::Collaborations between tool-makers and tool-users depend on building effective “armories” of tool ideas]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "§Corporate research lab practices",
+          "linkingNoteSlug": "zKHWU8WK3KKy9peGmq1nTwi",
+          "contextBlocks": [
+            "[[zJip1ikfjnqm8veu4GE4SmK:::Collaborations between tool-makers and tool-users depend on building effective “armories” of tool ideas]]"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zG1S2XhBhJa7PWeSkKna2Y2",
+        "zNVVrcxnkjk7pCabiBvaic1",
+        "z2MeZGv57tNcz5rh64ebSNz"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

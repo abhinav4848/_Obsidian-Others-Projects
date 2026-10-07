@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z99vBTQN4Rp1DSxZDYpAufr?stackedNotes=z6UeyEqpiLy4E6CSkTbN8Tc
+URL:
+  - "https://notes.andymatuschak.org/z99vBTQN4Rp1DSxZDYpAufr?stackedNotes=z6UeyEqpiLy4E6CSkTbN8Tc"
 title: "Scarcity mindset"
 ---
 # Scarcity mindset

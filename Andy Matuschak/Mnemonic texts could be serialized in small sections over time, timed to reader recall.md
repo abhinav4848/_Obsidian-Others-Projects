@@ -1,5 +1,7 @@
 ---
 title: "Mnemonic texts could be serialized in small sections over time, timed to reader recall"
+URL:
+  - "https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp"
 ---
 # Mnemonic texts could be serialized in small sections over time, timed to reader recall
 One early theory in our design of the [[Mnemonic medium]] was that if someone reviews chapter 1’s content a few times, they may have an easier time understanding chapter 2: [[Complex ideas may be hard to learn in part because their components overflow working memory]].

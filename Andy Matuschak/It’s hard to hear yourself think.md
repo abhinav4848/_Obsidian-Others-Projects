@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zWzVw2VM4TPjpKXnHUfLaso
+URL:
+  - "https://notes.andymatuschak.org/zWzVw2VM4TPjpKXnHUfLaso"
 title: "It’s hard to hear yourself think"
 ---
 # It’s hard to hear yourself think

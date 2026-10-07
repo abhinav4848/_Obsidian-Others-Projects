@@ -1,0 +1,110 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Forgetting_curve",
+  "checked_at": "2026-10-07T22:28:40.790802+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/z26AXzY1oNUMSENevADMhGV",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "z26AXzY1oNUMSENevADMhGV": {
+        "data": {
+          "slug": "z26AXzY1oNUMSENevADMhGV",
+          "title": "Forgetting curve",
+          "contentMarkdown": "# Forgetting curve\n\nInitially characterized by [[zXUmVzxexnpvtmR6zpKBxUp:::Hermann Ebbinghaus]], the “forgetting curve” describes a class of related power-law phenomena around forgetting and memory: roughly speaking, memory “retrieval strength” (see [[zCgYSHF9xQSEe71x9ML1NLB:::Two-component model of memory]]) seems to decrease along a power-law curve after initial exposure.\n\nEbbinghaus’s initial experiments established the forgetting curve in terms of the amount of effort required to *re-learn* nonsense syllables after some time had passed. More time was required as the session interval increased, along what he believed to be an exponential curve.\n\nSubsequent literature (e.g. Wickelgren, 1974) reframed this effect as a probabilistic one (and a power-law rather than exponential): probability of recall falls over time along an inverse power-law curve, modulated also by an exponential component accounting for interference.\n\nWixted and Carpenter (2007) summarize the forgetting curve as:\nP(recall) = m(1 + ht)^-f\nWhere m is the degree of initial learning (i.e. the probability at time 0), h is a scaling factor on time, and f is the exponential memory decay factor.\n\n## References\n\n[[zLzssGrAzNxttF37QcvbH2W:::Ebbinghaus, H. (1913). Memory: A Contribution to Experimental Psychology (H. A. Ruger & C. E. Bussenius, Trans.). (Original work published 1885)]]\n\nWickelgren, W. A. (1974). Single-trace fragility theory of memory dynamics. *Memory & Cognition*, *2*(4), 775–780.\n\nWixted, J. T., & Carpenter, S. K. (2007). The Wickelgren power law and the Ebbinghaus savings function. *Psychological Science*, *18*(2), 133.\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Spacing effect",
+              "linkingNoteSlug": "z4KScVkQCD2XmVwvSDUbZtn",
+              "contextBlocks": [
+                "To put this another way, successive reinforcements flatten the [[z26AXzY1oNUMSENevADMhGV:::Forgetting curve]], so you can wait longer and longer between each review. Well-timed spacings flatten that curve to a greater degree."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "COGS 101B - Lecture 21 - Eyewitness memory",
+              "linkingNoteSlug": "zGKZm9JKLBB7rQUSh7QCJwE",
+              "contextBlocks": [
+                "Guest lecture by Wixted (of the power law [[z26AXzY1oNUMSENevADMhGV:::Forgetting curve]])."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Mozer, M. C., & Lindsey, R. V. (2016). Predicting and Improving Memory Retention: Psychological Theory Matters in the Big Data Era. In M. N. Jones (Ed.), Big data in cognitive science (pp. 34–64).",
+              "linkingNoteSlug": "zGXgn3UjMpmMiTtFBxAa8GQ",
+              "contextBlocks": [
+                "In the first major section, the authors describe how traditional item-response theory can be combined with the established power-law [[z26AXzY1oNUMSENevADMhGV:::Forgetting curve]] function to create a predictive model for forgetting after a single study session using relatively few parameters (one per student, one per item, and a time scaling parameter)."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Mozer, M. C., Pashler, H., Cepeda, N., Lindsey, R., & Vul, E. (2009). Predicting the Optimal Spacing of Study: A Multiscale Context Model of Memory. In Y. Bengio, D. Schuurmans, J. Lafferty, C. K. I. Williams, & A. Culotta (Eds.), Advances in Neural Information Processing Systems 22 (pp. 1321–1329).",
+              "linkingNoteSlug": "zUmDmZLaCb8DsJp8dGrNVM8",
+              "contextBlocks": [
+                "This paper proposes a model which can fit the spacing function (i.e. of the [[z4KScVkQCD2XmVwvSDUbZtn:::Spacing effect]]) and the [[z26AXzY1oNUMSENevADMhGV:::Forgetting curve]] of empirical learning data (e.g. from a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]])."
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zXUmVzxexnpvtmR6zpKBxUp",
+            "zCgYSHF9xQSEe71x9ML1NLB",
+            "zLzssGrAzNxttF37QcvbH2W"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "z26AXzY1oNUMSENevADMhGV",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "z26AXzY1oNUMSENevADMhGV",
+      "title": "Forgetting curve",
+      "contentMarkdown": "# Forgetting curve\n\nInitially characterized by [[zXUmVzxexnpvtmR6zpKBxUp:::Hermann Ebbinghaus]], the “forgetting curve” describes a class of related power-law phenomena around forgetting and memory: roughly speaking, memory “retrieval strength” (see [[zCgYSHF9xQSEe71x9ML1NLB:::Two-component model of memory]]) seems to decrease along a power-law curve after initial exposure.\n\nEbbinghaus’s initial experiments established the forgetting curve in terms of the amount of effort required to *re-learn* nonsense syllables after some time had passed. More time was required as the session interval increased, along what he believed to be an exponential curve.\n\nSubsequent literature (e.g. Wickelgren, 1974) reframed this effect as a probabilistic one (and a power-law rather than exponential): probability of recall falls over time along an inverse power-law curve, modulated also by an exponential component accounting for interference.\n\nWixted and Carpenter (2007) summarize the forgetting curve as:\nP(recall) = m(1 + ht)^-f\nWhere m is the degree of initial learning (i.e. the probability at time 0), h is a scaling factor on time, and f is the exponential memory decay factor.\n\n## References\n\n[[zLzssGrAzNxttF37QcvbH2W:::Ebbinghaus, H. (1913). Memory: A Contribution to Experimental Psychology (H. A. Ruger & C. E. Bussenius, Trans.). (Original work published 1885)]]\n\nWickelgren, W. A. (1974). Single-trace fragility theory of memory dynamics. *Memory & Cognition*, *2*(4), 775–780.\n\nWixted, J. T., & Carpenter, S. K. (2007). The Wickelgren power law and the Ebbinghaus savings function. *Psychological Science*, *18*(2), 133.\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Spacing effect",
+          "linkingNoteSlug": "z4KScVkQCD2XmVwvSDUbZtn",
+          "contextBlocks": [
+            "To put this another way, successive reinforcements flatten the [[z26AXzY1oNUMSENevADMhGV:::Forgetting curve]], so you can wait longer and longer between each review. Well-timed spacings flatten that curve to a greater degree."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "COGS 101B - Lecture 21 - Eyewitness memory",
+          "linkingNoteSlug": "zGKZm9JKLBB7rQUSh7QCJwE",
+          "contextBlocks": [
+            "Guest lecture by Wixted (of the power law [[z26AXzY1oNUMSENevADMhGV:::Forgetting curve]])."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Mozer, M. C., & Lindsey, R. V. (2016). Predicting and Improving Memory Retention: Psychological Theory Matters in the Big Data Era. In M. N. Jones (Ed.), Big data in cognitive science (pp. 34–64).",
+          "linkingNoteSlug": "zGXgn3UjMpmMiTtFBxAa8GQ",
+          "contextBlocks": [
+            "In the first major section, the authors describe how traditional item-response theory can be combined with the established power-law [[z26AXzY1oNUMSENevADMhGV:::Forgetting curve]] function to create a predictive model for forgetting after a single study session using relatively few parameters (one per student, one per item, and a time scaling parameter)."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Mozer, M. C., Pashler, H., Cepeda, N., Lindsey, R., & Vul, E. (2009). Predicting the Optimal Spacing of Study: A Multiscale Context Model of Memory. In Y. Bengio, D. Schuurmans, J. Lafferty, C. K. I. Williams, & A. Culotta (Eds.), Advances in Neural Information Processing Systems 22 (pp. 1321–1329).",
+          "linkingNoteSlug": "zUmDmZLaCb8DsJp8dGrNVM8",
+          "contextBlocks": [
+            "This paper proposes a model which can fit the spacing function (i.e. of the [[z4KScVkQCD2XmVwvSDUbZtn:::Spacing effect]]) and the [[z26AXzY1oNUMSENevADMhGV:::Forgetting curve]] of empirical learning data (e.g. from a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]])."
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zXUmVzxexnpvtmR6zpKBxUp",
+        "zCgYSHF9xQSEe71x9ML1NLB",
+        "zLzssGrAzNxttF37QcvbH2W"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zKiPNZsc9Eqk7Hvxx7TavqM
+URL:
+  - "https://notes.andymatuschak.org/zKiPNZsc9Eqk7Hvxx7TavqM"
 title: "Behaviorism"
 ---
 # Behaviorism

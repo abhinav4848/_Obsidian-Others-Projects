@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z9vSQjkBVL6dCVC6QhCu4Br?stackedNotes=zFgK9ArxAXq57iMukRsVVE9
+URL:
+  - "https://notes.andymatuschak.org/z9vSQjkBVL6dCVC6QhCu4Br?stackedNotes=zFgK9ArxAXq57iMukRsVVE9"
 title: "Spaced repetition memory prompts should usually focus on one atomic unit"
 ---
 # Spaced repetition memory prompts should usually focus on one atomic unit

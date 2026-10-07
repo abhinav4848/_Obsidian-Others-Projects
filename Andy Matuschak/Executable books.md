@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zY3aLuvtsYS54QnymGKFGwg?stackedNotes=zU6upTVz687icnQegpMhLY8&stackedNotes=zLNcy2JiH3AGNaZjYkHzK9P
+URL:
+  - "https://notes.andymatuschak.org/zY3aLuvtsYS54QnymGKFGwg?stackedNotes=zU6upTVz687icnQegpMhLY8&stackedNotes=zLNcy2JiH3AGNaZjYkHzK9P"
 title: "Executable books"
 ---
 # Executable books

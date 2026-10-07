@@ -1,0 +1,74 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Use_notes_to_avoid_preconceived_conclusions",
+  "checked_at": "2026-10-07T22:28:50.404182+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/z6H1QypHEq3vak9sV7XLdKx",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "z6H1QypHEq3vak9sV7XLdKx": {
+        "data": {
+          "slug": "z6H1QypHEq3vak9sV7XLdKx",
+          "title": "Use notes to avoid preconceived conclusions",
+          "contentMarkdown": "# Use notes to avoid preconceived conclusions\n\nWhen writing manuscripts, one often begins with a conclusion (or at least an angle) in mind, and then we write or do research with an eye to supporting that idea. If we’re not careful, those preconceptions will distort our thinking. But if we begin by writing [[zNUaiGAXp21eorsER1Jm9yU:::Evergreen notes should be atomic]], we can let the conclusions and topic *emerge* from our careful thinking.\n\n---\n\n## References\n\nAhrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.\n\n> The very moment we decide on a hypothesis, our brains automatically go into search mode, scanning our surroundings for supporting data, which is neither a good way to learn nor research.\n\n> The linear process promoted by most study guides, which insanely starts with the decision on the hypothesis or the topic to write about, is a sure-fire way to let confirmation bias run rampant. First, you basically fix your present understanding, as the outcome instead of using it as the starting point, priming yourself for one-sided perception. Then you artificially create a conflict of interest between getting things done (finding support for your preconceived argument) and generating insight, turning any departure from your preconceived plan into a mutiny against the success of your own project. This is a good rule of thumb: If insight becomes a threat to your academic or writing success, you are doing it wrong.\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Create speculative outlines while you write",
+              "linkingNoteSlug": "z79rMNNuLrUj6R8q1CXSpDm",
+              "contextBlocks": [
+                "Furthermore, to start a writing project with a blank outline, we need to have a topic and some angle in mind. We can [[z6H1QypHEq3vak9sV7XLdKx:::Use notes to avoid preconceived conclusions]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Let ideas and beliefs emerge organically",
+              "linkingNoteSlug": "zR5J4ZucL8A9xTWBmDZpNJQ",
+              "contextBlocks": [
+                "[[z6H1QypHEq3vak9sV7XLdKx:::Use notes to avoid preconceived conclusions]]"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zNUaiGAXp21eorsER1Jm9yU"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "z6H1QypHEq3vak9sV7XLdKx",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "z6H1QypHEq3vak9sV7XLdKx",
+      "title": "Use notes to avoid preconceived conclusions",
+      "contentMarkdown": "# Use notes to avoid preconceived conclusions\n\nWhen writing manuscripts, one often begins with a conclusion (or at least an angle) in mind, and then we write or do research with an eye to supporting that idea. If we’re not careful, those preconceptions will distort our thinking. But if we begin by writing [[zNUaiGAXp21eorsER1Jm9yU:::Evergreen notes should be atomic]], we can let the conclusions and topic *emerge* from our careful thinking.\n\n---\n\n## References\n\nAhrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.\n\n> The very moment we decide on a hypothesis, our brains automatically go into search mode, scanning our surroundings for supporting data, which is neither a good way to learn nor research.\n\n> The linear process promoted by most study guides, which insanely starts with the decision on the hypothesis or the topic to write about, is a sure-fire way to let confirmation bias run rampant. First, you basically fix your present understanding, as the outcome instead of using it as the starting point, priming yourself for one-sided perception. Then you artificially create a conflict of interest between getting things done (finding support for your preconceived argument) and generating insight, turning any departure from your preconceived plan into a mutiny against the success of your own project. This is a good rule of thumb: If insight becomes a threat to your academic or writing success, you are doing it wrong.\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Create speculative outlines while you write",
+          "linkingNoteSlug": "z79rMNNuLrUj6R8q1CXSpDm",
+          "contextBlocks": [
+            "Furthermore, to start a writing project with a blank outline, we need to have a topic and some angle in mind. We can [[z6H1QypHEq3vak9sV7XLdKx:::Use notes to avoid preconceived conclusions]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Let ideas and beliefs emerge organically",
+          "linkingNoteSlug": "zR5J4ZucL8A9xTWBmDZpNJQ",
+          "contextBlocks": [
+            "[[z6H1QypHEq3vak9sV7XLdKx:::Use notes to avoid preconceived conclusions]]"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zNUaiGAXp21eorsER1Jm9yU"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

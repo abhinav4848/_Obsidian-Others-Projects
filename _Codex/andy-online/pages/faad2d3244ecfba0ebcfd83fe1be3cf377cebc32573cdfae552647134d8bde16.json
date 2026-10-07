@@ -1,0 +1,252 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Insight_through_making",
+  "checked_at": "2026-10-07T22:28:42.177895+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/z6JLcoBBGh7uKrgTiKLcPv2",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "z6JLcoBBGh7uKrgTiKLcPv2": {
+        "data": {
+          "slug": "z6JLcoBBGh7uKrgTiKLcPv2",
+          "title": "Insight through making",
+          "contentMarkdown": "# Insight through making\n\n(See central discussion in [*How can we develop transformative tools for thought*; subsection “How to invent Hindu-Arabic numerals?”](https://numinous.productions/ttft/#how-to-invent-hindu-arabic-numerals))\n\n*   Powerful systems express profound insight into the underlying subject matter\n    *   Studio design practices can’t create the most powerful [[z88M2wwQ8FggV7p8Wu1b8LG:::Tools for thought]]: [[zHWJbw8ZE19ri3AWbnaEphd:::Inventing the Hindu-Arabic numerals requires both design genius and mathematical genius]]\n*   In certain circumstances, with certain skill sets, using certain processes, the creation of these systems actually yields marginal subject matter insight, which in turn allows for improved systems, and so on. This is the “insight through making” loop.\n    *   But this requires deep subject matter expertise.\n\n---\n\nCertain theoretical insights aren’t apparent when staring at the theories in isolation. But when those theories are instantiated in systems, observations of the system’s behavior can reveal the theory from new angles, expanding the space of possible insight. In the best cases, theoretical insights expand the systems you can construct, and insights from those systems expand your theory, in a virtuous cycle.\n\nBut to pursue both “halves” of this cycle requires expertise in both system-creation and in the subject matter; i.e. [[zHWJbw8ZE19ri3AWbnaEphd:::Inventing the Hindu-Arabic numerals requires both design genius and mathematical genius]].\n\nMost practitioners focus either on developing theoretical insight or on making systems, paying only lip service to the other half of this cycle. Academics often build toy systems which don’t create meaningful contexts for their ideas ([[zEiXiw8qdUzdsEMemnwXn25:::Academic software interfaces generally aren’t suitable for serious use]]). Designers and engineers often focus on building systems without deep understanding of the theory which underlies that system, or they focus on scale before power (contra [[zRHGYaDyQDBypztBaFYZgtR:::Focus on power over scale for transformative system design]]).\n\nBoth types of practitioners often develop systems for the sake of developing a system—not to address some personally meaningful problem they’re very motivated to solve: [[z7vdiuQK7HuFyi4V5EemF3e:::Tool-makers usually lack connection to a serious context of use]]. The insights drawn from such systems are generally quite weak: [[z7EQ2nVGus5B1rS9CqT18g6:::Effective system design requires insights drawn from serious contexts of use]].\n\nThis insight is particularly important in the development of [[z88M2wwQ8FggV7p8Wu1b8LG:::Tools for thought]].\n\nMore on how to achieve insight through making:\n\n*   [[zG1S2XhBhJa7PWeSkKna2Y2:::Deep collaborations between tool-makers and tool-users may support insight through making]]\n*   [[zT2CnA38ERsCY2NKGw2thSL:::Insight through making prefers bricolage to big design up front]]\n\n---\n\n## References\n\nMatuschak, A., & Nielsen, M. (2019 0). *How can we develop transformative tools for thought?* <https://numinous.productions/ttft>\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Peak - Ericsson and Pool",
+              "linkingNoteSlug": "zEwJDpZiu1YQoXYznxioznL",
+              "contextBlocks": [
+                "“… as we looked for ways to make our message clearer to the reader, we would come up with new ways to think about deliberate practice ourselves. Researchers refer to this sort of writing as “knowledge transforming”… because the process of writing changes and adds to the knowledge that the writer had when starting out.” (75-76). [[zRbqwbnhmVdfLtKxMCibMoX:::Writing forces sharper understanding]], [[z6JLcoBBGh7uKrgTiKLcPv2:::Insight through making]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Effective system design requires insights drawn from serious contexts of use",
+              "linkingNoteSlug": "z7EQ2nVGus5B1rS9CqT18g6",
+              "contextBlocks": [
+                "Scrappy prototypes are great: they allow scrappy iteration and quick evaluation. But many critical insights will only emerge in the context of a serious creative problem that’s not about the system itself. This is a key claim of [[z6JLcoBBGh7uKrgTiKLcPv2:::Insight through making]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Deep collaborations between tool-makers and tool-users may support insight through making",
+              "linkingNoteSlug": "zG1S2XhBhJa7PWeSkKna2Y2",
+              "contextBlocks": [
+                "One of the key claims of [[z6JLcoBBGh7uKrgTiKLcPv2:::Insight through making]] is that [[z7EQ2nVGus5B1rS9CqT18g6:::Effective system design requires insights drawn from serious contexts of use]]. But [[zHSk5HpDyrSWCMN669Sg4HU:::Great tool-makers are often not great tool-users, and vice-versa]], so it’s difficult to create powerful contexts for thinking thorough making. [[zYUNgBzgTATxnnNbzLFnuLF:::Groups researching tools for thought need enough capacity to build prototypes suitable for serious work]]. One approach is to closely pair a tool-maker with a tool-user. Ideally they’re deeply immersed in each other’s work, perhaps to the point that they can  produce (bad) original insight in their counterpart’s domain."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Insight through making prefers bricolage to big design up front",
+              "linkingNoteSlug": "zT2CnA38ERsCY2NKGw2thSL",
+              "contextBlocks": [
+                "When developing systems which push the frontiers of their own foundational theory, [[z6JLcoBBGh7uKrgTiKLcPv2:::Insight through making]] suggests that you’ll need to make simultaneous progress in theory-space and system-space to spot the new implications in their conjoined space. [[z7EQ2nVGus5B1rS9CqT18g6:::Effective system design requires insights drawn from serious contexts of use]]: you must constantly instantiate new theoretical ideas in new systems, then observe their impact in some serious context of use."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Mental states of deep software development and deep research thinking are mutually exclusive",
+              "linkingNoteSlug": "z7RGGgVdDVHXkzJ6BVFKws8",
+              "contextBlocks": [
+                "[[z6JLcoBBGh7uKrgTiKLcPv2:::Insight through making]] in [[z88M2wwQ8FggV7p8Wu1b8LG:::Tools for thought]] requires developing new software interfaces which express domain theories, then studying those interfaces and their usage to improve your theories. In practice, it’s quite difficult to think deeply about theories while in the midst of a significant software development project. And it’s hard to build momentum on software development when spending much of one’s day in reflection and writing. Worse: [[zD2oDSCgLEyM4xDhjRLXtuH:::Switching costs are high between software development and research thinking]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Groups researching tools for thought need enough capacity to build prototypes suitable for serious work",
+              "linkingNoteSlug": "zYUNgBzgTATxnnNbzLFnuLF",
+              "contextBlocks": [
+                "[[z7EQ2nVGus5B1rS9CqT18g6:::Effective system design requires insights drawn from serious contexts of use]]. This raises the bar for any group hoping to explore ideas around [[z88M2wwQ8FggV7p8Wu1b8LG:::Tools for thought]]: you must have not only the capacity to develop the idea conceptually, but also the design and technical capacity to develop prototypes to the point that they can be used as serious tools for serious work. Only at that point can you clearly see your ideas refracted through the system’s use—i.e. [[z6JLcoBBGh7uKrgTiKLcPv2:::Insight through making]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Inventing the Hindu-Arabic numerals requires both design genius and mathematical genius",
+              "linkingNoteSlug": "zHWJbw8ZE19ri3AWbnaEphd",
+              "contextBlocks": [
+                "To invent that number system, you’d need extraordinary proficiency in both design and mathematics, capable of an [[z6JLcoBBGh7uKrgTiKLcPv2:::Insight through making]] feedback loop which uses the evolving number system not just to improve your own mathematical understanding, but to have original, world-class mathematical insights; and which uses those insights to improve the evolving number system."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "§Enabling environments, games, and the Primer",
+              "linkingNoteSlug": "zGSGS1UHDogPKtvZB5hdT2A",
+              "contextBlocks": [
+                "[[z6JLcoBBGh7uKrgTiKLcPv2:::Insight through making]] and subtree"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Premature scaling can stunt system iteration",
+              "linkingNoteSlug": "zKKB5ENRahwftH96H7mijiu",
+              "contextBlocks": [
+                "One huge advantage to scaling up is that you’ll get far more feedback for your [[z6JLcoBBGh7uKrgTiKLcPv2:::Insight through making]] process. It’s true that [[z7EQ2nVGus5B1rS9CqT18g6:::Effective system design requires insights drawn from serious contexts of use]], but it’s possible to create small-scale serious contexts of use which will allow you to answer many core questions about your system. Indeed: technologists often instinctively scale their systems to increase the chances that they’ll get powerful feedback from serious users, but that’s quite a stochastic approach. You can accomplish that goal by carefully structuring your prototyping process. This may be better in the end because [[zT2CnA38ERsCY2NKGw2thSL:::Insight through making prefers bricolage to big design up front]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Where do ideas come from?",
+              "linkingNoteSlug": "zLg3XjSSrDofz6cW3F6DESx",
+              "contextBlocks": [
+                "[[z6JLcoBBGh7uKrgTiKLcPv2:::Insight through making]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Facilitative design practices rarely produce systems which require profound subject matter insight",
+              "linkingNoteSlug": "zC33Q6QZemMGzbrEsstKUXH",
+              "contextBlocks": [
+                "Inventing deeply powerful new systems seems to require both systems-design expertise and also subject matter expertise (see [[z6JLcoBBGh7uKrgTiKLcPv2:::Insight through making]] and [[zHWJbw8ZE19ri3AWbnaEphd:::Inventing the Hindu-Arabic numerals requires both design genius and mathematical genius]])."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "§Corporate research lab practices",
+              "linkingNoteSlug": "zKHWU8WK3KKy9peGmq1nTwi",
+              "contextBlocks": [
+                "[[z6JLcoBBGh7uKrgTiKLcPv2:::Insight through making]]"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "z88M2wwQ8FggV7p8Wu1b8LG",
+            "zHWJbw8ZE19ri3AWbnaEphd",
+            "zHWJbw8ZE19ri3AWbnaEphd",
+            "zEiXiw8qdUzdsEMemnwXn25",
+            "zRHGYaDyQDBypztBaFYZgtR",
+            "z7vdiuQK7HuFyi4V5EemF3e",
+            "z7EQ2nVGus5B1rS9CqT18g6",
+            "z88M2wwQ8FggV7p8Wu1b8LG",
+            "zG1S2XhBhJa7PWeSkKna2Y2",
+            "zT2CnA38ERsCY2NKGw2thSL"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "z6JLcoBBGh7uKrgTiKLcPv2",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "z6JLcoBBGh7uKrgTiKLcPv2",
+      "title": "Insight through making",
+      "contentMarkdown": "# Insight through making\n\n(See central discussion in [*How can we develop transformative tools for thought*; subsection “How to invent Hindu-Arabic numerals?”](https://numinous.productions/ttft/#how-to-invent-hindu-arabic-numerals))\n\n*   Powerful systems express profound insight into the underlying subject matter\n    *   Studio design practices can’t create the most powerful [[z88M2wwQ8FggV7p8Wu1b8LG:::Tools for thought]]: [[zHWJbw8ZE19ri3AWbnaEphd:::Inventing the Hindu-Arabic numerals requires both design genius and mathematical genius]]\n*   In certain circumstances, with certain skill sets, using certain processes, the creation of these systems actually yields marginal subject matter insight, which in turn allows for improved systems, and so on. This is the “insight through making” loop.\n    *   But this requires deep subject matter expertise.\n\n---\n\nCertain theoretical insights aren’t apparent when staring at the theories in isolation. But when those theories are instantiated in systems, observations of the system’s behavior can reveal the theory from new angles, expanding the space of possible insight. In the best cases, theoretical insights expand the systems you can construct, and insights from those systems expand your theory, in a virtuous cycle.\n\nBut to pursue both “halves” of this cycle requires expertise in both system-creation and in the subject matter; i.e. [[zHWJbw8ZE19ri3AWbnaEphd:::Inventing the Hindu-Arabic numerals requires both design genius and mathematical genius]].\n\nMost practitioners focus either on developing theoretical insight or on making systems, paying only lip service to the other half of this cycle. Academics often build toy systems which don’t create meaningful contexts for their ideas ([[zEiXiw8qdUzdsEMemnwXn25:::Academic software interfaces generally aren’t suitable for serious use]]). Designers and engineers often focus on building systems without deep understanding of the theory which underlies that system, or they focus on scale before power (contra [[zRHGYaDyQDBypztBaFYZgtR:::Focus on power over scale for transformative system design]]).\n\nBoth types of practitioners often develop systems for the sake of developing a system—not to address some personally meaningful problem they’re very motivated to solve: [[z7vdiuQK7HuFyi4V5EemF3e:::Tool-makers usually lack connection to a serious context of use]]. The insights drawn from such systems are generally quite weak: [[z7EQ2nVGus5B1rS9CqT18g6:::Effective system design requires insights drawn from serious contexts of use]].\n\nThis insight is particularly important in the development of [[z88M2wwQ8FggV7p8Wu1b8LG:::Tools for thought]].\n\nMore on how to achieve insight through making:\n\n*   [[zG1S2XhBhJa7PWeSkKna2Y2:::Deep collaborations between tool-makers and tool-users may support insight through making]]\n*   [[zT2CnA38ERsCY2NKGw2thSL:::Insight through making prefers bricolage to big design up front]]\n\n---\n\n## References\n\nMatuschak, A., & Nielsen, M. (2019 0). *How can we develop transformative tools for thought?* <https://numinous.productions/ttft>\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Peak - Ericsson and Pool",
+          "linkingNoteSlug": "zEwJDpZiu1YQoXYznxioznL",
+          "contextBlocks": [
+            "“… as we looked for ways to make our message clearer to the reader, we would come up with new ways to think about deliberate practice ourselves. Researchers refer to this sort of writing as “knowledge transforming”… because the process of writing changes and adds to the knowledge that the writer had when starting out.” (75-76). [[zRbqwbnhmVdfLtKxMCibMoX:::Writing forces sharper understanding]], [[z6JLcoBBGh7uKrgTiKLcPv2:::Insight through making]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Effective system design requires insights drawn from serious contexts of use",
+          "linkingNoteSlug": "z7EQ2nVGus5B1rS9CqT18g6",
+          "contextBlocks": [
+            "Scrappy prototypes are great: they allow scrappy iteration and quick evaluation. But many critical insights will only emerge in the context of a serious creative problem that’s not about the system itself. This is a key claim of [[z6JLcoBBGh7uKrgTiKLcPv2:::Insight through making]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Deep collaborations between tool-makers and tool-users may support insight through making",
+          "linkingNoteSlug": "zG1S2XhBhJa7PWeSkKna2Y2",
+          "contextBlocks": [
+            "One of the key claims of [[z6JLcoBBGh7uKrgTiKLcPv2:::Insight through making]] is that [[z7EQ2nVGus5B1rS9CqT18g6:::Effective system design requires insights drawn from serious contexts of use]]. But [[zHSk5HpDyrSWCMN669Sg4HU:::Great tool-makers are often not great tool-users, and vice-versa]], so it’s difficult to create powerful contexts for thinking thorough making. [[zYUNgBzgTATxnnNbzLFnuLF:::Groups researching tools for thought need enough capacity to build prototypes suitable for serious work]]. One approach is to closely pair a tool-maker with a tool-user. Ideally they’re deeply immersed in each other’s work, perhaps to the point that they can  produce (bad) original insight in their counterpart’s domain."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Insight through making prefers bricolage to big design up front",
+          "linkingNoteSlug": "zT2CnA38ERsCY2NKGw2thSL",
+          "contextBlocks": [
+            "When developing systems which push the frontiers of their own foundational theory, [[z6JLcoBBGh7uKrgTiKLcPv2:::Insight through making]] suggests that you’ll need to make simultaneous progress in theory-space and system-space to spot the new implications in their conjoined space. [[z7EQ2nVGus5B1rS9CqT18g6:::Effective system design requires insights drawn from serious contexts of use]]: you must constantly instantiate new theoretical ideas in new systems, then observe their impact in some serious context of use."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Mental states of deep software development and deep research thinking are mutually exclusive",
+          "linkingNoteSlug": "z7RGGgVdDVHXkzJ6BVFKws8",
+          "contextBlocks": [
+            "[[z6JLcoBBGh7uKrgTiKLcPv2:::Insight through making]] in [[z88M2wwQ8FggV7p8Wu1b8LG:::Tools for thought]] requires developing new software interfaces which express domain theories, then studying those interfaces and their usage to improve your theories. In practice, it’s quite difficult to think deeply about theories while in the midst of a significant software development project. And it’s hard to build momentum on software development when spending much of one’s day in reflection and writing. Worse: [[zD2oDSCgLEyM4xDhjRLXtuH:::Switching costs are high between software development and research thinking]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Groups researching tools for thought need enough capacity to build prototypes suitable for serious work",
+          "linkingNoteSlug": "zYUNgBzgTATxnnNbzLFnuLF",
+          "contextBlocks": [
+            "[[z7EQ2nVGus5B1rS9CqT18g6:::Effective system design requires insights drawn from serious contexts of use]]. This raises the bar for any group hoping to explore ideas around [[z88M2wwQ8FggV7p8Wu1b8LG:::Tools for thought]]: you must have not only the capacity to develop the idea conceptually, but also the design and technical capacity to develop prototypes to the point that they can be used as serious tools for serious work. Only at that point can you clearly see your ideas refracted through the system’s use—i.e. [[z6JLcoBBGh7uKrgTiKLcPv2:::Insight through making]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Inventing the Hindu-Arabic numerals requires both design genius and mathematical genius",
+          "linkingNoteSlug": "zHWJbw8ZE19ri3AWbnaEphd",
+          "contextBlocks": [
+            "To invent that number system, you’d need extraordinary proficiency in both design and mathematics, capable of an [[z6JLcoBBGh7uKrgTiKLcPv2:::Insight through making]] feedback loop which uses the evolving number system not just to improve your own mathematical understanding, but to have original, world-class mathematical insights; and which uses those insights to improve the evolving number system."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "§Enabling environments, games, and the Primer",
+          "linkingNoteSlug": "zGSGS1UHDogPKtvZB5hdT2A",
+          "contextBlocks": [
+            "[[z6JLcoBBGh7uKrgTiKLcPv2:::Insight through making]] and subtree"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Premature scaling can stunt system iteration",
+          "linkingNoteSlug": "zKKB5ENRahwftH96H7mijiu",
+          "contextBlocks": [
+            "One huge advantage to scaling up is that you’ll get far more feedback for your [[z6JLcoBBGh7uKrgTiKLcPv2:::Insight through making]] process. It’s true that [[z7EQ2nVGus5B1rS9CqT18g6:::Effective system design requires insights drawn from serious contexts of use]], but it’s possible to create small-scale serious contexts of use which will allow you to answer many core questions about your system. Indeed: technologists often instinctively scale their systems to increase the chances that they’ll get powerful feedback from serious users, but that’s quite a stochastic approach. You can accomplish that goal by carefully structuring your prototyping process. This may be better in the end because [[zT2CnA38ERsCY2NKGw2thSL:::Insight through making prefers bricolage to big design up front]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Where do ideas come from?",
+          "linkingNoteSlug": "zLg3XjSSrDofz6cW3F6DESx",
+          "contextBlocks": [
+            "[[z6JLcoBBGh7uKrgTiKLcPv2:::Insight through making]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Facilitative design practices rarely produce systems which require profound subject matter insight",
+          "linkingNoteSlug": "zC33Q6QZemMGzbrEsstKUXH",
+          "contextBlocks": [
+            "Inventing deeply powerful new systems seems to require both systems-design expertise and also subject matter expertise (see [[z6JLcoBBGh7uKrgTiKLcPv2:::Insight through making]] and [[zHWJbw8ZE19ri3AWbnaEphd:::Inventing the Hindu-Arabic numerals requires both design genius and mathematical genius]])."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "§Corporate research lab practices",
+          "linkingNoteSlug": "zKHWU8WK3KKy9peGmq1nTwi",
+          "contextBlocks": [
+            "[[z6JLcoBBGh7uKrgTiKLcPv2:::Insight through making]]"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "z88M2wwQ8FggV7p8Wu1b8LG",
+        "zHWJbw8ZE19ri3AWbnaEphd",
+        "zHWJbw8ZE19ri3AWbnaEphd",
+        "zEiXiw8qdUzdsEMemnwXn25",
+        "zRHGYaDyQDBypztBaFYZgtR",
+        "z7vdiuQK7HuFyi4V5EemF3e",
+        "z7EQ2nVGus5B1rS9CqT18g6",
+        "z88M2wwQ8FggV7p8Wu1b8LG",
+        "zG1S2XhBhJa7PWeSkKna2Y2",
+        "zT2CnA38ERsCY2NKGw2thSL"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

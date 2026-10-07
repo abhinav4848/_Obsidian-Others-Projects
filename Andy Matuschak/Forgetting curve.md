@@ -1,5 +1,7 @@
 ---
 title: "Forgetting curve"
+URL:
+  - "https://notes.andymatuschak.org/z26AXzY1oNUMSENevADMhGV"
 ---
 # Forgetting curve
 # **Forgetting curve**

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zRTw8KaPErhSCyC2NYGHyP7?stackedNotes=z7ffiDfqTR9pPcEEUUbCL7C&stackedNotes=zYB7kwEFRu8QALcbzbcoy9T
+URL:
+  - "https://notes.andymatuschak.org/zRTw8KaPErhSCyC2NYGHyP7?stackedNotes=z7ffiDfqTR9pPcEEUUbCL7C&stackedNotes=zYB7kwEFRu8QALcbzbcoy9T"
 title: "Desirable difficulties, after Bjork"
 ---
 # Desirable difficulties, after Bjork

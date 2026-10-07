@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zVx3t4nDyk9tyuWQiBzsSDT?stackedNotes=zGyuqjqaSGWzT9ndJJVxiaw&stackedNotes=z8DRL5y5vMuXA98uro9KeZ3
+URL:
+  - "https://notes.andymatuschak.org/zVx3t4nDyk9tyuWQiBzsSDT?stackedNotes=zGyuqjqaSGWzT9ndJJVxiaw&stackedNotes=z8DRL5y5vMuXA98uro9KeZ3"
 title: "Augmented reading"
 ---
 # Augmented reading

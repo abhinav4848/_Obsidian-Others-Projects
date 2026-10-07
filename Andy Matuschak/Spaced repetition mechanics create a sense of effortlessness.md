@@ -1,5 +1,7 @@
 ---
 title: "Spaced repetition mechanics create a sense of effortlessness"
+URL:
+  - "https://notes.andymatuschak.org/zM2KVgUySDFDqAZ7MoD3oZd"
 ---
 # Spaced repetition mechanics create a sense of effortlessness
 The core mechanics of a [[Spaced repetition memory system]] remove decision-making and gumption from the critical path. Say that you’d like to study the molecular pathway of cell metabolism. Without an SRS, you’d need to make a plan like “I study cell biology on Tuesday evenings,” remember that plan, and summon the will to execute the plan repeatedly. But if you have an active SRS practice, you can throw some prompts into your library and be confident that you’ll see them again over time.

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z7d63BYfJrd81VFE25jkcDd?stackedNotes=z4ULp2KUgq3hBCJMWTUnLDX&stackedNotes=zNGtyWTwns63fhzixGKZ1Bb
+URL:
+  - "https://notes.andymatuschak.org/z7d63BYfJrd81VFE25jkcDd?stackedNotes=z4ULp2KUgq3hBCJMWTUnLDX&stackedNotes=zNGtyWTwns63fhzixGKZ1Bb"
 title: "What’s the big-picture impact of the mnemonic medium on readers"
 ---
 # What’s the big-picture impact of the mnemonic medium on readers

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zTpJdbe6ub7uhBFLuHkFsrT
+URL:
+  - "https://notes.andymatuschak.org/zTpJdbe6ub7uhBFLuHkFsrT"
 title: "Testing effect"
 ---
 # Testing effect

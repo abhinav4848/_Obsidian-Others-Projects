@@ -1,5 +1,7 @@
 ---
 title: "Non-identification"
+URL:
+  - "https://notes.andymatuschak.org/z5URdYxJwnM5TVhQnbZER8b"
 ---
 # Non-identification
 See also [Not-self](https://notes.andymatuschak.org/z2xShjQ58nLW8XNuHqJgq14). (No article by andy yet)

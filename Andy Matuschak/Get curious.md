@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z5zoV8TdSds59vQEkqp3JEz
+URL:
+  - "https://notes.andymatuschak.org/z5zoV8TdSds59vQEkqp3JEz"
 title: "Get curious"
 ---
 # Get curious

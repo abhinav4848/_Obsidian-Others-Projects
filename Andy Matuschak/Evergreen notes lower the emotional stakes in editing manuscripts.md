@@ -1,5 +1,7 @@
 ---
 title: "Evergreen notes lower the emotional stakes in editing manuscripts"
+URL:
+  - "https://notes.andymatuschak.org/zSKD44o2VTbQuQYqmjupo4B"
 ---
 # Evergreen notes lower the emotional stakes in editing manuscripts
 In writing, it can be painful to “kill one’s darlings.” It may make the effort involved in writing those sections feel wasted. It may also create open loops (see [[Close open loops]]): you may feel that you want to make sure you want to publish those ideas _somewhere,_ so now you have to remember that section (or keep track of the snippet) somewhere so that you can remember to include it in another manuscript.

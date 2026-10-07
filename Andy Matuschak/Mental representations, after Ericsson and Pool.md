@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z9uHnUB5sQeGcEmmmqEGqBV?stackedNotes=zEwJDpZiu1YQoXYznxioznL&stackedNotes=zSQhVMNeFNGfggB9Pg6MMDX
+URL:
+  - "https://notes.andymatuschak.org/z9uHnUB5sQeGcEmmmqEGqBV?stackedNotes=zEwJDpZiu1YQoXYznxioznL&stackedNotes=zSQhVMNeFNGfggB9Pg6MMDX"
 title: "Mental representations, after Ericsson and Pool"
 ---
 # Mental representations, after Ericsson and Pool

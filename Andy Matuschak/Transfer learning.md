@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zRTw8KaPErhSCyC2NYGHyP7?stackedNotes=z7ffiDfqTR9pPcEEUUbCL7C
+URL:
+  - "https://notes.andymatuschak.org/zRTw8KaPErhSCyC2NYGHyP7?stackedNotes=z7ffiDfqTR9pPcEEUUbCL7C"
 title: "Transfer learning"
 ---
 # Transfer learning

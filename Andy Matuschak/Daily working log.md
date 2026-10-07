@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zLhoRUyjKU665EY16u4XXJy?stackedNotes=zTDjZQbKAT9pALtsk2HfePx&stackedNotes=zXRs9fj5BuX5FmrQzPxqWUs
+URL:
+  - "https://notes.andymatuschak.org/zLhoRUyjKU665EY16u4XXJy?stackedNotes=zTDjZQbKAT9pALtsk2HfePx&stackedNotes=zXRs9fj5BuX5FmrQzPxqWUs"
 title: "Daily working log"
 ---
 # Daily working log

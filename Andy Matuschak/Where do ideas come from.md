@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zLg3XjSSrDofz6cW3F6DESx
+URL:
+  - "https://notes.andymatuschak.org/zLg3XjSSrDofz6cW3F6DESx"
 title: "Where do ideas come from"
 ---
 # Where do ideas come from

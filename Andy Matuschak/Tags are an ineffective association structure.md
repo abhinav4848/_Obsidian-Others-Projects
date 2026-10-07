@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zojJRcfGstU2Ss6JRMzd15
+URL:
+  - "https://notes.andymatuschak.org/zojJRcfGstU2Ss6JRMzd15"
 title: "Tags are an ineffective association structure"
 ---
 # Tags are an ineffective association structure

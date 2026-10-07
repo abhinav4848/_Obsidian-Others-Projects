@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/z7EQ2nVGus5B1rS9CqT18g6"
+URL:
+  - "https://notes.andymatuschak.org/z7EQ2nVGus5B1rS9CqT18g6"
 title: "Effective system design requires insights drawn from serious contexts of use"
 ---
 # Effective system design requires insights drawn from serious contexts of use

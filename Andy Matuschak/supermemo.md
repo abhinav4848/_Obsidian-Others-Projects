@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/z2oUypiCEtPaDqNjbUsawCj"
+URL:
+  - "https://notes.andymatuschak.org/z2oUypiCEtPaDqNjbUsawCj"
 title: "supermemo"
 ---
 # supermemo

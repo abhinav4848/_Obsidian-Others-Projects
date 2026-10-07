@@ -1,0 +1,58 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/zBJee5cbWYmSdVVwY1uKnFc",
+  "checked_at": "2026-10-07T22:30:59.145980+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zBJee5cbWYmSdVVwY1uKnFc",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zBJee5cbWYmSdVVwY1uKnFc": {
+        "data": {
+          "slug": "zBJee5cbWYmSdVVwY1uKnFc",
+          "title": "Flow",
+          "contentMarkdown": "# Flow\n\nafter Mihaly C. \n\n## Prerequisites for flow state\n\n*   a balance of challenge and skill\n*   clear goals and feedback\n*   sense of control, or at least its possibility\n*   total absorption in activity; irrelevant concerns are excluded\n*   complete concentration\n*   loss of self-consciousness\n*   time distortions\n\nMy sense is that the first three (two?) of these elements *cause* or *enable* the rest.\n\n---\n\nA nice account of flow from Daniel Zalewski’s [New Yorker profile](https://www.newyorker.com/magazine/2009/02/23/the-background-hum) of Ian McEwan ([via](https://www.chrishecker.com/Benevolent_Dissociation) [[Chris Necker]]):\n\n> For the past two hours he’s been in a dream of absorption that has dissolved all sense of time, and all awareness of the other parts of his life. Even his awareness of his own existence has vanished. He’s been delivered into a pure present, free of the weight of the past or any anxieties about the future. In retrospect, though never at the time, it feels like profound happiness. It’s a little like sex, in that he feels himself in another medium, but it’s less obviously pleasurable, and clearly not sensual. This state of mind brings a contentment he never finds with any passive form of entertainment. Books, cinema, even music can’t bring him to this. . . . This benevolent dissociation seems to require difficulty, prolonged demands on concentration and skills, pressure, problems to be solved, even danger. He feels calm, and spacious, fully qualified to exist. It’s a feeling of clarified emptiness, of deep, muted joy.\n\n## References\n\nCsikszentmihalyi, M. (1990). *Flow: The psychology of optimal experience* (1st ed). Harper & Row.\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Participatory environment",
+              "linkingNoteSlug": "zRWEWHx4cQyqQWRh26gp7ad",
+              "contextBlocks": [
+                "Participatory environments are often much more pleasurable for participants, perhaps because they induce [[zBJee5cbWYmSdVVwY1uKnFc:::Flow]]; see this description of flow from Daniel Zalewski’s [New Yorker profile](https://www.newyorker.com/magazine/2009/02/23/the-background-hum) of Ian McEwan ([via](https://www.chrishecker.com/Benevolent_Dissociation) [[zADKqoutkmiqJDqtQv46o2v:::Chris Hecker]]; emphasis mine):"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "Chris Necker"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zBJee5cbWYmSdVVwY1uKnFc",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zBJee5cbWYmSdVVwY1uKnFc",
+      "title": "Flow",
+      "contentMarkdown": "# Flow\n\nafter Mihaly C. \n\n## Prerequisites for flow state\n\n*   a balance of challenge and skill\n*   clear goals and feedback\n*   sense of control, or at least its possibility\n*   total absorption in activity; irrelevant concerns are excluded\n*   complete concentration\n*   loss of self-consciousness\n*   time distortions\n\nMy sense is that the first three (two?) of these elements *cause* or *enable* the rest.\n\n---\n\nA nice account of flow from Daniel Zalewski’s [New Yorker profile](https://www.newyorker.com/magazine/2009/02/23/the-background-hum) of Ian McEwan ([via](https://www.chrishecker.com/Benevolent_Dissociation) [[Chris Necker]]):\n\n> For the past two hours he’s been in a dream of absorption that has dissolved all sense of time, and all awareness of the other parts of his life. Even his awareness of his own existence has vanished. He’s been delivered into a pure present, free of the weight of the past or any anxieties about the future. In retrospect, though never at the time, it feels like profound happiness. It’s a little like sex, in that he feels himself in another medium, but it’s less obviously pleasurable, and clearly not sensual. This state of mind brings a contentment he never finds with any passive form of entertainment. Books, cinema, even music can’t bring him to this. . . . This benevolent dissociation seems to require difficulty, prolonged demands on concentration and skills, pressure, problems to be solved, even danger. He feels calm, and spacious, fully qualified to exist. It’s a feeling of clarified emptiness, of deep, muted joy.\n\n## References\n\nCsikszentmihalyi, M. (1990). *Flow: The psychology of optimal experience* (1st ed). Harper & Row.\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Participatory environment",
+          "linkingNoteSlug": "zRWEWHx4cQyqQWRh26gp7ad",
+          "contextBlocks": [
+            "Participatory environments are often much more pleasurable for participants, perhaps because they induce [[zBJee5cbWYmSdVVwY1uKnFc:::Flow]]; see this description of flow from Daniel Zalewski’s [New Yorker profile](https://www.newyorker.com/magazine/2009/02/23/the-background-hum) of Ian McEwan ([via](https://www.chrishecker.com/Benevolent_Dissociation) [[zADKqoutkmiqJDqtQv46o2v:::Chris Hecker]]; emphasis mine):"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "Chris Necker"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

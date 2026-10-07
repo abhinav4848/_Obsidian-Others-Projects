@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zH4fFSTKqCbLhu1Hvz1eBvo
+URL:
+  - "https://notes.andymatuschak.org/zH4fFSTKqCbLhu1Hvz1eBvo"
 title: "Immanuel Kant"
 ---
 # Immanuel Kant

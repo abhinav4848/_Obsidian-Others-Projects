@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zyjePyZ77P2BfdkRBuQB2x?stackedNotes=zY3aLuvtsYS54QnymGKFGwg&stackedNotes=zU6upTVz687icnQegpMhLY8
+URL:
+  - "https://notes.andymatuschak.org/zyjePyZ77P2BfdkRBuQB2x?stackedNotes=zY3aLuvtsYS54QnymGKFGwg&stackedNotes=zU6upTVz687icnQegpMhLY8"
 title: "Most dynamic representations developed for communication aren’t very enabling"
 ---
 # Most dynamic representations developed for communication aren’t very enabling

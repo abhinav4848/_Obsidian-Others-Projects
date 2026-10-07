@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zWSH2QNUsrTGP4V15JBaaEv?stackedNotes=z7TJeAJjP5FrruVXwUXheW4&stackedNotes=zLtDuZSmdcEoAMgWNcxho6Z
+URL:
+  - "https://notes.andymatuschak.org/zWSH2QNUsrTGP4V15JBaaEv?stackedNotes=z7TJeAJjP5FrruVXwUXheW4&stackedNotes=zLtDuZSmdcEoAMgWNcxho6Z"
 title: "Fine-grained task progressions as cognitive scaffolding"
 ---
 # Fine-grained task progressions as cognitive scaffolding

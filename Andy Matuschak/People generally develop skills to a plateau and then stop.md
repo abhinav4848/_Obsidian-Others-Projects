@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zQeW31KRF1tk2zCPPGWc7UD?stackedNotes=zDV9WUPTpX5MbZb4UJEwXr1
+URL:
+  - "https://notes.andymatuschak.org/zQeW31KRF1tk2zCPPGWc7UD?stackedNotes=zDV9WUPTpX5MbZb4UJEwXr1"
 title: "People generally develop skills to a plateau and then stop"
 ---
 # People generally develop skills to a plateau and then stop

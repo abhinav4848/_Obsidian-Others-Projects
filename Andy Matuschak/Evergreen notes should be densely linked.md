@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z4EXkuLjdBrBZe7PVAGXc5a?stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zF8xCU4BwXwbmSyp7tmff9i
+URL:
+  - "https://notes.andymatuschak.org/z4EXkuLjdBrBZe7PVAGXc5a?stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zF8xCU4BwXwbmSyp7tmff9i"
 title: "Evergreen notes should be densely linked"
 ---
 # Evergreen notes should be densely linked

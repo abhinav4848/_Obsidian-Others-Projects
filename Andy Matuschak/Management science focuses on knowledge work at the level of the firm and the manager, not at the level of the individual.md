@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z2Nv3jADtpYcgbCXww7nSEG?stackedNotes=zAVF3mepMcuTWVUJaeHTL77&stackedNotes=z42RbvjQwHecBesDThrPobe
+URL:
+  - "https://notes.andymatuschak.org/z2Nv3jADtpYcgbCXww7nSEG?stackedNotes=zAVF3mepMcuTWVUJaeHTL77&stackedNotes=z42RbvjQwHecBesDThrPobe"
 title: "Management science focuses on knowledge work at the level of the firm and the manager, not at the level of the individual"
 ---
 # Management science focuses on knowledge work at the level of the firm and the manager, not at the level of the individual

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z2Nv3jADtpYcgbCXww7nSEG
+URL:
+  - "https://notes.andymatuschak.org/z2Nv3jADtpYcgbCXww7nSEG"
 title: "Most people read ineffectively"
 ---
 # Most people read ineffectively

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zN7KLBKWMTmFqthmFPVSNbP?stackedNotes=zC4sWYDcheVSeCxpQPA9w88&stackedNotes=z4exmF6rnZTE9GjCnpFBKUT
+URL:
+  - "https://notes.andymatuschak.org/zN7KLBKWMTmFqthmFPVSNbP?stackedNotes=zC4sWYDcheVSeCxpQPA9w88&stackedNotes=z4exmF6rnZTE9GjCnpFBKUT"
 title: "Guided meditation app"
 ---
 # Guided meditation app

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zG1S2XhBhJa7PWeSkKna2Y2?stackedNotes=zYUNgBzgTATxnnNbzLFnuLF&stackedNotes=zEiXiw8qdUzdsEMemnwXn25
+URL:
+  - "https://notes.andymatuschak.org/zG1S2XhBhJa7PWeSkKna2Y2?stackedNotes=zYUNgBzgTATxnnNbzLFnuLF&stackedNotes=zEiXiw8qdUzdsEMemnwXn25"
 title: "Academic software interfaces generally aren’t suitable for serious use"
 ---
 # Academic software interfaces generally aren’t suitable for serious use

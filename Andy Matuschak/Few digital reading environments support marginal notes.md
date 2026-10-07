@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z4aipv9wyMg4qZGANaVjkrJ?stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zGsRWkonFv1KGAsWwiYA3he
+URL:
+  - "https://notes.andymatuschak.org/z4aipv9wyMg4qZGANaVjkrJ?stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zGsRWkonFv1KGAsWwiYA3he"
 title: "Few digital reading environments support marginal notes"
 ---
 # Few digital reading environments support marginal notes

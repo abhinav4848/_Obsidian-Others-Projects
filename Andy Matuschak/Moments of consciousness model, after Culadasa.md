@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/zF3gSqhimNzCKYaWzm3rmUn"
+URL:
+  - "https://notes.andymatuschak.org/zF3gSqhimNzCKYaWzm3rmUn"
 title: "Moments of consciousness model, after Culadasa"
 ---
 # Moments of consciousness model, after Culadasa

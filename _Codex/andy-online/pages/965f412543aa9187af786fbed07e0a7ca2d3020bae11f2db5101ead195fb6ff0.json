@@ -1,0 +1,124 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp",
+  "checked_at": "2026-10-07T22:30:59.396314+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zJaSxZHpWr5fq7vQtHUVuMp": {
+        "data": {
+          "slug": "zJaSxZHpWr5fq7vQtHUVuMp",
+          "title": "Mnemonic texts could be serialized in small sections over time, timed to reader recall",
+          "contentMarkdown": "# Mnemonic texts could be serialized in small sections over time, timed to reader recall\n\nOne early theory in our design of the [[zKPv6qkSErdRGqyryvgS2wS:::Mnemonic medium]] was that if someone reviews chapter 1’s content a few times, they may have an easier time understanding chapter 2: [[z7JRyqSwVbW2a8U44w2RkR6:::Complex ideas may be hard to learn in part because their components overflow working memory]].\n\nIf one took that idea seriously:\n\n1.  One might author later chapters not as free-standing texts but as focused additions to prior chapters, assuming that the reader had thoroughly learned that material.\n2.  One might write smaller chapters to keep working memory from overflowing; one might use chapter boundaries as “checkpoints” before building something new on that prior material.\n3.  One might suggest when readers should continue to the next chapter, either passively in a chapter listing or proactively with a notification. One might even gate access to later chapters on progress through its prerequisite chapters.\n4.  One might incorporate the extended calendar schedule into one’s writing: if you know that the reader won’t reach chapter 5 until two months after chapter 1, that may significantly change the relationship authors develop with readers in their prose. ([[zBcm1RNbzedjDMTt8rRxoWt:::Mass mediums mostly lack an authored time dimension beyond a day]])\n\n[[zSsjk5UvNPGrYp8B6DEFCMS:::Execute Program]] implements the first three of these notions, and it certainly creates quite a curated-feeling experience:\n\n1.  [[zH26uarYCm9y6tqzuxaGUzt:::Execute Program’s lessons assume solid recall of prior material]]\n2.  [[zLnMMGiCT6xDjMfMurTzKjs:::Execute Program’s lessons are quite short]]\n3.  [[zHLWyC5LVXZLWE9RmoC1gua:::Execute Program’s lessons don’t unlock until you’ve successfully reviewed their prerequisites]]\n\nThis is one possible instantiation of [[zKRrv2DmKp3VyDEp3oXrKXQ:::The mnemonic medium can be adapted to author an experience which unfolds over time]], a kind of [[zAb9R6nYuTyN6PBC4rQY9aY:::Timeful text]].\n\nThis relates to [[zHwr5v9VJGX3MzHyzz4V8wt:::Incremental reading]], but with the author exerting somewhat more control over the session composition.\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Execute Program",
+              "linkingNoteSlug": "zSsjk5UvNPGrYp8B6DEFCMS",
+              "contextBlocks": [
+                "Related: [[zJaSxZHpWr5fq7vQtHUVuMp:::Mnemonic texts could be serialized in small sections over time, timed to reader recall]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "The mnemonic medium can be adapted to author an experience which unfolds over time",
+              "linkingNoteSlug": "zKRrv2DmKp3VyDEp3oXrKXQ",
+              "contextBlocks": [
+                "Yet another approach: [[zJaSxZHpWr5fq7vQtHUVuMp:::Mnemonic texts could be serialized in small sections over time, timed to reader recall]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Timeful text",
+              "linkingNoteSlug": "zAb9R6nYuTyN6PBC4rQY9aY",
+              "contextBlocks": [
+                "[[zJaSxZHpWr5fq7vQtHUVuMp:::Mnemonic texts could be serialized in small sections over time, timed to reader recall]] (like [[zHLWyC5LVXZLWE9RmoC1gua:::Execute Program’s lessons don’t unlock until you’ve successfully reviewed their prerequisites]])"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Guided meditation apps are naturally spread over time",
+              "linkingNoteSlug": "zSNDTj75ULnYMo7pGm2Frg7",
+              "contextBlocks": [
+                "A particularly sophisticated meditation course could even introduce “more challenging” ideas later in the sequence, a bit like the idea described in [[zJaSxZHpWr5fq7vQtHUVuMp:::Mnemonic texts could be serialized in small sections over time, timed to reader recall]]"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zKPv6qkSErdRGqyryvgS2wS",
+            "z7JRyqSwVbW2a8U44w2RkR6",
+            "zBcm1RNbzedjDMTt8rRxoWt",
+            "zSsjk5UvNPGrYp8B6DEFCMS",
+            "zH26uarYCm9y6tqzuxaGUzt",
+            "zLnMMGiCT6xDjMfMurTzKjs",
+            "zHLWyC5LVXZLWE9RmoC1gua",
+            "zKRrv2DmKp3VyDEp3oXrKXQ",
+            "zAb9R6nYuTyN6PBC4rQY9aY",
+            "zHwr5v9VJGX3MzHyzz4V8wt"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zJaSxZHpWr5fq7vQtHUVuMp",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zJaSxZHpWr5fq7vQtHUVuMp",
+      "title": "Mnemonic texts could be serialized in small sections over time, timed to reader recall",
+      "contentMarkdown": "# Mnemonic texts could be serialized in small sections over time, timed to reader recall\n\nOne early theory in our design of the [[zKPv6qkSErdRGqyryvgS2wS:::Mnemonic medium]] was that if someone reviews chapter 1’s content a few times, they may have an easier time understanding chapter 2: [[z7JRyqSwVbW2a8U44w2RkR6:::Complex ideas may be hard to learn in part because their components overflow working memory]].\n\nIf one took that idea seriously:\n\n1.  One might author later chapters not as free-standing texts but as focused additions to prior chapters, assuming that the reader had thoroughly learned that material.\n2.  One might write smaller chapters to keep working memory from overflowing; one might use chapter boundaries as “checkpoints” before building something new on that prior material.\n3.  One might suggest when readers should continue to the next chapter, either passively in a chapter listing or proactively with a notification. One might even gate access to later chapters on progress through its prerequisite chapters.\n4.  One might incorporate the extended calendar schedule into one’s writing: if you know that the reader won’t reach chapter 5 until two months after chapter 1, that may significantly change the relationship authors develop with readers in their prose. ([[zBcm1RNbzedjDMTt8rRxoWt:::Mass mediums mostly lack an authored time dimension beyond a day]])\n\n[[zSsjk5UvNPGrYp8B6DEFCMS:::Execute Program]] implements the first three of these notions, and it certainly creates quite a curated-feeling experience:\n\n1.  [[zH26uarYCm9y6tqzuxaGUzt:::Execute Program’s lessons assume solid recall of prior material]]\n2.  [[zLnMMGiCT6xDjMfMurTzKjs:::Execute Program’s lessons are quite short]]\n3.  [[zHLWyC5LVXZLWE9RmoC1gua:::Execute Program’s lessons don’t unlock until you’ve successfully reviewed their prerequisites]]\n\nThis is one possible instantiation of [[zKRrv2DmKp3VyDEp3oXrKXQ:::The mnemonic medium can be adapted to author an experience which unfolds over time]], a kind of [[zAb9R6nYuTyN6PBC4rQY9aY:::Timeful text]].\n\nThis relates to [[zHwr5v9VJGX3MzHyzz4V8wt:::Incremental reading]], but with the author exerting somewhat more control over the session composition.\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Execute Program",
+          "linkingNoteSlug": "zSsjk5UvNPGrYp8B6DEFCMS",
+          "contextBlocks": [
+            "Related: [[zJaSxZHpWr5fq7vQtHUVuMp:::Mnemonic texts could be serialized in small sections over time, timed to reader recall]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "The mnemonic medium can be adapted to author an experience which unfolds over time",
+          "linkingNoteSlug": "zKRrv2DmKp3VyDEp3oXrKXQ",
+          "contextBlocks": [
+            "Yet another approach: [[zJaSxZHpWr5fq7vQtHUVuMp:::Mnemonic texts could be serialized in small sections over time, timed to reader recall]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Timeful text",
+          "linkingNoteSlug": "zAb9R6nYuTyN6PBC4rQY9aY",
+          "contextBlocks": [
+            "[[zJaSxZHpWr5fq7vQtHUVuMp:::Mnemonic texts could be serialized in small sections over time, timed to reader recall]] (like [[zHLWyC5LVXZLWE9RmoC1gua:::Execute Program’s lessons don’t unlock until you’ve successfully reviewed their prerequisites]])"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Guided meditation apps are naturally spread over time",
+          "linkingNoteSlug": "zSNDTj75ULnYMo7pGm2Frg7",
+          "contextBlocks": [
+            "A particularly sophisticated meditation course could even introduce “more challenging” ideas later in the sequence, a bit like the idea described in [[zJaSxZHpWr5fq7vQtHUVuMp:::Mnemonic texts could be serialized in small sections over time, timed to reader recall]]"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zKPv6qkSErdRGqyryvgS2wS",
+        "z7JRyqSwVbW2a8U44w2RkR6",
+        "zBcm1RNbzedjDMTt8rRxoWt",
+        "zSsjk5UvNPGrYp8B6DEFCMS",
+        "zH26uarYCm9y6tqzuxaGUzt",
+        "zLnMMGiCT6xDjMfMurTzKjs",
+        "zHLWyC5LVXZLWE9RmoC1gua",
+        "zKRrv2DmKp3VyDEp3oXrKXQ",
+        "zAb9R6nYuTyN6PBC4rQY9aY",
+        "zHwr5v9VJGX3MzHyzz4V8wt"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

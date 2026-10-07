@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/zF3idWHy3CyBA7foes3nagx"
+URL:
+  - "https://notes.andymatuschak.org/zF3idWHy3CyBA7foes3nagx"
 title: "Edwards, P N (2005) How to Read a Book"
 ---
 # Edwards, P N (2005) How to Read a Book

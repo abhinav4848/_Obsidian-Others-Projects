@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zRTbHLYsFnL2hThAZL6tVqD
+URL:
+  - "https://notes.andymatuschak.org/zRTbHLYsFnL2hThAZL6tVqD"
 title: "Human channel capacity increases with bits-per-chunk"
 ---
 # Human channel capacity increases with bits-per-chunk

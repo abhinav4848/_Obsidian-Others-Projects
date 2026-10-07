@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zBHPw9pNzXjh84EutqH25o1
+URL:
+  - "https://notes.andymatuschak.org/zBHPw9pNzXjh84EutqH25o1"
 title: "Kintsch, W. (1994). Text comprehension, memory, and learning. American Psychologist, 49(4), 294–303"
 ---
 # Kintsch, W. (1994). Text comprehension, memory, and learning. American Psychologist, 49(4), 294–303

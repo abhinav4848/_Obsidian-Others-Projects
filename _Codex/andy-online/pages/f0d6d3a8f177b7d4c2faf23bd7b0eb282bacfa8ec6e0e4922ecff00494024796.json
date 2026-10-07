@@ -1,0 +1,92 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Retrieval_practice_may_be_less_effective_without_feedback",
+  "checked_at": "2026-10-07T22:28:46.402041+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zyvKN4BdHujBNpez2uZjYx",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zyvKN4BdHujBNpez2uZjYx": {
+        "data": {
+          "slug": "zyvKN4BdHujBNpez2uZjYx",
+          "title": "Retrieval practice may be less effective without feedback",
+          "contentMarkdown": "# Retrieval practice may be less effective without feedback\n\nA systematic review by Agarwal et al (2021) found that experiments which did not include feedback mostly (4/6) produced small effects.\n\n![](BearImages/07F28236-863D-4FCA-BCA4-D04BF43DC2C5/2183C187-CDF4-4F9E-9CF0-E1467C76752A.png)\n\n[[zV1xNteVY4otyHP5gCcanVN:::Agarwal, P. K., Nunes, L. D., & Blunt, J. R. (2021). Retrieval Practice Consistently Benefits Student Learning: A Systematic Review of Applied Research in Schools and Classrooms. Educational Psychology Review.]]\n\n*   Weak evidence in [[zTxLkeaWCdBHQYW73o5n6Ka:::Kang, S. H. K., McDermott, K. B., & Roediger, H. L. (2007). Test format and corrective feedback modify the effect of testing on long-term retention. European Journal of Cognitive Psychology, 19(4–5), 528–558]], comparing results in two experiments, finds that provision of feedback led to greater final test performance (but only for short-answer retrieval format, not multiple choice).\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Testing effect",
+              "linkingNoteSlug": "zTpJdbe6ub7uhBFLuHkFsrT",
+              "contextBlocks": [
+                "Experiment has demonstrated this effect even when the correct answer is not provided (though [[zyvKN4BdHujBNpez2uZjYx:::Retrieval practice may be less effective without feedback]]), and even when the test-taker is given “open-book” access to find a correct answer. The effect has been demonstrated in many fields and at many age levels."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Kang, S. H. K., McDermott, K. B., & Roediger, H. L. (2007). Test format and corrective feedback modify the effect of testing on long-term retention. European Journal of Cognitive Psychology, 19(4–5), 528–558",
+              "linkingNoteSlug": "zTxLkeaWCdBHQYW73o5n6Ka",
+              "contextBlocks": [
+                "Some weak evidence here for [[zyvKN4BdHujBNpez2uZjYx:::Retrieval practice may be less effective without feedback]]:"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Agarwal, P. K., Nunes, L. D., & Blunt, J. R. (2021). Retrieval Practice Consistently Benefits Student Learning: A Systematic Review of Applied Research in Schools and Classrooms. Educational Psychology Review.",
+              "linkingNoteSlug": "zV1xNteVY4otyHP5gCcanVN",
+              "contextBlocks": [
+                "[[zyvKN4BdHujBNpez2uZjYx:::Retrieval practice may be less effective without feedback]]"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zV1xNteVY4otyHP5gCcanVN",
+            "zTxLkeaWCdBHQYW73o5n6Ka"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zyvKN4BdHujBNpez2uZjYx",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zyvKN4BdHujBNpez2uZjYx",
+      "title": "Retrieval practice may be less effective without feedback",
+      "contentMarkdown": "# Retrieval practice may be less effective without feedback\n\nA systematic review by Agarwal et al (2021) found that experiments which did not include feedback mostly (4/6) produced small effects.\n\n![](BearImages/07F28236-863D-4FCA-BCA4-D04BF43DC2C5/2183C187-CDF4-4F9E-9CF0-E1467C76752A.png)\n\n[[zV1xNteVY4otyHP5gCcanVN:::Agarwal, P. K., Nunes, L. D., & Blunt, J. R. (2021). Retrieval Practice Consistently Benefits Student Learning: A Systematic Review of Applied Research in Schools and Classrooms. Educational Psychology Review.]]\n\n*   Weak evidence in [[zTxLkeaWCdBHQYW73o5n6Ka:::Kang, S. H. K., McDermott, K. B., & Roediger, H. L. (2007). Test format and corrective feedback modify the effect of testing on long-term retention. European Journal of Cognitive Psychology, 19(4–5), 528–558]], comparing results in two experiments, finds that provision of feedback led to greater final test performance (but only for short-answer retrieval format, not multiple choice).\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Testing effect",
+          "linkingNoteSlug": "zTpJdbe6ub7uhBFLuHkFsrT",
+          "contextBlocks": [
+            "Experiment has demonstrated this effect even when the correct answer is not provided (though [[zyvKN4BdHujBNpez2uZjYx:::Retrieval practice may be less effective without feedback]]), and even when the test-taker is given “open-book” access to find a correct answer. The effect has been demonstrated in many fields and at many age levels."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Kang, S. H. K., McDermott, K. B., & Roediger, H. L. (2007). Test format and corrective feedback modify the effect of testing on long-term retention. European Journal of Cognitive Psychology, 19(4–5), 528–558",
+          "linkingNoteSlug": "zTxLkeaWCdBHQYW73o5n6Ka",
+          "contextBlocks": [
+            "Some weak evidence here for [[zyvKN4BdHujBNpez2uZjYx:::Retrieval practice may be less effective without feedback]]:"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Agarwal, P. K., Nunes, L. D., & Blunt, J. R. (2021). Retrieval Practice Consistently Benefits Student Learning: A Systematic Review of Applied Research in Schools and Classrooms. Educational Psychology Review.",
+          "linkingNoteSlug": "zV1xNteVY4otyHP5gCcanVN",
+          "contextBlocks": [
+            "[[zyvKN4BdHujBNpez2uZjYx:::Retrieval practice may be less effective without feedback]]"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zV1xNteVY4otyHP5gCcanVN",
+        "zTxLkeaWCdBHQYW73o5n6Ka"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

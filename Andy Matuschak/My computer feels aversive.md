@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z2bSwDuxY2Jbv1ntLKB3SL1?stackedNotes=z9BbAQGiGNhty2SPHSwUzKM&stackedNotes=z5Vg36PMQMvZs2dzqM7fVz1
+URL:
+  - "https://notes.andymatuschak.org/z2bSwDuxY2Jbv1ntLKB3SL1?stackedNotes=z9BbAQGiGNhty2SPHSwUzKM&stackedNotes=z5Vg36PMQMvZs2dzqM7fVz1"
 title: "My computer feels aversive"
 ---
 # My computer feels aversive

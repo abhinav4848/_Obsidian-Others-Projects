@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zSoTbuyrXFnDHibaSeEzPRx?stackedNotes=zCaVdAEo3YDwAbuxLeW9JZ7
+URL:
+  - "https://notes.andymatuschak.org/zSoTbuyrXFnDHibaSeEzPRx?stackedNotes=zCaVdAEo3YDwAbuxLeW9JZ7"
 title: "Pre-testing effect"
 ---
 # Pre-testing effect

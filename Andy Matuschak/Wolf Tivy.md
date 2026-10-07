@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zFdjHeXg9d92bJd9hgPHaSP
+URL:
+  - "https://notes.andymatuschak.org/zFdjHeXg9d92bJd9hgPHaSP"
 title: "Wolf Tivy"
 ---
 # Wolf Tivy

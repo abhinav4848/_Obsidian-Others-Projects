@@ -1,0 +1,78 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Spaced_repetition_prompt_design_is_about_designing_tasks_for_your_future_self",
+  "checked_at": "2026-10-07T22:28:49.168530+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/z53zJy6y76MGuJuWW4Qvab9",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "z53zJy6y76MGuJuWW4Qvab9": {
+        "data": {
+          "slug": "z53zJy6y76MGuJuWW4Qvab9",
+          "title": "Spaced repetition prompt design is about designing tasks for your future self",
+          "contentMarkdown": "# Spaced repetition prompt design is about designing tasks for your future self\n\n[[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]], but here’s one useful mental model. When you make a prompt for a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]], you are *giving your future self a recurring task*. Prompt design is task design.\n\nSo if you’re writing prompts to help learn a particular idea, you must design tasks which reinforce your understanding of that idea when you perform them. If you’re writing prompts to support creative work, you must design tasks which cause you to notice possibilities or connections, and so on.\n\n## “Capturing” an idea with spaced repetition prompts is like translation\n\nThe process feels surprisingly similar to translating text between languages. When translating a passage, you’re searching for words which, when read, light up a similar set of bulbs in readers’ minds to those which might have been activated by the original language. It’s not a rote operation. If the passage involves allusion, metaphor, or humor, you won’t translate literally; you’ll try to find words which recreate the experience of reading the original for a member of a foreign culture.\n\nWhen writing SRS prompts to help you internalize an idea, you’re performing something similar to language translation: which tasks, when performed, require lighting the bulbs which are activated when you have that idea “fully loaded” into your mind?\n\n---\n\nHow do we go about designing such a task? If the idea is fairly simple, it may be possible to directly conceive a task which reliably lights all those bulbs. But when the idea has too many important facets, it’s hard to design a task which reliably stimulates all those elements. So it’s best to break concepts down into their simplest units: [[zFgK9ArxAXq57iMukRsVVE9:::Spaced repetition memory prompts should usually focus on one atomic unit]].\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Spaced repetition systems can be used to program attention",
+              "linkingNoteSlug": "zB92WZZ5baBHKZPPbWMbYEv",
+              "contextBlocks": [
+                "Within a traditional flashcard-style system, you can use this observation to go far beyond memorization: see [[z4KxfCZPkVEf2R8nayLJZBG:::Spaced repetition memory systems can be used to prompt application, synthesis, and creation]] and [[z9AH3dD42uGiJzR1WH1eo7n:::Spaced repetition may be a helpful tool to develop or change habits]]. [[z53zJy6y76MGuJuWW4Qvab9:::Spaced repetition prompt design is about designing tasks for your future self]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Important attributes of good spaced repetition memory prompts",
+              "linkingNoteSlug": "z9xavmmNq7xvNqzpnJ3HFXx",
+              "contextBlocks": [
+                "[[z53zJy6y76MGuJuWW4Qvab9:::Spaced repetition prompt design is about designing tasks for your future self]]"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zKy4FsHTcf8LdkgXkMueeGL",
+            "z2D1qPwddPktBjpNuwYFVva",
+            "zFgK9ArxAXq57iMukRsVVE9"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "z53zJy6y76MGuJuWW4Qvab9",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "z53zJy6y76MGuJuWW4Qvab9",
+      "title": "Spaced repetition prompt design is about designing tasks for your future self",
+      "contentMarkdown": "# Spaced repetition prompt design is about designing tasks for your future self\n\n[[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]], but here’s one useful mental model. When you make a prompt for a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]], you are *giving your future self a recurring task*. Prompt design is task design.\n\nSo if you’re writing prompts to help learn a particular idea, you must design tasks which reinforce your understanding of that idea when you perform them. If you’re writing prompts to support creative work, you must design tasks which cause you to notice possibilities or connections, and so on.\n\n## “Capturing” an idea with spaced repetition prompts is like translation\n\nThe process feels surprisingly similar to translating text between languages. When translating a passage, you’re searching for words which, when read, light up a similar set of bulbs in readers’ minds to those which might have been activated by the original language. It’s not a rote operation. If the passage involves allusion, metaphor, or humor, you won’t translate literally; you’ll try to find words which recreate the experience of reading the original for a member of a foreign culture.\n\nWhen writing SRS prompts to help you internalize an idea, you’re performing something similar to language translation: which tasks, when performed, require lighting the bulbs which are activated when you have that idea “fully loaded” into your mind?\n\n---\n\nHow do we go about designing such a task? If the idea is fairly simple, it may be possible to directly conceive a task which reliably lights all those bulbs. But when the idea has too many important facets, it’s hard to design a task which reliably stimulates all those elements. So it’s best to break concepts down into their simplest units: [[zFgK9ArxAXq57iMukRsVVE9:::Spaced repetition memory prompts should usually focus on one atomic unit]].\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Spaced repetition systems can be used to program attention",
+          "linkingNoteSlug": "zB92WZZ5baBHKZPPbWMbYEv",
+          "contextBlocks": [
+            "Within a traditional flashcard-style system, you can use this observation to go far beyond memorization: see [[z4KxfCZPkVEf2R8nayLJZBG:::Spaced repetition memory systems can be used to prompt application, synthesis, and creation]] and [[z9AH3dD42uGiJzR1WH1eo7n:::Spaced repetition may be a helpful tool to develop or change habits]]. [[z53zJy6y76MGuJuWW4Qvab9:::Spaced repetition prompt design is about designing tasks for your future self]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Important attributes of good spaced repetition memory prompts",
+          "linkingNoteSlug": "z9xavmmNq7xvNqzpnJ3HFXx",
+          "contextBlocks": [
+            "[[z53zJy6y76MGuJuWW4Qvab9:::Spaced repetition prompt design is about designing tasks for your future self]]"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zKy4FsHTcf8LdkgXkMueeGL",
+        "z2D1qPwddPktBjpNuwYFVva",
+        "zFgK9ArxAXq57iMukRsVVE9"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

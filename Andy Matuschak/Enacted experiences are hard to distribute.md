@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z4exmF6rnZTE9GjCnpFBKUT?stackedNotes=zN7KLBKWMTmFqthmFPVSNbP&stackedNotes=zGNVRh1q5gGeF88PbmYu4BB
+URL:
+  - "https://notes.andymatuschak.org/z4exmF6rnZTE9GjCnpFBKUT?stackedNotes=zN7KLBKWMTmFqthmFPVSNbP&stackedNotes=zGNVRh1q5gGeF88PbmYu4BB"
 title: "Enacted experiences are hard to distribute"
 ---
 # Enacted experiences are hard to distribute

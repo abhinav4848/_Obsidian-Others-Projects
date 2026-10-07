@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zLhoRUyjKU665EY16u4XXJy?stackedNotes=z3CX38AdFzNGcujEwctVj5X&stackedNotes=z5cUVyz3Ffn1y9p5eaZTzBA
+URL:
+  - "https://notes.andymatuschak.org/zLhoRUyjKU665EY16u4XXJy?stackedNotes=z3CX38AdFzNGcujEwctVj5X&stackedNotes=z5cUVyz3Ffn1y9p5eaZTzBA"
 title: "Exceptional ability usually can’t be predicted by general ability tests"
 ---
 # Exceptional ability usually can’t be predicted by general ability tests

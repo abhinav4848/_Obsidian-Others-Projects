@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zLg3XjSSrDofz6cW3F6DESx?stackedNotes=zEd3Kv6pV5PF7hEJZT4khP
+URL:
+  - "https://notes.andymatuschak.org/zLg3XjSSrDofz6cW3F6DESx?stackedNotes=zEd3Kv6pV5PF7hEJZT4khP"
 title: "Powerful innovations often focus on creating new paradigms, not solving problems of the current context"
 ---
 # Powerful innovations often focus on creating new paradigms, not solving problems of the current context

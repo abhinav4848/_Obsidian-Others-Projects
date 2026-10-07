@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zT2CnA38ERsCY2NKGw2thSL?stackedNotes=zCPXepV6zuoDDGosHBY62ai&stackedNotes=z88M2wwQ8FggV7p8Wu1b8LG
+URL:
+  - "https://notes.andymatuschak.org/zT2CnA38ERsCY2NKGw2thSL?stackedNotes=zCPXepV6zuoDDGosHBY62ai&stackedNotes=z88M2wwQ8FggV7p8Wu1b8LG"
 title: "Tools for thought"
 ---
 # Tools for thought

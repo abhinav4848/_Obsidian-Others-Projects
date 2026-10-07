@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zS1N4F9fUeMQ1kYHVAvwVAU
+URL:
+  - "https://notes.andymatuschak.org/zS1N4F9fUeMQ1kYHVAvwVAU"
 title: "Performance plateaus often require a change in approach to surmount"
 ---
 # Performance plateaus often require a change in approach to surmount

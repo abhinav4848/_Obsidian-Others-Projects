@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zLCdZ9xcHzjks8vgoGkycSr?stackedNotes=zXMrq3eeGJSZV9BqX1E35ex&stackedNotes=z3PJFWDZ7gar2ttawQTmBek
+URL:
+  - "https://notes.andymatuschak.org/zLCdZ9xcHzjks8vgoGkycSr?stackedNotes=zXMrq3eeGJSZV9BqX1E35ex&stackedNotes=z3PJFWDZ7gar2ttawQTmBek"
 title: "Enabling environments’ activities directly serve an intrinsically meaningful purpose"
 ---
 # Enabling environments’ activities directly serve an intrinsically meaningful purpose

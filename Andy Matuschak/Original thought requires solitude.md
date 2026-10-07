@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zWzVw2VM4TPjpKXnHUfLaso?stackedNotes=zPLYeEZ1gQRNMFeuBQt6Gmo&stackedNotes=z4JuirVwUcoGL4wZ8dM6Los
+URL:
+  - "https://notes.andymatuschak.org/zWzVw2VM4TPjpKXnHUfLaso?stackedNotes=zPLYeEZ1gQRNMFeuBQt6Gmo&stackedNotes=z4JuirVwUcoGL4wZ8dM6Los"
 title: "Original thought requires solitude"
 ---
 # Original thought requires solitude

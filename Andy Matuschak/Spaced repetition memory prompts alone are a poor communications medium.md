@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z7nmQ12agpmDmFoonENsQQN?stackedNotes=zHV9RymMTYzjYv8ioA3xaAs&stackedNotes=zAPNwLWboaoymgEAPyUwjnT
+URL:
+  - "https://notes.andymatuschak.org/z7nmQ12agpmDmFoonENsQQN?stackedNotes=zHV9RymMTYzjYv8ioA3xaAs&stackedNotes=zAPNwLWboaoymgEAPyUwjnT"
 title: "Spaced repetition memory prompts alone are a poor communications medium"
 ---
 # Spaced repetition memory prompts alone are a poor communications medium

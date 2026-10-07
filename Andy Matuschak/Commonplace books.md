@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zDcuS8A5uxGR8hQygsqP83A?stackedNotes=zQvwwb95vzcHcpow3GWy5Wi&stackedNotes=zQ6oSpDubYrrBB1WueNbzLb
+URL:
+  - "https://notes.andymatuschak.org/zDcuS8A5uxGR8hQygsqP83A?stackedNotes=zQvwwb95vzcHcpow3GWy5Wi&stackedNotes=zQ6oSpDubYrrBB1WueNbzLb"
 title: "Commonplace books"
 ---
 # Commonplace books

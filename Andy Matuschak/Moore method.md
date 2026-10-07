@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zCQYRYZTQRmrR4bFGCzCMkR?stackedNotes=zF9BD4B7W9MaknXXn3Uhvox&stackedNotes=zVdb1Ku6fzVAFP5A6BhBbWR
+URL:
+  - "https://notes.andymatuschak.org/zCQYRYZTQRmrR4bFGCzCMkR?stackedNotes=zF9BD4B7W9MaknXXn3Uhvox&stackedNotes=zVdb1Ku6fzVAFP5A6BhBbWR"
 title: "Moore method"
 ---
 # Moore method

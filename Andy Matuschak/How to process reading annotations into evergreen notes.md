@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zKBhqUkoRWoNV72aG21GYst?stackedNotes=zKzUzQENhyEDnuwPUhh2EQM&stackedNotes=zEr7kCcH6zUUroDJBwDj2n5
+URL:
+  - "https://notes.andymatuschak.org/zKBhqUkoRWoNV72aG21GYst?stackedNotes=zKzUzQENhyEDnuwPUhh2EQM&stackedNotes=zEr7kCcH6zUUroDJBwDj2n5"
 title: "How to process reading annotations into evergreen notes"
 ---
 # How to process reading annotations into evergreen notes

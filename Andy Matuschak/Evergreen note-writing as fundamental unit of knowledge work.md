@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zKGjQtsTKgscAoq271ZzKqw?stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB
+URL:
+  - "https://notes.andymatuschak.org/zKGjQtsTKgscAoq271ZzKqw?stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB"
 title: "Evergreen note-writing as fundamental unit of knowledge work"
 ---
 # Evergreen note-writing as fundamental unit of knowledge work

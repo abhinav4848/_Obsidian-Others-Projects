@@ -1,5 +1,7 @@
 ---
 title: "It’s hard for independent researchers to find full-time collaborators"
+URL:
+  - "https://notes.andymatuschak.org/zWfTX3cjB1mFZhCJkFGu8aH"
 ---
 # It’s hard for independent researchers to find full-time collaborators
 It’s rare enough for independent researchers to have enough funding to support themselves; it’s much rarer for them to be able to also support other people! So collaborators must either have their own independent source of funding, or they must be post-money.

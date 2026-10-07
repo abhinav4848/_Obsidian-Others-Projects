@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/z2pjEUvJy7Ge6yDaBo66zEu"
+URL:
+  - "https://notes.andymatuschak.org/z2pjEUvJy7Ge6yDaBo66zEu"
 title: "Educational objectives often subvert themselves"
 ---
 # Educational objectives often subvert themselves

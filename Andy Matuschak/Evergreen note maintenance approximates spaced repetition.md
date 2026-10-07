@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zTpJdbe6ub7uhBFLuHkFsrT?stackedNotes=zWbMsEFW9LD4vsoVhaDcF4u
+URL:
+  - "https://notes.andymatuschak.org/zTpJdbe6ub7uhBFLuHkFsrT?stackedNotes=zWbMsEFW9LD4vsoVhaDcF4u"
 title: "Evergreen note maintenance approximates spaced repetition"
 ---
 # Evergreen note maintenance approximates spaced repetition

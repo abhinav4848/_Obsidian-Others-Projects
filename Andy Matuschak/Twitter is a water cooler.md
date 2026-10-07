@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zGD1FxbDZd7WnH7NrhRaVyC?stackedNotes=zVYmgUqqnJD1hduFhHYTkKj&stackedNotes=zAzVAQPP8BynSTBmxjzBG3n
+URL:
+  - "https://notes.andymatuschak.org/zGD1FxbDZd7WnH7NrhRaVyC?stackedNotes=zVYmgUqqnJD1hduFhHYTkKj&stackedNotes=zAzVAQPP8BynSTBmxjzBG3n"
 title: "Twitter is a water cooler"
 ---
 # Twitter is a water cooler

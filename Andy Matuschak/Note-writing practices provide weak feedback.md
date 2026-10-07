@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/zUhd6Hb5dk35PPpnCHvd6bV"
+URL:
+  - "https://notes.andymatuschak.org/zUhd6Hb5dk35PPpnCHvd6bV"
 title: "Note-writing practices provide weak feedback"
 ---
 # Note-writing practices provide weak feedback

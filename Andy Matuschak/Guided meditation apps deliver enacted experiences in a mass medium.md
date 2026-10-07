@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zSNDTj75ULnYMo7pGm2Frg7?stackedNotes=z4exmF6rnZTE9GjCnpFBKUT&stackedNotes=zN7KLBKWMTmFqthmFPVSNbP
+URL:
+  - "https://notes.andymatuschak.org/zSNDTj75ULnYMo7pGm2Frg7?stackedNotes=z4exmF6rnZTE9GjCnpFBKUT&stackedNotes=zN7KLBKWMTmFqthmFPVSNbP"
 title: "Guided meditation apps deliver enacted experiences in a mass medium"
 ---
 # Guided meditation apps deliver enacted experiences in a mass medium

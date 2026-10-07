@@ -8,7 +8,8 @@ created: 2024-10-08
 in:
   - "[[Ideaverse Merged/Atlas/Maps/Courses]]"
   - "[[Ideaverse Merged/Atlas/Maps/Sources]]"
-URL: https://www.linkingyourthinking.com/wow
+URL:
+  - "https://www.linkingyourthinking.com/wow"
 version:
   - "1.5"
 year: 2024

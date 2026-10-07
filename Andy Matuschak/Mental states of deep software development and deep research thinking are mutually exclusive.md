@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zCPXepV6zuoDDGosHBY62ai?stackedNotes=zD2oDSCgLEyM4xDhjRLXtuH&stackedNotes=z7RGGgVdDVHXkzJ6BVFKws8
+URL:
+  - "https://notes.andymatuschak.org/zCPXepV6zuoDDGosHBY62ai?stackedNotes=zD2oDSCgLEyM4xDhjRLXtuH&stackedNotes=z7RGGgVdDVHXkzJ6BVFKws8"
 title: "Mental states of deep software development and deep research thinking are mutually exclusive"
 ---
 # Mental states of deep software development and deep research thinking are mutually exclusive

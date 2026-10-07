@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/z3uFvLFRt8ognrjd6ADZMJc"
+URL:
+  - "https://notes.andymatuschak.org/z3uFvLFRt8ognrjd6ADZMJc"
 title: "Avoid orphan spaced repetition memory prompts"
 ---
 # Avoid orphan spaced repetition memory prompts

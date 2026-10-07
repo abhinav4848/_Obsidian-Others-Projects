@@ -1,0 +1,130 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/B._F._Skinner",
+  "checked_at": "2026-10-07T22:28:37.310682+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zTSp2CfdD1wQWDW8jjiXqWr",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zTSp2CfdD1wQWDW8jjiXqWr": {
+        "data": {
+          "slug": "zTSp2CfdD1wQWDW8jjiXqWr",
+          "title": "B. F. Skinner",
+          "contentMarkdown": "# B. F. Skinner\n\nPioneer of radical [[zKiPNZsc9Eqk7Hvxx7TavqM:::Behaviorism]], which extends [[zUeeyt9uUoq1DrcfTRZ3d8B:::John Watson]]’s conception of behaviorism to include covert behaviors like emotion and cognition, without accepting mental phenomena as *causes* of physical behaviors. He extended the theory of [[z7DEBj8tSRKL4jbwXQTi49b:::Classical conditioning]] to [[zJsAFwrLCXymvs33Lsm95ub:::Operant conditioning]], which tries to account for a broader range of human behavior.\n\nLived 1904-1990.\n\nB.F. Skinner tried to use these principles to create smart bombs, piloted by pigeons! His book, “Walden Two,” suggests that humans are just like the pigeons: who they are is a result of what’s reinforced and what’s punished in their environment.\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Behaviorism",
+              "linkingNoteSlug": "zKiPNZsc9Eqk7Hvxx7TavqM",
+              "contextBlocks": [
+                "[[zTSp2CfdD1wQWDW8jjiXqWr:::B. F. Skinner]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Classical conditioning",
+              "linkingNoteSlug": "z7DEBj8tSRKL4jbwXQTi49b",
+              "contextBlocks": [
+                "This theory, which relies on the simple association of stimuli, fails to explain how people learn more complex behaviors, which led [[zTSp2CfdD1wQWDW8jjiXqWr:::B. F. Skinner]] to develop [[zJsAFwrLCXymvs33Lsm95ub:::Operant conditioning]], which describes how behaviors develop in response to their consequences."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "The cognitive revolution",
+              "linkingNoteSlug": "zQ7SznVVFocQtB24Db6feG8",
+              "contextBlocks": [
+                "[[zTSp2CfdD1wQWDW8jjiXqWr:::B. F. Skinner]]’s *Verbal Behavior* (1957) claimed that language could be learned through {[[zJsAFwrLCXymvs33Lsm95ub:::Operant conditioning]]}. {[[zuqx3FXJ3kxKFHa6FEgD92:::Noam Chomsky]]} published a scathing review, pointing out that {children produce speech they’ve never heard or been rewarded for}."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Operant conditioning",
+              "linkingNoteSlug": "zJsAFwrLCXymvs33Lsm95ub",
+              "contextBlocks": [
+                "Key explanatory framework of [[zKiPNZsc9Eqk7Hvxx7TavqM:::Behaviorism]], pioneered by [[zTSp2CfdD1wQWDW8jjiXqWr:::B. F. Skinner]]. Unlike the behaviors in [[z7DEBj8tSRKL4jbwXQTi49b:::Classical conditioning]] (“respondent behaviors”), operant conditioning involves “operant behaviors” which are voluntary and affected by their consequences (the provision/withdrawal of rewards/punishments), possibly in the presence of some discriminative stimulus (like a light being on)."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Programmed instruction",
+              "linkingNoteSlug": "zJnwHfze71uA7T6pUwfe36f",
+              "contextBlocks": [
+                "It’s particularly interesting to read Pressey’s remarks, given that he’s credited for the original conception of the automated teaching machine later elaborated and promoted by [[zTSp2CfdD1wQWDW8jjiXqWr:::B. F. Skinner]]. Roughly speaking, Pressey advocates for a move away from [[zKiPNZsc9Eqk7Hvxx7TavqM:::Behaviorism]] and toward [[zCyoCsqj8ZNUR7vfYKVCUu7:::Cognitivism]].",
+                "[[zTSp2CfdD1wQWDW8jjiXqWr:::B. F. Skinner]] suggests (1984) that bad writing may have been the problem (reminds me of [[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]]). But of course, he goes on to suggest that it’s because people have “deeply entrenched views of human behavior” which he feels are wrong. “Cognitive psychology is causing much more trouble”, he says (of course)."
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zKiPNZsc9Eqk7Hvxx7TavqM",
+            "zUeeyt9uUoq1DrcfTRZ3d8B",
+            "z7DEBj8tSRKL4jbwXQTi49b",
+            "zJsAFwrLCXymvs33Lsm95ub"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zTSp2CfdD1wQWDW8jjiXqWr",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zTSp2CfdD1wQWDW8jjiXqWr",
+      "title": "B. F. Skinner",
+      "contentMarkdown": "# B. F. Skinner\n\nPioneer of radical [[zKiPNZsc9Eqk7Hvxx7TavqM:::Behaviorism]], which extends [[zUeeyt9uUoq1DrcfTRZ3d8B:::John Watson]]’s conception of behaviorism to include covert behaviors like emotion and cognition, without accepting mental phenomena as *causes* of physical behaviors. He extended the theory of [[z7DEBj8tSRKL4jbwXQTi49b:::Classical conditioning]] to [[zJsAFwrLCXymvs33Lsm95ub:::Operant conditioning]], which tries to account for a broader range of human behavior.\n\nLived 1904-1990.\n\nB.F. Skinner tried to use these principles to create smart bombs, piloted by pigeons! His book, “Walden Two,” suggests that humans are just like the pigeons: who they are is a result of what’s reinforced and what’s punished in their environment.\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Behaviorism",
+          "linkingNoteSlug": "zKiPNZsc9Eqk7Hvxx7TavqM",
+          "contextBlocks": [
+            "[[zTSp2CfdD1wQWDW8jjiXqWr:::B. F. Skinner]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Classical conditioning",
+          "linkingNoteSlug": "z7DEBj8tSRKL4jbwXQTi49b",
+          "contextBlocks": [
+            "This theory, which relies on the simple association of stimuli, fails to explain how people learn more complex behaviors, which led [[zTSp2CfdD1wQWDW8jjiXqWr:::B. F. Skinner]] to develop [[zJsAFwrLCXymvs33Lsm95ub:::Operant conditioning]], which describes how behaviors develop in response to their consequences."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "The cognitive revolution",
+          "linkingNoteSlug": "zQ7SznVVFocQtB24Db6feG8",
+          "contextBlocks": [
+            "[[zTSp2CfdD1wQWDW8jjiXqWr:::B. F. Skinner]]’s *Verbal Behavior* (1957) claimed that language could be learned through {[[zJsAFwrLCXymvs33Lsm95ub:::Operant conditioning]]}. {[[zuqx3FXJ3kxKFHa6FEgD92:::Noam Chomsky]]} published a scathing review, pointing out that {children produce speech they’ve never heard or been rewarded for}."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Operant conditioning",
+          "linkingNoteSlug": "zJsAFwrLCXymvs33Lsm95ub",
+          "contextBlocks": [
+            "Key explanatory framework of [[zKiPNZsc9Eqk7Hvxx7TavqM:::Behaviorism]], pioneered by [[zTSp2CfdD1wQWDW8jjiXqWr:::B. F. Skinner]]. Unlike the behaviors in [[z7DEBj8tSRKL4jbwXQTi49b:::Classical conditioning]] (“respondent behaviors”), operant conditioning involves “operant behaviors” which are voluntary and affected by their consequences (the provision/withdrawal of rewards/punishments), possibly in the presence of some discriminative stimulus (like a light being on)."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Programmed instruction",
+          "linkingNoteSlug": "zJnwHfze71uA7T6pUwfe36f",
+          "contextBlocks": [
+            "It’s particularly interesting to read Pressey’s remarks, given that he’s credited for the original conception of the automated teaching machine later elaborated and promoted by [[zTSp2CfdD1wQWDW8jjiXqWr:::B. F. Skinner]]. Roughly speaking, Pressey advocates for a move away from [[zKiPNZsc9Eqk7Hvxx7TavqM:::Behaviorism]] and toward [[zCyoCsqj8ZNUR7vfYKVCUu7:::Cognitivism]].",
+            "[[zTSp2CfdD1wQWDW8jjiXqWr:::B. F. Skinner]] suggests (1984) that bad writing may have been the problem (reminds me of [[zKy4FsHTcf8LdkgXkMueeGL:::Writing good spaced repetition memory prompts is hard]]). But of course, he goes on to suggest that it’s because people have “deeply entrenched views of human behavior” which he feels are wrong. “Cognitive psychology is causing much more trouble”, he says (of course)."
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zKiPNZsc9Eqk7Hvxx7TavqM",
+        "zUeeyt9uUoq1DrcfTRZ3d8B",
+        "z7DEBj8tSRKL4jbwXQTi49b",
+        "zJsAFwrLCXymvs33Lsm95ub"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 ---
 title: "Messy thought, neat thought"
+URL:
+  - "https://klr.tumblr.com/post/154784481858/messy-thought-neat-thought"
 ---
 # Messy thought, neat thought
 This project has involvement from Andy Matuschak

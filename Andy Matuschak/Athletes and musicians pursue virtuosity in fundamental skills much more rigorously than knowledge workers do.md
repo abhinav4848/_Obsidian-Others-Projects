@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zMbCwoVdjsqPNyTRRr3phPN?stackedNotes=zMX9Lfuz8sGfDUivWZcyWT
+URL:
+  - "https://notes.andymatuschak.org/zMbCwoVdjsqPNyTRRr3phPN?stackedNotes=zMX9Lfuz8sGfDUivWZcyWT"
 title: "Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do"
 ---
 # Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do

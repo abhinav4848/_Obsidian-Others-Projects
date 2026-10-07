@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zF8pCkzLVarNsaFyBxF9Aib
+URL:
+  - "https://notes.andymatuschak.org/zF8pCkzLVarNsaFyBxF9Aib"
 title: "Salience prompts"
 ---
 # Salience prompts

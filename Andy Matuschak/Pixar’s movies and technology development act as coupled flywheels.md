@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zDKZVL9Fr1NnDRsQD2B4EW1?stackedNotes=z2huUCj3ko99HdzFcmEDfZD&stackedNotes=zB7bdhotesiTDgSjHwGr9i4
+URL:
+  - "https://notes.andymatuschak.org/zDKZVL9Fr1NnDRsQD2B4EW1?stackedNotes=z2huUCj3ko99HdzFcmEDfZD&stackedNotes=zB7bdhotesiTDgSjHwGr9i4"
 title: "Pixar’s movies and technology development act as coupled flywheels"
 ---
 # Pixar’s movies and technology development act as coupled flywheels

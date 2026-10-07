@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zEmEnm29YT9Lp4mnWzPVQZJ?stackedNotes=zLYGz27y8Ba6wbQLJbqyXkr&stackedNotes=zDG6oSEj3Z6x5eLuAZcDWUH
+URL:
+  - "https://notes.andymatuschak.org/zEmEnm29YT9Lp4mnWzPVQZJ?stackedNotes=zLYGz27y8Ba6wbQLJbqyXkr&stackedNotes=zDG6oSEj3Z6x5eLuAZcDWUH"
 title: "How might we apply insights from the mnemonic medium to forms which focus on deep emotional connection"
 ---
 # How might we apply insights from the mnemonic medium to forms which focus on deep emotional connection

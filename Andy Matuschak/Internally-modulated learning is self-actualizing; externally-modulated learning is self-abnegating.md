@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/zXMrq3eeGJSZV9BqX1E35ex"
+URL:
+  - "https://notes.andymatuschak.org/zXMrq3eeGJSZV9BqX1E35ex"
 title: "Internally-modulated learning is self-actualizing; externally-modulated learning is self-abnegating"
 ---
 # Internally-modulated learning is self-actualizing; externally-modulated learning is self-abnegating

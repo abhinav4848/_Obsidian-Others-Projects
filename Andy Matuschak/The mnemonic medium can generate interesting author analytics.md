@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zVYmgUqqnJD1hduFhHYTkKj?stackedNotes=zQLzzf8VcSgTHn75yiEU7mJ&stackedNotes=zNMBiA9U8NpBHgJR384JC46
+URL:
+  - "https://notes.andymatuschak.org/zVYmgUqqnJD1hduFhHYTkKj?stackedNotes=zQLzzf8VcSgTHn75yiEU7mJ&stackedNotes=zNMBiA9U8NpBHgJR384JC46"
 title: "The mnemonic medium can generate interesting author analytics"
 ---
 # The mnemonic medium can generate interesting author analytics

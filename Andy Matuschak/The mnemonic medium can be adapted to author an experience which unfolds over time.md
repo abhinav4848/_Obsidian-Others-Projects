@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zKRrv2DmKp3VyDEp3oXrKXQ
+URL:
+  - "https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zKRrv2DmKp3VyDEp3oXrKXQ"
 title: "The mnemonic medium can be adapted to author an experience which unfolds over time"
 ---
 # The mnemonic medium can be adapted to author an experience which unfolds over time

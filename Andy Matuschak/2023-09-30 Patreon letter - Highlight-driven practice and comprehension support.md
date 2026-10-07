@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zY3RYK9gJ6eDnq27vSwBDQh?stackedNotes=zPNoWjs5jQ7iMDpxxBtjSbg
+URL:
+  - "https://notes.andymatuschak.org/zY3RYK9gJ6eDnq27vSwBDQh?stackedNotes=zPNoWjs5jQ7iMDpxxBtjSbg"
 title: "2023-09-30 Patreon letter - Highlight-driven practice and comprehension support"
 ---
 # 2023-09-30 Patreon letter - Highlight-driven practice and comprehension support

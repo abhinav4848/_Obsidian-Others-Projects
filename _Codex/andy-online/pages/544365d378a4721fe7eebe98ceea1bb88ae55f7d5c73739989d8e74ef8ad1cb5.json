@@ -1,0 +1,192 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/zGKqPvetpYbvbXmPmuuvfx8",
+  "checked_at": "2026-10-07T22:30:57.584787+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zGKqPvetpYbvbXmPmuuvfx8",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zGKqPvetpYbvbXmPmuuvfx8": {
+        "data": {
+          "slug": "zGKqPvetpYbvbXmPmuuvfx8",
+          "title": "Inboxes only work if you trust how they’re drained",
+          "contentMarkdown": "# Inboxes only work if you trust how they’re drained\n\nReliable inboxes are powerful because they let us [[zFuk9QqspNYHAgvzZc33ZGH:::Close open loops]] and focus on the work itself, rather than on meta-work.\n\nBut this story seems to recur constantly:\n\n1.  You set up a new to-do list. Everything seems so promising!\n2.  You add stuff to it and check things off. Time passes.\n3.  Something comes up, and you hesitate before adding it to your to-do list: it might get lost, and you need to make sure it gets done.\n4.  So you make a sticky note for this special to-do, outside of your to-do list.\n5.  The sticky notes multiply. Now you have a new to-do list!\n6.  Repeat.\n\nInboxes only let us [[zFuk9QqspNYHAgvzZc33ZGH:::Close open loops]] if they’re reliable—that is, if you can add something to it with total confidence that it’ll get “handled” in some reasonable timeframe. “Handled” is fuzzy: you just need to feel that the fate of those items roughly reflects your true preferences. You’ll trust an inbox system which ends up dropping 90% of items if the other 10% were the only ones you really cared about. You won’t trust an inbox system in which 90% of tasks get done, but the 10% which don’t get done are the ones you really cared about.\n\nIn efficient inboxes, it may be easy to maintain this kind of confidence: the departure naturally rate exceeds the arrival rate. But most knowledge worker inboxes don’t look like this. The rates are highly variable, which creates bottlenecks. Not every item actually *needs* to get handled, but people are over-optimistic, so items accrue in a backlog.\n\nSometimes we can decrease the arrival rate; see e.g. [[zL2SPWGitsD4TruNYBzSZ7s:::Beware automatic import into the reading inbox]]. Usually we must also increase the departure rate, which is hard; see e.g. [[z2Pg1CbUyvjV4jEoqmr8Xua:::Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle]].\n\n---\n\n## References\n\nMatuschak, A. (2019, December). *Taking knowledge work seriously*. Presented at the Stripe Convergence, San Francisco.\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Beware automatic import into the reading inbox",
+              "linkingNoteSlug": "zL2SPWGitsD4TruNYBzSZ7s",
+              "contextBlocks": [
+                "[[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]]. That is, it’s important that everything added is either read or removed, so that if a reference seems interesting, you can add it to that list with the confidence that you’ll return to it later. One effective way to ensure this property is to *add everything yourself*."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle",
+              "linkingNoteSlug": "z2Pg1CbUyvjV4jEoqmr8Xua",
+              "contextBlocks": [
+                "[[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]], and [Inbox Zero](http://www.43folders.com/izero) is one approach to ensure that they do. It lowers items’ wait times (theoretically to one day) by aggressively increasing the departure rate."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Spaced repetition can lower the stakes around destructive inbox-maintenance operations",
+              "linkingNoteSlug": "zJ5Yzvba2729XKXivBBZ91J",
+              "contextBlocks": [
+                "[[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]], but [[z2Pg1CbUyvjV4jEoqmr8Xua:::Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle]]. In large part that’s because [[z4xE8FBHhDo5pTvJuCBPRYC:::Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "A writing inbox for transient and incomplete notes",
+              "linkingNoteSlug": "zUP4GuzPF33dWkZPiu9N6V5",
+              "contextBlocks": [
+                "a place to put notes you want to develop further and a practice which reliably drains it ([[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]])"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences",
+              "linkingNoteSlug": "z4xE8FBHhDo5pTvJuCBPRYC",
+              "contextBlocks": [
+                "[[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]], and usually that requires aggressively dropping lower-priority items. Some examples:"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Spaced repetition may be a helpful tool to incrementally develop inklings",
+              "linkingNoteSlug": "zSK4LyrCbG9zDrdCWmcovUW",
+              "contextBlocks": [
+                "I can capture the notion in [[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]], but it’ll rapidly become a pile of unwieldy scraps which I’ll come to ignore ([[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]])."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Inboxes shouldn’t be split into multiple places",
+              "linkingNoteSlug": "zTnTob5JrFYF9NpU73Zg5a1",
+              "contextBlocks": [
+                "[[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]], but it’s hard to keep them that way. It’s even harder to do this if a single conceptual inbox (e.g. “things to read”) is spread across many different places."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "§Taking knowledge work seriously (Stripe convergence talk, 2019-12-12)",
+              "linkingNoteSlug": "zBmSSpM1WfFDehxNCBcqSZp",
+              "contextBlocks": [
+                "[[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "§Inboxes and attention management",
+              "linkingNoteSlug": "zShQzFXDGrA1bTMCnbM9Qud",
+              "contextBlocks": [
+                "[[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]]"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zFuk9QqspNYHAgvzZc33ZGH",
+            "zFuk9QqspNYHAgvzZc33ZGH",
+            "zL2SPWGitsD4TruNYBzSZ7s",
+            "z2Pg1CbUyvjV4jEoqmr8Xua"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zGKqPvetpYbvbXmPmuuvfx8",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zGKqPvetpYbvbXmPmuuvfx8",
+      "title": "Inboxes only work if you trust how they’re drained",
+      "contentMarkdown": "# Inboxes only work if you trust how they’re drained\n\nReliable inboxes are powerful because they let us [[zFuk9QqspNYHAgvzZc33ZGH:::Close open loops]] and focus on the work itself, rather than on meta-work.\n\nBut this story seems to recur constantly:\n\n1.  You set up a new to-do list. Everything seems so promising!\n2.  You add stuff to it and check things off. Time passes.\n3.  Something comes up, and you hesitate before adding it to your to-do list: it might get lost, and you need to make sure it gets done.\n4.  So you make a sticky note for this special to-do, outside of your to-do list.\n5.  The sticky notes multiply. Now you have a new to-do list!\n6.  Repeat.\n\nInboxes only let us [[zFuk9QqspNYHAgvzZc33ZGH:::Close open loops]] if they’re reliable—that is, if you can add something to it with total confidence that it’ll get “handled” in some reasonable timeframe. “Handled” is fuzzy: you just need to feel that the fate of those items roughly reflects your true preferences. You’ll trust an inbox system which ends up dropping 90% of items if the other 10% were the only ones you really cared about. You won’t trust an inbox system in which 90% of tasks get done, but the 10% which don’t get done are the ones you really cared about.\n\nIn efficient inboxes, it may be easy to maintain this kind of confidence: the departure naturally rate exceeds the arrival rate. But most knowledge worker inboxes don’t look like this. The rates are highly variable, which creates bottlenecks. Not every item actually *needs* to get handled, but people are over-optimistic, so items accrue in a backlog.\n\nSometimes we can decrease the arrival rate; see e.g. [[zL2SPWGitsD4TruNYBzSZ7s:::Beware automatic import into the reading inbox]]. Usually we must also increase the departure rate, which is hard; see e.g. [[z2Pg1CbUyvjV4jEoqmr8Xua:::Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle]].\n\n---\n\n## References\n\nMatuschak, A. (2019, December). *Taking knowledge work seriously*. Presented at the Stripe Convergence, San Francisco.\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Beware automatic import into the reading inbox",
+          "linkingNoteSlug": "zL2SPWGitsD4TruNYBzSZ7s",
+          "contextBlocks": [
+            "[[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]]. That is, it’s important that everything added is either read or removed, so that if a reference seems interesting, you can add it to that list with the confidence that you’ll return to it later. One effective way to ensure this property is to *add everything yourself*."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle",
+          "linkingNoteSlug": "z2Pg1CbUyvjV4jEoqmr8Xua",
+          "contextBlocks": [
+            "[[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]], and [Inbox Zero](http://www.43folders.com/izero) is one approach to ensure that they do. It lowers items’ wait times (theoretically to one day) by aggressively increasing the departure rate."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Spaced repetition can lower the stakes around destructive inbox-maintenance operations",
+          "linkingNoteSlug": "zJ5Yzvba2729XKXivBBZ91J",
+          "contextBlocks": [
+            "[[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]], but [[z2Pg1CbUyvjV4jEoqmr8Xua:::Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle]]. In large part that’s because [[z4xE8FBHhDo5pTvJuCBPRYC:::Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "A writing inbox for transient and incomplete notes",
+          "linkingNoteSlug": "zUP4GuzPF33dWkZPiu9N6V5",
+          "contextBlocks": [
+            "a place to put notes you want to develop further and a practice which reliably drains it ([[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]])"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences",
+          "linkingNoteSlug": "z4xE8FBHhDo5pTvJuCBPRYC",
+          "contextBlocks": [
+            "[[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]], and usually that requires aggressively dropping lower-priority items. Some examples:"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Spaced repetition may be a helpful tool to incrementally develop inklings",
+          "linkingNoteSlug": "zSK4LyrCbG9zDrdCWmcovUW",
+          "contextBlocks": [
+            "I can capture the notion in [[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]], but it’ll rapidly become a pile of unwieldy scraps which I’ll come to ignore ([[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]])."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Inboxes shouldn’t be split into multiple places",
+          "linkingNoteSlug": "zTnTob5JrFYF9NpU73Zg5a1",
+          "contextBlocks": [
+            "[[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]], but it’s hard to keep them that way. It’s even harder to do this if a single conceptual inbox (e.g. “things to read”) is spread across many different places."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "§Taking knowledge work seriously (Stripe convergence talk, 2019-12-12)",
+          "linkingNoteSlug": "zBmSSpM1WfFDehxNCBcqSZp",
+          "contextBlocks": [
+            "[[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "§Inboxes and attention management",
+          "linkingNoteSlug": "zShQzFXDGrA1bTMCnbM9Qud",
+          "contextBlocks": [
+            "[[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]]"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zFuk9QqspNYHAgvzZc33ZGH",
+        "zFuk9QqspNYHAgvzZc33ZGH",
+        "zL2SPWGitsD4TruNYBzSZ7s",
+        "z2Pg1CbUyvjV4jEoqmr8Xua"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

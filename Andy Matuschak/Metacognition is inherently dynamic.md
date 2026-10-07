@@ -1,5 +1,7 @@
 ---
 title: "Metacognition is inherently dynamic"
+URL:
+  - "https://notes.andymatuschak.org/zXaviMzj3x8DPjDDiUgJhoC"
 ---
 # Metacognition is inherently dynamic
 Monitoring, regulation, and planning are dynamic processes. Participants’ conceptions evolve continuously, and executive control must adapt accordingly.

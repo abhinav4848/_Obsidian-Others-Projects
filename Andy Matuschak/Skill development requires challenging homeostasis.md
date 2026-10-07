@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zV6BU6otjQF7BPeJkskyoaT
+URL:
+  - "https://notes.andymatuschak.org/zV6BU6otjQF7BPeJkskyoaT"
 title: "Skill development requires challenging homeostasis"
 ---
 # Skill development requires challenging homeostasis

@@ -1,0 +1,248 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/A_writing_inbox_for_transient_and_incomplete_notes",
+  "checked_at": "2026-10-07T22:28:37.275824+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zUP4GuzPF33dWkZPiu9N6V5",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zUP4GuzPF33dWkZPiu9N6V5": {
+        "data": {
+          "slug": "zUP4GuzPF33dWkZPiu9N6V5",
+          "title": "A writing inbox for transient and incomplete notes",
+          "contentMarkdown": "# A writing inbox for transient and incomplete notes\n\nEven if you aspires to write [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]], most notes begin as transient notes. You should be able to capture thoughts without friction ([[zFuk9QqspNYHAgvzZc33ZGH:::Close open loops]]), then reliably develop them into evergreen notes over time ([[zTn3g4wTm1hbkNFUvLLjpev:::Knowledge work should accrete]]). This implies two important mechanisms:\n\n1.  a quick way to capture transient notes which clearly isolates them from evergreen notes; and\n2.  a place to put notes you want to develop further and a practice which reliably drains it ([[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]])\n\nI use a “writing inbox” for this purpose. Undeveloped ideas, excerpts from my [[zXRs9fj5BuX5FmrQzPxqWUs:::Daily working log]], notes from reading, one-line prompts, etc all begin in that queue. During [[zHTevHGZQPu8QHpRhUmtsuK:::My morning writing practice]], I’ll look through notes in this inbox and spend time developing any that strike me. On most days, I spend the majority of my writing time in this way.\n\nMany notes in my writing inbox end up as evergreen notes, but that’s not appropriate (or possible) for all of them. If a note doesn’t seem sufficiently interesting after a few looks, it’s best to archive or delete it. (A challenge here: [[z2Pg1CbUyvjV4jEoqmr8Xua:::Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle]])\n\nWhile I’m at my computer, I capture notes directly into my writing inbox. I also feed it with: [[z2iksmfhifvy5a16Abv5MUW:::Pocket memo pad to capture into writing inbox while out]].\n\n---\n\n## References\n\n[Building Blocks of a Zettelkasten • Zettelkasten Method](https://zettelkasten.de/posts/zettelkasten-building-blocks/)\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Evergreen notes",
+              "linkingNoteSlug": "z5E5QawiXCMbtNtupvxeoEX",
+              "contextBlocks": [
+                "[[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Similarities and differences between evergreen note-writing and Zettelkasten",
+              "linkingNoteSlug": "zQvwwb95vzcHcpow3GWy5Wi",
+              "contextBlocks": [
+                "a method for capturing scraps which would not yet qualify as Zettel, then revising them over time: [[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Spaced repetition may be a helpful tool to incrementally develop inklings",
+              "linkingNoteSlug": "zSK4LyrCbG9zDrdCWmcovUW",
+              "contextBlocks": [
+                "I can capture the notion in [[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]], but it’ll rapidly become a pile of unwieldy scraps which I’ll come to ignore ([[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]])."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Pocket memo pad to capture into writing inbox while out",
+              "linkingNoteSlug": "z2iksmfhifvy5a16Abv5MUW",
+              "contextBlocks": [
+                "These notes don’t stay in the memo pad: it’s effectively an inbox which feeds [[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]. Intermittently, during [[zHTevHGZQPu8QHpRhUmtsuK:::My morning writing practice]], I process memo pad notes by developing them into [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]], by transferring them into my writing inbox, or by discarding them."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Taxonomy of note types",
+              "linkingNoteSlug": "zTDjZQbKAT9pALtsk2HfePx",
+              "contextBlocks": [
+                "Prompts and incomplete notes in writing inbox ([[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]), which are meant to possibly become [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]]. These prompts may accumulate writing over time via spaced repetition (see [[zSK4LyrCbG9zDrdCWmcovUW:::Spaced repetition may be a helpful tool to incrementally develop inklings]])"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "How to collect observations while reading",
+              "linkingNoteSlug": "zME6gV6mc1mQ2KDE5acyho8",
+              "contextBlocks": [
+                "It’s important to [[zB74H9CuWrosEuqve7jZyCo:::Write about what you read to internalize texts deeply]], but it’s distracting to switch back and forth between reading and writing polished notes. Instead, collect insights in a lightweight way while you read. You can put them in [[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]. That'll [[zFuk9QqspNYHAgvzZc33ZGH:::Close open loops]], and you’ll process them later (see [[zEr7kCcH6zUUroDJBwDj2n5:::How to process reading annotations into evergreen notes]])."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "My morning writing practice",
+              "linkingNoteSlug": "zHTevHGZQPu8QHpRhUmtsuK",
+              "contextBlocks": [
+                "Unless I have something in mind that I’m particularly excited to write about, I usually begin by opening my writing inbox ([[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]) and flipping through those prompts and incomplete notes. If any strike me, I’ll draft [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]] about them.  This may happen over multiple days: I may flesh out a note considerably, then run out of steam and leave it in my inbox to finish another day."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Evergreen notes lower the emotional stakes in editing manuscripts",
+              "linkingNoteSlug": "zSKD44o2VTbQuQYqmjupo4B",
+              "contextBlocks": [
+                "But if one uses the note-based [[zCknixwETdFm1MWdWPwMcXs:::Executable strategy for writing]], then much of the work goes into writing [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]]. Material which isn’t essential for a particular piece can become a durable note, seeding a network of links ([[zF8xCU4BwXwbmSyp7tmff9i:::Evergreen notes should be densely linked]]) and contributing to future insight (see [[z4EXkuLjdBrBZe7PVAGXc5a:::Evergreen note-writing helps insight accumulate]]). Or if it needs more development, it can be added to one’s writing inbox ([[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]])."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Daily working log",
+              "linkingNoteSlug": "zXRs9fj5BuX5FmrQzPxqWUs",
+              "contextBlocks": [
+                "In the [[zTDjZQbKAT9pALtsk2HfePx:::Taxonomy of note types]], this is the lowest-fidelity layer, ephemeral by design. But as scratch thoughts look like they might have legs, they get extracted into a note in my writing inbox ([[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]). Sometimes I’ll use the daily working log as a drafting space, and I can extract sections roughly-as-is into [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "§Note-writing systems",
+              "linkingNoteSlug": "zEZi3ytBhZHHweRYNAosQ1g",
+              "contextBlocks": [
+                "[[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Cookbooks may make good timeful texts",
+              "linkingNoteSlug": "zQnjf98LNYEQs9fxe58jRck",
+              "contextBlocks": [
+                "Cooking prompts like these could appear in general [[z9hscgkG2TeqgUtu3vAEW3U:::Spaced everything]] systems like [[zDRdgSZguFsSj49gtbf1dJg:::Orbit]], but I’m not sure that seeing one at a time (flashcard-style) is the right interaction. Drawing a small “hand” of cards may be a more appropriate metaphor, like [[zDXBGEWk7msyonQ2Ngnrf8h:::A reading inbox to capture possibly-useful references]] or [[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "§Inboxes and attention management",
+              "linkingNoteSlug": "zShQzFXDGrA1bTMCnbM9Qud",
+              "contextBlocks": [
+                "[[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "z5E5QawiXCMbtNtupvxeoEX",
+            "zFuk9QqspNYHAgvzZc33ZGH",
+            "zTn3g4wTm1hbkNFUvLLjpev",
+            "zGKqPvetpYbvbXmPmuuvfx8",
+            "zXRs9fj5BuX5FmrQzPxqWUs",
+            "zHTevHGZQPu8QHpRhUmtsuK",
+            "z2Pg1CbUyvjV4jEoqmr8Xua",
+            "z2iksmfhifvy5a16Abv5MUW"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zUP4GuzPF33dWkZPiu9N6V5",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zUP4GuzPF33dWkZPiu9N6V5",
+      "title": "A writing inbox for transient and incomplete notes",
+      "contentMarkdown": "# A writing inbox for transient and incomplete notes\n\nEven if you aspires to write [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]], most notes begin as transient notes. You should be able to capture thoughts without friction ([[zFuk9QqspNYHAgvzZc33ZGH:::Close open loops]]), then reliably develop them into evergreen notes over time ([[zTn3g4wTm1hbkNFUvLLjpev:::Knowledge work should accrete]]). This implies two important mechanisms:\n\n1.  a quick way to capture transient notes which clearly isolates them from evergreen notes; and\n2.  a place to put notes you want to develop further and a practice which reliably drains it ([[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]])\n\nI use a “writing inbox” for this purpose. Undeveloped ideas, excerpts from my [[zXRs9fj5BuX5FmrQzPxqWUs:::Daily working log]], notes from reading, one-line prompts, etc all begin in that queue. During [[zHTevHGZQPu8QHpRhUmtsuK:::My morning writing practice]], I’ll look through notes in this inbox and spend time developing any that strike me. On most days, I spend the majority of my writing time in this way.\n\nMany notes in my writing inbox end up as evergreen notes, but that’s not appropriate (or possible) for all of them. If a note doesn’t seem sufficiently interesting after a few looks, it’s best to archive or delete it. (A challenge here: [[z2Pg1CbUyvjV4jEoqmr8Xua:::Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle]])\n\nWhile I’m at my computer, I capture notes directly into my writing inbox. I also feed it with: [[z2iksmfhifvy5a16Abv5MUW:::Pocket memo pad to capture into writing inbox while out]].\n\n---\n\n## References\n\n[Building Blocks of a Zettelkasten • Zettelkasten Method](https://zettelkasten.de/posts/zettelkasten-building-blocks/)\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Evergreen notes",
+          "linkingNoteSlug": "z5E5QawiXCMbtNtupvxeoEX",
+          "contextBlocks": [
+            "[[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Similarities and differences between evergreen note-writing and Zettelkasten",
+          "linkingNoteSlug": "zQvwwb95vzcHcpow3GWy5Wi",
+          "contextBlocks": [
+            "a method for capturing scraps which would not yet qualify as Zettel, then revising them over time: [[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Spaced repetition may be a helpful tool to incrementally develop inklings",
+          "linkingNoteSlug": "zSK4LyrCbG9zDrdCWmcovUW",
+          "contextBlocks": [
+            "I can capture the notion in [[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]], but it’ll rapidly become a pile of unwieldy scraps which I’ll come to ignore ([[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]])."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Pocket memo pad to capture into writing inbox while out",
+          "linkingNoteSlug": "z2iksmfhifvy5a16Abv5MUW",
+          "contextBlocks": [
+            "These notes don’t stay in the memo pad: it’s effectively an inbox which feeds [[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]. Intermittently, during [[zHTevHGZQPu8QHpRhUmtsuK:::My morning writing practice]], I process memo pad notes by developing them into [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]], by transferring them into my writing inbox, or by discarding them."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Taxonomy of note types",
+          "linkingNoteSlug": "zTDjZQbKAT9pALtsk2HfePx",
+          "contextBlocks": [
+            "Prompts and incomplete notes in writing inbox ([[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]), which are meant to possibly become [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]]. These prompts may accumulate writing over time via spaced repetition (see [[zSK4LyrCbG9zDrdCWmcovUW:::Spaced repetition may be a helpful tool to incrementally develop inklings]])"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "How to collect observations while reading",
+          "linkingNoteSlug": "zME6gV6mc1mQ2KDE5acyho8",
+          "contextBlocks": [
+            "It’s important to [[zB74H9CuWrosEuqve7jZyCo:::Write about what you read to internalize texts deeply]], but it’s distracting to switch back and forth between reading and writing polished notes. Instead, collect insights in a lightweight way while you read. You can put them in [[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]. That'll [[zFuk9QqspNYHAgvzZc33ZGH:::Close open loops]], and you’ll process them later (see [[zEr7kCcH6zUUroDJBwDj2n5:::How to process reading annotations into evergreen notes]])."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "My morning writing practice",
+          "linkingNoteSlug": "zHTevHGZQPu8QHpRhUmtsuK",
+          "contextBlocks": [
+            "Unless I have something in mind that I’m particularly excited to write about, I usually begin by opening my writing inbox ([[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]) and flipping through those prompts and incomplete notes. If any strike me, I’ll draft [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]] about them.  This may happen over multiple days: I may flesh out a note considerably, then run out of steam and leave it in my inbox to finish another day."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Evergreen notes lower the emotional stakes in editing manuscripts",
+          "linkingNoteSlug": "zSKD44o2VTbQuQYqmjupo4B",
+          "contextBlocks": [
+            "But if one uses the note-based [[zCknixwETdFm1MWdWPwMcXs:::Executable strategy for writing]], then much of the work goes into writing [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]]. Material which isn’t essential for a particular piece can become a durable note, seeding a network of links ([[zF8xCU4BwXwbmSyp7tmff9i:::Evergreen notes should be densely linked]]) and contributing to future insight (see [[z4EXkuLjdBrBZe7PVAGXc5a:::Evergreen note-writing helps insight accumulate]]). Or if it needs more development, it can be added to one’s writing inbox ([[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]])."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Daily working log",
+          "linkingNoteSlug": "zXRs9fj5BuX5FmrQzPxqWUs",
+          "contextBlocks": [
+            "In the [[zTDjZQbKAT9pALtsk2HfePx:::Taxonomy of note types]], this is the lowest-fidelity layer, ephemeral by design. But as scratch thoughts look like they might have legs, they get extracted into a note in my writing inbox ([[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]). Sometimes I’ll use the daily working log as a drafting space, and I can extract sections roughly-as-is into [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "§Note-writing systems",
+          "linkingNoteSlug": "zEZi3ytBhZHHweRYNAosQ1g",
+          "contextBlocks": [
+            "[[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Cookbooks may make good timeful texts",
+          "linkingNoteSlug": "zQnjf98LNYEQs9fxe58jRck",
+          "contextBlocks": [
+            "Cooking prompts like these could appear in general [[z9hscgkG2TeqgUtu3vAEW3U:::Spaced everything]] systems like [[zDRdgSZguFsSj49gtbf1dJg:::Orbit]], but I’m not sure that seeing one at a time (flashcard-style) is the right interaction. Drawing a small “hand” of cards may be a more appropriate metaphor, like [[zDXBGEWk7msyonQ2Ngnrf8h:::A reading inbox to capture possibly-useful references]] or [[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "§Inboxes and attention management",
+          "linkingNoteSlug": "zShQzFXDGrA1bTMCnbM9Qud",
+          "contextBlocks": [
+            "[[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "z5E5QawiXCMbtNtupvxeoEX",
+        "zFuk9QqspNYHAgvzZc33ZGH",
+        "zTn3g4wTm1hbkNFUvLLjpev",
+        "zGKqPvetpYbvbXmPmuuvfx8",
+        "zXRs9fj5BuX5FmrQzPxqWUs",
+        "zHTevHGZQPu8QHpRhUmtsuK",
+        "z2Pg1CbUyvjV4jEoqmr8Xua",
+        "z2iksmfhifvy5a16Abv5MUW"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 ---
 title: "Enacted experience"
+URL:
+  - "https://notes.andymatuschak.org/z92TGMiBsnraf5KXxSTNkBJ"
 ---
 # Enacted experience
 An *enacted experience* is an experience which participants feel they’ve brought about—but which, in reality, is the largely-specified expression of an author’s intentions. This is a powerful mechanism because [[Enacted experiences can create intense personal connection to authored targets]].

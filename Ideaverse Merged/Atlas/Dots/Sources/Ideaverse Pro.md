@@ -8,7 +8,8 @@ created: 2024-10-08
 in:
   - "[[Ideaverse Merged/Atlas/Maps/Courses]]"
   - "[[Ideaverse Merged/Atlas/Maps/Sources]]"
-URL: https://www.linkingyourthinking.com/ideaverse-pro
+URL:
+  - "https://www.linkingyourthinking.com/ideaverse-pro"
 year: 2023
 title: "Ideaverse Pro"
 ---

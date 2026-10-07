@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zKKB5ENRahwftH96H7mijiu?stackedNotes=zT2CnA38ERsCY2NKGw2thSL&stackedNotes=zCPXepV6zuoDDGosHBY62ai
+URL:
+  - "https://notes.andymatuschak.org/zKKB5ENRahwftH96H7mijiu?stackedNotes=zT2CnA38ERsCY2NKGw2thSL&stackedNotes=zCPXepV6zuoDDGosHBY62ai"
 title: "Tools for thought collaboration seems to prefer either part-time contractor help, or deep full-time partners, with a big chasm between"
 ---
 # Tools for thought collaboration seems to prefer either part-time contractor help, or deep full-time partners, with a big chasm between

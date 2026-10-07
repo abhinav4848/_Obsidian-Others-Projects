@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zG8RB9kAnBBzZ8fpfGh8Drp?stackedNotes=zW4ibrYmQAq5tTY4JEsGcDX&stackedNotes=zHBvLXrgmfDj5QB2KZzf45e
+URL:
+  - "https://notes.andymatuschak.org/zG8RB9kAnBBzZ8fpfGh8Drp?stackedNotes=zW4ibrYmQAq5tTY4JEsGcDX&stackedNotes=zHBvLXrgmfDj5QB2KZzf45e"
 title: "Three characteristics of existence"
 ---
 # Three characteristics of existence

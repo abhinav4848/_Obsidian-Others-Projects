@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=z4RDymitJVXdYzjNgDYWqQK&stackedNotes=z6Dd9qGVLLBchS8R9wow4sk
+URL:
+  - "https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=z4RDymitJVXdYzjNgDYWqQK&stackedNotes=z6Dd9qGVLLBchS8R9wow4sk"
 title: "Conversations incorporating multiple discussants’ evergreen notes may promote collaborative sense-making"
 ---
 # Conversations incorporating multiple discussants’ evergreen notes may promote collaborative sense-making

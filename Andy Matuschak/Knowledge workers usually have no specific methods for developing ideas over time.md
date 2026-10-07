@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zQUKGy9JpHnWRDJh7X6yP9t
+URL:
+  - "https://notes.andymatuschak.org/zQUKGy9JpHnWRDJh7X6yP9t"
 title: "Knowledge workers usually have no specific methods for developing ideas over time"
 ---
 # Knowledge workers usually have no specific methods for developing ideas over time

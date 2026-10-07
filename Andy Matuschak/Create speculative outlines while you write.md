@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zEr7kCcH6zUUroDJBwDj2n5?stackedNotes=z79rMNNuLrUj6R8q1CXSpDm&stackedNotes=z6H1QypHEq3vak9sV7XLdKx
+URL:
+  - "https://notes.andymatuschak.org/zEr7kCcH6zUUroDJBwDj2n5?stackedNotes=z79rMNNuLrUj6R8q1CXSpDm&stackedNotes=z6H1QypHEq3vak9sV7XLdKx"
 title: "Create speculative outlines while you write"
 ---
 # Create speculative outlines while you write

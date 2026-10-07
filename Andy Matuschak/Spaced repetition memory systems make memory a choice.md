@@ -1,5 +1,7 @@
 ---
 title: "Spaced repetition memory systems make memory a choice"
+URL:
+  - "https://notes.andymatuschak.org/zSTqsQ4ATXB61k3Z43TforN"
 ---
 # Spaced repetition memory systems make memory a choice
  [[Writing good spaced repetition memory prompts is hard]], but here’s one useful mental model. When you make a prompt for a [[Spaced Repetition memory system]], you are *giving your future self a recurring task*. Prompt design is task design.

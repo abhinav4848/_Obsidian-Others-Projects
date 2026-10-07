@@ -1,0 +1,58 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Just-in-time_information_retrieval_agents",
+  "checked_at": "2026-10-07T22:28:42.697355+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zPMX7HYXAg2cyetFH1JTcpd",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zPMX7HYXAg2cyetFH1JTcpd": {
+        "data": {
+          "slug": "zPMX7HYXAg2cyetFH1JTcpd",
+          "title": "Just-in-time information retrieval agents",
+          "contentMarkdown": "# Just-in-time information retrieval agents\n\nThis term describes agents which passively retrieve and display useful information based on a user’s action.\n\nFor example, the *Remembrance Agent* is an Emacs extension which looks at the contents of the current document (near the cursor?) and finds associated documents, email messages, etc which are similar.\n\n*Margin Notes* is an agent which annotates web pages with links to personal files which may be relevant.\n\nRelated: [[z4geAr5cERWdJPrdhU5gy3N:::Peripheral vision]]\n\n---\n\n## References\n\nRhodes, B. J., & Maes, P. (2000). Just-in-time information retrieval agents. IBM Systems Journal, 39(3.4), 685–704. <https://doi.org/10.1147/sj.393.0685>\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Peripheral vision",
+              "linkingNoteSlug": "z4geAr5cERWdJPrdhU5gy3N",
+              "contextBlocks": [
+                "Software systems, by contrast, often lack this kind of peripheral vision. (Though there have been some attempts; see e.g. [[zPMX7HYXAg2cyetFH1JTcpd:::Just-in-time information retrieval agents]])"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "z4geAr5cERWdJPrdhU5gy3N"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zPMX7HYXAg2cyetFH1JTcpd",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zPMX7HYXAg2cyetFH1JTcpd",
+      "title": "Just-in-time information retrieval agents",
+      "contentMarkdown": "# Just-in-time information retrieval agents\n\nThis term describes agents which passively retrieve and display useful information based on a user’s action.\n\nFor example, the *Remembrance Agent* is an Emacs extension which looks at the contents of the current document (near the cursor?) and finds associated documents, email messages, etc which are similar.\n\n*Margin Notes* is an agent which annotates web pages with links to personal files which may be relevant.\n\nRelated: [[z4geAr5cERWdJPrdhU5gy3N:::Peripheral vision]]\n\n---\n\n## References\n\nRhodes, B. J., & Maes, P. (2000). Just-in-time information retrieval agents. IBM Systems Journal, 39(3.4), 685–704. <https://doi.org/10.1147/sj.393.0685>\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Peripheral vision",
+          "linkingNoteSlug": "z4geAr5cERWdJPrdhU5gy3N",
+          "contextBlocks": [
+            "Software systems, by contrast, often lack this kind of peripheral vision. (Though there have been some attempts; see e.g. [[zPMX7HYXAg2cyetFH1JTcpd:::Just-in-time information retrieval agents]])"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "z4geAr5cERWdJPrdhU5gy3N"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

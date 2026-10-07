@@ -1,5 +1,7 @@
 ---
 title: "Existing spaced repetition systems discourage evergreen notes"
+URL:
+  - "https://notes.andymatuschak.org/zMXZQANJPzCDUFPrUAYAFrn"
 ---
 # Existing spaced repetition systems discourage evergreen notes
 Though notes in a [[Spaced repetition memory system]] are atomic in the same way as [[Andy Matuschak/Evergreen Notes]] ([[Evergreen notes should be atomic]]), they’re in many ways _too_ atomized ([[Traditional spaced repetition memory prompts are atomized]]). The form discourages incremental synthesis and distillation.

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=z63PA5ATVi8oyhyLgeGvL3p
+URL:
+  - "https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=z63PA5ATVi8oyhyLgeGvL3p"
 title: "Prefer positive note titles to promote systematic theory"
 ---
 # Prefer positive note titles to promote systematic theory

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z5beUfpCZpi6fibB4vFfhzF
+URL:
+  - "https://notes.andymatuschak.org/z5beUfpCZpi6fibB4vFfhzF"
 title: "Quit Your Job - Wolf Tivy"
 ---
 # Quit Your Job - Wolf Tivy

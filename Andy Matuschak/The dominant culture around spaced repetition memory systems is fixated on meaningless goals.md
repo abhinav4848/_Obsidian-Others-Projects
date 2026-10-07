@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/About_these_notes?stackedNotes=z7d63BYfJrd81VFE25jkcDd&stackedNotes=z4ULp2KUgq3hBCJMWTUnLDX
+URL:
+  - "https://notes.andymatuschak.org/About_these_notes?stackedNotes=z7d63BYfJrd81VFE25jkcDd&stackedNotes=z4ULp2KUgq3hBCJMWTUnLDX"
 title: "The dominant culture around spaced repetition memory systems is fixated on meaningless goals"
 ---
 # The dominant culture around spaced repetition memory systems is fixated on meaningless goals

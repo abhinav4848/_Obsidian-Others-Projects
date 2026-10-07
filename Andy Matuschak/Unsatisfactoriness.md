@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zW4ibrYmQAq5tTY4JEsGcDX?stackedNotes=zHBvLXrgmfDj5QB2KZzf45e&stackedNotes=zVQuo8ZL8VN5HZwfhLYuRwh
+URL:
+  - "https://notes.andymatuschak.org/zW4ibrYmQAq5tTY4JEsGcDX?stackedNotes=zHBvLXrgmfDj5QB2KZzf45e&stackedNotes=zVQuo8ZL8VN5HZwfhLYuRwh"
 title: "Unsatisfactoriness"
 ---
 # Unsatisfactoriness

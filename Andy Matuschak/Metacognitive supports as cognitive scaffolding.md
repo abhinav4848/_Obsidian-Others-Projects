@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/zL2zRTTRhWf1Lx4x9p2uCDt"
+URL:
+  - "https://notes.andymatuschak.org/zL2zRTTRhWf1Lx4x9p2uCDt"
 title: "Metacognitive supports as cognitive scaffolding"
 ---
 # Metacognitive supports as cognitive scaffolding

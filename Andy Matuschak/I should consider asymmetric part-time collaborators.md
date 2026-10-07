@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z2MeZGv57tNcz5rh64ebSNz?stackedNotes=zWfTX3cjB1mFZhCJkFGu8aH&stackedNotes=z8Acd5zbstpRqjoHPgRKJW6
+URL:
+  - "https://notes.andymatuschak.org/z2MeZGv57tNcz5rh64ebSNz?stackedNotes=zWfTX3cjB1mFZhCJkFGu8aH&stackedNotes=z8Acd5zbstpRqjoHPgRKJW6"
 title: "I should consider asymmetric part-time collaborators"
 ---
 # I should consider asymmetric part-time collaborators

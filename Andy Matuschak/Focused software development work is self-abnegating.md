@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zD2oDSCgLEyM4xDhjRLXtuH?stackedNotes=z7RGGgVdDVHXkzJ6BVFKws8&stackedNotes=zPgc12cKuwjrRzEnbr2a8uK
+URL:
+  - "https://notes.andymatuschak.org/zD2oDSCgLEyM4xDhjRLXtuH?stackedNotes=z7RGGgVdDVHXkzJ6BVFKws8&stackedNotes=zPgc12cKuwjrRzEnbr2a8uK"
 title: "Focused software development work is self-abnegating"
 ---
 # Focused software development work is self-abnegating

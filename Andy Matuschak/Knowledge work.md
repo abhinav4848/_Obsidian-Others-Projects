@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zAVF3mepMcuTWVUJaeHTL77?stackedNotes=zUJzDyeg71G9XRAXjgHQS6y&stackedNotes=zGFtGAjdHWAT5sHiGxCLCqK
+URL:
+  - "https://notes.andymatuschak.org/zAVF3mepMcuTWVUJaeHTL77?stackedNotes=zUJzDyeg71G9XRAXjgHQS6y&stackedNotes=zGFtGAjdHWAT5sHiGxCLCqK"
 title: "Knowledge work"
 ---
 # Knowledge work

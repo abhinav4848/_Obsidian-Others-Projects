@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/z9hscgkG2TeqgUtu3vAEW3U"
+URL:
+  - "https://notes.andymatuschak.org/z9hscgkG2TeqgUtu3vAEW3U"
 title: "Spaced everything"
 ---
 # Spaced everything

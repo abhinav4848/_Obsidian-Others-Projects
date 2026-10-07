@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z5Rvwe2Wo2UvxHxLujUWnsa?stackedNotes=zTkRoDEXnMQqwb6uDxyA8Us
+URL:
+  - "https://notes.andymatuschak.org/z5Rvwe2Wo2UvxHxLujUWnsa?stackedNotes=zTkRoDEXnMQqwb6uDxyA8Us"
 title: "Deliberate practice"
 ---
 # Deliberate practice

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zMybAxZcdkJHKSATuSZbEhz?stackedNotes=z59PYkSdPeznr95fco4GRQx&stackedNotes=z5aepnaCuu6XiPqB4LgBDkH
+URL:
+  - "https://notes.andymatuschak.org/zMybAxZcdkJHKSATuSZbEhz?stackedNotes=z59PYkSdPeznr95fco4GRQx&stackedNotes=z5aepnaCuu6XiPqB4LgBDkH"
 title: "The mnemonic medium may push readers to read more slowly and attentively"
 ---
 # The mnemonic medium may push readers to read more slowly and attentively

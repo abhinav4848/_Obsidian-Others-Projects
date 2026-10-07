@@ -1,0 +1,50 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/About_these_notes",
+  "checked_at": "2026-10-07T22:28:37.276359+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/About_these_notes",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "About_these_notes": {
+        "data": {
+          "slug": "About_these_notes",
+          "title": "About these notes",
+          "contentMarkdown": "# About these notes\n\nHi! I’m [Andy Matuschak](https://andymatuschak.org). You’ve stumbled upon my working notes. They’re kind of strange, so some context might help.\n\nThese notes are mostly written for myself: they’re roughly my thinking environment ([[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]]; [[zHTevHGZQPu8QHpRhUmtsuK:::My morning writing practice]]). But I’m sharing them publicly as an experiment ([[zCMhncA1iSE74MKKYQS5PBZ:::Work with the garage door up]]). If a note seems confusing or under-explained, it’s probably because I didn’t write it for you! Sorry—that’s sort of an essential tension of this experiment ([[zXDPrYcxUSZbF5M8vM5Y1U9:::Write notes for yourself by default, disregarding audience]]).\n\nFor now, there’s no index or navigational aids: you’ll need to follow a link to some starting point. You might be interested in [[zPKTSiU725W9WQCqoVPBcxm:::§What’s top of mind]].\n\n👋 Andy ([email](mailto:andy@andymatuschak.org), [Twitter](https://twitter.com/andy_matuschak), [main personal site](https://andymatuschak.org))\n\nPS: My work is made possible by a crowd-funded research grant from my Patreon community. You can [become a member](http://patreon.com/quantumcountry) to support future work, and to read patron-only updates and previews of upcoming projects.\n\nPS: Many people ask, so I’ll just note here: no, I haven’t made this system available for others to use. It’s still an early research environment, and [[zKKB5ENRahwftH96H7mijiu:::Premature scaling can stunt system iteration]].\n\n\n\n\n",
+          "backlinkedNotes": [],
+          "linkedNoteSlugs": [
+            "z5E5QawiXCMbtNtupvxeoEX",
+            "zHTevHGZQPu8QHpRhUmtsuK",
+            "zCMhncA1iSE74MKKYQS5PBZ",
+            "zXDPrYcxUSZbF5M8vM5Y1U9",
+            "zPKTSiU725W9WQCqoVPBcxm",
+            "zKKB5ENRahwftH96H7mijiu"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "About_these_notes",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "About_these_notes",
+      "title": "About these notes",
+      "contentMarkdown": "# About these notes\n\nHi! I’m [Andy Matuschak](https://andymatuschak.org). You’ve stumbled upon my working notes. They’re kind of strange, so some context might help.\n\nThese notes are mostly written for myself: they’re roughly my thinking environment ([[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]]; [[zHTevHGZQPu8QHpRhUmtsuK:::My morning writing practice]]). But I’m sharing them publicly as an experiment ([[zCMhncA1iSE74MKKYQS5PBZ:::Work with the garage door up]]). If a note seems confusing or under-explained, it’s probably because I didn’t write it for you! Sorry—that’s sort of an essential tension of this experiment ([[zXDPrYcxUSZbF5M8vM5Y1U9:::Write notes for yourself by default, disregarding audience]]).\n\nFor now, there’s no index or navigational aids: you’ll need to follow a link to some starting point. You might be interested in [[zPKTSiU725W9WQCqoVPBcxm:::§What’s top of mind]].\n\n👋 Andy ([email](mailto:andy@andymatuschak.org), [Twitter](https://twitter.com/andy_matuschak), [main personal site](https://andymatuschak.org))\n\nPS: My work is made possible by a crowd-funded research grant from my Patreon community. You can [become a member](http://patreon.com/quantumcountry) to support future work, and to read patron-only updates and previews of upcoming projects.\n\nPS: Many people ask, so I’ll just note here: no, I haven’t made this system available for others to use. It’s still an early research environment, and [[zKKB5ENRahwftH96H7mijiu:::Premature scaling can stunt system iteration]].\n\n\n\n\n",
+      "backlinkedNotes": [],
+      "linkedNoteSlugs": [
+        "z5E5QawiXCMbtNtupvxeoEX",
+        "zHTevHGZQPu8QHpRhUmtsuK",
+        "zCMhncA1iSE74MKKYQS5PBZ",
+        "zXDPrYcxUSZbF5M8vM5Y1U9",
+        "zPKTSiU725W9WQCqoVPBcxm",
+        "zKKB5ENRahwftH96H7mijiu"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

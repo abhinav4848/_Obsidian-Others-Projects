@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z9Uq4yzBT1QaBU8twwyvm7P?stackedNotes=z2D1qPwddPktBjpNuwYFVva&stackedNotes=z4KScVkQCD2XmVwvSDUbZtn
+URL:
+  - "https://notes.andymatuschak.org/z9Uq4yzBT1QaBU8twwyvm7P?stackedNotes=z2D1qPwddPktBjpNuwYFVva&stackedNotes=z4KScVkQCD2XmVwvSDUbZtn"
 title: "Spacing effect"
 ---
 # Spacing effect 

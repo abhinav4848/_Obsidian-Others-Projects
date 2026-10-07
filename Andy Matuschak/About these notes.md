@@ -1,5 +1,7 @@
 ---
 title: "About these notes"
+URL:
+  - "https://notes.andymatuschak.org/About_these_notes"
 ---
 # About these notes
 Hi! I’m [Andy Matuschak](https://andymatuschak.org/). You’ve stumbled upon my working notes. They’re kind of strange, so some context might help.

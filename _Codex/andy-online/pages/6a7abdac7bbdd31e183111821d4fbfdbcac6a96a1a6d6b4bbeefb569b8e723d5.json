@@ -1,0 +1,98 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Methods_for_bringing_dynamic_mediums_to_physical_reading_contexts",
+  "checked_at": "2026-10-07T22:28:43.932259+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/z2vMujPz4bgD3BwtwbU9U9B",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "z2vMujPz4bgD3BwtwbU9U9B": {
+        "data": {
+          "slug": "z2vMujPz4bgD3BwtwbU9U9B",
+          "title": "Methods for bringing dynamic mediums to physical reading contexts",
+          "contentMarkdown": "# Methods for bringing dynamic mediums to physical reading contexts\n\nOne response to [[z2bSwDuxY2Jbv1ntLKB3SL1:::Reading texts on computers is unpleasant]] is to give up, to invert the problem: how to bring the properties of dynamic mediums to physical books?\n\n*   Projectors / cameras (a la [[zDpmsw9zxmk2eXsoHVUqidf:::Dynamicland]])\n    *   I like the notion of a wide-angle camera you can clip onto a book, just like you might clip on a little light for reading at night.\n*   Treat a phone or tablet as a “companion device”—it’s not where the reading happens, but it’s perhaps where dynamic supports appear.\n*   [[zWG9EgWoprv9cbXXkhg8YNS:::Voice-based interface]]\n    *   [[zJxuTHe8PCELxMWhvzVxT8t:::Specifying book passages with a few spoken words]]\n\n## References\n\nMy thinking on this topic was informed by a series of generative sessions with [[Derrek Chow]] in late 2022.\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Reading texts on computers is unpleasant",
+              "linkingNoteSlug": "z2bSwDuxY2Jbv1ntLKB3SL1",
+              "contextBlocks": [
+                "This is an important problem because [[zVBFE2LDCotxGFucwap8rRt:::Mass adoption of written media with novel cognitive supports requires mass adoption of reading on computers]] (or else we need [[z2vMujPz4bgD3BwtwbU9U9B:::Methods for bringing dynamic mediums to physical reading contexts]])."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Mass adoption of written media with novel cognitive supports requires mass adoption of reading on computers",
+              "linkingNoteSlug": "zVBFE2LDCotxGFucwap8rRt",
+              "contextBlocks": [
+                "Alternately, one might consider [[z2vMujPz4bgD3BwtwbU9U9B:::Methods for bringing dynamic mediums to physical reading contexts]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Specifying book passages with a few spoken words",
+              "linkingNoteSlug": "zJxuTHe8PCELxMWhvzVxT8t",
+              "contextBlocks": [
+                "[[zWG9EgWoprv9cbXXkhg8YNS:::Voice-based interface]] offers one avenue for [[z2vMujPz4bgD3BwtwbU9U9B:::Methods for bringing dynamic mediums to physical reading contexts]]. Many dynamic interactions involving a text will require you to indicate a passage of interest in the text, or to know what you’re looking at. For instance, maybe you’d like to make a note about a passage, or highlight it, or add a memory system prompt about it. How to do that with voice?"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "z2bSwDuxY2Jbv1ntLKB3SL1",
+            "zDpmsw9zxmk2eXsoHVUqidf",
+            "zWG9EgWoprv9cbXXkhg8YNS",
+            "zJxuTHe8PCELxMWhvzVxT8t",
+            "Derrek Chow"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "z2vMujPz4bgD3BwtwbU9U9B",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "z2vMujPz4bgD3BwtwbU9U9B",
+      "title": "Methods for bringing dynamic mediums to physical reading contexts",
+      "contentMarkdown": "# Methods for bringing dynamic mediums to physical reading contexts\n\nOne response to [[z2bSwDuxY2Jbv1ntLKB3SL1:::Reading texts on computers is unpleasant]] is to give up, to invert the problem: how to bring the properties of dynamic mediums to physical books?\n\n*   Projectors / cameras (a la [[zDpmsw9zxmk2eXsoHVUqidf:::Dynamicland]])\n    *   I like the notion of a wide-angle camera you can clip onto a book, just like you might clip on a little light for reading at night.\n*   Treat a phone or tablet as a “companion device”—it’s not where the reading happens, but it’s perhaps where dynamic supports appear.\n*   [[zWG9EgWoprv9cbXXkhg8YNS:::Voice-based interface]]\n    *   [[zJxuTHe8PCELxMWhvzVxT8t:::Specifying book passages with a few spoken words]]\n\n## References\n\nMy thinking on this topic was informed by a series of generative sessions with [[Derrek Chow]] in late 2022.\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Reading texts on computers is unpleasant",
+          "linkingNoteSlug": "z2bSwDuxY2Jbv1ntLKB3SL1",
+          "contextBlocks": [
+            "This is an important problem because [[zVBFE2LDCotxGFucwap8rRt:::Mass adoption of written media with novel cognitive supports requires mass adoption of reading on computers]] (or else we need [[z2vMujPz4bgD3BwtwbU9U9B:::Methods for bringing dynamic mediums to physical reading contexts]])."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Mass adoption of written media with novel cognitive supports requires mass adoption of reading on computers",
+          "linkingNoteSlug": "zVBFE2LDCotxGFucwap8rRt",
+          "contextBlocks": [
+            "Alternately, one might consider [[z2vMujPz4bgD3BwtwbU9U9B:::Methods for bringing dynamic mediums to physical reading contexts]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Specifying book passages with a few spoken words",
+          "linkingNoteSlug": "zJxuTHe8PCELxMWhvzVxT8t",
+          "contextBlocks": [
+            "[[zWG9EgWoprv9cbXXkhg8YNS:::Voice-based interface]] offers one avenue for [[z2vMujPz4bgD3BwtwbU9U9B:::Methods for bringing dynamic mediums to physical reading contexts]]. Many dynamic interactions involving a text will require you to indicate a passage of interest in the text, or to know what you’re looking at. For instance, maybe you’d like to make a note about a passage, or highlight it, or add a memory system prompt about it. How to do that with voice?"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "z2bSwDuxY2Jbv1ntLKB3SL1",
+        "zDpmsw9zxmk2eXsoHVUqidf",
+        "zWG9EgWoprv9cbXXkhg8YNS",
+        "zJxuTHe8PCELxMWhvzVxT8t",
+        "Derrek Chow"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/zPiRwRHQxGfF9Zej765PB8M"
+URL:
+  - "https://notes.andymatuschak.org/zPiRwRHQxGfF9Zej765PB8M"
 title: "The critical thing to optimize in spaced repetition memory systems is emotional connection to the review session and its contents"
 ---
 # The critical thing to optimize in spaced repetition memory systems is emotional connection to the review session and its contents

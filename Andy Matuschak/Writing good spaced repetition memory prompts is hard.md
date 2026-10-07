@@ -1,5 +1,7 @@
 ---
 title: "Writing good spaced repetition memory prompts is hard"
+URL:
+  - "https://notes.andymatuschak.org/zKy4FsHTcf8LdkgXkMueeGL"
 ---
 # Writing good spaced repetition memory prompts is hard
 People regard flashcards as something trivial from their school days, so they don’t take writing them very seriously. But it’s awfully hard to write good prompts for a [[Spaced repetition memory system]]. For example, good prompts:

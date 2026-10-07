@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zo6qizTMapyWk2rh8amnF1
+URL:
+  - "https://notes.andymatuschak.org/zo6qizTMapyWk2rh8amnF1"
 title: "Most explanatory media place heavy metacognitive demands on participants"
 ---
 # Most explanatory media place heavy metacognitive demands on participants

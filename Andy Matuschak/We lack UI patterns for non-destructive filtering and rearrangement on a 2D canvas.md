@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zBeBbzwU8LAyi2D5jqBJpS?stackedNotes=zCRXo3avHi3fNuw43BHM8ch&stackedNotes=zSL87LuijMXkMput8dd1f61
+URL:
+  - "https://notes.andymatuschak.org/zBeBbzwU8LAyi2D5jqBJpS?stackedNotes=zCRXo3avHi3fNuw43BHM8ch&stackedNotes=zSL87LuijMXkMput8dd1f61"
 title: "We lack UI patterns for non-destructive filtering and rearrangement on a 2D canvas"
 ---
 # We lack UI patterns for non-destructive filtering and rearrangement on a 2D canvas

@@ -1,5 +1,7 @@
 ---
 title: "It’s hard to do difficult creative work for more than a few hours a day"
+URL:
+  - "https://notes.andymatuschak.org/zEjyrAtUG7LbgKYWCBC1fpT"
 ---
 # It’s hard to do difficult creative work for more than a few hours a day
 I notice that when working on difficult creative projects, I usually can’t meaningfully work for more than 4 or 5 hours a day, and most days it’s more like 3. By contrast, when I’m programming or doing other relatively more mechanical work, diminishing returns occur at more like 8 or 9 hours. Sometimes more if the work is somewhat varied, or if it’s very well-specified.

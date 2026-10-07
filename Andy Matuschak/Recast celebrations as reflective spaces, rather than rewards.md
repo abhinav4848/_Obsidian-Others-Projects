@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z4dnHytTo3WGoqbHfVb4YRn
+URL:
+  - "https://notes.andymatuschak.org/z4dnHytTo3WGoqbHfVb4YRn"
 title: "Recast celebrations as reflective spaces, rather than rewards"
 ---
 # Recast celebrations as reflective spaces, rather than rewards

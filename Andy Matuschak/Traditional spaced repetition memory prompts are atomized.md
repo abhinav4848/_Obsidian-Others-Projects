@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zWWh96dE6YZYmDCoo37977X?stackedNotes=z8e98xn7t5QNHr5cf8oqjbJ&stackedNotes=zCjyEsQTBSY7MJf6KxXKXb9
+URL:
+  - "https://notes.andymatuschak.org/zWWh96dE6YZYmDCoo37977X?stackedNotes=z8e98xn7t5QNHr5cf8oqjbJ&stackedNotes=zCjyEsQTBSY7MJf6KxXKXb9"
 title: "Traditional spaced repetition memory prompts are atomized"
 ---
 # Traditional spaced repetition memory prompts are atomized

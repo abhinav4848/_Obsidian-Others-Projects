@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zAb9R6nYuTyN6PBC4rQY9aY?stackedNotes=zCQuiDgcNqncwB6pTvhdRWk&stackedNotes=zPtcwHaKGoLEZRzSoScYXha
+URL:
+  - "https://notes.andymatuschak.org/zAb9R6nYuTyN6PBC4rQY9aY?stackedNotes=zCQuiDgcNqncwB6pTvhdRWk&stackedNotes=zPtcwHaKGoLEZRzSoScYXha"
 title: "Spaced repetition systems as catechism"
 ---
 # Spaced repetition systems as catechism

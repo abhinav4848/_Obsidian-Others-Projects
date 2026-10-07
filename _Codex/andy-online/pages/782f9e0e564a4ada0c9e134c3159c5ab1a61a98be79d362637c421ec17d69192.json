@@ -1,0 +1,144 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Think_harder_about_sociality_and_memory_systems",
+  "checked_at": "2026-10-07T22:28:49.811903+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zTLbubuUTz75EDoYizxCSXg",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zTLbubuUTz75EDoYizxCSXg": {
+        "data": {
+          "slug": "zTLbubuUTz75EDoYizxCSXg",
+          "title": "Think harder about sociality and memory systems",
+          "contentMarkdown": "# Think harder about sociality and memory systems\n\n*   thickening loose ties\n*   creating opportunities for repeated, lightweight contact\n*   making review activities feel integrated into a broader conversation somehow\n\nReturning to this on [[2020-05-26]], these are still my top themes. The obvious temptation would be to go for some kind of social signaling, etc, but that’s just so boring…\n\n[[Kanjun Qiu]] mentions some research (haven’t dug it up) that intimate connections require a combination of:\n\n*   unplanned interactions\n*   shared intense experiences\n*   vulnerability / safety\n\n[[2022-09-15]]: [[Taylor Rogalski]] shares a Will Wright game concept (<https://youtu.be/DJQpw0uR9AQ>) and asks:\n\n> He’s sort of describing a social flash card game, where people recall and rank shared memories (like world events). Wonder how that maps to Orbit. Could there be a social game that uses the prompts you’ve collected?\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Memory system practice sessions are too disconnected from activities you actually care about",
+              "linkingNoteSlug": "zEmEnm29YT9Lp4mnWzPVQZJ",
+              "contextBlocks": [
+                "Can we create something *like* a retrieval practice session, but much more strongly grounded in what you actually care about? More clearly connected with your actual goals? Situated in the actual activity or context? Embedded in a social context? [[zTLbubuUTz75EDoYizxCSXg:::Think harder about sociality and memory systems]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Current conception of Orbit is overly memory-focused; where’s the poetry?",
+              "linkingNoteSlug": "zCTE5aQmFCnq5mXsDfMpe6B",
+              "contextBlocks": [
+                "[[zTLbubuUTz75EDoYizxCSXg:::Think harder about sociality and memory systems]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Building a better memory system - Michael Nielsen",
+              "linkingNoteSlug": "z2QzqNwnFdhaLHv7XoYz5Ki",
+              "contextBlocks": [
+                "Some very thoughtful comments from [[Michael Nielsen]] unpacking unusual directions for design research in memory systems. Particularly valuable are the background remarks, which emphasize meaning ([[z4ULp2KUgq3hBCJMWTUnLDX:::The dominant culture around spaced repetition memory systems is fixated on meaningless goals]]); depth of understanding, emotional connection ([[zPiRwRHQxGfF9Zej765PB8M:::The critical thing to optimize in spaced repetition memory systems is emotional connection to the review session and its contents]]), sociality ([[zTLbubuUTz75EDoYizxCSXg:::Think harder about sociality and memory systems]])."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Liu, S., Abowitz, S., Liu, Y., Sterman, S., Almeda, S. G., & Kreminski, M. (2026). Creative Reading - Scaffolding Reading for Transformation",
+              "linkingNoteSlug": "zQMHf7gkj84AyWkMDnnyWZP",
+              "contextBlocks": [
+                "They also briefly treat the issue of sociality, which seems very underexplored in these systems. (E.g. [[zTLbubuUTz75EDoYizxCSXg:::Think harder about sociality and memory systems]]) "
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Funnels, tubes, and fields, after Joe Edelman",
+              "linkingNoteSlug": "zTRVzSCySa91sbEBcgsFj97",
+              "contextBlocks": [
+                "Joe’s description of fields highlights one key deficiency of my ideas around [[zPpaHZYKuBPyoDtgcsiZ9RV:::Programmable attention]]: {they’re still single-player-centric (see [[zTLbubuUTz75EDoYizxCSXg:::Think harder about sociality and memory systems]])}."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Tools for thought are individual-centric",
+              "linkingNoteSlug": "z5xneoJYjCJ7wJhbUXNCebj",
+              "contextBlocks": [
+                "[[zTLbubuUTz75EDoYizxCSXg:::Think harder about sociality and memory systems]]"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "2020-05-26",
+            "Kanjun Qiu",
+            "2022-09-15",
+            "Taylor Rogalski"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zTLbubuUTz75EDoYizxCSXg",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zTLbubuUTz75EDoYizxCSXg",
+      "title": "Think harder about sociality and memory systems",
+      "contentMarkdown": "# Think harder about sociality and memory systems\n\n*   thickening loose ties\n*   creating opportunities for repeated, lightweight contact\n*   making review activities feel integrated into a broader conversation somehow\n\nReturning to this on [[2020-05-26]], these are still my top themes. The obvious temptation would be to go for some kind of social signaling, etc, but that’s just so boring…\n\n[[Kanjun Qiu]] mentions some research (haven’t dug it up) that intimate connections require a combination of:\n\n*   unplanned interactions\n*   shared intense experiences\n*   vulnerability / safety\n\n[[2022-09-15]]: [[Taylor Rogalski]] shares a Will Wright game concept (<https://youtu.be/DJQpw0uR9AQ>) and asks:\n\n> He’s sort of describing a social flash card game, where people recall and rank shared memories (like world events). Wonder how that maps to Orbit. Could there be a social game that uses the prompts you’ve collected?\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Memory system practice sessions are too disconnected from activities you actually care about",
+          "linkingNoteSlug": "zEmEnm29YT9Lp4mnWzPVQZJ",
+          "contextBlocks": [
+            "Can we create something *like* a retrieval practice session, but much more strongly grounded in what you actually care about? More clearly connected with your actual goals? Situated in the actual activity or context? Embedded in a social context? [[zTLbubuUTz75EDoYizxCSXg:::Think harder about sociality and memory systems]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Current conception of Orbit is overly memory-focused; where’s the poetry?",
+          "linkingNoteSlug": "zCTE5aQmFCnq5mXsDfMpe6B",
+          "contextBlocks": [
+            "[[zTLbubuUTz75EDoYizxCSXg:::Think harder about sociality and memory systems]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Building a better memory system - Michael Nielsen",
+          "linkingNoteSlug": "z2QzqNwnFdhaLHv7XoYz5Ki",
+          "contextBlocks": [
+            "Some very thoughtful comments from [[Michael Nielsen]] unpacking unusual directions for design research in memory systems. Particularly valuable are the background remarks, which emphasize meaning ([[z4ULp2KUgq3hBCJMWTUnLDX:::The dominant culture around spaced repetition memory systems is fixated on meaningless goals]]); depth of understanding, emotional connection ([[zPiRwRHQxGfF9Zej765PB8M:::The critical thing to optimize in spaced repetition memory systems is emotional connection to the review session and its contents]]), sociality ([[zTLbubuUTz75EDoYizxCSXg:::Think harder about sociality and memory systems]])."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Liu, S., Abowitz, S., Liu, Y., Sterman, S., Almeda, S. G., & Kreminski, M. (2026). Creative Reading - Scaffolding Reading for Transformation",
+          "linkingNoteSlug": "zQMHf7gkj84AyWkMDnnyWZP",
+          "contextBlocks": [
+            "They also briefly treat the issue of sociality, which seems very underexplored in these systems. (E.g. [[zTLbubuUTz75EDoYizxCSXg:::Think harder about sociality and memory systems]]) "
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Funnels, tubes, and fields, after Joe Edelman",
+          "linkingNoteSlug": "zTRVzSCySa91sbEBcgsFj97",
+          "contextBlocks": [
+            "Joe’s description of fields highlights one key deficiency of my ideas around [[zPpaHZYKuBPyoDtgcsiZ9RV:::Programmable attention]]: {they’re still single-player-centric (see [[zTLbubuUTz75EDoYizxCSXg:::Think harder about sociality and memory systems]])}."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Tools for thought are individual-centric",
+          "linkingNoteSlug": "z5xneoJYjCJ7wJhbUXNCebj",
+          "contextBlocks": [
+            "[[zTLbubuUTz75EDoYizxCSXg:::Think harder about sociality and memory systems]]"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "2020-05-26",
+        "Kanjun Qiu",
+        "2022-09-15",
+        "Taylor Rogalski"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

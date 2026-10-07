@@ -1,5 +1,7 @@
 ---
-URL: ["https://notes.andymatuschak.org/zES5WRczfGgXptmM9tSCwvy", "https://notes.andymatuschak.org/Comprehension_-_Kintsch"]
+URL:
+  - "https://notes.andymatuschak.org/zES5WRczfGgXptmM9tSCwvy"
+  - "https://notes.andymatuschak.org/Comprehension_-_Kintsch"
 title: "Comprehension - Kintsch"
 ---
 # Comprehension - Kintsch

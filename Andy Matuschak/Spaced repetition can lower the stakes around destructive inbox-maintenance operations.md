@@ -1,5 +1,7 @@
 ---
 title: "Spaced repetition can lower the stakes around destructive inbox-maintenance operations"
+URL:
+  - "https://notes.andymatuschak.org/zJ5Yzvba2729XKXivBBZ91J"
 ---
 # Spaced repetition can lower the stakes around destructive inbox-maintenance operations
 [[Inboxes only work if you trust how they’re drained]], but [[Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle]]. In large part that’s because [[Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences]].

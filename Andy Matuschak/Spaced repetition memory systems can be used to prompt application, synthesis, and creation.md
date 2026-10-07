@@ -1,5 +1,7 @@
 ---
 title: "Spaced repetition memory systems can be used to prompt application, synthesis, and creation"
+URL:
+  - "https://notes.andymatuschak.org/z4KxfCZPkVEf2R8nayLJZBG"
 ---
 # Spaced repetition memory systems can be used to prompt application, synthesis, and creation
 A [[Spaced Repetition memory system]] like Anki is primarily designed to help people memorize a lot of declarative knowledge, like vocabulary. But the same mechanisms can be used to create relatively unorthodox cards which prompt application, synthesis, and creation.

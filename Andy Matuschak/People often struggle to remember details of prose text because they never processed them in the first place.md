@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z59PYkSdPeznr95fco4GRQx
+URL:
+  - "https://notes.andymatuschak.org/z59PYkSdPeznr95fco4GRQx"
 title: "People often struggle to remember details of prose text because they never processed them in the first place"
 ---
 # People often struggle to remember details of prose text because they never processed them in the first place

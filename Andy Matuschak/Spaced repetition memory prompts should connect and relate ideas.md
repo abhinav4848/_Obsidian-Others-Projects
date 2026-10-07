@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/z3whk8UxFRFLgUQX9f7Fr2o"
+URL:
+  - "https://notes.andymatuschak.org/z3whk8UxFRFLgUQX9f7Fr2o"
 title: "Spaced repetition memory prompts should connect and relate ideas"
 ---
 # Spaced repetition memory prompts should connect and relate ideas

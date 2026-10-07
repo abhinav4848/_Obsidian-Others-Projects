@@ -1,0 +1,124 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Span_of_absolute_judgment",
+  "checked_at": "2026-10-07T22:28:49.334224+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zMQK1sFXWbVMbSQAsjSTUvm",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zMQK1sFXWbVMbSQAsjSTUvm": {
+        "data": {
+          "slug": "zMQK1sFXWbVMbSQAsjSTUvm",
+          "title": "Span of absolute judgment",
+          "contentMarkdown": "# Span of absolute judgment\n\nThere’s limit to how accurately people can identify the absolute magnitude of a unidimensional stimulus. For example, say I mark a point on a number line that only has labels at 0 and 100. Then I ask you to estimate the numeric position of the marked point. How well would your answer correlate to the true position?\n\nTo put it another way, how many categories can you reliably distinguish? If I could choose any number from 0-100, you probably wouldn’t expect to be all that accurate, but if I could only choose 20, 40, 60, and 80, your answers would probably correlate perfectly. We could slowly increase the number of possible choices to find the point at which people can’t reliably distinguish any additional categories. And we can repeat the same experiment for other stimuli, like sound loudnesses or pitches, or saline concentrations, or hues of color.\n\n{Miller} (1956) calls this threshold the *span of absolute judgment,* and his literature review suggests that its value is around {seven}, with surprisingly little variation across stimulus type.\n\nThis quantity is important because it represents a fundamental limitation to human information processing: [[zBy719GfxuM9x1FioHdUpNn:::Channel capacity of humans as information processors]]\n\n---\n\nQ. What types of stimuli does Miller’s span of absolute judgment describe?\nA. Unidimensional magnitudes\n\nQ. What’s the rough order of magnitude of variation of the span of absolute judgment?\nA. 10^0\n\nQ. Give an example of an experiment one could do to determine an individual’s span of absolute judgment for some stimulus.\nA. [assigning numbers to saline concentrations, sizes of shapes, inclinations of lines, etc]\n\nQ. Humans can only reliably discriminate a stimulus (e.g. saline concentration) into around 7 distinct unidimensional magnitudes. What does Miller (1956) call this limit?\nA. span of absolute judgment\n\n---\n\n## References\n\nMiller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63(2), 81–97. <https://doi.org/10.1037/h0043158> [[zNCrrN6aGXeuiVXgnoiT7ND:::Miller - The magical number seven, plus or minus two]]\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Miller - The magical number seven, plus or minus two",
+              "linkingNoteSlug": "zNCrrN6aGXeuiVXgnoiT7ND",
+              "contextBlocks": [
+                "We’re limited by a finite [[zMQK1sFXWbVMbSQAsjSTUvm:::Span of absolute judgment]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "“Chunks” in human cognition",
+              "linkingNoteSlug": "zXxUPAFZBthh97wAKBEj7Tq",
+              "contextBlocks": [
+                "When considering human information processing capacity, [[zAhASsrt9VhRDzh25hsLsyD:::Working memory span is mostly independent of item complexity]], so we must distinguish between the *number* of items being processed (a **”chunk”**, limited by [[z3zo16mx2Dp3PB4J1ty1DGy:::Span of working memory]]) and the *complexity* of each item (separately limited by [[zMQK1sFXWbVMbSQAsjSTUvm:::Span of absolute judgment]])."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Human channel capacity increases with bits-per-chunk",
+              "linkingNoteSlug": "zRTbHLYsFnL2hThAZL6tVqD",
+              "contextBlocks": [
+                "This effect is still limited by the [[zMQK1sFXWbVMbSQAsjSTUvm:::Span of absolute judgment]], so to expand bits-per-chunk beyond 5, you’ll need to make chunks multidimensional ([[z86ZRZ5s5ykUzGD8v8d33ro:::Human channel capacity increases with stimulus dimensionality]])."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Channel capacity of humans as information processors",
+              "linkingNoteSlug": "zBy719GfxuM9x1FioHdUpNn",
+              "contextBlocks": [
+                "Experiments on human [[zMQK1sFXWbVMbSQAsjSTUvm:::Span of absolute judgment]] can be used to model humans in this way. Miller’s review (1956) of the empirical data suggested that human channel capacity for unidimensional stimuli is about {2.6} bits."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Taxonomy of note types",
+              "linkingNoteSlug": "zTDjZQbKAT9pALtsk2HfePx",
+              "contextBlocks": [
+                "simple definitions for terms of art, little of my own added; e.g. [[zMQK1sFXWbVMbSQAsjSTUvm:::Span of absolute judgment]], [[z4KScVkQCD2XmVwvSDUbZtn:::Spacing effect]]"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zBy719GfxuM9x1FioHdUpNn",
+            "zNCrrN6aGXeuiVXgnoiT7ND"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zMQK1sFXWbVMbSQAsjSTUvm",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zMQK1sFXWbVMbSQAsjSTUvm",
+      "title": "Span of absolute judgment",
+      "contentMarkdown": "# Span of absolute judgment\n\nThere’s limit to how accurately people can identify the absolute magnitude of a unidimensional stimulus. For example, say I mark a point on a number line that only has labels at 0 and 100. Then I ask you to estimate the numeric position of the marked point. How well would your answer correlate to the true position?\n\nTo put it another way, how many categories can you reliably distinguish? If I could choose any number from 0-100, you probably wouldn’t expect to be all that accurate, but if I could only choose 20, 40, 60, and 80, your answers would probably correlate perfectly. We could slowly increase the number of possible choices to find the point at which people can’t reliably distinguish any additional categories. And we can repeat the same experiment for other stimuli, like sound loudnesses or pitches, or saline concentrations, or hues of color.\n\n{Miller} (1956) calls this threshold the *span of absolute judgment,* and his literature review suggests that its value is around {seven}, with surprisingly little variation across stimulus type.\n\nThis quantity is important because it represents a fundamental limitation to human information processing: [[zBy719GfxuM9x1FioHdUpNn:::Channel capacity of humans as information processors]]\n\n---\n\nQ. What types of stimuli does Miller’s span of absolute judgment describe?\nA. Unidimensional magnitudes\n\nQ. What’s the rough order of magnitude of variation of the span of absolute judgment?\nA. 10^0\n\nQ. Give an example of an experiment one could do to determine an individual’s span of absolute judgment for some stimulus.\nA. [assigning numbers to saline concentrations, sizes of shapes, inclinations of lines, etc]\n\nQ. Humans can only reliably discriminate a stimulus (e.g. saline concentration) into around 7 distinct unidimensional magnitudes. What does Miller (1956) call this limit?\nA. span of absolute judgment\n\n---\n\n## References\n\nMiller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63(2), 81–97. <https://doi.org/10.1037/h0043158> [[zNCrrN6aGXeuiVXgnoiT7ND:::Miller - The magical number seven, plus or minus two]]\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Miller - The magical number seven, plus or minus two",
+          "linkingNoteSlug": "zNCrrN6aGXeuiVXgnoiT7ND",
+          "contextBlocks": [
+            "We’re limited by a finite [[zMQK1sFXWbVMbSQAsjSTUvm:::Span of absolute judgment]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "“Chunks” in human cognition",
+          "linkingNoteSlug": "zXxUPAFZBthh97wAKBEj7Tq",
+          "contextBlocks": [
+            "When considering human information processing capacity, [[zAhASsrt9VhRDzh25hsLsyD:::Working memory span is mostly independent of item complexity]], so we must distinguish between the *number* of items being processed (a **”chunk”**, limited by [[z3zo16mx2Dp3PB4J1ty1DGy:::Span of working memory]]) and the *complexity* of each item (separately limited by [[zMQK1sFXWbVMbSQAsjSTUvm:::Span of absolute judgment]])."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Human channel capacity increases with bits-per-chunk",
+          "linkingNoteSlug": "zRTbHLYsFnL2hThAZL6tVqD",
+          "contextBlocks": [
+            "This effect is still limited by the [[zMQK1sFXWbVMbSQAsjSTUvm:::Span of absolute judgment]], so to expand bits-per-chunk beyond 5, you’ll need to make chunks multidimensional ([[z86ZRZ5s5ykUzGD8v8d33ro:::Human channel capacity increases with stimulus dimensionality]])."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Channel capacity of humans as information processors",
+          "linkingNoteSlug": "zBy719GfxuM9x1FioHdUpNn",
+          "contextBlocks": [
+            "Experiments on human [[zMQK1sFXWbVMbSQAsjSTUvm:::Span of absolute judgment]] can be used to model humans in this way. Miller’s review (1956) of the empirical data suggested that human channel capacity for unidimensional stimuli is about {2.6} bits."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Taxonomy of note types",
+          "linkingNoteSlug": "zTDjZQbKAT9pALtsk2HfePx",
+          "contextBlocks": [
+            "simple definitions for terms of art, little of my own added; e.g. [[zMQK1sFXWbVMbSQAsjSTUvm:::Span of absolute judgment]], [[z4KScVkQCD2XmVwvSDUbZtn:::Spacing effect]]"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zBy719GfxuM9x1FioHdUpNn",
+        "zNCrrN6aGXeuiVXgnoiT7ND"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

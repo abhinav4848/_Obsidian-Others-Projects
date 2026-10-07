@@ -1,0 +1,58 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Basic_cognitive_tasks_rely_on_memory",
+  "checked_at": "2026-10-07T22:28:37.874883+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zTQiLBRW9Kd8epZczkjWN7e",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zTQiLBRW9Kd8epZczkjWN7e": {
+        "data": {
+          "slug": "zTQiLBRW9Kd8epZczkjWN7e",
+          "title": "Basic cognitive tasks rely on memory",
+          "contentMarkdown": "# Basic cognitive tasks rely on memory\n\nIt’s easy not to notice how dependent we are on memory for interpreting the world and performing basic tasks. For example, see this situation from [[z978NSCu3SfmCRvFrfzxcqH:::Cognition - Reisberg]] (p. 5):\n\n> Betsy wanted to bring Jacob a present. She shook her piggy bank. It made no sound. She went to look for her mother.\n\nYou have to know so much to interpret this! That presents are usually purchased, that piggy banks are where children keep money, that they usually keep coins, etc. All this comes from your memory.\n\nThis seems trivial, but it’s not: doing basically anything in the world relies on what you know, and what you know relies on your memory.\n\n---\n\nQ. What’s the role of memory in this story? “Betsy wanted to bring Jacob a present. She shook her piggy bank. It made no sound. She went to look for her mother.”\nA. You must know many things to interpret this story: that presents are usually purchased, that coins are usually kept in piggy banks, etc.\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Many people view memory as unimportant to deep creative work",
+              "linkingNoteSlug": "z3R2EmEqQz6CVZifHWYMB7B",
+              "contextBlocks": [
+                "[[zTQiLBRW9Kd8epZczkjWN7e:::Basic cognitive tasks rely on memory]]"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "z978NSCu3SfmCRvFrfzxcqH"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zTQiLBRW9Kd8epZczkjWN7e",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zTQiLBRW9Kd8epZczkjWN7e",
+      "title": "Basic cognitive tasks rely on memory",
+      "contentMarkdown": "# Basic cognitive tasks rely on memory\n\nIt’s easy not to notice how dependent we are on memory for interpreting the world and performing basic tasks. For example, see this situation from [[z978NSCu3SfmCRvFrfzxcqH:::Cognition - Reisberg]] (p. 5):\n\n> Betsy wanted to bring Jacob a present. She shook her piggy bank. It made no sound. She went to look for her mother.\n\nYou have to know so much to interpret this! That presents are usually purchased, that piggy banks are where children keep money, that they usually keep coins, etc. All this comes from your memory.\n\nThis seems trivial, but it’s not: doing basically anything in the world relies on what you know, and what you know relies on your memory.\n\n---\n\nQ. What’s the role of memory in this story? “Betsy wanted to bring Jacob a present. She shook her piggy bank. It made no sound. She went to look for her mother.”\nA. You must know many things to interpret this story: that presents are usually purchased, that coins are usually kept in piggy banks, etc.\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Many people view memory as unimportant to deep creative work",
+          "linkingNoteSlug": "z3R2EmEqQz6CVZifHWYMB7B",
+          "contextBlocks": [
+            "[[zTQiLBRW9Kd8epZczkjWN7e:::Basic cognitive tasks rely on memory]]"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "z978NSCu3SfmCRvFrfzxcqH"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

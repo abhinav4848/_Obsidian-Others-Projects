@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zLg3XjSSrDofz6cW3F6DESx?stackedNotes=zUVBM3NDu1efs6vkrUtqz2Z
+URL:
+  - "https://notes.andymatuschak.org/zLg3XjSSrDofz6cW3F6DESx?stackedNotes=zUVBM3NDu1efs6vkrUtqz2Z"
 title: "Why Greatness Cannot Be Planned - Stanley and Lehman"
 ---
 # Why Greatness Cannot Be Planned - Stanley and Lehman

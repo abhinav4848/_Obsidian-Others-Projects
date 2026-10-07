@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zJoWJEpRvrjnm2zL3gdxBjg?stackedNotes=zSisETSpZBCgZH4rFNHRcnC&stackedNotes=zXAYq9zGTGq99CqwBtLwyGq
+URL:
+  - "https://notes.andymatuschak.org/zJoWJEpRvrjnm2zL3gdxBjg?stackedNotes=zSisETSpZBCgZH4rFNHRcnC&stackedNotes=zXAYq9zGTGq99CqwBtLwyGq"
 title: "Answers to application prompts shouldn’t be drawn from memory"
 ---
 # Answers to application prompts shouldn’t be drawn from memory

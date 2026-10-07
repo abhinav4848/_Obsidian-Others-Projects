@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zMybAxZcdkJHKSATuSZbEhz?stackedNotes=zUR6RM21Sa88cFDfC47svVv&stackedNotes=z26C6ing3sqiZMHRVFuT6xn
+URL:
+  - "https://notes.andymatuschak.org/zMybAxZcdkJHKSATuSZbEhz?stackedNotes=zUR6RM21Sa88cFDfC47svVv&stackedNotes=z26C6ing3sqiZMHRVFuT6xn"
 title: "Generation effect"
 ---
 # Generation effect

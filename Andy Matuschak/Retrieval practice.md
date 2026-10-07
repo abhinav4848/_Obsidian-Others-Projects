@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zXA8c6XtMLgRCGwJFGnZUvw
+URL:
+  - "https://notes.andymatuschak.org/zXA8c6XtMLgRCGwJFGnZUvw"
 title: "Retrieval practice"
 ---
 # Retrieval practice

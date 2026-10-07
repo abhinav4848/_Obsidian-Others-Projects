@@ -1,0 +1,140 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/z6tpWc9UuqskrUAVvwePuWV",
+  "checked_at": "2026-10-07T22:30:57.583376+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/z6tpWc9UuqskrUAVvwePuWV",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "z6tpWc9UuqskrUAVvwePuWV": {
+        "data": {
+          "slug": "z6tpWc9UuqskrUAVvwePuWV",
+          "title": "A rigid fixation on “focus” can harm creative work",
+          "contentMarkdown": "# A rigid fixation on “focus” can harm creative work\n\nProductivity culture is obsessed with “deep work”, focus, etc. But a certain amount of serendipity and spontaneity is really important to creative work.\n\nSometimes the benefit comes from opening yourself up to unexpected inputs—so you have ideas you wouldn’t otherwise have.\n\nAt other times, it’s helpful to pay attention to those impulses to distract yourself because they may indicate subtle subconscious hunches you have—possibly useful direction to explore. Or they may help you understand that you’re actually not interested in your current project, or some element of it.\n\nAlso, just empirically, it’s usually not possible to do hard, ultra-focused creative work all day! [[zEjyrAtUG7LbgKYWCBC1fpT:::It’s hard to do difficult creative work for more than a few hours a day]]\n\nRelated: [[zBsWyd6EMxcvhwNzqeHzADC:::Momentum as explore-exploit heuristic in creative work]]\n\n## References\n\n<https://twitter.com/michael_nielsen/status/1411701234768171010?s=20>\n\n> There’s something peculiar about being “focused”.  I used to think it was bad if I got distracted. For some types of rote, necessary work it really is best just to (try to) power through. But for some associative creative work, there’s a weird half-focus state that’s helpful too\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Process over product",
+              "linkingNoteSlug": "zY4QE4Q6NJpGZZh4Binv2xB",
+              "contextBlocks": [
+                "[[z6tpWc9UuqskrUAVvwePuWV:::A rigid fixation on “focus” can harm creative work]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "It’s hard to hear yourself think",
+              "linkingNoteSlug": "zWzVw2VM4TPjpKXnHUfLaso",
+              "contextBlocks": [
+                "I’m not sure this is a great practice: [[z6tpWc9UuqskrUAVvwePuWV:::A rigid fixation on “focus” can harm creative work]]. The block ends in the evenings, so I tend to do my meandering then, but I don’t know if that’s too rigid."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Get bored",
+              "linkingNoteSlug": "zL7p6gaECTXdiirrFVSUTAW",
+              "contextBlocks": [
+                "Related: [[z6tpWc9UuqskrUAVvwePuWV:::A rigid fixation on “focus” can harm creative work]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Non-coercive productivity",
+              "linkingNoteSlug": "zKAXykV6vxcnSNEpT2LfyWG",
+              "contextBlocks": [
+                "[[z6tpWc9UuqskrUAVvwePuWV:::A rigid fixation on “focus” can harm creative work]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Dark playground",
+              "linkingNoteSlug": "z4qPwaauXAxCmNzHW5tihWu",
+              "contextBlocks": [
+                "[[z6tpWc9UuqskrUAVvwePuWV:::A rigid fixation on “focus” can harm creative work]]: relax the fixation on being “productive” and just enjoy yourself. [[zQ48c3CqTAtpJJ2itF7Uu85:::Get playful]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Strike while the iron is hot",
+              "linkingNoteSlug": "zSaJcKdMDioA2cvT7D8Pywb",
+              "contextBlocks": [
+                "This principle doesn’t outright forbid “not striking while the iron is cold”—though it indirectly supports notions like [[z6tpWc9UuqskrUAVvwePuWV:::A rigid fixation on “focus” can harm creative work]] by suggesting that if the iron is hot with some consistency, you might as well strike then and do something else now. If the iron does *not* consistently become hot, the inverse maxim does not apply; see instead [[zSMJvu97ZX8VYRcKB4ctGbN:::Just get started]] for next steps."
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zEjyrAtUG7LbgKYWCBC1fpT",
+            "zBsWyd6EMxcvhwNzqeHzADC"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "z6tpWc9UuqskrUAVvwePuWV",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "z6tpWc9UuqskrUAVvwePuWV",
+      "title": "A rigid fixation on “focus” can harm creative work",
+      "contentMarkdown": "# A rigid fixation on “focus” can harm creative work\n\nProductivity culture is obsessed with “deep work”, focus, etc. But a certain amount of serendipity and spontaneity is really important to creative work.\n\nSometimes the benefit comes from opening yourself up to unexpected inputs—so you have ideas you wouldn’t otherwise have.\n\nAt other times, it’s helpful to pay attention to those impulses to distract yourself because they may indicate subtle subconscious hunches you have—possibly useful direction to explore. Or they may help you understand that you’re actually not interested in your current project, or some element of it.\n\nAlso, just empirically, it’s usually not possible to do hard, ultra-focused creative work all day! [[zEjyrAtUG7LbgKYWCBC1fpT:::It’s hard to do difficult creative work for more than a few hours a day]]\n\nRelated: [[zBsWyd6EMxcvhwNzqeHzADC:::Momentum as explore-exploit heuristic in creative work]]\n\n## References\n\n<https://twitter.com/michael_nielsen/status/1411701234768171010?s=20>\n\n> There’s something peculiar about being “focused”.  I used to think it was bad if I got distracted. For some types of rote, necessary work it really is best just to (try to) power through. But for some associative creative work, there’s a weird half-focus state that’s helpful too\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Process over product",
+          "linkingNoteSlug": "zY4QE4Q6NJpGZZh4Binv2xB",
+          "contextBlocks": [
+            "[[z6tpWc9UuqskrUAVvwePuWV:::A rigid fixation on “focus” can harm creative work]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "It’s hard to hear yourself think",
+          "linkingNoteSlug": "zWzVw2VM4TPjpKXnHUfLaso",
+          "contextBlocks": [
+            "I’m not sure this is a great practice: [[z6tpWc9UuqskrUAVvwePuWV:::A rigid fixation on “focus” can harm creative work]]. The block ends in the evenings, so I tend to do my meandering then, but I don’t know if that’s too rigid."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Get bored",
+          "linkingNoteSlug": "zL7p6gaECTXdiirrFVSUTAW",
+          "contextBlocks": [
+            "Related: [[z6tpWc9UuqskrUAVvwePuWV:::A rigid fixation on “focus” can harm creative work]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Non-coercive productivity",
+          "linkingNoteSlug": "zKAXykV6vxcnSNEpT2LfyWG",
+          "contextBlocks": [
+            "[[z6tpWc9UuqskrUAVvwePuWV:::A rigid fixation on “focus” can harm creative work]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Dark playground",
+          "linkingNoteSlug": "z4qPwaauXAxCmNzHW5tihWu",
+          "contextBlocks": [
+            "[[z6tpWc9UuqskrUAVvwePuWV:::A rigid fixation on “focus” can harm creative work]]: relax the fixation on being “productive” and just enjoy yourself. [[zQ48c3CqTAtpJJ2itF7Uu85:::Get playful]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Strike while the iron is hot",
+          "linkingNoteSlug": "zSaJcKdMDioA2cvT7D8Pywb",
+          "contextBlocks": [
+            "This principle doesn’t outright forbid “not striking while the iron is cold”—though it indirectly supports notions like [[z6tpWc9UuqskrUAVvwePuWV:::A rigid fixation on “focus” can harm creative work]] by suggesting that if the iron is hot with some consistency, you might as well strike then and do something else now. If the iron does *not* consistently become hot, the inverse maxim does not apply; see instead [[zSMJvu97ZX8VYRcKB4ctGbN:::Just get started]] for next steps."
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zEjyrAtUG7LbgKYWCBC1fpT",
+        "zBsWyd6EMxcvhwNzqeHzADC"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

@@ -6,7 +6,8 @@ year: 1993
 in:
   - "[[Ideaverse Merged/Atlas/Maps/Movies]]"
   - "[[Ideaverse Merged/Atlas/Maps/Sources]]"
-URL: https://www.imdb.com/title/tt0107048
+URL:
+  - "https://www.imdb.com/title/tt0107048"
 tags:
   - source/movie
 type: "[[Ideaverse Merged/Atlas/Maps/Movies]]"

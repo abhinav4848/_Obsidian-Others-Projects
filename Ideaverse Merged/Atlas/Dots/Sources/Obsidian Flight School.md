@@ -9,7 +9,8 @@ year: 2021
 in:
   - "[[Ideaverse Merged/Atlas/Maps/Courses]]"
   - "[[Ideaverse Merged/Atlas/Maps/Sources]]"
-URL: https://www.linkingyourthinking.com/obsidian-flight-school
+URL:
+  - "https://www.linkingyourthinking.com/obsidian-flight-school"
 tags:
   - source/course
 type: "[[Ideaverse Merged/Atlas/Maps/Courses]]"

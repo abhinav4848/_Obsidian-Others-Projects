@@ -1,7 +1,8 @@
 ---
 aliases:
   - "2021-10-31 Patreon post- Doing-centric explanatory mediums: board game instruction manuals, and an unusual Figma document"
-URL: https://notes.andymatuschak.org/zTYb9ysCATFYCnvay3V5sF2?stackedNotes=zGD1FxbDZd7WnH7NrhRaVyC&stackedNotes=zaEHQwE8PM2yxLppv8XrTj
+URL:
+  - "https://notes.andymatuschak.org/zTYb9ysCATFYCnvay3V5sF2?stackedNotes=zGD1FxbDZd7WnH7NrhRaVyC&stackedNotes=zaEHQwE8PM2yxLppv8XrTj"
 title: "2021-10-31 Patreon post- Doing-centric explanatory mediums- board game instruction manuals, and an unusual Figma document"
 ---
 # 2021-10-31 Patreon post- Doing-centric explanatory mediums- board game instruction manuals, and an unusual Figma document

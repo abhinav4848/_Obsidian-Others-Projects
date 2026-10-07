@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zVdb1Ku6fzVAFP5A6BhBbWR?stackedNotes=zLCdZ9xcHzjks8vgoGkycSr
+URL:
+  - "https://notes.andymatuschak.org/zVdb1Ku6fzVAFP5A6BhBbWR?stackedNotes=zLCdZ9xcHzjks8vgoGkycSr"
 title: "Inquiry-based learning"
 ---
 # Inquiry-based learning

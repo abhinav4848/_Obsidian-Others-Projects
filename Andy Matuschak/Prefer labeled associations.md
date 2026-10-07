@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zQvbnYfHdG1gARTbtC4pje6?stackedNotes=zojJRcfGstU2Ss6JRMzd15&stackedNotes=zRaJxQBJgbD5wgRYLoqTpa3
+URL:
+  - "https://notes.andymatuschak.org/zQvbnYfHdG1gARTbtC4pje6?stackedNotes=zojJRcfGstU2Ss6JRMzd15&stackedNotes=zRaJxQBJgbD5wgRYLoqTpa3"
 title: "Prefer labeled associations"
 ---
 # Prefer labeled associations

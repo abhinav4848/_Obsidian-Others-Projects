@@ -1,5 +1,7 @@
 ---
 title: "Enabling environment"
+URL:
+  - "https://notes.andymatuschak.org/z492hGrHvRvJiEY9UfB4Mby"
 ---
 # Enabling environment
 An _enabling environment_ significantly expands its participants’ capacity to do things they find meaningful and important.

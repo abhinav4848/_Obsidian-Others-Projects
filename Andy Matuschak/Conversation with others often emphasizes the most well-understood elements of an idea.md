@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zUVSwsgstnaSQ5XfxzEjSnF
+URL:
+  - "https://notes.andymatuschak.org/zUVSwsgstnaSQ5XfxzEjSnF"
 title: "Conversation with others often emphasizes the most well-understood elements of an idea"
 ---
 # Conversation with others often emphasizes the most well-understood elements of an idea

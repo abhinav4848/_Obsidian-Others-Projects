@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z8d1Rq2d13fdQCjQiWzJybD?stackedNotes=z21VhT726p7bX8JcGM41QSA&stackedNotes=zY3RYK9gJ6eDnq27vSwBDQh
+URL:
+  - "https://notes.andymatuschak.org/z8d1Rq2d13fdQCjQiWzJybD?stackedNotes=z21VhT726p7bX8JcGM41QSA&stackedNotes=zY3RYK9gJ6eDnq27vSwBDQh"
 title: "2023-05-31 Patreon letter - Fluid practice for fluid understanding"
 ---
 # 2023-05-31 Patreon letter - Fluid practice for fluid understanding

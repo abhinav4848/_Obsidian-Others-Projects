@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zKzUzQENhyEDnuwPUhh2EQM?stackedNotes=zME6gV6mc1mQ2KDE5acyho8&stackedNotes=z2iksmfhifvy5a16Abv5MUW
+URL:
+  - "https://notes.andymatuschak.org/zKzUzQENhyEDnuwPUhh2EQM?stackedNotes=zME6gV6mc1mQ2KDE5acyho8&stackedNotes=z2iksmfhifvy5a16Abv5MUW"
 title: "Pocket memo pad to capture into writing inbox while out"
 ---
 # Pocket memo pad to capture into writing inbox while out

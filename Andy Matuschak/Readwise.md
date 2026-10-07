@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z4aipv9wyMg4qZGANaVjkrJ?stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zAt1K9ARQYguinoHH8cfaqQ
+URL:
+  - "https://notes.andymatuschak.org/z4aipv9wyMg4qZGANaVjkrJ?stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zAt1K9ARQYguinoHH8cfaqQ"
 title: "Readwise"
 ---
 # Readwise

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z852Vpw9YE5hD3mGs6ScCWJ
+URL:
+  - "https://notes.andymatuschak.org/z852Vpw9YE5hD3mGs6ScCWJ"
 title: "Expert coaches facilitate effective deliberate practice"
 ---
 # Expert coaches facilitate effective deliberate practice

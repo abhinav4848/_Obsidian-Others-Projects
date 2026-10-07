@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/zNhg2x8e6yHJXxf7GeBLu1R?stackedNotes=zGyuqjqaSGWzT9ndJJVxiaw&stackedNotes=zTqMd4acQkC6dmrigEhWoE"
+URL:
+  - "https://notes.andymatuschak.org/zNhg2x8e6yHJXxf7GeBLu1R?stackedNotes=zGyuqjqaSGWzT9ndJJVxiaw&stackedNotes=zTqMd4acQkC6dmrigEhWoE"
 title: "Inspectional reading"
 ---
 Category talked about: Reading

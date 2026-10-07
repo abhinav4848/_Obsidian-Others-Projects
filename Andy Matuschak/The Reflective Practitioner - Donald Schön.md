@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zQgeXp15RWkzyiUv9WQsLtA?stackedNotes=zMdKRBZStQ4tCJJhomSYxvG&stackedNotes=z5wZoGy72FafNGd1AHgtghs
+URL:
+  - "https://notes.andymatuschak.org/zQgeXp15RWkzyiUv9WQsLtA?stackedNotes=zMdKRBZStQ4tCJJhomSYxvG&stackedNotes=z5wZoGy72FafNGd1AHgtghs"
 title: "The Reflective Practitioner - Donald Schön"
 ---
 # The Reflective Practitioner - Donald Schön

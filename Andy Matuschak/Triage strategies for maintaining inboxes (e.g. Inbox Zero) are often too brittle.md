@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zQvwwb95vzcHcpow3GWy5Wi?stackedNotes=zJ5Yzvba2729XKXivBBZ91J&stackedNotes=z2Pg1CbUyvjV4jEoqmr8Xua
+URL:
+  - "https://notes.andymatuschak.org/zQvwwb95vzcHcpow3GWy5Wi?stackedNotes=zJ5Yzvba2729XKXivBBZ91J&stackedNotes=z2Pg1CbUyvjV4jEoqmr8Xua"
 title: "Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle"
 ---
 # Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle

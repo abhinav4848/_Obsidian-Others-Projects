@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zSoTbuyrXFnDHibaSeEzPRx
+URL:
+  - "https://notes.andymatuschak.org/zSoTbuyrXFnDHibaSeEzPRx"
 title: "Asking people questions while they read a text improves performance on untested contents"
 ---
 # Asking people questions while they read a text improves performance on untested contents

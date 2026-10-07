@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zWAH46Pd3DWGrfdiU8bV25A?stackedNotes=zNVVrcxnkjk7pCabiBvaic1&stackedNotes=zqetsQERteJhyPitmRoaeE
+URL:
+  - "https://notes.andymatuschak.org/zWAH46Pd3DWGrfdiU8bV25A?stackedNotes=zNVVrcxnkjk7pCabiBvaic1&stackedNotes=zqetsQERteJhyPitmRoaeE"
 title: "Effects of the mnemonic medium on reader memory"
 ---
 # Effects of the mnemonic medium on reader memory

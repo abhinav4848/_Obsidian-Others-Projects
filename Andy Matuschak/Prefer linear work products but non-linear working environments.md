@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z6qBF9B8jKGQ37EH8WJsVju
+URL:
+  - "https://notes.andymatuschak.org/z6qBF9B8jKGQ37EH8WJsVju"
 title: "Prefer linear work products but non-linear working environments"
 ---
 # Prefer linear work products but non-linear working environments

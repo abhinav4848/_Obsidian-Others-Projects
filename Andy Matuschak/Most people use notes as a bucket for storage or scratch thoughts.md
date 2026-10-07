@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zKGjQtsTKgscAoq271ZzKqw?stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB
+URL:
+  - "https://notes.andymatuschak.org/zKGjQtsTKgscAoq271ZzKqw?stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB"
 title: "Most people use notes as a bucket for storage or scratch thoughts"
 ---
 # Most people use notes as a bucket for storage or scratch thoughts

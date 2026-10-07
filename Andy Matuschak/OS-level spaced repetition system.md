@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zPtcwHaKGoLEZRzSoScYXha?stackedNotes=z9hscgkG2TeqgUtu3vAEW3U&stackedNotes=zNLoqjEVe5dheMKmTTyB9E3
+URL:
+  - "https://notes.andymatuschak.org/zPtcwHaKGoLEZRzSoScYXha?stackedNotes=z9hscgkG2TeqgUtu3vAEW3U&stackedNotes=zNLoqjEVe5dheMKmTTyB9E3"
 title: "OS-level spaced repetition system"
 ---
 # OS-level spaced repetition system

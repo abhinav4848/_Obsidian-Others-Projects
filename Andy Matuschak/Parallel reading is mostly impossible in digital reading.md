@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z4aipv9wyMg4qZGANaVjkrJ?stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zBeBbzwU8LAyi2D5jqBJpS
+URL:
+  - "https://notes.andymatuschak.org/z4aipv9wyMg4qZGANaVjkrJ?stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zBeBbzwU8LAyi2D5jqBJpS"
 title: "Parallel reading is mostly impossible in digital reading"
 ---
 # Parallel reading is mostly impossible in digital reading

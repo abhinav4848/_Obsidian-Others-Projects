@@ -1,0 +1,76 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Prefer_explicit_associations_to_inferred_associations",
+  "checked_at": "2026-10-07T22:28:45.798151+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/z8Ubad66AWp7ZLShUmRu3vu",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "z8Ubad66AWp7ZLShUmRu3vu": {
+        "data": {
+          "slug": "z8Ubad66AWp7ZLShUmRu3vu",
+          "title": "Prefer explicit associations to inferred associations",
+          "contentMarkdown": "# Prefer explicit associations to inferred associations\n\nWhen building an interconnected personal knowledge base (e.g. [[zF8xCU4BwXwbmSyp7tmff9i:::Evergreen notes should be densely linked]]), is it critical to build all the associations by hand? Tools like DEVONthink use machine learning to suggest “related” notes. And on the web, one’s history (perhaps even contextualized within a single tab’s timeline) can suggest some relationships between content. Or: can we just use search functionality when we want to navigate around a set of ideas?\n\nTools like these can be helpful for scaffolding the associative process, and they can serve as a second place to look for linkages, but we shouldn’t rely on them to do all the work.\n\nFirst: the process of thinking about the relationships between items is part of how you can  [[zLdprTyt7Ca2z2LUGLtFMSs:::Do your own thinking]]. It forces you to engage with new material more deeply.\n\nSecond: you want your associations to be high-signal so that you don’t have to try to evaluate some unordered list of links. Being able to quickly evaluate such a list without navigating among the items requires that you remember what all those items contain. Tightly-curated associations will be higher-signal.\n\nThird: your terminology will evolve over time, so text-based linkages aren’t going to help long-term.\n\n---\n\n## References\n\nAhrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.\n\n> Even though the Zettelkasten makes suggestions here, too, for example based on joint literature references, making good cross-references is a matter of serious thinking and a crucial part of the development of thoughts.\n\n> In the Zettelkasten, keywords can easily be added to a note like tags and will then show up in the index. They should be chosen carefully and sparsely. Luhmann would add the number of one or two (rarely more) notes next to a keyword in the index (Schmidt 2013, 171).\n\n[Why You Should Set Links Manually and Not Rely on Search Alone • Zettelkasten Method](https://zettelkasten.de/posts/search-alone-is-not-enough/)\n\n> It’s unlikely you write notes today as you did 6 years ago. You use different terms.\n>\n> Every full text search presents tons of Zettel notes. Because all are seemingly equal (and connected in the same way: not at all), you have to either rely on your memory to distinguish useful from useless notes, or look through all of them every time.\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Tags are an ineffective association structure",
+              "linkingNoteSlug": "zojJRcfGstU2Ss6JRMzd15",
+              "contextBlocks": [
+                "Some of those items are more relevant to a particular tag’s topic than others, so we should [[z8Ubad66AWp7ZLShUmRu3vu:::Prefer explicit associations to inferred associations]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "How to Take Smart Notes - Ahrens",
+              "linkingNoteSlug": "zH7AVUkqYYK7xmoAn8PTpAV",
+              "contextBlocks": [
+                "We should beware automatic linkages. [[z8Ubad66AWp7ZLShUmRu3vu:::Prefer explicit associations to inferred associations]]"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zF8xCU4BwXwbmSyp7tmff9i",
+            "zLdprTyt7Ca2z2LUGLtFMSs"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "z8Ubad66AWp7ZLShUmRu3vu",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "z8Ubad66AWp7ZLShUmRu3vu",
+      "title": "Prefer explicit associations to inferred associations",
+      "contentMarkdown": "# Prefer explicit associations to inferred associations\n\nWhen building an interconnected personal knowledge base (e.g. [[zF8xCU4BwXwbmSyp7tmff9i:::Evergreen notes should be densely linked]]), is it critical to build all the associations by hand? Tools like DEVONthink use machine learning to suggest “related” notes. And on the web, one’s history (perhaps even contextualized within a single tab’s timeline) can suggest some relationships between content. Or: can we just use search functionality when we want to navigate around a set of ideas?\n\nTools like these can be helpful for scaffolding the associative process, and they can serve as a second place to look for linkages, but we shouldn’t rely on them to do all the work.\n\nFirst: the process of thinking about the relationships between items is part of how you can  [[zLdprTyt7Ca2z2LUGLtFMSs:::Do your own thinking]]. It forces you to engage with new material more deeply.\n\nSecond: you want your associations to be high-signal so that you don’t have to try to evaluate some unordered list of links. Being able to quickly evaluate such a list without navigating among the items requires that you remember what all those items contain. Tightly-curated associations will be higher-signal.\n\nThird: your terminology will evolve over time, so text-based linkages aren’t going to help long-term.\n\n---\n\n## References\n\nAhrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.\n\n> Even though the Zettelkasten makes suggestions here, too, for example based on joint literature references, making good cross-references is a matter of serious thinking and a crucial part of the development of thoughts.\n\n> In the Zettelkasten, keywords can easily be added to a note like tags and will then show up in the index. They should be chosen carefully and sparsely. Luhmann would add the number of one or two (rarely more) notes next to a keyword in the index (Schmidt 2013, 171).\n\n[Why You Should Set Links Manually and Not Rely on Search Alone • Zettelkasten Method](https://zettelkasten.de/posts/search-alone-is-not-enough/)\n\n> It’s unlikely you write notes today as you did 6 years ago. You use different terms.\n>\n> Every full text search presents tons of Zettel notes. Because all are seemingly equal (and connected in the same way: not at all), you have to either rely on your memory to distinguish useful from useless notes, or look through all of them every time.\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Tags are an ineffective association structure",
+          "linkingNoteSlug": "zojJRcfGstU2Ss6JRMzd15",
+          "contextBlocks": [
+            "Some of those items are more relevant to a particular tag’s topic than others, so we should [[z8Ubad66AWp7ZLShUmRu3vu:::Prefer explicit associations to inferred associations]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "How to Take Smart Notes - Ahrens",
+          "linkingNoteSlug": "zH7AVUkqYYK7xmoAn8PTpAV",
+          "contextBlocks": [
+            "We should beware automatic linkages. [[z8Ubad66AWp7ZLShUmRu3vu:::Prefer explicit associations to inferred associations]]"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zF8xCU4BwXwbmSyp7tmff9i",
+        "zLdprTyt7Ca2z2LUGLtFMSs"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

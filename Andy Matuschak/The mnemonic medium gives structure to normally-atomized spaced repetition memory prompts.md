@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z6sX7ZcYdPiya3SzQ5segaq?stackedNotes=zWWh96dE6YZYmDCoo37977X&stackedNotes=z8e98xn7t5QNHr5cf8oqjbJ
+URL:
+  - "https://notes.andymatuschak.org/z6sX7ZcYdPiya3SzQ5segaq?stackedNotes=zWWh96dE6YZYmDCoo37977X&stackedNotes=z8e98xn7t5QNHr5cf8oqjbJ"
 title: "The mnemonic medium gives structure to normally-atomized spaced repetition memory prompts"
 ---
 # The mnemonic medium gives structure to normally-atomized spaced repetition memory prompts

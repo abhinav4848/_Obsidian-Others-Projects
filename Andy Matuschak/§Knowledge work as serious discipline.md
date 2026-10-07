@@ -1,5 +1,7 @@
 ---
 title: "§Knowledge work as serious discipline"
+URL:
+  - "https://notes.andymatuschak.org/zAVF3mepMcuTWVUJaeHTL77"
 ---
 # §Knowledge work as serious discipline
 - [[Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do]]

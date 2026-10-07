@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX"
+URL:
+  - "https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX"
 title: "Evergreen Notes"
 ---
 # Evergreen Notes

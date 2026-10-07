@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zLButXjJvGCpWKHzqhXEhhm
+URL:
+  - "https://notes.andymatuschak.org/zLButXjJvGCpWKHzqhXEhhm"
 title: "2023-06-30 Patreon letter - Reading comprehension and memory systems"
 ---
 # 2023-06-30 Patreon letter - Reading comprehension and memory systems

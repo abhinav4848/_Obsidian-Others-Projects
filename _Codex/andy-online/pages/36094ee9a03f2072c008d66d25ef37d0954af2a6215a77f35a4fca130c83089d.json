@@ -1,0 +1,136 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Evergreen_notes_lower_the_emotional_stakes_in_editing_manuscripts",
+  "checked_at": "2026-10-07T22:28:39.623847+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zSKD44o2VTbQuQYqmjupo4B",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zSKD44o2VTbQuQYqmjupo4B": {
+        "data": {
+          "slug": "zSKD44o2VTbQuQYqmjupo4B",
+          "title": "Evergreen notes lower the emotional stakes in editing manuscripts",
+          "contentMarkdown": "# Evergreen notes lower the emotional stakes in editing manuscripts\n\nIn writing, it can be painful to “kill one’s darlings.” It may make the effort involved in writing those sections feel wasted. It may also create open loops (see [[zFuk9QqspNYHAgvzZc33ZGH:::Close open loops]]): you may feel that you want to make sure you want to publish those ideas *somewhere,* so now you have to remember that section (or keep track of the snippet) somewhere so that you can remember to include it in another manuscript.\n\nBut if one uses the note-based [[zCknixwETdFm1MWdWPwMcXs:::Executable strategy for writing]], then much of the work goes into writing [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]]. Material which isn’t essential for a particular piece can become a durable note, seeding a network of links ([[zF8xCU4BwXwbmSyp7tmff9i:::Evergreen notes should be densely linked]]) and contributing to future insight (see [[z4EXkuLjdBrBZe7PVAGXc5a:::Evergreen note-writing helps insight accumulate]]). Or if it needs more development, it can be added to one’s writing inbox ([[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]).\n\nThis is a more narrow example of a more general observation: [[zDGk8tvVDD1mbTgpMMB5UGh:::Release valves for non-linear thought may support improved linear output]].\n\nIn fact, if you use the “undirected” executable strategy for writing (in which your writing mostly emerges from preexisting notes), then most of the text wasn’t even written *for* that manuscript. So who cares if some of it is deleted from the manuscript?\n\nRelated: [[z4xE8FBHhDo5pTvJuCBPRYC:::Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences]]\n\n---\n\n## References\n\nAhrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.\n\n> One of the most difficult tasks is to rigorously delete what has no function within an argument – “kill your darlings.”[42] This becomes much easier when you move the questionable passages into another document and tell yourself you might use them later.\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Executable strategy for writing",
+              "linkingNoteSlug": "zCknixwETdFm1MWdWPwMcXs",
+              "contextBlocks": [
+                "One other nice benefit of this approach: [[zSKD44o2VTbQuQYqmjupo4B:::Evergreen notes lower the emotional stakes in editing manuscripts]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Release valves for non-linear thought may support improved linear output",
+              "linkingNoteSlug": "zDGk8tvVDD1mbTgpMMB5UGh",
+              "contextBlocks": [
+                "Likewise, in a [[zSzTnYqKsHgyS8ExW92gUpU:::Hypertext]] [[zGKtrhpZ3hS8bw8UGL8hMTP:::Note-writing system]], tangential thoughts can always be captured in another note and linked in: [[zSKD44o2VTbQuQYqmjupo4B:::Evergreen notes lower the emotional stakes in editing manuscripts]]. But this benefit isn’t necessarily about building up a well-connected ontology (as described in [[zF8xCU4BwXwbmSyp7tmff9i:::Evergreen notes should be densely linked]]); it’s more about maintaining hygiene and attention."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "§Note-writing systems",
+              "linkingNoteSlug": "zEZi3ytBhZHHweRYNAosQ1g",
+              "contextBlocks": [
+                "[[zSKD44o2VTbQuQYqmjupo4B:::Evergreen notes lower the emotional stakes in editing manuscripts]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "How to Take Smart Notes - Ahrens",
+              "linkingNoteSlug": "zH7AVUkqYYK7xmoAn8PTpAV",
+              "contextBlocks": [
+                "Zettelkasten is a great release valve for editing. Material which isn’t essential for a particular piece can become a durable note, providing value later. Or, flipping this around, if the writing *began* with the note archive, then there’s no harm in deleting manuscript material, since it lives on elsewhere. [[zSKD44o2VTbQuQYqmjupo4B:::Evergreen notes lower the emotional stakes in editing manuscripts]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "§Knowledge work as serious discipline",
+              "linkingNoteSlug": "zAVF3mepMcuTWVUJaeHTL77",
+              "contextBlocks": [
+                "[[zSKD44o2VTbQuQYqmjupo4B:::Evergreen notes lower the emotional stakes in editing manuscripts]]"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zFuk9QqspNYHAgvzZc33ZGH",
+            "zCknixwETdFm1MWdWPwMcXs",
+            "z5E5QawiXCMbtNtupvxeoEX",
+            "zF8xCU4BwXwbmSyp7tmff9i",
+            "z4EXkuLjdBrBZe7PVAGXc5a",
+            "zUP4GuzPF33dWkZPiu9N6V5",
+            "zDGk8tvVDD1mbTgpMMB5UGh",
+            "z4xE8FBHhDo5pTvJuCBPRYC"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zSKD44o2VTbQuQYqmjupo4B",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zSKD44o2VTbQuQYqmjupo4B",
+      "title": "Evergreen notes lower the emotional stakes in editing manuscripts",
+      "contentMarkdown": "# Evergreen notes lower the emotional stakes in editing manuscripts\n\nIn writing, it can be painful to “kill one’s darlings.” It may make the effort involved in writing those sections feel wasted. It may also create open loops (see [[zFuk9QqspNYHAgvzZc33ZGH:::Close open loops]]): you may feel that you want to make sure you want to publish those ideas *somewhere,* so now you have to remember that section (or keep track of the snippet) somewhere so that you can remember to include it in another manuscript.\n\nBut if one uses the note-based [[zCknixwETdFm1MWdWPwMcXs:::Executable strategy for writing]], then much of the work goes into writing [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]]. Material which isn’t essential for a particular piece can become a durable note, seeding a network of links ([[zF8xCU4BwXwbmSyp7tmff9i:::Evergreen notes should be densely linked]]) and contributing to future insight (see [[z4EXkuLjdBrBZe7PVAGXc5a:::Evergreen note-writing helps insight accumulate]]). Or if it needs more development, it can be added to one’s writing inbox ([[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]).\n\nThis is a more narrow example of a more general observation: [[zDGk8tvVDD1mbTgpMMB5UGh:::Release valves for non-linear thought may support improved linear output]].\n\nIn fact, if you use the “undirected” executable strategy for writing (in which your writing mostly emerges from preexisting notes), then most of the text wasn’t even written *for* that manuscript. So who cares if some of it is deleted from the manuscript?\n\nRelated: [[z4xE8FBHhDo5pTvJuCBPRYC:::Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences]]\n\n---\n\n## References\n\nAhrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.\n\n> One of the most difficult tasks is to rigorously delete what has no function within an argument – “kill your darlings.”[42] This becomes much easier when you move the questionable passages into another document and tell yourself you might use them later.\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Executable strategy for writing",
+          "linkingNoteSlug": "zCknixwETdFm1MWdWPwMcXs",
+          "contextBlocks": [
+            "One other nice benefit of this approach: [[zSKD44o2VTbQuQYqmjupo4B:::Evergreen notes lower the emotional stakes in editing manuscripts]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Release valves for non-linear thought may support improved linear output",
+          "linkingNoteSlug": "zDGk8tvVDD1mbTgpMMB5UGh",
+          "contextBlocks": [
+            "Likewise, in a [[zSzTnYqKsHgyS8ExW92gUpU:::Hypertext]] [[zGKtrhpZ3hS8bw8UGL8hMTP:::Note-writing system]], tangential thoughts can always be captured in another note and linked in: [[zSKD44o2VTbQuQYqmjupo4B:::Evergreen notes lower the emotional stakes in editing manuscripts]]. But this benefit isn’t necessarily about building up a well-connected ontology (as described in [[zF8xCU4BwXwbmSyp7tmff9i:::Evergreen notes should be densely linked]]); it’s more about maintaining hygiene and attention."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "§Note-writing systems",
+          "linkingNoteSlug": "zEZi3ytBhZHHweRYNAosQ1g",
+          "contextBlocks": [
+            "[[zSKD44o2VTbQuQYqmjupo4B:::Evergreen notes lower the emotional stakes in editing manuscripts]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "How to Take Smart Notes - Ahrens",
+          "linkingNoteSlug": "zH7AVUkqYYK7xmoAn8PTpAV",
+          "contextBlocks": [
+            "Zettelkasten is a great release valve for editing. Material which isn’t essential for a particular piece can become a durable note, providing value later. Or, flipping this around, if the writing *began* with the note archive, then there’s no harm in deleting manuscript material, since it lives on elsewhere. [[zSKD44o2VTbQuQYqmjupo4B:::Evergreen notes lower the emotional stakes in editing manuscripts]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "§Knowledge work as serious discipline",
+          "linkingNoteSlug": "zAVF3mepMcuTWVUJaeHTL77",
+          "contextBlocks": [
+            "[[zSKD44o2VTbQuQYqmjupo4B:::Evergreen notes lower the emotional stakes in editing manuscripts]]"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zFuk9QqspNYHAgvzZc33ZGH",
+        "zCknixwETdFm1MWdWPwMcXs",
+        "z5E5QawiXCMbtNtupvxeoEX",
+        "zF8xCU4BwXwbmSyp7tmff9i",
+        "z4EXkuLjdBrBZe7PVAGXc5a",
+        "zUP4GuzPF33dWkZPiu9N6V5",
+        "zDGk8tvVDD1mbTgpMMB5UGh",
+        "z4xE8FBHhDo5pTvJuCBPRYC"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

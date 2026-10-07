@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zJsAFwrLCXymvs33Lsm95ub
+URL:
+  - "https://notes.andymatuschak.org/zJsAFwrLCXymvs33Lsm95ub"
 title: "Operant conditioning"
 ---
 # Operant conditioning

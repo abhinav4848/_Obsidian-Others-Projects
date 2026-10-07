@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z7EQ2nVGus5B1rS9CqT18g6?stackedNotes=z7vdiuQK7HuFyi4V5EemF3e
+URL:
+  - "https://notes.andymatuschak.org/z7EQ2nVGus5B1rS9CqT18g6?stackedNotes=z7vdiuQK7HuFyi4V5EemF3e"
 title: "Tool-makers usually lack connection to a serious context of use"
 ---
 # Tool-makers usually lack connection to a serious context of use

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zQeW31KRF1tk2zCPPGWc7UD
+URL:
+  - "https://notes.andymatuschak.org/zQeW31KRF1tk2zCPPGWc7UD"
 title: "Salience of improvement drives skill development"
 ---
 # Salience of improvement drives skill development

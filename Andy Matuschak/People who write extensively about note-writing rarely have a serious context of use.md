@@ -1,5 +1,7 @@
 ---
 title: "People who write extensively about note-writing rarely have a serious context of use"
+URL:
+  - "https://notes.andymatuschak.org/z51q8prEJzs5Jqa5WPThYoV"
 ---
 # People who write extensively about note-writing rarely have a serious context of use
 Many bloggers and “life-hackers” have made a full-time job of suggesting how you should organize your journal, or how you should most effectively [[Write about what you read to internalize texts deeply]]

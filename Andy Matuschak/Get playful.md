@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z5zoV8TdSds59vQEkqp3JEz?stackedNotes=zQ48c3CqTAtpJJ2itF7Uu85
+URL:
+  - "https://notes.andymatuschak.org/z5zoV8TdSds59vQEkqp3JEz?stackedNotes=zQ48c3CqTAtpJJ2itF7Uu85"
 title: "Get playful"
 ---
 # Get playful

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z9TuEpnqEtLdy2TWWVicLsU
+URL:
+  - "https://notes.andymatuschak.org/z9TuEpnqEtLdy2TWWVicLsU"
 title: "Inappropriate time pressures often harm creative work"
 ---
 # Inappropriate time pressures often harm creative work

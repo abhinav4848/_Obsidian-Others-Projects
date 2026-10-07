@@ -1,0 +1,140 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/My_morning_writing_practice",
+  "checked_at": "2026-10-07T22:28:44.794696+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zHTevHGZQPu8QHpRhUmtsuK",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zHTevHGZQPu8QHpRhUmtsuK": {
+        "data": {
+          "slug": "zHTevHGZQPu8QHpRhUmtsuK",
+          "title": "My morning writing practice",
+          "contentMarkdown": "# My morning writing practice\n\nAs part of my [[zSve33D7x1qe5WUjojDcM9y:::My daily routine]], mornings are often spent writing and revising [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]]. This is typically the most challenging work I do all day, so I like to do it when I have the most clarity and focus. It’s not for “note-taking” in a traditional sense—writing down other people’s ideas, or recording things that happened—it’s for developing ideas. (i.e. [[zNQV445UEcyLXVsRVgoVSfv:::Most people use notes as a bucket for storage or scratch thoughts]] vs. [[z4EXkuLjdBrBZe7PVAGXc5a:::Evergreen note-writing helps insight accumulate]])\n\nUnless I have something in mind that I’m particularly excited to write about, I usually begin by opening my writing inbox ([[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]) and flipping through those prompts and incomplete notes. If any strike me, I’ll draft [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]] about them.  This may happen over multiple days: I may flesh out a note considerably, then run out of steam and leave it in my inbox to finish another day.\n\nIf my inbox is relatively low, I’ll get out my memo pad ([[z2iksmfhifvy5a16Abv5MUW:::Pocket memo pad to capture into writing inbox while out]]) and fill my inbox with those notes. I don’t force it: if none of the prompts seem interesting, I’ll archive the ones which seem most boring and move on.\n\nAfter working through my writing inbox, I’ll focus my attention on my primary creative projects and ask myself prompts like:\n\n*   what are the most important unknowns for this project?\n*   what new ideas am I excited about?\n*   what are the most interesting things I know about this project?\n\nFor these prompts, I’ll use my [[zXRs9fj5BuX5FmrQzPxqWUs:::Daily working log]] as a scratch space, splatting a dozen or so one-liners into a haphazard bulleted list. After emptying my head, I’ll write about any that seem interesting. Usually that leads to rabbit holes which consume the rest of the session. I’ll add promising stragglers to my writing inbox for future days.\n\nIf those prompts don’t feel fruitful, I’ll use the time to [[zB74H9CuWrosEuqve7jZyCo:::Write about what you read to internalize texts deeply]]. I’ve usually got a backlog of books and articles I’ve read but for which I haven’t yet written [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]]. If the prompts don’t feel fruitful for several days in a row, that’s a sign that I need to shake things up: my inputs aren’t high-variance enough, or I’m not giving myself the right kind of creative space, or I may need to re-evaluate my projects. My writing inbox should always feel like a cornucopia.\n\nI take 5-minute breaks to get up and move around every 25 minutes, but even with those breaks, I usually can’t continue this practice longer than 2-3 hours. Sometimes I can do another session later in the day.\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Similarities and differences between evergreen note-writing and Zettelkasten",
+              "linkingNoteSlug": "zQvwwb95vzcHcpow3GWy5Wi",
+              "contextBlocks": [
+                "a concrete daily practice: [[zHTevHGZQPu8QHpRhUmtsuK:::My morning writing practice]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "A writing inbox for transient and incomplete notes",
+              "linkingNoteSlug": "zUP4GuzPF33dWkZPiu9N6V5",
+              "contextBlocks": [
+                "I use a “writing inbox” for this purpose. Undeveloped ideas, excerpts from my [[zXRs9fj5BuX5FmrQzPxqWUs:::Daily working log]], notes from reading, one-line prompts, etc all begin in that queue. During [[zHTevHGZQPu8QHpRhUmtsuK:::My morning writing practice]], I’ll look through notes in this inbox and spend time developing any that strike me. On most days, I spend the majority of my writing time in this way."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Pocket memo pad to capture into writing inbox while out",
+              "linkingNoteSlug": "z2iksmfhifvy5a16Abv5MUW",
+              "contextBlocks": [
+                "These notes don’t stay in the memo pad: it’s effectively an inbox which feeds [[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]. Intermittently, during [[zHTevHGZQPu8QHpRhUmtsuK:::My morning writing practice]], I process memo pad notes by developing them into [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]], by transferring them into my writing inbox, or by discarding them."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "My daily routine",
+              "linkingNoteSlug": "zSve33D7x1qe5WUjojDcM9y",
+              "contextBlocks": [
+                "Details here vary depending on my projects and their status. Sometimes it’ll be [[zHTevHGZQPu8QHpRhUmtsuK:::My morning writing practice]]; sometimes it’s designing or building prototypes; sometimes it’s reading through a stack of material about something I’m trying to understand."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "About these notes",
+              "linkingNoteSlug": "zWfAoTKF7wKKivTbh7kQLPK",
+              "contextBlocks": [
+                "These notes are mostly written for myself: they’re roughly my thinking environment ([[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]]; [[zHTevHGZQPu8QHpRhUmtsuK:::My morning writing practice]]). But I’m sharing them publicly as an experiment ([[zCMhncA1iSE74MKKYQS5PBZ:::Work with the garage door up]]). If a note seems confusing or under-explained, it’s probably because I didn’t write it for you! Sorry—that’s sort of an essential tension of this experiment ([[zXDPrYcxUSZbF5M8vM5Y1U9:::Write notes for yourself by default, disregarding audience]])."
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zSve33D7x1qe5WUjojDcM9y",
+            "z5E5QawiXCMbtNtupvxeoEX",
+            "zNQV445UEcyLXVsRVgoVSfv",
+            "z4EXkuLjdBrBZe7PVAGXc5a",
+            "zUP4GuzPF33dWkZPiu9N6V5",
+            "z5E5QawiXCMbtNtupvxeoEX",
+            "z2iksmfhifvy5a16Abv5MUW",
+            "zXRs9fj5BuX5FmrQzPxqWUs",
+            "zB74H9CuWrosEuqve7jZyCo",
+            "z5E5QawiXCMbtNtupvxeoEX"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zHTevHGZQPu8QHpRhUmtsuK",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zHTevHGZQPu8QHpRhUmtsuK",
+      "title": "My morning writing practice",
+      "contentMarkdown": "# My morning writing practice\n\nAs part of my [[zSve33D7x1qe5WUjojDcM9y:::My daily routine]], mornings are often spent writing and revising [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]]. This is typically the most challenging work I do all day, so I like to do it when I have the most clarity and focus. It’s not for “note-taking” in a traditional sense—writing down other people’s ideas, or recording things that happened—it’s for developing ideas. (i.e. [[zNQV445UEcyLXVsRVgoVSfv:::Most people use notes as a bucket for storage or scratch thoughts]] vs. [[z4EXkuLjdBrBZe7PVAGXc5a:::Evergreen note-writing helps insight accumulate]])\n\nUnless I have something in mind that I’m particularly excited to write about, I usually begin by opening my writing inbox ([[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]) and flipping through those prompts and incomplete notes. If any strike me, I’ll draft [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]] about them.  This may happen over multiple days: I may flesh out a note considerably, then run out of steam and leave it in my inbox to finish another day.\n\nIf my inbox is relatively low, I’ll get out my memo pad ([[z2iksmfhifvy5a16Abv5MUW:::Pocket memo pad to capture into writing inbox while out]]) and fill my inbox with those notes. I don’t force it: if none of the prompts seem interesting, I’ll archive the ones which seem most boring and move on.\n\nAfter working through my writing inbox, I’ll focus my attention on my primary creative projects and ask myself prompts like:\n\n*   what are the most important unknowns for this project?\n*   what new ideas am I excited about?\n*   what are the most interesting things I know about this project?\n\nFor these prompts, I’ll use my [[zXRs9fj5BuX5FmrQzPxqWUs:::Daily working log]] as a scratch space, splatting a dozen or so one-liners into a haphazard bulleted list. After emptying my head, I’ll write about any that seem interesting. Usually that leads to rabbit holes which consume the rest of the session. I’ll add promising stragglers to my writing inbox for future days.\n\nIf those prompts don’t feel fruitful, I’ll use the time to [[zB74H9CuWrosEuqve7jZyCo:::Write about what you read to internalize texts deeply]]. I’ve usually got a backlog of books and articles I’ve read but for which I haven’t yet written [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]]. If the prompts don’t feel fruitful for several days in a row, that’s a sign that I need to shake things up: my inputs aren’t high-variance enough, or I’m not giving myself the right kind of creative space, or I may need to re-evaluate my projects. My writing inbox should always feel like a cornucopia.\n\nI take 5-minute breaks to get up and move around every 25 minutes, but even with those breaks, I usually can’t continue this practice longer than 2-3 hours. Sometimes I can do another session later in the day.\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Similarities and differences between evergreen note-writing and Zettelkasten",
+          "linkingNoteSlug": "zQvwwb95vzcHcpow3GWy5Wi",
+          "contextBlocks": [
+            "a concrete daily practice: [[zHTevHGZQPu8QHpRhUmtsuK:::My morning writing practice]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "A writing inbox for transient and incomplete notes",
+          "linkingNoteSlug": "zUP4GuzPF33dWkZPiu9N6V5",
+          "contextBlocks": [
+            "I use a “writing inbox” for this purpose. Undeveloped ideas, excerpts from my [[zXRs9fj5BuX5FmrQzPxqWUs:::Daily working log]], notes from reading, one-line prompts, etc all begin in that queue. During [[zHTevHGZQPu8QHpRhUmtsuK:::My morning writing practice]], I’ll look through notes in this inbox and spend time developing any that strike me. On most days, I spend the majority of my writing time in this way."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Pocket memo pad to capture into writing inbox while out",
+          "linkingNoteSlug": "z2iksmfhifvy5a16Abv5MUW",
+          "contextBlocks": [
+            "These notes don’t stay in the memo pad: it’s effectively an inbox which feeds [[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]. Intermittently, during [[zHTevHGZQPu8QHpRhUmtsuK:::My morning writing practice]], I process memo pad notes by developing them into [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]], by transferring them into my writing inbox, or by discarding them."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "My daily routine",
+          "linkingNoteSlug": "zSve33D7x1qe5WUjojDcM9y",
+          "contextBlocks": [
+            "Details here vary depending on my projects and their status. Sometimes it’ll be [[zHTevHGZQPu8QHpRhUmtsuK:::My morning writing practice]]; sometimes it’s designing or building prototypes; sometimes it’s reading through a stack of material about something I’m trying to understand."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "About these notes",
+          "linkingNoteSlug": "zWfAoTKF7wKKivTbh7kQLPK",
+          "contextBlocks": [
+            "These notes are mostly written for myself: they’re roughly my thinking environment ([[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]]; [[zHTevHGZQPu8QHpRhUmtsuK:::My morning writing practice]]). But I’m sharing them publicly as an experiment ([[zCMhncA1iSE74MKKYQS5PBZ:::Work with the garage door up]]). If a note seems confusing or under-explained, it’s probably because I didn’t write it for you! Sorry—that’s sort of an essential tension of this experiment ([[zXDPrYcxUSZbF5M8vM5Y1U9:::Write notes for yourself by default, disregarding audience]])."
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zSve33D7x1qe5WUjojDcM9y",
+        "z5E5QawiXCMbtNtupvxeoEX",
+        "zNQV445UEcyLXVsRVgoVSfv",
+        "z4EXkuLjdBrBZe7PVAGXc5a",
+        "zUP4GuzPF33dWkZPiu9N6V5",
+        "z5E5QawiXCMbtNtupvxeoEX",
+        "z2iksmfhifvy5a16Abv5MUW",
+        "zXRs9fj5BuX5FmrQzPxqWUs",
+        "zB74H9CuWrosEuqve7jZyCo",
+        "z5E5QawiXCMbtNtupvxeoEX"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

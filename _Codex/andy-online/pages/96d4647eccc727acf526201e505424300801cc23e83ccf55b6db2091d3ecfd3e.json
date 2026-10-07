@@ -1,0 +1,58 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Some_people_have_extraordinary_energy_for_creative_work",
+  "checked_at": "2026-10-07T22:28:47.420041+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zLxj4xVQa4ZQNH2kgX4NTaT",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zLxj4xVQa4ZQNH2kgX4NTaT": {
+        "data": {
+          "slug": "zLxj4xVQa4ZQNH2kgX4NTaT",
+          "title": "Some people have extraordinary energy for creative work",
+          "contentMarkdown": "# Some people have extraordinary energy for creative work\n\nContra [[zEjyrAtUG7LbgKYWCBC1fpT:::It’s hard to do difficult creative work for more than a few hours a day]]:\n\n*   From [Stephen Malina - Energetic Aliens](https://stephenmalina.com/post/2021-07-01-energetic-aliens-among-us/):\n    *   George Church\n    *   many key discoveries, founded many companies, many side projects\n    *   worked 100 hour weeks in the lab during grad school\n    *   forgets to eat for days if no one reminds him\n    *   Lee Hood\n    *   kept 18 hour workdays, starting each with running a few miles and doing 100 push-ups\n    *   did scientific reading until 11PM or midnight, then slept 4-6 hours\n    *   Napoleon\n    *   supposedly slept 4 hours per night, but one secretary suggests it was more like 7\n    *   verbally dictated dozens to hundreds of letters per day\n    *   “simultaneously an accomplished general, politician, lawmaker, and art critic”\n    *   Robert Moses\n    *   worked 12-14 hour days, including weekends\n    *   “Every morning there would be a manila envelope this thick, and six girls .would be working all day to do the things he had done overnight”\n    *   Grothendieck\n    *   spent 10-12 hours a day doing math at a blackboard\n    *   eventually burnt out, went ~crazy\n    *   Erdos\n    *   allegedly worked 19 hours a day, needed only 3 hours of sleep\n    *   used amphetamines (benzedrine, ritalin)\n        *   Upon succeeding at a challenge to avoid amphetamines for a month, Erdos told the friend who’d issued the challenge (from Daily Rituals): “You’ve shown me I’m not an addict. But I didn’t get any work done. I’d get up in the morning and stare at a blank piece of paper. I’d have no ideas, just like an ordinary person. You’ve set mathematics back a month.”\n    *   Donald Knuth\n    *   “Knuth seems to have been able to do very difficult cognitive work for many hours while chronically sleep deprived”\n    *   wrote an ALGOL compiler in a summer, including the manual in the last night\n    *   got a PhD at Caltech while employed at 40hr/wk!\n        *   (but got lucky in some sense by finding a solution to an open problem in just two hours)\n    *   Asimov\n    *   Write hundreds of books—his last hundred in just 69 months!\n    *   Wrote from 7:30 AM to 10 PM.\n    *   Honore de Balzac\n    *   Wrote 4 books per year, 15-16 hours per day\n    *   Consumed 50 cups of coffee per day (?!)\n    *   Danielle Steel\n    *   Romance novelist, published 179 books (>3/year, 7/year peak)\n    *   “I work, on average, 20 hours a day. Sometimes 22.”\n    *   John Carmack\n    *   60 hours a week of focused work\n    *   reports needing 8 hours of sleep to function\n*   Andy Josephson\n    *   chair of Neurology journal, head of UCSF neurology department\n    *   still an active clinician\n    *   responds to all emails in &lt;5m somehow\n\n---\n\nQ. Name two examples of mathematicians with unusual amounts of energy/stamina.\nA. Grothendieck, Erdös, Donald Knuth\n\nQ. Name two examples of scientists with unusual energy/stamina.\nA. George Church, Lee Hood, Donald Knuth\n\nQ. Name two examples of politicians with unusual energy/stamina.\nA. Robert Moses, Napoleon, LBJ\n\nQ. Name two examples of authors with unusual energy/stamina.\nA. Isaac Asimov, Honore de Balzac, Danielle Steel\n\nQ. In what sense was Isaac Asimov unusually productive as an author?\nA. He published more than three hundred novels, averaging more than one per month for much of that time.\n\nQ. [[Kanjun Qiu]]’s theory of how these people have so much energy?\nA. They’ve overcome [[Many people find difficult creative work mostly unpleasant in the moment]], find the creative work deeply joyful.\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "It’s hard to do difficult creative work for more than a few hours a day",
+              "linkingNoteSlug": "zEjyrAtUG7LbgKYWCBC1fpT",
+              "contextBlocks": [
+                "This surprisingly low limit is a common trope among writers, who often write in a focused session in the morning, then spend the rest of the day doing other tasks and relaxing. And yet… this is not always true: [[zLxj4xVQa4ZQNH2kgX4NTaT:::Some people have extraordinary energy for creative work]]"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zEjyrAtUG7LbgKYWCBC1fpT"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zLxj4xVQa4ZQNH2kgX4NTaT",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zLxj4xVQa4ZQNH2kgX4NTaT",
+      "title": "Some people have extraordinary energy for creative work",
+      "contentMarkdown": "# Some people have extraordinary energy for creative work\n\nContra [[zEjyrAtUG7LbgKYWCBC1fpT:::It’s hard to do difficult creative work for more than a few hours a day]]:\n\n*   From [Stephen Malina - Energetic Aliens](https://stephenmalina.com/post/2021-07-01-energetic-aliens-among-us/):\n    *   George Church\n    *   many key discoveries, founded many companies, many side projects\n    *   worked 100 hour weeks in the lab during grad school\n    *   forgets to eat for days if no one reminds him\n    *   Lee Hood\n    *   kept 18 hour workdays, starting each with running a few miles and doing 100 push-ups\n    *   did scientific reading until 11PM or midnight, then slept 4-6 hours\n    *   Napoleon\n    *   supposedly slept 4 hours per night, but one secretary suggests it was more like 7\n    *   verbally dictated dozens to hundreds of letters per day\n    *   “simultaneously an accomplished general, politician, lawmaker, and art critic”\n    *   Robert Moses\n    *   worked 12-14 hour days, including weekends\n    *   “Every morning there would be a manila envelope this thick, and six girls .would be working all day to do the things he had done overnight”\n    *   Grothendieck\n    *   spent 10-12 hours a day doing math at a blackboard\n    *   eventually burnt out, went ~crazy\n    *   Erdos\n    *   allegedly worked 19 hours a day, needed only 3 hours of sleep\n    *   used amphetamines (benzedrine, ritalin)\n        *   Upon succeeding at a challenge to avoid amphetamines for a month, Erdos told the friend who’d issued the challenge (from Daily Rituals): “You’ve shown me I’m not an addict. But I didn’t get any work done. I’d get up in the morning and stare at a blank piece of paper. I’d have no ideas, just like an ordinary person. You’ve set mathematics back a month.”\n    *   Donald Knuth\n    *   “Knuth seems to have been able to do very difficult cognitive work for many hours while chronically sleep deprived”\n    *   wrote an ALGOL compiler in a summer, including the manual in the last night\n    *   got a PhD at Caltech while employed at 40hr/wk!\n        *   (but got lucky in some sense by finding a solution to an open problem in just two hours)\n    *   Asimov\n    *   Write hundreds of books—his last hundred in just 69 months!\n    *   Wrote from 7:30 AM to 10 PM.\n    *   Honore de Balzac\n    *   Wrote 4 books per year, 15-16 hours per day\n    *   Consumed 50 cups of coffee per day (?!)\n    *   Danielle Steel\n    *   Romance novelist, published 179 books (>3/year, 7/year peak)\n    *   “I work, on average, 20 hours a day. Sometimes 22.”\n    *   John Carmack\n    *   60 hours a week of focused work\n    *   reports needing 8 hours of sleep to function\n*   Andy Josephson\n    *   chair of Neurology journal, head of UCSF neurology department\n    *   still an active clinician\n    *   responds to all emails in &lt;5m somehow\n\n---\n\nQ. Name two examples of mathematicians with unusual amounts of energy/stamina.\nA. Grothendieck, Erdös, Donald Knuth\n\nQ. Name two examples of scientists with unusual energy/stamina.\nA. George Church, Lee Hood, Donald Knuth\n\nQ. Name two examples of politicians with unusual energy/stamina.\nA. Robert Moses, Napoleon, LBJ\n\nQ. Name two examples of authors with unusual energy/stamina.\nA. Isaac Asimov, Honore de Balzac, Danielle Steel\n\nQ. In what sense was Isaac Asimov unusually productive as an author?\nA. He published more than three hundred novels, averaging more than one per month for much of that time.\n\nQ. [[Kanjun Qiu]]’s theory of how these people have so much energy?\nA. They’ve overcome [[Many people find difficult creative work mostly unpleasant in the moment]], find the creative work deeply joyful.\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "It’s hard to do difficult creative work for more than a few hours a day",
+          "linkingNoteSlug": "zEjyrAtUG7LbgKYWCBC1fpT",
+          "contextBlocks": [
+            "This surprisingly low limit is a common trope among writers, who often write in a focused session in the morning, then spend the rest of the day doing other tasks and relaxing. And yet… this is not always true: [[zLxj4xVQa4ZQNH2kgX4NTaT:::Some people have extraordinary energy for creative work]]"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zEjyrAtUG7LbgKYWCBC1fpT"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zRW4hZmuiYpg2vbedUScDVU
+URL:
+  - "https://notes.andymatuschak.org/zRW4hZmuiYpg2vbedUScDVU"
 title: "Kevin Kelly"
 ---
 # Kevin Kelly

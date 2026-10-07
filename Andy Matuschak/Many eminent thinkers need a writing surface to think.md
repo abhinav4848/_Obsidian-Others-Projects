@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z2Nv3jADtpYcgbCXww7nSEG?stackedNotes=z12PGwFx275xTmGHazNgQbn&stackedNotes=zGEw4kJNMh8aK19aD2NyV6r
+URL:
+  - "https://notes.andymatuschak.org/z2Nv3jADtpYcgbCXww7nSEG?stackedNotes=z12PGwFx275xTmGHazNgQbn&stackedNotes=zGEw4kJNMh8aK19aD2NyV6r"
 title: "Many eminent thinkers need a writing surface to think"
 ---
 # Many eminent thinkers need a writing surface to think

@@ -1,5 +1,7 @@
 ---
 title: "Cloze Deletion"
+URL:
+  - "https://supermemo.guru/wiki/Cloze_deletion"
 ---
 # Cloze Deletion
 Category talked about: Learning, Note taking

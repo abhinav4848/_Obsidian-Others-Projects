@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zSiuztCZ594AZuCweRghcXT
+URL:
+  - "https://notes.andymatuschak.org/zSiuztCZ594AZuCweRghcXT"
 title: "Spaced repetition memory prompts should be written to discourage shallow “pattern matching”"
 ---
 # Spaced repetition memory prompts should be written to discourage shallow “pattern matching”

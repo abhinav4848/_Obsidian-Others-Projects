@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zKtYU4Uk7aTCGyqHr9Ca3Sb&stackedNotes=zaDSgGYrcUSuQty6WSMm2H
+URL:
+  - "https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zKtYU4Uk7aTCGyqHr9Ca3Sb&stackedNotes=zaDSgGYrcUSuQty6WSMm2H"
 title: "Most experimental psychology on learning involves people learning things they don’t care about"
 ---
 # Most experimental psychology on learning involves people learning things they don’t care about

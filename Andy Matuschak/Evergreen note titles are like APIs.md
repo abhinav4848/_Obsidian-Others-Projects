@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z4EXkuLjdBrBZe7PVAGXc5a?stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k
+URL:
+  - "https://notes.andymatuschak.org/z4EXkuLjdBrBZe7PVAGXc5a?stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k"
 title: "Evergreen note titles are like APIs"
 ---
 # Evergreen note titles are like APIs

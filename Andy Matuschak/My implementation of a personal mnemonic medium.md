@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z8kPkXQZ3wVR5DfJ79uhnuz?stackedNotes=z6sX7ZcYdPiya3SzQ5segaq
+URL:
+  - "https://notes.andymatuschak.org/z8kPkXQZ3wVR5DfJ79uhnuz?stackedNotes=z6sX7ZcYdPiya3SzQ5segaq"
 title: "My implementation of a personal mnemonic medium"
 ---
 # My implementation of a personal mnemonic medium

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zKRrv2DmKp3VyDEp3oXrKXQ&stackedNotes=zCQuiDgcNqncwB6pTvhdRWk
+URL:
+  - "https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zKRrv2DmKp3VyDEp3oXrKXQ&stackedNotes=zCQuiDgcNqncwB6pTvhdRWk"
 title: "The mnemonic medium keeps readers in contact with material over time"
 ---
 # The mnemonic medium keeps readers in contact with material over time

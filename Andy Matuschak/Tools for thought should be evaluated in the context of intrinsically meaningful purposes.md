@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zKtYU4Uk7aTCGyqHr9Ca3Sb
+URL:
+  - "https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zKtYU4Uk7aTCGyqHr9Ca3Sb"
 title: "Tools for thought should be evaluated in the context of intrinsically meaningful purposes"
 ---
 # Tools for thought should be evaluated in the context of intrinsically meaningful purposes

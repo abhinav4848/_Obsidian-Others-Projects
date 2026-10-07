@@ -1,5 +1,7 @@
 ---
 title: "Spaced repetition memory systems can be used to develop conceptual understanding"
+URL:
+  - "https://notes.andymatuschak.org/z9Vi7YVx7NzxU2wawNgsJbk"
 ---
 # Spaced repetition memory systems can be used to develop conceptual understanding
 Memory is normally something which happens by chance. Often, it feels a bit like the object of a helpless prayer: you might be reading a book, and think to yourself “oh boy, I’d better remember this.”

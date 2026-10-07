@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/zHwr5v9VJGX3MzHyzz4V8wt"
+URL:
+  - "https://notes.andymatuschak.org/zHwr5v9VJGX3MzHyzz4V8wt"
 title: "Incremental reading"
 ---
 # Incremental reading

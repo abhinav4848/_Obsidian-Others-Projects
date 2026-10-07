@@ -1,0 +1,212 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Spaced_repetition_may_be_a_helpful_tool_to_incrementally_develop_inklings",
+  "checked_at": "2026-10-07T22:28:47.803893+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zSK4LyrCbG9zDrdCWmcovUW",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zSK4LyrCbG9zDrdCWmcovUW": {
+        "data": {
+          "slug": "zSK4LyrCbG9zDrdCWmcovUW",
+          "title": "Spaced repetition may be a helpful tool to incrementally develop inklings",
+          "contentMarkdown": "# Spaced repetition may be a helpful tool to incrementally develop inklings\n\nI’m often struck by an interesting question or notion in conversation or on a walk. In many cases, I can’t write anything terribly insightful on that topic in that moment: I certainly can’t write a good [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]]. I don’t have anything useful to say about the notion yet—it just seems awfully interesting.\n\nWhat action should I take now? How can I arrange to develop that inkling over time? I could create a “to-do” or block out time to think about this question, but that’s often not what’s called for. Instead, often what I need is marination: let’s come back in a few days, see what bubbles up.\n\nI can capture the notion in [[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]], but it’ll rapidly become a pile of unwieldy scraps which I’ll come to ignore ([[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]]).\n\n[[zB92WZZ5baBHKZPPbWMbYEv:::Spaced repetition systems can be used to program attention]], so such mechanisms might be helpful here. In such a system, I might:\n\n*   Sit down to my morning writing and see a small handful of writing prompts for the day, drawn from my writing inbox\n*   I can choose to append whatever’s top of mind about any of them (perhaps they obscure what was written previously until I’ve added new material)\n*   Once I’ve done that, I can mark the prompt as “fruitful,” meaning it’ll come up again relatively soon, or “unfruitful,” in which case the system will increase its interval substantially.\n*   Alternately, I might take a moment to convert one of these prompts into one or more [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]].\n*   Any prompts which I simply ignore will have their intervals increased, but perhaps not as substantially as explicitly-unfruitful prompts.\n\nBy taking advantage of the exponential nature of spaced repetition intervals, one could make incremental progress on potentially hundreds of prompts, while considering only a few on any given day. \n\nThis would represent a system for *incremental thinking.*\n\nRelated: [[z4EXkuLjdBrBZe7PVAGXc5a:::Evergreen note-writing helps insight accumulate]].\n\n## Implementations\n\nRice Issa has published [a simple implementation](https://github.com/riceissa/spaced-inbox).\n\n---\n\n## References\n\nMatuschak, A. (2019, December). *Taking knowledge work seriously*. Presented at the Stripe Convergence, San Francisco.\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Spaced repetition systems can be used to program attention",
+              "linkingNoteSlug": "zB92WZZ5baBHKZPPbWMbYEv",
+              "contextBlocks": [
+                "[[zSK4LyrCbG9zDrdCWmcovUW:::Spaced repetition may be a helpful tool to incrementally develop inklings]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Evergreen note-writing helps insight accumulate",
+              "linkingNoteSlug": "z4EXkuLjdBrBZe7PVAGXc5a",
+              "contextBlocks": [
+                "And if you can’t write even one atomic note on the idea you have, [[zSK4LyrCbG9zDrdCWmcovUW:::Spaced repetition may be a helpful tool to incrementally develop inklings]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Similarities and differences between evergreen note-writing and Zettelkasten",
+              "linkingNoteSlug": "zQvwwb95vzcHcpow3GWy5Wi",
+              "contextBlocks": [
+                "a method for systematically revisiting questions and proto-notes over time: [[zSK4LyrCbG9zDrdCWmcovUW:::Spaced repetition may be a helpful tool to incrementally develop inklings]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "OS-level spaced repetition system",
+              "linkingNoteSlug": "zNLoqjEVe5dheMKmTTyB9E3",
+              "contextBlocks": [
+                "For example, you can raise your smart watch today and say: “remind me to write about my idea that SRS could be framed as an OS-level service.” That’s a one-time reminder. But with this OS-level SRS, you could raise your watch and say: “remember to reflect: what novel contexts might benefit from an OS-level SRS service?” That would create not a one-time “to-do” but a prompt for repeated reflection over time. (See [[zSK4LyrCbG9zDrdCWmcovUW:::Spaced repetition may be a helpful tool to incrementally develop inklings]] for more.)"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Evergreen notes are a safe place to develop wild ideas",
+              "linkingNoteSlug": "zE92ANLEszr5pwoYatKzka8",
+              "contextBlocks": [
+                "The idea doesn’t even initially have to be related to any pre-existing line of thought. But over time, you can incrementally connect it to other concepts, old or new. See also: [[zSK4LyrCbG9zDrdCWmcovUW:::Spaced repetition may be a helpful tool to incrementally develop inklings]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Taxonomy of note types",
+              "linkingNoteSlug": "zTDjZQbKAT9pALtsk2HfePx",
+              "contextBlocks": [
+                "Prompts and incomplete notes in writing inbox ([[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]), which are meant to possibly become [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]]. These prompts may accumulate writing over time via spaced repetition (see [[zSK4LyrCbG9zDrdCWmcovUW:::Spaced repetition may be a helpful tool to incrementally develop inklings]])"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "§Taking knowledge work seriously (Stripe convergence talk, 2019-12-12)",
+              "linkingNoteSlug": "zBmSSpM1WfFDehxNCBcqSZp",
+              "contextBlocks": [
+                "[[zSK4LyrCbG9zDrdCWmcovUW:::Spaced repetition may be a helpful tool to incrementally develop inklings]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "§Note-writing systems",
+              "linkingNoteSlug": "zEZi3ytBhZHHweRYNAosQ1g",
+              "contextBlocks": [
+                "[[zSK4LyrCbG9zDrdCWmcovUW:::Spaced repetition may be a helpful tool to incrementally develop inklings]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "§Inboxes and attention management",
+              "linkingNoteSlug": "zShQzFXDGrA1bTMCnbM9Qud",
+              "contextBlocks": [
+                "[[zSK4LyrCbG9zDrdCWmcovUW:::Spaced repetition may be a helpful tool to incrementally develop inklings]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "§Knowledge work as serious discipline",
+              "linkingNoteSlug": "zAVF3mepMcuTWVUJaeHTL77",
+              "contextBlocks": [
+                "[[zSK4LyrCbG9zDrdCWmcovUW:::Spaced repetition may be a helpful tool to incrementally develop inklings]]"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "z5E5QawiXCMbtNtupvxeoEX",
+            "zUP4GuzPF33dWkZPiu9N6V5",
+            "zGKqPvetpYbvbXmPmuuvfx8",
+            "zB92WZZ5baBHKZPPbWMbYEv",
+            "z5E5QawiXCMbtNtupvxeoEX",
+            "z4EXkuLjdBrBZe7PVAGXc5a"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zSK4LyrCbG9zDrdCWmcovUW",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zSK4LyrCbG9zDrdCWmcovUW",
+      "title": "Spaced repetition may be a helpful tool to incrementally develop inklings",
+      "contentMarkdown": "# Spaced repetition may be a helpful tool to incrementally develop inklings\n\nI’m often struck by an interesting question or notion in conversation or on a walk. In many cases, I can’t write anything terribly insightful on that topic in that moment: I certainly can’t write a good [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]]. I don’t have anything useful to say about the notion yet—it just seems awfully interesting.\n\nWhat action should I take now? How can I arrange to develop that inkling over time? I could create a “to-do” or block out time to think about this question, but that’s often not what’s called for. Instead, often what I need is marination: let’s come back in a few days, see what bubbles up.\n\nI can capture the notion in [[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]], but it’ll rapidly become a pile of unwieldy scraps which I’ll come to ignore ([[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]]).\n\n[[zB92WZZ5baBHKZPPbWMbYEv:::Spaced repetition systems can be used to program attention]], so such mechanisms might be helpful here. In such a system, I might:\n\n*   Sit down to my morning writing and see a small handful of writing prompts for the day, drawn from my writing inbox\n*   I can choose to append whatever’s top of mind about any of them (perhaps they obscure what was written previously until I’ve added new material)\n*   Once I’ve done that, I can mark the prompt as “fruitful,” meaning it’ll come up again relatively soon, or “unfruitful,” in which case the system will increase its interval substantially.\n*   Alternately, I might take a moment to convert one of these prompts into one or more [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]].\n*   Any prompts which I simply ignore will have their intervals increased, but perhaps not as substantially as explicitly-unfruitful prompts.\n\nBy taking advantage of the exponential nature of spaced repetition intervals, one could make incremental progress on potentially hundreds of prompts, while considering only a few on any given day. \n\nThis would represent a system for *incremental thinking.*\n\nRelated: [[z4EXkuLjdBrBZe7PVAGXc5a:::Evergreen note-writing helps insight accumulate]].\n\n## Implementations\n\nRice Issa has published [a simple implementation](https://github.com/riceissa/spaced-inbox).\n\n---\n\n## References\n\nMatuschak, A. (2019, December). *Taking knowledge work seriously*. Presented at the Stripe Convergence, San Francisco.\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Spaced repetition systems can be used to program attention",
+          "linkingNoteSlug": "zB92WZZ5baBHKZPPbWMbYEv",
+          "contextBlocks": [
+            "[[zSK4LyrCbG9zDrdCWmcovUW:::Spaced repetition may be a helpful tool to incrementally develop inklings]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Evergreen note-writing helps insight accumulate",
+          "linkingNoteSlug": "z4EXkuLjdBrBZe7PVAGXc5a",
+          "contextBlocks": [
+            "And if you can’t write even one atomic note on the idea you have, [[zSK4LyrCbG9zDrdCWmcovUW:::Spaced repetition may be a helpful tool to incrementally develop inklings]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Similarities and differences between evergreen note-writing and Zettelkasten",
+          "linkingNoteSlug": "zQvwwb95vzcHcpow3GWy5Wi",
+          "contextBlocks": [
+            "a method for systematically revisiting questions and proto-notes over time: [[zSK4LyrCbG9zDrdCWmcovUW:::Spaced repetition may be a helpful tool to incrementally develop inklings]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "OS-level spaced repetition system",
+          "linkingNoteSlug": "zNLoqjEVe5dheMKmTTyB9E3",
+          "contextBlocks": [
+            "For example, you can raise your smart watch today and say: “remind me to write about my idea that SRS could be framed as an OS-level service.” That’s a one-time reminder. But with this OS-level SRS, you could raise your watch and say: “remember to reflect: what novel contexts might benefit from an OS-level SRS service?” That would create not a one-time “to-do” but a prompt for repeated reflection over time. (See [[zSK4LyrCbG9zDrdCWmcovUW:::Spaced repetition may be a helpful tool to incrementally develop inklings]] for more.)"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Evergreen notes are a safe place to develop wild ideas",
+          "linkingNoteSlug": "zE92ANLEszr5pwoYatKzka8",
+          "contextBlocks": [
+            "The idea doesn’t even initially have to be related to any pre-existing line of thought. But over time, you can incrementally connect it to other concepts, old or new. See also: [[zSK4LyrCbG9zDrdCWmcovUW:::Spaced repetition may be a helpful tool to incrementally develop inklings]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Taxonomy of note types",
+          "linkingNoteSlug": "zTDjZQbKAT9pALtsk2HfePx",
+          "contextBlocks": [
+            "Prompts and incomplete notes in writing inbox ([[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]), which are meant to possibly become [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]]. These prompts may accumulate writing over time via spaced repetition (see [[zSK4LyrCbG9zDrdCWmcovUW:::Spaced repetition may be a helpful tool to incrementally develop inklings]])"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "§Taking knowledge work seriously (Stripe convergence talk, 2019-12-12)",
+          "linkingNoteSlug": "zBmSSpM1WfFDehxNCBcqSZp",
+          "contextBlocks": [
+            "[[zSK4LyrCbG9zDrdCWmcovUW:::Spaced repetition may be a helpful tool to incrementally develop inklings]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "§Note-writing systems",
+          "linkingNoteSlug": "zEZi3ytBhZHHweRYNAosQ1g",
+          "contextBlocks": [
+            "[[zSK4LyrCbG9zDrdCWmcovUW:::Spaced repetition may be a helpful tool to incrementally develop inklings]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "§Inboxes and attention management",
+          "linkingNoteSlug": "zShQzFXDGrA1bTMCnbM9Qud",
+          "contextBlocks": [
+            "[[zSK4LyrCbG9zDrdCWmcovUW:::Spaced repetition may be a helpful tool to incrementally develop inklings]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "§Knowledge work as serious discipline",
+          "linkingNoteSlug": "zAVF3mepMcuTWVUJaeHTL77",
+          "contextBlocks": [
+            "[[zSK4LyrCbG9zDrdCWmcovUW:::Spaced repetition may be a helpful tool to incrementally develop inklings]]"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "z5E5QawiXCMbtNtupvxeoEX",
+        "zUP4GuzPF33dWkZPiu9N6V5",
+        "zGKqPvetpYbvbXmPmuuvfx8",
+        "zB92WZZ5baBHKZPPbWMbYEv",
+        "z5E5QawiXCMbtNtupvxeoEX",
+        "z4EXkuLjdBrBZe7PVAGXc5a"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

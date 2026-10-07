@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zWSH2QNUsrTGP4V15JBaaEv?stackedNotes=zRWEWHx4cQyqQWRh26gp7ad&stackedNotes=zU3Cw3dParuur9TFVNJMiqS
+URL:
+  - "https://notes.andymatuschak.org/zWSH2QNUsrTGP4V15JBaaEv?stackedNotes=zRWEWHx4cQyqQWRh26gp7ad&stackedNotes=zU3Cw3dParuur9TFVNJMiqS"
 title: "Participatory environments support learning"
 ---
 # Participatory environments support learning

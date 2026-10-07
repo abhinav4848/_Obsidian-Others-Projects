@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z9Uq4yzBT1QaBU8twwyvm7P?stackedNotes=zV7ho8fLnyvPCGV3zpLFTHb
+URL:
+  - "https://notes.andymatuschak.org/z9Uq4yzBT1QaBU8twwyvm7P?stackedNotes=zV7ho8fLnyvPCGV3zpLFTHb"
 title: "How important is it to write your own spaced repetition memory prompts"
 ---
 # How important is it to write your own spaced repetition memory prompts

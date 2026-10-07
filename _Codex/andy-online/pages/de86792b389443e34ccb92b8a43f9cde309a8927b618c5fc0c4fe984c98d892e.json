@@ -1,0 +1,130 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Similarities_and_differences_between_evergreen_note-writing_and_Zettelkasten",
+  "checked_at": "2026-10-07T22:28:46.683395+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zQvwwb95vzcHcpow3GWy5Wi",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zQvwwb95vzcHcpow3GWy5Wi": {
+        "data": {
+          "slug": "zQvwwb95vzcHcpow3GWy5Wi",
+          "title": "Similarities and differences between evergreen note-writing and Zettelkasten",
+          "contentMarkdown": "# Similarities and differences between evergreen note-writing and Zettelkasten\n\nMy practice of writing [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]] is heavily inspired by Niklas Luhmann’s [[zDcuS8A5uxGR8hQygsqP83A:::Zettelkasten]] practice and its contemporary advocates. I use a different term both because there are some distinctions and because I want to give myself space to explore ideas in this space apart from the culture surrounding Zettelkasten, which has its own prior values and proclivities.\n\n## Key similarities:\n\n*   concept-orientation ([[z2hQEhqWkdRLL9JUwfawZZx:::Evergreen notes should be concept-oriented]])\n*   atomicity ([[zNUaiGAXp21eorsER1Jm9yU:::Evergreen notes should be atomic]])\n*   emphasis on linkage ([[zF8xCU4BwXwbmSyp7tmff9i:::Evergreen notes should be densely linked]])\n*   serendipity as a virtue ([[zYaWNLqGvd3uLPDXkhRoWoq:::Notes should surprise you]])\n*   the centrality of one’s own ideas and their development over time, rather than merely accumulating summaries of others’ ideas ([[zE92ANLEszr5pwoYatKzka8:::Evergreen notes are a safe place to develop wild ideas]], [[zLdprTyt7Ca2z2LUGLtFMSs:::Do your own thinking]], contra [[zQ6oSpDubYrrBB1WueNbzLb:::Commonplace books]])\n    *   emphasis on using one’s own words, even when describing others’ ideas ([[zB74H9CuWrosEuqve7jZyCo:::Write about what you read to internalize texts deeply]])\n\n## Key differences:\n\n*   My approach includes a few methods surrounding the note-writing which expand its scope:\n    *   a method for capturing scraps which would not yet qualify as Zettel, then revising them over time: [[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]\n    *   an unusual method for managing that inbox: [[zJ5Yzvba2729XKXivBBZ91J:::Spaced repetition can lower the stakes around destructive inbox-maintenance operations]]\n    *   a method for systematically revisiting questions and proto-notes over time: [[zSK4LyrCbG9zDrdCWmcovUW:::Spaced repetition may be a helpful tool to incrementally develop inklings]]\n    *   a concrete daily practice: [[zHTevHGZQPu8QHpRhUmtsuK:::My morning writing practice]]\n*   More generally, my approach uses a broader [[zTDjZQbKAT9pALtsk2HfePx:::Taxonomy of note types]] which describes a hierarchy and methodology for capturing ideas very early and incrementally developing clusters of notes into increasingly higher-level representations. By contrast, Zettels are mostly meant to represent a few “middle” levels of this hierarchy.\n    *   Titles are very important indexes in my system. Zettels normally have numeric identifiers; modern adherents may give their notes titles, but apparently not with the same approach of “creating APIs.” [[zDh1yhNFQNxDEre12B4zd8k:::Evergreen note titles are like APIs]]\n*   [[zQtMfVrh8x4paaZv7MTp1Em:::Contextual backlinks]] significantly change the nature of “links,” allowing emergent behaviors like [[zL9q21MA7ygsKVfvn6FwBMq:::Backlinks can be used to implicitly define nodes in knowledge management systems]]\n*   I’ve embedded a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] into my notes: [[zWWh96dE6YZYmDCoo37977X:::The mnemonic medium can be extended to one’s personal notes]]. This has substantially changed the medium, but in ways I don’t yet understand very well.\n*   My notes are publicly accessible, and I integrate them into public conversation. I don’t understand the impact of this practice yet, but it certainly changes my relationship to the notes in a significant way and creates valuable discussion. There are likely some interesting networked intelligence angles here. I know of no prominent “live” public Zettelkasten. Luhmann’s is archived, but that’s a different relationship—he’s not using it in conversation, then using that interaction to inform his writing.\n\nOne final difference, this one a touch pointy: the primary purpose of my system is to develop ideas in my core creative projects. Most people in the contemporary Zettelkasten culture seem to use their systems primarily to write notes about others’ ideas. If they’re developing their own ideas with them, those ideas are an interesting hobby, not their core creative work. All this falls afoul of the issues around [[z51q8prEJzs5Jqa5WPThYoV:::People who write extensively about note-writing rarely have a serious context of use]]. I don’t know how, exactly, but my context of use substantially shapes the note-writing practice.\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Evergreen notes",
+              "linkingNoteSlug": "z5E5QawiXCMbtNtupvxeoEX",
+              "contextBlocks": [
+                "This concept is of course enormously indebted to the notion of a [[zDcuS8A5uxGR8hQygsqP83A:::Zettelkasten]]. See [[zQvwwb95vzcHcpow3GWy5Wi:::Similarities and differences between evergreen note-writing and Zettelkasten]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Zettelkasten",
+              "linkingNoteSlug": "zDcuS8A5uxGR8hQygsqP83A",
+              "contextBlocks": [
+                "See also: [[zQvwwb95vzcHcpow3GWy5Wi:::Similarities and differences between evergreen note-writing and Zettelkasten]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Bridge notes narrowly relate two adjacent terms",
+              "linkingNoteSlug": "zRxv4aMPUXowy5bPAiKPJEy",
+              "contextBlocks": [
+                "One solution is to create a note which relates your term of art to another similar term of art. This establishes a “bridge” between the theories, describing where you overlap and where you differ. The respective terminologies can maintain their “sovereignty” with their own main notes—the bridge note exists just to relate the two. For example: [[zQvwwb95vzcHcpow3GWy5Wi:::Similarities and differences between evergreen note-writing and Zettelkasten]]."
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "z5E5QawiXCMbtNtupvxeoEX",
+            "zDcuS8A5uxGR8hQygsqP83A",
+            "z2hQEhqWkdRLL9JUwfawZZx",
+            "zNUaiGAXp21eorsER1Jm9yU",
+            "zF8xCU4BwXwbmSyp7tmff9i",
+            "zYaWNLqGvd3uLPDXkhRoWoq",
+            "zE92ANLEszr5pwoYatKzka8",
+            "zLdprTyt7Ca2z2LUGLtFMSs",
+            "zQ6oSpDubYrrBB1WueNbzLb",
+            "zB74H9CuWrosEuqve7jZyCo",
+            "zUP4GuzPF33dWkZPiu9N6V5",
+            "zJ5Yzvba2729XKXivBBZ91J",
+            "zSK4LyrCbG9zDrdCWmcovUW",
+            "zHTevHGZQPu8QHpRhUmtsuK",
+            "zTDjZQbKAT9pALtsk2HfePx",
+            "zDh1yhNFQNxDEre12B4zd8k",
+            "zQtMfVrh8x4paaZv7MTp1Em",
+            "zL9q21MA7ygsKVfvn6FwBMq",
+            "z2D1qPwddPktBjpNuwYFVva",
+            "zWWh96dE6YZYmDCoo37977X",
+            "z51q8prEJzs5Jqa5WPThYoV"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zQvwwb95vzcHcpow3GWy5Wi",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zQvwwb95vzcHcpow3GWy5Wi",
+      "title": "Similarities and differences between evergreen note-writing and Zettelkasten",
+      "contentMarkdown": "# Similarities and differences between evergreen note-writing and Zettelkasten\n\nMy practice of writing [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]] is heavily inspired by Niklas Luhmann’s [[zDcuS8A5uxGR8hQygsqP83A:::Zettelkasten]] practice and its contemporary advocates. I use a different term both because there are some distinctions and because I want to give myself space to explore ideas in this space apart from the culture surrounding Zettelkasten, which has its own prior values and proclivities.\n\n## Key similarities:\n\n*   concept-orientation ([[z2hQEhqWkdRLL9JUwfawZZx:::Evergreen notes should be concept-oriented]])\n*   atomicity ([[zNUaiGAXp21eorsER1Jm9yU:::Evergreen notes should be atomic]])\n*   emphasis on linkage ([[zF8xCU4BwXwbmSyp7tmff9i:::Evergreen notes should be densely linked]])\n*   serendipity as a virtue ([[zYaWNLqGvd3uLPDXkhRoWoq:::Notes should surprise you]])\n*   the centrality of one’s own ideas and their development over time, rather than merely accumulating summaries of others’ ideas ([[zE92ANLEszr5pwoYatKzka8:::Evergreen notes are a safe place to develop wild ideas]], [[zLdprTyt7Ca2z2LUGLtFMSs:::Do your own thinking]], contra [[zQ6oSpDubYrrBB1WueNbzLb:::Commonplace books]])\n    *   emphasis on using one’s own words, even when describing others’ ideas ([[zB74H9CuWrosEuqve7jZyCo:::Write about what you read to internalize texts deeply]])\n\n## Key differences:\n\n*   My approach includes a few methods surrounding the note-writing which expand its scope:\n    *   a method for capturing scraps which would not yet qualify as Zettel, then revising them over time: [[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]\n    *   an unusual method for managing that inbox: [[zJ5Yzvba2729XKXivBBZ91J:::Spaced repetition can lower the stakes around destructive inbox-maintenance operations]]\n    *   a method for systematically revisiting questions and proto-notes over time: [[zSK4LyrCbG9zDrdCWmcovUW:::Spaced repetition may be a helpful tool to incrementally develop inklings]]\n    *   a concrete daily practice: [[zHTevHGZQPu8QHpRhUmtsuK:::My morning writing practice]]\n*   More generally, my approach uses a broader [[zTDjZQbKAT9pALtsk2HfePx:::Taxonomy of note types]] which describes a hierarchy and methodology for capturing ideas very early and incrementally developing clusters of notes into increasingly higher-level representations. By contrast, Zettels are mostly meant to represent a few “middle” levels of this hierarchy.\n    *   Titles are very important indexes in my system. Zettels normally have numeric identifiers; modern adherents may give their notes titles, but apparently not with the same approach of “creating APIs.” [[zDh1yhNFQNxDEre12B4zd8k:::Evergreen note titles are like APIs]]\n*   [[zQtMfVrh8x4paaZv7MTp1Em:::Contextual backlinks]] significantly change the nature of “links,” allowing emergent behaviors like [[zL9q21MA7ygsKVfvn6FwBMq:::Backlinks can be used to implicitly define nodes in knowledge management systems]]\n*   I’ve embedded a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] into my notes: [[zWWh96dE6YZYmDCoo37977X:::The mnemonic medium can be extended to one’s personal notes]]. This has substantially changed the medium, but in ways I don’t yet understand very well.\n*   My notes are publicly accessible, and I integrate them into public conversation. I don’t understand the impact of this practice yet, but it certainly changes my relationship to the notes in a significant way and creates valuable discussion. There are likely some interesting networked intelligence angles here. I know of no prominent “live” public Zettelkasten. Luhmann’s is archived, but that’s a different relationship—he’s not using it in conversation, then using that interaction to inform his writing.\n\nOne final difference, this one a touch pointy: the primary purpose of my system is to develop ideas in my core creative projects. Most people in the contemporary Zettelkasten culture seem to use their systems primarily to write notes about others’ ideas. If they’re developing their own ideas with them, those ideas are an interesting hobby, not their core creative work. All this falls afoul of the issues around [[z51q8prEJzs5Jqa5WPThYoV:::People who write extensively about note-writing rarely have a serious context of use]]. I don’t know how, exactly, but my context of use substantially shapes the note-writing practice.\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Evergreen notes",
+          "linkingNoteSlug": "z5E5QawiXCMbtNtupvxeoEX",
+          "contextBlocks": [
+            "This concept is of course enormously indebted to the notion of a [[zDcuS8A5uxGR8hQygsqP83A:::Zettelkasten]]. See [[zQvwwb95vzcHcpow3GWy5Wi:::Similarities and differences between evergreen note-writing and Zettelkasten]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Zettelkasten",
+          "linkingNoteSlug": "zDcuS8A5uxGR8hQygsqP83A",
+          "contextBlocks": [
+            "See also: [[zQvwwb95vzcHcpow3GWy5Wi:::Similarities and differences between evergreen note-writing and Zettelkasten]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Bridge notes narrowly relate two adjacent terms",
+          "linkingNoteSlug": "zRxv4aMPUXowy5bPAiKPJEy",
+          "contextBlocks": [
+            "One solution is to create a note which relates your term of art to another similar term of art. This establishes a “bridge” between the theories, describing where you overlap and where you differ. The respective terminologies can maintain their “sovereignty” with their own main notes—the bridge note exists just to relate the two. For example: [[zQvwwb95vzcHcpow3GWy5Wi:::Similarities and differences between evergreen note-writing and Zettelkasten]]."
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "z5E5QawiXCMbtNtupvxeoEX",
+        "zDcuS8A5uxGR8hQygsqP83A",
+        "z2hQEhqWkdRLL9JUwfawZZx",
+        "zNUaiGAXp21eorsER1Jm9yU",
+        "zF8xCU4BwXwbmSyp7tmff9i",
+        "zYaWNLqGvd3uLPDXkhRoWoq",
+        "zE92ANLEszr5pwoYatKzka8",
+        "zLdprTyt7Ca2z2LUGLtFMSs",
+        "zQ6oSpDubYrrBB1WueNbzLb",
+        "zB74H9CuWrosEuqve7jZyCo",
+        "zUP4GuzPF33dWkZPiu9N6V5",
+        "zJ5Yzvba2729XKXivBBZ91J",
+        "zSK4LyrCbG9zDrdCWmcovUW",
+        "zHTevHGZQPu8QHpRhUmtsuK",
+        "zTDjZQbKAT9pALtsk2HfePx",
+        "zDh1yhNFQNxDEre12B4zd8k",
+        "zQtMfVrh8x4paaZv7MTp1Em",
+        "zL9q21MA7ygsKVfvn6FwBMq",
+        "z2D1qPwddPktBjpNuwYFVva",
+        "zWWh96dE6YZYmDCoo37977X",
+        "z51q8prEJzs5Jqa5WPThYoV"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

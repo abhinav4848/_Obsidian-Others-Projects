@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zR6RRbCfY5rFkiimFnaJZKB?stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNqLdKMiTo9EHA9EWYGXs7b
+URL:
+  - "https://notes.andymatuschak.org/zR6RRbCfY5rFkiimFnaJZKB?stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNqLdKMiTo9EHA9EWYGXs7b"
 title: "Evergreen note-writing helps insight accumulate"
 ---
 # Evergreen note-writing helps insight accumulate

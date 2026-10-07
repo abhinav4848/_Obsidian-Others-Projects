@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zKGjQtsTKgscAoq271ZzKqw
+URL:
+  - "https://notes.andymatuschak.org/zKGjQtsTKgscAoq271ZzKqw"
 title: "Most people take only transient notes"
 ---
 # Most people take only transient notes

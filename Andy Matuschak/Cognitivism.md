@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zCyoCsqj8ZNUR7vfYKVCUu7
+URL:
+  - "https://notes.andymatuschak.org/zCyoCsqj8ZNUR7vfYKVCUu7"
 title: "Cognitivism"
 ---
 # Cognitivism

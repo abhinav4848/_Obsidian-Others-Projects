@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zNQV445UEcyLXVsRVgoVSfv?stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=zAf4oNSV9qB38ncSvYEZGAb
+URL:
+  - "https://notes.andymatuschak.org/zNQV445UEcyLXVsRVgoVSfv?stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=zAf4oNSV9qB38ncSvYEZGAb"
 title: "Better note-taking misses the point; what matters is “better thinking”"
 ---
 # Better note-taking misses the point; what matters is “better thinking”

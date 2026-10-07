@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z3QWwvfYS5exfZE53dKwt7r?stackedNotes=zK3Qi3FKpVtNp5Ss47d8136
+URL:
+  - "https://notes.andymatuschak.org/z3QWwvfYS5exfZE53dKwt7r?stackedNotes=zK3Qi3FKpVtNp5Ss47d8136"
 title: "Expertise requires building sophisticated chunk recoding schemes"
 ---
 # Expertise requires building sophisticated chunk recoding schemes

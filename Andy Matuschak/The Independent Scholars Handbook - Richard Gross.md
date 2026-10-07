@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z6Y1zo4evjFNUim1nHtL6Sv
+URL:
+  - "https://notes.andymatuschak.org/z6Y1zo4evjFNUim1nHtL6Sv"
 title: "The Independent Scholars Handbook - Richard Gross"
 ---
 # The Independent Scholars Handbook - Richard Gross

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/About_these_notes?stackedNotes=z611NYK3NCXzSWMbdZmuqXK&stackedNotes=zBcm1RNbzedjDMTt8rRxoWt
+URL:
+  - "https://notes.andymatuschak.org/About_these_notes?stackedNotes=z611NYK3NCXzSWMbdZmuqXK&stackedNotes=zBcm1RNbzedjDMTt8rRxoWt"
 title: "Mass mediums mostly lack an authored time dimension beyond a day"
 ---
 # Mass mediums mostly lack an authored time dimension beyond a day

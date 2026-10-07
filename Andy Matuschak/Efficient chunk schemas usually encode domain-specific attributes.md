@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zEwJDpZiu1YQoXYznxioznL?stackedNotes=zSQhVMNeFNGfggB9Pg6MMDX&stackedNotes=zDg4aPkDSdzDCNNetyitsr7
+URL:
+  - "https://notes.andymatuschak.org/zEwJDpZiu1YQoXYznxioznL?stackedNotes=zSQhVMNeFNGfggB9Pg6MMDX&stackedNotes=zDg4aPkDSdzDCNNetyitsr7"
 title: "Efficient chunk schemas usually encode domain-specific attributes"
 ---
 # Efficient chunk schemas usually encode domain-specific attributes

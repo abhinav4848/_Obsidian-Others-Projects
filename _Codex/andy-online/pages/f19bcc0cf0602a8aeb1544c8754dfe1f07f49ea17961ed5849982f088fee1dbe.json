@@ -1,0 +1,90 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Everything_takes_longer_than_you_think_it_will",
+  "checked_at": "2026-10-07T22:28:39.993941+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zWzai58V4EEmGDVHTEv7g61",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zWzai58V4EEmGDVHTEv7g61": {
+        "data": {
+          "slug": "zWzai58V4EEmGDVHTEv7g61",
+          "title": "Everything takes longer than you think it will",
+          "contentMarkdown": "# Everything takes longer than you think it will\n\n… so choose projects and their scope much more carefully, Andy.\n\nThis manifests in a number of ways and presents a number of challenges.\n\nOne challenge is that because my projects are very long, I’m often torn between diving deep into some element of the project—which often leaves me feeling frustrated that everything else remains frozen—and spreading myself thin trying to make progress on a lot of things at once. \n\nQ. What antidote does [[Ken Kocienda]] suggest to the problem of feeling frustrated about not being able to achieve both depth and breadth in creative projects?\nA. “The key question: What’s the most important thing I could be doing right now to make progress on the project? Do that. Don’t worry about the parts that remain frozen. If you keep answering the question, eventually, their time will come.” <https://twitter.com/kocienda/status/1422043864970326020>\n\nI like a variant [[zTXJ65qqaMUbMi95Ak4a3mu:::Joe Edelman]] proposes: “What would I be most proud to face today?”\n\nQ. [[David Holz]], paraphrasing advice from a research mentor: “projects either take ??? or ???.”\nA. three months / ten years ([[2023-08-13]])\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Non-identification",
+              "linkingNoteSlug": "z5URdYxJwnM5TVhQnbZER8b",
+              "contextBlocks": [
+                "See also [[z2xShjQ58nLW8XNuHqJgq14:::Not-self]]. It is possible to notice an impulse, thought, desire, aversion, concern, etc, without *identifying with* that sensation. That is: the relationship can become “I sense a feeling of impatience” (akin to hearing a sound from the street outside), rather than “I’m impatient” or even “I can’t believe this is taking so long” ([[zWzai58V4EEmGDVHTEv7g61:::Everything takes longer than you think it will]]). This practice is not about *ignoring* impulses—you still sense them and can choose to act on them—but rather about making them an object rather than a subject, removing them from the driver’s seat, etc."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Scheduling work in advance can help build estimation skill",
+              "linkingNoteSlug": "zJFrjocZCFCBCZjsm1o2bUM",
+              "contextBlocks": [
+                "I’m terrible at estimating how long things will take, whether it’s writing an email, implementing a feature, or designing an interaction. Some of this is the inherent uncertainty which comes from creative work. But much of it is simply that I’m bad at estimating. Almost everything takes longer than I think. This leads me to take on more projects than I should, to prioritize poorly, etc. With a more accurate appreciation of how long things actually take, I’d be a lot more conservative about saying yes to things. [[zWzai58V4EEmGDVHTEv7g61:::Everything takes longer than you think it will]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Four Thousand Weeks - Oliver Burkeman",
+              "linkingNoteSlug": "zSkiQC8doMdCAMwTeiXgjXx",
+              "contextBlocks": [
+                "Limit your work in progress. [[zWzai58V4EEmGDVHTEv7g61:::Everything takes longer than you think it will]], and context switching is expensive and awareness-draining."
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zTXJ65qqaMUbMi95Ak4a3mu"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zWzai58V4EEmGDVHTEv7g61",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zWzai58V4EEmGDVHTEv7g61",
+      "title": "Everything takes longer than you think it will",
+      "contentMarkdown": "# Everything takes longer than you think it will\n\n… so choose projects and their scope much more carefully, Andy.\n\nThis manifests in a number of ways and presents a number of challenges.\n\nOne challenge is that because my projects are very long, I’m often torn between diving deep into some element of the project—which often leaves me feeling frustrated that everything else remains frozen—and spreading myself thin trying to make progress on a lot of things at once. \n\nQ. What antidote does [[Ken Kocienda]] suggest to the problem of feeling frustrated about not being able to achieve both depth and breadth in creative projects?\nA. “The key question: What’s the most important thing I could be doing right now to make progress on the project? Do that. Don’t worry about the parts that remain frozen. If you keep answering the question, eventually, their time will come.” <https://twitter.com/kocienda/status/1422043864970326020>\n\nI like a variant [[zTXJ65qqaMUbMi95Ak4a3mu:::Joe Edelman]] proposes: “What would I be most proud to face today?”\n\nQ. [[David Holz]], paraphrasing advice from a research mentor: “projects either take ??? or ???.”\nA. three months / ten years ([[2023-08-13]])\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Non-identification",
+          "linkingNoteSlug": "z5URdYxJwnM5TVhQnbZER8b",
+          "contextBlocks": [
+            "See also [[z2xShjQ58nLW8XNuHqJgq14:::Not-self]]. It is possible to notice an impulse, thought, desire, aversion, concern, etc, without *identifying with* that sensation. That is: the relationship can become “I sense a feeling of impatience” (akin to hearing a sound from the street outside), rather than “I’m impatient” or even “I can’t believe this is taking so long” ([[zWzai58V4EEmGDVHTEv7g61:::Everything takes longer than you think it will]]). This practice is not about *ignoring* impulses—you still sense them and can choose to act on them—but rather about making them an object rather than a subject, removing them from the driver’s seat, etc."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Scheduling work in advance can help build estimation skill",
+          "linkingNoteSlug": "zJFrjocZCFCBCZjsm1o2bUM",
+          "contextBlocks": [
+            "I’m terrible at estimating how long things will take, whether it’s writing an email, implementing a feature, or designing an interaction. Some of this is the inherent uncertainty which comes from creative work. But much of it is simply that I’m bad at estimating. Almost everything takes longer than I think. This leads me to take on more projects than I should, to prioritize poorly, etc. With a more accurate appreciation of how long things actually take, I’d be a lot more conservative about saying yes to things. [[zWzai58V4EEmGDVHTEv7g61:::Everything takes longer than you think it will]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Four Thousand Weeks - Oliver Burkeman",
+          "linkingNoteSlug": "zSkiQC8doMdCAMwTeiXgjXx",
+          "contextBlocks": [
+            "Limit your work in progress. [[zWzai58V4EEmGDVHTEv7g61:::Everything takes longer than you think it will]], and context switching is expensive and awareness-draining."
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zTXJ65qqaMUbMi95Ak4a3mu"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

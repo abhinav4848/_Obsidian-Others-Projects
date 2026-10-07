@@ -1,5 +1,7 @@
 ---
 title: "Core practices in knowledge work are often ad-hoc"
+URL:
+  - "https://notes.andymatuschak.org/zPFYKBrsvL88opKh28UYxWv"
 ---
 # Core practices in knowledge work are often ad-hoc
 Knowledge workers’ routinely involves complex, underspecified tasks like understanding the basics of a new industry or writing a memo on some strategic consideration. Even when these responsibilities are core to their work, knowledge workers’ approach to these tasks is often ad-hoc—created on the spot based on past experience, instincts, aphorisms, and whim. These practices are the opposite of a [[Executable strategy]].

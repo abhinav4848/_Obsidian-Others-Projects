@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zWWh96dE6YZYmDCoo37977X?stackedNotes=z6sX7ZcYdPiya3SzQ5segaq&stackedNotes=zBy719GfxuM9x1FioHdUpNn
+URL:
+  - "https://notes.andymatuschak.org/zWWh96dE6YZYmDCoo37977X?stackedNotes=z6sX7ZcYdPiya3SzQ5segaq&stackedNotes=zBy719GfxuM9x1FioHdUpNn"
 title: "Channel capacity of humans as information processors"
 ---
 # Channel capacity of humans as information processors

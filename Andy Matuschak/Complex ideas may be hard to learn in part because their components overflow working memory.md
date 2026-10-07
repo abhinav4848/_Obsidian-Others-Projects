@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/z7JRyqSwVbW2a8U44w2RkR6"
+URL:
+  - "https://notes.andymatuschak.org/z7JRyqSwVbW2a8U44w2RkR6"
 title: "Complex ideas may be hard to learn in part because their components overflow working memory"
 ---
 # Complex ideas may be hard to learn in part because their components overflow working memory

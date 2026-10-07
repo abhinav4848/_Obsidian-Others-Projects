@@ -1,0 +1,164 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/zPrYC99kH227c1otipAefyQ",
+  "checked_at": "2026-10-07T22:30:58.213572+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zPrYC99kH227c1otipAefyQ",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zPrYC99kH227c1otipAefyQ": {
+        "data": {
+          "slug": "zPrYC99kH227c1otipAefyQ",
+          "title": "Novices in enabling environments often can’t do what’s enabled",
+          "contentMarkdown": "# Novices in enabling environments often can’t do what’s enabled\n\nNew participants in an [[z492hGrHvRvJiEY9UfB4Mby:::Enabling environment]] may not immediately be able to do what it enables. The typical solution is an abstract introductory experience: explanatory guides, onboarding classes, background readings, etc. These supports can help new participants eventually access what an environment enables, but they’re not ideal: [[z2etsLyP1LJUwNDPCwvRdUG:::Enabling environments focus on doing what’s enabled]].\n\nIt’s often possible to improve an environment’s design to support more immediate participation (e.g. with [[zWSH2QNUsrTGP4V15JBaaEv:::Cognitive scaffolding]]). One powerful design approach: [[zKubRcJXKjiCDPsPgJWckkP:::Enacted experiences can bootstrap active participation in enabling environments]].\n\n[[zL7XdosCZ9qeCSSCrhcYfwY:::Situated learning]] (see in particular [[zMhuu3pPa6FeNGYn3VfGCar:::Situated Learning - Lave and Wenger]]) suggests that this problem can be overcome through *legitimate peripheral participation*: you can usually do *part* of the thing, particularly if you’re sitting alongside an expert.\n\n---\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Enabling environments focus on doing what’s enabled",
+              "linkingNoteSlug": "z2etsLyP1LJUwNDPCwvRdUG",
+              "contextBlocks": [
+                "One challenge here is that [[zPrYC99kH227c1otipAefyQ:::Novices in enabling environments often can’t do what’s enabled]]. In fact, that’s part of what *keeps* novices novices. Once novices can participate to some extent, then the environment can integrate powerful dynamic scaffolds to enable them further (see [[zADYGiM6rnN6iTBHqVa6kiu:::Metacognitive supports require dynamic, participatory environments]]). For instance, a coach might suggest which exercises might best help an athlete achieve his goals on a given day ([[zL2zRTTRhWf1Lx4x9p2uCDt:::Metacognitive supports as cognitive scaffolding]]). Minecraft’s single-player experience builds players’ construction skills by hiding increasingly complex materials in locations which require progressive mastery to reach."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Enacted experiences can bootstrap active participation in enabling environments",
+              "linkingNoteSlug": "zKubRcJXKjiCDPsPgJWckkP",
+              "contextBlocks": [
+                "[[z2etsLyP1LJUwNDPCwvRdUG:::Enabling environments focus on doing what’s enabled]], but [[zPrYC99kH227c1otipAefyQ:::Novices in enabling environments often can’t do what’s enabled]]. A well-designed [[z92TGMiBsnraf5KXxSTNkBJ:::Enacted experience]] can allow participants to immediately experience *doing* what an environment enables."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Memory augmentation can accelerate the unpleasant early stages of learning a subject",
+              "linkingNoteSlug": "zQKe7JZs1CYqHBnLyDhMQYQ",
+              "contextBlocks": [
+                "One common negative reaction to working with a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] is: “I’d much rather get my hands dirty: then I’ll naturally end up remembering whatever’s important.” ([[z7d63BYfJrd81VFE25jkcDd:::Enabling environments focus on creating opportunities for growth and action, not on skill-building]]) But when you’re first interacting with a new subject, it’s hard to take any meaningful steps at all: at least for a while, you often can’t hold enough of the new terms and ideas in your head simultaneously long enough to do anything meaningful (related: [[zPrYC99kH227c1otipAefyQ:::Novices in enabling environments often can’t do what’s enabled]]). In this context, a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] can help by accelerating you through this awkward, unpleasant stage to the point where you can actually have a meaningful experience with the material (related: [[z3PJFWDZ7gar2ttawQTmBek:::Enabling environments’ activities directly serve an intrinsically meaningful purpose]])."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Designing new enabling environments can be framed as designing a University++",
+              "linkingNoteSlug": "zyjePyZ77P2BfdkRBuQB2x",
+              "contextBlocks": [
+                "to more effectively bootstrap novices into doing ([[zPrYC99kH227c1otipAefyQ:::Novices in enabling environments often can’t do what’s enabled]])"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "“Primer” is an unsituated framing",
+              "linkingNoteSlug": "zRsPEq4jnL4y1FXyPi27Epn",
+              "contextBlocks": [
+                "[[zPrYC99kH227c1otipAefyQ:::Novices in enabling environments often can’t do what’s enabled]] That’s a real design problem for communities of practice. But I think it can (usually? always?) be overcome. I want to adopt a frame which implies that aspiration; “primer” does not."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "§Enabling environments, games, and the Primer",
+              "linkingNoteSlug": "zGSGS1UHDogPKtvZB5hdT2A",
+              "contextBlocks": [
+                "Even though you don’t know what you’re doing as a founder ([[zPrYC99kH227c1otipAefyQ:::Novices in enabling environments often can’t do what’s enabled]]), YC’s systems give you enough support to participate authentically and hone your skills in this intense context:  [[zKubRcJXKjiCDPsPgJWckkP:::Enacted experiences can bootstrap active participation in enabling environments]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "The Knowledge Society",
+              "linkingNoteSlug": "zFGrSHb5JrAjXge3Rj776dF",
+              "contextBlocks": [
+                "In some sense, it’s really about trying to spread San Francisco intellectual culture. But in some sense, the approach seems too shallow—the stories are exciting, but they also have a clear element of cargo culting. But maybe it’s a reasonable approach to [[zPrYC99kH227c1otipAefyQ:::Novices in enabling environments often can’t do what’s enabled]]."
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "z492hGrHvRvJiEY9UfB4Mby",
+            "z2etsLyP1LJUwNDPCwvRdUG",
+            "zWSH2QNUsrTGP4V15JBaaEv",
+            "zKubRcJXKjiCDPsPgJWckkP",
+            "zL7XdosCZ9qeCSSCrhcYfwY",
+            "zMhuu3pPa6FeNGYn3VfGCar"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zPrYC99kH227c1otipAefyQ",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zPrYC99kH227c1otipAefyQ",
+      "title": "Novices in enabling environments often can’t do what’s enabled",
+      "contentMarkdown": "# Novices in enabling environments often can’t do what’s enabled\n\nNew participants in an [[z492hGrHvRvJiEY9UfB4Mby:::Enabling environment]] may not immediately be able to do what it enables. The typical solution is an abstract introductory experience: explanatory guides, onboarding classes, background readings, etc. These supports can help new participants eventually access what an environment enables, but they’re not ideal: [[z2etsLyP1LJUwNDPCwvRdUG:::Enabling environments focus on doing what’s enabled]].\n\nIt’s often possible to improve an environment’s design to support more immediate participation (e.g. with [[zWSH2QNUsrTGP4V15JBaaEv:::Cognitive scaffolding]]). One powerful design approach: [[zKubRcJXKjiCDPsPgJWckkP:::Enacted experiences can bootstrap active participation in enabling environments]].\n\n[[zL7XdosCZ9qeCSSCrhcYfwY:::Situated learning]] (see in particular [[zMhuu3pPa6FeNGYn3VfGCar:::Situated Learning - Lave and Wenger]]) suggests that this problem can be overcome through *legitimate peripheral participation*: you can usually do *part* of the thing, particularly if you’re sitting alongside an expert.\n\n---\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Enabling environments focus on doing what’s enabled",
+          "linkingNoteSlug": "z2etsLyP1LJUwNDPCwvRdUG",
+          "contextBlocks": [
+            "One challenge here is that [[zPrYC99kH227c1otipAefyQ:::Novices in enabling environments often can’t do what’s enabled]]. In fact, that’s part of what *keeps* novices novices. Once novices can participate to some extent, then the environment can integrate powerful dynamic scaffolds to enable them further (see [[zADYGiM6rnN6iTBHqVa6kiu:::Metacognitive supports require dynamic, participatory environments]]). For instance, a coach might suggest which exercises might best help an athlete achieve his goals on a given day ([[zL2zRTTRhWf1Lx4x9p2uCDt:::Metacognitive supports as cognitive scaffolding]]). Minecraft’s single-player experience builds players’ construction skills by hiding increasingly complex materials in locations which require progressive mastery to reach."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Enacted experiences can bootstrap active participation in enabling environments",
+          "linkingNoteSlug": "zKubRcJXKjiCDPsPgJWckkP",
+          "contextBlocks": [
+            "[[z2etsLyP1LJUwNDPCwvRdUG:::Enabling environments focus on doing what’s enabled]], but [[zPrYC99kH227c1otipAefyQ:::Novices in enabling environments often can’t do what’s enabled]]. A well-designed [[z92TGMiBsnraf5KXxSTNkBJ:::Enacted experience]] can allow participants to immediately experience *doing* what an environment enables."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Memory augmentation can accelerate the unpleasant early stages of learning a subject",
+          "linkingNoteSlug": "zQKe7JZs1CYqHBnLyDhMQYQ",
+          "contextBlocks": [
+            "One common negative reaction to working with a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] is: “I’d much rather get my hands dirty: then I’ll naturally end up remembering whatever’s important.” ([[z7d63BYfJrd81VFE25jkcDd:::Enabling environments focus on creating opportunities for growth and action, not on skill-building]]) But when you’re first interacting with a new subject, it’s hard to take any meaningful steps at all: at least for a while, you often can’t hold enough of the new terms and ideas in your head simultaneously long enough to do anything meaningful (related: [[zPrYC99kH227c1otipAefyQ:::Novices in enabling environments often can’t do what’s enabled]]). In this context, a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] can help by accelerating you through this awkward, unpleasant stage to the point where you can actually have a meaningful experience with the material (related: [[z3PJFWDZ7gar2ttawQTmBek:::Enabling environments’ activities directly serve an intrinsically meaningful purpose]])."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Designing new enabling environments can be framed as designing a University++",
+          "linkingNoteSlug": "zyjePyZ77P2BfdkRBuQB2x",
+          "contextBlocks": [
+            "to more effectively bootstrap novices into doing ([[zPrYC99kH227c1otipAefyQ:::Novices in enabling environments often can’t do what’s enabled]])"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "“Primer” is an unsituated framing",
+          "linkingNoteSlug": "zRsPEq4jnL4y1FXyPi27Epn",
+          "contextBlocks": [
+            "[[zPrYC99kH227c1otipAefyQ:::Novices in enabling environments often can’t do what’s enabled]] That’s a real design problem for communities of practice. But I think it can (usually? always?) be overcome. I want to adopt a frame which implies that aspiration; “primer” does not."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "§Enabling environments, games, and the Primer",
+          "linkingNoteSlug": "zGSGS1UHDogPKtvZB5hdT2A",
+          "contextBlocks": [
+            "Even though you don’t know what you’re doing as a founder ([[zPrYC99kH227c1otipAefyQ:::Novices in enabling environments often can’t do what’s enabled]]), YC’s systems give you enough support to participate authentically and hone your skills in this intense context:  [[zKubRcJXKjiCDPsPgJWckkP:::Enacted experiences can bootstrap active participation in enabling environments]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "The Knowledge Society",
+          "linkingNoteSlug": "zFGrSHb5JrAjXge3Rj776dF",
+          "contextBlocks": [
+            "In some sense, it’s really about trying to spread San Francisco intellectual culture. But in some sense, the approach seems too shallow—the stories are exciting, but they also have a clear element of cargo culting. But maybe it’s a reasonable approach to [[zPrYC99kH227c1otipAefyQ:::Novices in enabling environments often can’t do what’s enabled]]."
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "z492hGrHvRvJiEY9UfB4Mby",
+        "z2etsLyP1LJUwNDPCwvRdUG",
+        "zWSH2QNUsrTGP4V15JBaaEv",
+        "zKubRcJXKjiCDPsPgJWckkP",
+        "zL7XdosCZ9qeCSSCrhcYfwY",
+        "zMhuu3pPa6FeNGYn3VfGCar"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 ---
 title: "Think harder about sociality and memory systems"
+URL:
+  - "https://notes.andymatuschak.org/zTLbubuUTz75EDoYizxCSXg"
 ---
 # Think harder about sociality and memory systems
 - thickening loose ties

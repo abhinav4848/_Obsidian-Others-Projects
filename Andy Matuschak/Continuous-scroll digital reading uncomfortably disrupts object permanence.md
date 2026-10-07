@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z9uM3R9kKGKfGowdMFWaSfH
+URL:
+  - "https://notes.andymatuschak.org/z9uM3R9kKGKfGowdMFWaSfH"
 title: "Continuous-scroll digital reading uncomfortably disrupts object permanence"
 ---
 # Continuous-scroll digital reading uncomfortably disrupts object permanence

@@ -9,7 +9,8 @@ in:
 - '[[Ideaverse Merged/Atlas/Maps/Speeches]]'
 - '[[Ideaverse Merged/Atlas/Maps/Sources]]'
 - '[[Talks]]'
-URL: https://www.youtube.com/watch?v=n8m7lFQ3njk
+URL:
+  - "https://www.youtube.com/watch?v=n8m7lFQ3njk"
 tags:
   - source/speech
 type: "[[Ideaverse Merged/Atlas/Maps/Speeches]]"

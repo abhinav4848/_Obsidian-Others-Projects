@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z7vdiuQK7HuFyi4V5EemF3e?stackedNotes=zHSk5HpDyrSWCMN669Sg4HU&stackedNotes=zGm1rhtS9vQytd8WNb9TV1
+URL:
+  - "https://notes.andymatuschak.org/z7vdiuQK7HuFyi4V5EemF3e?stackedNotes=zHSk5HpDyrSWCMN669Sg4HU&stackedNotes=zGm1rhtS9vQytd8WNb9TV1"
 title: "Great creative work is usually the product of a single person"
 ---
 # Great creative work is usually the product of a single person

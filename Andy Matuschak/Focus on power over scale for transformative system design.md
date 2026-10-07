@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/About_these_notes?stackedNotes=zKKB5ENRahwftH96H7mijiu&stackedNotes=zRHGYaDyQDBypztBaFYZgtR
+URL:
+  - "https://notes.andymatuschak.org/About_these_notes?stackedNotes=zKKB5ENRahwftH96H7mijiu&stackedNotes=zRHGYaDyQDBypztBaFYZgtR"
 title: "Focus on power over scale for transformative system design"
 ---
 # Focus on power over scale for transformative system design

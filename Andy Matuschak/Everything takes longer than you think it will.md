@@ -1,5 +1,7 @@
 ---
 title: "Everything takes longer than you think it will"
+URL:
+  - "https://notes.andymatuschak.org/zWzai58V4EEmGDVHTEv7g61"
 ---
 # Everything takes longer than you think it will
 … so choose projects and their scope much more carefully, Andy.

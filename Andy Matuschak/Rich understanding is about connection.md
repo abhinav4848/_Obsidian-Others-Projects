@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z3uFvLFRt8ognrjd6ADZMJc?stackedNotes=z3whk8UxFRFLgUQX9f7Fr2o&stackedNotes=zWuE8Qfbqzthu52QGwUb2NJ
+URL:
+  - "https://notes.andymatuschak.org/z3uFvLFRt8ognrjd6ADZMJc?stackedNotes=z3whk8UxFRFLgUQX9f7Fr2o&stackedNotes=zWuE8Qfbqzthu52QGwUb2NJ"
 title: "Rich understanding is about connection"
 ---
 # Rich understanding is about connection

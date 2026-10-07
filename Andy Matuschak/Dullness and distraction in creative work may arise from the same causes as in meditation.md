@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z2q7U5ZvXeDxXD6vXAbZb9a?stackedNotes=zG8RB9kAnBBzZ8fpfGh8Drp&stackedNotes=zVNTDbWaVNxgTSPx3cNLDPc
+URL:
+  - "https://notes.andymatuschak.org/z2q7U5ZvXeDxXD6vXAbZb9a?stackedNotes=zG8RB9kAnBBzZ8fpfGh8Drp&stackedNotes=zVNTDbWaVNxgTSPx3cNLDPc"
 title: "Dullness and distraction in creative work may arise from the same causes as in meditation"
 ---
 # Dullness and distraction in creative work may arise from the same causes as in meditation

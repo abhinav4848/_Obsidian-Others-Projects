@@ -1,0 +1,226 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/z4KxfCZPkVEf2R8nayLJZBG",
+  "checked_at": "2026-10-07T22:30:58.353956+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/z4KxfCZPkVEf2R8nayLJZBG",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "z4KxfCZPkVEf2R8nayLJZBG": {
+        "data": {
+          "slug": "z4KxfCZPkVEf2R8nayLJZBG",
+          "title": "Spaced repetition memory systems can be used to prompt application, synthesis, and creation",
+          "contentMarkdown": "# Spaced repetition memory systems can be used to prompt application, synthesis, and creation\n\nA [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] like Anki is primarily designed to help people memorize a lot of declarative knowledge, like vocabulary. But the same mechanisms can be used to create relatively unorthodox cards which prompt application, synthesis, and creation.\n\n![](BearImages/1AF11ACC-0D63-4534-A4CB-77068D42386B/DYDdBJMVMAAobpq.jpeg)\n\nOne limit to these types of questions is that because *you* authored them, you have to leave the context relatively vague: “apply the lens of utilitarianism to a recent decision,” rather than “apply the lens of utilitarianism to the death penalty.” The latter question’s not very helpful if you wrote it: you would have already thought through the answer, so it’d really just be a memory prompt when you saw it again later. This limitation makes the idea described here promising: [[zJoWJEpRvrjnm2zL3gdxBjg:::The mnemonic medium can help readers apply what they’ve learned through simple application prompts]].\n\nRelated:\n\n*   [[z8v56RCUFx6Zp6sBG6mTL95:::Unusual applications of spaced repetition memory systems]]\n*   [[z9AH3dD42uGiJzR1WH1eo7n:::Spaced repetition may be a helpful tool to develop or change habits]]\n*   [[zB92WZZ5baBHKZPPbWMbYEv:::Spaced repetition systems can be used to program attention]]\n\n---\n\n## References\n\nTwitter post, 2018-03-11: <https://twitter.com/andy_matuschak/status/973020621847187456>\n\nConversation with Michael Nielsen, 2020-01-01\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Spaced repetition memory system",
+              "linkingNoteSlug": "z2D1qPwddPktBjpNuwYFVva",
+              "contextBlocks": [
+                "[[z4KxfCZPkVEf2R8nayLJZBG:::Spaced repetition memory systems can be used to prompt application, synthesis, and creation]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Spaced repetition systems can be used to program attention",
+              "linkingNoteSlug": "zB92WZZ5baBHKZPPbWMbYEv",
+              "contextBlocks": [
+                "Within a traditional flashcard-style system, you can use this observation to go far beyond memorization: see [[z4KxfCZPkVEf2R8nayLJZBG:::Spaced repetition memory systems can be used to prompt application, synthesis, and creation]] and [[z9AH3dD42uGiJzR1WH1eo7n:::Spaced repetition may be a helpful tool to develop or change habits]]. [[z53zJy6y76MGuJuWW4Qvab9:::Spaced repetition prompt design is about designing tasks for your future self]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "The mnemonic medium can help readers apply what they’ve learned through simple application prompts",
+              "linkingNoteSlug": "zJoWJEpRvrjnm2zL3gdxBjg",
+              "contextBlocks": [
+                "To *really* make that possible—to create an environment along the lines described in [[z2etsLyP1LJUwNDPCwvRdUG:::Enabling environments focus on doing what’s enabled]]—we’d need to make [[zWxp9Cw9Nc7ixAGAaXwqq3H:::The Primer++]]. But we’ve already seen that [[z4KxfCZPkVEf2R8nayLJZBG:::Spaced repetition memory systems can be used to prompt application, synthesis, and creation]], so we can take a step in that direction by extending the mnemonic medium to include simple questions which ask readers to **use** what they’ve learned, possibly in **combination**, in a **novel** situation. Such questions should help readers develop flexibility and build confidence in their knowledge. These questions would expand the mnemonic medium’s reach one significant level up the ladder of understanding."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Unusual applications of spaced repetition memory systems",
+              "linkingNoteSlug": "z8v56RCUFx6Zp6sBG6mTL95",
+              "contextBlocks": [
+                "Broader cognitive task types: [[z4KxfCZPkVEf2R8nayLJZBG:::Spaced repetition memory systems can be used to prompt application, synthesis, and creation]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "OS-level spaced repetition system",
+              "linkingNoteSlug": "zNLoqjEVe5dheMKmTTyB9E3",
+              "contextBlocks": [
+                "But these ideas become much more interesting once you think of SRS as useful for much more than memorization (see [[z4KxfCZPkVEf2R8nayLJZBG:::Spaced repetition memory systems can be used to prompt application, synthesis, and creation]]), and still more powerful when you consider that [[zB92WZZ5baBHKZPPbWMbYEv:::Spaced repetition systems can be used to program attention]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "The mnemonic medium keeps readers in contact with material over time",
+              "linkingNoteSlug": "zCQuiDgcNqncwB6pTvhdRWk",
+              "contextBlocks": [
+                "Particularly if the prompts are written to inspire reflection or synthesis, this effect creates opportunities to engage with the material at progressively deeper levels over time. For instance, a prompt designed to help you reflect on your design practice may function very differently on day one and day one thousand. (see also [[z4KxfCZPkVEf2R8nayLJZBG:::Spaced repetition memory systems can be used to prompt application, synthesis, and creation]])"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "How might the mnemonic medium support readers in building more complex understanding?",
+              "linkingNoteSlug": "z85VbMd4D4Z3SrYgaXENKAm",
+              "contextBlocks": [
+                "The [[zKPv6qkSErdRGqyryvgS2wS:::Mnemonic medium]] helps readers remember what they’ve read, and that’s an important first step to understanding ([[zDxwRLcf5pn3crwNN2EqSYM:::Deep understanding requires detailed knowledge of fundamentals]]). We also use these prompts to help readers acquire conceptual knowledge: [[z9Vi7YVx7NzxU2wawNgsJbk:::Spaced repetition memory systems can be used to develop conceptual understanding]]. And we’ve gone beyond recall: [[zJoWJEpRvrjnm2zL3gdxBjg:::The mnemonic medium can help readers apply what they’ve learned through simple application prompts]]. So. How might we continue up [[zFFTdRczpgGBy1P5QgeP635:::Bloom’s taxonomy]] to support more complex types of understanding? Related early experiments suggests that this may be possible: [[z4KxfCZPkVEf2R8nayLJZBG:::Spaced repetition memory systems can be used to prompt application, synthesis, and creation]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Idea-centric memory system",
+              "linkingNoteSlug": "z7wCFe7MP9VeCVApcBLC7SN",
+              "contextBlocks": [
+                "It’s possible to do this with prompts ([[z4KxfCZPkVEf2R8nayLJZBG:::Spaced repetition memory systems can be used to prompt application, synthesis, and creation]]), but it’s often difficult or awkward to write such prompts for yourself. You want to give yourself new tasks each time, to push yourself to think new thoughts. Practically speaking, you’re forced to write highly general prompts (“Think of a new way to apply advice X in your life…”). I often find these sorts of prompts pretty difficult to emotionally connect to during review. I think it would be better to work with a large variety of more concrete tasks, but it’s tough to execute that practically with a prompt-centric conceptual design."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Spaced repetition memory prompts should unambiguously produce a specific answer",
+              "linkingNoteSlug": "zTYDjcneyTby8DhVGMU3zvc",
+              "contextBlocks": [
+                "This principle doesn’t apply to non-memory-focused spaced repetition prompts, which are often explicitly designed to produce different answers each time: [[z4KxfCZPkVEf2R8nayLJZBG:::Spaced repetition memory systems can be used to prompt application, synthesis, and creation]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "A pattern language of prompt-writing",
+              "linkingNoteSlug": "z8d1Rq2d13fdQCjQiWzJybD",
+              "contextBlocks": [
+                "Some notes on “higher-level” prompt-writing: [[z4KxfCZPkVEf2R8nayLJZBG:::Spaced repetition memory systems can be used to prompt application, synthesis, and creation]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Self-graded spaced repetition memory systems accommodate a wider variety of prompts",
+              "linkingNoteSlug": "z7poxg3iw5ofdYCgK36Vcic",
+              "contextBlocks": [
+                "“Improvise a melody in pentatonic minor.” Many valuable [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] prompts are, to various degrees, fundamentally non-machine-gradable—particularly those described in [[z4KxfCZPkVEf2R8nayLJZBG:::Spaced repetition memory systems can be used to prompt application, synthesis, and creation]]. Self-graded systems will accommodate these more experimental questions more readily."
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "z2D1qPwddPktBjpNuwYFVva",
+            "zJoWJEpRvrjnm2zL3gdxBjg",
+            "z8v56RCUFx6Zp6sBG6mTL95",
+            "z9AH3dD42uGiJzR1WH1eo7n",
+            "zB92WZZ5baBHKZPPbWMbYEv"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "z4KxfCZPkVEf2R8nayLJZBG",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "z4KxfCZPkVEf2R8nayLJZBG",
+      "title": "Spaced repetition memory systems can be used to prompt application, synthesis, and creation",
+      "contentMarkdown": "# Spaced repetition memory systems can be used to prompt application, synthesis, and creation\n\nA [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] like Anki is primarily designed to help people memorize a lot of declarative knowledge, like vocabulary. But the same mechanisms can be used to create relatively unorthodox cards which prompt application, synthesis, and creation.\n\n![](BearImages/1AF11ACC-0D63-4534-A4CB-77068D42386B/DYDdBJMVMAAobpq.jpeg)\n\nOne limit to these types of questions is that because *you* authored them, you have to leave the context relatively vague: “apply the lens of utilitarianism to a recent decision,” rather than “apply the lens of utilitarianism to the death penalty.” The latter question’s not very helpful if you wrote it: you would have already thought through the answer, so it’d really just be a memory prompt when you saw it again later. This limitation makes the idea described here promising: [[zJoWJEpRvrjnm2zL3gdxBjg:::The mnemonic medium can help readers apply what they’ve learned through simple application prompts]].\n\nRelated:\n\n*   [[z8v56RCUFx6Zp6sBG6mTL95:::Unusual applications of spaced repetition memory systems]]\n*   [[z9AH3dD42uGiJzR1WH1eo7n:::Spaced repetition may be a helpful tool to develop or change habits]]\n*   [[zB92WZZ5baBHKZPPbWMbYEv:::Spaced repetition systems can be used to program attention]]\n\n---\n\n## References\n\nTwitter post, 2018-03-11: <https://twitter.com/andy_matuschak/status/973020621847187456>\n\nConversation with Michael Nielsen, 2020-01-01\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Spaced repetition memory system",
+          "linkingNoteSlug": "z2D1qPwddPktBjpNuwYFVva",
+          "contextBlocks": [
+            "[[z4KxfCZPkVEf2R8nayLJZBG:::Spaced repetition memory systems can be used to prompt application, synthesis, and creation]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Spaced repetition systems can be used to program attention",
+          "linkingNoteSlug": "zB92WZZ5baBHKZPPbWMbYEv",
+          "contextBlocks": [
+            "Within a traditional flashcard-style system, you can use this observation to go far beyond memorization: see [[z4KxfCZPkVEf2R8nayLJZBG:::Spaced repetition memory systems can be used to prompt application, synthesis, and creation]] and [[z9AH3dD42uGiJzR1WH1eo7n:::Spaced repetition may be a helpful tool to develop or change habits]]. [[z53zJy6y76MGuJuWW4Qvab9:::Spaced repetition prompt design is about designing tasks for your future self]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "The mnemonic medium can help readers apply what they’ve learned through simple application prompts",
+          "linkingNoteSlug": "zJoWJEpRvrjnm2zL3gdxBjg",
+          "contextBlocks": [
+            "To *really* make that possible—to create an environment along the lines described in [[z2etsLyP1LJUwNDPCwvRdUG:::Enabling environments focus on doing what’s enabled]]—we’d need to make [[zWxp9Cw9Nc7ixAGAaXwqq3H:::The Primer++]]. But we’ve already seen that [[z4KxfCZPkVEf2R8nayLJZBG:::Spaced repetition memory systems can be used to prompt application, synthesis, and creation]], so we can take a step in that direction by extending the mnemonic medium to include simple questions which ask readers to **use** what they’ve learned, possibly in **combination**, in a **novel** situation. Such questions should help readers develop flexibility and build confidence in their knowledge. These questions would expand the mnemonic medium’s reach one significant level up the ladder of understanding."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Unusual applications of spaced repetition memory systems",
+          "linkingNoteSlug": "z8v56RCUFx6Zp6sBG6mTL95",
+          "contextBlocks": [
+            "Broader cognitive task types: [[z4KxfCZPkVEf2R8nayLJZBG:::Spaced repetition memory systems can be used to prompt application, synthesis, and creation]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "OS-level spaced repetition system",
+          "linkingNoteSlug": "zNLoqjEVe5dheMKmTTyB9E3",
+          "contextBlocks": [
+            "But these ideas become much more interesting once you think of SRS as useful for much more than memorization (see [[z4KxfCZPkVEf2R8nayLJZBG:::Spaced repetition memory systems can be used to prompt application, synthesis, and creation]]), and still more powerful when you consider that [[zB92WZZ5baBHKZPPbWMbYEv:::Spaced repetition systems can be used to program attention]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "The mnemonic medium keeps readers in contact with material over time",
+          "linkingNoteSlug": "zCQuiDgcNqncwB6pTvhdRWk",
+          "contextBlocks": [
+            "Particularly if the prompts are written to inspire reflection or synthesis, this effect creates opportunities to engage with the material at progressively deeper levels over time. For instance, a prompt designed to help you reflect on your design practice may function very differently on day one and day one thousand. (see also [[z4KxfCZPkVEf2R8nayLJZBG:::Spaced repetition memory systems can be used to prompt application, synthesis, and creation]])"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "How might the mnemonic medium support readers in building more complex understanding?",
+          "linkingNoteSlug": "z85VbMd4D4Z3SrYgaXENKAm",
+          "contextBlocks": [
+            "The [[zKPv6qkSErdRGqyryvgS2wS:::Mnemonic medium]] helps readers remember what they’ve read, and that’s an important first step to understanding ([[zDxwRLcf5pn3crwNN2EqSYM:::Deep understanding requires detailed knowledge of fundamentals]]). We also use these prompts to help readers acquire conceptual knowledge: [[z9Vi7YVx7NzxU2wawNgsJbk:::Spaced repetition memory systems can be used to develop conceptual understanding]]. And we’ve gone beyond recall: [[zJoWJEpRvrjnm2zL3gdxBjg:::The mnemonic medium can help readers apply what they’ve learned through simple application prompts]]. So. How might we continue up [[zFFTdRczpgGBy1P5QgeP635:::Bloom’s taxonomy]] to support more complex types of understanding? Related early experiments suggests that this may be possible: [[z4KxfCZPkVEf2R8nayLJZBG:::Spaced repetition memory systems can be used to prompt application, synthesis, and creation]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Idea-centric memory system",
+          "linkingNoteSlug": "z7wCFe7MP9VeCVApcBLC7SN",
+          "contextBlocks": [
+            "It’s possible to do this with prompts ([[z4KxfCZPkVEf2R8nayLJZBG:::Spaced repetition memory systems can be used to prompt application, synthesis, and creation]]), but it’s often difficult or awkward to write such prompts for yourself. You want to give yourself new tasks each time, to push yourself to think new thoughts. Practically speaking, you’re forced to write highly general prompts (“Think of a new way to apply advice X in your life…”). I often find these sorts of prompts pretty difficult to emotionally connect to during review. I think it would be better to work with a large variety of more concrete tasks, but it’s tough to execute that practically with a prompt-centric conceptual design."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Spaced repetition memory prompts should unambiguously produce a specific answer",
+          "linkingNoteSlug": "zTYDjcneyTby8DhVGMU3zvc",
+          "contextBlocks": [
+            "This principle doesn’t apply to non-memory-focused spaced repetition prompts, which are often explicitly designed to produce different answers each time: [[z4KxfCZPkVEf2R8nayLJZBG:::Spaced repetition memory systems can be used to prompt application, synthesis, and creation]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "A pattern language of prompt-writing",
+          "linkingNoteSlug": "z8d1Rq2d13fdQCjQiWzJybD",
+          "contextBlocks": [
+            "Some notes on “higher-level” prompt-writing: [[z4KxfCZPkVEf2R8nayLJZBG:::Spaced repetition memory systems can be used to prompt application, synthesis, and creation]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Self-graded spaced repetition memory systems accommodate a wider variety of prompts",
+          "linkingNoteSlug": "z7poxg3iw5ofdYCgK36Vcic",
+          "contextBlocks": [
+            "“Improvise a melody in pentatonic minor.” Many valuable [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] prompts are, to various degrees, fundamentally non-machine-gradable—particularly those described in [[z4KxfCZPkVEf2R8nayLJZBG:::Spaced repetition memory systems can be used to prompt application, synthesis, and creation]]. Self-graded systems will accommodate these more experimental questions more readily."
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "z2D1qPwddPktBjpNuwYFVva",
+        "zJoWJEpRvrjnm2zL3gdxBjg",
+        "z8v56RCUFx6Zp6sBG6mTL95",
+        "z9AH3dD42uGiJzR1WH1eo7n",
+        "zB92WZZ5baBHKZPPbWMbYEv"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

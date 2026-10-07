@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zDcuS8A5uxGR8hQygsqP83A
+URL:
+  - "https://notes.andymatuschak.org/zDcuS8A5uxGR8hQygsqP83A"
 title: "Zettelkasten"
 ---
 # Zettelkasten

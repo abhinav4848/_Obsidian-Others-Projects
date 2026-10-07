@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z9vSQjkBVL6dCVC6QhCu4Br?stackedNotes=zPiRwRHQxGfF9Zej765PB8M&stackedNotes=zEmEnm29YT9Lp4mnWzPVQZJ
+URL:
+  - "https://notes.andymatuschak.org/z9vSQjkBVL6dCVC6QhCu4Br?stackedNotes=zPiRwRHQxGfF9Zej765PB8M&stackedNotes=zEmEnm29YT9Lp4mnWzPVQZJ"
 title: "Memory system practice sessions are too disconnected from activities you actually care about"
 ---
 # Memory system practice sessions are too disconnected from activities you actually care about

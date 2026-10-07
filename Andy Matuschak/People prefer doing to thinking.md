@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zMmH3GBLKotdP4t1sdSvEQJ?stackedNotes=zJknUfCo51gKFth8XWAzqhg&stackedNotes=zTaenCxxdcffpPUAzq3iDmQ
+URL:
+  - "https://notes.andymatuschak.org/zMmH3GBLKotdP4t1sdSvEQJ?stackedNotes=zJknUfCo51gKFth8XWAzqhg&stackedNotes=zTaenCxxdcffpPUAzq3iDmQ"
 title: "People prefer doing to thinking"
 ---
 # People prefer doing to thinking

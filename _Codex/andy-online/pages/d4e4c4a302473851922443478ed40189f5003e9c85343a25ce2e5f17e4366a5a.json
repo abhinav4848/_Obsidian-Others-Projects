@@ -1,0 +1,110 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Transcendental_narrative",
+  "checked_at": "2026-10-07T22:28:50.152987+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/z2nUCgx2yYZFT1zaFSocZop",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "z2nUCgx2yYZFT1zaFSocZop": {
+        "data": {
+          "slug": "z2nUCgx2yYZFT1zaFSocZop",
+          "title": "Transcendental narrative",
+          "contentMarkdown": "# Transcendental narrative\n\nStories, practices, and values which give structure and meaning to life, suggest what’s worth doing, situates people relative to others, etc. Religion is the traditional source, but secular alternatives include:\n\n*   “spiritual” sources like meditation, yoga, astrology\n*   political sources like Marxism, objectivism, woke-ism\n*   social science-y philosophical sources like stoicism, romanticism, Heidegger and friends\n*   science-y philosophical sources like David Deutsch, Carl Sagan, Steven Pinker, Bret Victor\n\nTerm [coined](https://www.firstthings.com/article/1997/01/science-and-the-story-that-we-need) by Neil Postman in The End of Education.\n\nSee also: [[z7X8C3Fy4wQ7nhQFaVx1aUD:::Communities of action often form around media artifacts]].\n\nRelated: [[z4AEKngFy96zQBoW1vw5ro3:::Ikigai]]\n\n---\n\n## References\n\n<https://github.com/mnielsen/tpft/blob/master/big_picture.md>\n\n> Empirically, there’s nearly always a dominant transcendent narrative in any culture. In ours it’s most often some descendant of the Protestant work ethic: get-good-grades-in-school so you can go to a top university, then get a well-paid, highly respected job doing meaningful work, *etc*. It’s interesting to think about ways that narrative gets replaced. Paul Graham has tried, in part, to replace it. The Primer tried in some ways to inculcate something like the above, since Nell didn’t have it herself. It really did provide Nell with a lot of meaning. Or, perhaps more accurately, it opened the door to a lot of meaning. Is it possible to collectively construct a more powerful transcendent narrative?\n\n> When we were only several hundred-thousand years old, we built stone circles, water clocks.\n> Later, someone forged an iron spring.\n> Set clockwork running.\n> Imagined grid-lines on a globe.\n> Cathedrals are like machines to finding the soul; bells of clock towers stitch the sleeper’s dreams together.\n> You see; so we’ve always been on our way to this new place—that is no place, really—but it is real.\n> It’s our nature to represent: we’re the animal that represents, the sole and only maker of maps.\n> And if our weakness has been to confuse the bright and bloody colors of our calendars with the true weather of days, and the parchment’s territory of our maps with the land spread out before us—never mind.\n> We have always been on our way to this new place—that is no place, really—but it is real.\n\n— *William Gibson*, from *Memory Palace*, excerpt reproduced at the end of documentary *No Maps For These Territories*\n(via  2020-04-16 email from Amir Ebrahimi: [Memory Palace](message:%3CCACvHW3eZ1HETfPBS=wKBRhbt4fjzZ8-jh1sDhaAdNbLS+81SCw@mail.gmail.com%3E))\n\n[[Michael Nielsen]]: [Myth and religion, ‘social technology’, and deeply held belief](https://michaelnotebook.com/sdb/index.html)\n\n> I think part of the core question to ask is: what do you sincerely, deeply believe, believe enough to make sacrifices for? And then to develop that belief by testing it, over and over, to develop it, perhaps to make it stronger, perhaps to discard it, or transmute it into something else, something stronger.\n> …\n> I know that there is some essence in the world that I respond very, very strongly to, enough that I am giving my life to it. I don’t yet know how to articulate it. It involves some felt sense of science, of order in the world, perhaps not as ordinarily conceived, but as a source of beauty and understanding and elegance and force and latent possibility. And that for me is also intertwined with some extraordinarily optimistic sense of the long run of collective humanity, tempered by deep fear for (and of) humanity.\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Designing new enabling environments can be framed as designing a University++",
+              "linkingNoteSlug": "zyjePyZ77P2BfdkRBuQB2x",
+              "contextBlocks": [
+                "to do a better job than the university at connecting to meaning ([[z2nUCgx2yYZFT1zaFSocZop:::Transcendental narrative]]; [[z3PJFWDZ7gar2ttawQTmBek:::Enabling environments’ activities directly serve an intrinsically meaningful purpose]])"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Tools for thought should be evaluated in the context of intrinsically meaningful purposes",
+              "linkingNoteSlug": "zKtYU4Uk7aTCGyqHr9Ca3Sb",
+              "contextBlocks": [
+                "If we want to offer some kind of secular [[z2nUCgx2yYZFT1zaFSocZop:::Transcendental narrative]], we must ultimately evaluate all our work relative to that—relative to giving meaning, relating people to the world, organizing how people live, etc. Sure, we’ll need proxy metrics, but that’s all they’ll be. A focus on this purpose erases distinctions between “content” and “tools” and pushes us to pursue ideas that will better deliver meaning."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Ikigai",
+              "linkingNoteSlug": "z4AEKngFy96zQBoW1vw5ro3",
+              "contextBlocks": [
+                "Related: [[z2nUCgx2yYZFT1zaFSocZop:::Transcendental narrative]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "The Knowledge Society",
+              "linkingNoteSlug": "zFGrSHb5JrAjXge3Rj776dF",
+              "contextBlocks": [
+                "An attempt at a [[z2nUCgx2yYZFT1zaFSocZop:::Transcendental narrative]] by two Canadian tech entrepreneur brothers. An after-school program of sorts for precocious youth (a “people incubator”), focused on instilling ambition, entrepreneurialism, systems thinking, “joyful fulfillment”, etc."
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "z7X8C3Fy4wQ7nhQFaVx1aUD",
+            "z4AEKngFy96zQBoW1vw5ro3",
+            "Michael Nielsen"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "z2nUCgx2yYZFT1zaFSocZop",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "z2nUCgx2yYZFT1zaFSocZop",
+      "title": "Transcendental narrative",
+      "contentMarkdown": "# Transcendental narrative\n\nStories, practices, and values which give structure and meaning to life, suggest what’s worth doing, situates people relative to others, etc. Religion is the traditional source, but secular alternatives include:\n\n*   “spiritual” sources like meditation, yoga, astrology\n*   political sources like Marxism, objectivism, woke-ism\n*   social science-y philosophical sources like stoicism, romanticism, Heidegger and friends\n*   science-y philosophical sources like David Deutsch, Carl Sagan, Steven Pinker, Bret Victor\n\nTerm [coined](https://www.firstthings.com/article/1997/01/science-and-the-story-that-we-need) by Neil Postman in The End of Education.\n\nSee also: [[z7X8C3Fy4wQ7nhQFaVx1aUD:::Communities of action often form around media artifacts]].\n\nRelated: [[z4AEKngFy96zQBoW1vw5ro3:::Ikigai]]\n\n---\n\n## References\n\n<https://github.com/mnielsen/tpft/blob/master/big_picture.md>\n\n> Empirically, there’s nearly always a dominant transcendent narrative in any culture. In ours it’s most often some descendant of the Protestant work ethic: get-good-grades-in-school so you can go to a top university, then get a well-paid, highly respected job doing meaningful work, *etc*. It’s interesting to think about ways that narrative gets replaced. Paul Graham has tried, in part, to replace it. The Primer tried in some ways to inculcate something like the above, since Nell didn’t have it herself. It really did provide Nell with a lot of meaning. Or, perhaps more accurately, it opened the door to a lot of meaning. Is it possible to collectively construct a more powerful transcendent narrative?\n\n> When we were only several hundred-thousand years old, we built stone circles, water clocks.\n> Later, someone forged an iron spring.\n> Set clockwork running.\n> Imagined grid-lines on a globe.\n> Cathedrals are like machines to finding the soul; bells of clock towers stitch the sleeper’s dreams together.\n> You see; so we’ve always been on our way to this new place—that is no place, really—but it is real.\n> It’s our nature to represent: we’re the animal that represents, the sole and only maker of maps.\n> And if our weakness has been to confuse the bright and bloody colors of our calendars with the true weather of days, and the parchment’s territory of our maps with the land spread out before us—never mind.\n> We have always been on our way to this new place—that is no place, really—but it is real.\n\n— *William Gibson*, from *Memory Palace*, excerpt reproduced at the end of documentary *No Maps For These Territories*\n(via  2020-04-16 email from Amir Ebrahimi: [Memory Palace](message:%3CCACvHW3eZ1HETfPBS=wKBRhbt4fjzZ8-jh1sDhaAdNbLS+81SCw@mail.gmail.com%3E))\n\n[[Michael Nielsen]]: [Myth and religion, ‘social technology’, and deeply held belief](https://michaelnotebook.com/sdb/index.html)\n\n> I think part of the core question to ask is: what do you sincerely, deeply believe, believe enough to make sacrifices for? And then to develop that belief by testing it, over and over, to develop it, perhaps to make it stronger, perhaps to discard it, or transmute it into something else, something stronger.\n> …\n> I know that there is some essence in the world that I respond very, very strongly to, enough that I am giving my life to it. I don’t yet know how to articulate it. It involves some felt sense of science, of order in the world, perhaps not as ordinarily conceived, but as a source of beauty and understanding and elegance and force and latent possibility. And that for me is also intertwined with some extraordinarily optimistic sense of the long run of collective humanity, tempered by deep fear for (and of) humanity.\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Designing new enabling environments can be framed as designing a University++",
+          "linkingNoteSlug": "zyjePyZ77P2BfdkRBuQB2x",
+          "contextBlocks": [
+            "to do a better job than the university at connecting to meaning ([[z2nUCgx2yYZFT1zaFSocZop:::Transcendental narrative]]; [[z3PJFWDZ7gar2ttawQTmBek:::Enabling environments’ activities directly serve an intrinsically meaningful purpose]])"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Tools for thought should be evaluated in the context of intrinsically meaningful purposes",
+          "linkingNoteSlug": "zKtYU4Uk7aTCGyqHr9Ca3Sb",
+          "contextBlocks": [
+            "If we want to offer some kind of secular [[z2nUCgx2yYZFT1zaFSocZop:::Transcendental narrative]], we must ultimately evaluate all our work relative to that—relative to giving meaning, relating people to the world, organizing how people live, etc. Sure, we’ll need proxy metrics, but that’s all they’ll be. A focus on this purpose erases distinctions between “content” and “tools” and pushes us to pursue ideas that will better deliver meaning."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Ikigai",
+          "linkingNoteSlug": "z4AEKngFy96zQBoW1vw5ro3",
+          "contextBlocks": [
+            "Related: [[z2nUCgx2yYZFT1zaFSocZop:::Transcendental narrative]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "The Knowledge Society",
+          "linkingNoteSlug": "zFGrSHb5JrAjXge3Rj776dF",
+          "contextBlocks": [
+            "An attempt at a [[z2nUCgx2yYZFT1zaFSocZop:::Transcendental narrative]] by two Canadian tech entrepreneur brothers. An after-school program of sorts for precocious youth (a “people incubator”), focused on instilling ambition, entrepreneurialism, systems thinking, “joyful fulfillment”, etc."
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "z7X8C3Fy4wQ7nhQFaVx1aUD",
+        "z4AEKngFy96zQBoW1vw5ro3",
+        "Michael Nielsen"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z4ULp2KUgq3hBCJMWTUnLDX?stackedNotes=zGD1FxbDZd7WnH7NrhRaVyC&stackedNotes=zVYmgUqqnJD1hduFhHYTkKj
+URL:
+  - "https://notes.andymatuschak.org/z4ULp2KUgq3hBCJMWTUnLDX?stackedNotes=zGD1FxbDZd7WnH7NrhRaVyC&stackedNotes=zVYmgUqqnJD1hduFhHYTkKj"
 title: "Connecting prose and its surrounding Twitter conversation"
 ---
 # Connecting prose and its surrounding Twitter conversation

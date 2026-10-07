@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zF3gSqhimNzCKYaWzm3rmUn?stackedNotes=z8dXowKop2xGp9UEVwXpG2Q&stackedNotes=z4hwx4AGNYVhfMfxsRE6WeZ
+URL:
+  - "https://notes.andymatuschak.org/zF3gSqhimNzCKYaWzm3rmUn?stackedNotes=z8dXowKop2xGp9UEVwXpG2Q&stackedNotes=z4hwx4AGNYVhfMfxsRE6WeZ"
 title: "Samadhi"
 ---
 # Samadhi

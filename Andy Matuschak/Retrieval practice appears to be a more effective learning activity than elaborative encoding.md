@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z9Uq4yzBT1QaBU8twwyvm7P?stackedNotes=zEK6pjc61VLLZDNYssz7W7M
+URL:
+  - "https://notes.andymatuschak.org/z9Uq4yzBT1QaBU8twwyvm7P?stackedNotes=zEK6pjc61VLLZDNYssz7W7M"
 title: "Retrieval practice appears to be a more effective learning activity than elaborative encoding"
 ---
 # Retrieval practice appears to be a more effective learning activity than elaborative encoding

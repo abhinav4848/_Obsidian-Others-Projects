@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z3DJpNZe7vVd9fsjNGU4S86
+URL:
+  - "https://notes.andymatuschak.org/z3DJpNZe7vVd9fsjNGU4S86"
 title: "San Francisco tech culture makes research hard"
 ---
 # San Francisco tech culture makes research hard

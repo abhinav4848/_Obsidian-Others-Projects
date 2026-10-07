@@ -1,0 +1,112 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Collaborations_between_tool-makers_and_tool-users_can_best_iterate_via_a_sequence_of_different_projects",
+  "checked_at": "2026-10-07T22:28:38.430437+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/z2MeZGv57tNcz5rh64ebSNz",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "z2MeZGv57tNcz5rh64ebSNz": {
+        "data": {
+          "slug": "z2MeZGv57tNcz5rh64ebSNz",
+          "title": "Collaborations between tool-makers and tool-users can best iterate via a sequence of different projects",
+          "contentMarkdown": "# Collaborations between tool-makers and tool-users can best iterate via a sequence of different projects\n\n[[zG1S2XhBhJa7PWeSkKna2Y2:::Deep collaborations between tool-makers and tool-users may support insight through making]], but one practical obstacle for the tool-user’s work is that [[zFjTBdLjTRYsyoDyqyBEPNN:::It’s difficult to maintain emotional connection to a creative project across delays and breaks]]. The pair can learn plenty about their tool ideas as the tool-user deploys them in serious creative projects, but each project has limited scope for iteration.\n\nTo see why, imagine that the tool-user has written a first draft of a book. Lessons from that draft prompt new iterations of the pair’s tool ideas. Though the tool-user may be plenty interested in those explorations, he’s likely not interested in totally rewriting the book using a new iteration of the tool. The tool can evolve a bit—particularly early in the drafting process—but it rapidly pushes against a gumption limit.\n\nIf the tools involved in each creative project can only evolve a limited amount during the course of that project, then each project’s tool frontier is substantially determined by the state of the tools at the *start* of the project. This challenge suggests that the pair can best evolve their ideas through a *sequence* of creative projects.\n\nThere’s a tension around the size of the projects in the sequence. Smaller projects will support more dramatic iteration in the tools—a higher “learning rate,” if you will. But small projects may not be sufficiently serious to develop the tool ideas ([[z7EQ2nVGus5B1rS9CqT18g6:::Effective system design requires insights drawn from serious contexts of use]]). Ideally, I suppose, the pair pursues the smallest sufficiently-serious projects they can.\n\nUnfortunately: [[zWfTX3cjB1mFZhCJkFGu8aH:::It’s hard for independent researchers to find full-time collaborators]].\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Deep collaborations between tool-makers and tool-users may support insight through making",
+              "linkingNoteSlug": "zG1S2XhBhJa7PWeSkKna2Y2",
+              "contextBlocks": [
+                "[[z2MeZGv57tNcz5rh64ebSNz:::Collaborations between tool-makers and tool-users can best iterate via a sequence of different projects]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Collaborations between tool-makers and tool-users depend on building effective “armories” of tool ideas",
+              "linkingNoteSlug": "zJip1ikfjnqm8veu4GE4SmK",
+              "contextBlocks": [
+                "The armory conception is mostly useful in the context of repeated collaborations, particularly across distinct projects (i.e. [[z2MeZGv57tNcz5rh64ebSNz:::Collaborations between tool-makers and tool-users can best iterate via a sequence of different projects]])."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "2020-06-15 Patreon update - Armories for tool-maker / tool-user collaborations",
+              "linkingNoteSlug": "zWV2yPQUJWNm6MfbbxT1Tur",
+              "contextBlocks": [
+                "[[z2MeZGv57tNcz5rh64ebSNz:::Collaborations between tool-makers and tool-users can best iterate via a sequence of different projects]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "§Corporate research lab practices",
+              "linkingNoteSlug": "zKHWU8WK3KKy9peGmq1nTwi",
+              "contextBlocks": [
+                "[[z2MeZGv57tNcz5rh64ebSNz:::Collaborations between tool-makers and tool-users can best iterate via a sequence of different projects]]"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zG1S2XhBhJa7PWeSkKna2Y2",
+            "zFjTBdLjTRYsyoDyqyBEPNN",
+            "z7EQ2nVGus5B1rS9CqT18g6",
+            "zWfTX3cjB1mFZhCJkFGu8aH"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "z2MeZGv57tNcz5rh64ebSNz",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "z2MeZGv57tNcz5rh64ebSNz",
+      "title": "Collaborations between tool-makers and tool-users can best iterate via a sequence of different projects",
+      "contentMarkdown": "# Collaborations between tool-makers and tool-users can best iterate via a sequence of different projects\n\n[[zG1S2XhBhJa7PWeSkKna2Y2:::Deep collaborations between tool-makers and tool-users may support insight through making]], but one practical obstacle for the tool-user’s work is that [[zFjTBdLjTRYsyoDyqyBEPNN:::It’s difficult to maintain emotional connection to a creative project across delays and breaks]]. The pair can learn plenty about their tool ideas as the tool-user deploys them in serious creative projects, but each project has limited scope for iteration.\n\nTo see why, imagine that the tool-user has written a first draft of a book. Lessons from that draft prompt new iterations of the pair’s tool ideas. Though the tool-user may be plenty interested in those explorations, he’s likely not interested in totally rewriting the book using a new iteration of the tool. The tool can evolve a bit—particularly early in the drafting process—but it rapidly pushes against a gumption limit.\n\nIf the tools involved in each creative project can only evolve a limited amount during the course of that project, then each project’s tool frontier is substantially determined by the state of the tools at the *start* of the project. This challenge suggests that the pair can best evolve their ideas through a *sequence* of creative projects.\n\nThere’s a tension around the size of the projects in the sequence. Smaller projects will support more dramatic iteration in the tools—a higher “learning rate,” if you will. But small projects may not be sufficiently serious to develop the tool ideas ([[z7EQ2nVGus5B1rS9CqT18g6:::Effective system design requires insights drawn from serious contexts of use]]). Ideally, I suppose, the pair pursues the smallest sufficiently-serious projects they can.\n\nUnfortunately: [[zWfTX3cjB1mFZhCJkFGu8aH:::It’s hard for independent researchers to find full-time collaborators]].\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Deep collaborations between tool-makers and tool-users may support insight through making",
+          "linkingNoteSlug": "zG1S2XhBhJa7PWeSkKna2Y2",
+          "contextBlocks": [
+            "[[z2MeZGv57tNcz5rh64ebSNz:::Collaborations between tool-makers and tool-users can best iterate via a sequence of different projects]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Collaborations between tool-makers and tool-users depend on building effective “armories” of tool ideas",
+          "linkingNoteSlug": "zJip1ikfjnqm8veu4GE4SmK",
+          "contextBlocks": [
+            "The armory conception is mostly useful in the context of repeated collaborations, particularly across distinct projects (i.e. [[z2MeZGv57tNcz5rh64ebSNz:::Collaborations between tool-makers and tool-users can best iterate via a sequence of different projects]])."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "2020-06-15 Patreon update - Armories for tool-maker / tool-user collaborations",
+          "linkingNoteSlug": "zWV2yPQUJWNm6MfbbxT1Tur",
+          "contextBlocks": [
+            "[[z2MeZGv57tNcz5rh64ebSNz:::Collaborations between tool-makers and tool-users can best iterate via a sequence of different projects]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "§Corporate research lab practices",
+          "linkingNoteSlug": "zKHWU8WK3KKy9peGmq1nTwi",
+          "contextBlocks": [
+            "[[z2MeZGv57tNcz5rh64ebSNz:::Collaborations between tool-makers and tool-users can best iterate via a sequence of different projects]]"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zG1S2XhBhJa7PWeSkKna2Y2",
+        "zFjTBdLjTRYsyoDyqyBEPNN",
+        "z7EQ2nVGus5B1rS9CqT18g6",
+        "zWfTX3cjB1mFZhCJkFGu8aH"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

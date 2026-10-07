@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zV7ho8fLnyvPCGV3zpLFTHb?stackedNotes=z2D1qPwddPktBjpNuwYFVva&stackedNotes=zQKe7JZs1CYqHBnLyDhMQYQ
+URL:
+  - "https://notes.andymatuschak.org/zV7ho8fLnyvPCGV3zpLFTHb?stackedNotes=z2D1qPwddPktBjpNuwYFVva&stackedNotes=zQKe7JZs1CYqHBnLyDhMQYQ"
 title: "Memory augmentation can accelerate the unpleasant early stages of learning a subject"
 ---
 # Memory augmentation can accelerate the unpleasant early stages of learning a subject

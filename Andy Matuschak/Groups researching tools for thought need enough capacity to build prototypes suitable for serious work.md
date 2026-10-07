@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z7RGGgVdDVHXkzJ6BVFKws8?stackedNotes=zG1S2XhBhJa7PWeSkKna2Y2&stackedNotes=zYUNgBzgTATxnnNbzLFnuLF
+URL:
+  - "https://notes.andymatuschak.org/z7RGGgVdDVHXkzJ6BVFKws8?stackedNotes=zG1S2XhBhJa7PWeSkKna2Y2&stackedNotes=zYUNgBzgTATxnnNbzLFnuLF"
 title: "Groups researching tools for thought need enough capacity to build prototypes suitable for serious work"
 ---
 # Groups researching tools for thought need enough capacity to build prototypes suitable for serious work

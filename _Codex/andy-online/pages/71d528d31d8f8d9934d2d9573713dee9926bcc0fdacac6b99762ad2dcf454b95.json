@@ -1,0 +1,120 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Two-component_model_of_memory",
+  "checked_at": "2026-10-07T22:28:50.154310+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zCgYSHF9xQSEe71x9ML1NLB",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zCgYSHF9xQSEe71x9ML1NLB": {
+        "data": {
+          "slug": "zCgYSHF9xQSEe71x9ML1NLB",
+          "title": "Two-component model of memory",
+          "contentMarkdown": "# Two-component model of memory\n\nThis model of memory suggests that the decay of a memory over time can be accurately described by two parameters: {retrievability} and {stability}.\n\nRetrievability is defined as the {probability of a person remembering a fact after a period of time}. Stability is defined as {the durability of the memory: how long it will last if not retrieved}. Their relationship is approximated by {`R ∝ exp(-t / S)`}.\n\nStability increases with each review, so that retrievability falls more slowly with each repetition (see [[z4KScVkQCD2XmVwvSDUbZtn:::Spacing effect]]). Retrieval appears to increase stability more when retrievability is low: that is, [[zCyRxeMEg53C6mMfXYH2gxn:::Less accessible memories are more reinforced by retrieval]] (see also [[zYB7kwEFRu8QALcbzbcoy9T:::Desirable difficulties, after Bjork]]). [[z2oUypiCEtPaDqNjbUsawCj:::Supermemo]] [tries to characterize this relationship with an exponential curve](https://supermemo.guru/wiki/Spacing_effect_gain), but the model complexity is high enough that I’m skeptical.\n\nThis model explains why it can be helpful to study even material which one can successfully recall (“overlearning”): even when retrieval strength is relatively high, study can increase storage strength, which will decrease subsequent retrieval strength decay ([[zYPeHVeq311Jh4whSstyeFX:::Robert A. Bjork]] and Bjork, 1992).\n\nIn practical use as part of a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]], a third parameter for item complexity must generally be introduced, since SRS items are generally not actually atomic, as far as our brains are concerned.\n\n[[zT8N3LTbePn2LVD7ZhJ5TLr:::Piotr Wozniak]] uses retrievability and stability in his analysis; [[zYPeHVeq311Jh4whSstyeFX:::Robert A. Bjork]] and Bjork (1992) call an analogous pair of parameters retrieval strength and storage strength, respectively.\n\n---\n\nQ. Express two-component memory model’s stability component analytically.\nA. Stability is the time interval within which retrievability is above some threshold, e.g. 90%.\n\n---\n\n## References\n\n[Two component model of memory - supermemo.guru](https://supermemo.guru/wiki/Two_component_model_of_memory)\n\nBjork, R. A., & Bjork, E. L. (1992). *A new theory of disuse and an old theory of stimulus fluctuation.* In A. F. Healy, S. M. Kosslyn, & R. M. Shiffrin (Eds.), *Essays in honor of William K. Estes, Vol. 1. From learning theory to connectionist theory; Vol. 2. From learning processes to cognitive processes* (p. 35–67). Lawrence Erlbaum Associates, Inc.\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Spacing effect",
+              "linkingNoteSlug": "z4KScVkQCD2XmVwvSDUbZtn",
+              "contextBlocks": [
+                "[[zCyRxeMEg53C6mMfXYH2gxn:::Less accessible memories are more reinforced by retrieval]], which may enhance learning via [[zCgYSHF9xQSEe71x9ML1NLB:::Two-component model of memory]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Forgetting curve",
+              "linkingNoteSlug": "z26AXzY1oNUMSENevADMhGV",
+              "contextBlocks": [
+                "Initially characterized by [[zXUmVzxexnpvtmR6zpKBxUp:::Hermann Ebbinghaus]], the “forgetting curve” describes a class of related power-law phenomena around forgetting and memory: roughly speaking, memory “retrieval strength” (see [[zCgYSHF9xQSEe71x9ML1NLB:::Two-component model of memory]]) seems to decrease along a power-law curve after initial exposure."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Retry outcomes may give extra retrievability signal",
+              "linkingNoteSlug": "zErv2pkPFBG8aVQMgBoJvMd",
+              "contextBlocks": [
+                "A big problem for models and evaluation in a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] is that you’re trying to estimate a continuous value (probability of recall, or retrievability per [[zCgYSHF9xQSEe71x9ML1NLB:::Two-component model of memory]]) over time, but all you get are these sparse one-bit binomial samples: remembered, or didn’t remember. If a reader failed to remember, their retrievability might be 10%, or it might be 90%."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "How to consider cost benefit tradeoffs of practice vs retention in spaced repetition memory systems?",
+              "linkingNoteSlug": "zVjc6ZRapaCjmmvkB2nvBiT",
+              "contextBlocks": [
+                "Practicing more will get you higher stability ([[zCgYSHF9xQSEe71x9ML1NLB:::Two-component model of memory]]) but of course it also takes more time. How to square this? Can we construct some unifying model?"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "z4KScVkQCD2XmVwvSDUbZtn",
+            "zCyRxeMEg53C6mMfXYH2gxn",
+            "zYB7kwEFRu8QALcbzbcoy9T",
+            "z2oUypiCEtPaDqNjbUsawCj",
+            "zYPeHVeq311Jh4whSstyeFX",
+            "z2D1qPwddPktBjpNuwYFVva",
+            "zT8N3LTbePn2LVD7ZhJ5TLr",
+            "zYPeHVeq311Jh4whSstyeFX"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zCgYSHF9xQSEe71x9ML1NLB",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zCgYSHF9xQSEe71x9ML1NLB",
+      "title": "Two-component model of memory",
+      "contentMarkdown": "# Two-component model of memory\n\nThis model of memory suggests that the decay of a memory over time can be accurately described by two parameters: {retrievability} and {stability}.\n\nRetrievability is defined as the {probability of a person remembering a fact after a period of time}. Stability is defined as {the durability of the memory: how long it will last if not retrieved}. Their relationship is approximated by {`R ∝ exp(-t / S)`}.\n\nStability increases with each review, so that retrievability falls more slowly with each repetition (see [[z4KScVkQCD2XmVwvSDUbZtn:::Spacing effect]]). Retrieval appears to increase stability more when retrievability is low: that is, [[zCyRxeMEg53C6mMfXYH2gxn:::Less accessible memories are more reinforced by retrieval]] (see also [[zYB7kwEFRu8QALcbzbcoy9T:::Desirable difficulties, after Bjork]]). [[z2oUypiCEtPaDqNjbUsawCj:::Supermemo]] [tries to characterize this relationship with an exponential curve](https://supermemo.guru/wiki/Spacing_effect_gain), but the model complexity is high enough that I’m skeptical.\n\nThis model explains why it can be helpful to study even material which one can successfully recall (“overlearning”): even when retrieval strength is relatively high, study can increase storage strength, which will decrease subsequent retrieval strength decay ([[zYPeHVeq311Jh4whSstyeFX:::Robert A. Bjork]] and Bjork, 1992).\n\nIn practical use as part of a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]], a third parameter for item complexity must generally be introduced, since SRS items are generally not actually atomic, as far as our brains are concerned.\n\n[[zT8N3LTbePn2LVD7ZhJ5TLr:::Piotr Wozniak]] uses retrievability and stability in his analysis; [[zYPeHVeq311Jh4whSstyeFX:::Robert A. Bjork]] and Bjork (1992) call an analogous pair of parameters retrieval strength and storage strength, respectively.\n\n---\n\nQ. Express two-component memory model’s stability component analytically.\nA. Stability is the time interval within which retrievability is above some threshold, e.g. 90%.\n\n---\n\n## References\n\n[Two component model of memory - supermemo.guru](https://supermemo.guru/wiki/Two_component_model_of_memory)\n\nBjork, R. A., & Bjork, E. L. (1992). *A new theory of disuse and an old theory of stimulus fluctuation.* In A. F. Healy, S. M. Kosslyn, & R. M. Shiffrin (Eds.), *Essays in honor of William K. Estes, Vol. 1. From learning theory to connectionist theory; Vol. 2. From learning processes to cognitive processes* (p. 35–67). Lawrence Erlbaum Associates, Inc.\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Spacing effect",
+          "linkingNoteSlug": "z4KScVkQCD2XmVwvSDUbZtn",
+          "contextBlocks": [
+            "[[zCyRxeMEg53C6mMfXYH2gxn:::Less accessible memories are more reinforced by retrieval]], which may enhance learning via [[zCgYSHF9xQSEe71x9ML1NLB:::Two-component model of memory]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Forgetting curve",
+          "linkingNoteSlug": "z26AXzY1oNUMSENevADMhGV",
+          "contextBlocks": [
+            "Initially characterized by [[zXUmVzxexnpvtmR6zpKBxUp:::Hermann Ebbinghaus]], the “forgetting curve” describes a class of related power-law phenomena around forgetting and memory: roughly speaking, memory “retrieval strength” (see [[zCgYSHF9xQSEe71x9ML1NLB:::Two-component model of memory]]) seems to decrease along a power-law curve after initial exposure."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Retry outcomes may give extra retrievability signal",
+          "linkingNoteSlug": "zErv2pkPFBG8aVQMgBoJvMd",
+          "contextBlocks": [
+            "A big problem for models and evaluation in a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] is that you’re trying to estimate a continuous value (probability of recall, or retrievability per [[zCgYSHF9xQSEe71x9ML1NLB:::Two-component model of memory]]) over time, but all you get are these sparse one-bit binomial samples: remembered, or didn’t remember. If a reader failed to remember, their retrievability might be 10%, or it might be 90%."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "How to consider cost benefit tradeoffs of practice vs retention in spaced repetition memory systems?",
+          "linkingNoteSlug": "zVjc6ZRapaCjmmvkB2nvBiT",
+          "contextBlocks": [
+            "Practicing more will get you higher stability ([[zCgYSHF9xQSEe71x9ML1NLB:::Two-component model of memory]]) but of course it also takes more time. How to square this? Can we construct some unifying model?"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "z4KScVkQCD2XmVwvSDUbZtn",
+        "zCyRxeMEg53C6mMfXYH2gxn",
+        "zYB7kwEFRu8QALcbzbcoy9T",
+        "z2oUypiCEtPaDqNjbUsawCj",
+        "zYPeHVeq311Jh4whSstyeFX",
+        "z2D1qPwddPktBjpNuwYFVva",
+        "zT8N3LTbePn2LVD7ZhJ5TLr",
+        "zYPeHVeq311Jh4whSstyeFX"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

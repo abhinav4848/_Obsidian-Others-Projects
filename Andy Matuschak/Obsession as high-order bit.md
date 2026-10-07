@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z4ULp2KUgq3hBCJMWTUnLDX?stackedNotes=zGD1FxbDZd7WnH7NrhRaVyC&stackedNotes=zTYb9ysCATFYCnvay3V5sF2
+URL:
+  - "https://notes.andymatuschak.org/z4ULp2KUgq3hBCJMWTUnLDX?stackedNotes=zGD1FxbDZd7WnH7NrhRaVyC&stackedNotes=zTYb9ysCATFYCnvay3V5sF2"
 title: "Obsession as high-order bit"
 ---
 # Obsession as high-order bit

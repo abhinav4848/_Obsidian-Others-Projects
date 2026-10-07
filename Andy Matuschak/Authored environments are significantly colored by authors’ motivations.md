@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zY3aLuvtsYS54QnymGKFGwg?stackedNotes=zU6upTVz687icnQegpMhLY8&stackedNotes=z4wZFERkVVVVy6bN6BE8kQz
+URL:
+  - "https://notes.andymatuschak.org/zY3aLuvtsYS54QnymGKFGwg?stackedNotes=zU6upTVz687icnQegpMhLY8&stackedNotes=z4wZFERkVVVVy6bN6BE8kQz"
 title: "Authored environments are significantly colored by authors’ motivations"
 ---
 # Authored environments are significantly colored by authors’ motivations

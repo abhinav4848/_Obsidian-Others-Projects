@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zCMhncA1iSE74MKKYQS5PBZ?stackedNotes=zF9ywLHqHfN5rFuPApiyqmP&stackedNotes=z4ehFvVvhxoMGtBudLpDoeN
+URL:
+  - "https://notes.andymatuschak.org/zCMhncA1iSE74MKKYQS5PBZ?stackedNotes=zF9ywLHqHfN5rFuPApiyqmP&stackedNotes=z4ehFvVvhxoMGtBudLpDoeN"
 title: "Pitching out corrupts within"
 ---
 # Pitching out corrupts within

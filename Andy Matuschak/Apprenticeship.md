@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zPrYC99kH227c1otipAefyQ?stackedNotes=zMhuu3pPa6FeNGYn3VfGCar&stackedNotes=z8aBPhjq7R6o8cwVNjzfDdr
+URL:
+  - "https://notes.andymatuschak.org/zPrYC99kH227c1otipAefyQ?stackedNotes=zMhuu3pPa6FeNGYn3VfGCar&stackedNotes=z8aBPhjq7R6o8cwVNjzfDdr"
 title: "Apprenticeship"
 ---
 # Apprenticeship

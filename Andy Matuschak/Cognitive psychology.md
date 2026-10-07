@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z2hQEhqWkdRLL9JUwfawZZx?stackedNotes=z8ccRLda8BqJafNxjQBpzis&stackedNotes=z5h4qfsMg1t1vC9EnfiAdK1
+URL:
+  - "https://notes.andymatuschak.org/z2hQEhqWkdRLL9JUwfawZZx?stackedNotes=z8ccRLda8BqJafNxjQBpzis&stackedNotes=z5h4qfsMg1t1vC9EnfiAdK1"
 title: "Cognitive psychology"
 ---
 Category talked about: Psychology

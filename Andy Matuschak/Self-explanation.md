@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z9Uq4yzBT1QaBU8twwyvm7P?stackedNotes=zUR6RM21Sa88cFDfC47svVv&stackedNotes=zCQYRYZTQRmrR4bFGCzCMkR
+URL:
+  - "https://notes.andymatuschak.org/z9Uq4yzBT1QaBU8twwyvm7P?stackedNotes=zUR6RM21Sa88cFDfC47svVv&stackedNotes=zCQYRYZTQRmrR4bFGCzCMkR"
 title: "Self-explanation"
 ---
 # Self-explanation

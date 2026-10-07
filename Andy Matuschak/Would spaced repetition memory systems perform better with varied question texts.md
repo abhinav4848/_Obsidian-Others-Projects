@@ -1,7 +1,8 @@
 ---
 aliases:
   - Would spaced repetition memory systems perform better with varied question texts?
-URL: https://notes.andymatuschak.org/z3NDe3nR9hvqRqWWtvZdxe7?stackedNotes=zBcEii9Hf2Rv7vsUSB7pBoP&stackedNotes=z2HrihbnTYxjcu382ihWE9P
+URL:
+  - "https://notes.andymatuschak.org/z3NDe3nR9hvqRqWWtvZdxe7?stackedNotes=zBcEii9Hf2Rv7vsUSB7pBoP&stackedNotes=z2HrihbnTYxjcu382ihWE9P"
 title: "Would spaced repetition memory systems perform better with varied question texts"
 ---
 # Would spaced repetition memory systems perform better with varied question texts

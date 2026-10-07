@@ -1,5 +1,7 @@
 ---
-URL: ["https://notes.andymatuschak.org/zSK4LyrCbG9zDrdCWmcovUW?stackedNotes=zB92WZZ5baBHKZPPbWMbYEv&stackedNotes=z53zJy6y76MGuJuWW4Qvab9", "https://notes.andymatuschak.org/zB92WZZ5baBHKZPPbWMbYEv"]
+URL:
+  - "https://notes.andymatuschak.org/zSK4LyrCbG9zDrdCWmcovUW?stackedNotes=zB92WZZ5baBHKZPPbWMbYEv&stackedNotes=z53zJy6y76MGuJuWW4Qvab9"
+  - "https://notes.andymatuschak.org/zB92WZZ5baBHKZPPbWMbYEv"
 title: "Spaced repetition systems can be used to program attention"
 ---
 # Spaced repetition systems can be used to program attention

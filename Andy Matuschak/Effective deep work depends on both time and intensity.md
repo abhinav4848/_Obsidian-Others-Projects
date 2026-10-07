@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zJwcvZbtq2iQwpd63Go9tD4?stackedNotes=zWTgG8ddRz5h1WbNMYnrnqX
+URL:
+  - "https://notes.andymatuschak.org/zJwcvZbtq2iQwpd63Go9tD4?stackedNotes=zWTgG8ddRz5h1WbNMYnrnqX"
 title: "Effective deep work depends on both time and intensity"
 ---
 # Effective deep work depends on both time and intensity

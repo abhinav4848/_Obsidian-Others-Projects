@@ -1,5 +1,7 @@
 ---
-URL: ["https://notes.andymatuschak.org/zVYmgUqqnJD1hduFhHYTkKj?stackedNotes=zQLzzf8VcSgTHn75yiEU7mJ&stackedNotes=z7HFVGjcRSb5fAEEnsJyqak", "https://notes.andymatuschak.org/zQLzzf8VcSgTHn75yiEU7mJ"]
+URL:
+  - "https://notes.andymatuschak.org/zVYmgUqqnJD1hduFhHYTkKj?stackedNotes=zQLzzf8VcSgTHn75yiEU7mJ&stackedNotes=z7HFVGjcRSb5fAEEnsJyqak"
+  - "https://notes.andymatuschak.org/zQLzzf8VcSgTHn75yiEU7mJ"
 title: "The mnemonic medium can surface “proof of memory” social signals"
 ---
 # The mnemonic medium can surface “proof of memory” social signals

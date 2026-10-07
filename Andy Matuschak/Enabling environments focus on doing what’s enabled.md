@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/z2etsLyP1LJUwNDPCwvRdUG"
+URL:
+  - "https://notes.andymatuschak.org/z2etsLyP1LJUwNDPCwvRdUG"
 title: "Enabling environments focus on doing what’s enabled"
 ---
 # Enabling environments focus on doing what’s enabled

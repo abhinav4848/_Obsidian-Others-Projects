@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zHV89H7dqnrvNvwXHBSGog9?stackedNotes=zTYb9ysCATFYCnvay3V5sF2&stackedNotes=zGD1FxbDZd7WnH7NrhRaVyC
+URL:
+  - "https://notes.andymatuschak.org/zHV89H7dqnrvNvwXHBSGog9?stackedNotes=zTYb9ysCATFYCnvay3V5sF2&stackedNotes=zGD1FxbDZd7WnH7NrhRaVyC"
 title: "How might we situate tools for thought within intrinsically meaningful contexts"
 ---
 # How might we situate tools for thought within intrinsically meaningful contexts

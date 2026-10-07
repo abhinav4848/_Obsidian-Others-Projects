@@ -1,5 +1,7 @@
 ---
-URL: ["https://notes.andymatuschak.org/z2D1qPwddPktBjpNuwYFVva?stackedNotes=z3R2EmEqQz6CVZifHWYMB7B&stackedNotes=zSTqsQ4ATXB61k3Z43TforN", "https://notes.andymatuschak.org/z3R2EmEqQz6CVZifHWYMB7B"]
+URL:
+  - "https://notes.andymatuschak.org/z2D1qPwddPktBjpNuwYFVva?stackedNotes=z3R2EmEqQz6CVZifHWYMB7B&stackedNotes=zSTqsQ4ATXB61k3Z43TforN"
+  - "https://notes.andymatuschak.org/z3R2EmEqQz6CVZifHWYMB7B"
 title: "Many people view memory as unimportant to deep creative work"
 ---
 # Many people view memory as unimportant to deep creative work

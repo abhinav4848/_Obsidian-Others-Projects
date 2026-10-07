@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zQDtyijWebs1Su1Z8rZptot?stackedNotes=z92TGMiBsnraf5KXxSTNkBJ&stackedNotes=zRWEWHx4cQyqQWRh26gp7ad
+URL:
+  - "https://notes.andymatuschak.org/zQDtyijWebs1Su1Z8rZptot?stackedNotes=z92TGMiBsnraf5KXxSTNkBJ&stackedNotes=zRWEWHx4cQyqQWRh26gp7ad"
 title: "Participatory environment"
 ---
 # Participatory environment

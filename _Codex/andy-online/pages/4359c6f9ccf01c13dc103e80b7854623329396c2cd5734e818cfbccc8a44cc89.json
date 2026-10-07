@@ -1,0 +1,174 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Core_practices_in_knowledge_work_are_often_ad-hoc",
+  "checked_at": "2026-10-07T22:28:38.739521+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zPFYKBrsvL88opKh28UYxWv",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zPFYKBrsvL88opKh28UYxWv": {
+        "data": {
+          "slug": "zPFYKBrsvL88opKh28UYxWv",
+          "title": "Core practices in knowledge work are often ad-hoc",
+          "contentMarkdown": "# Core practices in knowledge work are often ad-hoc\n\nKnowledge workers’ routinely involves complex, underspecified tasks like understanding the basics of a new industry or writing a memo on some strategic consideration. Even when these responsibilities are core to their work, knowledge workers’ approach to these tasks is often ad-hoc—created on the spot based on past experience, instincts, aphorisms, and whim. These practices are the opposite of a [[zVyJffuisLSjaDVtBtxsmSS:::Executable strategy]].\n\nThis way of working is highly contingent on both practitioner and context, so it’s difficult for knowledge workers to share and build knowledge about these practices.\n\nWithout consistent ground to stand on, it’s difficult for knowledge workers to evaluate and develop their own performance relative to these core tasks.  [[zMX9Lfuz8sGfDUivWZcyWT:::Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do]]\n\nBecause these processes aren’t considered systematically, knowledge workers typically don’t structure the outputs of these tasks so that they will accumulate into something more valuable over time (contra [[zTn3g4wTm1hbkNFUvLLjpev:::Knowledge work should accrete]]).\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Spaced repetition memory systems make memory a choice",
+              "linkingNoteSlug": "zSTqsQ4ATXB61k3Z43TforN",
+              "contextBlocks": [
+                "This radically changes one’s relationship with memory! [[zPFYKBrsvL88opKh28UYxWv:::Core practices in knowledge work are often ad-hoc]], and “remembering details” is a good example of a typically ad-hoc practice. But spaced repetition memory systems are an authentic [[zVyJffuisLSjaDVtBtxsmSS:::Executable strategy]] for remembering specific details."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Note-writing practices are generally ineffective",
+              "linkingNoteSlug": "zDfV5GX8kKScLkE8Dq1rFUk",
+              "contextBlocks": [
+                "In part because [[zUhd6Hb5dk35PPpnCHvd6bV:::Note-writing practices provide weak feedback]], people don’t even notice how ineffective their note-writing practices are. They develop some baseline level of note-writing skill and mostly stay there ([[zDV9WUPTpX5MbZb4UJEwXr1:::People generally develop skills to a plateau and then stop]]). Expert performance is not well-defined, so it’s not obvious that people aren’t performing well ([[zQeW31KRF1tk2zCPPGWc7UD:::Salience of improvement drives skill development]]). All this is true of other core knowledge work skills, too: [[zPFYKBrsvL88opKh28UYxWv:::Core practices in knowledge work are often ad-hoc]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do",
+              "linkingNoteSlug": "zMX9Lfuz8sGfDUivWZcyWT",
+              "contextBlocks": [
+                "By comparison, [[zMbCwoVdjsqPNyTRRr3phPN:::Knowledge work rarely involves deliberate practice]]. Knowledge workers seem surprisingly unserious about honing fundamental skills like reading ([[zL33c5cHy4bH7HvMcv2py9H:::People seem to forget most of what they read, and they mostly don’t notice]]), note-taking ([[zDfV5GX8kKScLkE8Dq1rFUk:::Note-writing practices are generally ineffective]]), developing ideas over time ([[zQUKGy9JpHnWRDJh7X6yP9t:::Knowledge workers usually have no specific methods for developing ideas over time]]). [[zPFYKBrsvL88opKh28UYxWv:::Core practices in knowledge work are often ad-hoc]], and knowledge workers generally don’t seem to pursue a serious program of improving in those core skills. I suspect that this is in large part because the possibility of improvement isn’t salient: [[zQeW31KRF1tk2zCPPGWc7UD:::Salience of improvement drives skill development]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Executable strategy",
+              "linkingNoteSlug": "zVyJffuisLSjaDVtBtxsmSS",
+              "contextBlocks": [
+                "In creative work and in life, many goals seem unpredictable and unwieldy, reliant on hope and luck: starting a habit, getting in shape, writing a book, doing a research project, etc. (see [[zPFYKBrsvL88opKh28UYxWv:::Core practices in knowledge work are often ad-hoc]])"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Naive approaches to practice rapidly plateau",
+              "linkingNoteSlug": "zALB77pBFKPZae7f5kD3ro1",
+              "contextBlocks": [
+                "This may partially explain [[zDfV5GX8kKScLkE8Dq1rFUk:::Note-writing practices are generally ineffective]]: anecdotally, most people seemed to spend some ineffectual effort thinking about note-taking practices in school, reached a level of automaticity, then stopped thinking about it again. It may also explain aspects of [[zPFYKBrsvL88opKh28UYxWv:::Core practices in knowledge work are often ad-hoc]] (e.g. [[zQUKGy9JpHnWRDJh7X6yP9t:::Knowledge workers usually have no specific methods for developing ideas over time]])."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "§Taking knowledge work seriously (Stripe convergence talk, 2019-12-12)",
+              "linkingNoteSlug": "zBmSSpM1WfFDehxNCBcqSZp",
+              "contextBlocks": [
+                "[[zPFYKBrsvL88opKh28UYxWv:::Core practices in knowledge work are often ad-hoc]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Management science focuses on knowledge work at the level of the firm and the manager, not at the level of the individual",
+              "linkingNoteSlug": "z42RbvjQwHecBesDThrPobe",
+              "contextBlocks": [
+                "When economic output shifted to [[zGFtGAjdHWAT5sHiGxCLCqK:::Knowledge work]], the field’s focus remained on the manager and the firm, since the individual workers had never mattered that much. This may be one reason why [[zPFYKBrsvL88opKh28UYxWv:::Core practices in knowledge work are often ad-hoc]] and [[zUJzDyeg71G9XRAXjgHQS6y:::We don’t know how to measure knowledge worker productivity]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "§Knowledge work as serious discipline",
+              "linkingNoteSlug": "zAVF3mepMcuTWVUJaeHTL77",
+              "contextBlocks": [
+                "[[zPFYKBrsvL88opKh28UYxWv:::Core practices in knowledge work are often ad-hoc]]"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zVyJffuisLSjaDVtBtxsmSS",
+            "zMX9Lfuz8sGfDUivWZcyWT",
+            "zTn3g4wTm1hbkNFUvLLjpev"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zPFYKBrsvL88opKh28UYxWv",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zPFYKBrsvL88opKh28UYxWv",
+      "title": "Core practices in knowledge work are often ad-hoc",
+      "contentMarkdown": "# Core practices in knowledge work are often ad-hoc\n\nKnowledge workers’ routinely involves complex, underspecified tasks like understanding the basics of a new industry or writing a memo on some strategic consideration. Even when these responsibilities are core to their work, knowledge workers’ approach to these tasks is often ad-hoc—created on the spot based on past experience, instincts, aphorisms, and whim. These practices are the opposite of a [[zVyJffuisLSjaDVtBtxsmSS:::Executable strategy]].\n\nThis way of working is highly contingent on both practitioner and context, so it’s difficult for knowledge workers to share and build knowledge about these practices.\n\nWithout consistent ground to stand on, it’s difficult for knowledge workers to evaluate and develop their own performance relative to these core tasks.  [[zMX9Lfuz8sGfDUivWZcyWT:::Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do]]\n\nBecause these processes aren’t considered systematically, knowledge workers typically don’t structure the outputs of these tasks so that they will accumulate into something more valuable over time (contra [[zTn3g4wTm1hbkNFUvLLjpev:::Knowledge work should accrete]]).\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Spaced repetition memory systems make memory a choice",
+          "linkingNoteSlug": "zSTqsQ4ATXB61k3Z43TforN",
+          "contextBlocks": [
+            "This radically changes one’s relationship with memory! [[zPFYKBrsvL88opKh28UYxWv:::Core practices in knowledge work are often ad-hoc]], and “remembering details” is a good example of a typically ad-hoc practice. But spaced repetition memory systems are an authentic [[zVyJffuisLSjaDVtBtxsmSS:::Executable strategy]] for remembering specific details."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Note-writing practices are generally ineffective",
+          "linkingNoteSlug": "zDfV5GX8kKScLkE8Dq1rFUk",
+          "contextBlocks": [
+            "In part because [[zUhd6Hb5dk35PPpnCHvd6bV:::Note-writing practices provide weak feedback]], people don’t even notice how ineffective their note-writing practices are. They develop some baseline level of note-writing skill and mostly stay there ([[zDV9WUPTpX5MbZb4UJEwXr1:::People generally develop skills to a plateau and then stop]]). Expert performance is not well-defined, so it’s not obvious that people aren’t performing well ([[zQeW31KRF1tk2zCPPGWc7UD:::Salience of improvement drives skill development]]). All this is true of other core knowledge work skills, too: [[zPFYKBrsvL88opKh28UYxWv:::Core practices in knowledge work are often ad-hoc]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do",
+          "linkingNoteSlug": "zMX9Lfuz8sGfDUivWZcyWT",
+          "contextBlocks": [
+            "By comparison, [[zMbCwoVdjsqPNyTRRr3phPN:::Knowledge work rarely involves deliberate practice]]. Knowledge workers seem surprisingly unserious about honing fundamental skills like reading ([[zL33c5cHy4bH7HvMcv2py9H:::People seem to forget most of what they read, and they mostly don’t notice]]), note-taking ([[zDfV5GX8kKScLkE8Dq1rFUk:::Note-writing practices are generally ineffective]]), developing ideas over time ([[zQUKGy9JpHnWRDJh7X6yP9t:::Knowledge workers usually have no specific methods for developing ideas over time]]). [[zPFYKBrsvL88opKh28UYxWv:::Core practices in knowledge work are often ad-hoc]], and knowledge workers generally don’t seem to pursue a serious program of improving in those core skills. I suspect that this is in large part because the possibility of improvement isn’t salient: [[zQeW31KRF1tk2zCPPGWc7UD:::Salience of improvement drives skill development]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Executable strategy",
+          "linkingNoteSlug": "zVyJffuisLSjaDVtBtxsmSS",
+          "contextBlocks": [
+            "In creative work and in life, many goals seem unpredictable and unwieldy, reliant on hope and luck: starting a habit, getting in shape, writing a book, doing a research project, etc. (see [[zPFYKBrsvL88opKh28UYxWv:::Core practices in knowledge work are often ad-hoc]])"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Naive approaches to practice rapidly plateau",
+          "linkingNoteSlug": "zALB77pBFKPZae7f5kD3ro1",
+          "contextBlocks": [
+            "This may partially explain [[zDfV5GX8kKScLkE8Dq1rFUk:::Note-writing practices are generally ineffective]]: anecdotally, most people seemed to spend some ineffectual effort thinking about note-taking practices in school, reached a level of automaticity, then stopped thinking about it again. It may also explain aspects of [[zPFYKBrsvL88opKh28UYxWv:::Core practices in knowledge work are often ad-hoc]] (e.g. [[zQUKGy9JpHnWRDJh7X6yP9t:::Knowledge workers usually have no specific methods for developing ideas over time]])."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "§Taking knowledge work seriously (Stripe convergence talk, 2019-12-12)",
+          "linkingNoteSlug": "zBmSSpM1WfFDehxNCBcqSZp",
+          "contextBlocks": [
+            "[[zPFYKBrsvL88opKh28UYxWv:::Core practices in knowledge work are often ad-hoc]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Management science focuses on knowledge work at the level of the firm and the manager, not at the level of the individual",
+          "linkingNoteSlug": "z42RbvjQwHecBesDThrPobe",
+          "contextBlocks": [
+            "When economic output shifted to [[zGFtGAjdHWAT5sHiGxCLCqK:::Knowledge work]], the field’s focus remained on the manager and the firm, since the individual workers had never mattered that much. This may be one reason why [[zPFYKBrsvL88opKh28UYxWv:::Core practices in knowledge work are often ad-hoc]] and [[zUJzDyeg71G9XRAXjgHQS6y:::We don’t know how to measure knowledge worker productivity]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "§Knowledge work as serious discipline",
+          "linkingNoteSlug": "zAVF3mepMcuTWVUJaeHTL77",
+          "contextBlocks": [
+            "[[zPFYKBrsvL88opKh28UYxWv:::Core practices in knowledge work are often ad-hoc]]"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zVyJffuisLSjaDVtBtxsmSS",
+        "zMX9Lfuz8sGfDUivWZcyWT",
+        "zTn3g4wTm1hbkNFUvLLjpev"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

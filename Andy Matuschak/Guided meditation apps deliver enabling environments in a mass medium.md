@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zSNDTj75ULnYMo7pGm2Frg7?stackedNotes=z4exmF6rnZTE9GjCnpFBKUT&stackedNotes=z2V9HnsFTZAKMHmoMsWboHx
+URL:
+  - "https://notes.andymatuschak.org/zSNDTj75ULnYMo7pGm2Frg7?stackedNotes=z4exmF6rnZTE9GjCnpFBKUT&stackedNotes=z2V9HnsFTZAKMHmoMsWboHx"
 title: "Guided meditation apps deliver enabling environments in a mass medium"
 ---
 # Guided meditation apps deliver enabling environments in a mass medium

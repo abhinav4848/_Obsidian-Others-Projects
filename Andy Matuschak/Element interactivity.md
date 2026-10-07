@@ -1,5 +1,7 @@
 ---
-URL: ["https://notes.andymatuschak.org/z3zo16mx2Dp3PB4J1ty1DGy?stackedNotes=z7JRyqSwVbW2a8U44w2RkR6&stackedNotes=zBk3AaWYp4spoTbc1f5aYvC", "https://notes.andymatuschak.org/Element_interactivity"]
+URL:
+  - "https://notes.andymatuschak.org/z3zo16mx2Dp3PB4J1ty1DGy?stackedNotes=z7JRyqSwVbW2a8U44w2RkR6&stackedNotes=zBk3AaWYp4spoTbc1f5aYvC"
+  - "https://notes.andymatuschak.org/Element_interactivity"
 title: "Element interactivity"
 ---
 # Element interactivity

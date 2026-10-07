@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zB74H9CuWrosEuqve7jZyCo?stackedNotes=zRbqwbnhmVdfLtKxMCibMoX&stackedNotes=z6Y1zo4evjFNUim1nHtL6Sv
+URL:
+  - "https://notes.andymatuschak.org/zB74H9CuWrosEuqve7jZyCo?stackedNotes=zRbqwbnhmVdfLtKxMCibMoX&stackedNotes=z6Y1zo4evjFNUim1nHtL6Sv"
 title: "Writing forces sharper understanding"
 ---
 # Writing forces sharper understanding

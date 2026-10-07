@@ -1,0 +1,98 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/z12PGwFx275xTmGHazNgQbn",
+  "checked_at": "2026-10-07T22:30:58.757087+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/z12PGwFx275xTmGHazNgQbn",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "z12PGwFx275xTmGHazNgQbn": {
+        "data": {
+          "slug": "z12PGwFx275xTmGHazNgQbn",
+          "title": "The most effective readers and thinkers I know don’t take notes when reading",
+          "contentMarkdown": "# The most effective readers and thinkers I know don’t take notes when reading\n\nSome of them do very simple things—jotting a few key references on the back page, or writing intermittently in the margin—but none of them implements any kind of consistent practice like the one described in [[zB74H9CuWrosEuqve7jZyCo:::Write about what you read to internalize texts deeply]]. It’s not that they’ve so deeply internalized and automatized those practices that they seem invisible: they’re just not doing those things.\n\nThey’re all expert readers, though, in their own way. They read for a purpose; they discuss what they read with others; they use what they read as part of creative projects; etc. So they’re not more effective than other readers for no reason at all.\n\nIn fact, the negation almost seems true: most note-taking fanatics seem to actually be quite ineffective thinkers. This should give one pause that it’s important to [[zB74H9CuWrosEuqve7jZyCo:::Write about what you read to internalize texts deeply]]! I suspect that the key issue here is [[zAf4oNSV9qB38ncSvYEZGAb:::“Better note-taking” misses the point; what matters is “better thinking”]]; such people are focused on “better note-taking.” [[z51q8prEJzs5Jqa5WPThYoV:::People who write extensively about note-writing rarely have a serious context of use]].\n\nThat said: [[zGEw4kJNMh8aK19aD2NyV6r:::Many eminent thinkers need a writing surface to think]]. And many historical figures had sprawling note-taking practices: Locke, Bacon, Erasmus, Linneaus, Newton, Jefferson, Milton, Emerson, etc. I wonder why the difference between these figures and the effective readers I know. OK, maybe I don’t know someone on Newton’s level, but my network certainly contains many eminent thinkers!\n\nHere’s a more optimistic take. There are (and have always been) people who don’t write notes and are very effective. On the margin, writing may not help them much. But effective people are rare; most people aren’t. On the margin, writing may allow otherwise-ineffective people to join them. And we wouldn’t necessarily see this effect in the distribution of people out in the world, if e.g. writing were culturally unpopular, or if getting the benefits required special techniques/knowledge which were not widely known. I think it’s likely that this conjecture is true to *some* extent, but I’m not at all confident that the effect size matters.\n\n---\n\n## References\n\nMy Twitter thread on this note: [Andy Matuschak on Twitter: “One way to dream up post-book media to make reading more effective and meaningful is to systematize “expert” practices (e.g. How to Read a Book), so more people can do them, more reliably and more cheaply. But… the most erudite people I know don’t actually do those things!”](https://twitter.com/andy_matuschak/status/1211487900505792512)\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Write about what you read to internalize texts deeply",
+              "linkingNoteSlug": "zB74H9CuWrosEuqve7jZyCo",
+              "contextBlocks": [
+                "Also, it’s worth noting: [[z12PGwFx275xTmGHazNgQbn:::The most effective readers and thinkers I know don’t take notes when reading]]. Speaking at least for myself, experience has suggested that I need more support to effectively engage with what I’m reading."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "People who write extensively about note-writing rarely have a serious context of use",
+              "linkingNoteSlug": "z51q8prEJzs5Jqa5WPThYoV",
+              "contextBlocks": [
+                "I’m not quite guilty of this problem myself, but I certainly slip into this behavior for weeks at a time. This is a cautionary note. Related: [[z12PGwFx275xTmGHazNgQbn:::The most effective readers and thinkers I know don’t take notes when reading]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Most people read ineffectively",
+              "linkingNoteSlug": "z2Nv3jADtpYcgbCXww7nSEG",
+              "contextBlocks": [
+                "However! [[z12PGwFx275xTmGHazNgQbn:::The most effective readers and thinkers I know don’t take notes when reading]]"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zB74H9CuWrosEuqve7jZyCo",
+            "zB74H9CuWrosEuqve7jZyCo",
+            "zAf4oNSV9qB38ncSvYEZGAb",
+            "z51q8prEJzs5Jqa5WPThYoV",
+            "zGEw4kJNMh8aK19aD2NyV6r"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "z12PGwFx275xTmGHazNgQbn",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "z12PGwFx275xTmGHazNgQbn",
+      "title": "The most effective readers and thinkers I know don’t take notes when reading",
+      "contentMarkdown": "# The most effective readers and thinkers I know don’t take notes when reading\n\nSome of them do very simple things—jotting a few key references on the back page, or writing intermittently in the margin—but none of them implements any kind of consistent practice like the one described in [[zB74H9CuWrosEuqve7jZyCo:::Write about what you read to internalize texts deeply]]. It’s not that they’ve so deeply internalized and automatized those practices that they seem invisible: they’re just not doing those things.\n\nThey’re all expert readers, though, in their own way. They read for a purpose; they discuss what they read with others; they use what they read as part of creative projects; etc. So they’re not more effective than other readers for no reason at all.\n\nIn fact, the negation almost seems true: most note-taking fanatics seem to actually be quite ineffective thinkers. This should give one pause that it’s important to [[zB74H9CuWrosEuqve7jZyCo:::Write about what you read to internalize texts deeply]]! I suspect that the key issue here is [[zAf4oNSV9qB38ncSvYEZGAb:::“Better note-taking” misses the point; what matters is “better thinking”]]; such people are focused on “better note-taking.” [[z51q8prEJzs5Jqa5WPThYoV:::People who write extensively about note-writing rarely have a serious context of use]].\n\nThat said: [[zGEw4kJNMh8aK19aD2NyV6r:::Many eminent thinkers need a writing surface to think]]. And many historical figures had sprawling note-taking practices: Locke, Bacon, Erasmus, Linneaus, Newton, Jefferson, Milton, Emerson, etc. I wonder why the difference between these figures and the effective readers I know. OK, maybe I don’t know someone on Newton’s level, but my network certainly contains many eminent thinkers!\n\nHere’s a more optimistic take. There are (and have always been) people who don’t write notes and are very effective. On the margin, writing may not help them much. But effective people are rare; most people aren’t. On the margin, writing may allow otherwise-ineffective people to join them. And we wouldn’t necessarily see this effect in the distribution of people out in the world, if e.g. writing were culturally unpopular, or if getting the benefits required special techniques/knowledge which were not widely known. I think it’s likely that this conjecture is true to *some* extent, but I’m not at all confident that the effect size matters.\n\n---\n\n## References\n\nMy Twitter thread on this note: [Andy Matuschak on Twitter: “One way to dream up post-book media to make reading more effective and meaningful is to systematize “expert” practices (e.g. How to Read a Book), so more people can do them, more reliably and more cheaply. But… the most erudite people I know don’t actually do those things!”](https://twitter.com/andy_matuschak/status/1211487900505792512)\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Write about what you read to internalize texts deeply",
+          "linkingNoteSlug": "zB74H9CuWrosEuqve7jZyCo",
+          "contextBlocks": [
+            "Also, it’s worth noting: [[z12PGwFx275xTmGHazNgQbn:::The most effective readers and thinkers I know don’t take notes when reading]]. Speaking at least for myself, experience has suggested that I need more support to effectively engage with what I’m reading."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "People who write extensively about note-writing rarely have a serious context of use",
+          "linkingNoteSlug": "z51q8prEJzs5Jqa5WPThYoV",
+          "contextBlocks": [
+            "I’m not quite guilty of this problem myself, but I certainly slip into this behavior for weeks at a time. This is a cautionary note. Related: [[z12PGwFx275xTmGHazNgQbn:::The most effective readers and thinkers I know don’t take notes when reading]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Most people read ineffectively",
+          "linkingNoteSlug": "z2Nv3jADtpYcgbCXww7nSEG",
+          "contextBlocks": [
+            "However! [[z12PGwFx275xTmGHazNgQbn:::The most effective readers and thinkers I know don’t take notes when reading]]"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zB74H9CuWrosEuqve7jZyCo",
+        "zB74H9CuWrosEuqve7jZyCo",
+        "zAf4oNSV9qB38ncSvYEZGAb",
+        "z51q8prEJzs5Jqa5WPThYoV",
+        "zGEw4kJNMh8aK19aD2NyV6r"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

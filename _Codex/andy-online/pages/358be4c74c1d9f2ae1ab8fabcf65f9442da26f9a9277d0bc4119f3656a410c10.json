@@ -1,0 +1,84 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Spaced_repetition_mechanics_create_a_sense_of_effortlessness",
+  "checked_at": "2026-10-07T22:28:48.354055+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zM2KVgUySDFDqAZ7MoD3oZd",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zM2KVgUySDFDqAZ7MoD3oZd": {
+        "data": {
+          "slug": "zM2KVgUySDFDqAZ7MoD3oZd",
+          "title": "Spaced repetition mechanics create a sense of effortlessness",
+          "contentMarkdown": "# Spaced repetition mechanics create a sense of effortlessness\n\nThe core mechanics of a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] remove decision-making and gumption from the critical path. Say that you’d like to study the molecular pathway of cell metabolism. Without an SRS, you’d need to make a plan like “I study cell biology on Tuesday evenings,” remember that plan, and summon the will to execute the plan repeatedly. But if you have an active SRS practice, you can throw some prompts into your library and be confident that you’ll see them again over time.\n\nYou don’t need to decide how often you’ll study them. You don’t need to exert willpower to study those particular prompts—only to show up for daily SRS practice. Your decision about how to mark a prompt also isn’t weighty: that choice just fiddles a knob; the prompt will reappear in any case. The feeling, in gestalt, is one of effortless action ([[zUiXjdD4w8dAAxso2GixujV:::Wu wei]]). \n\nThis is very unlike the feeling one has when, say, maintaining an inbox, which is full of weighty decisions: [[z2Pg1CbUyvjV4jEoqmr8Xua:::Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle]].\n\nThis feeling of effortless is one reason why I’m interested in [[z9hscgkG2TeqgUtu3vAEW3U:::Spaced everything]]: I’d like to bring it to more than just memory prompts.\n\n[[zMbLoCcRACLn2Enfuo5KjyK:::Kawara]], an inspiration-focused spaced repetition app, pitches this feeling well: “Kawara doesn’t let me forget, but it doesn’t pressure me to remember.”\n\nThere’s a connection here to “autoplay” functionality in YouTube or Netflix, wherein the software drives you, rather than the other way around. In those contexts, it’s a somewhat adversarial relationship; the aspiration here is to “program yourself” in a way you yourself would endorse. (see also [[zB92WZZ5baBHKZPPbWMbYEv:::Spaced repetition systems can be used to program attention]])\n\nQ. How do spaced repetition mechanics cultivate a sense of effortlessness?\nA. By removing weighty decisions and demands on willpower.\n\n---\n\n## References\n\nMy Twitter thread on this topic: <https://twitter.com/andy_matuschak/status/1271997374756315142>\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Spaced repetition can lower the stakes around destructive inbox-maintenance operations",
+              "linkingNoteSlug": "zJ5Yzvba2729XKXivBBZ91J",
+              "contextBlocks": [
+                "If you recast the destructive operations as “not right now,” they feel completely different. That browser tab isn’t gone—it’ll come back later. Maybe it’s a day later at first, then if I skip it again, a few days later, then maybe a week, and so on, until “not right now” is effectively “close”… but it doesn’t feel nearly so stressful. This notion can be applied to task queues, reading lists ([[zDXBGEWk7msyonQ2Ngnrf8h:::A reading inbox to capture possibly-useful references]]), email inboxes, etc. [[zM2KVgUySDFDqAZ7MoD3oZd:::Spaced repetition mechanics create a sense of effortlessness]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Kawara",
+              "linkingNoteSlug": "zMbLoCcRACLn2Enfuo5KjyK",
+              "contextBlocks": [
+                "It’s about memory, sort of, but in breezy way: “kawara doesn’t let me {forget}, but doesn’t {pressure} me to {remember}.” See [[zM2KVgUySDFDqAZ7MoD3oZd:::Spaced repetition mechanics create a sense of effortlessness]]."
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "z2D1qPwddPktBjpNuwYFVva",
+            "zUiXjdD4w8dAAxso2GixujV",
+            "z2Pg1CbUyvjV4jEoqmr8Xua",
+            "z9hscgkG2TeqgUtu3vAEW3U",
+            "zMbLoCcRACLn2Enfuo5KjyK",
+            "zB92WZZ5baBHKZPPbWMbYEv"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zM2KVgUySDFDqAZ7MoD3oZd",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zM2KVgUySDFDqAZ7MoD3oZd",
+      "title": "Spaced repetition mechanics create a sense of effortlessness",
+      "contentMarkdown": "# Spaced repetition mechanics create a sense of effortlessness\n\nThe core mechanics of a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] remove decision-making and gumption from the critical path. Say that you’d like to study the molecular pathway of cell metabolism. Without an SRS, you’d need to make a plan like “I study cell biology on Tuesday evenings,” remember that plan, and summon the will to execute the plan repeatedly. But if you have an active SRS practice, you can throw some prompts into your library and be confident that you’ll see them again over time.\n\nYou don’t need to decide how often you’ll study them. You don’t need to exert willpower to study those particular prompts—only to show up for daily SRS practice. Your decision about how to mark a prompt also isn’t weighty: that choice just fiddles a knob; the prompt will reappear in any case. The feeling, in gestalt, is one of effortless action ([[zUiXjdD4w8dAAxso2GixujV:::Wu wei]]). \n\nThis is very unlike the feeling one has when, say, maintaining an inbox, which is full of weighty decisions: [[z2Pg1CbUyvjV4jEoqmr8Xua:::Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle]].\n\nThis feeling of effortless is one reason why I’m interested in [[z9hscgkG2TeqgUtu3vAEW3U:::Spaced everything]]: I’d like to bring it to more than just memory prompts.\n\n[[zMbLoCcRACLn2Enfuo5KjyK:::Kawara]], an inspiration-focused spaced repetition app, pitches this feeling well: “Kawara doesn’t let me forget, but it doesn’t pressure me to remember.”\n\nThere’s a connection here to “autoplay” functionality in YouTube or Netflix, wherein the software drives you, rather than the other way around. In those contexts, it’s a somewhat adversarial relationship; the aspiration here is to “program yourself” in a way you yourself would endorse. (see also [[zB92WZZ5baBHKZPPbWMbYEv:::Spaced repetition systems can be used to program attention]])\n\nQ. How do spaced repetition mechanics cultivate a sense of effortlessness?\nA. By removing weighty decisions and demands on willpower.\n\n---\n\n## References\n\nMy Twitter thread on this topic: <https://twitter.com/andy_matuschak/status/1271997374756315142>\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Spaced repetition can lower the stakes around destructive inbox-maintenance operations",
+          "linkingNoteSlug": "zJ5Yzvba2729XKXivBBZ91J",
+          "contextBlocks": [
+            "If you recast the destructive operations as “not right now,” they feel completely different. That browser tab isn’t gone—it’ll come back later. Maybe it’s a day later at first, then if I skip it again, a few days later, then maybe a week, and so on, until “not right now” is effectively “close”… but it doesn’t feel nearly so stressful. This notion can be applied to task queues, reading lists ([[zDXBGEWk7msyonQ2Ngnrf8h:::A reading inbox to capture possibly-useful references]]), email inboxes, etc. [[zM2KVgUySDFDqAZ7MoD3oZd:::Spaced repetition mechanics create a sense of effortlessness]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Kawara",
+          "linkingNoteSlug": "zMbLoCcRACLn2Enfuo5KjyK",
+          "contextBlocks": [
+            "It’s about memory, sort of, but in breezy way: “kawara doesn’t let me {forget}, but doesn’t {pressure} me to {remember}.” See [[zM2KVgUySDFDqAZ7MoD3oZd:::Spaced repetition mechanics create a sense of effortlessness]]."
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "z2D1qPwddPktBjpNuwYFVva",
+        "zUiXjdD4w8dAAxso2GixujV",
+        "z2Pg1CbUyvjV4jEoqmr8Xua",
+        "z9hscgkG2TeqgUtu3vAEW3U",
+        "zMbLoCcRACLn2Enfuo5KjyK",
+        "zB92WZZ5baBHKZPPbWMbYEv"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Narrative_as_cognitive_scaffolding",
+  "checked_at": "2026-10-07T22:28:44.874692+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zEhGSbBPbgmh7Ce1VQS2RPk",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zEhGSbBPbgmh7Ce1VQS2RPk": {
+        "data": {
+          "slug": "zEhGSbBPbgmh7Ce1VQS2RPk",
+          "title": "Narrative as cognitive scaffolding",
+          "contentMarkdown": "# Narrative as cognitive scaffolding\n\nA good narrative structures and sequences the key elements of a complex topic, focusing participants’ attention on limited subsets of the ideas so that they’re more able to take each step. This creates [[zWSH2QNUsrTGP4V15JBaaEv:::Cognitive scaffolding]]. A reference article, which may provide the same information without scaffolding, may be a more efficient summary of the topic for an expert, but the first step of its comprehension may be too large for a novice to take.\n\nAs a narrative progresses, it highlights connections between elements which might be difficult for a novice to observe. It may also remind participants of relevant prior material to draw on. These kinds of supports allow the participant to focus on object-level material initially, without losing sight of the big picture. Over time, they’ll draw their own connections, beyond those the author stated.\n\nNarratives fuel emotional involvement by offering interpretation, possible implications, and connection to an invested author. Over time, the participant may build their own emotional involvement with the topic, but it can be helpful to scaffold this as well.\n\nSee also: [[zQ9BWTY2JK6eJvCSqupc7UF:::Enacted experiences amplify the power of narrative]]\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Cognitive scaffolding",
+              "linkingNoteSlug": "zWSH2QNUsrTGP4V15JBaaEv",
+              "contextBlocks": [
+                "Authored scaffolding may be static or dynamic. Books often include static scaffolds like narrative ([[zEhGSbBPbgmh7Ce1VQS2RPk:::Narrative as cognitive scaffolding]]) or constraints ([[z7TJeAJjP5FrruVXwUXheW4:::Constraints as cognitive scaffolding]]). A static [[zRWEWHx4cQyqQWRh26gp7ad:::Participatory environment]] (like a workbook or Make Magazine) may also include carefully-authored sequences of activities ([[zLtDuZSmdcEoAMgWNcxho6Z:::Fine-grained task progressions as cognitive scaffolding]])."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Enacted experiences amplify the power of narrative",
+              "linkingNoteSlug": "zQ9BWTY2JK6eJvCSqupc7UF",
+              "contextBlocks": [
+                "Narrative is a powerful tool both because it creates emotional involvement and because it can support understanding ([[zEhGSbBPbgmh7Ce1VQS2RPk:::Narrative as cognitive scaffolding]]). Narrative can be made even more powerful by making it an [[z92TGMiBsnraf5KXxSTNkBJ:::Enacted experience]], because [[zJxSaJaCeXZsY7pH2Q6t89t:::Enacted experiences can create intense personal connection to authored targets]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Spaced repetition memory prompts alone are a poor communications medium",
+              "linkingNoteSlug": "zHV9RymMTYzjYv8ioA3xaAs",
+              "contextBlocks": [
+                "[[zCjyEsQTBSY7MJf6KxXKXb9:::Traditional spaced repetition memory prompts are atomized]]. Each little prompt must stand on its own, presentable in any order at any time. But that makes it difficult to use the prompts to effectively communicate an idea which is itself highly structured and ordered. In practice, ideas generally depend on other ideas, and emotional salience requires relating those ideas to a meaningful larger whole (contra [[zPMRGaKwPXyo4qaPdcXQA5Z:::Deep understanding requires (and is a result of) intense personal connection]]). Narrative excels in these regards ([[zEhGSbBPbgmh7Ce1VQS2RPk:::Narrative as cognitive scaffolding]])."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Dynamic mediums usually lack an authored time dimension",
+              "linkingNoteSlug": "z611NYK3NCXzSWMbdZmuqXK",
+              "contextBlocks": [
+                "In film and books, by contrast, directors and authors carefully model and shape the participant’s experience over the course of the work. Often that takes the form of narrative, which can create emotional connection or help people gradually understand complex topics ([[zEhGSbBPbgmh7Ce1VQS2RPk:::Narrative as cognitive scaffolding]]). There’s no narrative form native to dynamic mediums."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Informational videos are difficult to scan and navigate",
+              "linkingNoteSlug": "zBk4ZHoUUvuVJWagHguT7Dc",
+              "contextBlocks": [
+                "[[zEhGSbBPbgmh7Ce1VQS2RPk:::Narrative as cognitive scaffolding]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Prefer linear work products but non-linear working environments",
+              "linkingNoteSlug": "z6qBF9B8jKGQ37EH8WJsVju",
+              "contextBlocks": [
+                "[[zSzTnYqKsHgyS8ExW92gUpU:::Hypertext]] is not actually appealing for long-form reading; narrative and linearity are too powerful: [[zEhGSbBPbgmh7Ce1VQS2RPk:::Narrative as cognitive scaffolding]]. But we don’t *think* linearly; our thinking environments must support non-linear working methods in generating linear work products."
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zWSH2QNUsrTGP4V15JBaaEv",
+            "zQ9BWTY2JK6eJvCSqupc7UF"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zEhGSbBPbgmh7Ce1VQS2RPk",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zEhGSbBPbgmh7Ce1VQS2RPk",
+      "title": "Narrative as cognitive scaffolding",
+      "contentMarkdown": "# Narrative as cognitive scaffolding\n\nA good narrative structures and sequences the key elements of a complex topic, focusing participants’ attention on limited subsets of the ideas so that they’re more able to take each step. This creates [[zWSH2QNUsrTGP4V15JBaaEv:::Cognitive scaffolding]]. A reference article, which may provide the same information without scaffolding, may be a more efficient summary of the topic for an expert, but the first step of its comprehension may be too large for a novice to take.\n\nAs a narrative progresses, it highlights connections between elements which might be difficult for a novice to observe. It may also remind participants of relevant prior material to draw on. These kinds of supports allow the participant to focus on object-level material initially, without losing sight of the big picture. Over time, they’ll draw their own connections, beyond those the author stated.\n\nNarratives fuel emotional involvement by offering interpretation, possible implications, and connection to an invested author. Over time, the participant may build their own emotional involvement with the topic, but it can be helpful to scaffold this as well.\n\nSee also: [[zQ9BWTY2JK6eJvCSqupc7UF:::Enacted experiences amplify the power of narrative]]\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Cognitive scaffolding",
+          "linkingNoteSlug": "zWSH2QNUsrTGP4V15JBaaEv",
+          "contextBlocks": [
+            "Authored scaffolding may be static or dynamic. Books often include static scaffolds like narrative ([[zEhGSbBPbgmh7Ce1VQS2RPk:::Narrative as cognitive scaffolding]]) or constraints ([[z7TJeAJjP5FrruVXwUXheW4:::Constraints as cognitive scaffolding]]). A static [[zRWEWHx4cQyqQWRh26gp7ad:::Participatory environment]] (like a workbook or Make Magazine) may also include carefully-authored sequences of activities ([[zLtDuZSmdcEoAMgWNcxho6Z:::Fine-grained task progressions as cognitive scaffolding]])."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Enacted experiences amplify the power of narrative",
+          "linkingNoteSlug": "zQ9BWTY2JK6eJvCSqupc7UF",
+          "contextBlocks": [
+            "Narrative is a powerful tool both because it creates emotional involvement and because it can support understanding ([[zEhGSbBPbgmh7Ce1VQS2RPk:::Narrative as cognitive scaffolding]]). Narrative can be made even more powerful by making it an [[z92TGMiBsnraf5KXxSTNkBJ:::Enacted experience]], because [[zJxSaJaCeXZsY7pH2Q6t89t:::Enacted experiences can create intense personal connection to authored targets]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Spaced repetition memory prompts alone are a poor communications medium",
+          "linkingNoteSlug": "zHV9RymMTYzjYv8ioA3xaAs",
+          "contextBlocks": [
+            "[[zCjyEsQTBSY7MJf6KxXKXb9:::Traditional spaced repetition memory prompts are atomized]]. Each little prompt must stand on its own, presentable in any order at any time. But that makes it difficult to use the prompts to effectively communicate an idea which is itself highly structured and ordered. In practice, ideas generally depend on other ideas, and emotional salience requires relating those ideas to a meaningful larger whole (contra [[zPMRGaKwPXyo4qaPdcXQA5Z:::Deep understanding requires (and is a result of) intense personal connection]]). Narrative excels in these regards ([[zEhGSbBPbgmh7Ce1VQS2RPk:::Narrative as cognitive scaffolding]])."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Dynamic mediums usually lack an authored time dimension",
+          "linkingNoteSlug": "z611NYK3NCXzSWMbdZmuqXK",
+          "contextBlocks": [
+            "In film and books, by contrast, directors and authors carefully model and shape the participant’s experience over the course of the work. Often that takes the form of narrative, which can create emotional connection or help people gradually understand complex topics ([[zEhGSbBPbgmh7Ce1VQS2RPk:::Narrative as cognitive scaffolding]]). There’s no narrative form native to dynamic mediums."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Informational videos are difficult to scan and navigate",
+          "linkingNoteSlug": "zBk4ZHoUUvuVJWagHguT7Dc",
+          "contextBlocks": [
+            "[[zEhGSbBPbgmh7Ce1VQS2RPk:::Narrative as cognitive scaffolding]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Prefer linear work products but non-linear working environments",
+          "linkingNoteSlug": "z6qBF9B8jKGQ37EH8WJsVju",
+          "contextBlocks": [
+            "[[zSzTnYqKsHgyS8ExW92gUpU:::Hypertext]] is not actually appealing for long-form reading; narrative and linearity are too powerful: [[zEhGSbBPbgmh7Ce1VQS2RPk:::Narrative as cognitive scaffolding]]. But we don’t *think* linearly; our thinking environments must support non-linear working methods in generating linear work products."
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zWSH2QNUsrTGP4V15JBaaEv",
+        "zQ9BWTY2JK6eJvCSqupc7UF"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

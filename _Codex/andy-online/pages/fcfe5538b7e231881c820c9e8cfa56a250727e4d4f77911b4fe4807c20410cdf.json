@@ -1,0 +1,86 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Existing_spaced_repetition_systems_discourage_evergreen_notes",
+  "checked_at": "2026-10-07T22:28:40.400588+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zMXZQANJPzCDUFPrUAYAFrn",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zMXZQANJPzCDUFPrUAYAFrn": {
+        "data": {
+          "slug": "zMXZQANJPzCDUFPrUAYAFrn",
+          "title": "Existing spaced repetition systems discourage evergreen notes",
+          "contentMarkdown": "# Existing spaced repetition systems discourage evergreen notes\n\nThough notes in a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] are atomic in the same way as [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]] ([[zNUaiGAXp21eorsER1Jm9yU:::Evergreen notes should be atomic]]), they’re in many ways *too* atomized ([[zCjyEsQTBSY7MJf6KxXKXb9:::Traditional spaced repetition memory prompts are atomized]]). The form discourages incremental synthesis and distillation.\n\nThe questions float in an undifferentiated mist, detached from any intrinsically meaningful context and not linked to relevant neighbors ([[zF8xCU4BwXwbmSyp7tmff9i:::Evergreen notes should be densely linked]]), and not especially meant to be accessed except within the review experience. They’re not meant to be durable, growing units; they’re meant to be disposable flotsam. All this could be fine, if they had a clear relationship with a separate system for [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]], but they don’t.\n\nHappily: [[zWWh96dE6YZYmDCoo37977X:::The mnemonic medium can be extended to one’s personal notes]].\n\n---\n\n## References\n\nNielsen, M. (2018). *Augmenting Long-term Memory*. <http://augmentingcognition.com/ltm.html>\n\n> I start to identify open problems, questions that I’d personally like answered, but which don’t yet seem to have been answered. I identify tricks, observations that seem pregnant with possibility, but whose import I don’t yet know. And, sometimes, I identify what seem to me to be field-wide blind spots. I add questions about all these to Anki as well. In this way, Anki is a medium supporting my creative research. It has some shortcomings as such a medium, since it’s not designed with supporting creative work in mind – it’s not, for instance, equipped for lengthy, free-form exploration inside a scratch space.\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "The mnemonic medium can be extended to one’s personal notes",
+              "linkingNoteSlug": "zWWh96dE6YZYmDCoo37977X",
+              "contextBlocks": [
+                "In using a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]], you’ll fill it with notes on what you’re learning, observing, and thinking. Unfortunately, [[zMXZQANJPzCDUFPrUAYAFrn:::Existing spaced repetition systems discourage evergreen notes]]. A memory system will help you retain and continuously engage with what you write, but it won’t much help you build on those ideas over time. An [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]] system will help you build on your ideas over time, but it won’t help you retain and continuously engage with those notes (outside of [[zWbMsEFW9LD4vsoVhaDcF4u:::Evergreen note maintenance approximates spaced repetition]]). So you’re stuck either duplicating your efforts messily in two separate systems, or giving up one system’s benefits."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Traditional spaced repetition memory prompts are atomized",
+              "linkingNoteSlug": "zCjyEsQTBSY7MJf6KxXKXb9",
+              "contextBlocks": [
+                "This atomization is the primary reason that [[zHV9RymMTYzjYv8ioA3xaAs:::Spaced repetition memory prompts alone are a poor communications medium]]. It also limits their suitability for long-term personal notes: [[zMXZQANJPzCDUFPrUAYAFrn:::Existing spaced repetition systems discourage evergreen notes]]."
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "z2D1qPwddPktBjpNuwYFVva",
+            "z5E5QawiXCMbtNtupvxeoEX",
+            "zNUaiGAXp21eorsER1Jm9yU",
+            "zCjyEsQTBSY7MJf6KxXKXb9",
+            "zF8xCU4BwXwbmSyp7tmff9i",
+            "z5E5QawiXCMbtNtupvxeoEX",
+            "zWWh96dE6YZYmDCoo37977X"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zMXZQANJPzCDUFPrUAYAFrn",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zMXZQANJPzCDUFPrUAYAFrn",
+      "title": "Existing spaced repetition systems discourage evergreen notes",
+      "contentMarkdown": "# Existing spaced repetition systems discourage evergreen notes\n\nThough notes in a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]] are atomic in the same way as [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]] ([[zNUaiGAXp21eorsER1Jm9yU:::Evergreen notes should be atomic]]), they’re in many ways *too* atomized ([[zCjyEsQTBSY7MJf6KxXKXb9:::Traditional spaced repetition memory prompts are atomized]]). The form discourages incremental synthesis and distillation.\n\nThe questions float in an undifferentiated mist, detached from any intrinsically meaningful context and not linked to relevant neighbors ([[zF8xCU4BwXwbmSyp7tmff9i:::Evergreen notes should be densely linked]]), and not especially meant to be accessed except within the review experience. They’re not meant to be durable, growing units; they’re meant to be disposable flotsam. All this could be fine, if they had a clear relationship with a separate system for [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]], but they don’t.\n\nHappily: [[zWWh96dE6YZYmDCoo37977X:::The mnemonic medium can be extended to one’s personal notes]].\n\n---\n\n## References\n\nNielsen, M. (2018). *Augmenting Long-term Memory*. <http://augmentingcognition.com/ltm.html>\n\n> I start to identify open problems, questions that I’d personally like answered, but which don’t yet seem to have been answered. I identify tricks, observations that seem pregnant with possibility, but whose import I don’t yet know. And, sometimes, I identify what seem to me to be field-wide blind spots. I add questions about all these to Anki as well. In this way, Anki is a medium supporting my creative research. It has some shortcomings as such a medium, since it’s not designed with supporting creative work in mind – it’s not, for instance, equipped for lengthy, free-form exploration inside a scratch space.\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "The mnemonic medium can be extended to one’s personal notes",
+          "linkingNoteSlug": "zWWh96dE6YZYmDCoo37977X",
+          "contextBlocks": [
+            "In using a [[z2D1qPwddPktBjpNuwYFVva:::Spaced repetition memory system]], you’ll fill it with notes on what you’re learning, observing, and thinking. Unfortunately, [[zMXZQANJPzCDUFPrUAYAFrn:::Existing spaced repetition systems discourage evergreen notes]]. A memory system will help you retain and continuously engage with what you write, but it won’t much help you build on those ideas over time. An [[z5E5QawiXCMbtNtupvxeoEX:::Evergreen notes]] system will help you build on your ideas over time, but it won’t help you retain and continuously engage with those notes (outside of [[zWbMsEFW9LD4vsoVhaDcF4u:::Evergreen note maintenance approximates spaced repetition]]). So you’re stuck either duplicating your efforts messily in two separate systems, or giving up one system’s benefits."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Traditional spaced repetition memory prompts are atomized",
+          "linkingNoteSlug": "zCjyEsQTBSY7MJf6KxXKXb9",
+          "contextBlocks": [
+            "This atomization is the primary reason that [[zHV9RymMTYzjYv8ioA3xaAs:::Spaced repetition memory prompts alone are a poor communications medium]]. It also limits their suitability for long-term personal notes: [[zMXZQANJPzCDUFPrUAYAFrn:::Existing spaced repetition systems discourage evergreen notes]]."
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "z2D1qPwddPktBjpNuwYFVva",
+        "z5E5QawiXCMbtNtupvxeoEX",
+        "zNUaiGAXp21eorsER1Jm9yU",
+        "zCjyEsQTBSY7MJf6KxXKXb9",
+        "zF8xCU4BwXwbmSyp7tmff9i",
+        "z5E5QawiXCMbtNtupvxeoEX",
+        "zWWh96dE6YZYmDCoo37977X"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

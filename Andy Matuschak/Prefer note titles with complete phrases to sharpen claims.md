@@ -1,5 +1,7 @@
 ---
-URL: ["https://notes.andymatuschak.org/z2hQEhqWkdRLL9JUwfawZZx", "https://notes.andymatuschak.org/zLhoRUyjKU665EY16u4XXJy"]
+URL:
+  - "https://notes.andymatuschak.org/z2hQEhqWkdRLL9JUwfawZZx"
+  - "https://notes.andymatuschak.org/zLhoRUyjKU665EY16u4XXJy"
 title: "Prefer note titles with complete phrases to sharpen claims"
 ---
 # Prefer note titles with complete phrases to sharpen claims

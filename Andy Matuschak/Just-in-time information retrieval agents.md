@@ -1,5 +1,7 @@
 ---
 title: "Just-in-time information retrieval agents"
+URL:
+  - "https://notes.andymatuschak.org/zPMX7HYXAg2cyetFH1JTcpd"
 ---
 # Just-in-time information retrieval agents
 This term describes agents which passively retrieve and display useful information based on a user’s action.

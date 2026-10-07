@@ -1,0 +1,76 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/zAVF3mepMcuTWVUJaeHTL77",
+  "checked_at": "2026-10-07T22:30:58.942509+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zAVF3mepMcuTWVUJaeHTL77",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zAVF3mepMcuTWVUJaeHTL77": {
+        "data": {
+          "slug": "zAVF3mepMcuTWVUJaeHTL77",
+          "title": "§Knowledge work as serious discipline",
+          "contentMarkdown": "# §Knowledge work as serious discipline\n\n*   [[zMX9Lfuz8sGfDUivWZcyWT:::Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do]]\n*   [[zPFYKBrsvL88opKh28UYxWv:::Core practices in knowledge work are often ad-hoc]]\n    *   [[z42RbvjQwHecBesDThrPobe:::Management science focuses on knowledge work at the level of the firm and the manager, not at the level of the individual]]\n    *   [[zUJzDyeg71G9XRAXjgHQS6y:::We don’t know how to measure knowledge worker productivity]]\n    *   [[z2Nv3jADtpYcgbCXww7nSEG:::Most people read ineffectively]]\n    *   [[zDfV5GX8kKScLkE8Dq1rFUk:::Note-writing practices are generally ineffective]]\n    *   [[zUhd6Hb5dk35PPpnCHvd6bV:::Note-writing practices provide weak feedback]]\n*   [[zR6RRbCfY5rFkiimFnaJZKB:::Evergreen note-writing as fundamental unit of knowledge work]]\n    *   [[zAf4oNSV9qB38ncSvYEZGAb:::“Better note-taking” misses the point; what matters is “better thinking”]]\n    *   [[zTn3g4wTm1hbkNFUvLLjpev:::Knowledge work should accrete]]\n    *   [[z4EXkuLjdBrBZe7PVAGXc5a:::Evergreen note-writing helps insight accumulate]]\n    *   [[zSK4LyrCbG9zDrdCWmcovUW:::Spaced repetition may be a helpful tool to incrementally develop inklings]]\n    *   [[zGbMMKcybSmwFR4jLS12iY2:::Brainstorming may often substitute for missing insight accretion systems]]\n    *   [[zKiPFE1KYieeAJs3cEaCtdf:::Evergreen note-writing helps reading efforts accumulate]]\n*   [[zVyJffuisLSjaDVtBtxsmSS:::Executable strategy]]\n    *   [[zCknixwETdFm1MWdWPwMcXs:::Executable strategy for writing]]\n    *   [[zNqLdKMiTo9EHA9EWYGXs7b:::Evergreen notes permit smooth incremental progress in writing (“incremental writing”)]]\n    *   [[zSKD44o2VTbQuQYqmjupo4B:::Evergreen notes lower the emotional stakes in editing manuscripts]]\n    *   [[zSTqsQ4ATXB61k3Z43TforN:::Spaced repetition memory systems make memory a choice]]\n\n\n\n\n",
+          "backlinkedNotes": [],
+          "linkedNoteSlugs": [
+            "zMX9Lfuz8sGfDUivWZcyWT",
+            "zPFYKBrsvL88opKh28UYxWv",
+            "z42RbvjQwHecBesDThrPobe",
+            "zUJzDyeg71G9XRAXjgHQS6y",
+            "z2Nv3jADtpYcgbCXww7nSEG",
+            "zDfV5GX8kKScLkE8Dq1rFUk",
+            "zUhd6Hb5dk35PPpnCHvd6bV",
+            "zR6RRbCfY5rFkiimFnaJZKB",
+            "zAf4oNSV9qB38ncSvYEZGAb",
+            "zTn3g4wTm1hbkNFUvLLjpev",
+            "z4EXkuLjdBrBZe7PVAGXc5a",
+            "zSK4LyrCbG9zDrdCWmcovUW",
+            "zGbMMKcybSmwFR4jLS12iY2",
+            "zKiPFE1KYieeAJs3cEaCtdf",
+            "zVyJffuisLSjaDVtBtxsmSS",
+            "zCknixwETdFm1MWdWPwMcXs",
+            "zNqLdKMiTo9EHA9EWYGXs7b",
+            "zSKD44o2VTbQuQYqmjupo4B",
+            "zSTqsQ4ATXB61k3Z43TforN"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zAVF3mepMcuTWVUJaeHTL77",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zAVF3mepMcuTWVUJaeHTL77",
+      "title": "§Knowledge work as serious discipline",
+      "contentMarkdown": "# §Knowledge work as serious discipline\n\n*   [[zMX9Lfuz8sGfDUivWZcyWT:::Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do]]\n*   [[zPFYKBrsvL88opKh28UYxWv:::Core practices in knowledge work are often ad-hoc]]\n    *   [[z42RbvjQwHecBesDThrPobe:::Management science focuses on knowledge work at the level of the firm and the manager, not at the level of the individual]]\n    *   [[zUJzDyeg71G9XRAXjgHQS6y:::We don’t know how to measure knowledge worker productivity]]\n    *   [[z2Nv3jADtpYcgbCXww7nSEG:::Most people read ineffectively]]\n    *   [[zDfV5GX8kKScLkE8Dq1rFUk:::Note-writing practices are generally ineffective]]\n    *   [[zUhd6Hb5dk35PPpnCHvd6bV:::Note-writing practices provide weak feedback]]\n*   [[zR6RRbCfY5rFkiimFnaJZKB:::Evergreen note-writing as fundamental unit of knowledge work]]\n    *   [[zAf4oNSV9qB38ncSvYEZGAb:::“Better note-taking” misses the point; what matters is “better thinking”]]\n    *   [[zTn3g4wTm1hbkNFUvLLjpev:::Knowledge work should accrete]]\n    *   [[z4EXkuLjdBrBZe7PVAGXc5a:::Evergreen note-writing helps insight accumulate]]\n    *   [[zSK4LyrCbG9zDrdCWmcovUW:::Spaced repetition may be a helpful tool to incrementally develop inklings]]\n    *   [[zGbMMKcybSmwFR4jLS12iY2:::Brainstorming may often substitute for missing insight accretion systems]]\n    *   [[zKiPFE1KYieeAJs3cEaCtdf:::Evergreen note-writing helps reading efforts accumulate]]\n*   [[zVyJffuisLSjaDVtBtxsmSS:::Executable strategy]]\n    *   [[zCknixwETdFm1MWdWPwMcXs:::Executable strategy for writing]]\n    *   [[zNqLdKMiTo9EHA9EWYGXs7b:::Evergreen notes permit smooth incremental progress in writing (“incremental writing”)]]\n    *   [[zSKD44o2VTbQuQYqmjupo4B:::Evergreen notes lower the emotional stakes in editing manuscripts]]\n    *   [[zSTqsQ4ATXB61k3Z43TforN:::Spaced repetition memory systems make memory a choice]]\n\n\n\n\n",
+      "backlinkedNotes": [],
+      "linkedNoteSlugs": [
+        "zMX9Lfuz8sGfDUivWZcyWT",
+        "zPFYKBrsvL88opKh28UYxWv",
+        "z42RbvjQwHecBesDThrPobe",
+        "zUJzDyeg71G9XRAXjgHQS6y",
+        "z2Nv3jADtpYcgbCXww7nSEG",
+        "zDfV5GX8kKScLkE8Dq1rFUk",
+        "zUhd6Hb5dk35PPpnCHvd6bV",
+        "zR6RRbCfY5rFkiimFnaJZKB",
+        "zAf4oNSV9qB38ncSvYEZGAb",
+        "zTn3g4wTm1hbkNFUvLLjpev",
+        "z4EXkuLjdBrBZe7PVAGXc5a",
+        "zSK4LyrCbG9zDrdCWmcovUW",
+        "zGbMMKcybSmwFR4jLS12iY2",
+        "zKiPFE1KYieeAJs3cEaCtdf",
+        "zVyJffuisLSjaDVtBtxsmSS",
+        "zCknixwETdFm1MWdWPwMcXs",
+        "zNqLdKMiTo9EHA9EWYGXs7b",
+        "zSKD44o2VTbQuQYqmjupo4B",
+        "zSTqsQ4ATXB61k3Z43TforN"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

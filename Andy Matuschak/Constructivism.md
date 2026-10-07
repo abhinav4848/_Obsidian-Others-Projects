@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zVdb1Ku6fzVAFP5A6BhBbWR?stackedNotes=zLCdZ9xcHzjks8vgoGkycSr&stackedNotes=zWceTLNTjH3DQ7iVpy38ocq
+URL:
+  - "https://notes.andymatuschak.org/zVdb1Ku6fzVAFP5A6BhBbWR?stackedNotes=zLCdZ9xcHzjks8vgoGkycSr&stackedNotes=zWceTLNTjH3DQ7iVpy38ocq"
 title: "Constructivism"
 ---
 # Constructivism

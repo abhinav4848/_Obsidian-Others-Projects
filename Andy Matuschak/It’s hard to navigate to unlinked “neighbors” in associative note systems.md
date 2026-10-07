@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zsRuFxYgckGS81tr2eiBAP&stackedNotes=zPpqLzE6VWKxXF6BpsAfr4C
+URL:
+  - "https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zsRuFxYgckGS81tr2eiBAP&stackedNotes=zPpqLzE6VWKxXF6BpsAfr4C"
 title: "It’s hard to navigate to unlinked “neighbors” in associative note systems"
 ---
 # It’s hard to navigate to unlinked “neighbors” in associative note systems

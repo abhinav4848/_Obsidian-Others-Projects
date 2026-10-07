@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z7d63BYfJrd81VFE25jkcDd?stackedNotes=z4ULp2KUgq3hBCJMWTUnLDX&stackedNotes=zQT9UFGCjoZ9RLPtuHzMGhd
+URL:
+  - "https://notes.andymatuschak.org/z7d63BYfJrd81VFE25jkcDd?stackedNotes=z4ULp2KUgq3hBCJMWTUnLDX&stackedNotes=zQT9UFGCjoZ9RLPtuHzMGhd"
 title: "Recall rates are a misleading proxy for more meaningful goals of the mnemonic medium"
 ---
 # Recall rates are a misleading proxy for more meaningful goals of the mnemonic medium

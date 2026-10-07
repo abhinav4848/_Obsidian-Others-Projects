@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zU6upTVz687icnQegpMhLY8?stackedNotes=zLNcy2JiH3AGNaZjYkHzK9P&stackedNotes=z97uezJ67HAt9YG1NUCuP4g
+URL:
+  - "https://notes.andymatuschak.org/zU6upTVz687icnQegpMhLY8?stackedNotes=zLNcy2JiH3AGNaZjYkHzK9P&stackedNotes=z97uezJ67HAt9YG1NUCuP4g"
 title: "Executable books emphasize understanding pre-existing code, not writing new code"
 ---
 # Executable books emphasize understanding pre-existing code, not writing new code

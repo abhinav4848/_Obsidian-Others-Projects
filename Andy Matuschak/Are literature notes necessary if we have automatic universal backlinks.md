@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z2qjVZKqSqrqkhFhvUpPDtd?stackedNotes=zQvbnYfHdG1gARTbtC4pje6&stackedNotes=zKBhqUkoRWoNV72aG21GYst
+URL:
+  - "https://notes.andymatuschak.org/z2qjVZKqSqrqkhFhvUpPDtd?stackedNotes=zQvbnYfHdG1gARTbtC4pje6&stackedNotes=zKBhqUkoRWoNV72aG21GYst"
 title: "Are literature notes necessary if we have automatic universal backlinks"
 ---
 # Are literature notes necessary if we have automatic universal backlinks

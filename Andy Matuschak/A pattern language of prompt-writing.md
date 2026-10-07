@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z8d1Rq2d13fdQCjQiWzJybD
+URL:
+  - "https://notes.andymatuschak.org/z8d1Rq2d13fdQCjQiWzJybD"
 title: "A pattern language of prompt-writing"
 ---
 # A pattern language of prompt-writing

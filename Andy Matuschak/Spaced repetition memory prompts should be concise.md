@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/z9vSQjkBVL6dCVC6QhCu4Br"
+URL:
+  - "https://notes.andymatuschak.org/z9vSQjkBVL6dCVC6QhCu4Br"
 title: "Spaced repetition memory prompts should be concise"
 ---
 # Spaced repetition memory prompts should be concise

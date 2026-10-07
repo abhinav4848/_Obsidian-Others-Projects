@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/zQ9BWTY2JK6eJvCSqupc7UF"
+URL:
+  - "https://notes.andymatuschak.org/zQ9BWTY2JK6eJvCSqupc7UF"
 title: "Enacted experiences amplify the power of narrative"
 ---
 # Enacted experiences amplify the power of narrative

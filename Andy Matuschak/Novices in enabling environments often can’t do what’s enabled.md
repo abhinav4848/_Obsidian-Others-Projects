@@ -1,5 +1,7 @@
 ---
 title: "Novices in enabling environments often can’t do what’s enabled"
+URL:
+  - "https://notes.andymatuschak.org/zPrYC99kH227c1otipAefyQ"
 ---
 # Novices in enabling environments often can’t do what’s enabled
 New participants in an [[Enabling environment]] may not immediately be able to do what it enables. The typical solution is an abstract introductory experience: explanatory guides, onboarding classes, background readings, etc. These supports can help new participants eventually access what an environment enables, but they’re not ideal: [[Enabling environments focus on doing what’s enabled]].

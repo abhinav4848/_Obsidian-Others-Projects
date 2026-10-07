@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zEhPH8mqAePWHMSz88xhfAJ
+URL:
+  - "https://notes.andymatuschak.org/zEhPH8mqAePWHMSz88xhfAJ"
 title: "Gumption transcends willpower and confidence"
 ---
 # Gumption transcends willpower and confidence

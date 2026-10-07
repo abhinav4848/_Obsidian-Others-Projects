@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zXDPKHgmQSdevyW1N2iiaSy
+URL:
+  - "https://notes.andymatuschak.org/zXDPKHgmQSdevyW1N2iiaSy"
 title: "Practice efficacy is highly sensitive to method design"
 ---
 # Practice efficacy is highly sensitive to method design

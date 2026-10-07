@@ -1,0 +1,62 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/zWLc4EeSqTwXijonS7SWAxn",
+  "checked_at": "2026-10-07T22:30:59.273830+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zWLc4EeSqTwXijonS7SWAxn",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zWLc4EeSqTwXijonS7SWAxn": {
+        "data": {
+          "slug": "zWLc4EeSqTwXijonS7SWAxn",
+          "title": "How rapidly do people forget practical knowledge?",
+          "contentMarkdown": "# How rapidly do people forget practical knowledge?\n\nThis is an intentionally quite vague question.\n\nIn [[zNVVrcxnkjk7pCabiBvaic1:::Quantum Country]]: [[QCVC questions are initially forgotten at very different rates]]\n\nA more conservative figure in medicine:\n\n> Medical students forget roughly {25–35} percent of basic science knowledge after {one year}, more than {50} percent by {the next year} (Custers, 2010), and {80–85} percent after {25 years} (Custers & ten Cate, 2011).\n\n(via [[zGXgn3UjMpmMiTtFBxAa8GQ:::Mozer, M. C., & Lindsey, R. V. (2016). Predicting and Improving Memory Retention: Psychological Theory Matters in the Big Data Era. In M. N. Jones (Ed.), Big data in cognitive science (pp. 34–64).]])\n\nReading natural text in a contrived experimental setting, Amlund et al (1986) find &lt;50% free recall minutes later, even when readers knew it was a test.\n\n## References\n\nAmlund, J. T., Kardash, C. A. M., & Kulhavy, R. W. (1986). Repetitive Reading and Recall of Expository Text. Reading Research Quarterly, 21(1), 49. <https://doi.org/10.2307/747959>\n\nCusters, E. J. F. M. (2010). Long-term retention of basic science knowledge: A review study. Advances in Health Sciences Education, 15(1), 109–128. <https://doi.org/10.1007/s10459-008-9101-y>\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "People seem to forget most of what they read, and they mostly don’t notice",
+              "linkingNoteSlug": "zL33c5cHy4bH7HvMcv2py9H",
+              "contextBlocks": [
+                "See [[zWLc4EeSqTwXijonS7SWAxn:::How rapidly do people forget practical knowledge?]]"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zNVVrcxnkjk7pCabiBvaic1",
+            "QCVC questions are initially forgotten at very different rates",
+            "zGXgn3UjMpmMiTtFBxAa8GQ"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zWLc4EeSqTwXijonS7SWAxn",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zWLc4EeSqTwXijonS7SWAxn",
+      "title": "How rapidly do people forget practical knowledge?",
+      "contentMarkdown": "# How rapidly do people forget practical knowledge?\n\nThis is an intentionally quite vague question.\n\nIn [[zNVVrcxnkjk7pCabiBvaic1:::Quantum Country]]: [[QCVC questions are initially forgotten at very different rates]]\n\nA more conservative figure in medicine:\n\n> Medical students forget roughly {25–35} percent of basic science knowledge after {one year}, more than {50} percent by {the next year} (Custers, 2010), and {80–85} percent after {25 years} (Custers & ten Cate, 2011).\n\n(via [[zGXgn3UjMpmMiTtFBxAa8GQ:::Mozer, M. C., & Lindsey, R. V. (2016). Predicting and Improving Memory Retention: Psychological Theory Matters in the Big Data Era. In M. N. Jones (Ed.), Big data in cognitive science (pp. 34–64).]])\n\nReading natural text in a contrived experimental setting, Amlund et al (1986) find &lt;50% free recall minutes later, even when readers knew it was a test.\n\n## References\n\nAmlund, J. T., Kardash, C. A. M., & Kulhavy, R. W. (1986). Repetitive Reading and Recall of Expository Text. Reading Research Quarterly, 21(1), 49. <https://doi.org/10.2307/747959>\n\nCusters, E. J. F. M. (2010). Long-term retention of basic science knowledge: A review study. Advances in Health Sciences Education, 15(1), 109–128. <https://doi.org/10.1007/s10459-008-9101-y>\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "People seem to forget most of what they read, and they mostly don’t notice",
+          "linkingNoteSlug": "zL33c5cHy4bH7HvMcv2py9H",
+          "contextBlocks": [
+            "See [[zWLc4EeSqTwXijonS7SWAxn:::How rapidly do people forget practical knowledge?]]"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zNVVrcxnkjk7pCabiBvaic1",
+        "QCVC questions are initially forgotten at very different rates",
+        "zGXgn3UjMpmMiTtFBxAa8GQ"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

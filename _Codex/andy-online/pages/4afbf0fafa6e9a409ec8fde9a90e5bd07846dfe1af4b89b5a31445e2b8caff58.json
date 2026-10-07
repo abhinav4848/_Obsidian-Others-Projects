@@ -1,0 +1,180 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/zGyuqjqaSGWzT9ndJJVxiaw",
+  "checked_at": "2026-10-07T22:30:59.659321+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zGyuqjqaSGWzT9ndJJVxiaw",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zGyuqjqaSGWzT9ndJJVxiaw": {
+        "data": {
+          "slug": "zGyuqjqaSGWzT9ndJJVxiaw",
+          "title": "Skillful reading is often non-linear",
+          "contentMarkdown": "# Skillful reading is often non-linear\n\nBooks are almost always written with highly linear structures, and the form of the medium itself encourages the reader to move through the text linearly. But skillful readers rarely read linearly. Sometimes they read with intention—looking for how the book can help them answer a specific question. Or they might do a sparse first pass to understand the book’s structure (see [[zTqMd4acQkC6dmrigEhWoE:::Inspectional reading]]). Or they might start with the index and focus on the most relevant \u0005\u0005\u0005passages.\n\nIt’s interesting to think about what kind of medium would support “best practices” by default here.\n\nAn interesting contrary argument in McCutcheon (2015):\n\n> Ancient authors incorporated this linearity of the scroll into the totality of the hermeneutics for a text. They constructed poetry books without a clear linear narrative linking the individual poems, but relied on the scroll to force readers to make interpretive sense of this variatio of content, since they had to proceed through the poetry book in that manner.\n\n## References\n\n[[zF3idWHy3CyBA7foes3nagx:::Edwards, P. N. (2005). How to Read a Book.]]:\n\n> The purpose of reading books like these is to gain information. Here, finding out what happens — as quickly and easily as possible — is your main goal. So unless you’re stuck in prison with nothing else to do, NEVER read a non-fiction book from beginning to end. \n> Instead, when you’re reading for information, you should ALWAYS jump ahead, skip around, and use every available strategy to **discover**, then to **understand**, and finally to **remember**what the writer has to say. This is how you’ll get the most out of a book in the smallest amount of time. \n\nMcCutcheon, R. W. (2015). Silent Reading in Antiquity and the Future History of the Book. Book History, 18(1), 1–32. <https://doi.org/10.1353/bh.2015.0011>\n\nSome [[z8DRL5y5vMuXA98uro9KeZ3:::Augmented reading]] systems focus on this, e.g.:\n\n*   [[zCLKyGcDyU3MR2qt6GrSb1C:::Graham, J. (1999). The reader’s helper: A personalized document reading environment. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 481–488]]\n*   [[z7PvB1dwdm48sLP3Q3YKhAD:::Fok, R., Kambhamettu, H., Soldaini, L., Bragg, J., Lo, K., Hearst, M., Head, A., & Weld, D. S. (2023). Scim: Intelligent Skimming Support for Scientific Papers. Proceedings of the 28th International Conference on Intelligent User Interfaces, 476–490]]\n*   [[zYDaEHgMh5jBEwnvSF8bE2q:::Fok, R., Chang, J. C., August, T., Zhang, A. X., & Weld, D. S. (2024). Qlarify: Recursively Expandable Abstracts for Dynamic Information Retrieval over Scientific Papers. Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology, 1–21]]\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Poor performance disrupts nonlinear reading in digital reading",
+              "linkingNoteSlug": "zVx3t4nDyk9tyuWQiBzsSDT",
+              "contextBlocks": [
+                "[[zGyuqjqaSGWzT9ndJJVxiaw:::Skillful reading is often non-linear]], but digital reading experiences often make rapid scanning and referencing more painful simply by being slow. When flipping a few pages forwards or backwards occasions hiccups or blank screens, the environment pushes readers to read less effectively."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Syntopic reading",
+              "linkingNoteSlug": "z7KmgKeGAQVJ9SGujpZ9f3i",
+              "contextBlocks": [
+                "See also [[zYByzuo67JDjo2v8B9EVo7H:::Syntopicon]], [[zGyuqjqaSGWzT9ndJJVxiaw:::Skillful reading is often non-linear]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "The best way to read is highly contextual",
+              "linkingNoteSlug": "zNhg2x8e6yHJXxf7GeBLu1R",
+              "contextBlocks": [
+                "How a book should best be read depends a great deal on the book, the reader, and the context. You’ll read some texts essentially just for entertainment; some you’ll skip around and mine for gems ([[zGyuqjqaSGWzT9ndJJVxiaw:::Skillful reading is often non-linear]]); others you’ll want to deeply internalize (e.g. [[zB74H9CuWrosEuqve7jZyCo:::Write about what you read to internalize texts deeply]]). Some of this variance is explained by the work itself, but much depends on your motivations and feelings as the reader."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Most people read ineffectively",
+              "linkingNoteSlug": "z2Nv3jADtpYcgbCXww7nSEG",
+              "contextBlocks": [
+                "[[zGyuqjqaSGWzT9ndJJVxiaw:::Skillful reading is often non-linear]], but most people read linearly"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Edwards, P. N. (2005). How to Read a Book.",
+              "linkingNoteSlug": "zF3idWHy3CyBA7foes3nagx",
+              "contextBlocks": [
+                "General advice on how to read non-fiction effectively. Comments related to [[zB74H9CuWrosEuqve7jZyCo:::Write about what you read to internalize texts deeply]]; [[zGyuqjqaSGWzT9ndJJVxiaw:::Skillful reading is often non-linear]]; [[zNhg2x8e6yHJXxf7GeBLu1R:::The best way to read is highly contextual]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Programmed instruction",
+              "linkingNoteSlug": "zJnwHfze71uA7T6pUwfe36f",
+              "contextBlocks": [
+                "They insist on linearity, contra [[zGyuqjqaSGWzT9ndJJVxiaw:::Skillful reading is often non-linear]]; it’s hard to random-access review (Pressey, 1963)"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Informational videos are difficult to scan and navigate",
+              "linkingNoteSlug": "zBk4ZHoUUvuVJWagHguT7Dc",
+              "contextBlocks": [
+                "[[zGyuqjqaSGWzT9ndJJVxiaw:::Skillful reading is often non-linear]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Graham, J. (1999). The reader’s helper: A personalized document reading environment. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 481–488",
+              "linkingNoteSlug": "zCLKyGcDyU3MR2qt6GrSb1C",
+              "contextBlocks": [
+                "An [[z8DRL5y5vMuXA98uro9KeZ3:::Augmented reading]] intended to help people read “horizontally”, rather than “vertically”—i.e. skimming across many documents to find relevant information (see [[z7KmgKeGAQVJ9SGujpZ9f3i:::Syntopic reading]], [[zGyuqjqaSGWzT9ndJJVxiaw:::Skillful reading is often non-linear]]). Key design elements include:"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zTqMd4acQkC6dmrigEhWoE",
+            "zF3idWHy3CyBA7foes3nagx",
+            "z8DRL5y5vMuXA98uro9KeZ3",
+            "zCLKyGcDyU3MR2qt6GrSb1C",
+            "z7PvB1dwdm48sLP3Q3YKhAD",
+            "zYDaEHgMh5jBEwnvSF8bE2q"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zGyuqjqaSGWzT9ndJJVxiaw",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zGyuqjqaSGWzT9ndJJVxiaw",
+      "title": "Skillful reading is often non-linear",
+      "contentMarkdown": "# Skillful reading is often non-linear\n\nBooks are almost always written with highly linear structures, and the form of the medium itself encourages the reader to move through the text linearly. But skillful readers rarely read linearly. Sometimes they read with intention—looking for how the book can help them answer a specific question. Or they might do a sparse first pass to understand the book’s structure (see [[zTqMd4acQkC6dmrigEhWoE:::Inspectional reading]]). Or they might start with the index and focus on the most relevant \u0005\u0005\u0005passages.\n\nIt’s interesting to think about what kind of medium would support “best practices” by default here.\n\nAn interesting contrary argument in McCutcheon (2015):\n\n> Ancient authors incorporated this linearity of the scroll into the totality of the hermeneutics for a text. They constructed poetry books without a clear linear narrative linking the individual poems, but relied on the scroll to force readers to make interpretive sense of this variatio of content, since they had to proceed through the poetry book in that manner.\n\n## References\n\n[[zF3idWHy3CyBA7foes3nagx:::Edwards, P. N. (2005). How to Read a Book.]]:\n\n> The purpose of reading books like these is to gain information. Here, finding out what happens — as quickly and easily as possible — is your main goal. So unless you’re stuck in prison with nothing else to do, NEVER read a non-fiction book from beginning to end. \n> Instead, when you’re reading for information, you should ALWAYS jump ahead, skip around, and use every available strategy to **discover**, then to **understand**, and finally to **remember**what the writer has to say. This is how you’ll get the most out of a book in the smallest amount of time. \n\nMcCutcheon, R. W. (2015). Silent Reading in Antiquity and the Future History of the Book. Book History, 18(1), 1–32. <https://doi.org/10.1353/bh.2015.0011>\n\nSome [[z8DRL5y5vMuXA98uro9KeZ3:::Augmented reading]] systems focus on this, e.g.:\n\n*   [[zCLKyGcDyU3MR2qt6GrSb1C:::Graham, J. (1999). The reader’s helper: A personalized document reading environment. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 481–488]]\n*   [[z7PvB1dwdm48sLP3Q3YKhAD:::Fok, R., Kambhamettu, H., Soldaini, L., Bragg, J., Lo, K., Hearst, M., Head, A., & Weld, D. S. (2023). Scim: Intelligent Skimming Support for Scientific Papers. Proceedings of the 28th International Conference on Intelligent User Interfaces, 476–490]]\n*   [[zYDaEHgMh5jBEwnvSF8bE2q:::Fok, R., Chang, J. C., August, T., Zhang, A. X., & Weld, D. S. (2024). Qlarify: Recursively Expandable Abstracts for Dynamic Information Retrieval over Scientific Papers. Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology, 1–21]]\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Poor performance disrupts nonlinear reading in digital reading",
+          "linkingNoteSlug": "zVx3t4nDyk9tyuWQiBzsSDT",
+          "contextBlocks": [
+            "[[zGyuqjqaSGWzT9ndJJVxiaw:::Skillful reading is often non-linear]], but digital reading experiences often make rapid scanning and referencing more painful simply by being slow. When flipping a few pages forwards or backwards occasions hiccups or blank screens, the environment pushes readers to read less effectively."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Syntopic reading",
+          "linkingNoteSlug": "z7KmgKeGAQVJ9SGujpZ9f3i",
+          "contextBlocks": [
+            "See also [[zYByzuo67JDjo2v8B9EVo7H:::Syntopicon]], [[zGyuqjqaSGWzT9ndJJVxiaw:::Skillful reading is often non-linear]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "The best way to read is highly contextual",
+          "linkingNoteSlug": "zNhg2x8e6yHJXxf7GeBLu1R",
+          "contextBlocks": [
+            "How a book should best be read depends a great deal on the book, the reader, and the context. You’ll read some texts essentially just for entertainment; some you’ll skip around and mine for gems ([[zGyuqjqaSGWzT9ndJJVxiaw:::Skillful reading is often non-linear]]); others you’ll want to deeply internalize (e.g. [[zB74H9CuWrosEuqve7jZyCo:::Write about what you read to internalize texts deeply]]). Some of this variance is explained by the work itself, but much depends on your motivations and feelings as the reader."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Most people read ineffectively",
+          "linkingNoteSlug": "z2Nv3jADtpYcgbCXww7nSEG",
+          "contextBlocks": [
+            "[[zGyuqjqaSGWzT9ndJJVxiaw:::Skillful reading is often non-linear]], but most people read linearly"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Edwards, P. N. (2005). How to Read a Book.",
+          "linkingNoteSlug": "zF3idWHy3CyBA7foes3nagx",
+          "contextBlocks": [
+            "General advice on how to read non-fiction effectively. Comments related to [[zB74H9CuWrosEuqve7jZyCo:::Write about what you read to internalize texts deeply]]; [[zGyuqjqaSGWzT9ndJJVxiaw:::Skillful reading is often non-linear]]; [[zNhg2x8e6yHJXxf7GeBLu1R:::The best way to read is highly contextual]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Programmed instruction",
+          "linkingNoteSlug": "zJnwHfze71uA7T6pUwfe36f",
+          "contextBlocks": [
+            "They insist on linearity, contra [[zGyuqjqaSGWzT9ndJJVxiaw:::Skillful reading is often non-linear]]; it’s hard to random-access review (Pressey, 1963)"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Informational videos are difficult to scan and navigate",
+          "linkingNoteSlug": "zBk4ZHoUUvuVJWagHguT7Dc",
+          "contextBlocks": [
+            "[[zGyuqjqaSGWzT9ndJJVxiaw:::Skillful reading is often non-linear]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Graham, J. (1999). The reader’s helper: A personalized document reading environment. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 481–488",
+          "linkingNoteSlug": "zCLKyGcDyU3MR2qt6GrSb1C",
+          "contextBlocks": [
+            "An [[z8DRL5y5vMuXA98uro9KeZ3:::Augmented reading]] intended to help people read “horizontally”, rather than “vertically”—i.e. skimming across many documents to find relevant information (see [[z7KmgKeGAQVJ9SGujpZ9f3i:::Syntopic reading]], [[zGyuqjqaSGWzT9ndJJVxiaw:::Skillful reading is often non-linear]]). Key design elements include:"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zTqMd4acQkC6dmrigEhWoE",
+        "zF3idWHy3CyBA7foes3nagx",
+        "z8DRL5y5vMuXA98uro9KeZ3",
+        "zCLKyGcDyU3MR2qt6GrSb1C",
+        "z7PvB1dwdm48sLP3Q3YKhAD",
+        "zYDaEHgMh5jBEwnvSF8bE2q"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zVPU3jfwihojMKindkMz7Ya
+URL:
+  - "https://notes.andymatuschak.org/zVPU3jfwihojMKindkMz7Ya"
 title: "Most texts aren’t worth writing detailed notes about"
 ---
 # Most texts aren’t worth writing detailed notes about

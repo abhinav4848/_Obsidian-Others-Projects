@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zWSH2QNUsrTGP4V15JBaaEv?stackedNotes=zKPm7dRfoX7TPXR9KvBCAeM
+URL:
+  - "https://notes.andymatuschak.org/zWSH2QNUsrTGP4V15JBaaEv?stackedNotes=zKPm7dRfoX7TPXR9KvBCAeM"
 title: "Cognitive load theory"
 ---
 # Cognitive load theory

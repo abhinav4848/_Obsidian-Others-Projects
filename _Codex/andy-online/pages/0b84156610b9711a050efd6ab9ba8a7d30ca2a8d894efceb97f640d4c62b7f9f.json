@@ -1,0 +1,58 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Metacognition_is_inherently_dynamic",
+  "checked_at": "2026-10-07T22:28:43.880028+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zXaviMzj3x8DPjDDiUgJhoC",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zXaviMzj3x8DPjDDiUgJhoC": {
+        "data": {
+          "slug": "zXaviMzj3x8DPjDDiUgJhoC",
+          "title": "Metacognition is inherently dynamic",
+          "contentMarkdown": "# Metacognition is inherently dynamic\n\nMonitoring, regulation, and planning are dynamic processes. Participants’ conceptions evolve continuously, and executive control must adapt accordingly.\n\nImplication: [[zADYGiM6rnN6iTBHqVa6kiu:::Metacognitive supports require dynamic, participatory environments]]\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Metacognitive supports require dynamic, participatory environments",
+              "linkingNoteSlug": "zADYGiM6rnN6iTBHqVa6kiu",
+              "contextBlocks": [
+                "[[zXaviMzj3x8DPjDDiUgJhoC:::Metacognition is inherently dynamic]], so to design an environment which offers metacognitive supports, that environment must dynamically behave and respond to participants’ engagement with the material."
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zADYGiM6rnN6iTBHqVa6kiu"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zXaviMzj3x8DPjDDiUgJhoC",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zXaviMzj3x8DPjDDiUgJhoC",
+      "title": "Metacognition is inherently dynamic",
+      "contentMarkdown": "# Metacognition is inherently dynamic\n\nMonitoring, regulation, and planning are dynamic processes. Participants’ conceptions evolve continuously, and executive control must adapt accordingly.\n\nImplication: [[zADYGiM6rnN6iTBHqVa6kiu:::Metacognitive supports require dynamic, participatory environments]]\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Metacognitive supports require dynamic, participatory environments",
+          "linkingNoteSlug": "zADYGiM6rnN6iTBHqVa6kiu",
+          "contextBlocks": [
+            "[[zXaviMzj3x8DPjDDiUgJhoC:::Metacognition is inherently dynamic]], so to design an environment which offers metacognitive supports, that environment must dynamically behave and respond to participants’ engagement with the material."
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zADYGiM6rnN6iTBHqVa6kiu"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

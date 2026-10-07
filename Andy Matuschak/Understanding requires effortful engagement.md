@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/z8ccRLda8BqJafNxjQBpzis"
+URL:
+  - "https://notes.andymatuschak.org/z8ccRLda8BqJafNxjQBpzis"
 title: "Understanding requires effortful engagement"
 ---
 # Understanding requires effortful engagement

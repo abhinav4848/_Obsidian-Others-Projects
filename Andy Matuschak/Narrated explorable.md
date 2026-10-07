@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zBcm1RNbzedjDMTt8rRxoWt?stackedNotes=z611NYK3NCXzSWMbdZmuqXK&stackedNotes=zHoGHbBLzkpLBH7jWNkr4dq
+URL:
+  - "https://notes.andymatuschak.org/zBcm1RNbzedjDMTt8rRxoWt?stackedNotes=z611NYK3NCXzSWMbdZmuqXK&stackedNotes=zHoGHbBLzkpLBH7jWNkr4dq"
 title: "Narrated explorable"
 ---
 # Narrated explorable

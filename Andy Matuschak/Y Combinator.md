@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zN7KLBKWMTmFqthmFPVSNbP?stackedNotes=zGNVRh1q5gGeF88PbmYu4BB&stackedNotes=z9MxCsvv8DcHndqRECbxrRi
+URL:
+  - "https://notes.andymatuschak.org/zN7KLBKWMTmFqthmFPVSNbP?stackedNotes=zGNVRh1q5gGeF88PbmYu4BB&stackedNotes=z9MxCsvv8DcHndqRECbxrRi"
 title: "Y Combinator"
 ---
 # Y Combinator

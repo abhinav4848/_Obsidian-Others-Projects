@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z7d63BYfJrd81VFE25jkcDd
+URL:
+  - "https://notes.andymatuschak.org/z7d63BYfJrd81VFE25jkcDd"
 title: "Enabling environments focus on creating opportunities for growth and action, not on skill-building"
 ---
 # Enabling environments focus on creating opportunities for growth and action, not on skill-building

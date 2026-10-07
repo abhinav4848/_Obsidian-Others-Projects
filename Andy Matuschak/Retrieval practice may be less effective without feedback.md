@@ -1,5 +1,7 @@
 ---
 title: "Retrieval practice may be less effective without feedback"
+URL:
+  - "https://notes.andymatuschak.org/zyvKN4BdHujBNpez2uZjYx"
 ---
 # Retrieval practice may be less effective without feedback
 Category talked about: Learning

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z5zoV8TdSds59vQEkqp3JEz?stackedNotes=zL7p6gaECTXdiirrFVSUTAW
+URL:
+  - "https://notes.andymatuschak.org/z5zoV8TdSds59vQEkqp3JEz?stackedNotes=zL7p6gaECTXdiirrFVSUTAW"
 title: "Get bored"
 ---
 # Get bored

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zDh1yhNFQNxDEre12B4zd8k?stackedNotes=zLhoRUyjKU665EY16u4XXJy&stackedNotes=zTDjZQbKAT9pALtsk2HfePx
+URL:
+  - "https://notes.andymatuschak.org/zDh1yhNFQNxDEre12B4zd8k?stackedNotes=zLhoRUyjKU665EY16u4XXJy&stackedNotes=zTDjZQbKAT9pALtsk2HfePx"
 title: "Taxonomy of note types"
 ---
 # Taxonomy of note types

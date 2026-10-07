@@ -7,7 +7,8 @@ year: 1962
 in:
 - '[[Ideaverse Merged/Atlas/Maps/Songs]]'
 - '[[Ideaverse Merged/Atlas/Maps/Sources]]'
-URL: https://en.wikipedia.org/wiki/Sinner_Man
+URL:
+  - "https://en.wikipedia.org/wiki/Sinner_Man"
 tags:
   - source/music/100
 type: "[[Ideaverse Merged/Atlas/Maps/Songs]]"

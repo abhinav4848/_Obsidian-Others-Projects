@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z9uHnUB5sQeGcEmmmqEGqBV
+URL:
+  - "https://notes.andymatuschak.org/z9uHnUB5sQeGcEmmmqEGqBV"
 title: "Purposeful practice, after Ericsson and Pool"
 ---
 # Purposeful practice, after Ericsson and Pool

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z2MeZGv57tNcz5rh64ebSNz?stackedNotes=zFjTBdLjTRYsyoDyqyBEPNN&stackedNotes=zHMNN7GPf7gqABzgre5jeJi
+URL:
+  - "https://notes.andymatuschak.org/z2MeZGv57tNcz5rh64ebSNz?stackedNotes=zFjTBdLjTRYsyoDyqyBEPNN&stackedNotes=zHMNN7GPf7gqABzgre5jeJi"
 title: "The best time to write about your lecture’s topic is around the time you deliver it"
 ---
 # The best time to write about your lecture’s topic is around the time you deliver it

@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zKPv6qkSErdRGqyryvgS2wS
+URL:
+  - "https://notes.andymatuschak.org/zKPv6qkSErdRGqyryvgS2wS"
 title: "Mnemonic medium"
 ---
 # Mnemonic medium

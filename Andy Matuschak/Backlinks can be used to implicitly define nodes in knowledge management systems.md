@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/zL9q21MA7ygsKVfvn6FwBMq"
+URL:
+  - "https://notes.andymatuschak.org/zL9q21MA7ygsKVfvn6FwBMq"
 title: "Backlinks can be used to implicitly define nodes in knowledge management systems"
 ---
 # Backlinks can be used to implicitly define nodes in knowledge management systems

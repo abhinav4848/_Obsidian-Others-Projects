@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z4exmF6rnZTE9GjCnpFBKUT?stackedNotes=zSNDTj75ULnYMo7pGm2Frg7&stackedNotes=zAb9R6nYuTyN6PBC4rQY9aY
+URL:
+  - "https://notes.andymatuschak.org/z4exmF6rnZTE9GjCnpFBKUT?stackedNotes=zSNDTj75ULnYMo7pGm2Frg7&stackedNotes=zAb9R6nYuTyN6PBC4rQY9aY"
 title: "Timeful text"
 ---
 # Timeful text

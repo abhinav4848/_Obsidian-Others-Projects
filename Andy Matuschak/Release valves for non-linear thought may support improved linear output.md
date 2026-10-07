@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zSKD44o2VTbQuQYqmjupo4B?stackedNotes=zDGk8tvVDD1mbTgpMMB5UGh
+URL:
+  - "https://notes.andymatuschak.org/zSKD44o2VTbQuQYqmjupo4B?stackedNotes=zDGk8tvVDD1mbTgpMMB5UGh"
 title: "Release valves for non-linear thought may support improved linear output"
 ---
 # Release valves for non-linear thought may support improved linear output

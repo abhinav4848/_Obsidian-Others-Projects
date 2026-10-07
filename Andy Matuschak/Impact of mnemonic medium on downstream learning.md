@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z4ULp2KUgq3hBCJMWTUnLDX?stackedNotes=zNGtyWTwns63fhzixGKZ1Bb&stackedNotes=z4phduwKGaFtURDJwFBdBxF
+URL:
+  - "https://notes.andymatuschak.org/z4ULp2KUgq3hBCJMWTUnLDX?stackedNotes=zNGtyWTwns63fhzixGKZ1Bb&stackedNotes=z4phduwKGaFtURDJwFBdBxF"
 title: "Impact of mnemonic medium on downstream learning"
 ---
 # Impact of mnemonic medium on downstream learning

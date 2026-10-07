@@ -1,5 +1,7 @@
 ---
 title: "Methods for bringing dynamic mediums to physical reading contexts"
+URL:
+  - "https://notes.andymatuschak.org/z2vMujPz4bgD3BwtwbU9U9B"
 ---
 # Methods for bringing dynamic mediums to physical reading contexts
 One response to [[Reading texts on computers is unpleasant]] is to give up, to invert the problem: how to bring the properties of dynamic mediums to physical books?

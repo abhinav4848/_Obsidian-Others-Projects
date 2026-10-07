@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zPrYC99kH227c1otipAefyQ?stackedNotes=zMhuu3pPa6FeNGYn3VfGCar&stackedNotes=z3M21hHKkoGYbU3S8bcYBH3
+URL:
+  - "https://notes.andymatuschak.org/zPrYC99kH227c1otipAefyQ?stackedNotes=zMhuu3pPa6FeNGYn3VfGCar&stackedNotes=z3M21hHKkoGYbU3S8bcYBH3"
 title: "Deschooling Society - Ivan Illich"
 ---
 # Deschooling Society - Ivan Illich

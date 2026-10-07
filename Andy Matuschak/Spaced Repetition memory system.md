@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zKGjQtsTKgscAoq271ZzKqw?stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=z2D1qPwddPktBjpNuwYFVva
+URL:
+  - "https://notes.andymatuschak.org/zKGjQtsTKgscAoq271ZzKqw?stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=z2D1qPwddPktBjpNuwYFVva"
 title: "Spaced Repetition memory system"
 ---
 # Spaced Repetition memory system

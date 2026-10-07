@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z59PYkSdPeznr95fco4GRQx?stackedNotes=z4m9Gat7zi9YUmZzQRR7pwt&stackedNotes=zTzb8spnoqzxs3mkvPKprmn
+URL:
+  - "https://notes.andymatuschak.org/z59PYkSdPeznr95fco4GRQx?stackedNotes=z4m9Gat7zi9YUmZzQRR7pwt&stackedNotes=zTzb8spnoqzxs3mkvPKprmn"
 title: "Mnemonic medium prompts are interleaved into the reading experience"
 ---
 # Mnemonic medium prompts are interleaved into the reading experience

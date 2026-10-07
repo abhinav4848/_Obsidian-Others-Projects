@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zKtYU4Uk7aTCGyqHr9Ca3Sb?stackedNotes=zyjePyZ77P2BfdkRBuQB2x&stackedNotes=zY3aLuvtsYS54QnymGKFGwg
+URL:
+  - "https://notes.andymatuschak.org/zKtYU4Uk7aTCGyqHr9Ca3Sb?stackedNotes=zyjePyZ77P2BfdkRBuQB2x&stackedNotes=zY3aLuvtsYS54QnymGKFGwg"
 title: "Powerful enabling environments focus on expert use"
 ---
 # Powerful enabling environments focus on expert use

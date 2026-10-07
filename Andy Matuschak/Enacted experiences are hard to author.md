@@ -1,5 +1,7 @@
 ---
 title: "Enacted experiences are hard to author"
+URL:
+  - "https://notes.andymatuschak.org/z8r1EZL3sFrFe7brjiwFbFN"
 ---
 # Enacted experiences are hard to author
 Playwrights, novelists, and lecturers can leverage known forms to make their work easier. They can deploy prior patterns, tools, methodologies, etc. when solving problems or evaluating their work. By contrast, if you want to design an [[Enacted experience]], you’re mostly starting in the wilderness.

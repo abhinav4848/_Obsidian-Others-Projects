@@ -1,5 +1,7 @@
 ---
 title: "Brooks, F. P., Jr. (1977). The computer “scientist” as toolsmith- Studies in interactive computer graphics. Information Processing, 625–634"
+URL:
+  - "https://notes.andymatuschak.org/z435zhcckw5vv4gfxyURGBA"
 ---
 # Brooks, F. P., Jr. (1977). The computer “scientist” as toolsmith- Studies in interactive computer graphics. Information Processing, 625–634
 # Brooks, F. P., Jr. (1977). The computer “scientist” as toolsmith: Studies in interactive computer graphics. Information Processing, 625–634.

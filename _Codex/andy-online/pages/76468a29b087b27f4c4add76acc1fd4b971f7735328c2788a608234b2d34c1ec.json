@@ -1,0 +1,114 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/How_to_collect_observations_while_reading",
+  "checked_at": "2026-10-07T22:28:41.198926+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zME6gV6mc1mQ2KDE5acyho8",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zME6gV6mc1mQ2KDE5acyho8": {
+        "data": {
+          "slug": "zME6gV6mc1mQ2KDE5acyho8",
+          "title": "How to collect observations while reading",
+          "contentMarkdown": "# How to collect observations while reading\n\nIt’s important to [[zB74H9CuWrosEuqve7jZyCo:::Write about what you read to internalize texts deeply]], but it’s distracting to switch back and forth between reading and writing polished notes. Instead, collect insights in a lightweight way while you read. You can put them in [[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]. That'll [[zFuk9QqspNYHAgvzZc33ZGH:::Close open loops]], and you’ll process them later (see [[zEr7kCcH6zUUroDJBwDj2n5:::How to process reading annotations into evergreen notes]]).\n\nAnnotations—even inline marginalia which include your own writing—have very little informational value. They’re atomized; they don’t relate to each other; they don’t add up to anything; they’re ultra-compressed; they’re largely unedited. That’s fine: think of them as just a reminder. They say “hey, look at this passage,” with a few words of context to jog your memory about what the passage was about.\n\nSince you’re going to write lasting notes anyway, annotations need carry just enough information to recreate your mental context in that moment of reading. You wouldn’t want to rely on that long-term, since then you’d just have a huge pile of hooks you’d have to “follow” anytime you wanted to think about your experience with that book.\n\nWhen processing these observations, you’ll want to be able to see the big picture and see clusters of ideas, so it’s helpful to collect annotations in a manipulable fashion.\n\nConcretely, the approach I’m trying:\n\n*   Physical books:\n    *   Write couple-word thoughts on a slip of A7 paper ([[z2iksmfhifvy5a16Abv5MUW:::Pocket memo pad to capture into writing inbox while out]])\n    *   Draw a dot or line in the margin of interesting passages and dogear the page.\n*   Web articles:\n    *   Copy+paste interesting excerpts into a single working note in my writing Inbox.\n    *   Or perhaps use the Bear excerpter, in combination with the marker tool.\n*   Digital books and PDFs:\n    *   Use in-app highlighters\n    *   Export all highlights into a working note in Inbox to cluster\n\n==TODO==\n\nI find the digital solutions quite unsatisfying: it’s slow and heavy browsing between annotations in these solutions.\n\n---\n\n## References\n\n<https://zettelkasten.de/posts/making-proper-marks-in-books>\n\n> The text inspired a thought, and the inspiring part is already marked in the text.\n\n<https://zettelkasten.de/posts/create-zettel-from-reading-notes>\n\n> taking notes on my Mac while reading just doesn’t work for me. My state while typing is too different from the state I’m in when I read print. Going back and forth requires heavy switching of mental gears. First, this wears me out after a while. Second, this switching ruins the focus: I cannot follow the text properly. That’s why I take notes on paper and mark the passage I want to refer to with a little \\* in the page’s margin.\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Write about what you read to internalize texts deeply",
+              "linkingNoteSlug": "zB74H9CuWrosEuqve7jZyCo",
+              "contextBlocks": [
+                "**Collect** passages that seem interesting and thoughts that emerge while reading: [[zME6gV6mc1mQ2KDE5acyho8:::How to collect observations while reading]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "How to process reading annotations into evergreen notes",
+              "linkingNoteSlug": "zEr7kCcH6zUUroDJBwDj2n5",
+              "contextBlocks": [
+                "It’s important to [[zB74H9CuWrosEuqve7jZyCo:::Write about what you read to internalize texts deeply]]. While reading, you’ve marked passages that seem relevant, and you’ve scribbled notes with your thoughts ([[zME6gV6mc1mQ2KDE5acyho8:::How to collect observations while reading]]). Now we’ll process all that into lasting notes."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Literature notes are secondary and separate",
+              "linkingNoteSlug": "zKzUzQENhyEDnuwPUhh2EQM",
+              "contextBlocks": [
+                "Literature notes are typically a lightweight synthesis of observations collected while reading (see [[zME6gV6mc1mQ2KDE5acyho8:::How to collect observations while reading]]). We can keep a quick summary of the work and those observations around for later literature lookup, but the bulk of the value will already have been absorbed into our lasting notes (see [[zEr7kCcH6zUUroDJBwDj2n5:::How to process reading annotations into evergreen notes]]). The reference-specific notes are mostly useful for their links into those lasting notes ([[zKBhqUkoRWoNV72aG21GYst:::Are literature notes necessary if we have automatic universal backlinks?]])."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "§Note-writing systems",
+              "linkingNoteSlug": "zEZi3ytBhZHHweRYNAosQ1g",
+              "contextBlocks": [
+                "[[zME6gV6mc1mQ2KDE5acyho8:::How to collect observations while reading]]"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zB74H9CuWrosEuqve7jZyCo",
+            "zUP4GuzPF33dWkZPiu9N6V5",
+            "zFuk9QqspNYHAgvzZc33ZGH",
+            "zEr7kCcH6zUUroDJBwDj2n5",
+            "z2iksmfhifvy5a16Abv5MUW"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zME6gV6mc1mQ2KDE5acyho8",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zME6gV6mc1mQ2KDE5acyho8",
+      "title": "How to collect observations while reading",
+      "contentMarkdown": "# How to collect observations while reading\n\nIt’s important to [[zB74H9CuWrosEuqve7jZyCo:::Write about what you read to internalize texts deeply]], but it’s distracting to switch back and forth between reading and writing polished notes. Instead, collect insights in a lightweight way while you read. You can put them in [[zUP4GuzPF33dWkZPiu9N6V5:::A writing inbox for transient and incomplete notes]]. That'll [[zFuk9QqspNYHAgvzZc33ZGH:::Close open loops]], and you’ll process them later (see [[zEr7kCcH6zUUroDJBwDj2n5:::How to process reading annotations into evergreen notes]]).\n\nAnnotations—even inline marginalia which include your own writing—have very little informational value. They’re atomized; they don’t relate to each other; they don’t add up to anything; they’re ultra-compressed; they’re largely unedited. That’s fine: think of them as just a reminder. They say “hey, look at this passage,” with a few words of context to jog your memory about what the passage was about.\n\nSince you’re going to write lasting notes anyway, annotations need carry just enough information to recreate your mental context in that moment of reading. You wouldn’t want to rely on that long-term, since then you’d just have a huge pile of hooks you’d have to “follow” anytime you wanted to think about your experience with that book.\n\nWhen processing these observations, you’ll want to be able to see the big picture and see clusters of ideas, so it’s helpful to collect annotations in a manipulable fashion.\n\nConcretely, the approach I’m trying:\n\n*   Physical books:\n    *   Write couple-word thoughts on a slip of A7 paper ([[z2iksmfhifvy5a16Abv5MUW:::Pocket memo pad to capture into writing inbox while out]])\n    *   Draw a dot or line in the margin of interesting passages and dogear the page.\n*   Web articles:\n    *   Copy+paste interesting excerpts into a single working note in my writing Inbox.\n    *   Or perhaps use the Bear excerpter, in combination with the marker tool.\n*   Digital books and PDFs:\n    *   Use in-app highlighters\n    *   Export all highlights into a working note in Inbox to cluster\n\n==TODO==\n\nI find the digital solutions quite unsatisfying: it’s slow and heavy browsing between annotations in these solutions.\n\n---\n\n## References\n\n<https://zettelkasten.de/posts/making-proper-marks-in-books>\n\n> The text inspired a thought, and the inspiring part is already marked in the text.\n\n<https://zettelkasten.de/posts/create-zettel-from-reading-notes>\n\n> taking notes on my Mac while reading just doesn’t work for me. My state while typing is too different from the state I’m in when I read print. Going back and forth requires heavy switching of mental gears. First, this wears me out after a while. Second, this switching ruins the focus: I cannot follow the text properly. That’s why I take notes on paper and mark the passage I want to refer to with a little \\* in the page’s margin.\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Write about what you read to internalize texts deeply",
+          "linkingNoteSlug": "zB74H9CuWrosEuqve7jZyCo",
+          "contextBlocks": [
+            "**Collect** passages that seem interesting and thoughts that emerge while reading: [[zME6gV6mc1mQ2KDE5acyho8:::How to collect observations while reading]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "How to process reading annotations into evergreen notes",
+          "linkingNoteSlug": "zEr7kCcH6zUUroDJBwDj2n5",
+          "contextBlocks": [
+            "It’s important to [[zB74H9CuWrosEuqve7jZyCo:::Write about what you read to internalize texts deeply]]. While reading, you’ve marked passages that seem relevant, and you’ve scribbled notes with your thoughts ([[zME6gV6mc1mQ2KDE5acyho8:::How to collect observations while reading]]). Now we’ll process all that into lasting notes."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Literature notes are secondary and separate",
+          "linkingNoteSlug": "zKzUzQENhyEDnuwPUhh2EQM",
+          "contextBlocks": [
+            "Literature notes are typically a lightweight synthesis of observations collected while reading (see [[zME6gV6mc1mQ2KDE5acyho8:::How to collect observations while reading]]). We can keep a quick summary of the work and those observations around for later literature lookup, but the bulk of the value will already have been absorbed into our lasting notes (see [[zEr7kCcH6zUUroDJBwDj2n5:::How to process reading annotations into evergreen notes]]). The reference-specific notes are mostly useful for their links into those lasting notes ([[zKBhqUkoRWoNV72aG21GYst:::Are literature notes necessary if we have automatic universal backlinks?]])."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "§Note-writing systems",
+          "linkingNoteSlug": "zEZi3ytBhZHHweRYNAosQ1g",
+          "contextBlocks": [
+            "[[zME6gV6mc1mQ2KDE5acyho8:::How to collect observations while reading]]"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zB74H9CuWrosEuqve7jZyCo",
+        "zUP4GuzPF33dWkZPiu9N6V5",
+        "zFuk9QqspNYHAgvzZc33ZGH",
+        "zEr7kCcH6zUUroDJBwDj2n5",
+        "z2iksmfhifvy5a16Abv5MUW"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

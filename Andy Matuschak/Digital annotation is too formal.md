@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zX95uZHiGWNiNTDF3wETWtq?stackedNotes=zGsRWkonFv1KGAsWwiYA3he&stackedNotes=zMHusNNzg8DveY5HJFbh1RU
+URL:
+  - "https://notes.andymatuschak.org/zX95uZHiGWNiNTDF3wETWtq?stackedNotes=zGsRWkonFv1KGAsWwiYA3he&stackedNotes=zMHusNNzg8DveY5HJFbh1RU"
 title: "Digital annotation is too formal"
 ---
 # Digital annotation is too formal

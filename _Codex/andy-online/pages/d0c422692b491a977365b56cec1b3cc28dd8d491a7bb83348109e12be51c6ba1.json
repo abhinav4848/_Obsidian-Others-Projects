@@ -1,0 +1,74 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/Unchanging_peripheral_vision_desensitizes",
+  "checked_at": "2026-10-07T22:28:50.303693+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/zYLNg1BLCBM9jECoNnHvysL",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "zYLNg1BLCBM9jECoNnHvysL": {
+        "data": {
+          "slug": "zYLNg1BLCBM9jECoNnHvysL",
+          "title": "Unchanging peripheral vision desensitizes",
+          "contentMarkdown": "# Unchanging peripheral vision desensitizes\n\nWhen the same stack of papers are on my desk for a month, I stop noticing them. [[z4geAr5cERWdJPrdhU5gy3N:::Peripheral vision]] only directs attention when {it changes somewhat consistently}. When {it stays the same}, it can actually desensitize the observer.\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Peripheral vision",
+              "linkingNoteSlug": "z4geAr5cERWdJPrdhU5gy3N",
+              "contextBlocks": [
+                "My physical workspace is full of subtle cues. The books I read or bought most recently are lying out. Papers I’ve accumulated are lying in stacks on my desk, very roughly arranged by their relationship to each other. I notice a broken door every time I walk by it. These cues together give me a kind of “peripheral vision”: when I’m doing one thing, it’s easy for me to fluidly notice other nearby things. So long as the peripheral vision is reasonably dynamic, anyway—[[zYLNg1BLCBM9jECoNnHvysL:::Unchanging peripheral vision desensitizes]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "When might desensitization be a useful design goal?",
+              "linkingNoteSlug": "zMMvusvxFasBL7eeDDjpJce",
+              "contextBlocks": [
+                "Or, contrariwise, when might [[zYLNg1BLCBM9jECoNnHvysL:::Unchanging peripheral vision desensitizes]] be a danger?"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "z4geAr5cERWdJPrdhU5gy3N"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "zYLNg1BLCBM9jECoNnHvysL",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "zYLNg1BLCBM9jECoNnHvysL",
+      "title": "Unchanging peripheral vision desensitizes",
+      "contentMarkdown": "# Unchanging peripheral vision desensitizes\n\nWhen the same stack of papers are on my desk for a month, I stop noticing them. [[z4geAr5cERWdJPrdhU5gy3N:::Peripheral vision]] only directs attention when {it changes somewhat consistently}. When {it stays the same}, it can actually desensitize the observer.\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Peripheral vision",
+          "linkingNoteSlug": "z4geAr5cERWdJPrdhU5gy3N",
+          "contextBlocks": [
+            "My physical workspace is full of subtle cues. The books I read or bought most recently are lying out. Papers I’ve accumulated are lying in stacks on my desk, very roughly arranged by their relationship to each other. I notice a broken door every time I walk by it. These cues together give me a kind of “peripheral vision”: when I’m doing one thing, it’s easy for me to fluidly notice other nearby things. So long as the peripheral vision is reasonably dynamic, anyway—[[zYLNg1BLCBM9jECoNnHvysL:::Unchanging peripheral vision desensitizes]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "When might desensitization be a useful design goal?",
+          "linkingNoteSlug": "zMMvusvxFasBL7eeDDjpJce",
+          "contextBlocks": [
+            "Or, contrariwise, when might [[zYLNg1BLCBM9jECoNnHvysL:::Unchanging peripheral vision desensitizes]] be a danger?"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "z4geAr5cERWdJPrdhU5gy3N"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}

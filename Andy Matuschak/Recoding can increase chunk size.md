@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zEwJDpZiu1YQoXYznxioznL?stackedNotes=zSQhVMNeFNGfggB9Pg6MMDX&stackedNotes=z3p78NbwsU2Pi1t3Q24psfB
+URL:
+  - "https://notes.andymatuschak.org/zEwJDpZiu1YQoXYznxioznL?stackedNotes=zSQhVMNeFNGfggB9Pg6MMDX&stackedNotes=z3p78NbwsU2Pi1t3Q24psfB"
 title: "Recoding can increase chunk size"
 ---
 # Recoding can increase chunk size

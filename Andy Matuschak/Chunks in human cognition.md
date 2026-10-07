@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zWoEKdbmtbSgAp1tZjU4usY?stackedNotes=zD8D8PPRBDEFk3JeM2vaWrn&stackedNotes=zXxUPAFZBthh97wAKBEj7Tq
+URL:
+  - "https://notes.andymatuschak.org/zWoEKdbmtbSgAp1tZjU4usY?stackedNotes=zD8D8PPRBDEFk3JeM2vaWrn&stackedNotes=zXxUPAFZBthh97wAKBEj7Tq"
 title: "Chunks in human cognition"
 ---
 # Chunks in human cognition

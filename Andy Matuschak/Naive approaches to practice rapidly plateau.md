@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zALB77pBFKPZae7f5kD3ro1
+URL:
+  - "https://notes.andymatuschak.org/zALB77pBFKPZae7f5kD3ro1"
 title: "Naive approaches to practice rapidly plateau"
 ---
 # Naive approaches to practice rapidly plateau

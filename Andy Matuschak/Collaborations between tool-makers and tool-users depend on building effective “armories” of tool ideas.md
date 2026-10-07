@@ -1,5 +1,7 @@
 ---
 title: "Collaborations between tool-makers and tool-users depend on building effective “armories” of tool ideas"
+URL:
+  - "https://notes.andymatuschak.org/zJip1ikfjnqm8veu4GE4SmK"
 ---
 # Collaborations between tool-makers and tool-users depend on building effective “armories” of tool ideas
 [[Deep collaborations between tool-makers and tool-users may support insight through making]], and because the tool-user is driving the serious use in these collaborations, they’ll generally be the one to _instigate_ the pair’s creative projects. That initial conception is often the result of semi-private tinkering. The pair’s division of responsibility will naturally focus the tool-user’s tinkering on the creative project itself, rather than unanswered questions in the tools. As the tool-user tinkers with ideas which might become new creative projects, they’ll mostly be incorporating tools that are mostly already “within grasp.”

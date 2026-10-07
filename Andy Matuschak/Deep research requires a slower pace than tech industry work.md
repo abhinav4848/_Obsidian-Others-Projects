@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zGeqdWaGnGqP86hZBTUvTBm
+URL:
+  - "https://notes.andymatuschak.org/zGeqdWaGnGqP86hZBTUvTBm"
 title: "Deep research requires a slower pace than tech industry work"
 ---
 # Deep research requires a slower pace than tech industry work

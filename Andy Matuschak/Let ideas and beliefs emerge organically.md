@@ -1,5 +1,7 @@
 ---
 title: "Let ideas and beliefs emerge organically"
+URL:
+  - "https://notes.andymatuschak.org/zR5J4ZucL8A9xTWBmDZpNJQ"
 ---
 # Let ideas and beliefs emerge organically
 Beware preconceived notions. [[Do your own thinking]].

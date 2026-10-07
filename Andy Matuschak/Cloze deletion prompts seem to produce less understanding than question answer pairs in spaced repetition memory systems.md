@@ -1,7 +1,9 @@
 ---
 aliases:
   - Cloze deletion prompts seem to produce less understanding than question/answer pairs in spaced repetition memory systems
-URL: ["https://notes.andymatuschak.org/zX95uZHiGWNiNTDF3wETWtq?stackedNotes=zAt1K9ARQYguinoHH8cfaqQ&stackedNotes=Cloze_deletion_prompts_seem_to_produce_less_understanding_than_question%2Fanswer_pairs_in_spaced_repetition_memory_systems", "https://notes.andymatuschak.org/zPJt42JTcoAPTTTa2vdDonV"]
+URL:
+  - "https://notes.andymatuschak.org/zX95uZHiGWNiNTDF3wETWtq?stackedNotes=zAt1K9ARQYguinoHH8cfaqQ&stackedNotes=Cloze_deletion_prompts_seem_to_produce_less_understanding_than_question%2Fanswer_pairs_in_spaced_repetition_memory_systems"
+  - "https://notes.andymatuschak.org/zPJt42JTcoAPTTTa2vdDonV"
 title: "Cloze deletion prompts seem to produce less understanding than question answer pairs in spaced repetition memory systems"
 ---
 # Cloze deletion prompts seem to produce less understanding than question answer pairs in spaced repetition memory systems

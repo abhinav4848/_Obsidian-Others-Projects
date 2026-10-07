@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zSNDTj75ULnYMo7pGm2Frg7
+URL:
+  - "https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zSNDTj75ULnYMo7pGm2Frg7"
 title: "Guided meditation apps are naturally spread over time"
 ---
 # Guided meditation apps are naturally spread over time

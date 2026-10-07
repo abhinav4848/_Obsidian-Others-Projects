@@ -1,5 +1,6 @@
 ---
-URL: "https://notes.andymatuschak.org/z9xavmmNq7xvNqzpnJ3HFXx"
+URL:
+  - "https://notes.andymatuschak.org/z9xavmmNq7xvNqzpnJ3HFXx"
 title: "Important attributes of good spaced repetition memory prompts"
 ---
 # Important attributes of good spaced repetition memory prompts

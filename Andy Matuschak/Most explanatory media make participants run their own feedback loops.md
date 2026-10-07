@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zKRrv2DmKp3VyDEp3oXrKXQ?stackedNotes=zBcm1RNbzedjDMTt8rRxoWt&stackedNotes=z2zCVix7FhroZGyufoXSXbx
+URL:
+  - "https://notes.andymatuschak.org/zKRrv2DmKp3VyDEp3oXrKXQ?stackedNotes=zBcm1RNbzedjDMTt8rRxoWt&stackedNotes=z2zCVix7FhroZGyufoXSXbx"
 title: "Most explanatory media make participants run their own feedback loops"
 ---
 # Most explanatory media make participants run their own feedback loops

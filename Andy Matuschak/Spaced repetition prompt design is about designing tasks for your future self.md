@@ -1,5 +1,7 @@
 ---
 title: "Spaced repetition prompt design is about designing tasks for your future self"
+URL:
+  - "https://notes.andymatuschak.org/z53zJy6y76MGuJuWW4Qvab9"
 ---
 # Spaced repetition prompt design is about designing tasks for your future self
 [[Writing good spaced repetition memory prompts is hard]], but here’s one useful mental model. When you make a prompt for a [[Andy Matuschak/Spaced Repetition memory system|Spaced repetition memory system]], you are _giving your future self a recurring task_. Prompt design is task design.

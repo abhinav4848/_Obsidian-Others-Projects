@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zNUaiGAXp21eorsER1Jm9yU?stackedNotes=zDh1yhNFQNxDEre12B4zd8k&stackedNotes=z3b7sidNrEkNaY9qfGwZjwz
+URL:
+  - "https://notes.andymatuschak.org/zNUaiGAXp21eorsER1Jm9yU?stackedNotes=zDh1yhNFQNxDEre12B4zd8k&stackedNotes=z3b7sidNrEkNaY9qfGwZjwz"
 title: "Concept handles, after Alexander"
 ---
 # Concept handles, after Alexander

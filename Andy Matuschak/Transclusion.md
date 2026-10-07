@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zWbMsEFW9LD4vsoVhaDcF4u?stackedNotes=zVLVGffrkZiYmahXqFPQtP4&stackedNotes=zBLUefAuJvhXq4p4HhXJqyK
+URL:
+  - "https://notes.andymatuschak.org/zWbMsEFW9LD4vsoVhaDcF4u?stackedNotes=zVLVGffrkZiYmahXqFPQtP4&stackedNotes=zBLUefAuJvhXq4p4HhXJqyK"
 title: "Transclusion"
 ---
 # Transclusion

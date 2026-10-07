@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zJRmoVPc9vyv8QxSD5voijR?stackedNotes=zVJzGg7mUtvY8FH6AnZ2tqG&stackedNotes=zT5ig6GJpSBmaYtS3rhSiWq
+URL:
+  - "https://notes.andymatuschak.org/zJRmoVPc9vyv8QxSD5voijR?stackedNotes=zVJzGg7mUtvY8FH6AnZ2tqG&stackedNotes=zT5ig6GJpSBmaYtS3rhSiWq"
 title: "Electron"
 ---
 # Electron

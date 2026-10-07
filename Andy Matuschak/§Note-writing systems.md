@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/%C2%A7Note-writing_systems
+URL:
+  - "https://notes.andymatuschak.org/%C2%A7Note-writing_systems"
 title: "§Note-writing systems"
 ---
 # §Note-writing systems 

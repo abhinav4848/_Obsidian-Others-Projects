@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/zHfGyWHe5JaMW3874CHqf69
+URL:
+  - "https://notes.andymatuschak.org/zHfGyWHe5JaMW3874CHqf69"
 title: "Differences in my approach to spaced repetition systems"
 ---
 # Differences in my approach to spaced repetition systems

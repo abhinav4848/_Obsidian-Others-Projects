@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z8dXowKop2xGp9UEVwXpG2Q
+URL:
+  - "https://notes.andymatuschak.org/z8dXowKop2xGp9UEVwXpG2Q"
 title: "The Mind Illuminated - Culadasa"
 ---
 # The Mind Illuminated - Culadasa 

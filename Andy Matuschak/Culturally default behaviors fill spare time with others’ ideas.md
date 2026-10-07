@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z2q7U5ZvXeDxXD6vXAbZb9a?stackedNotes=zWzVw2VM4TPjpKXnHUfLaso&stackedNotes=zMmH3GBLKotdP4t1sdSvEQJ
+URL:
+  - "https://notes.andymatuschak.org/z2q7U5ZvXeDxXD6vXAbZb9a?stackedNotes=zWzVw2VM4TPjpKXnHUfLaso&stackedNotes=zMmH3GBLKotdP4t1sdSvEQJ"
 title: "Culturally default behaviors fill spare time with others’ ideas"
 ---
 # Culturally default behaviors fill spare time with others’ ideas

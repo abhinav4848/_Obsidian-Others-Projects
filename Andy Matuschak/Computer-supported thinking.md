@@ -1,5 +1,6 @@
 ---
-URL: https://notes.andymatuschak.org/z2bSwDuxY2Jbv1ntLKB3SL1?stackedNotes=zDN6nH4MHc78Tq6opuSaRmw&stackedNotes=zCStysqNYgEuTWs1s1KFML7
+URL:
+  - "https://notes.andymatuschak.org/z2bSwDuxY2Jbv1ntLKB3SL1?stackedNotes=zDN6nH4MHc78Tq6opuSaRmw&stackedNotes=zCStysqNYgEuTWs1s1KFML7"
 title: "Computer-supported thinking"
 ---
 # Computer-supported thinking

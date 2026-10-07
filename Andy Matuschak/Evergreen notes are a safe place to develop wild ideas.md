@@ -1,5 +1,7 @@
 ---
 title: "Evergreen notes are a safe place to develop wild ideas"
+URL:
+  - "https://notes.andymatuschak.org/zE92ANLEszr5pwoYatKzka8"
 ---
 # Evergreen notes are a safe place to develop wild ideas
 When you have some inkling about a novel idea, it’s tempting to try to immediately write down the idea and develop it in-place. But often, that’s not possible, practically or emotionally: the idea may just not be solid enough yet to attack directly. The blank page may feel intimidating; the claims may still feel mushy.

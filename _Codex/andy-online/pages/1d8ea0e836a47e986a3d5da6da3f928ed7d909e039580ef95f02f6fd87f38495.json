@@ -1,0 +1,108 @@
+{
+  "requested_URL": "https://notes.andymatuschak.org/z4xE8FBHhDo5pTvJuCBPRYC",
+  "checked_at": "2026-10-07T22:30:58.344868+00:00",
+  "resolved_URL": "https://notes.andymatuschak.org/z4xE8FBHhDo5pTvJuCBPRYC",
+  "HTTP_status": 200,
+  "site_data": {
+    "noteCache": {
+      "z4xE8FBHhDo5pTvJuCBPRYC": {
+        "data": {
+          "slug": "z4xE8FBHhDo5pTvJuCBPRYC",
+          "title": "Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences",
+          "contentMarkdown": "# Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences\n\n[[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]], and usually that requires aggressively dropping lower-priority items. Some examples:\n\n*   archiving low-priority emails to keep your inbox legible\n*   dropping straggler to-do items\n*   closing wishful browser tabs to keep the browser UI manageable\n*   deleting long-unread PDFs from your downloads folder\n\nThose actions all feel weighty because they’re destructive. Sure, if you close the tab, you could always re-open it later, but you’re often afraid that if you close it, you’ll never see it again.\n\nSuch destructive actions often don’t correspond to what we actually mean. We often mean something like: if I have a light day in the next week (i.e. if the arrival rate is low), or if I have time in the next few evenings (i.e. if I temporarily increase the departure rate), I’ll check this out… but otherwise I won’t. The other tabs I have open are much more important right now.\n\nSimilarly, if you’re revising an essay, you might struggle with an interesting paragraph which doesn’t really belong. It feels destructive to delete the paragraph, and if you move it to a “graveyard” section, you don’t trust that you’ll ever see it again.\n\nTypical software systems are over-formal. They insist on finality, though their users usually think in terms of relative preferences, contingent on context. On the other hand, systems which explicitly reify “priority” and “context” are typically over-fiddly and unusable. A better “core verb” is needed. One example of a possible solution: [[zJ5Yzvba2729XKXivBBZ91J:::Spaced repetition can lower the stakes around destructive inbox-maintenance operations]].\n\n---\n\n## References\n\nMatuschak, A. (2019, December). Taking knowledge work seriously. Presented at the Stripe Convergence, San Francisco.\n\n\n\n\n",
+          "backlinkedNotes": [
+            {
+              "linkingNoteTitle": "Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle",
+              "linkingNoteSlug": "z2Pg1CbUyvjV4jEoqmr8Xua",
+              "contextBlocks": [
+                "Explicitly dropping a task is hard because [[z4xE8FBHhDo5pTvJuCBPRYC:::Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Spaced repetition can lower the stakes around destructive inbox-maintenance operations",
+              "linkingNoteSlug": "zJ5Yzvba2729XKXivBBZ91J",
+              "contextBlocks": [
+                "[[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]], but [[z2Pg1CbUyvjV4jEoqmr8Xua:::Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle]]. In large part that’s because [[z4xE8FBHhDo5pTvJuCBPRYC:::Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences]]."
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "Evergreen notes lower the emotional stakes in editing manuscripts",
+              "linkingNoteSlug": "zSKD44o2VTbQuQYqmjupo4B",
+              "contextBlocks": [
+                "Related: [[z4xE8FBHhDo5pTvJuCBPRYC:::Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences]]"
+              ],
+              "hidden": true
+            },
+            {
+              "linkingNoteTitle": "§Taking knowledge work seriously (Stripe convergence talk, 2019-12-12)",
+              "linkingNoteSlug": "zBmSSpM1WfFDehxNCBcqSZp",
+              "contextBlocks": [
+                "[[z4xE8FBHhDo5pTvJuCBPRYC:::Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences]]"
+              ],
+              "hidden": true
+            }
+          ],
+          "linkedNoteSlugs": [
+            "zGKqPvetpYbvbXmPmuuvfx8",
+            "zJ5Yzvba2729XKXivBBZ91J"
+          ],
+          "ctimeMillis": 0,
+          "mtimeMillis": 0
+        }
+      }
+    },
+    "routeState": {
+      "note": "z4xE8FBHhDo5pTvJuCBPRYC",
+      "stackedNotes": []
+    }
+  },
+  "notes": [
+    {
+      "slug": "z4xE8FBHhDo5pTvJuCBPRYC",
+      "title": "Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences",
+      "contentMarkdown": "# Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences\n\n[[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]], and usually that requires aggressively dropping lower-priority items. Some examples:\n\n*   archiving low-priority emails to keep your inbox legible\n*   dropping straggler to-do items\n*   closing wishful browser tabs to keep the browser UI manageable\n*   deleting long-unread PDFs from your downloads folder\n\nThose actions all feel weighty because they’re destructive. Sure, if you close the tab, you could always re-open it later, but you’re often afraid that if you close it, you’ll never see it again.\n\nSuch destructive actions often don’t correspond to what we actually mean. We often mean something like: if I have a light day in the next week (i.e. if the arrival rate is low), or if I have time in the next few evenings (i.e. if I temporarily increase the departure rate), I’ll check this out… but otherwise I won’t. The other tabs I have open are much more important right now.\n\nSimilarly, if you’re revising an essay, you might struggle with an interesting paragraph which doesn’t really belong. It feels destructive to delete the paragraph, and if you move it to a “graveyard” section, you don’t trust that you’ll ever see it again.\n\nTypical software systems are over-formal. They insist on finality, though their users usually think in terms of relative preferences, contingent on context. On the other hand, systems which explicitly reify “priority” and “context” are typically over-fiddly and unusable. A better “core verb” is needed. One example of a possible solution: [[zJ5Yzvba2729XKXivBBZ91J:::Spaced repetition can lower the stakes around destructive inbox-maintenance operations]].\n\n---\n\n## References\n\nMatuschak, A. (2019, December). Taking knowledge work seriously. Presented at the Stripe Convergence, San Francisco.\n\n\n\n\n",
+      "backlinkedNotes": [
+        {
+          "linkingNoteTitle": "Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle",
+          "linkingNoteSlug": "z2Pg1CbUyvjV4jEoqmr8Xua",
+          "contextBlocks": [
+            "Explicitly dropping a task is hard because [[z4xE8FBHhDo5pTvJuCBPRYC:::Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Spaced repetition can lower the stakes around destructive inbox-maintenance operations",
+          "linkingNoteSlug": "zJ5Yzvba2729XKXivBBZ91J",
+          "contextBlocks": [
+            "[[zGKqPvetpYbvbXmPmuuvfx8:::Inboxes only work if you trust how they’re drained]], but [[z2Pg1CbUyvjV4jEoqmr8Xua:::Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle]]. In large part that’s because [[z4xE8FBHhDo5pTvJuCBPRYC:::Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences]]."
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "Evergreen notes lower the emotional stakes in editing manuscripts",
+          "linkingNoteSlug": "zSKD44o2VTbQuQYqmjupo4B",
+          "contextBlocks": [
+            "Related: [[z4xE8FBHhDo5pTvJuCBPRYC:::Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences]]"
+          ],
+          "hidden": true
+        },
+        {
+          "linkingNoteTitle": "§Taking knowledge work seriously (Stripe convergence talk, 2019-12-12)",
+          "linkingNoteSlug": "zBmSSpM1WfFDehxNCBcqSZp",
+          "contextBlocks": [
+            "[[z4xE8FBHhDo5pTvJuCBPRYC:::Software interfaces often harmfully frame destructive operations as final decisions, not contingent preferences]]"
+          ],
+          "hidden": true
+        }
+      ],
+      "linkedNoteSlugs": [
+        "zGKqPvetpYbvbXmPmuuvfx8",
+        "zJ5Yzvba2729XKXivBBZ91J"
+      ],
+      "ctimeMillis": 0,
+      "mtimeMillis": 0
+    }
+  ]
+}
