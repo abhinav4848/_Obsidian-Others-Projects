@@ -1,10 +1,10 @@
 ---
 up:
-  - "[[Home Pro]]"
+  - "[[Ideaverse Merged/Home Pro]]"
 related:
-  - "[[Idea Accretion]]"
-  - "[[Idea Development]]"
-  - "[[Idea Maintenance]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Idea Accretion]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Idea Development]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Idea Maintenance]]"
 created: 2023-10-15
 tags:
   - map/view
@@ -23,7 +23,7 @@ What do you want to ideate on? Get the idea into 80-90% shape and then move to t
 > > 	 file.link as "Idea",
 > > 	 rank as "Rank"
 > >   
-> > FROM "Atlas" and -"Atlas/Notes/Vaults/Ideaverse" and #note/connect🚤  
+> > FROM "Atlas" and -"Ideaverse Merged/Atlas/Dots" and #note/connect🚤  
 > > 
 > > SORT rank desc
 > > 
@@ -38,7 +38,7 @@ What do you want to ideate on? Get the idea into 80-90% shape and then move to t
 > > 	 file.link as "Idea",
 > > 	 rank as "Rank"
 > > 
-> > FROM "Atlas" and -"Atlas/Notes/Vaults/Ideaverse" and #note/develop🍃 
+> > FROM "Atlas" and -"Ideaverse Merged/Atlas/Dots" and #note/develop🍃 
 > > 
 > > SORT rank desc
 > > 
@@ -52,7 +52,7 @@ What do you want to ideate on? Get the idea into 80-90% shape and then move to t
 > 	 file.link as "Idea",
 > 	 rank as "Rank"
 > 
-> FROM "Atlas" and -"Atlas/Notes/Vaults/Ideaverse"
+> FROM "Atlas" and -"Ideaverse Merged/Atlas/Dots"
 > 
 > WHERE rank > 0
 > 
@@ -74,7 +74,7 @@ What do you want to ideate on? Get the idea into 80-90% shape and then move to t
 > > FROM #note/connect🚤
 > > 
 > > WHERE
-> > contains(in,[[Concepts]])
+> > contains(in,[[Ideaverse Merged/Atlas/Maps/Concepts]])
 > > 
 > > SORT rank desc
 > > 
@@ -92,7 +92,7 @@ What do you want to ideate on? Get the idea into 80-90% shape and then move to t
 > > FROM #note/develop🍃 
 > > 
 > > WHERE
-> > contains(in,[[Concepts]])
+> > contains(in,[[Ideaverse Merged/Atlas/Maps/Concepts]])
 > > 
 > > SORT rank desc
 > > 

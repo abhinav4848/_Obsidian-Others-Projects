@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zMhuu3pPa6FeNGYn3VfGCar?stackedNotes=z8aBPhjq7R6o8cwVNjzfDdr&stackedNotes=zQgeXp15RWkzyiUv9WQsLtA
+---
 # Cognitive apprenticeship
 Concept proposed by Allan Collins, [John Seely Brown](https://notes.andymatuschak.org/zFQ8beSWt5erQJnz8265Va2), and Susan Newman in the late 80’s. Heavily influenced by [[Situated learning]], the authors propose to solve [Transfer learning](https://notes.andymatuschak.org/z7ffiDfqTR9pPcEEUUbCL7C) and to help students acquire the [[Tacit knowledge]] involved in real practice by using techniques of [Apprenticeship](https://notes.andymatuschak.org/z8aBPhjq7R6o8cwVNjzfDdr) in cognitive domains (math, reading, writing).
 
@@ -27,7 +30,6 @@ Q. Three main elements of cognitive apprenticeship?
 A. modeling, scaffolding, coaching
 
 ## References
-1. [Andy Link](https://notes.andymatuschak.org/zMbCwoVdjsqPNyTRRr3phPN?stackedNotes=z2etsLyP1LJUwNDPCwvRdUG&stackedNotes=zPrYC99kH227c1otipAefyQ&stackedNotes=zMhuu3pPa6FeNGYn3VfGCar&stackedNotes=z8aBPhjq7R6o8cwVNjzfDdr&stackedNotes=zQgeXp15RWkzyiUv9WQsLtA)
 Collins, A., Brown, J. S., & Newman, S. E. (1987). Cognitive apprenticeship: Teaching the crafts of reading, writing, and mathematics. Xerox Palo Alto Research Center.
 
 Collins, A., Brown, J. S., & Holum, A. (1991). Cognitive apprenticeship: Making thinking visible. American Educator, 15(3), 6–11. [http://www.psy.lmu.de/isls-naples/intro/all-webinars/collins/cognitive-apprenticeship.pdf](http://www.psy.lmu.de/isls-naples/intro/all-webinars/collins/cognitive-apprenticeship.pdf)

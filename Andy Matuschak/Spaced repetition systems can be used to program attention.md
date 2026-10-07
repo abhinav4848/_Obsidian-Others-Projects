@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zSK4LyrCbG9zDrdCWmcovUW?stackedNotes=zB92WZZ5baBHKZPPbWMbYEv&stackedNotes=z53zJy6y76MGuJuWW4Qvab9
+---
 # Spaced repetition systems can be used to program attention
 # Spaced repetition systems can be used to program attention
 
@@ -48,5 +51,4 @@ Related:
 I use this concept to engage with my implementation of [[A reading inbox to capture possibly-useful references]]
 
 # References
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k&stackedNotes=zLhoRUyjKU665EY16u4XXJy&stackedNotes=zTDjZQbKAT9pALtsk2HfePx&stackedNotes=zSK4LyrCbG9zDrdCWmcovUW&stackedNotes=zB92WZZ5baBHKZPPbWMbYEv&stackedNotes=z53zJy6y76MGuJuWW4Qvab9)
 2. Matuschak, A. (2019, December). *Taking knowledge work seriously*. Presented at the Stripe Convergence, San Francisco.

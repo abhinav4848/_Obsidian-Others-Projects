@@ -1,8 +1,8 @@
 ---
 up:
-  - "[[Statements]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Statements]]"
 in:
-  - "[[Collections]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Collections]]"
 tags:
   - "#map/view"
 created: 2023-11-24

@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zU6upTVz687icnQegpMhLY8?stackedNotes=zLNcy2JiH3AGNaZjYkHzK9P&stackedNotes=z97uezJ67HAt9YG1NUCuP4g
+---
 # Executable books emphasize understanding pre-existing code, not writing new code
 
 At least as usually conceived, [[Executable books]] package and present the code discussed by their prose. Readers might be asked to extend that code in exercises, but executable books present code an object created by the author to be explored. The prose aims to help students read and understand the code. An interesting alternate approach is to consider executable book-like mediums which frame the code as something predominantly written by the reader.
@@ -18,5 +21,4 @@ A. They’re intentionally incomplete: players are meant to fill in the blanks.
 
 ---
 # References
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zCMhncA1iSE74MKKYQS5PBZ&stackedNotes=zHV89H7dqnrvNvwXHBSGog9&stackedNotes=zTYb9ysCATFYCnvay3V5sF2&stackedNotes=zGD1FxbDZd7WnH7NrhRaVyC&stackedNotes=z4ULp2KUgq3hBCJMWTUnLDX&stackedNotes=zKtYU4Uk7aTCGyqHr9Ca3Sb&stackedNotes=zyjePyZ77P2BfdkRBuQB2x&stackedNotes=zY3aLuvtsYS54QnymGKFGwg&stackedNotes=zU6upTVz687icnQegpMhLY8&stackedNotes=zLNcy2JiH3AGNaZjYkHzK9P&stackedNotes=z97uezJ67HAt9YG1NUCuP4g) 
 Conversation with Pavel Panchekha, [2020-09-01](https://notes.andymatuschak.org/2020-09-01): Re: Making my book a timeful text

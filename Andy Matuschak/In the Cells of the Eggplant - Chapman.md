@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zTnTob5JrFYF9NpU73Zg5a1&stackedNotes=z4aipv9wyMg4qZGANaVjkrJ&stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zAt1K9ARQYguinoHH8cfaqQ&stackedNotes=Cloze_deletion_prompts_seem_to_produce_less_understanding_than_question%2Fanswer_pairs_in_spaced_repetition_memory_systems&stackedNotes=zSiuztCZ594AZuCweRghcXT&stackedNotes=zENFxxXLVZqyJz2qaXxuy2p&stackedNotes=z4jRNWgKHL9dq1fH9qq3JhM&stackedNotes=zAQj4GEE7PWDDcSreCGHTP9&stackedNotes=zQA9XEs7Cph3PkM8hEiJDAn
+URL: https://notes.andymatuschak.org/zENFxxXLVZqyJz2qaXxuy2p?stackedNotes=z4jRNWgKHL9dq1fH9qq3JhM&stackedNotes=zAQj4GEE7PWDDcSreCGHTP9
 ---
 # In the Cells of the Eggplant - Chapman
 
@@ -371,6 +370,3 @@ Eggplant is going to make the argument that while rationalism views reasonablene
 
 Q. What is Eggplant’s “ethnomethodological flip”?  
 A. View rationality as a specialized application of reasonableness, instead of reasonableness as a defective approximation of rationality.
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zTnTob5JrFYF9NpU73Zg5a1&stackedNotes=z4aipv9wyMg4qZGANaVjkrJ&stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zAt1K9ARQYguinoHH8cfaqQ&stackedNotes=Cloze_deletion_prompts_seem_to_produce_less_understanding_than_question%2Fanswer_pairs_in_spaced_repetition_memory_systems&stackedNotes=zSiuztCZ594AZuCweRghcXT&stackedNotes=zENFxxXLVZqyJz2qaXxuy2p&stackedNotes=z4jRNWgKHL9dq1fH9qq3JhM&stackedNotes=zAQj4GEE7PWDDcSreCGHTP9)

@@ -1,8 +1,8 @@
 ---
 up:
-  - "[[Home Pro]]"
+  - "[[Ideaverse Merged/Home Pro]]"
 related:
-  - "[[Recents Visualized]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Recents Visualized]]"
 created: 2023-10-16
 tags:
   - map/view

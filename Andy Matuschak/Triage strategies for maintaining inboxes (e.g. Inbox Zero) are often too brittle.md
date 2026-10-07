@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zQvwwb95vzcHcpow3GWy5Wi?stackedNotes=zJ5Yzvba2729XKXivBBZ91J&stackedNotes=z2Pg1CbUyvjV4jEoqmr8Xua
+---
 # Triage strategies for maintaining inboxes (e.g. Inbox Zero) are often too brittle
 [[Inboxes only work if you trust how they’re drained]], and [Inbox Zero](http://www.43folders.com/izero) is one approach to ensure that they do. It lowers items’ wait times (theoretically to one day) by aggressively increasing the departure rate.
 
@@ -18,6 +21,3 @@ When processing the inbox in this way, there’s also a lot of pressure to simpl
 A more ideal mechanism would ensure that wait times remain tolerable, but the cycle time doesn’t necessarily have to be one day. We must also consider the number of decisions to be made. I’d rather make fewer decisions but tolerate a longer average wait time.
 
 One possible instantiation: [[Spaced repetition can lower the stakes around destructive inbox-maintenance operations]].
-
-# Source
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zDcuS8A5uxGR8hQygsqP83A&stackedNotes=zQvwwb95vzcHcpow3GWy5Wi&stackedNotes=zJ5Yzvba2729XKXivBBZ91J&stackedNotes=z2Pg1CbUyvjV4jEoqmr8Xua)

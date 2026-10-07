@@ -1,8 +1,8 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Evergreen notes]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Things/Evergreen notes]]"
 related:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Note-making creates unexpected optionality]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Statements/Note-making creates unexpected optionality]]"
 created: 2020-06-01
 ---
 
@@ -15,4 +15,4 @@ Note-making forces clear, sharp thinking. Here are the basic steps: ^5e4e28c7
 
 Each aspect isn't a passive process; it's an active, engaged one.
 
-This is profound and not readily apparent. It means that [[Ideaverse Merged/Atlas/Notes/Ideas/Linking your thinking encourages leaps of insights]].
+This is profound and not readily apparent. It means that [[Ideaverse Merged/Atlas/Dots/Statements/Linking your thinking encourages leaps of insights]].

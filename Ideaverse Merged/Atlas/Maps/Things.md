@@ -1,10 +1,10 @@
 ---
 in:
-  - "[[Collections]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Collections]]"
 related:
-  - "[[Statements]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Statements]]"
 down:
-  - "[[Concepts]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Concepts]]"
 tags:
   - "#map/view"
 created: 2021-01-01
@@ -17,7 +17,7 @@ This note collects all notes in the folder `Things`.
 >  file.link as "Things",
 >  (date(today) - file.cday).day as "Days alive"
 >  
-> FROM "Atlas/Notes/Things" or "Atlas/Notes/Vaults/Ideaverse/Atlas/Notes/Things"
+> FROM "Ideaverse Merged/Atlas/Dots/Things" or "Ideaverse Merged/Atlas/Dots/Things"
 > 
 > SORT file.ctime desc
 > ```

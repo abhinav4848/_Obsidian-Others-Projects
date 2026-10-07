@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/zLButXjJvGCpWKHzqhXEhhm
+URL: https://notes.andymatuschak.org/zLButXjJvGCpWKHzqhXEhhm
 ---
 # 2023-06-30 Patreon letter - Reading comprehension and memory systems
 
@@ -164,5 +163,3 @@ Thanks for Michael Nielsen and Russel Simmons for helpful conversations on this 
 4. The latter claim isn’t discussed in Hamaker’s review, but I’ve heard lots of reports like this from mnemonic medium readers. Interestingly, I haven’t yet found studies exhibiting this effect in the adjunct question or reading comprehension literature. Probably I just haven’t yet found the right term of art.
 5. The latter claim isn’t discussed in Hamaker’s review, and it’s not as well studied as some of the other effects I’ve mentioned, but it’s usually called “test-potentiated learning” or the “[forward testing effect](https://en.wikipedia.org/wiki/Forward_testing_effect#cite_note-WhiffenKarpicke2017-4)”. See e.g. [Arnold and McDermott, “Test-Potentiated Learning: Distinguishing Between Direct and Indirect Effects of Tests” (2013)](http://andymatuschak.org/files/papers/Arnold,%20McDermott%20-%202013%20-%20Test-Potentiated%20Learning.pdf). (PDF: [[Arnold, McDermott - 2013 - Test-Potentiated Learning.pdf]]). 
 6. This belief-building process is part of why the experience of “just parroting back answers” so harmful. It’s not just that it feels like you’re wasting time in that moment, or that you’re not understanding the thing you want to understand. It (rightly) undermines your belief in the value of memory practice.
-# References
-1. [Andy Link](https://notes.andymatuschak.org/zLButXjJvGCpWKHzqhXEhhm)

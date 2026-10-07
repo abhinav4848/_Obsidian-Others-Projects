@@ -207,11 +207,15 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian42-brat:BRAT": false,
-      "obsifetch:obsifetch": false
+      "obsifetch:obsifetch": false,
+      "snipd-official:Open Snipd base": false
     }
   },
   "active": "725515690a729896",
   "lastOpenFiles": [
+    "Snipd/Data/The Sweaty Startup/The One Deal That Changed My Life and What Wealth Really Means.md",
+    "Snipd/Data/Radical Personal Finance/1114-I Have Changed Everything in My Life.md",
+    "current_export_metadata.json",
     "Andy Matuschak/_attachments/07348.png",
     "collection.md",
     "Andy Matuschak/_attachments/06855.png",
@@ -235,7 +239,6 @@
     "Workflows/04 Flat PARA/desktop.ini",
     "Snipd/Base/desktop.ini",
     "Snipd/Data/Unthinkable with Jay Acunzo/Welcome to the Jumble.md",
-    "current_export_metadata.json",
     "Snipd/Data/The Colin and Samir Show/How Ali Abdaal makes $5,741,266.32 a year on YouTube.md",
     "Snipd/Data/The Sweaty Startup/How I Raised Twenty Million to Take Control of a Fifty Million Dollar Company.md",
     "Snipd/Data/The Personal MBA Audiobook _cHHQqo2_5o4_ 153kbps/(1_3) The Personal MBA Audiobook _cHHQqo2_5o4_ 153kbps.md",
@@ -255,7 +258,6 @@
     "Andy Matuschak/How to Read a Book - Adler and van Doren.md",
     "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
     "Andy Matuschak/2023-05-31 Patreon letter - Fluid practice for fluid understanding.md",
-    "Andy Matuschak/Why Greatness Cannot Be Planned - Stanley and Lehman.md",
-    "Snipd/Data/The Sweaty Startup/Controversial Takes That Might Save Your Life.md"
+    "Andy Matuschak/Why Greatness Cannot Be Planned - Stanley and Lehman.md"
   ]
 }

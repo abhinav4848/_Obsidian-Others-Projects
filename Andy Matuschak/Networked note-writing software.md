@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zHcouiwcynak2Xu5wh8FbFj?stackedNotes=zGKtrhpZ3hS8bw8UGL8hMTP&stackedNotes=zJRmoVPc9vyv8QxSD5voijR
+---
 # Networked note-writing software
 [[Note-writing system]] emphasizing links between parts of different documents
 
@@ -18,6 +21,3 @@
     - Bear
     - [org-roam](https://www.orgroam.com/)
     - [Foam](https://foambubble.github.io/foam/)
-
-# References
-1. [Andy Link](https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=z4RDymitJVXdYzjNgDYWqQK&stackedNotes=z6Dd9qGVLLBchS8R9wow4sk&stackedNotes=zHcouiwcynak2Xu5wh8FbFj&stackedNotes=zGKtrhpZ3hS8bw8UGL8hMTP&stackedNotes=zJRmoVPc9vyv8QxSD5voijR)

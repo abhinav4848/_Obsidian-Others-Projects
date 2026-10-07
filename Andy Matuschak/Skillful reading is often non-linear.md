@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zJ4k4feCLspoCid7C4mzmvL?stackedNotes=zVx3t4nDyk9tyuWQiBzsSDT&stackedNotes=zGyuqjqaSGWzT9ndJJVxiaw
+---
 # Skillful reading is often non-linear
 Books are almost always written with highly linear structures, and the form of the medium itself encourages the reader to move through the text linearly. But skillful readers rarely read linearly. Sometimes they read with intention—looking for how the book can help them answer a specific question. Or they might do a sparse first pass to understand the book’s structure (see [[Inspectional reading]]). Or they might start with the index and focus on the most relevant passages.
 
@@ -8,7 +11,6 @@ An interesting contrary argument in McCutcheon (2015):
 > Ancient authors incorporated this linearity of the scroll into the totality of the hermeneutics for a text. They constructed poetry books without a clear linear narrative linking the individual poems, but relied on the scroll to force readers to make interpretive sense of this variatio of content, since they had to proceed through the poetry book in that manner.
 
 # References
-1. [Andy Link](https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zTnTob5JrFYF9NpU73Zg5a1&stackedNotes=z4aipv9wyMg4qZGANaVjkrJ&stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zBeBbzwU8LAyi2D5jqBJpS&stackedNotes=zJ4k4feCLspoCid7C4mzmvL&stackedNotes=zVx3t4nDyk9tyuWQiBzsSDT&stackedNotes=zGyuqjqaSGWzT9ndJJVxiaw) 
 2. [Edwards, P. N. (2005). How to Read a Book.](https://notes.andymatuschak.org/zF3idWHy3CyBA7foes3nagx):
 
 > The purpose of reading books like these is to gain information. Here, finding out what happens — as quickly and easily as possible — is your main goal. So unless you’re stuck in prison with nothing else to do, NEVER read a non-fiction book from beginning to end.  

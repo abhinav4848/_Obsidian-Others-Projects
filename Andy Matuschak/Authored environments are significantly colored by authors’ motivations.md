@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zY3aLuvtsYS54QnymGKFGwg?stackedNotes=zU6upTVz687icnQegpMhLY8&stackedNotes=z4wZFERkVVVVy6bN6BE8kQz
+---
 # Authored environments are significantly colored by authors’ motivations
 
 Activities in an authored environment might have their own ostensible goals, but authors’ own motivations will infect and color those purposes. When authors’, participants’, and activities’ objectives are aligned, authors can create powerful environments; when they’re misaligned, the environments won’t cohere.
@@ -13,7 +16,6 @@ Michael Nielsen points out that the Apollo program was about _getting to space_
 ---
 
 ## References
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zCMhncA1iSE74MKKYQS5PBZ&stackedNotes=zHV89H7dqnrvNvwXHBSGog9&stackedNotes=zTYb9ysCATFYCnvay3V5sF2&stackedNotes=zGD1FxbDZd7WnH7NrhRaVyC&stackedNotes=z4ULp2KUgq3hBCJMWTUnLDX&stackedNotes=zKtYU4Uk7aTCGyqHr9Ca3Sb&stackedNotes=zyjePyZ77P2BfdkRBuQB2x&stackedNotes=zY3aLuvtsYS54QnymGKFGwg&stackedNotes=zU6upTVz687icnQegpMhLY8&stackedNotes=z4wZFERkVVVVy6bN6BE8kQz)
 Email with Michael Nielsen, 2019/08/23. Re: Transcending the Primer  
 Email with Michael Nielsen, 2019/09/02. Re: ❲FYI❳ Some notes on enabling environments / anti-educationalism  
 Maxis Emeryville. (2008). _Spore_.

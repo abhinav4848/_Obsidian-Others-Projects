@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[People]]"
+  - "[[Ideaverse Merged/Atlas/Maps/People]]"
 related: 
 created: 2023-11-21
 tags:
@@ -24,7 +24,7 @@ ROAR stands for "Reach-Outs And Replies".
 > > WHERE
 > > 	ROARrank and
 > > 	contains(ROAR,"reach-out") and
-> > 	contains(in, [[People]]) and
+> > 	contains(in, [[Ideaverse Merged/Atlas/Maps/People]]) and
 > > 	!contains(file.name, "Template")
 > > SORT ROARrank desc
 > > ```
@@ -39,7 +39,7 @@ ROAR stands for "Reach-Outs And Replies".
 > > WHERE
 > > 	ROARrank and
 > > 	contains(ROAR,"reply") and
-> > 	contains(in, [[People]]) and
+> > 	contains(in, [[Ideaverse Merged/Atlas/Maps/People]]) and
 > > 	!contains(file.name, "Template")
 > > SORT ROARrank desc
 > > ```
@@ -55,7 +55,7 @@ ROAR stands for "Reach-Outs And Replies".
 > WHERE
 > 	ROARrank and
 > 	contains(ROAR,"waiting") and
-> 	contains(in, [[People]]) and
+> 	contains(in, [[Ideaverse Merged/Atlas/Maps/People]]) and
 > 	!contains(file.name, "Template")
 > SORT ROARrank desc
 > ```
@@ -71,7 +71,7 @@ ROAR stands for "Reach-Outs And Replies".
 > 	ROARrank as RRank
 > WHERE 
 > 	contains(ROAR,"backburner") and
-> 	contains(in, [[People]]) and
+> 	contains(in, [[Ideaverse Merged/Atlas/Maps/People]]) and
 > 	!contains(file.name, "Template")
 > SORT ROARrank desc
 > ```

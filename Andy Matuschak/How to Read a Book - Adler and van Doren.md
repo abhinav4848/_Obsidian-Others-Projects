@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/zFSbY4oPcbeKpotrJVf1A8P
+URL: https://notes.andymatuschak.org/zFSbY4oPcbeKpotrJVf1A8P
 ---
 See PDF: [[Adler, van Doren - 1972 - How to Read a Book.pdf]]
 # How to Read a Book - Adler and van Doren
@@ -281,5 +280,3 @@ A. 1) acknowledge your emotions; 2) state your assumptions; 3) attempt impartial
 
 Q. Four categories of criticism?
 A. 1) uninformed; 2) misinformed; 3) illogical; 4) incomplete
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/zFSbY4oPcbeKpotrJVf1A8P)

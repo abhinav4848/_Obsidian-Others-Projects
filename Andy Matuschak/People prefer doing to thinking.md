@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zMmH3GBLKotdP4t1sdSvEQJ?stackedNotes=zJknUfCo51gKFth8XWAzqhg&stackedNotes=zTaenCxxdcffpPUAzq3iDmQ
+---
 # People prefer doing to thinking
 
 # People prefer doing to thinking
@@ -14,7 +17,3 @@ Related:
 Q. Vivid experiment demonstrating that people prefer doing to thinking?
 
 A. Wilson et al asked people to sit and think for 15 minutes but offered them a device they could use to shock themselves, and many did, despite previously stating that they’d pay money to avoid a shock!
-
-# References
-
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zFuk9QqspNYHAgvzZc33ZGH&stackedNotes=zDXBGEWk7msyonQ2Ngnrf8h&stackedNotes=zB74H9CuWrosEuqve7jZyCo&stackedNotes=zRbqwbnhmVdfLtKxMCibMoX&stackedNotes=zH7AVUkqYYK7xmoAn8PTpAV&stackedNotes=z2qjVZKqSqrqkhFhvUpPDtd&stackedNotes=zQvbnYfHdG1gARTbtC4pje6&stackedNotes=zKBhqUkoRWoNV72aG21GYst&stackedNotes=zKzUzQENhyEDnuwPUhh2EQM&stackedNotes=zME6gV6mc1mQ2KDE5acyho8&stackedNotes=z2iksmfhifvy5a16Abv5MUW&stackedNotes=zHTevHGZQPu8QHpRhUmtsuK&stackedNotes=zSve33D7x1qe5WUjojDcM9y&stackedNotes=z2q7U5ZvXeDxXD6vXAbZb9a&stackedNotes=zWzVw2VM4TPjpKXnHUfLaso&stackedNotes=zMmH3GBLKotdP4t1sdSvEQJ&stackedNotes=zJknUfCo51gKFth8XWAzqhg&stackedNotes=zTaenCxxdcffpPUAzq3iDmQ)

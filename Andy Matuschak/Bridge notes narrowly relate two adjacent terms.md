@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zRxv4aMPUXowy5bPAiKPJEy
+---
 # Bridge notes narrowly relate two adjacent terms
 
 Say that another person has thought deeply about a similar idea to one of your own, and their conclusions seem mostly similar. You each have your own terms of art for various attributes of the theory. It’s tempting to subsume the other’s terms into your own, but there are probably subtle differences between your conceptions and theirs which would be lost in the process. You could just use the other person’s terms, but sometimes it’s hard to go in new directions when anchored to prior terminology which may carries many connotations. And yet you don’t want to be constantly referring to both sets of terms.
@@ -11,4 +14,3 @@ Such notes remind me of entries in a relational database many-to-many join table
 ## References
 Conversation with Igor Dvorkin, 2020-05-11
 
-1. [Andy Link](https://notes.andymatuschak.org/zRxv4aMPUXowy5bPAiKPJEy)

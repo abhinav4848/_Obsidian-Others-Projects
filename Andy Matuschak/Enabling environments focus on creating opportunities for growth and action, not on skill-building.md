@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/z7d63BYfJrd81VFE25jkcDd
+URL: https://notes.andymatuschak.org/z7d63BYfJrd81VFE25jkcDd
 ---
 # Enabling environments focus on creating opportunities for growth and action, not on skill-building
 
@@ -13,6 +12,3 @@ This heuristic gives us a new way to view existing media. For instance, books ar
 > What would it mean to design “books” which are primarily about creating growth opportunities for people, and bridges to opportunities for action based on that growth?
 
 See e.g. [[Moore method]] .
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/z7d63BYfJrd81VFE25jkcDd)

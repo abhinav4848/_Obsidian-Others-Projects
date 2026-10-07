@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=z63PA5ATVi8oyhyLgeGvL3p&stackedNotes=z5WxoE5azJstBPkERETy5kv
+---
 # Use phones to collect and triage, not (usually) to read
 
 Because it’s important to [[Write about what you read to internalize texts deeply]], we should be wary of reading on our phones: we’re usually not in a position or mindset to write!
@@ -11,7 +14,6 @@ When I feel tempted to read something thoroughly on my phone, I should instead 
 ---
 
 # References
-1. [Andy Link](https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=z63PA5ATVi8oyhyLgeGvL3p&stackedNotes=z5WxoE5azJstBPkERETy5kv)
 2. [Note-Taking when Reading the Web and RSS • Zettelkasten Method](https://zettelkasten.de/posts/reading-web-rss-note-taking/) 
 
 > Reading a whole article on the iPhone is a welcome pastime, but it’s not an efficient way to expand my knowledge. Thus I ask myself: **do I want to read something just to “ ” myself, or do I need to work with it later?** [edu-tain](http://en.wiktionary.org/wiki/edutainment#English) The answer to this question determines whether I will read the article or just skim and file it.

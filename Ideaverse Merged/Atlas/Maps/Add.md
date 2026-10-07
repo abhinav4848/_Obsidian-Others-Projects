@@ -1,13 +1,13 @@
 ---
 up:
-  - "[[Home]]"
+  - "[[Ideaverse Merged/Home]]"
 related:
-  - "[[Relate]]"
-  - "[[Communicate]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Relate]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Communicate]]"
 created: 2022-01-01
 obsidianUIMode: preview
 in:
-  - "[[Views]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Views]]"
 ---
 
 This **Add** note isn't just an inbox. It's a cooling pad 🧊.
@@ -22,7 +22,7 @@ When cooler thoughts prevail, you can better prioritize. Cool?
 >  file.link as "",
 >  (date(today) - file.cday).day as "Days alive"
 >
-> FROM "+" and -#x/readme
+> FROM "Ideaverse Merged/+" and -#x/readme
 >
 > SORT file.cday desc
 >

@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zo6qizTMapyWk2rh8amnF1
+---
 # Most explanatory media place heavy metacognitive demands on participants
 [[Learning requires metacognition]]. When learning something new from a text, readers must constantly ask themselves: did I understand that? what questions can I ask myself to check my understanding? should I reread that passage? should I consult a reference for background on that? etc.
 
@@ -9,5 +12,4 @@ My theory as to why this is true: [[Metacognitive supports require dynamic, par
 
 ---
 # References
-1. [Andy Link](https://notes.andymatuschak.org/zo6qizTMapyWk2rh8amnF1)
 2. Matuschak, A. (2019). Why books don’t work. Retrieved from [https://andymatuschak.org/books](https://andymatuschak.org/books)

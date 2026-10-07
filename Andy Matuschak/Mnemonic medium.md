@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zKPv6qkSErdRGqyryvgS2wS
+---
 # Mnemonic medium
 
 The mnemonic medium embeds a [[Spaced Repetition memory system]] within narrative prose.  [[Spaced repetition memory systems make memory a choice]], but they’ve suffered significant barriers to adoption. The mnemonic medium is designed to solve many of these problems.
@@ -86,6 +89,3 @@ It was first used in [Quantum Country](https://notes.andymatuschak.org/zNVVrcxn
     - [Login - Dawnguide](https://dawnguide.com/home)
     - [TakeAway](https://notes.andymatuschak.org/zDqSzDqyvMJpUZ2aGfBogQh)
     - [Thought Saver](https://notes.andymatuschak.org/zMEdfuUnanJcbi5TKxybiPs)
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/zKPv6qkSErdRGqyryvgS2wS) 

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[👨🏻‍🏫 UCLA Supercharge Course (E) (Example)]]"
+  - "[[Ideaverse Merged/Efforts/On/👨🏻‍🏫 UCLA Supercharge Course (E) (Example)]]"
 date: 2023-07-27
 ---
 

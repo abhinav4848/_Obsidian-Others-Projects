@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zyjePyZ77P2BfdkRBuQB2x?stackedNotes=zY3aLuvtsYS54QnymGKFGwg&stackedNotes=zU6upTVz687icnQegpMhLY8
+---
 # Most dynamic representations developed for communication aren’t very enabling
 
 Interactive diagrams and small embedded sandbox simulations in [[Explorable explanations]] may help the author get their point across, but they’re rarely useful as independent environments for the reader to think in. These elements’ main purpose is to help the reader more effectively understand the point the author wants to make.
@@ -17,7 +20,6 @@ Mathematica notebooks and other [[Executable books]] take a different directio
 
 ---
 # References
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zCMhncA1iSE74MKKYQS5PBZ&stackedNotes=zHV89H7dqnrvNvwXHBSGog9&stackedNotes=zTYb9ysCATFYCnvay3V5sF2&stackedNotes=zGD1FxbDZd7WnH7NrhRaVyC&stackedNotes=z4ULp2KUgq3hBCJMWTUnLDX&stackedNotes=zKtYU4Uk7aTCGyqHr9Ca3Sb&stackedNotes=zyjePyZ77P2BfdkRBuQB2x&stackedNotes=zY3aLuvtsYS54QnymGKFGwg&stackedNotes=zU6upTVz687icnQegpMhLY8)
 2. Tweetstorm about this: [https://twitter.com/andy_matuschak/status/1305264246331039744](https://twitter.com/andy_matuschak/status/1305264246331039744)
 3. Farrar, S., Khoe, M.-L., & Matuschak, A. (2017, August 31). Numbers at play: Dynamic toys make the invisible visible. Retrieved December 31, 2019, from [https://early.khanacademy.org/cantor/](https://early.khanacademy.org/cantor/)
 4. Gingold, C. (2015). _Earth: A Primer_. Retrieved from [https://www.earthprimer.com](https://www.earthprimer.com/)

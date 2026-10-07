@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zB92WZZ5baBHKZPPbWMbYEv?stackedNotes=zPpaHZYKuBPyoDtgcsiZ9RV&stackedNotes=zYHvjdAHV8eKdtFh18LavmM
+---
 # Programmable attention
 
 Type of Link: 📝 Article
@@ -28,7 +31,6 @@ This term is evocative, but it has unfortunate connotations of roboticism and al
 Maybe it’s better to focus on finding great terms for specific instantiations of programmable attention—e.g. “coordinated attention” for ideas around collective intelligence, etc.
 
 # References
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k&stackedNotes=zLhoRUyjKU665EY16u4XXJy&stackedNotes=zTDjZQbKAT9pALtsk2HfePx&stackedNotes=zSK4LyrCbG9zDrdCWmcovUW&stackedNotes=zB92WZZ5baBHKZPPbWMbYEv&stackedNotes=zPpaHZYKuBPyoDtgcsiZ9RV&stackedNotes=zYHvjdAHV8eKdtFh18LavmM)
 2. The concept and term come from [Michael Nielsen](https://notes.andymatuschak.org/z4JuirVwUcoGL4wZ8dM6Los), in conversations from ~2018— I’ve forgotten the details, unfortunately.
     Correspondence with Igor Dvorkin,
     > Coaching is paying someone to program your attention

@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/zKzUzQENhyEDnuwPUhh2EQM\
+URL: https://notes.andymatuschak.org/zKzUzQENhyEDnuwPUhh2EQM
 ---
 # Literature notes are secondary and separate
 Because [[Evergreen notes should be concept-oriented]] reference-specific notes should be both brief and clearly separated from the note archive. They primarily exist to help you write durable notes.
@@ -10,7 +9,6 @@ Literature notes are typically a lightweight synthesis of observations collected
 There’s an important philosophical reason why we should keep these literature notes separate from our durable notes. The archive of lasting notes is the place where you [[Do your own thinking]]: you’ve interpreted others’ ideas into your own structure of knowledge. Direct quotes are fairly rare; durable notes are intentionally expressed in your own words. By contrast, literature notes are often mostly the author’s thoughts. They tend to lean on direct quotes, and even when our interpretation is offered, it’s in the context of the author’s ontology and claim system. [[It’s hard to hear yourself think]], so we should clearly separate the space where we do our own thinking from these more direct representations of others’ thoughts.
 
 # References
-1. [Andy Link](https://notes.andymatuschak.org/zKzUzQENhyEDnuwPUhh2EQM)
 - Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*, 2017. [[How to Take Smart Notes - Ahrens]] 
     > You need to take some form of literature note that captures your understanding of the text, so you have something in front of your eyes while you are making the slip-box note. But don’t turn it into a project in itself. Literature notes are short and meant to help with writing slip-box notes. Everything else either helps to get to this point or is a distraction.
 

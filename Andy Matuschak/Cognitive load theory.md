@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zWSH2QNUsrTGP4V15JBaaEv?stackedNotes=zKPm7dRfoX7TPXR9KvBCAeM
+---
 # Cognitive load theory
 # Cognitive load theory
 Originated by [John Sweller](https://notes.andymatuschak.org/zPgXrAJFwMCMLBTZiKaPtvD). See also [Worked example effect](https://notes.andymatuschak.org/zD8D8PPRBDEFk3JeM2vaWrn).
@@ -41,7 +44,6 @@ Q. Give an example of an instructional intervention which would usefully increas
 A. (Assuming extraneous cognitive load is low) increase variability, which should produce better [[Transfer learning]]; see [Paas, F. G., & Van Merriënboer, J. J. (1994). Variability of worked examples and transfer of geometrical problem-solving skills: A cognitive-load approach. Journal of Educational Psychology, 86(1), 122](https://notes.andymatuschak.org/Paas%2C_F._G.%2C_%26_Van_Merri%C3%ABnboer%2C_J._J._\(1994\)._Variability_of_worked_examples_and_transfer_of_geometrical_problem-solving_skills%3A_A_cognitive-load_approach._Journal_of_Educational_Psychology%2C_86\(1\)%2C_122).
 
 # References
-1. [Andy Link](https://notes.andymatuschak.org/zWSH2QNUsrTGP4V15JBaaEv?stackedNotes=zKPm7dRfoX7TPXR9KvBCAeM)
 - [Sweller, J., & Cooper, G. A. (1985). The Use of Worked Examples as a Substitute for Problem Solving in Learning Algebra. Cognition and Instruction, 2(1), 59–89](https://notes.andymatuschak.org/zYHdLJ7TFdpcwGtqDChMNbm)
 - [Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. Cognitive Science, 12(2), 257–285](https://notes.andymatuschak.org/z9oJyCh2UgEHU1LrkqNGDxm)
 - [Paas, F. G. W. C., & Van Merriënboer, J. J. G. (1994). Instructional control of cognitive load in the training of complex cognitive tasks. Educational Psychology Review, 6(4), 351–371](https://notes.andymatuschak.org/zAfNBYHdvA9nVmVEJJy4WM1)

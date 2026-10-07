@@ -1,8 +1,8 @@
 ---
 up:
-  - "[[Home]]"
+  - "[[Ideaverse Merged/Home]]"
 related:
-  - "[[Views]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Views]]"
 created: 2024-09-02
 tags: 
 version:

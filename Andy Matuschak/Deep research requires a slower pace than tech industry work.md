@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zGeqdWaGnGqP86hZBTUvTBm
+---
 # **Deep research requires a slower pace than tech industry work**
 
 Anyone working in an industry for a while will become accustomed to that culture—its processes, its norms, its values, its tacit knowledge. Much of this is incredibly valuable, of course, but these ideas can also represent constraints. There are some important impedances here between tech industry culture and research culture. In particular, tech culture is calibrated to a much faster pace. This can lead to impatience or early abandonment when confronting problems which require a researcher’s pace.
@@ -9,7 +12,6 @@ Personally, coming from the tech industry, I’ve noticed that my expectations a
 One related special case: [[Inappropriate time pressures often harm creative work]] 
 
 # References
-1. [Andy Link](https://notes.andymatuschak.org/zGeqdWaGnGqP86hZBTUvTBm)
 
 [Michael Nielsen](https://notes.andymatuschak.org/z4JuirVwUcoGL4wZ8dM6Los) on [Twitter](https://twitter.com/michael_nielsen/status/1446931124140195844?s=20):
 > So many people give up, saying “I’m not good at proof”. When really {it has nothing to do with not being good at proof, but at not being good at dealing with being stuck and uncertain, and learning from ideas that don’t immediately succeed}.

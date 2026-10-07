@@ -1,12 +1,12 @@
 ---
 up:
-  - "[[Home]]"
+  - "[[Ideaverse Merged/Home]]"
 related:
-  - "[[Add]]"
-  - "[[Communicate]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Add]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Communicate]]"
 created: 2022-02-22
 in:
-  - "[[Views]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Views]]"
 obsidianUIMode: preview
 cssclasses:
   - wide-page

@@ -1,11 +1,11 @@
 ---
 up:
-  - "[[Home Pro]]"
+  - "[[Ideaverse Merged/Home Pro]]"
 in:
-  - "[[Collections]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Collections]]"
   - "[[Collections (Nick)]]"
 related:
-  - "[[Templates]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Templates]]"
 created: 2023-01-01
 tags:
   - map/view
@@ -14,39 +14,39 @@ These are collections across your ideaverse.
 
 > [!planet]+ ## Atlas Collections
 > 
-> > [!map] [[Maps]] 
+> > [!map] [[Ideaverse Merged/Atlas/Maps/Maps]] 
 > 
-> > [!aperture] [[Things]] | [[Concepts]] | [[People]] | [[Entities]]
+> > [!aperture] [[Ideaverse Merged/Atlas/Maps/Things]] | [[Ideaverse Merged/Atlas/Maps/Concepts]] | [[Ideaverse Merged/Atlas/Maps/People]] | [[Ideaverse Merged/Atlas/Maps/Entities]]
 > 
-> > [!waves] [[Statements]] | [[Questions]] | [[Ideaverse Merged/Atlas/Maps/Quotes]]
+> > [!waves] [[Ideaverse Merged/Atlas/Maps/Statements]] | [[Ideaverse Merged/Atlas/Maps/Questions]] | [[Ideaverse Merged/Atlas/Maps/Quotes]]
 > 
-> > [!armchair] [[Books]] | [[Movies]] | [[Series]]
+> > [!armchair] [[Ideaverse Merged/Atlas/Maps/Books]] | [[Ideaverse Merged/Atlas/Maps/Movies]] | [[Ideaverse Merged/Atlas/Maps/Series]]
 
 > [!Calendar]+ ## Calendar Collections
 > 
-> > [!calendar] [[Meetings]]
+> > [!calendar] [[Ideaverse Merged/Atlas/Maps/Meetings]]
 > 
 
 > [!Training]+ ## Efforts Collections
 > 
-> > [!Training] [[Efforts]] 
+> > [!Training] [[Ideaverse Merged/Atlas/Maps/Efforts]] 
 
-![[whelan-space-station-1978-narrow.jpg|700]]
+![[Ideaverse Merged/x/Images/whelan-space-station-1978-narrow.jpg|700]]
 
 > [!NOTE] **Collections** are a work in progress because they leverage "Obsidian Properties", which is still under development, with new features still expected. What you see here is very much a test...or as we like to say, a "minimum shareable draft".
 
 # Installation instructions for special collections
 
 ## Books
-- [[Books]] | [[Book Template]]
+- [[Ideaverse Merged/Atlas/Maps/Books]] | [[Ideaverse Merged/x/Templates/Book Template]]
 	- Current Install Instructions (Difficulty Level: 5/10)
 		- Hit `cmd-p`, type `book search`, select `create new book note`.
 		- Type the book you want, select it from the list, and voila!
-		- Of course, make sure the plugin "Book Search" is downloaded and that it knows to look for the [[Book Template]] provided with Ideaverse Pro.
+		- Of course, make sure the plugin "Book Search" is downloaded and that it knows to look for the [[Ideaverse Merged/x/Templates/Book Template]] provided with Ideaverse Pro.
 	- Personal note: This is the easiest one to develop, but I need to be conscious to preserve the Shadow Mapping work I did.
 
 ## Movies
-- [[Movies]] | [[Movie Template (QuickAdd)]] | if needed [[Movie Template (Backup)]]
+- [[Ideaverse Merged/Atlas/Maps/Movies]] | [[Ideaverse Merged/x/Templates/Movie Template (QuickAdd)]] | if needed [[Ideaverse Merged/x/Templates/Movie Template (Backup)]]
 	- Current Instructions Instructions (Difficulty Level: 10/10)
 		- Make sure your vault has the the community plugin "Quick Add".
 		- In "Pro", go to `Settings/Community Plugins` and click on the 'open folder' icon. 
@@ -71,7 +71,7 @@ These are collections across your ideaverse.
 		- Voila, a new note will open with cool information auto-populated.
 
 ## Series
-- [[Series]] | [[Series Template (QuickAdd)]] | if needed [[Series Template (Backup)]]
+- [[Ideaverse Merged/Atlas/Maps/Series]] | [[Ideaverse Merged/x/Templates/Series Template (QuickAdd)]] | if needed [[Ideaverse Merged/x/Templates/Series Template (Backup)]]
 	- If you got "movies" to work, then you should be 90% of the way there. 
 	- To test this, try to hit `Cmd-p` and type `add a series`. Do you see the QuickAdd option? Good. All you need to do is change where these notes get saved.
 	- ---
@@ -84,7 +84,7 @@ These are collections across your ideaverse.
 # Works in progress, maybe...
 For future releases of Ideaverse Pro, I may add more collections:
 
-- [[Outputs]] | [[Game]] | [[Paper]] | [[Song]] | [[Speech]] 
+- [[Outputs]] | [[Ideaverse Merged/Atlas/Maps/Games]] | [[Ideaverse Merged/Atlas/Maps/Papers]] | [[Ideaverse Merged/Atlas/Maps/Songs]] | [[Ideaverse Merged/Atlas/Maps/Speeches]] 
 
 For more ideas, check out the tags pane. Find "source" and twirl it down. The sources I have decided to include tracking over the years include: *books, movies, songs, research papers, plays, paintings, quotes, videos, speeches, poems, tweets, articles, and newsletters*. 
 
@@ -97,7 +97,7 @@ For more ideas, check out the tags pane. Find "source" and twirl it down. The so
 >  type as Type,
 >  file.link as Source
 >  
-> FROM "Atlas/Notes/Sources" and -#x/readme 
+> FROM "Ideaverse Merged/Atlas/Dots/Sources" and -#x/readme 
 > 
 > SORT year asc
 > ```

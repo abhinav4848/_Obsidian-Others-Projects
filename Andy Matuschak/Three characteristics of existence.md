@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zG8RB9kAnBBzZ8fpfGh8Drp?stackedNotes=zW4ibrYmQAq5tTY4JEsGcDX&stackedNotes=zHBvLXrgmfDj5QB2KZzf45e
+---
 # Three characteristics of existence
 
 Type of Link: 📝 Article
@@ -19,7 +22,6 @@ This is a core doctrine of Buddhism.
 
 # References
 
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zFuk9QqspNYHAgvzZc33ZGH&stackedNotes=zDXBGEWk7msyonQ2Ngnrf8h&stackedNotes=zB74H9CuWrosEuqve7jZyCo&stackedNotes=zRbqwbnhmVdfLtKxMCibMoX&stackedNotes=zH7AVUkqYYK7xmoAn8PTpAV&stackedNotes=z2qjVZKqSqrqkhFhvUpPDtd&stackedNotes=zQvbnYfHdG1gARTbtC4pje6&stackedNotes=zKBhqUkoRWoNV72aG21GYst&stackedNotes=zKzUzQENhyEDnuwPUhh2EQM&stackedNotes=zME6gV6mc1mQ2KDE5acyho8&stackedNotes=z2iksmfhifvy5a16Abv5MUW&stackedNotes=zHTevHGZQPu8QHpRhUmtsuK&stackedNotes=zSve33D7x1qe5WUjojDcM9y&stackedNotes=z2q7U5ZvXeDxXD6vXAbZb9a&stackedNotes=zG8RB9kAnBBzZ8fpfGh8Drp&stackedNotes=zW4ibrYmQAq5tTY4JEsGcDX&stackedNotes=zHBvLXrgmfDj5QB2KZzf45e)
 
 [https://neuroticgradientdescent.blogspot.com/2020/01/mistranslating-buddha.html?m=1](https://neuroticgradientdescent.blogspot.com/2020/01/mistranslating-buddha.html?m=1)
 

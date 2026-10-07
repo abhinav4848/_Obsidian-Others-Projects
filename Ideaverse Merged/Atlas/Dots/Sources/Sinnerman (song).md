@@ -5,11 +5,17 @@ author:
   - "[[Ideaverse Merged/Atlas/Dots/People/Nina Simone (kit)]]"
 year: 1962
 in:
-  - "[[Songs]]"
-  - "[[Sources]]"
+- '[[Ideaverse Merged/Atlas/Maps/Songs]]'
+- '[[Ideaverse Merged/Atlas/Maps/Sources]]'
 URL: https://en.wikipedia.org/wiki/Sinner_Man
+tags:
+  - source/music/100
+type: "[[Ideaverse Merged/Atlas/Maps/Songs]]"
+by:
+  - "[[Ideaverse Merged/Atlas/Dots/People/Nina Simone (kit)]]"
+URLs:
+  - https://en.wikipedia.org/wiki/Sinner_Man
 ---
-
 Being trapped searching endlessly for salvation
 
 ### Web

@@ -1,26 +1,26 @@
 ---
 up:
-  - "[[Home Pro]]"
+  - "[[Ideaverse Merged/Home Pro]]"
 tags:
   - map
 ---
 Your launchpad and home base. That's here. That's **home**.
 
 > [!Planet]- # Atlas
-> > *Want to develop ideas?* Flow through ***[[Add]]***, ***[[Relate]]***, and ***[[Communicate]]***.
+> > *Want to develop ideas?* Flow through ***[[Ideaverse Merged/Atlas/Maps/Add]]***, ***[[Ideaverse Merged/Atlas/Maps/Relate]]***, and ***[[Ideaverse Merged/Atlas/Maps/Communicate]]***.
 >   
-> > [!wandy] Workflow: [[ARC Ideation]]
+> > [!wandy] Workflow: [[Ideaverse Merged/Atlas/Dots/Things/ARC Ideation]]
 >   
 > ![[Ideaverse Merged/x/Images/mckie-ship-and-sea-mid-narrow-.jpg|400]]
 > 
 > > *Want to manage your knowledge?*
 > 
-> > [!boxescyan] Collections: [[Maps]] | [[Things]] | [[Concepts]] | [[People]] | [[Entities]] | [[Statements]] | [[Questions]] | [[Ideaverse Merged/Atlas/Maps/Quotes]] | [[Books]] | [[Movies]] | [[Series]]
+> > [!boxescyan] Collections: [[Ideaverse Merged/Atlas/Maps/Maps]] | [[Ideaverse Merged/Atlas/Maps/Things]] | [[Ideaverse Merged/Atlas/Maps/Concepts]] | [[Ideaverse Merged/Atlas/Maps/People]] | [[Ideaverse Merged/Atlas/Maps/Entities]] | [[Ideaverse Merged/Atlas/Maps/Statements]] | [[Ideaverse Merged/Atlas/Maps/Questions]] | [[Ideaverse Merged/Atlas/Maps/Quotes]] | [[Ideaverse Merged/Atlas/Maps/Books]] | [[Ideaverse Merged/Atlas/Maps/Movies]] | [[Ideaverse Merged/Atlas/Maps/Series]]
 > 
 > 
-> > [!map]- Main Maps: [[Life Map]] | [[Meta Map]] | [[Ideaverse Map]]
-> > - Orient your mind: [[Library]] | [[People Map]] | [[Collections]]
-> > - Catalyze your mind: [[Thinking Map]] and [[Concepts Map]]
+> > [!map]- Main Maps: [[Ideaverse Merged/Atlas/Maps/Life Map]] | [[Ideaverse Merged/Atlas/Maps/Meta PKM]] | [[Ideaverse Merged/Ideaverse Map]]
+> > - Orient your mind: [[Ideaverse Merged/Atlas/Maps/Library]] | [[Ideaverse Merged/Atlas/Maps/People Map]] | [[Ideaverse Merged/Atlas/Maps/Collections]]
+> > - Catalyze your mind: [[Ideaverse Merged/Atlas/Maps/Thinking Map]] and [[Ideaverse Merged/Atlas/Maps/Concepts]]
 > 
 
 > [!Calendar]- # Calendar
@@ -29,30 +29,30 @@ Your launchpad and home base. That's here. That's **home**.
 > 
 > - To journal, focus your day, or to capture a spark, hit `Cmd-d` or `Ctrl-d`.
 >   
-> > [!projector] Workflow: [[First Light, Last Light]]
+> > [!projector] Workflow: [[Ideaverse Merged/Atlas/Dots/Things/First Light, Last Light]]
 >   
 > ![[Ideaverse Merged/x/Images/robert-mccall-space-ship-launch-narrower.png|400]]
 >   
-> - To capture specific type of things, go to [[Logs (Example)|Logs]].
-> - To broadly reflect, go to [[Plan and Review]].
-> - To learn more about time travel, go to [[Calendar]].
+> - To capture specific type of things, go to [[Ideaverse Merged/Calendar/Logs/Logs (Example)|Logs]].
+> - To broadly reflect, go to [[Ideaverse Merged/Atlas/Maps/Plan and Review]].
+> - To learn more about time travel, go to [[Ideaverse Merged/Atlas/Maps/Calendar]].
 > 
 >   
-> > [!network] Collections: [[Meetings]]
+> > [!network] Collections: [[Ideaverse Merged/Atlas/Maps/Meetings]]
 
 > [!Training]- # Efforts
 > > *What can you work on?* 
 > 
-> Quickly prioritize your [[Efforts]] and budget your bandwidth. 
+> Quickly prioritize your [[Ideaverse Merged/Atlas/Maps/Efforts]] and budget your bandwidth. 
 > 
-> > [!scatterchart] Workflow: [[Effort Maestro]]
+> > [!scatterchart] Workflow: [[Ideaverse Merged/Atlas/Dots/Things/Effort Maestro]]
 > 
 > > [!Box]+ ### 🔥 On
 > > ``` dataview
 > > TABLE WITHOUT ID
 >  > file.link as "",
 >  > rank as "Rank"
-> > FROM "Efforts/On"
+> > FROM "Ideaverse Merged/Efforts/On"
 > > SORT rank desc
 > > ```
 > 
@@ -61,7 +61,7 @@ Your launchpad and home base. That's here. That's **home**.
 > > TABLE WITHOUT ID
 > > file.link as "",
 > > rank as "Rank"
-> > FROM "Efforts/Ongoing"
+> > FROM "Ideaverse Merged/Efforts/Ongoing"
 > > SORT rank desc
 > > ```
 > 
@@ -72,7 +72,7 @@ Your launchpad and home base. That's here. That's **home**.
 > > TABLE WITHOUT ID
 > > file.link as "",
 > > rank as "Rank"
-> > FROM "Efforts/Simmering"
+> > FROM "Ideaverse Merged/Efforts/Simmering"
 > > SORT rank desc
 > > ```
 > 
@@ -81,152 +81,152 @@ Your launchpad and home base. That's here. That's **home**.
 ---
 
 > [!boxes]- # Collections
-> Go to [[Collections]] to learn more.
+> Go to [[Ideaverse Merged/Atlas/Maps/Collections]] to learn more.
 > 
 > > [!planet]+ ## Atlas
 > > 
-> > > [!map] [[Maps]]
+> > > [!map] [[Ideaverse Merged/Atlas/Maps/Maps]]
 > > 
-> > > [!aperture] [[Things]] | [[Concepts]] | [[People]] | [[Entities]]
+> > > [!aperture] [[Ideaverse Merged/Atlas/Maps/Things]] | [[Ideaverse Merged/Atlas/Maps/Concepts]] | [[Ideaverse Merged/Atlas/Maps/People]] | [[Ideaverse Merged/Atlas/Maps/Entities]]
 > > 
-> > > [!waves] [[Statements]] | [[Questions]] | [[Ideaverse Merged/Atlas/Maps/Quotes]]
+> > > [!waves] [[Ideaverse Merged/Atlas/Maps/Statements]] | [[Ideaverse Merged/Atlas/Maps/Questions]] | [[Ideaverse Merged/Atlas/Maps/Quotes]]
 > > 
-> > > [!armchair] [[Books]] | [[Movies]] | [[Series]]
+> > > [!armchair] [[Ideaverse Merged/Atlas/Maps/Books]] | [[Ideaverse Merged/Atlas/Maps/Movies]] | [[Ideaverse Merged/Atlas/Maps/Series]]
 > >
 > 
 > > [!Calendar]+ ## Calendar
 > > 
-> > > [!calendar] [[Meetings]]
+> > > [!calendar] [[Ideaverse Merged/Atlas/Maps/Meetings]]
 > > 
 > 
 > > [!Training]+ ## Efforts
 > > 
-> > > [!Training] [[Efforts]] 
+> > > [!Training] [[Ideaverse Merged/Atlas/Maps/Efforts]] 
 > 
 > 
 
 > [!puzzle]- # Templates
-> Go to [[Templates]] to learn more.
+> Go to [[Ideaverse Merged/Atlas/Maps/Templates]] to learn more.
 > 
 > > [!sparkles]- ### Base Templates
 > > 
-> > - [[Base Template]]:  Just the basics: up, related, and created
-> > 	- [[Base Template w In]]: Includes "in" for collections
-> > 	- [[Base Template w Tags]]: Includes "tags"
-> > - [[Daily Template]]: Just created
+> > - [[Ideaverse Merged/x/Templates/Base Template]]:  Just the basics: up, related, and created
+> > 	- [[Ideaverse Merged/x/Templates/Base Template w In]]: Includes "in" for collections
+> > 	- [[Ideaverse Merged/x/Templates/Template, Properties, Base + Tags (Kit)]]: Includes "tags"
+> > - [[Ideaverse Merged/x/Templates/Daily Template]]: Just created
 > 
 > > [!planet]- ### Atlas Templates & Collections
 > > 
-> > > [!map]+ [[Maps]]
-> > > - [[Map (MOC) Template]] - For manual gathering, developing, creating
-> > > - [[Map (View) Template]] - For more passive, dynamic dashboards
+> > > [!map]+ [[Ideaverse Merged/Atlas/Maps/Maps]]
+> > > - [[Ideaverse Merged/x/Templates/Map (MOC) Template]] - For manual gathering, developing, creating
+> > > - [[Ideaverse Merged/x/Templates/Map (View) Template]] - For more passive, dynamic dashboards
 > > 
-> > > [!aperture]- [[Things]]
+> > > [!aperture]- [[Ideaverse Merged/Atlas/Maps/Things]]
 > > > No template (it's a trap to classify every "thing")
 > > 
-> > > [!aperture] [[Collections]] — [[Collections Template]]
+> > > [!aperture] [[Ideaverse Merged/Atlas/Maps/Collections]] — [[Ideaverse Merged/x/Templates/Collections Template]]
 > > 
-> > > [!aperture] [[Concepts]] — [[Concepts Template]]
+> > > [!aperture] [[Ideaverse Merged/Atlas/Maps/Concepts]] — [[Ideaverse Merged/x/Templates/Concepts Template]]
 > > 
-> > > [!aperture]+ [[People]] 
-> > > - [[People Template]] - Base
-> > > - [[People Template Pro]] - Base with lifespan & cultural things
-> > > - [[People add-on - Prominent]] - Adds lifespan & cultural things
-> > > - [[People add-on - ROAR]] - Adds a way to manage relationships
+> > > [!aperture]+ [[Ideaverse Merged/Atlas/Maps/People]] 
+> > > - [[Ideaverse Merged/x/Templates/People Template]] - Base
+> > > - [[Ideaverse Merged/x/Templates/People Template Pro]] - Base with lifespan & cultural things
+> > > - [[Ideaverse Merged/x/Templates/People add-on - Prominent]] - Adds lifespan & cultural things
+> > > - [[Ideaverse Merged/x/Templates/People add-on - ROAR]] - Adds a way to manage relationships
 > > 
-> > > [!aperture] [[Entities]] — [[Entities Template]]
+> > > [!aperture] [[Ideaverse Merged/Atlas/Maps/Entities]] — [[Ideaverse Merged/x/Templates/Entities Template]]
 > > 
-> > > [!waves]- [[Statements]]
+> > > [!waves]- [[Ideaverse Merged/Atlas/Maps/Statements]]
 > > > No template (it's a trap to classify every statement note)
 > > 
-> > > [!waves] [[Questions]] — [[Questions Template]]
+> > > [!waves] [[Ideaverse Merged/Atlas/Maps/Questions]] — [[Ideaverse Merged/x/Templates/Questions Template]]
 > > 
-> > > [!waves] [[Ideaverse Merged/Atlas/Maps/Quotes]] — [[Quotes Template]]
+> > > [!waves] [[Ideaverse Merged/Atlas/Maps/Quotes]] — [[Ideaverse Merged/x/Templates/Quotes Template]]
 > > 
-> > > [!armchair] [[Books]] — [[Book Template]]
+> > > [!armchair] [[Ideaverse Merged/Atlas/Maps/Books]] — [[Ideaverse Merged/x/Templates/Book Template]]
 > > 
-> > > [!armchair]+ [[Movies]]
-> > > - [[Movie Template (QuickAdd)]] - Base that QuickAdd uses
-> > > - [[Movie Template (Backup)]] - If things get wonky, this is a solid backup
+> > > [!armchair]+ [[Ideaverse Merged/Atlas/Maps/Movies]]
+> > > - [[Ideaverse Merged/x/Templates/Movie Template (QuickAdd)]] - Base that QuickAdd uses
+> > > - [[Ideaverse Merged/x/Templates/Movie Template (Backup)]] - If things get wonky, this is a solid backup
 > > 
-> > > [!armchair]+ [[Series]]
-> > > - [[Series Template (QuickAdd)]] - Base that QuickAdd uses
-> > > - [[Series Template (Backup)]] - If things get wonky, this is a solid backup
+> > > [!armchair]+ [[Ideaverse Merged/Atlas/Maps/Series]]
+> > > - [[Ideaverse Merged/x/Templates/Series Template (QuickAdd)]] - Base that QuickAdd uses
+> > > - [[Ideaverse Merged/x/Templates/Series Template (Backup)]] - If things get wonky, this is a solid backup
 > 
 > > [!calendar]- ### Calendar Templates & Collections
-> > - [[Daily Template]] - Base
-> > - [[Daily Template w ± 1 Week Window]] - Includes a query with `Calendar` notes created in the 7 days before & after this note.
+> > - [[Ideaverse Merged/x/Templates/Daily Template]] - Base
+> > - [[Ideaverse Merged/x/Templates/Daily Template w ± 1 Week Window]] - Includes a query with `Calendar` notes created in the 7 days before & after this note.
 > > 
-> > > [!Calendar]+ [[Meetings]] — [[Meetings Template]]
+> > > [!Calendar]+ [[Ideaverse Merged/Atlas/Maps/Meetings]] — [[Ideaverse Merged/x/Templates/Meetings Template]]
 > > 
-> > - [[Linked Calendar Notes add-on]] - Lists all notes in `Calendar` mentioning the note
+> > - [[Ideaverse Merged/x/Templates/Linked Calendar Notes add-on]] - Lists all notes in `Calendar` mentioning the note
 > 
 > > [!training]- ### Efforts Templates & Collections
 > > 
-> > > [!training] [[Efforts]] — [[Efforts Template]]
+> > > [!training] [[Ideaverse Merged/Atlas/Maps/Efforts]] — [[Ideaverse Merged/x/Templates/Template, Properties, Effort (Kit)]]
 > > 
-> > - [[Outputs Template]]
+> > - [[Ideaverse Merged/x/Templates/Outputs Template]]
 > 
 > > [!ampersand]- ### Add-ons
 > > These are not full templates, but rather add-ons
 > > 
 > > - Idea add-ons
-> > 	- [[Unrequited Notes add-on]] - Resurfaces the right thing at the right time
-> > 	- [[Unmentioned Notes add-on, Related Tag]] - Relies on related tags
+> > 	- [[Ideaverse Merged/x/Templates/Unrequited Notes add-on]] - Resurfaces the right thing at the right time
+> > 	- [[Ideaverse Merged/x/Templates/Unmentioned Notes add-on, Related Tag]] - Relies on related tags
 > > - Time add-ons
-> > 	- [[Time Windows add-on ± 1 and ± 3 Day]] - Leverage time context
-> > 	- [[Linked Calendar Notes add-on]] - Great for pulling in meeting notes
+> > 	- [[Ideaverse Merged/x/Templates/Time Windows add-on ± 1 and ± 3 Day]] - Leverage time context
+> > 	- [[Ideaverse Merged/x/Templates/Linked Calendar Notes add-on]] - Great for pulling in meeting notes
 > > - People add-ons
-> > 	- [[People add-on - Prominent]] - Adds lifespan & cultural things
-> > 	- [[People add-on - ROAR]] - Adds a way to manage relationships
+> > 	- [[Ideaverse Merged/x/Templates/People add-on - Prominent]] - Adds lifespan & cultural things
+> > 	- [[Ideaverse Merged/x/Templates/People add-on - ROAR]] - Adds a way to manage relationships
 > > - Dummy text
-> > 	- [[Lorem 50 add-on]] - Around 50 words of Latin dummy text
-> > 	- [[Lorem 500 Add-on]] - Around 500 words of Latin dummy text
+> > 	- [[Ideaverse Merged/x/Templates/Lorem 50 add-on]] - Around 50 words of Latin dummy text
+> > 	- [[Ideaverse Merged/x/Templates/Lorem 500 Add-on]] - Around 500 words of Latin dummy text
 > 
 
 > [!script]- # Workflows
 > 
-> Go to [[Workflows]] for more.
+> Go to [[Ideaverse Merged/Atlas/Maps/Workflows]] for more.
 >
-> > [!wandy] Workflow: [[ARC Ideation]]
+> > [!wandy] Workflow: [[Ideaverse Merged/Atlas/Dots/Things/ARC Ideation]]
 >
-> > [!projector] Workflow: [[First Light, Last Light]]
+> > [!projector] Workflow: [[Ideaverse Merged/Atlas/Dots/Things/First Light, Last Light]]
 >
-> > [!scatterchart] Workflow: [[Effort Maestro]]
+> > [!scatterchart] Workflow: [[Ideaverse Merged/Atlas/Dots/Things/Effort Maestro]]
 
 ![[Ideaverse Merged/x/Images/pale-blue-dot-banner.jpg]]
 
 > [!revolve]- # Specialty Maps
 > > [!rocket] Advanced Ideation
-> > - Enter into [[Idea Accretion]]. 
-> > - Dive deeply into [[Idea Development]]. 
-> > - Keep calm and orderly with [[Idea Maintenance]].
+> > - Enter into [[Ideaverse Merged/Atlas/Maps/Idea Accretion]]. 
+> > - Dive deeply into [[Ideaverse Merged/Atlas/Maps/Idea Development]]. 
+> > - Keep calm and orderly with [[Ideaverse Merged/Atlas/Maps/Idea Maintenance]].
 > 
 > ![[Ideaverse Merged/x/Images/whelan-the-wave-1994.jpg|200]]
 > 
 > > [!radar] Neat Views
-> > - Drag [[Recents]] into the sidebar. 
-> > - [[Recents Visualized]] is pretty cool.
+> > - Drag [[Ideaverse Merged/Atlas/Maps/Recents]] into the sidebar. 
+> > - [[Ideaverse Merged/Atlas/Maps/Recents Visualized]] is pretty cool.
 > 
 > *Note: Use these in the spirit of exploration and play. See what works for you.*
 
 > [!Joystick]- # Prompts
 > Enlist AI as a thinking partner with these hand-crafted prompts. 
 > 
-> Go to [[Prompts]] for all the current prompts provided.
+> Go to [[Ideaverse Merged/Atlas/Maps/Prompts]] for all the current prompts provided.
 > 
-> ![[robert-mccall-space-deep-space-ship-IDV-Pro.jpg|600]]
+> ![[Ideaverse Merged/x/Images/robert-mccall-space-deep-space-ship-IDV-Pro.jpg|600]]
 > 
 > - To prompt your analytical and critical thinking
-> 	- [[Prompt - Thought Unpacking Machine]]
+> 	- [[Ideaverse Merged/x/Prompts/Prompt - Thought Unpacking Machine]]
 > - To prompt your creative and connective thinking
-> 	- [[Prompt - Thought Enriching Machine]]
+> 	- [[Ideaverse Merged/x/Prompts/Prompt - Thought Enriching Machine]]
 > - To prompt generative thinking by using prominent people as touchstones
-> 	- [[Prompt - Imaginary Advisors]]
-> 	- [[Prompt - The Last of the Lens-Benders]]
+> 	- [[Ideaverse Merged/x/Prompts/Prompt - Imaginary Advisors]]
+> 	- [[Ideaverse Merged/x/Prompts/Prompt - The Last of the Lens-Benders]]
 > - To warm up the mind (The Progymnasmata)
-> 	- [[Prompt - Progymnasmata 1 - Fable]]
-> 	- [[Prompt - Progymnasmata 2 - Narrative]]
+> 	- [[Ideaverse Merged/x/Prompts/Prompt - Progymnasmata 1 - Fable]]
+> 	- [[Ideaverse Merged/x/Prompts/Prompt - Progymnasmata 2 - Narrative]]
 
 
 

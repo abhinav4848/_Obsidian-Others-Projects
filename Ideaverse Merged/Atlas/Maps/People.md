@@ -1,7 +1,7 @@
 ---
 up: []
 in:
-  - "[[Collections]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Collections]]"
 tags:
   - "#map/view"
 created: 2023-10-12
@@ -10,7 +10,7 @@ cssclasses:
 ---
 This note collects all notes where the `in` property says `People`. The views provided focus on prominent people so you can get plenty of ideas on how to do cultural sensemaking.
 
-Ideaverse Pro also comes with [[People ROARs]] for managing your "Reach-Outs And Replies".
+Ideaverse Pro also comes with [[Ideaverse Merged/Atlas/Maps/People ROARs]] for managing your "Reach-Outs And Replies".
 
 > [!contact]+ # People by date born
 > ```dataview

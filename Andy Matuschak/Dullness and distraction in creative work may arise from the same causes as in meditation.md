@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z2q7U5ZvXeDxXD6vXAbZb9a?stackedNotes=zG8RB9kAnBBzZ8fpfGh8Drp&stackedNotes=zVNTDbWaVNxgTSPx3cNLDPc
+---
 # Dullness and distraction in creative work may arise from the same causes as in meditation
 
 Type of Link: 📝 Article
@@ -32,7 +35,3 @@ A. In both instances, you’re trying to maintain attention on a low-stimulation
 Q. Why am I more likely to suffer from dullness and distraction when doing challenging creative work than in other activities?
 
 A. When stuck on a creative problem, the object of attention isn’t naturally changing, so it generates increasingly subtle stimuli.
-
-# References
-
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zFuk9QqspNYHAgvzZc33ZGH&stackedNotes=zDXBGEWk7msyonQ2Ngnrf8h&stackedNotes=zB74H9CuWrosEuqve7jZyCo&stackedNotes=zRbqwbnhmVdfLtKxMCibMoX&stackedNotes=zH7AVUkqYYK7xmoAn8PTpAV&stackedNotes=z2qjVZKqSqrqkhFhvUpPDtd&stackedNotes=zQvbnYfHdG1gARTbtC4pje6&stackedNotes=zKBhqUkoRWoNV72aG21GYst&stackedNotes=zKzUzQENhyEDnuwPUhh2EQM&stackedNotes=zME6gV6mc1mQ2KDE5acyho8&stackedNotes=z2iksmfhifvy5a16Abv5MUW&stackedNotes=zHTevHGZQPu8QHpRhUmtsuK&stackedNotes=zSve33D7x1qe5WUjojDcM9y&stackedNotes=z2q7U5ZvXeDxXD6vXAbZb9a&stackedNotes=zG8RB9kAnBBzZ8fpfGh8Drp&stackedNotes=zVNTDbWaVNxgTSPx3cNLDPc)

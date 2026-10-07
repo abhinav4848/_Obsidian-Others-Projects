@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zLg3XjSSrDofz6cW3F6DESx
+---
 - [[Powerful innovations often focus on creating new paradigms, not solving problems of the current context]] 
 - [[Insight through making]]
     - [[Effective system design requires insights drawn from serious contexts of use]] 
@@ -15,6 +18,3 @@
 - [Sosa, R. (2019). Accretion theory of ideation: Evaluation regimes for ideation stages. Design Science, 5, e23](https://notes.andymatuschak.org/z7rU9uGjjFJnLe57XqxpQ3V)
 - [[Why Greatness Cannot Be Planned - Stanley and Lehman]] #todo
 - Seeing What Others Don’t - Gary Klein
-
-# Source
-1. https://notes.andymatuschak.org/zLg3XjSSrDofz6cW3F6DESx

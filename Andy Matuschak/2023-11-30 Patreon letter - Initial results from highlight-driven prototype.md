@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/zY3RYK9gJ6eDnq27vSwBDQh?stackedNotes=z9V2PxHVYB9p5DeCnQXcfJa
+URL: https://notes.andymatuschak.org/zY3RYK9gJ6eDnq27vSwBDQh?stackedNotes=z9V2PxHVYB9p5DeCnQXcfJa
 ---
 # 2023-11-30 Patreon letter - Initial results from highlight-driven prototype
 _Private copy; not to be shared publicly; part of [[Patron letters on memory system experiments]]_
@@ -122,6 +121,3 @@ That’s enough research agenda for several lifetimes, of course. But I articula
 ---
 
 Thanks to all the students who worked with me on this first round of tests, and thanks to Benjamin Reinhardt for helpful discussion about my next steps.
-
-# References
-1. [Andy Link](https://notes.andymatuschak.org/zY3RYK9gJ6eDnq27vSwBDQh?stackedNotes=z9V2PxHVYB9p5DeCnQXcfJa)

@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/z9vSQjkBVL6dCVC6QhCu4Br?stackedNotes=zFgK9ArxAXq57iMukRsVVE9
+URL: https://notes.andymatuschak.org/z9vSQjkBVL6dCVC6QhCu4Br?stackedNotes=zFgK9ArxAXq57iMukRsVVE9
 ---
 # Spaced repetition memory prompts should usually focus on one atomic unit
 
@@ -61,6 +60,5 @@ Q. Why does MN think SRS prompts focused on more than one idea don’t work well
 A. When making a mistake with a combined question, it’s harder to focus sharply on exactly where the mistake was. 
 
 # References
-1. [Andy Link](https://notes.andymatuschak.org/z9vSQjkBVL6dCVC6QhCu4Br?stackedNotes=zFgK9ArxAXq57iMukRsVVE9)
 2. Nielsen, M. (2018). *Augmenting Long-term Memory*. [http://augmentingcognition.com/ltm.html](http://augmentingcognition.com/ltm.html)
 3. [[Piotr Wozniak - Effective learning - Twenty rules of formulating knowledge]]

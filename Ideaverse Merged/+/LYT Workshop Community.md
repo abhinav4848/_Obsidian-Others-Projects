@@ -1,6 +1,6 @@
 ---
 in:
-  - "[[Entities]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Entities]]"
 related: 
 created: 2023-11-29
 ---
@@ -12,7 +12,7 @@ created: 2023-11-29
 > ```dataview
 > LIST
 > 
-> FROM "Calendar"
+> FROM "Ideaverse Merged/Calendar"
 > 
 > WHERE contains(file.name,this.file.name)
 > 

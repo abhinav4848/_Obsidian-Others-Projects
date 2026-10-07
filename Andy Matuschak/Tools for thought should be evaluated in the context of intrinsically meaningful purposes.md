@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zKtYU4Uk7aTCGyqHr9Ca3Sb
+---
 # Tools for thought should be evaluated in the context of intrinsically meaningful purposes
 
 We don’t evaluate [Mathematica](https://notes.andymatuschak.org/z2cqApsmXfT4gQ678JLXXNr) by asking how many students use it, by asking about its impact on test scores, or by measuring how much faster it helps people solve problems. Those are all relevant proxies, to varying degrees, but they’re not the tool’s actual purpose. Mathematica was created as part of Wolfram’s research into symbolic manipulation and automata, then eventually expanded to empower mathematicians and scientists in general. Its utility function is, roughly: how many powerful insights does it enable on the margin?
@@ -19,7 +22,6 @@ Related: [[Most experimental psychology on learning involves people learning th
 ---
 
 # References
-1. [Andy Link](https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zKtYU4Uk7aTCGyqHr9Ca3Sb)
 2. [https://github.com/mnielsen/tpft/blob/master/big_picture.md](https://github.com/mnielsen/tpft/blob/master/big_picture.md)
 
 > - What is the highest-growth environment for individuals and groups? What does this project look like, conceived of as an (extremely unusual) online class?

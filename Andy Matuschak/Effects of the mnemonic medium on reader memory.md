@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zWAH46Pd3DWGrfdiU8bV25A?stackedNotes=zNVVrcxnkjk7pCabiBvaic1&stackedNotes=zqetsQERteJhyPitmRoaeE
+---
 # Effects of the mnemonic medium on reader memory
 No links for any of them. Too in depth for casual reading. 
 - [What is the causal impact of the mnemonic medium’s review sessions on reader retention?](https://notes.andymatuschak.org/zuCfBJSkm5BnqC1qw1bLH2)
@@ -31,5 +34,3 @@ learned in the future, because I know there’s someone who will always
 remind me to review the key parts at the right time points. And it’s  
 not just a feeling. According to the result of reviewing, I think I do  
 have memorized most of them reliably.” — Kevin
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zTnTob5JrFYF9NpU73Zg5a1&stackedNotes=z4aipv9wyMg4qZGANaVjkrJ&stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zAt1K9ARQYguinoHH8cfaqQ&stackedNotes=Cloze_deletion_prompts_seem_to_produce_less_understanding_than_question%2Fanswer_pairs_in_spaced_repetition_memory_systems&stackedNotes=zSiuztCZ594AZuCweRghcXT&stackedNotes=zWAH46Pd3DWGrfdiU8bV25A&stackedNotes=zNVVrcxnkjk7pCabiBvaic1&stackedNotes=zqetsQERteJhyPitmRoaeE)

@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z8dXowKop2xGp9UEVwXpG2Q
+---
 # The Mind Illuminated - Culadasa 
 
 Excellent text on [[Samadhi]]-oriented [Meditation](https://notes.andymatuschak.org/z3hBXnDxbvTaSPstyxoD5pj) (no note in Andy website).
@@ -56,7 +59,3 @@ A. The goal becomes to _connect_ changes in the breath over time to shifts in 
 ## Loving kindness meditation
 Q. This book’s four metta prompts:  
 A. Free from suffering, free from ill-will, filled with loving-kindness, truly **happy**
-
-
-# References
-1. Andy Link: [The Mind Illuminated - Culadasa](https://notes.andymatuschak.org/z8dXowKop2xGp9UEVwXpG2Q) 

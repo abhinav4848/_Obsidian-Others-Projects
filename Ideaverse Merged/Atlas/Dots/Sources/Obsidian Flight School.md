@@ -2,14 +2,18 @@
 up:
   - "[[Ideaverse Merged/Atlas/Dots/Sources/The LYT Workshop]]"
 related:
-  - "[[Ideaverse Merged/Atlas/Dots/Sources/The LYT Workshop]]"
-  - "[[Ideaverse Pro]]"
-  - "[[Writing Original Works]]"
+- '[[Ideaverse Merged/Atlas/Dots/Sources/The LYT Workshop]]'
+- '[[Ideaverse Merged/Atlas/Dots/Sources/Ideaverse Pro]]'
+- '[[Ideaverse Merged/Atlas/Dots/Sources/Writing Original Works]]'
 year: 2021
 in:
-  - "[[Courses]]"
-  - "[[Sources]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Courses]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Sources]]"
 URL: https://www.linkingyourthinking.com/obsidian-flight-school
+tags:
+  - source/course
+type: "[[Ideaverse Merged/Atlas/Maps/Courses]]"
+URLs: https://www.linkingyourthinking.com/obsidian-flight-school
 ---
 > [!Video]+ Youtube Video
 > [Make Notes at the Speed of Thought - YouTube](https://youtu.be/I1RXGhZZ2r0?si=XDYKc2UbcZRTGXeR)

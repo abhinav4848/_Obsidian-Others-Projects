@@ -1,10 +1,10 @@
 ---
 up:
-  - "[[Home]]"
+  - "[[Ideaverse Merged/Home]]"
 related: []
 created: 2020-01-01
 in: 
-- "[[Maps]]"
+- "[[Ideaverse Merged/Atlas/Maps/Maps]]"
 ---
 This is the place for goals and grand strategy...for plans, reviews, analyzing, and recording wins.
 

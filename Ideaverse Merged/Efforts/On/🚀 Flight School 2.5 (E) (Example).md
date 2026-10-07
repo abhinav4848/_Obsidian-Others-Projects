@@ -1,11 +1,12 @@
 ---
 up:
-  - "[[🚀 Flight School (OE) (Example)]]"
+  - "[[Ideaverse Merged/Efforts/Ongoing/🚀 Flight School (OE) (Example)]]"
 related: []
 created: 2023-07-01
 rank: "2"
+aliases:
+- Flight School 2.5 (E) (Example)
 ---
-
 Deliver an update to Obsidian Flight School to existing customers.
 
 Focus on:

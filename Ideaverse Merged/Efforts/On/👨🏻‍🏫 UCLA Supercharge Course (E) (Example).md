@@ -1,20 +1,21 @@
 ---
 up:
-  - "[[👨🏻‍🏫 LYT Workshops (OE) (Example)]]"
+  - "[[Ideaverse Merged/Efforts/Ongoing/👨🏻‍🏫 LYT Workshops (OE) (Example)]]"
 related: []
 created: 2023-06-30
 rank: "4"
+aliases:
+- UCLA Supercharge Course (E) (Example)
 ---
-
 ## Live Sessions
-Obviously, these are not included in **Ideaverse Lite**, but you can see how I created outlines for each session.
+Obviously, these are not included in **Ideaverse for Obsidian**, but you can see how I created outlines for each session.
 
-- 2023-07-27 - [[UCLA - SYWE - Session 1 (Example)]]
-- 2023-08-03 - [[UCLA - SYWE - Session 2 (Example)]]
-- 2023-08-10 - [[UCLA - SYWE - Session 3 (Example)]]
-- 2023-08-17 - [[UCLA - SYWE - Session 4 (Example)]]
-- 2023-08-24 - [[UCLA - SYWE - Session 5 (Example)]]
-- 2023-08-31 - [[UCLA - SYWE - Session 6 (Example)]]
+- 2023-07-27 - [[Ideaverse Merged/Efforts/Notes/UCLA Supercharge Course/UCLA - SYWE - Session 1 (Example)]]
+- 2023-08-03 - [[Ideaverse Merged/Efforts/Notes/UCLA Supercharge Course/UCLA - SYWE - Session 2 (Example)]]
+- 2023-08-10 - [[Ideaverse Merged/Efforts/Notes/UCLA Supercharge Course/UCLA - SYWE - Session 3 (Example)]]
+- 2023-08-17 - [[Ideaverse Merged/Efforts/Notes/UCLA Supercharge Course/UCLA - SYWE - Session 4 (Example)]]
+- 2023-08-24 - [[Ideaverse Merged/Efforts/Notes/UCLA Supercharge Course/UCLA - SYWE - Session 5 (Example)]]
+- 2023-08-31 - [[Ideaverse Merged/Efforts/Notes/UCLA Supercharge Course/UCLA - SYWE - Session 6 (Example)]]
 
 ## Actual Descriptions
 #### Logline

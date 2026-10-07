@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zQeW31KRF1tk2zCPPGWc7UD?stackedNotes=zDV9WUPTpX5MbZb4UJEwXr1
+---
 Type of Link: 📝 Article
 Author: Andy Matuschak
 Completion Status: To Start
@@ -24,5 +27,3 @@ Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberat
 
 > In their classic studies of Morse Code operators, Bryan and Harter (1897, 1899) identified plateaus in skill acquisition, when for long periods subjects seemed unable to attain further improvements. (p. 365)
 > - Thorndike, E. (1921). _The Psychology of Learning_. Teachers College, Columbia University.
-# Source
-1. Andy Link: https://notes.andymatuschak.org/zQeW31KRF1tk2zCPPGWc7UD?stackedNotes=zDV9WUPTpX5MbZb4UJEwXr1

@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/z8kPkXQZ3wVR5DfJ79uhnuz?stackedNotes=z6sX7ZcYdPiya3SzQ5segaq&stackedNotes=zWWh96dE6YZYmDCoo37977X
+URL: https://notes.andymatuschak.org/z8kPkXQZ3wVR5DfJ79uhnuz?stackedNotes=z6sX7ZcYdPiya3SzQ5segaq&stackedNotes=zWWh96dE6YZYmDCoo37977X
 ---
 # The mnemonic medium can be extended to one’s personal notes
 
@@ -32,6 +31,5 @@ There are a few other implementations of something like this idea:
 ---
 
 ## References
-1. [Andy Link](https://notes.andymatuschak.org/z8kPkXQZ3wVR5DfJ79uhnuz?stackedNotes=z6sX7ZcYdPiya3SzQ5segaq&stackedNotes=zWWh96dE6YZYmDCoo37977X)
 2. Nielsen, M. (2018). _Augmenting Long-term Memory_. [http://augmentingcognition.com/ltm.html](http://augmentingcognition.com/ltm.html) 
 > I start to identify open problems, questions that I’d personally like answered, but which don’t yet seem to have been answered. I identify tricks, observations that seem pregnant with possibility, but whose import I don’t yet know. And, sometimes, I identify what seem to me to be field-wide blind spots. I add questions about all these to Anki as well. In this way, Anki is a medium supporting my creative research. It has some shortcomings as such a medium, since it’s not designed with supporting creative work in mind – it’s not, for instance, equipped for lengthy, free-form exploration inside a scratch space.

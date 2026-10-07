@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zMybAxZcdkJHKSATuSZbEhz?stackedNotes=zUR6RM21Sa88cFDfC47svVv&stackedNotes=z26C6ing3sqiZMHRVFuT6xn
+---
 # Generation effect
 # Generation effect
 
@@ -13,6 +16,5 @@ Karpicke and Zaromb (2010) point to some references (which I’ve not yet read) 
 > 
 
 # References
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k&stackedNotes=zLhoRUyjKU665EY16u4XXJy&stackedNotes=z2hQEhqWkdRLL9JUwfawZZx&stackedNotes=z8ccRLda8BqJafNxjQBpzis&stackedNotes=zES5WRczfGgXptmM9tSCwvy&stackedNotes=zMybAxZcdkJHKSATuSZbEhz&stackedNotes=zUR6RM21Sa88cFDfC47svVv&stackedNotes=z26C6ing3sqiZMHRVFuT6xn)
 2. [Karpicke, J. D., & Zaromb, F. M. (2010). Retrieval mode distinguishes the testing effect from the generation effect. Journal of Memory and Language, 62(3), 227–239](https://notes.andymatuschak.org/zbtc1h8QyVdG8jeWLcPKuu)
 3. [Slamecka, N. J., & Graf, P. (1978). The generation effect: Delineation of a phenomenon. Journal of Experimental Psychology: Human Learning & Memory, 4(6), 592–604](https://notes.andymatuschak.org/zWvCEwYz4Uv1dMHXynq3H5w)

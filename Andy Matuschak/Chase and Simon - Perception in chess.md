@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zS64tidr4brqfuEo5xs2ySy
+---
 Chase, W. G., & Simon, H. A. (1973). Perception in chess. _Cognitive Psychology_, _4_(1), 55–81.
 
 ---
@@ -25,5 +28,3 @@ Using this technique, the data suggest that better players were able to recall b
 ---
 # References
 [Thought and Choice in Chess - DeGroot](https://notes.andymatuschak.org/zTAnXV84BytxpKMcrR4cdf8)
-# Source
-1. Andy Link: https://notes.andymatuschak.org/zS64tidr4brqfuEo5xs2ySy

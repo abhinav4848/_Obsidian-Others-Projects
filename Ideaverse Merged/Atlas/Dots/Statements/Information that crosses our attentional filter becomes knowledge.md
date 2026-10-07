@@ -1,7 +1,7 @@
 ---
 up: []
 related:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/+ About Ideas]]"
+  - "[[Ideaverse Merged/Atlas/Dots/X/+ About Dots]]"
 created: 2020-06-01
 ---
 

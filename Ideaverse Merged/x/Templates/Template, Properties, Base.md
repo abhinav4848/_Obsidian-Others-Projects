@@ -3,4 +3,3 @@ up: []
 related: []
 created: {{date}}
 ---
-

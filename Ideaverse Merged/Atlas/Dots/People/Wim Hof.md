@@ -1,11 +1,20 @@
 ---
 up:
-  - "[[People Map]]"
+  - "[[Ideaverse Merged/Atlas/Maps/People Map]]"
 related: []
 created: 2020-06-01
 tags:
   - people
 dates: 1959 -
+in:
+  - "[[Ideaverse Merged/Atlas/Maps/People]]"
+peopleType:
+  - Notable
+peopleDomain:
+  - Public Figure
+peopleGroups:
+lifespan: 1959 -
+image: https://wp.penguin.co.uk/wp-content/uploads/2020/10/Main-Wim-Hof-by-Innerfire.jpg
 ---
 I'm a big fan of the adventurous and eclectic Iceman. Here's an essay: [[Ideaverse Merged/Atlas/Dots/Things/Exploring Wim Hof's Breath Manipulation (kit)]].
 

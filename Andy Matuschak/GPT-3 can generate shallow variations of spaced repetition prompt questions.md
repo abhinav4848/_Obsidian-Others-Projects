@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zTnTob5JrFYF9NpU73Zg5a1&stackedNotes=z4aipv9wyMg4qZGANaVjkrJ&stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zAt1K9ARQYguinoHH8cfaqQ&stackedNotes=Cloze_deletion_prompts_seem_to_produce_less_understanding_than_question%2Fanswer_pairs_in_spaced_repetition_memory_systems&stackedNotes=zSiuztCZ594AZuCweRghcXT&stackedNotes=zJoWJEpRvrjnm2zL3gdxBjg&stackedNotes=zSisETSpZBCgZH4rFNHRcnC&stackedNotes=z3NDe3nR9hvqRqWWtvZdxe7&stackedNotes=zBcEii9Hf2Rv7vsUSB7pBoP
+URL: https://notes.andymatuschak.org/zSisETSpZBCgZH4rFNHRcnC?stackedNotes=z3NDe3nR9hvqRqWWtvZdxe7&stackedNotes=zBcEii9Hf2Rv7vsUSB7pBoP
 ---
 # GPT-3 can generate shallow variations of spaced repetition prompt questions
 
@@ -15,5 +14,4 @@ My guess is that a lesser language
 - [GPT-3 can transform cloze deletion prompts into question-answer prompts](https://notes.andymatuschak.org/zD2WjXZBgbYhQambBLt1N1t)
 
 ## References
-1. [Andy Link](https://notes.andymatuschak.org/zBcEii9Hf2Rv7vsUSB7pBoP)
 [Giacomo Randazzo](https://notes.andymatuschak.org/zHkAG5PgYyNBxLRQq4Lv2mb) proposed this idea in conversation on [2020-09-02](https://notes.andymatuschak.org/2020-09-02)

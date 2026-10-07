@@ -1,6 +1,6 @@
 ---
 in:
-  - "[[Collections]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Collections]]"
 tags:
   - "#map/view"
 created: 2023-11-21
@@ -29,7 +29,7 @@ This note collects all notes where the `in` property says `Meeting`.
 >   meeting as Meeting
 > 
 > FROM 
->   "Calendar"  
+>   "Ideaverse Merged/Calendar"  
 > 
 > WHERE 
 >   meeting  

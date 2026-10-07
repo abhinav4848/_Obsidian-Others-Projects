@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zDh1yhNFQNxDEre12B4zd8k?stackedNotes=zLhoRUyjKU665EY16u4XXJy&stackedNotes=zTDjZQbKAT9pALtsk2HfePx
+---
 # Taxonomy of note types
 ==TODO: flesh this out; write a note for each note type; etc==
 #todo 
@@ -28,6 +31,3 @@ Note types outside this ladder:
 Tactically speaking, I usually denote a note’s “type” with a tag.
 
 Don’t over-obsess or over-formalize this stuff. Remember: [[Better note-taking misses the point; what matters is “better thinking”]].
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k&stackedNotes=zLhoRUyjKU665EY16u4XXJy&stackedNotes=zTDjZQbKAT9pALtsk2HfePx)

@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zDh1yhNFQNxDEre12B4zd8k?stackedNotes=zLhoRUyjKU665EY16u4XXJy&stackedNotes=z2hQEhqWkdRLL9JUwfawZZx
+---
 # Evergreen notes should be concept-oriented
 It’s best to factor [[Andy Matuschak/Evergreen Notes|Evergreen Notes]]).
 
@@ -16,7 +19,6 @@ Over time, we accumulate notes which we can combine in increasingly complex ways
 ---
 
 # References
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k&stackedNotes=zLhoRUyjKU665EY16u4XXJy&stackedNotes=z2hQEhqWkdRLL9JUwfawZZx) 
 - [Extend Your Mind and Memory With a Zettelkasten • Zettelkasten Method](https://zettelkasten.de/posts/extend-your-mind-and-memory-with-a-zettelkasten)
     
     > When you’ve taken two texts apart already, a Zettelkasten will help you draw connections between them, see their similarities and oppositions. Thereby, you’ll be able to distill a bunch of texts and find out something new for yourself with time.

@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z4aipv9wyMg4qZGANaVjkrJ?stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zAt1K9ARQYguinoHH8cfaqQ
+---
 # Readwise
 Readwise is a service which tries to help you remain engaged with interesting ideas you’ve read. It extracts highlights from Kindle, “read later” services, physical books via photos + OCR, etc. Then it sends you a daily email with a random assortment of those highlights so that they’re periodically refreshed in your mind.
 
@@ -40,5 +43,3 @@ Perhaps because it’s a business, it’s often misleadingly confident in its cl
 
 - [Using Spaced Repetition and Active Recall with Books to Hack Your Brain](https://blog.readwise.io/hack-your-brain-with-spaced-repetition-and-active-recall/)
 - [Remember Significantly More of What You Read With Readwise](https://blog.readwise.io/remember-more-of-what-you-read-with-readwise/)
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zTnTob5JrFYF9NpU73Zg5a1&stackedNotes=z4aipv9wyMg4qZGANaVjkrJ&stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zAt1K9ARQYguinoHH8cfaqQ)

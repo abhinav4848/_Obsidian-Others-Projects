@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/z8kPkXQZ3wVR5DfJ79uhnuz?stackedNotes=z6sX7ZcYdPiya3SzQ5segaq&stackedNotes=zWWh96dE6YZYmDCoo37977X&stackedNotes=z8e98xn7t5QNHr5cf8oqjbJ
+URL: https://notes.andymatuschak.org/z6sX7ZcYdPiya3SzQ5segaq?stackedNotes=zWWh96dE6YZYmDCoo37977X&stackedNotes=z8e98xn7t5QNHr5cf8oqjbJ
 ---
 # The mnemonic medium gives structure to normally-atomized spaced repetition memory prompts
 [[Spaced repetition memory prompts alone are a poor communications medium]], but the [[Mnemonic medium]] gives the prompts order and embeds them in a larger whole by embedding them in a prose narrative. This context allows readers to build understanding in an authored, structured manner. When readers return to the prompts, the review is anchored in that narrative experience: [[Mnemonic medium prompts rely on invoking external experiences (from narrative, from real-world experience)]]. When you answer those questions, you’re recalling the details in the context of the larger narrative.
@@ -17,5 +16,4 @@ But these designs also de-emphasize interleaved review ([[Mnemonic medium prompt
 ---
 
 ## References
-1. [Andy Link](https://notes.andymatuschak.org/z8kPkXQZ3wVR5DfJ79uhnuz?stackedNotes=z6sX7ZcYdPiya3SzQ5segaq&stackedNotes=zWWh96dE6YZYmDCoo37977X&stackedNotes=z8e98xn7t5QNHr5cf8oqjbJ)
 2. Matuschak, A., & Nielsen, M. (2019 0). _How can we develop transformative tools for thought?_ [https://numinous.productions/ttft](https://numinous.productions/ttft)

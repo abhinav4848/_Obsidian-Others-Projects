@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zKRrv2DmKp3VyDEp3oXrKXQ?stackedNotes=zBcm1RNbzedjDMTt8rRxoWt&stackedNotes=z611NYK3NCXzSWMbdZmuqXK
+---
 # Dynamic mediums usually lack an authored time dimension
 
 ==TODO this note should be refactored into several other notes==
@@ -54,7 +57,6 @@ More on a possible mechanism: [Enacted experiences have incredible potential as
 ---
 
 # References
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zCMhncA1iSE74MKKYQS5PBZ&stackedNotes=zHV89H7dqnrvNvwXHBSGog9&stackedNotes=zTYb9ysCATFYCnvay3V5sF2&stackedNotes=zGD1FxbDZd7WnH7NrhRaVyC&stackedNotes=z4ULp2KUgq3hBCJMWTUnLDX&stackedNotes=zKtYU4Uk7aTCGyqHr9Ca3Sb&stackedNotes=zyjePyZ77P2BfdkRBuQB2x&stackedNotes=zKubRcJXKjiCDPsPgJWckkP&stackedNotes=zGNVRh1q5gGeF88PbmYu4BB&stackedNotes=z984ZZLbG4wREM6HAZAovMB&stackedNotes=zN7KLBKWMTmFqthmFPVSNbP&stackedNotes=zC4sWYDcheVSeCxpQPA9w88&stackedNotes=z4exmF6rnZTE9GjCnpFBKUT&stackedNotes=zSNDTj75ULnYMo7pGm2Frg7&stackedNotes=zAb9R6nYuTyN6PBC4rQY9aY&stackedNotes=zCQuiDgcNqncwB6pTvhdRWk&stackedNotes=zKRrv2DmKp3VyDEp3oXrKXQ&stackedNotes=zBcm1RNbzedjDMTt8rRxoWt&stackedNotes=z611NYK3NCXzSWMbdZmuqXK)
 2. Hart, V., & Case, N. (2014, December 8). Parable of the Polygons. Retrieved from [https://ncase.me/polygons/](https://ncase.me/polygons/)
 3. Matuschak, A. (2018, October 26). Narrated explorables: Three mental models. Retrieved from [https://medium.com/khan-academy-early-product-development/narrated-explorables-three-mental-models-e16e0d80e4c1](https://medium.com/khan-academy-early-product-development/narrated-explorables-three-mental-models-e16e0d80e4c1)
 4. Patel, A. (2014, May 26). Introduction to the A* Algorithm. Retrieved from Red Blob Games website: [https://www.redblobgames.com/pathfinding/a-star/introduction.html](https://www.redblobgames.com/pathfinding/a-star/introduction.html)

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Ideaverse Map]]"
+  - "[[Ideaverse Merged/Ideaverse Map]]"
 related: 
 created: 2024-10-15
 version:

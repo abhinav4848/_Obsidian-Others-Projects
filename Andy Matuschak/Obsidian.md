@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zGKtrhpZ3hS8bw8UGL8hMTP?stackedNotes=zJRmoVPc9vyv8QxSD5voijR&stackedNotes=zVJzGg7mUtvY8FH6AnZ2tqG
+---
 # Obsidian
 Highly extensible, closed-source [[Networked note-writing software]] based on [[Electron]].
 
@@ -13,5 +16,3 @@ Obsidian Publish, one of their two paid products, is basically a commercial adap
 - [Liam Cain](https://liamca.in/hello) - Obsidian developer’s notes
 - [Obsidian Typings](https://fevol.github.io/obsidian-typings/) - private API documentation
 - [https://publish.obsidian.md/hub/00+-+Start+here](https://publish.obsidian.md/hub/00+-+Start+here): mostly notes on usage
-# References
-1. [Andy Link](https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=z4RDymitJVXdYzjNgDYWqQK&stackedNotes=z6Dd9qGVLLBchS8R9wow4sk&stackedNotes=zHcouiwcynak2Xu5wh8FbFj&stackedNotes=zGKtrhpZ3hS8bw8UGL8hMTP&stackedNotes=zJRmoVPc9vyv8QxSD5voijR&stackedNotes=zVJzGg7mUtvY8FH6AnZ2tqG)

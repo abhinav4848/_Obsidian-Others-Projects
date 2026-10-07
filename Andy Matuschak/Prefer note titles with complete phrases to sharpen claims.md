@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/z2hQEhqWkdRLL9JUwfawZZx
+URL: https://notes.andymatuschak.org/z2hQEhqWkdRLL9JUwfawZZx
 ---
 # Prefer note titles with complete phrases to sharpen claims
 When writing [[Andy Matuschak/Evergreen Notes|Evergreen Notes]], I’ve found that using complete phrases as note titles helps maintain concept-orientation ([[Evergreen notes should be concept-oriented]]). For example: [[Educational objectives often subvert themselves]], [[Evergreen notes permit smooth incremental progress in writing (“incremental writing”)]].
@@ -15,6 +14,3 @@ A few common exceptions to this policy:
 - For more, see [[Taxonomy of note types]]
 
 I often begin by writing a note without knowing what the title will be. The title often emerges from the text as it’s written. When a note suggests a strong title with a clear claim, that’s a good sign that it’s starting to make sense. Related: [[Evergreen note titles are like APIs]] 
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/z2hQEhqWkdRLL9JUwfawZZx)

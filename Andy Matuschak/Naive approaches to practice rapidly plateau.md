@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/zALB77pBFKPZae7f5kD3ro1
+URL: https://notes.andymatuschak.org/zALB77pBFKPZae7f5kD3ro1
 ---
 # Naive approaches to practice rapidly plateau
 If you want to pick up a new skill, like sketching, you might read some books, take a few lessons, then repeat the basic procedures you’ve seen until they’re comfortable. This approach often plateaus rapidly once you reach a basic level of automaticity. Ericsson and Pool (2016) call this “{naive practice}”: a student {performs an action repeatedly}, expecting that {repetition alone} will {improve performance} (p. 14), contra [[Skill development requires challenging homeostasis]]. [[Performance plateaus often require a change in approach to surmount]].
@@ -21,6 +20,3 @@ Chase, W. G., & Ericsson, A. (1981). Skilled memory. In A. Ericsson (Ed.), Cogni
 Ericsson, A., & Pool, R. (2016). _Peak: Secrets from the New Science of Expertise_ (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [Peak - Ericsson and Pool](https://notes.andymatuschak.org/zEwJDpZiu1YQoXYznxioznL)
 
 Oare, S. (2012). Decisions Made in the Practice Room: A Qualitative Study of Middle School Students’ Thought Processes While Practicing. Update: Applications of Research in Music Education, 30(2), 63–70. [https://doi.org/10.1177/8755123312437051](https://doi.org/10.1177/8755123312437051)
-
-# Source
-1. Andy Link: https://notes.andymatuschak.org/zALB77pBFKPZae7f5kD3ro1

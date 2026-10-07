@@ -1,10 +1,10 @@
 ---
 up:
-  - "[[Home]]"
+  - "[[Ideaverse Merged/Home]]"
 related: []
 created: 2016-06-01
 in: 
-- "[[Maps]]"
+- "[[Ideaverse Merged/Atlas/Maps/Maps]]"
 ---
 Have a place to honor the importance of the people your life.  Once you feel comfortable, adding notes for people—whether they are living or not—you will notice how it helps your understanding of them.
 Here's a cool view for you:
@@ -42,7 +42,7 @@ Here are the main things I do related to notes on people:
 - Bigger Circles
 	- [[People by my eras in life]]
 - Special Areas
-	- [[People Map#Prominent People 🌋|Prominent People 🌋]]
+	- [[Ideaverse Merged/Atlas/Maps/People Map#Prominent People 🌋|Prominent People 🌋]]
 	- [[Entertainment Industry]]
 	- [[Literary Industry]]
 

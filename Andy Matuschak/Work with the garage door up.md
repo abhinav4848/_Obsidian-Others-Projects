@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/About_these_notes?stackedNotes=zCMhncA1iSE74MKKYQS5PBZ
+---
 # Work with the garage door up
 One of my favorite ways that creative people communicate is by “working with their garage door up,” to riff on a passage from Robin Sloan (below). This is the opposite of the Twitter account which mostly posts announcements of finished work: it’s [Screenshot Saturday](https://twitter.com/hashtag/screenshotsaturday?lang=en) (twitter link); it’s giving a lecture about the problems you’re pondering in the shower; it’s thinking out loud about the ways in which your project doesn’t work at all. It’s so much of Twitch. I want to see the process. I want to see you trim the artichoke. I want to see you choose the color palette. [[Anti-marketing, after Michael Nielsen]].
 
@@ -13,7 +16,6 @@ It’s also a way to avoid the problems described in [[Pitching out corrupts wi
 ---
 
 ## References
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zCMhncA1iSE74MKKYQS5PBZ)
 2. The inspiration from Robin’s original newsletter:  
 ☄️ Week 43, popular, wide-ranging, functional (link broken as of [2024-12-17](https://notes.andymatuschak.org/2024-12-17))
 

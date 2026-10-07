@@ -3,7 +3,7 @@ related:
   - "[[Ideaverse Merged/Atlas/Dots/Things/The 3 Phases of MOCs]]"
 created: 2023-08-19
 in:
-  - "[[Maps]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Maps]]"
 ---
  *I am an unrelenting evolutionary adaptation—whether you like it or not!*
 
@@ -14,11 +14,11 @@ in:
 > 
 ## Understanding Habits
 - [[Ideaverse Merged/Atlas/Dots/Things/Defining a habit]]
-- [[Ideaverse Merged/Atlas/Notes/Ideas/Habit formation provides an evolutionary advantage]]
-- [[Ideaverse Merged/Atlas/Notes/Ideas/Habits carry a ton of hidden inertia]]
+- [[Ideaverse Merged/Atlas/Dots/Statements/Habit formation provides an evolutionary advantage]]
+- [[Ideaverse Merged/Atlas/Dots/Statements/Habits carry a ton of hidden inertia]]
 - [[Ideaverse Merged/Atlas/Dots/Things/The neural formation of habits is additive]]
-	- [[Ideaverse Merged/Atlas/Notes/Ideas/The truest habit metaphors are additive]]
-	- [[Ideaverse Merged/Atlas/Notes/Ideas/Ant pheromone trails act like potential habits]]
+	- [[Ideaverse Merged/Atlas/Dots/Statements/The truest habit metaphors are additive]]
+	- [[Ideaverse Merged/Atlas/Dots/Statements/Ant pheromone trails act like potential habits]]
 
 > [!NOTE]- Use your MOCs for different purposes
 > - as a reference point in the future
@@ -29,11 +29,11 @@ in:
 >
 ## Designing Habits
 - [[Ideaverse Merged/Atlas/Dots/Things/Understanding the habit cycle and habitual cues]]
-	- [[Ideaverse Merged/Atlas/Notes/Ideas/How Atomic Habits fit into the conversation on habits]]
-	- [[Ideaverse Merged/Atlas/Notes/Ideas/Resiliency Routines help regain a sense of control]]
+	- [[Ideaverse Merged/Atlas/Dots/Statements/How Atomic Habits fit into the conversation on habits]]
+	- [[Ideaverse Merged/Atlas/Dots/Statements/Resiliency Routines help regain a sense of control]]
 	- [[Ideaverse Merged/Atlas/Dots/Things/Improving Micro Habits at the Point of Contact]]
-- [[Ideaverse Merged/Atlas/Notes/Ideas/Small Wins foster a Sense of Control]]
-- [[Ideaverse Merged/Atlas/Notes/Ideas/An asymptotic curve models the development of skills, strength, habits, and more]]
+- [[Ideaverse Merged/Atlas/Dots/Statements/Small Wins foster a Sense of Control]]
+- [[Ideaverse Merged/Atlas/Dots/Statements/An asymptotic curve models the development of skills, strength, habits, and more]]
 	- [[Ideaverse Merged/Atlas/Dots/Things/The mechanism for breaking through development plateaus]]
 
 > [!NOTE]- MOCs can easily continue to evolve over time
@@ -44,11 +44,11 @@ in:
 - [[Ideaverse Merged/Atlas/Dots/Things/Charting out habit cycles in my life circa 2013]]
 
 ### Important Habits
-[[Ideaverse Merged/Atlas/Notes/Ideas/Being able to adapt is an important habit]]
-[[Ideaverse Merged/Atlas/Notes/Ideas/Important habits preserve mental clarity and a sense of control]]
-[[Ideaverse Merged/Atlas/Notes/Ideas/Preparing for the next day is an important habit]]
-[[Ideaverse Merged/Atlas/Notes/Ideas/Writing down daily goals in the morning is an important habit]]
-[[Ideaverse Merged/Atlas/Notes/Ideas/Journaling in the morning is an important habit]]
+[[Ideaverse Merged/Atlas/Dots/Statements/Being able to adapt is an important habit]]
+[[Ideaverse Merged/Atlas/Dots/Statements/Important habits preserve mental clarity and a sense of control]]
+[[Ideaverse Merged/Atlas/Dots/Statements/Preparing for the next day is an important habit]]
+[[Ideaverse Merged/Atlas/Dots/Statements/Writing down daily goals in the morning is an important habit]]
+[[Ideaverse Merged/Atlas/Dots/Statements/Journaling in the morning is an important habit]]
 
 ## Related Concepts
 [[Ideaverse Merged/Atlas/Dots/Things/Feedback Loop]], [[Ideaverse Merged/Atlas/Dots/Things/Like begets like]]
@@ -58,7 +58,7 @@ in:
 
 ## Other Miscellaneous
  - [[Ideaverse Merged/Atlas/Dots/Things/Words I've used to describe important habits]]
-- [[Ideaverse Merged/Atlas/Notes/Ideas/Changing a habit is really about replacing a routine]]
+- [[Ideaverse Merged/Atlas/Dots/Statements/Changing a habit is really about replacing a routine]]
 
 ---
 

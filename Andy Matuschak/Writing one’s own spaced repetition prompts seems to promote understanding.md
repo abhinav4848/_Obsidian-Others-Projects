@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/zL3dp2Zri9y1wHKC5NZNA53
+URL: https://notes.andymatuschak.org/zL3dp2Zri9y1wHKC5NZNA53
 ---
 # Writing one’s own spaced repetition prompts seems to promote understanding
 ==TODO==
@@ -10,7 +9,6 @@ Part of what’s going on here is likely the [[Generation effect]].
 Related: [[Elaborative encoding]]
 
 # References
-1. [Andy Link](https://notes.andymatuschak.org/zL3dp2Zri9y1wHKC5NZNA53)
 2. [Pan, S. C., Zung, I., Imundo, M. N., Zhang, X., & Qiu, Y. (2022). User-generated digital flashcards yield better learning than pre-made flashcards](https://notes.andymatuschak.org/z3X7hMWZcQnyMdgNevS5BBq)
 
 Nielsen, M. (2019, January). Using spaced repetition systems to see through a piece of mathematics. [http://cognitivemedium.com/srs-mathematics](http://cognitivemedium.com/srs-mathematics)

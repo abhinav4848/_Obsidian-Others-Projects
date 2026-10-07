@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zLCdZ9xcHzjks8vgoGkycSr?stackedNotes=zXMrq3eeGJSZV9BqX1E35ex&stackedNotes=z3PJFWDZ7gar2ttawQTmBek
+---
 # Enabling environments’ activities directly serve an intrinsically meaningful purpose
 When designing an [[Enabling environment]], it’s tempting to fixate on the skills or understandings being developed or amplified. This approach generally subverts its own aims. The most successful enabling environments comprise activities which are primarily about those skills or understandings are *for.* (See [[Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes]], [[Enabling environments focus on doing what’s enabled]])
 
@@ -14,7 +17,6 @@ Educational environments may ultimately aspire to intrinsically meaningful purpo
 For more: [[Educational objectives often subvert themselves]]. 
 
 # Reference
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k&stackedNotes=zLhoRUyjKU665EY16u4XXJy&stackedNotes=z2hQEhqWkdRLL9JUwfawZZx&stackedNotes=z8ccRLda8BqJafNxjQBpzis&stackedNotes=zES5WRczfGgXptmM9tSCwvy&stackedNotes=zMybAxZcdkJHKSATuSZbEhz&stackedNotes=zUR6RM21Sa88cFDfC47svVv&stackedNotes=z26C6ing3sqiZMHRVFuT6xn&stackedNotes=zTpJdbe6ub7uhBFLuHkFsrT&stackedNotes=zWoEKdbmtbSgAp1tZjU4usY&stackedNotes=zD8D8PPRBDEFk3JeM2vaWrn&stackedNotes=zXxUPAFZBthh97wAKBEj7Tq&stackedNotes=zAhASsrt9VhRDzh25hsLsyD&stackedNotes=z3zo16mx2Dp3PB4J1ty1DGy&stackedNotes=z7JRyqSwVbW2a8U44w2RkR6&stackedNotes=zS33ebqMsefTfnh8cwgHYFR&stackedNotes=zQKe7JZs1CYqHBnLyDhMQYQ&stackedNotes=z7d63BYfJrd81VFE25jkcDd&stackedNotes=zVdb1Ku6fzVAFP5A6BhBbWR&stackedNotes=zLCdZ9xcHzjks8vgoGkycSr&stackedNotes=zXMrq3eeGJSZV9BqX1E35ex&stackedNotes=z3PJFWDZ7gar2ttawQTmBek)
 
 Andy Matuschak’s Email with Michael Nielsen, 2019/08/23. Re: Transcending the Primer
 

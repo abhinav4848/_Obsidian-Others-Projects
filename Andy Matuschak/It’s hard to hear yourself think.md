@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zWzVw2VM4TPjpKXnHUfLaso
+---
 # **It’s hard to hear yourself think**
 
 Some related notes:
@@ -44,6 +47,3 @@ Exhortations which help: [[Get curious]]; [[Get bored]]; [[Get playful]]
 > Thick desires are like diamonds that have been formed deep beneath the surface, nearer to the core of the Earth. Thick desires are protected from the volatility of changing circumstances in our lives. Thin desires, on the other hand, are highly mimetic, contagious, and often shallow.
 
 Andrew Sutherland (founder of Quizlet) on his project: “My computer is full of other people’s thoughts.” (later): “I want to turn down the volume on other people’s thoughts.”
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/zWzVw2VM4TPjpKXnHUfLaso)

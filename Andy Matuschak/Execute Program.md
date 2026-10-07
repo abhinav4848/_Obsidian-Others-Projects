@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zSsjk5UvNPGrYp8B6DEFCMS
+---
 # Execute Program
 [https://www.executeprogram.com](https://www.executeprogram.com/)
 
@@ -20,4 +23,3 @@ Execute Program offers interactive lessons on programming tools by [Gary Bernha
 Related: [[Mnemonic texts could be serialized in small sections over time, timed to reader recall]]
 # Reference
 Very specific set of notes so I haven't linked them. 
-1. [Andy Link](https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zSsjk5UvNPGrYp8B6DEFCMS)

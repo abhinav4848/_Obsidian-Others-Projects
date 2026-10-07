@@ -1,17 +1,20 @@
 ---
 up:
-  - "[[Ideaverse Map]]"
+  - "[[Ideaverse Merged/Ideaverse Map]]"
 related:
-  - "[[Ideaverse Merged/Atlas/Dots/Sources/Obsidian Flight School]]"
-  - "[[Ideaverse Pro]]"
-  - "[[Writing Original Works]]"
+- '[[Ideaverse Merged/Atlas/Dots/Sources/Obsidian Flight School]]'
+- '[[Ideaverse Merged/Atlas/Dots/Sources/Ideaverse Pro]]'
+- '[[Ideaverse Merged/Atlas/Dots/Sources/Writing Original Works]]'
 year: 2020
 in:
-  - "[[Courses]]"
-  - "[[Sources]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Courses]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Sources]]"
 URL: https://www.linkingyourthinking.com/workshop
+tags:
+  - source/course
+type: "[[Ideaverse Merged/Atlas/Maps/Courses]]"
+URLs: https://www.linkingyourthinking.com/obsidian-flight-school
 ---
-
 Imagine having 1,000 of your favorite ideas all in one place. Your favorite concepts, quotes, and memories finally all connected in one living, powerful system.
 
 Think of this as your **Ideaverse**—and it's what you will create during the workshop.

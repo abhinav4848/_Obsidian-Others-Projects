@@ -1,8 +1,10 @@
 ---
 up:
-  - "[[Sources]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Sources]]"
 related: []
 created: 2022-01-01
+aliases:
+- Song
 ---
 This note passively looks at the properties of all notes.
 

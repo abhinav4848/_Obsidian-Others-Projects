@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zY3aLuvtsYS54QnymGKFGwg?stackedNotes=zU6upTVz687icnQegpMhLY8&stackedNotes=zLNcy2JiH3AGNaZjYkHzK9P
+---
 # Executable books
 (See central discussion in [_How can we develop transformative tools for thought_; subsection “Executable books”](https://numinous.productions/ttft/#how-to-invent-hindu-arabic-numerals)) ==TODO== #external 
 
@@ -14,7 +17,6 @@ Jeremy of Climate Plan has been working on some public climate projection notebo
 
 ---
 # References
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zCMhncA1iSE74MKKYQS5PBZ&stackedNotes=zHV89H7dqnrvNvwXHBSGog9&stackedNotes=zTYb9ysCATFYCnvay3V5sF2&stackedNotes=zGD1FxbDZd7WnH7NrhRaVyC&stackedNotes=z4ULp2KUgq3hBCJMWTUnLDX&stackedNotes=zKtYU4Uk7aTCGyqHr9Ca3Sb&stackedNotes=zyjePyZ77P2BfdkRBuQB2x&stackedNotes=zY3aLuvtsYS54QnymGKFGwg&stackedNotes=zU6upTVz687icnQegpMhLY8&stackedNotes=zLNcy2JiH3AGNaZjYkHzK9P)
 2. Matuschak, A., & Nielsen, M. (2019 0). _How can we develop transformative tools for thought?_ [https://numinous.productions/ttft](https://numinous.productions/ttft)
 3. [https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/)
 Re: serious work and jupyter

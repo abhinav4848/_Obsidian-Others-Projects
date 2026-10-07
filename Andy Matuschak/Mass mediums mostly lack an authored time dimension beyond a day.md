@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/About_these_notes?stackedNotes=z611NYK3NCXzSWMbdZmuqXK&stackedNotes=zBcm1RNbzedjDMTt8rRxoWt
+---
 # Mass mediums mostly lack an authored time dimension beyond a day
 
 Filmmakers, composers, and playwrights carefully author the time dimension of their work. A pregnant pause, a slow-burn conflict, and an accelerando feel the way they do because of how they’re experienced by viewers over time. Those mediums express a few hours’ evolving experience—but what about days, months, years? Cultural institutions often author their experiences over those time scales (e.g. multi-year religious coming-of-age rituals), but mass mediums rarely do. That’s an unfortunate limitation: mass mediums give authors enormous reach. (see also [[Enacted experiences are hard to distribute]])
@@ -35,6 +38,3 @@ Games are unusual in this regard: [[Dynamic mediums usually lack an authored ti
 ---
 
 Excitingly: [[The mnemonic medium can be adapted to author an experience which unfolds over time]]
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z611NYK3NCXzSWMbdZmuqXK&stackedNotes=zBcm1RNbzedjDMTt8rRxoWt)

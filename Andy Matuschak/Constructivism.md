@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zVdb1Ku6fzVAFP5A6BhBbWR?stackedNotes=zLCdZ9xcHzjks8vgoGkycSr&stackedNotes=zWceTLNTjH3DQ7iVpy38ocq
+---
 # Constructivism
 
 Type of Link: 📝 Article
@@ -25,6 +28,3 @@ Does it work?
     - [Schwartz, D. L., Lindgren, R., & Lewis, S. (2009). Constructivism in an age of non-constructivist assessments. In Constructivist instruction: Success or failure? (pp. 34–61). Routledge\/Taylor & Francis Group](https://notes.andymatuschak.org/Schwartz%2C_D._L.%2C_Lindgren%2C_R.%2C_%26_Lewis%2C_S._\(2009\)._Constructivism_in_an_age_of_non-constructivist_assessments._In_Constructivist_instruction%3A_Success_or_failure%3F_\(pp._34%E2%80%9361\)._Routledge%5C%2FTaylor_%26_Francis_Group)
 
 Also: [How can I reconcile my views on inquiry learning and memory systems?](https://notes.andymatuschak.org/zGUvgDWfRvt1VDJyZavtty2)
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k&stackedNotes=zLhoRUyjKU665EY16u4XXJy&stackedNotes=z2hQEhqWkdRLL9JUwfawZZx&stackedNotes=z8ccRLda8BqJafNxjQBpzis&stackedNotes=zES5WRczfGgXptmM9tSCwvy&stackedNotes=zMybAxZcdkJHKSATuSZbEhz&stackedNotes=zUR6RM21Sa88cFDfC47svVv&stackedNotes=z26C6ing3sqiZMHRVFuT6xn&stackedNotes=zTpJdbe6ub7uhBFLuHkFsrT&stackedNotes=zWoEKdbmtbSgAp1tZjU4usY&stackedNotes=zD8D8PPRBDEFk3JeM2vaWrn&stackedNotes=zXxUPAFZBthh97wAKBEj7Tq&stackedNotes=zAhASsrt9VhRDzh25hsLsyD&stackedNotes=z3zo16mx2Dp3PB4J1ty1DGy&stackedNotes=z7JRyqSwVbW2a8U44w2RkR6&stackedNotes=zS33ebqMsefTfnh8cwgHYFR&stackedNotes=zQKe7JZs1CYqHBnLyDhMQYQ&stackedNotes=z7d63BYfJrd81VFE25jkcDd&stackedNotes=zVdb1Ku6fzVAFP5A6BhBbWR&stackedNotes=zLCdZ9xcHzjks8vgoGkycSr&stackedNotes=zWceTLNTjH3DQ7iVpy38ocq)

@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/z8kPkXQZ3wVR5DfJ79uhnuz?stackedNotes=z6sX7ZcYdPiya3SzQ5segaq
+URL: https://notes.andymatuschak.org/z8kPkXQZ3wVR5DfJ79uhnuz?stackedNotes=z6sX7ZcYdPiya3SzQ5segaq
 ---
 # My implementation of a personal mnemonic medium
 I have implemented [[The mnemonic medium can be extended to one’s personal notes]] in my own [[Note-writing system]].
@@ -40,6 +39,3 @@ Somewhat more precisely, the embedded prompts have _identity_. You can modify t
 Two-sided prompt identities are derived from the hash of their question and answer text. Cloze prompt identities are derived from the hash of their containing paragraph.
 
 While the system will happily track prompts if you move them between note files, the behavior is undefined if identical prompts appear in multiple note files.
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/z8kPkXQZ3wVR5DfJ79uhnuz?stackedNotes=z6sX7ZcYdPiya3SzQ5segaq)

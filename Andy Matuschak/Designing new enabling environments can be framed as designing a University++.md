@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z9MxCsvv8DcHndqRECbxrRi?stackedNotes=zKubRcJXKjiCDPsPgJWckkP&stackedNotes=zyjePyZ77P2BfdkRBuQB2x
+---
 # Designing new enabling environments can be framed as designing a University++
 Universities have historically been effective examples of an [[Enabling environment]] (along some axes, and with some significant limitations):
 
@@ -19,5 +22,4 @@ See also [The Primer++ is embedded in a field, bootstrapping participation thro
 ---
 
 # Reference
-1. [Andy Link](https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zSNDTj75ULnYMo7pGm2Frg7&stackedNotes=z4exmF6rnZTE9GjCnpFBKUT&stackedNotes=zN7KLBKWMTmFqthmFPVSNbP&stackedNotes=zGNVRh1q5gGeF88PbmYu4BB&stackedNotes=z9MxCsvv8DcHndqRECbxrRi&stackedNotes=zKubRcJXKjiCDPsPgJWckkP&stackedNotes=zyjePyZ77P2BfdkRBuQB2x)
 2. <https://github.com/mnielsen/tpft/blob/master/big_picture.md>

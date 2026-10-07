@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zsRuFxYgckGS81tr2eiBAP&stackedNotes=zPpqLzE6VWKxXF6BpsAfr4C
+---
 # It’s hard to navigate to unlinked “neighbors” in associative note systems
 
 [[Evergreen notes should be densely linked]], and if you follow the advice in [[Prefer associative ontologies to hierarchical taxonomies]], you’ll find it’s easy to navigate along trails of related ideas. But if several notes are related topically, or related _through_ another note, it’s difficult to navigate between them by the in-note links.
@@ -11,5 +14,4 @@ Two solutions:
 ---
 
 # References
-1. [Andy Link](https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zsRuFxYgckGS81tr2eiBAP&stackedNotes=zPpqLzE6VWKxXF6BpsAfr4C)
 2. [Luka Dover - Quantum Country interview - 2019-11-19](https://notes.andymatuschak.org/z7yd2pijFR2BRL7d1mqe3d1)

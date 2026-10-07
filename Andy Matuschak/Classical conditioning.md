@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z7DEBj8tSRKL4jbwXQTi49b
+---
 A primary idea in [[Behaviorism]], pioneered by [[Ivan Pavlov]]. The key idea: pairing a neutral conditioned stimulus with an unconditioned stimulus that elicits a response eventually causes the conditioned stimulus to elicit a response. It’s a kind of learning by association.
 
 Conditioned behaviors can be weakened through “{extinction}”: i.e. repeatedly presenting the conditioned stimulus without the unconditioned stimulus.
@@ -36,6 +39,3 @@ A. A familiar stimulus is harder to condition than a novel stimulus.
 Q. What’s an example of “latent inhibition” in classical conditioning?  
 A. If you expose a dog to a bell many times, that makes it much harder to condition the bell to produce salivation with food.
 
----
-# Source
-1. Andy Link: https://notes.andymatuschak.org/z7DEBj8tSRKL4jbwXQTi49b

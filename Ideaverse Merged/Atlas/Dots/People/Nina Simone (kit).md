@@ -1,11 +1,28 @@
 ---
 up:
   - "[[Music MOC]]"
-related: []
+related:
+  - "[[Ideaverse Merged/Atlas/Dots/Sources/Sinnerman (song)]]"
 created: 2020-06-01
 tags:
-  - people
+- people
+- people/p
 dates: 1933 - 2003
+in:
+  - "[[Ideaverse Merged/Atlas/Maps/People]]"
+peopleType:
+  - Prominent
+peopleDomain:
+  - Arts
+peopleGroups:
+  - Music
+lifespan: 1933 - 2003
+finalAge: "70"
+culturalEra:
+culturalWorks:
+image: https://conversationsabouther.net/wp-content/uploads/2018/06/Nina-Simone-fight-for-her-beliefs.jpg
+aliases:
+- Nina Simone
 ---
 I absolutely love Nina Simone's song [[Ideaverse Merged/Atlas/Dots/Sources/Sinnerman (song)]]. It's in my top 100.
 

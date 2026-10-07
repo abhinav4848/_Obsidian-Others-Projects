@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Meta PKM]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Meta PKM]]"
 related: []
 created: 2020-06-01
 ---
@@ -10,4 +10,4 @@ For example, I have a "People" subfolder because I want to have notes on people,
 
 If I was an amateur chef with a growing number of recipe notes, I'd put a "Recipes" folder here. If I was making building a personal library of important exercises, I'd likely make an "Exercises" folder. 
 
-The extra folder called `X` is where you can stuff older collections of notes you don't really need to see when you twirl into `Atlas/Notes`.
+The extra folder called `X` is where you can stuff older collections of notes you don't really need to see when you twirl into `Atlas/Dots`.

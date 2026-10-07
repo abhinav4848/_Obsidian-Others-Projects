@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z2Nv3jADtpYcgbCXww7nSEG?stackedNotes=z12PGwFx275xTmGHazNgQbn&stackedNotes=zGEw4kJNMh8aK19aD2NyV6r
+---
 # Many eminent thinkers need a writing surface to think
 Many of the most effective people I know—alive and dead—seem unable to do serious thinking without a writing surface in front of them. It seems to extend cognition somehow: perhaps it effectively extends one’s [[Span of working memory]], or perhaps moving the fingers somehow contributes to the thinking.
 
@@ -24,6 +27,5 @@ Grothendieck, an eminent 20th century mathematician, is said not to be able to t
 
 # References
 
-1. [Andy Link](https://notes.andymatuschak.org/z2Nv3jADtpYcgbCXww7nSEG?stackedNotes=z12PGwFx275xTmGHazNgQbn&stackedNotes=zGEw4kJNMh8aK19aD2NyV6r)
 2. Feynman, R. (1973, February 4). [Interview by C. Weiner](https://notes.andymatuschak.org/z2Nv3jADtpYcgbCXww7nSEG?stackedNotes=z12PGwFx275xTmGHazNgQbn&stackedNotes=zGEw4kJNMh8aK19aD2NyV6r). Niels Bohr Library & Archives, American Institute of Physics. [https://www.aip.org/history-programs/niels-bohr-library/oral-histories/5020-5](https://www.aip.org/history-programs/niels-bohr-library/oral-histories/5020-5)
 3. Illusie, L. (2007, January 30). *Reminiscences of Grothendieck and his School* (S. Bloch & V. Drinfled, Interviewers) [Personal communication](https://notes.andymatuschak.org/z2Nv3jADtpYcgbCXww7nSEG?stackedNotes=z12PGwFx275xTmGHazNgQbn&stackedNotes=zGEw4kJNMh8aK19aD2NyV6r).

@@ -1,18 +1,18 @@
 ---
 up:
-  - "[[Home]]"
+  - "[[Ideaverse Merged/Home]]"
 down:
-  - "[[Relate]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Relate]]"
 related:
-  - "[[Concepts]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Concepts]]"
 created: 2023-08-18
 in:
-  - "[[Maps]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Maps]]"
 ---
 
 It's time to give **_"thinking"_** the space it deserves. Let's cultivate this inherently rich endeavor.
 
-My first stop for thinking is to the [[Relate]] where I do what's easy. That means bouncing from note to note, developing them in a special way to maintain [[Ideaverse Merged/Atlas/Dots/Things/Flow]]. I keep the [[Concepts]] handy because I believe a handful of core concepts influence our entire worldview in disproportionately powerful ways. These notes help me make leaps of insights while connecting new ideas to existing concepts.
+My first stop for thinking is to the [[Ideaverse Merged/Atlas/Maps/Relate]] where I do what's easy. That means bouncing from note to note, developing them in a special way to maintain [[Ideaverse Merged/Atlas/Dots/Things/Flow]]. I keep the [[Ideaverse Merged/Atlas/Maps/Concepts]] handy because I believe a handful of core concepts influence our entire worldview in disproportionately powerful ways. These notes help me make leaps of insights while connecting new ideas to existing concepts.
 
 > [!NOTE]- Some links and content in this note have been removed.
 > Because this is a vertical slice of my actual PKM system, I can't include everything in this vault and I left out some notes and material for ease of navigation and understanding the concepts (rather than getting lost in the knowledge) as well as for privacy.
@@ -30,7 +30,7 @@ Want more mind training?
 - Go to [[Meditation Jaunts]] and [[Brief Meditation Sequences]] to slow down and reset.
 - Go to a few of your [[Mind Palaces]] to work your visualizing muscles.
 - Combine the mental with the physical for the world-champion [[Lucia Stance]]
-- A few grounding tactics are to brush up the [[Ideaverse Merged/Atlas/Dots/Things/FlowCreation MOC]] and [[Habits Map]]s.
+- A few grounding tactics are to brush up the [[Ideaverse Merged/Atlas/Dots/Things/FlowCreation MOC]] and [[Ideaverse Merged/Atlas/Maps/Habits Map]]s.
 
 Always remember, one of the best prompting tools out there is the thesaurus. So when you want to both jumpstart and enrich your thinking, grab a thesaurus and go on a [[Word Excursion]].
 

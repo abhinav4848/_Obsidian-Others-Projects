@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/zTpJdbe6ub7uhBFLuHkFsrT
+URL: https://notes.andymatuschak.org/zTpJdbe6ub7uhBFLuHkFsrT
 ---
 # Testing effect
 When you try to recall some detail from memory, that act strengthens your memory of that detail. When exploited as a learning activity, this is called [[Retrieval practice]]. 
@@ -22,6 +21,3 @@ It also seems to lead to more durable memory (Karpicke and Smith, 2012) and impr
 The testing effect is generally measured to be more pronounced for production tests (short answer, essay) than for discrimination (multiple choice / true-false) (e.g. Kang et al, 2007). 
 
 This may be due to the [[Generation effect]].
-
-# Reference
-1. [Andy link](https://notes.andymatuschak.org/zTpJdbe6ub7uhBFLuHkFsrT)

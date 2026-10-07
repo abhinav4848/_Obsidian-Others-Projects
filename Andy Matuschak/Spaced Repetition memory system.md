@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zKGjQtsTKgscAoq271ZzKqw?stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=z2D1qPwddPktBjpNuwYFVva
+---
 # Spaced Repetition memory system
 A spaced-repetition memory system combines the [[Testing effect]] and the [[Spacing effect]]  to enable efficient memorization of many thousands of facts ([[Spaced repetition memory systems are extremely efficient]]). Some people also use them for a broader set of tasks (see below). [[Spaced repetition memory systems make memory a choice]], but they’re not just for rote facts: [[Spaced repetition memory systems can be used to develop conceptual understanding]].
 
@@ -66,6 +69,5 @@ The first consumer system of this kind was [[Supermemo]], created by [[Piotr W
     
     [How to Study for Exams - Spaced Repetition | Evidence-based revision tips](https://youtu.be/Z-zNHHpXoMM?t=64)
     
-2. [https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=z2D1qPwddPktBjpNuwYFVva](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=z2D1qPwddPktBjpNuwYFVva) 
 3. Branwen, G. (2009). Spaced Repetition for Efficient Learning. Retrieved December 16, 2019, from [https://www.gwern.net/Spaced-repetition](https://www.gwern.net/Spaced-repetition)
 4. [Who invented the name: spaced repetition? - supermemo.guru](https://supermemo.guru/wiki/Who_invented_the_name:_spaced_repetition%3F)

@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/z9Uq4yzBT1QaBU8twwyvm7P?stackedNotes=zEK6pjc61VLLZDNYssz7W7M
+URL: https://notes.andymatuschak.org/z9Uq4yzBT1QaBU8twwyvm7P
 ---
 # Elaborative encoding
 “Elaborative encoding” describes what we do when we relate knowledge to existing memories or experiences. Making these connections is thought to improve recall, particularly when connections are made to especially distinctive and emotionally-connected targets.
@@ -12,7 +11,6 @@ Some [[Spaced Repetition memory system]] users explicitly write prompts to pro
 Related: [[Retrieval practice appears to be a more effective learning activity than elaborative encoding]]
 
 # Reference
-1. [Andy Link](https://notes.andymatuschak.org/z9Uq4yzBT1QaBU8twwyvm7P)
 
 [Karpicke, J. D., & Blunt, J. R. (2011). Retrieval Practice Produces More Learning than Elaborative Studying with Concept Mapping. Science, 331(6018), 772–775](https://notes.andymatuschak.org/zFUBZG5yY1aKJ4hpak2jWPA)
 

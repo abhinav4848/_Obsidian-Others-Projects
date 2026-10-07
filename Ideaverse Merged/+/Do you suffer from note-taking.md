@@ -10,8 +10,11 @@ tags:
 URLs:
   - https://www.youtube.com/watch?v=bDKkwySrg-I
 rank:
+top:
+  - "[[Youtube Publisher 📽]]"
+aliases:
+- Do you suffer from note-taking_
 ---
-
 > [!Video]- Youtube Video
 > [The Surprising Truth About Note-Taking - YouTube](https://www.youtube.com/watch?v=bDKkwySrg-I)
 

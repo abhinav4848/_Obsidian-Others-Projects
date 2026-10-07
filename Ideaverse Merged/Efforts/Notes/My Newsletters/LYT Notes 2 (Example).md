@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[🗞️ Newsletter (OE) (Example)]]"
+  - "[[Ideaverse Merged/Efforts/Ongoing/🗞️ Newsletter (OE) (Example)]]"
 related: "[[Ideaverse Merged/Atlas/Dots/Sources/The Almagest]]"
 created: 2021-02-28
 tags:

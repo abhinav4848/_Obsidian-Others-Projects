@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zR6RRbCfY5rFkiimFnaJZKB?stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zKiPFE1KYieeAJs3cEaCtdf
+---
 # Evergreen note-writing helps reading efforts accumulate
 It’s important to [[Write about what you read to internalize texts deeply]], but instead of just writing about the specific book you’re reading, you can (and should) write your notes such that your reading observations accumulate over time as they interact with each other and with your own ideas (see [[Evergreen note-writing helps insight accumulate]], [[Knowledge work should accrete]]).
 
@@ -8,6 +11,3 @@ This is why part of why [[Evergreen notes should be concept-oriented]]: so that
 The notes you write will also produce the foundations of new manuscripts ([[Executable strategy for writing]]).
 
 This is one reason for [[Evergreen note-writing as fundamental unit of knowledge work]].
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zKiPFE1KYieeAJs3cEaCtdf) 

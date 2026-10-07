@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z2bSwDuxY2Jbv1ntLKB3SL1?stackedNotes=z9BbAQGiGNhty2SPHSwUzKM&stackedNotes=z5Vg36PMQMvZs2dzqM7fVz1
+---
 (Not sure if this note will/can be evergreen… so consider this some initial thinking as of 2022-06-06)
 
 It’s funny… when I was a kid, my computer was my place, the happy place, a place I’d escape to. Now I find myself not wanting to look at a computer at all outside of my morning working block. Which is sort of bad, since I want to e.g. read in the afternoon on it.
@@ -29,5 +32,3 @@ It’s funny… when I was a kid, my computer was my place, the happy place, a p
 
 Q. [Andrew Sutherland](https://notes.andymatuschak.org/Andrew_Sutherland)’s structural diagnosis?  (*not accessible note*)
 A. Zero-friction context switching
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/z2bSwDuxY2Jbv1ntLKB3SL1?stackedNotes=z9BbAQGiGNhty2SPHSwUzKM&stackedNotes=z5Vg36PMQMvZs2dzqM7fVz1)

@@ -1,10 +1,10 @@
 ---
 up:
-  - "[[Home Pro]]"
+  - "[[Ideaverse Merged/Home Pro]]"
 related:
-  - "[[Idea Accretion]]"
-  - "[[Idea Development]]"
-  - "[[Idea Maintenance]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Idea Accretion]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Idea Development]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Idea Maintenance]]"
 created: 2023-10-15
 tags:
   - map/view

@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/z5beUfpCZpi6fibB4vFfhzF
+URL: https://notes.andymatuschak.org/z5beUfpCZpi6fibB4vFfhzF
 ---
 # Quit Your Job - Wolf Tivy
 By [[Wolf Tivy]], in [Palladium Magazine](https://notes.andymatuschak.org/z159f2ooSvPMdnzdrHiTN32) [https://palladiummag.com/2022/01/06/quit-your-job/](https://palladiummag.com/2022/01/06/quit-your-job/)
@@ -59,6 +58,3 @@ In any case, Wolf correctly argues that one common reason people don’t quit is
 This makes me more optimistic about the recent surge of small grants (eg Emergent Ventures). “You’ll fund me for 3-12 months… but then what?!” Seems iffy if judged by how well it can launch well-defined projects. But maybe very promising for cultivating highly personal instincts.
 
 Last updated 2023-07-13.
-
-# Reference
-https://notes.andymatuschak.org/z5beUfpCZpi6fibB4vFfhzF

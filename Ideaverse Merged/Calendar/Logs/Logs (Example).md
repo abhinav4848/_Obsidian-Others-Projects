@@ -1,15 +1,15 @@
 ---
 up:
-  - "[[Home]]"
+  - "[[Ideaverse Merged/Home]]"
 related: []
 created: 2020-01-01
 in: 
-- "[[Maps]]"
+- "[[Ideaverse Merged/Atlas/Maps/Maps]]"
 ---
 I've included two sample logs for you:
 
-- [[Idea Log (Example)]]
-- [[🗞️ Newsletter (OE) (Example)]]
+- [[Ideaverse Merged/Calendar/Logs/Idea Log (Example)]]
+- [[Ideaverse Merged/Efforts/Ongoing/🗞️ Newsletter (OE) (Example)]]
 
 You might also consider these other popular logs:
 

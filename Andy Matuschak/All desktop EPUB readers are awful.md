@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zTnTob5JrFYF9NpU73Zg5a1?stackedNotes=z4aipv9wyMg4qZGANaVjkrJ&stackedNotes=zX95uZHiGWNiNTDF3wETWtq
+---
 # All desktop EPUB readers are awful
 It’s pretty shocking how bad e-book readers are on the desktop.
 
@@ -67,6 +70,3 @@ Only Kindle and Apple Books sync across devices. Kindle’s implementation is ve
     - No marginal notes
 - FBReader
     - Cross-platform abomination UI; awful typography
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zTnTob5JrFYF9NpU73Zg5a1&stackedNotes=z4aipv9wyMg4qZGANaVjkrJ&stackedNotes=zX95uZHiGWNiNTDF3wETWtq)

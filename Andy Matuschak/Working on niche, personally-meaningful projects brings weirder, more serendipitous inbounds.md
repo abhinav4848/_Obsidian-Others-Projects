@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zGD1FxbDZd7WnH7NrhRaVyC?stackedNotes=zTYb9ysCATFYCnvay3V5sF2&stackedNotes=zHV89H7dqnrvNvwXHBSGog9
+---
 # Working on niche, personally-meaningful projects brings weirder, more serendipitous inbounds
 
 It’s tempting to work on mass-audience projects because the scale makes high-impact results more likely. Such projects are often less striking, personal, bloody, etc. than their “weirder” alternatives. They might garner a lot more mass attention but a lot _less_ attention from unusual, singular people. Those people are frequently sources of surprising (and more meaningful) insights and opportunities.
@@ -6,7 +9,6 @@ Related: [[Obsession as high-order bit]]
 
 ---
 # References
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z7d63BYfJrd81VFE25jkcDd&stackedNotes=z4ULp2KUgq3hBCJMWTUnLDX&stackedNotes=zGD1FxbDZd7WnH7NrhRaVyC&stackedNotes=zTYb9ysCATFYCnvay3V5sF2&stackedNotes=zHV89H7dqnrvNvwXHBSGog9)
 - Conversation with Michael Nielsen, 2019/11/21
     - We were thinking about the 20th %ile outcomes of developing a weird experimental media studio, vs. trying to make deals with publishers to create mnemonic media of popular texts. The latter seems to have the better 20th %ile on the surface, but the former is much more likely to lead to the kinds of surprising connections we’ll find most exciting.
 - [A blog post is a very long and complex search query to find fascinating people and make them route interesting stuff to your inbox](https://www.henrikkarlsson.xyz/p/search-query?utm_source=substack&utm_medium=email) - Henrik Karlsson

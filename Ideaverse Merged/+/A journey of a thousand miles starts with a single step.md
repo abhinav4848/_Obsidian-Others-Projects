@@ -2,4 +2,4 @@
 
 by Laozi
 
-[[Habits Map]]
+[[Ideaverse Merged/Atlas/Maps/Habits Map]]

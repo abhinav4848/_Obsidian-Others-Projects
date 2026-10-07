@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zX95uZHiGWNiNTDF3wETWtq?stackedNotes=zBeBbzwU8LAyi2D5jqBJpS&stackedNotes=zJ4k4feCLspoCid7C4mzmvL
+---
 # Maintaining multiple reading positions is difficult when reading digitally
 
 When reading physical books (particularly during [[Inspectional reading]]), a skilled reader naturally maintains their reading position in multiple sections of the book simultaneously. For example, this might be a “stack” operation (keeping their place while referencing another), a “dog-earing” operation (accumulating a set of places to focus on; see Askwall), or a parallel reading operation (comparing several passages). Digital readers make this kind of operation very difficult.
@@ -12,5 +15,4 @@ The Amazon Kindle has a simple one-direction navigation stack for a limited set 
 
 ---
 # References
-1. [Andy Link](https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zTnTob5JrFYF9NpU73Zg5a1&stackedNotes=z4aipv9wyMg4qZGANaVjkrJ&stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zBeBbzwU8LAyi2D5jqBJpS&stackedNotes=zJ4k4feCLspoCid7C4mzmvL)
 2. Askwall, S. (1985). Computer supported reading vs reading text on paper: A comparison of two reading situations. _International Journal of Man-Machine Studies_, _22_(4), 425–439. ~[https://doi.org/10.1016/S0020-7373(85)80048-1](https://doi.org/10.1016/S0020-7373\(85\)80048-1)~

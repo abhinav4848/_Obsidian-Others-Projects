@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z4aipv9wyMg4qZGANaVjkrJ?stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zGsRWkonFv1KGAsWwiYA3he
+---
 # Few digital reading environments support marginal notes
 
 When reading a physical book, the natural thing to do is to scribble in the margins, next to the relevant passages. Or maybe to attach a sticky note at the relevant spot. But for whatever reason, digital reading environments almost never support this kind of interaction. Annotations are hidden away under some icon of a sticky note, or in a “notebook” which displays them in a flat list, de-spatialized and disconnected from the content.
@@ -13,6 +16,3 @@ Note that the location doesn’t need to be that physically precise. It’s just
 [Romat, H., Pietriga, E., Riche, N. H., Hinckley, K., & Appert, C. (2019, October 1). SpaceInk: Making Space for In-Context Annotations. UIST 2019 32nd ACM User Interface Software and Technology Symposium](https://notes.andymatuschak.org/z6b8dLPVoC57KBQWKCY2Dgq) has a nice interaction for making space for annotations.
 
 Amazon’s introduced “Active Canvas” for their Kindle Scribe in 2024, which implies a simplified SpaceInk-like interaction. EPUBs only. [Kindle Scribe 1 to get Active Canvas and Extended Margins in 2025](https://goodereader.com/blog/kindle/kindle-scribe-1-to-get-active-canvas-and-extended-margins-in-2025)
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zTnTob5JrFYF9NpU73Zg5a1&stackedNotes=z4aipv9wyMg4qZGANaVjkrJ&stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zGsRWkonFv1KGAsWwiYA3he)

@@ -8,7 +8,6 @@ excalidraw-onload-script: app.plugins.plugins[`excalibrain`].start(ea.targetView
 tags:
   - x/excalidraw
 ---
-
 # Text Elements
 Open a document in another pane and click it to get started.
 
@@ -35,7 +34,7 @@ in Excalidraw settings under 'Links and Transclusion'. ^4mylk7KK
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 0,
+			"Ideaverse Merged/x": 0,
 			"y": 0,
 			"strokeColor": "white",
 			"backgroundColor": "transparent",

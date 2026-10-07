@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z3QWwvfYS5exfZE53dKwt7r
+---
 [[Expertise requires building sophisticated chunk recoding schemes]], which can be achieved through effective practice (e.g. [[Purposeful practice, after Ericsson and Pool]]).
 
 The process appears somewhat automatic, insofar as experts aren’t usually thinking “I need to develop better chunks.” Rather, to study at the limits of your capacity means making progress _by way of_ encoding larger chunks—at least in some part.
@@ -14,5 +17,3 @@ Ericsson and Pool (2016) discuss this claim at length, but little evidence or ex
 
 # References
 Ericsson, A., & Pool, R. (2016). _Peak: Secrets from the New Science of Expertise_ (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [Peak - Ericsson and Pool](https://notes.andymatuschak.org/zEwJDpZiu1YQoXYznxioznL)
-# Source
-1. [Andy Link](https://notes.andymatuschak.org/z3QWwvfYS5exfZE53dKwt7r) 

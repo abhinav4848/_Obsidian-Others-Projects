@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Idea Emergence (defn)]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Things/Idea Emergence (defn)]]"
 related:
   - "[[Kate Bush, Stranger Things, & Idea Emergence]]"
 created: 2022-06-26

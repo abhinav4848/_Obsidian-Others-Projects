@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z5Rvwe2Wo2UvxHxLujUWnsa?stackedNotes=zTkRoDEXnMQqwb6uDxyA8Us&stackedNotes=zTgkGMCSgQes6NL1kCFZpEC
+---
 # Deliberate practice doesn’t have to be unenjoyable
 One of Ericsson’s classic attributes of [[Andy Matuschak/Deliberate practice|Deliberate practice]] is that it’s not inherently enjoyable, and in fact is generally less enjoyable than other relevant activities. When he writes this, he’s usually making a descriptive claim—describing properties of expert practice of this kin in the world—rather than a normative claim. But he suggests that the non-enjoyability is a natural consequence of deliberate practice being a) necessarily difficult/effortful; and b) primarily for improving performance.
 
@@ -15,7 +18,6 @@ I practice sight reading every day by reading new music that’s roughly at the 
 I think part of why DP often seems unenjoyable is that it doesn’t feel like legitimate participation in the practice, to use the language of [[Situated learning]]. It feels like a detached, decontextualized preparation for legitimate participation. But I think DP can often (usually? always?) be reframed authentically. My sight reading practice checks that box. Playing scales doesn’t. But playing scales _in the context of a piece_ does.
 
 ## References
-1. [Andy Link](https://notes.andymatuschak.org/z5Rvwe2Wo2UvxHxLujUWnsa?stackedNotes=zTkRoDEXnMQqwb6uDxyA8Us&stackedNotes=zTgkGMCSgQes6NL1kCFZpEC)
 2. [Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. Psychological Review, 100(3), 363](https://notes.andymatuschak.org/zEkCRJXM9NYCXxzFoDaNhL)
 3. Hyllegard, R., & Yamamoto, M. (2005). Testing Assumptions of Deliberate Practice Theory, Relevance, Effort, and Inherent Enjoyment of Practice on a Novel Task. Perceptual and Motor Skills, 101(1), 283–294. [https://doi.org/10.2466/pms.101.1.283-294](https://doi.org/10.2466/pms.101.1.283-294)
 4. My Twitter thread: [https://x.com/andy_matuschak/status/1778542381551530128](https://x.com/andy_matuschak/status/1778542381551530128)

@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/z9AH3dD42uGiJzR1WH1eo7n?stackedNotes=z8v56RCUFx6Zp6sBG6mTL95
+URL: https://notes.andymatuschak.org/z9AH3dD42uGiJzR1WH1eo7n?stackedNotes=z8v56RCUFx6Zp6sBG6mTL95
 ---
 # Unusual applications of spaced repetition memory systems
 While a [[Spaced Repetition memory system]] is primarily designed to help people remember facts, their flashcard mechanism can be used for a variety of other purposes.
@@ -33,6 +32,3 @@ Related: [[Spaced repetition systems as catechism]].
 [Ava (bookbear)](https://notes.andymatuschak.org/zDXasjuZCuuHMfqUyvXXNmf) [suggests](https://ava.substack.com/p/dear-bear-i-cant-get-over-my-ex?token=eyJ1c2VyX2lkIjo5NjczNTUsIl8iOiJhWURzZyIsImlhdCI6MTY0NjEwNjYwMywiZXhwIjoxNjQ2MTEwMjAzLCJpc3MiOiJwdWItMjM0MTciLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.s5x2srwmc1oPGplVkeU6UuYt9pvpt55-u4YbH3CYCsE&utm_source=url) that love is, in many ways, about repetition—choosing the same person or idea or way of being over and over again.
 
 I haven’t figured out how to write about this without it feeling too squishy, but spaced repetition has been a really interesting venue for experimenting with this sort of feeling. I have lots of prompts whose primary purpose is reinforcing my emotional connection to a person, or a place, or an ideal, or an idea. It sometimes feels like a misshapen emotional crutch, but sometimes it feels like it expands my capacity to love!
-
-# References
-1. [Andy Link](https://notes.andymatuschak.org/z9AH3dD42uGiJzR1WH1eo7n?stackedNotes=z8v56RCUFx6Zp6sBG6mTL95)

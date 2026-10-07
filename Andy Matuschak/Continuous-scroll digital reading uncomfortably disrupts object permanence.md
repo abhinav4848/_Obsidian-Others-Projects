@@ -1,4 +1,6 @@
-
+---
+URL: https://notes.andymatuschak.org/z9uM3R9kKGKfGowdMFWaSfH
+---
 # Continuous-scroll digital reading uncomfortably disrupts object permanence
 
 It’s painful to read endlessly-long articles on the web, which scroll continuously. I always set my e-book readers to flip, not scroll continuously. One key cause seems to be that continuous scrolling interactions disrupt object permanence.
@@ -16,4 +18,3 @@ Vandendorpe (2009) makes a similar argument (p123-124):
 ## References
 Vandendorpe, C. (2009). _From Papyrus to Hypertext: Toward the Universal Digital Library_. University of Illinois Press.
 
-1. Andy Link: [Continuous-scroll digital reading uncomfortably disrupts object permanence](https://notes.andymatuschak.org/z9uM3R9kKGKfGowdMFWaSfH) 

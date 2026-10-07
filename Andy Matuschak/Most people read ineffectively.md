@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z2Nv3jADtpYcgbCXww7nSEG
+---
 # Most people read ineffectively
 [[Knowledge work should accrete]], but most reading does not
 
@@ -10,5 +13,4 @@
 [[Skilful reading is often non-linear]], but most people read linearly. 
 
 # Reference
-1. [Andy Link](https://notes.andymatuschak.org/z2Nv3jADtpYcgbCXww7nSEG)
 2. Matuschak, A. (2019 0). _Why books don’t work_. [https://andymatuschak.org/books](https://andymatuschak.org/books) 

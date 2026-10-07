@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/z2huUCj3ko99HdzFcmEDfZD
+URL: https://notes.andymatuschak.org/z2huUCj3ko99HdzFcmEDfZD
 ---
 # Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes
 
@@ -44,5 +43,4 @@ Quote fromÂ [Alan Kay](https://notes.andymatuschak.org/zFBZqhTcPEXWpvTLYjgb9qG)Â
 > 
 
 # References
-1. [Andy Link](https://notes.andymatuschak.org/z2huUCj3ko99HdzFcmEDfZD)
 2. Direct link: [Powerful enabling environments usually arise as a byproduct of projects pursuing their own intrinsically meaningful purposes](https://notes.andymatuschak.org/z2huUCj3ko99HdzFcmEDfZD) 

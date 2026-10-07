@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Habits Map]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Habits Map]]"
 related:
   - "[[Ideaverse Merged/Atlas/Dots/Things/On the process of note-making]]"
 created: 2019-01-25

@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zWoEKdbmtbSgAp1tZjU4usY?stackedNotes=zD8D8PPRBDEFk3JeM2vaWrn&stackedNotes=zXxUPAFZBthh97wAKBEj7Tq
+---
 # “Chunks” in human cognition
 
 When considering human information processing capacity, [[Working memory span is mostly independent of item complexity]], so we must distinguish between the *number* of items being processed (a **”chunk”**, limited by [[Span of working memory]]) and the *complexity* of each item (separately limited by [Span of absolute judgment](https://notes.andymatuschak.org/zMQK1sFXWbVMbSQAsjSTUvm)). —> No need to expand these links any further. 
@@ -9,7 +12,3 @@ Miller writes (1956, p. 92):
 Critically: [[Human channel capacity increases with bits-per-chunk]] and [Recoding can increase chunk size](https://notes.andymatuschak.org/z3p78NbwsU2Pi1t3Q24psfB).
 
 Especially with more complex recoding schemes, chunks can represent fairly abstract attributes: e.g. a musician thinking about “tension” when improvising, or a chess player thinking about “lines of force.”
-
-# Reference
-
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k&stackedNotes=zLhoRUyjKU665EY16u4XXJy&stackedNotes=z2hQEhqWkdRLL9JUwfawZZx&stackedNotes=z8ccRLda8BqJafNxjQBpzis&stackedNotes=zES5WRczfGgXptmM9tSCwvy&stackedNotes=zMybAxZcdkJHKSATuSZbEhz&stackedNotes=zUR6RM21Sa88cFDfC47svVv&stackedNotes=z26C6ing3sqiZMHRVFuT6xn&stackedNotes=zTpJdbe6ub7uhBFLuHkFsrT&stackedNotes=zWoEKdbmtbSgAp1tZjU4usY&stackedNotes=zD8D8PPRBDEFk3JeM2vaWrn&stackedNotes=zXxUPAFZBthh97wAKBEj7Tq)

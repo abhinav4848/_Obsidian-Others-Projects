@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zKtYU4Uk7aTCGyqHr9Ca3Sb&stackedNotes=zaDSgGYrcUSuQty6WSMm2H
+---
 # Most experimental psychology on learning involves people learning things they don’t care about
 
 We have about nearly a century of experimental psychology, both before pre- and post-[[Cognitivism]]. There are thousands of papers describing various attributes of how people learn. But I feel it’s important to remember that the overwhelming majority of this research studies people learning things they don’t actually care about—either synthetic material in a lab setting or students in a school classroom.
@@ -10,6 +13,3 @@ This is the general case of [[Most (especially early) experimental literature o
 
 Related:
 - [[Tools for thought should be evaluated in the context of intrinsically meaningful purposes]]
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zKtYU4Uk7aTCGyqHr9Ca3Sb&stackedNotes=zaDSgGYrcUSuQty6WSMm2H)

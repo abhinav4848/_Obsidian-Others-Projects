@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zB74H9CuWrosEuqve7jZyCo?stackedNotes=zRbqwbnhmVdfLtKxMCibMoX&stackedNotes=z6Y1zo4evjFNUim1nHtL6Sv
+---
 # Writing forces sharper understanding
 Writing is a great way to put pressure on your thinking: it’s hard to summarize something you don’t sharply understand. By trying to explain an idea, you’ll naturally try multiple framings, flesh out its edges, and see new connections. This is part of why [[Evergreen note-writing helps insight accumulate]] and why you should [[Write about what you read to internalize texts deeply]].
 
@@ -24,7 +27,6 @@ This observation appears to be true even for non-prose writing: [[Many eminent 
     - It’s hard to see what’s *not* said in a text. By integrating our reading observations with prior notes, we’re naturally confronted with rocks the author may have left unturned. [Writing forces sharper understanding](https://notes.andymatuschak.org/zRbqwbnhmVdfLtKxMCibMoX)
 
 # Reference
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zFuk9QqspNYHAgvzZc33ZGH&stackedNotes=zDXBGEWk7msyonQ2Ngnrf8h&stackedNotes=zB74H9CuWrosEuqve7jZyCo&stackedNotes=zRbqwbnhmVdfLtKxMCibMoX&stackedNotes=z6Y1zo4evjFNUim1nHtL6Sv)
 - Kant, I. (1996). An answer to the question: What is enlightenment? In A. Wood (Ed.), & M. J. Gregor (Trans.), *Practical philosophy* (pp. 11–22). [https://doi.org/10.1017/CBO9780511813306.005](https://doi.org/10.1017/CBO9780511813306.005) (Original work published 1784)
     
     > Enlightenment is the human being’s emergence from his self-incurred minority. Minority is inability to make use of one’s own understanding without direction from another. This minority is self-incurred when its cause lies not in lack of understanding but in lack of resolution and courage to use it without direction from another. Sapere aude! Dare to be wise!

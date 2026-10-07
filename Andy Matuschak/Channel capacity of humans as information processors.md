@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zDcuS8A5uxGR8hQygsqP83A&stackedNotes=zQvwwb95vzcHcpow3GWy5Wi&stackedNotes=zWWh96dE6YZYmDCoo37977X&stackedNotes=z6sX7ZcYdPiya3SzQ5segaq&stackedNotes=zBy719GfxuM9x1FioHdUpNn
+URL: https://notes.andymatuschak.org/zWWh96dE6YZYmDCoo37977X?stackedNotes=z6sX7ZcYdPiya3SzQ5segaq&stackedNotes=zBy719GfxuM9x1FioHdUpNn
 ---
 # Channel capacity of humans as information processors
 One way to examine the limits of human information processing is to ask how much information can a person can reproduce from some stimulus they observe. In this framing, we can model the observer as a communications channel using tools from information theory. This figure (Pollack, 1953, p. 422) depicts the model:  
@@ -23,7 +22,6 @@ A. Channel capacity is expressed in bits. If the span of absolute judgment is 8 
 
 ---
 # References
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zDcuS8A5uxGR8hQygsqP83A&stackedNotes=zQvwwb95vzcHcpow3GWy5Wi&stackedNotes=zWWh96dE6YZYmDCoo37977X&stackedNotes=z6sX7ZcYdPiya3SzQ5segaq&stackedNotes=zBy719GfxuM9x1FioHdUpNn)
 2. Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63(2), 81–97. [https://doi.org/10.1037/h0043158](https://doi.org/10.1037/h0043158) [Miller - The magical number seven, plus or minus two](https://notes.andymatuschak.org/zNCrrN6aGXeuiVXgnoiT7ND)
 3. Pollack, I. (1952). The Information of Elementary Auditory Displays. The Journal of the Acoustical Society of America, 24(6), 745–749. [https://doi.org/10.1121/1.1906969](https://doi.org/10.1121/1.1906969)
 4. Pollack, I. (1953). Assimilation of Sequentially Encoded Information. The American Journal of Psychology, 66(3), 421–435. JSTOR. [https://doi.org/10.2307/1418237](https://doi.org/10.2307/1418237)

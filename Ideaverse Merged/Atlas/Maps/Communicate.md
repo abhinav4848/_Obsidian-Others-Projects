@@ -1,12 +1,12 @@
 ---
 up:
-  - "[[Home]]"
+  - "[[Ideaverse Merged/Home]]"
 related:
-  - "[[Add]]"
-  - "[[Relate]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Add]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Relate]]"
 created: 2022-01-01
 in: 
-- "[[Views]]"
+- "[[Ideaverse Merged/Atlas/Maps/Views]]"
 ---
 This **Communicate** notes is a place to track your various *outputs*.
 

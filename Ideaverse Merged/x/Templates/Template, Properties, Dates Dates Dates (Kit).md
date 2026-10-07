@@ -9,7 +9,6 @@ encountered: {{date}}
 coined: {{date}}
 presented: {{date}}
 ---
-
 More to being reminded to consider
 
 touched: {{date}}

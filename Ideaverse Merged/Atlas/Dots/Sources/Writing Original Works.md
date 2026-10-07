@@ -3,11 +3,11 @@ up:
 related:
   - "[[Ideaverse Merged/Atlas/Dots/Sources/The LYT Workshop]]"
   - "[[Ideaverse Merged/Atlas/Dots/Sources/Obsidian Flight School]]"
-  - "[[Ideaverse Pro]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Sources/Ideaverse Pro]]"
 created: 2024-10-08
 in:
-  - "[[Courses]]"
-  - "[[Sources]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Courses]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Sources]]"
 URL: https://www.linkingyourthinking.com/wow
 version:
   - "1.5"

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Habits Map]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Habits Map]]"
 created: 2013-03-10
 ---
 

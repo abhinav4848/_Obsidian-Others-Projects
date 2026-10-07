@@ -1,15 +1,17 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/ACE Folder Framework]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Things/ACE Folder Framework]]"
 related:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/ACE helps you with context switching]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Statements/ACE helps you with context switching]]"
 created: 2023-08-21
+aliases:
+- ACE honors the 3 headspaces of PKM
 ---
-In PKM, there are three main Head Spaces to move between.
+ In PKM, there are three main headspaces (or "thinking orientations") to move between.
 
-- Knowledge-based (The Atlas folder)
-- Time-based (The Calendar folder)
-- Action-based (The Efforts folder)
+- Atlas for Knowledge-based thinking
+- Calendar for Time-based thinking
+- Efforts for Action-based thinking
 
 You may find yourself completely immersed in a single headspace (a single folder), while completely neglecting the other two. You may even start to question if you need the other two folders.
 
@@ -26,4 +28,4 @@ Don’t worry, _**life is long and the pendulum will swing.**_
 
 See how this is working?
 
-ACE acknowledges and supports the 3 Head Spaces of PKM.
+ACE acknowledges and supports the 3 Headspaces of PKM.

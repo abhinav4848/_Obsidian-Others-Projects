@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z2qjVZKqSqrqkhFhvUpPDtd?stackedNotes=zQvbnYfHdG1gARTbtC4pje6&stackedNotes=zKBhqUkoRWoNV72aG21GYst
+---
 # Are literature notes necessary if we have automatic universal backlinks?
 [[Literature notes are secondary and separate]], but are they necessary at all? Are they only necessary because you might want to *start* a walk through your notes from a specific reference that happened to come up, and it’s awkward to find all the notes which refer to a specific reference?
 
@@ -10,5 +13,4 @@ Would such curated associations even need to be textual? Is it sufficient to for
 Related: [[How should note tagging practices change with ranked link visualization]]?
 
 # References
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zFuk9QqspNYHAgvzZc33ZGH&stackedNotes=zDXBGEWk7msyonQ2Ngnrf8h&stackedNotes=zB74H9CuWrosEuqve7jZyCo&stackedNotes=zRbqwbnhmVdfLtKxMCibMoX&stackedNotes=zH7AVUkqYYK7xmoAn8PTpAV&stackedNotes=z2qjVZKqSqrqkhFhvUpPDtd&stackedNotes=zQvbnYfHdG1gARTbtC4pje6&stackedNotes=zKBhqUkoRWoNV72aG21GYst)
 2. Luhmann, N. (1992). Communicating with Slip Boxes. In A. Kieserling (Ed.), & M. Kuehn (Trans.), *Universität als Milieu: Kleine Schriften* (pp. 53–61). Retrieved from [http://luhmann.surge.sh/communicating-with-slip-boxes](http://luhmann.surge.sh/communicating-with-slip-boxes)

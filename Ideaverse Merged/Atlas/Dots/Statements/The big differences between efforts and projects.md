@@ -1,9 +1,9 @@
 ---
 up:
-  - "[[Efforts]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Efforts]]"
 related:
-  - "[[Ideaverse Merged/Atlas/Maps/Why Efforts are Liberating]]"
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/How ideas and efforts play nicely together]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Statements/Why Efforts are Liberating]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Statements/How ideas and efforts play nicely together]]"
 created: 2022-09-01
 ---
 Let's get the definitions right:
@@ -34,4 +34,4 @@ Instead, efforts and projects work in tandem: a smaller project organically spin
 > Efforts are expandable.
 
 
-Learn [[Ideaverse Merged/Atlas/Notes/Ideas/How ideas and efforts play nicely together]].
+Learn [[Ideaverse Merged/Atlas/Dots/Statements/How ideas and efforts play nicely together]].

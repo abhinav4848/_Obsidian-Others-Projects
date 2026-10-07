@@ -1,21 +1,42 @@
 ---
 up:
-  - "[[People Map]]"
+- '[[Ideaverse Merged/Atlas/Maps/People Map]]'
+- '[[Art & Science Storytelling MOC]]'
 related: []
 created: 2020-06-01
 tags:
-  - people
+- people
+- people/p
 dates: 1934 - 1996
+in:
+  - "[[Ideaverse Merged/Atlas/Maps/People]]"
+peopleType:
+  - Prominent
+peopleDomain:
+  - Science & Tech
+peopleGroups:
+lifespan: 1934 - 1996
+finalAge: "62"
+culturalEra:
+culturalWorks:
+image: http://www.heikegani.com/wp-content/uploads/2012/11/sagan.jpg
+aliases:
+- Carl Sagan
 ---
-
 Carl Sagan has earned my highest praise out of basically anyone I know.
 
-When I think of Carl Sagan, I think of [[Ideaverse Merged/Atlas/Dots/People/Mihaly Csikszentmihalyi (kit)]]. What Carl Sagan did for my love of the cosmos, [[Ideaverse Merged/Atlas/Dots/People/Mihaly Csikszentmihalyi (kit)]] did for my love of [[Ideaverse Merged/Atlas/Dots/Things/Flow]]. Both have enriched my life.
+> [!Abstract]+ In a simple effort of note-making, I wrote the following...
+> When I think of Carl Sagan, I think of [[Ideaverse Merged/Atlas/Dots/People/Mihaly Csikszentmihalyi (kit)]]. What Carl Sagan did for my love of the cosmos, [[Ideaverse Merged/Atlas/Dots/People/Mihaly Csikszentmihalyi (kit)]] did for my love of [[Ideaverse Merged/Atlas/Dots/Things/Flow]]. Both have enriched my life.
 
-- That reminds me...
-- It's similar because...
-- It's different because...
-- It's important because...
+> [!question]- What just happened above?
+> Just by making my thoughts visible and typing them out, I went through the NoMa Method. NoMa stands for Note-Making. In just `34 words` I've already gone through the big 4 prompts:
+> 
+> - That reminds me...
+> - It's similar because...
+> - It's different because...
+> - It's important because...
+
+---
 
 > [!NOTE]- Some links and content in this note have been removed.
 > Because this is a vertical slice of my actual PKM system, I can't include everything in this vault and left out some notes and material for ease of navigation and understanding the concepts (rather than getting lost in the knowledge) as well as for privacy. 

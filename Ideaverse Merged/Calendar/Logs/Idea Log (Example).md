@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Logs (Example)]]"
+  - "[[Ideaverse Merged/Calendar/Logs/Logs (Example)]]"
 created: 2020-01-01
 ---
 

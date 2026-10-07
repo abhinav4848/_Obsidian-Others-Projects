@@ -1,11 +1,21 @@
 ---
 up:
   - "[[Ideaverse Merged/Atlas/Dots/Things/Chunking]]"
-related: []
+related:
+  - "[[Ideaverse Merged/Atlas/Dots/Things/Chunking]]"
 created: 2020-06-01
 tags:
   - people
 dates: 1945 -
+in:
+  - "[[Ideaverse Merged/Atlas/Maps/People]]"
+lifespan: 1945 -
+peopleType:
+  - Prominent
+peopleDomain:
+  - Science & Tech
+peopleGroups:
+image: https://www.babelio.com/users/AVT_Douglas-Richard-Hofstadter_6840.jpg
 ---
 While he has been in the public light for decades, my first concentrated exposure to Hofstadter was his 2009 Presidential Lecture: [[Ideaverse Merged/Atlas/Dots/Sources/Analogy as Core (talk)]]. It's clear he's a fun and fascinating thinker. 
 

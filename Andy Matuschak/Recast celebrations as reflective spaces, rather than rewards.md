@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/z4dnHytTo3WGoqbHfVb4YRn
+URL: https://notes.andymatuschak.org/z4dnHytTo3WGoqbHfVb4YRn
 ---
 # Recast celebrations as reflective spaces, rather than rewards
 I’ve worked hard to cultivate [[Process over product]]. That stance still feels delicate, perhaps a little brittle. My natural emotional response pattern is to fixate on outputs and achievements; it feels like I have to carefully shepherd my mental states away from that. In this context, what to do when I’ve just finished a big project or received a big grant? Celebration feels “dangerous”: it’s so much louder and more visceral, emotionally, than the subtle enjoyment in day-to-day creative work.
@@ -14,6 +13,3 @@ For this first celebration, Sara and I went to Tunnel Top Park—hadn’t been b
 For instance, I noticed that last time I’d reached a point like this, I felt quite apprehensive about a particular category of next step; and this time, when the next step was in the same category, I didn’t. I noticed quiet feelings, like a slowly growing sense of safety or stability around this work.
 
 But I didn’t feel hyper-stimulated. This didn’t feel like something I’d be grasping toward. If obstacles arise between me and some success, I don’t expect I’d flinch away because I’d been using a celebration like this as my carrot.
-
-# References
-1. [Andy Link](https://notes.andymatuschak.org/z4dnHytTo3WGoqbHfVb4YRn)

@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zBeBbzwU8LAyi2D5jqBJpS?stackedNotes=zCRXo3avHi3fNuw43BHM8ch&stackedNotes=zSL87LuijMXkMput8dd1f61
+---
 # We lack UI patterns for non-destructive filtering and rearrangement on a 2D canvas
 If you have a table of information, we have a litany of standard patterns for manipulating it non-destructively: you can filter; you can sort; you can manually reorder; you can hide individual elements; etc.
 
@@ -13,5 +16,4 @@ Related:
 - [Physical cut and paste is a parallel act involving informal intermediate states](https://notes.andymatuschak.org/zCRXo3avHi3fNuw43BHM8ch)
 
 ## References
-1. [Andy Link](https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zTnTob5JrFYF9NpU73Zg5a1&stackedNotes=z4aipv9wyMg4qZGANaVjkrJ&stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zBeBbzwU8LAyi2D5jqBJpS&stackedNotes=zCRXo3avHi3fNuw43BHM8ch&stackedNotes=zSL87LuijMXkMput8dd1f61)
 This observation came up during a jam session with [Taylor Rogalski](https://notes.andymatuschak.org/Taylor_Rogalski) on [2022-10-17](https://notes.andymatuschak.org/2022-10-17).

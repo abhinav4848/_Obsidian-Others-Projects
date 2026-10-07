@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/z9Uq4yzBT1QaBU8twwyvm7P?stackedNotes=zUR6RM21Sa88cFDfC47svVv&stackedNotes=zCQYRYZTQRmrR4bFGCzCMkR&stackedNotes=zF9BD4B7W9MaknXXn3Uhvox&stackedNotes=zVdb1Ku6fzVAFP5A6BhBbWR
+URL: https://notes.andymatuschak.org/zCQYRYZTQRmrR4bFGCzCMkR?stackedNotes=zF9BD4B7W9MaknXXn3Uhvox&stackedNotes=zVdb1Ku6fzVAFP5A6BhBbWR
 ---
 # Moore method
 An [[Inquiry-based learning]] method used by mathematician Robert Lee Moore. Students generally aren’t allowed to read any texts on the subject [1]; instead, they’re given basic axioms and definitions, and asked to find proofs themselves for the sequence of theorems which might otherwise be presented in lecture. Lectures are absent; during class meetings, students are asked to prove the theorems they’re assigned. Students are meant to work alone[2], and they prove theorems in class individually, rotating only when one student can’t complete the proof.
@@ -20,7 +19,6 @@ For McLoughlin, in particular, part of the point of this method is that it encou
 2. Cohen (1982) has undergrads work in teams of 2-3.
 
 # Reference
-1. [Andy Link](https://notes.andymatuschak.org/z9Uq4yzBT1QaBU8twwyvm7P?stackedNotes=zUR6RM21Sa88cFDfC47svVv&stackedNotes=zCQYRYZTQRmrR4bFGCzCMkR&stackedNotes=zF9BD4B7W9MaknXXn3Uhvox&stackedNotes=zVdb1Ku6fzVAFP5A6BhBbWR)
 - [Moore method - Wikipedia](https://en.wikipedia.org/wiki/Moore_method)
 - Chalice, D. R. (1995). How to Teach a Class by the Modified Moore Method. The American Mathematical Monthly, 102(4), 317–321. [https://doi.org/10.1080/00029890.1995.11990577](https://doi.org/10.1080/00029890.1995.11990577)
 - Cohen, D. W. (1982). A Modified Moore Method for Teaching Undergraduate Mathematics. The American Mathematical Monthly, 89(7), 473–490. [https://doi.org/10.1080/00029890.1982.11995481](https://doi.org/10.1080/00029890.1982.11995481)

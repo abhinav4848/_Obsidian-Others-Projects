@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Ideaverse Map]]"
+  - "[[Ideaverse Merged/Ideaverse Map]]"
 created: 2023-08-29
 ---
 What would it feel like to have all your ideas, available to you, reliably, at any time?

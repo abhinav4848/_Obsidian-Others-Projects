@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zojJRcfGstU2Ss6JRMzd15?stackedNotes=z8Ubad66AWp7ZLShUmRu3vu&stackedNotes=zLdprTyt7Ca2z2LUGLtFMSs
+---
 # Do your own thinking
 Beware: it’s too easy to let others’ schema and ideas dominate your own. [[It’s hard to hear yourself think]].
 
@@ -13,7 +16,6 @@ Per Kant:
 One key antidote: [[Write about what you read to internalize texts deeply]]
 
 # References
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zFuk9QqspNYHAgvzZc33ZGH&stackedNotes=zDXBGEWk7msyonQ2Ngnrf8h&stackedNotes=zB74H9CuWrosEuqve7jZyCo&stackedNotes=zRbqwbnhmVdfLtKxMCibMoX&stackedNotes=zH7AVUkqYYK7xmoAn8PTpAV&stackedNotes=z2qjVZKqSqrqkhFhvUpPDtd&stackedNotes=zQvbnYfHdG1gARTbtC4pje6&stackedNotes=zojJRcfGstU2Ss6JRMzd15&stackedNotes=z8Ubad66AWp7ZLShUmRu3vu&stackedNotes=zLdprTyt7Ca2z2LUGLtFMSs)
 2. Kant, I. (1996). An answer to the question: What is enlightenment? In A. Wood (Ed.), & M. J. Gregor (Trans.), *Practical philosophy* (pp. 11–22). [https://doi.org/10.1017/CBO9780511813306.005](https://doi.org/10.1017/CBO9780511813306.005) (Original work published 1784)
 3. Schopenhauer, A. (2015). On reading and books. In C. Janaway (Ed.), & A. Del Caro (Trans.), *Parerga and Paralipomena: Short Philosophical Essays* (Vol. 2). [https://doi.org/10.1017/CBO9781139016889](https://doi.org/10.1017/CBO9781139016889) (Original work published 1851)
 4. On Buckminster Fuller, in [[The Independent Scholars Handbook - Richard Gross]] (pp 191-192)

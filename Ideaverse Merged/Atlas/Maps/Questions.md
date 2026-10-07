@@ -1,8 +1,8 @@
 ---
 up:
-  - "[[Statements]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Statements]]"
 in:
-  - "[[Collections]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Collections]]"
 created: 2023-11-26
 tags:
   - map/view
@@ -44,7 +44,7 @@ tags:
 >  file.link as "Questions",
 >  (date(today) - file.cday).day as "Days alive"
 >  
-> FROM "Atlas/Notes/Statements/Questions"
+> FROM "Ideaverse Merged/Atlas/Dots/Statements/Questions"
 > 
 > SORT file.ctime desc
 > ```

@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zMbCwoVdjsqPNyTRRr3phPN?stackedNotes=zMX9Lfuz8sGfDUivWZcyWT
+---
 # Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do
 
 Top-tier athletes are fanatically disciplined about improving their foundational skills—skills which transcend any sport, the same kind of agility drills you might see an army recruit do. Top-tier musicians do likewise: Lang Lang, for instance, is still working on his scales after 30 years as a concert pianist. They’re not just doing rote drills: they’re working to improve those skills critically, poring over performance videos and working with coaches.
@@ -24,7 +27,6 @@ What might it mean for knowledge workers to fanatically pursue virtuosity in the
 ---
 
 # Reference
-1. [Andy Link](https://notes.andymatuschak.org/zMbCwoVdjsqPNyTRRr3phPN?stackedNotes=zMX9Lfuz8sGfDUivWZcyWT)
 2. 
 I first asked the core question (“what might it mean for knowledge workers…?”) in my Emergent Ventures grant application, 2019-05-13
 

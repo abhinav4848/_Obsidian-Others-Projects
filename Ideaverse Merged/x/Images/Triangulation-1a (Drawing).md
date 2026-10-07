@@ -1,7 +1,5 @@
 ---
-
 excalidraw-plugin: parsed
-
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
@@ -33,7 +31,7 @@ You ^zylkuhPz
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -190.04732360839841,
+			"Ideaverse Merged/x": -190.04732360839841,
 			"y": -179.34188842773438,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -59,7 +57,7 @@ You ^zylkuhPz
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 232.26755879720065,
+			"Ideaverse Merged/x": 232.26755879720065,
 			"y": -157.0020731608073,
 			"strokeColor": "#b9c1d4",
 			"backgroundColor": "#dbd5ff",
@@ -85,7 +83,7 @@ You ^zylkuhPz
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 5.799179294374664,
-			"x": 187.85158010416168,
+			"Ideaverse Merged/x": 187.85158010416168,
 			"y": -169.80803207482575,
 			"strokeColor": "#b9c1d4",
 			"backgroundColor": "#dbd5ff",
@@ -118,7 +116,7 @@ You ^zylkuhPz
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 5.946123498956402,
-			"x": 196.27833632748343,
+			"Ideaverse Merged/x": 196.27833632748343,
 			"y": -128.75330342768112,
 			"strokeColor": "#b9c1d4",
 			"backgroundColor": "#dbd5ff",
@@ -151,7 +149,7 @@ You ^zylkuhPz
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -177.11763610839841,
+			"Ideaverse Merged/x": -177.11763610839841,
 			"y": -162.64755249023438,
 			"strokeColor": "#2f3136",
 			"backgroundColor": "#dbd5ff",
@@ -184,7 +182,7 @@ You ^zylkuhPz
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 238.25828145345065,
+			"Ideaverse Merged/x": 238.25828145345065,
 			"y": -153.3470438639323,
 			"strokeColor": "#b9c1d4",
 			"backgroundColor": "#dbd5ff",

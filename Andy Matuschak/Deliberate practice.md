@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z5Rvwe2Wo2UvxHxLujUWnsa?stackedNotes=zTkRoDEXnMQqwb6uDxyA8Us
+---
 # Deliberate practice
 “Deliberate practice” (Ericsson et al, 1993) describes:
 - high-effort, high-difficulty activities…
@@ -17,6 +20,5 @@ See criticism, reviewed here (Cedric Chin): [The Problems with Deliberate Pract
 ---
 
 # References
-1. [Andy Link](https://notes.andymatuschak.org/z5Rvwe2Wo2UvxHxLujUWnsa?stackedNotes=zTkRoDEXnMQqwb6uDxyA8Us)
 2. Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. _Psychological Review_, _100_(3), 363. [Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. Psychological Review, 100(3), 363](https://notes.andymatuschak.org/zEkCRJXM9NYCXxzFoDaNhL) 
 3. Ericsson, A., & Pool, R. (2016). _Peak: Secrets from the New Science of Expertise_ (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [Peak - Ericsson and Pool](https://notes.andymatuschak.org/zEwJDpZiu1YQoXYznxioznL)

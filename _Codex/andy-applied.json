@@ -1,0 +1,14 @@
+{
+  "backup": "E:\\Drive Sync PCS\\Obsidian\\_Popular Vaults Merged (Obsidian)\\_Codex\\backups\\andy-before-2026-10-07.zip",
+  "stats": {
+    "notes_scanned": 455,
+    "notes_updated": 343,
+    "source_properties_standardized": 339,
+    "without_explicit_source": 116,
+    "source_lines_moved": 339,
+    "distinct_long_chains_shortened": 187,
+    "notes_with_corrected_source_conflicts": 3,
+    "notes_with_format_repairs": 2,
+    "other_navigation_links_shortened": 7
+  }
+}

@@ -1,14 +1,15 @@
 ---
 up:
-  - "[[Meta PKM]]"
-related: 
+  - "[[Ideaverse Merged/Atlas/Maps/Meta PKM]]"
+related:
 created: 2023-08-18
 tags:
   - x/readme
 version:
   - "1.5"
+aliases:
+- + About Utilities
 ---
-
 Think of the `x` folder in the [[Ideaverse Merged/Atlas/Dots/Things/ACE Folder Framework]] as the toolbox for your notes. 
 
 These notes *support* your other notes.
@@ -18,3 +19,4 @@ These notes *support* your other notes.
 You may also want to keep specialty files here like:
 - `Canvas` files (which are .json files)
 - `Excalidraw` files (which are remarkably still regular markdown .md files)
+The Pro reference also supplies `Prompts` and `Scripts`; these remain in `x/Prompts` and `x/Scripts`.

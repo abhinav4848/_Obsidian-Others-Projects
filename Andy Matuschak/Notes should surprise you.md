@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z4EXkuLjdBrBZe7PVAGXc5a?stackedNotes=zKiPFE1KYieeAJs3cEaCtdf&stackedNotes=zYaWNLqGvd3uLPDXkhRoWoq
+---
 # Notes should surprise you
 If reading and writing notes doesn’t lead to surprises, what’s the point?
 
@@ -8,7 +11,6 @@ This is why we have dense networks of links ([[Evergreen notes should be densely
 This is why we take [[Evergreen notes should be concept-oriented]]: so that when writing about an idea that seems new, we stumble onto what we’ve already written about it (perhaps unexpectedly).
 
 # References
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zKiPFE1KYieeAJs3cEaCtdf&stackedNotes=zYaWNLqGvd3uLPDXkhRoWoq)
 2. Luhmann, N. (1992). Communicating with Slip Boxes. In A. Kieserling (Ed.), & M. Kuehn (Trans.), *Universität als Milieu: Kleine Schriften* (pp. 53–61). Retrieved from [http://luhmann.surge.sh/communicating-with-slip-boxes](http://luhmann.surge.sh/communicating-with-slip-boxes)
 3. One of the most basic presuppositions of communication is that the partners can mutually surprise each other. Only in the way can information be produced in the respective other.
 4. [Extend Your Mind and Memory With a Zettelkasten • Zettelkasten Method](https://zettelkasten.de/posts/extend-your-mind-and-memory-with-a-zettelkasten/)

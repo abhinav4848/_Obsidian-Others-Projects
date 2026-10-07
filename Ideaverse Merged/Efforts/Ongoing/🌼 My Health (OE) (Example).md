@@ -1,14 +1,19 @@
 ---
 up:
-  - "[[Home]]"
+- '[[Ideaverse Merged/Home]]'
+- '[[Ideaverse Merged/Home Pro]]'
 related: []
 created: 2010-01-01
 in: 
-- "[[Maps]]"
+- "[[Ideaverse Merged/Atlas/Maps/Maps]]"
 rank: "2"
+tags:
+  - map
+aliases:
+- My Health (OE) (Example)
 ---
 This is for areas of physical health, wellness, training, and exercise. 
-Fuzzy areas like [[🌼 My Health (OE) (Example)]] and [[💰 My Finance (OE) (Example)]] are both maps and efforts.
+Fuzzy areas like [[Ideaverse Merged/Efforts/Ongoing/🌼 My Health (OE) (Example)]] and [[Ideaverse Merged/Efforts/Ongoing/💰 My Finance (OE) (Example)]] are both maps and efforts.
 
 - Overall
 	- [[Physical Training MOC]]

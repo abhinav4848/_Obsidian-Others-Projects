@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/zSoTbuyrXFnDHibaSeEzPRx
+URL: https://notes.andymatuschak.org/zSoTbuyrXFnDHibaSeEzPRx
 ---
 # Asking people questions while they read a text improves performance on untested contents
 Beyond the [[Testing effect]], answering questions while reading a text ([[Adjunct questions]]) promotes better *general* absorption, including of unrelated, untested material from the text. See references for more.
@@ -12,7 +11,6 @@ Does this affect apply only to related-though-not-directly-tested material from 
 See also: [[Mnemonic medium prompts are interleaved into the reading experience]] .
 
 # Reference
-1. [Andy Link](https://notes.andymatuschak.org/zSoTbuyrXFnDHibaSeEzPRx) 
 - Reviews
     - [Anderson, R. C., & Biddle, W. B. (1975). On Asking People Questions about What They are Reading. In Psychology of Learning and Motivation (Vol. 9, pp. 89–132). Elsevier](https://notes.andymatuschak.org/zWQxgb82VhMqsuL71KGWHpW)
     - Hamaker, C. (1986). The Effects of Adjunct Questions on Prose Learning. Review of Educational Research, 56(2), 212–242. [https://doi.org/10.3102/00346543056002212](https://doi.org/10.3102/00346543056002212)

@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/z5aepnaCuu6XiPqB4LgBDkH
+URL: https://notes.andymatuschak.org/zMybAxZcdkJHKSATuSZbEhz?stackedNotes=z59PYkSdPeznr95fco4GRQx&stackedNotes=z5aepnaCuu6XiPqB4LgBDkH
 ---
 # The mnemonic medium may push readers to read more slowly and attentively
 
@@ -17,6 +16,3 @@ It would be interesting to empirically compare the amount of time readers spend 
 Related: [[Most explanatory media place heavy metacognitive demands on participants]] 
 
 There’s plenty of prior art for this kind of mechanism in CAI systems; see e.g. [Anderson, T. H., Anderson, R. C., Dalgaard, B. R., Wietecha, E. J., Biddle, W. B., Paden, D. W., Smock, H. R., Alessi, S. M., Surber, J. R., & Klemt, L. L. (1974). A computer based study management system. Educational Psychologist, 11(1), 36–45](https://notes.andymatuschak.org/zFSbK7EzPkgZ2DgSve1d3rr).
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k&stackedNotes=zLhoRUyjKU665EY16u4XXJy&stackedNotes=z2hQEhqWkdRLL9JUwfawZZx&stackedNotes=z8ccRLda8BqJafNxjQBpzis&stackedNotes=zES5WRczfGgXptmM9tSCwvy&stackedNotes=zMybAxZcdkJHKSATuSZbEhz&stackedNotes=z59PYkSdPeznr95fco4GRQx&stackedNotes=z5aepnaCuu6XiPqB4LgBDkH)

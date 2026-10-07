@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zN7KLBKWMTmFqthmFPVSNbP?stackedNotes=z984ZZLbG4wREM6HAZAovMB&stackedNotes=z179DabP631i5Mjf2DBMwoS
+---
 # Enacted experiences have incredible potential as a mass medium
 I believe it’s possible to create an [[Enacted experience]] with the primary purpose of communicating ideas, values, and practices—akin to doing the “job” of a book. This is a powerful proposition because [[Enacted experiences can create intense personal connection to authored targets]] and [[Enacted experiences can bootstrap active participation in enabling environments]].
 
@@ -9,6 +12,3 @@ Avenues:
 I see this as one of the core ideas of [The Primer++](https://notes.andymatuschak.org/zWxp9Cw9Nc7ixAGAaXwqq3H).
 
 There seems to be some essential tension here with [Interaction is a cost center in interface design](https://notes.andymatuschak.org/z179DabP631i5Mjf2DBMwoS).
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zSNDTj75ULnYMo7pGm2Frg7&stackedNotes=z4exmF6rnZTE9GjCnpFBKUT&stackedNotes=zN7KLBKWMTmFqthmFPVSNbP&stackedNotes=z984ZZLbG4wREM6HAZAovMB&stackedNotes=z179DabP631i5Mjf2DBMwoS)

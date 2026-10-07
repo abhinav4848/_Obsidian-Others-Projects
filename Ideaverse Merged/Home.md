@@ -7,27 +7,27 @@ Your launchpad and home base. That's here. That's **home**.
 > [!Map]- # Atlas
 > > *Where would you like to go?*
 > 
-> - To do inspired work, go to [[Add]], [[Relate]], and [[Communicate]].
+> - To do inspired work, go to [[Ideaverse Merged/Atlas/Maps/Add]], [[Ideaverse Merged/Atlas/Maps/Relate]], and [[Ideaverse Merged/Atlas/Maps/Communicate]].
 >   
 > ![[Ideaverse Merged/x/Images/mckie-ship-and-sea-mid-narrow-.jpg|400]]
-> - To launch into your knowledge, try out: [[Library]] | [[People Map]] | [[Sources]].
-> - To catalyze your mind, go to your [[Thinking Map]] and [[Concepts]]. 
-> - For grounding, [[Life Map]]. For training, [[Ideaverse Map]]. For rules, [[Meta PKM]].
+> - To launch into your knowledge, try out: [[Ideaverse Merged/Atlas/Maps/Library]] | [[Ideaverse Merged/Atlas/Maps/People Map]] | [[Ideaverse Merged/Atlas/Maps/Sources]].
+> - To catalyze your mind, go to your [[Ideaverse Merged/Atlas/Maps/Thinking Map]] and [[Ideaverse Merged/Atlas/Maps/Concepts]]. 
+> - For grounding, [[Ideaverse Merged/Atlas/Maps/Life Map]]. For training, [[Ideaverse Merged/Ideaverse Map]]. For rules, [[Ideaverse Merged/Atlas/Maps/Meta PKM]].
 
 > [!Calendar]- # Calendar
 > > *What's on your mind?* 
 > 
 > - To journal, focus your day, or to capture a spark, hit `Cmd-d` or `Ctrl-d`.
-> - To capture specific type of things, go to [[Logs (Example)|Logs]].
+> - To capture specific type of things, go to [[Ideaverse Merged/Calendar/Logs/Logs (Example)|Logs]].
 >   
 > ![[Ideaverse Merged/x/Images/robert-mccall-space-ship-launch-narrower.png|400]]
-> - To broadly reflect, go to [[Plan and Review]].
-> - To learn more about time travel, go to [[Calendar]].
+> - To broadly reflect, go to [[Ideaverse Merged/Atlas/Maps/Plan and Review]].
+> - To learn more about time travel, go to [[Ideaverse Merged/Atlas/Maps/Calendar]].
 
 > [!Training]- # Efforts
 > > *What can you work on?* 
 > 
-> For a concentrated view, go to [[Efforts]].
+> For a concentrated view, go to [[Ideaverse Merged/Atlas/Maps/Efforts]].
 > 
 > Use this to keep priorities in order and the quickly adjust your bandwidth as needed. 
 > 
@@ -36,7 +36,7 @@ Your launchpad and home base. That's here. That's **home**.
 > > TABLE WITHOUT ID
 >  > file.link as "",
 >  > rank as "Rank"
-> > FROM "Efforts/On"
+> > FROM "Ideaverse Merged/Efforts/On"
 > > SORT rank desc
 > > ```
 > 
@@ -45,7 +45,7 @@ Your launchpad and home base. That's here. That's **home**.
 > > TABLE WITHOUT ID
 > > file.link as "",
 > > rank as "Rank"
-> > FROM "Efforts/Ongoing"
+> > FROM "Ideaverse Merged/Efforts/Ongoing"
 > > SORT rank desc
 > > ```
 > 
@@ -56,7 +56,7 @@ Your launchpad and home base. That's here. That's **home**.
 > > TABLE WITHOUT ID
 > > file.link as "",
 > > rank as "Rank"
-> > FROM "Efforts/Simmering"
+> > FROM "Ideaverse Merged/Efforts/Simmering"
 > > SORT rank desc
 > > ```
 > 

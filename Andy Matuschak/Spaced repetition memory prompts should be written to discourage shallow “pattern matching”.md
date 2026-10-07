@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/zSiuztCZ594AZuCweRghcXT
+URL: https://notes.andymatuschak.org/zSiuztCZ594AZuCweRghcXT
 ---
 # Spaced repetition memory prompts should be written to discourage shallow “pattern matching”
 One challenge for the efficacy of a [[Spaced repetition memory system]] is that sometimes users memorize answers to questions shallowly, through “pattern matching,” rather than by integrating the knowledge more deeply or actually thinking about the question. But [[Spaced repetition memory prompts should ensure reviewers must retrieve answers from memory]].
@@ -35,5 +34,3 @@ We’ve received many comments about this phenomenon from [[Quantum Country]] 
 > For some of the review questions in this essay, i know the answers by rote now due to the number of times I’ve seen those questions but I can’t say I understand the algorithm to the extent I would prefer (such that I could explain it to somebody else). I’m not sure if I need to read this essay many more times to fully grasp the algorithm.
 
 — Srinath K R Re: Hello from Quantum Country!
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/zSiuztCZ594AZuCweRghcXT) 

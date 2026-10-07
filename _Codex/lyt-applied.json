@@ -1,0 +1,20 @@
+{
+  "backup": "E:\\Drive Sync PCS\\Obsidian\\_Popular Vaults Merged (Obsidian)\\_Codex\\backups\\lyt-before-2026-10-07.zip",
+  "stats": {
+    "initial_notes": 537,
+    "final_notes": 449,
+    "initial_files": 585,
+    "final_files": 490,
+    "duplicate_note_copies_removed": 90,
+    "consolidated_groups": 69,
+    "moved_files": 378,
+    "restored_files": [
+      "Atlas/Dots/Sources/Shows/Spirited Away.md",
+      "Atlas/Dots/Sources/Shows/Predator.md"
+    ],
+    "rewritten_occurrences_including_merged_copies": {
+      "wiki_links": 1473,
+      "query_paths": 192
+    }
+  }
+}

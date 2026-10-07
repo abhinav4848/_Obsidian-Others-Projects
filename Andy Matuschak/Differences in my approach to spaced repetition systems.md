@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/zHfGyWHe5JaMW3874CHqf69
+URL: https://notes.andymatuschak.org/zHfGyWHe5JaMW3874CHqf69
 ---
 # Differences in my approach to spaced repetition systems
 There are already many implementations of a [[Spaced repetition memory system]]. Why invest more effort here? Collecting notes on some of the key differences in my approach here to help key myself oriented toward high-order bits.
@@ -11,5 +10,3 @@ There are already many implementations of a [[Spaced repetition memory system]]
 - I want to push spaced repetition systems to amplify the most meaningful things you do in life, contra [[The dominant culture around spaced repetition memory systems is fixated on meaningless goals]].
 - I view spaced repetition as an instance of a broader category of systems: [[Spaced repetition systems can be used to program attention]]
     - see also [[Unusual applications of spaced repetition memory systems]]
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/zHfGyWHe5JaMW3874CHqf69)

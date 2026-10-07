@@ -1,7 +1,7 @@
 ---
 up: []
 related:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Note-making creates unexpected optionality]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Statements/Note-making creates unexpected optionality]]"
 created: 2020-06-01
 ---
 
@@ -9,4 +9,4 @@ Something amazing happens when you start linking your digital notes. You develop
 
 As you make rare and unique connections between different disciplines, you start to think more holistically about the underlying patterns inherent in both. These leaps of insight are not only fun, but they are all potential sources of new value creation (along with making you more interesting to interact with).
 
-A hidden benefit of deliberately linking your thinking is that [[Ideaverse Merged/Atlas/Notes/Ideas/Note-making creates unexpected optionality]].
+A hidden benefit of deliberately linking your thinking is that [[Ideaverse Merged/Atlas/Dots/Statements/Note-making creates unexpected optionality]].

@@ -1,10 +1,10 @@
 ---
 up:
-  - "[[Library]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Library]]"
 related: []
 created: 2023-08-19
 in: 
-- "[[Maps]]"
+- "[[Ideaverse Merged/Atlas/Maps/Maps]]"
 ---
 
 > [!NOTE]- Some links and content in this note have been removed.

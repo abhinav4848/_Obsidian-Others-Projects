@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zTnTob5JrFYF9NpU73Zg5a1&stackedNotes=z4aipv9wyMg4qZGANaVjkrJ&stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zBeBbzwU8LAyi2D5jqBJpS&stackedNotes=zJ4k4feCLspoCid7C4mzmvL&stackedNotes=zVx3t4nDyk9tyuWQiBzsSDT&stackedNotes=zGyuqjqaSGWzT9ndJJVxiaw&stackedNotes=z8DRL5y5vMuXA98uro9KeZ3
+URL: https://notes.andymatuschak.org/zVx3t4nDyk9tyuWQiBzsSDT?stackedNotes=zGyuqjqaSGWzT9ndJJVxiaw&stackedNotes=z8DRL5y5vMuXA98uro9KeZ3
 ---
 # Augmented reading
 - Mine
@@ -22,6 +21,3 @@ URLs:
     - [Fok, R., Kambhamettu, H., Soldaini, L., Bragg, J., Lo, K., Hearst, M., Head, A., & Weld, D. S. (2023). Scim: Intelligent Skimming Support for Scientific Papers. Proceedings of the 28th International Conference on Intelligent User Interfaces, 476–490](https://notes.andymatuschak.org/z7PvB1dwdm48sLP3Q3YKhAD)
     - [Fok, R., Chang, J. C., August, T., Zhang, A. X., & Weld, D. S. (2024). Qlarify: Recursively Expandable Abstracts for Dynamic Information Retrieval over Scientific Papers. Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology, 1–21](https://notes.andymatuschak.org/zYDaEHgMh5jBEwnvSF8bE2q)
     - [Basti, Y. A., Davoudi, H., & Neshati, A. (2025). CitePeek: Contextual Citation Exploration Within Research Papers. Proceedings of the 7th ACM Conference on Conversational User Interfaces, 1–7](https://notes.andymatuschak.org/z61Dmzfo8JGFLNfLSgNCdQ9)
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zTnTob5JrFYF9NpU73Zg5a1&stackedNotes=z4aipv9wyMg4qZGANaVjkrJ&stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zBeBbzwU8LAyi2D5jqBJpS&stackedNotes=zJ4k4feCLspoCid7C4mzmvL&stackedNotes=zVx3t4nDyk9tyuWQiBzsSDT&stackedNotes=zGyuqjqaSGWzT9ndJJVxiaw&stackedNotes=z8DRL5y5vMuXA98uro9KeZ3)

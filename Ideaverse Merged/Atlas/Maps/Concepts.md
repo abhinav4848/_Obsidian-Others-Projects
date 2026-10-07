@@ -1,10 +1,15 @@
 ---
 up:
-  - "[[Home]]"
+- '[[Ideaverse Merged/Home]]'
+- '[[Ideaverse Merged/Home Pro]]'
 related: []
 created: 2016-01-01
 in: 
-- "[[Maps]]"
+- "[[Ideaverse Merged/Atlas/Maps/Maps]]"
+tags:
+  - map
+aliases:
+- Concepts Map
 ---
  *A concept is a pattern, truth, or mechanism that has been given a name.*
 Just like the primordial goop that collided together billions of years ago to spark life on earth, so do these **conceptual** collisions spark exciting and diverse ideas. 
@@ -12,9 +17,9 @@ Just like the primordial goop that collided together billions of years ago to sp
 ## Daily reminders of powerful concepts
 Why not string out these ideas into paragraphs? What a way to unearth hidden connections!
 
-Starting some days, I'll consider how to apply three *strategic* mental models: [[OODA Loop]],  [[Ideaverse Merged/Atlas/Notes/Things/Levels of Magnification|Levels of Magnification]], and [[Ideaverse Merged/Atlas/Notes/Things/Refraction Thinking|Refraction Thinking]]. 
+Starting some days, I'll consider how to apply three *strategic* mental models: [[Ideaverse Merged/Atlas/Dots/Things/OODA Loop]],  [[Ideaverse Merged/Atlas/Dots/Things/Levels of Magnification|Levels of Magnification]], and [[Ideaverse Merged/Atlas/Dots/Things/Refraction Thinking|Refraction Thinking]]. 
 
-For my work as an editor/AE in TV, I know to improve my craft means the steady application of getting  [[Ideaverse Merged/Atlas/Notes/Things/Reps|Reps]], creating the conditions for [[Ideaverse Merged/Atlas/Dots/Things/Flow]], which involves environmental  [[Ideaverse Merged/Atlas/Dots/Things/Forcing Function|Forcing Functions]], and considering when I can multitask [[Ideaverse Merged/Atlas/Dots/Things/Shadow Clone]]. 
+For my work as an editor/AE in TV, I know to improve my craft means the steady application of getting  [[Ideaverse Merged/Atlas/Dots/Things/Reps|Reps]], creating the conditions for [[Ideaverse Merged/Atlas/Dots/Things/Flow]], which involves environmental  [[Ideaverse Merged/Atlas/Dots/Things/Forcing Function|Forcing Functions]], and considering when I can multitask [[Ideaverse Merged/Atlas/Dots/Things/Shadow Clone]]. 
 
 > [!Connect]- A single concept opens up new ways of looking at the world
 > ![[Ideaverse Merged/x/Images/McCall-pen-sketch-narrow.jpg]]
@@ -27,7 +32,7 @@ For more avenues to re-expanding my narrowed perspective, try to revisit the [[I
 
 ---
 
-Want to more deeply understand the flexible power of MOCs? Check out [[Ideaverse Merged/Atlas/Notes/Ideas/MOCs encourage flexible non-destructive thinking]] where you will see the same concepts above, in different ways.
+Want to more deeply understand the flexible power of MOCs? Check out [[Ideaverse Merged/Atlas/Dots/Statements/MOCs encourage flexible non-destructive thinking]] where you will see the same concepts above, in different ways.
 
 ---
 
@@ -66,4 +71,4 @@ Activate "LYT Vision" to resurface thoughts in context. When you twirl this open
 
 ---
 
-Back to: [[Home]]
+Back to: [[Ideaverse Merged/Home]]

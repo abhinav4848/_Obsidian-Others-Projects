@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zTpJdbe6ub7uhBFLuHkFsrT?stackedNotes=zWbMsEFW9LD4vsoVhaDcF4u
+---
 # Evergreen note maintenance approximates spaced repetition
 
 Type of Link: 📝 Article
@@ -18,7 +21,6 @@ This same effect occurs when maintaining systems which involve [[Transclusion]]
 
 # Reference
 
-1. [Andy Link](https://notes.andymatuschak.org/zTpJdbe6ub7uhBFLuHkFsrT?stackedNotes=zWbMsEFW9LD4vsoVhaDcF4u)
 
 Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*.
 

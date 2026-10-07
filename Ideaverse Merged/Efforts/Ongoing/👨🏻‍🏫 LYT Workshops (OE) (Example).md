@@ -1,15 +1,14 @@
 ---
 up:
-  - "[[Efforts]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Efforts]]"
 created: 2023-08-19
 rank: "3"
+aliases:
+- LYT Workshops (OE) (Example)
 ---
-
-
-
 ## Workshop Production Hubs
-- [[👨🏻‍🏫 LYT W12 Production (E) (Example)]] - Fall 2023
-- [[👨🏻‍🏫 UCLA Supercharge Course (E) (Example)]] - Summer 2023
+- [[Ideaverse Merged/Efforts/On/👨🏻‍🏫 LYT W12 Production (E) (Example)]] - Fall 2023
+- [[Ideaverse Merged/Efforts/On/👨🏻‍🏫 UCLA Supercharge Course (E) (Example)]] - Summer 2023
 - [[LYT W11 Production Hub]]
 - [[LYT W10 Production Hub]]
 - [[LYT W9 Production Hub]] - ideas for now

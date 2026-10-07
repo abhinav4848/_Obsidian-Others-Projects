@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zR6RRbCfY5rFkiimFnaJZKB?stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zVeajFC9i9mrpLhZ5ScXumn
+---
 # Leaps of insight emerge from prior thought.
 
 Type of Link: 📝 Article
@@ -32,4 +35,3 @@ Ahrens, S. (2017). _How to Take Smart Notes: One Simple Technique to Boost Writ
 > The things you are supposed to find in your head by brainstorming usually don’t have their origins in there. Rather, they come from the outside: through reading, having discussions and listening to others, through all the things that could have been accompanied and often even would have been improved by writing.
 
 
-[Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zVeajFC9i9mrpLhZ5ScXumn) 

@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zKtYU4Uk7aTCGyqHr9Ca3Sb?stackedNotes=zaDSgGYrcUSuQty6WSMm2H&stackedNotes=zSpH2JJ636oT9zLw1SskCTX
+---
 # Most (especially early) experimental literature on the spacing effect involves inauthentic learning environments
 
 In particular, students are generally studying materials which are unrelated to their primary classroom focus—e.g. vocabulary words for languages they’re not learning; arbitrary facts about various animal species or places or historical events; etc.
@@ -39,5 +42,3 @@ explanation on long-term retention. Medical Education, 47, 7 674–682.
 test-enhanced learning with standardized patients and written tests improves clinical application of knowl-edge. Advances in Health Sciences Education, 18, 3, 409–425.
 
 - Son, J. Y., & Rivas, M. J. (2016). Designing clicker questions to stimulate transfer. Scholarship of Teaching and Learning in Psychology, 2, 3, 193–207.
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zKtYU4Uk7aTCGyqHr9Ca3Sb&stackedNotes=zaDSgGYrcUSuQty6WSMm2H&stackedNotes=zSpH2JJ636oT9zLw1SskCTX)

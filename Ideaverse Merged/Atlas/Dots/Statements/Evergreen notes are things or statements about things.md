@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Evergreen notes]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Things/Evergreen notes]]"
 related: []
 created: 2020-06-01
 ---
@@ -17,13 +17,13 @@ Many evergreen notes should be statements with a clear opinion. That's because i
 These THING-based notes will naturally spawn ideas of your own that have clear opinions (or statements). For example:
 - The note on the `[[Magna Carta]]` (Clear Thing) can then link to a personalized note titled `[[No one is above the law]]` (Clear Opinion), which could link to another note titled `[[Protests can invoke radical change]]` (Clear Opinion).
 - A note on `[[Defining a variable]]` (Clear Thing) can link to a personalized note on `[[Understanding variables leads to higher level thinking]]` (Clear Opinion).
-- A note on the concept `[[Like begets like]]` (kinda both Clear Opinion and Fact) can link to the opinion `[[The neural formation of habits are additive]]` (Clear Opinion) and a bunch of other notes. See this example below:
+- A note on the concept `[[Ideaverse Merged/Atlas/Dots/Things/Like begets like]]` (kinda both Clear Opinion and Fact) can link to the opinion `[[The neural formation of habits are additive]]` (Clear Opinion) and a bunch of other notes. See this example below:
 
-![[Ideaverse Merged/_attachments/lyt-note-links-to-other-notes.png]]
+![[Ideaverse Merged/x/Images/lyt-note-links-to-other-notes.png]]
 
 In this way, Thing-based notes are sturdy dots that we can then connect to Opinion-based notes through the natural process of note-making.
 
-This is one of my [[Ideaverse Merged/Atlas/Notes/Ideas/Strong opinions, weakly held]].
+This is one of my [[Ideaverse Merged/Atlas/Dots/Things/Strong opinions, weakly held]].
 
 ---
 ### Extra commentary

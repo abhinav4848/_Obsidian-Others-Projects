@@ -1,13 +1,34 @@
 ---
 up:
-  - "[[Sources]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Sources]]"
 related: []
 year: 2015
 encountered: 2020
 in:
-- "[[Books]]"
-- "[[Sources]]"
+- '[[Ideaverse Merged/Atlas/Maps/Books]]'
+- '[[Ideaverse Merged/Atlas/Maps/Sources]]'
+by:
+  - "[[Ta-Nehisi Coates]]"
+publisher: "[[One World]]"
+published: 2015-07-14
+created: 2023-11-29
+tags:
+  - "#source/book"
+bookType:
+bookCategory: Biography & Autobiography
+bookGroup:
+pages: 163
+image: http://books.google.com/books/content?id=TV05BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+yearXP: 2020
+yearXPL: 2020
+bookStatus: read
+rating: 4
+aliases:
+- Between the World and Me
 ---
+![cover|150](http://books.google.com/books/content?id=TV05BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+
+
 
 # Notes from Between the World and Me
 > But race is the child of racism, not the father. And the process of naming “the people” has never been a matter of genealogy and physiognomy so much as one of hierarchy. Difference in hue and hair is old. But the belief in the preeminence of hue and hair, the notion that these factors can correctly organize a society and that they signify deeper attributes, which are indelible—this is the new idea at the heart of these new people who have been brought up hopelessly, tragically, deceitfully, to believe that they are white.
@@ -83,5 +104,3 @@ in:
 - Back Matter
 	- published:: 2015
 	- read:: 2020-06
-
----

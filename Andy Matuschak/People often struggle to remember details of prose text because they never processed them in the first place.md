@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z59PYkSdPeznr95fco4GRQx
+---
 # People often struggle to remember details of prose text because they never processed them in the first place
 
 [[People seem to forget most of what they read, and they mostly don't notice]], but this isn’t just a process of long-term memory decay. In my personal experiences, and in my experiences working with students, some details are apparently forgotten because they were never really processed in the first place. The reader’s eye just skidded right over some sentence or paragraph, and the idea was never perceived at all, or so little attention was paid that the idea was never really processed. Sometimes the trouble is that the reader didn’t understand what a sentence was saying, but didn’t realize that or didn’t interrogate it; in either case, the idea will not be remembered. The problem here isn’t that these ideas can’t be recalled a day or a week later; it’s that they can’t be recalled ten seconds later—the idea never made it that far.
@@ -11,7 +14,6 @@ See [2023-03-31 Patreon letter - Memory systems and problem-solving practice](h
 [[Asking people questions while they read a text improves performance on untested contents]]; it’s proposed that this is in part because these questions put the reader into a more attentive state. See also [[The mnemonic medium may push readers to read more slowly and attentively]] .
 
 # Reference
-1. [Andy Link](https://notes.andymatuschak.org/z59PYkSdPeznr95fco4GRQx)
 - [Pressley, M., Ghatala, E. S., Woloshyn, V., & Pirie, J. (1990). Sometimes Adults Miss the Main Ideas and Do Not Realize It: Confidence in Responses to Short-Answer and Multiple-Choice Comprehension Questions. Reading Research Quarterly, 25(3), 232](https://notes.andymatuschak.org/zAjmbn5vyb2HskGDLBBR3aP) 
 - Pressley, M., Ghatala, E. S., Pirie, J., & Woloshyn, V. E. (1990). Being really, really certain you know the main idea doesn’t mean you do. *National Reading Conference Yearbook*, *39*, 249–256.
 

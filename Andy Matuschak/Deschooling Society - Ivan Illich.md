@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zPrYC99kH227c1otipAefyQ?stackedNotes=zMhuu3pPa6FeNGYn3VfGCar&stackedNotes=z3M21hHKkoGYbU3S8bcYBH3
+---
 # Deschooling Society - Ivan Illich
 [Ivan Illich](https://notes.andymatuschak.org/z6xoCXR75oaLLAdN1p57sux)’s 1971 strident critique of the institutionalization not only of learning but of society and its values as a whole.
 
@@ -33,5 +36,3 @@ Note an important contrast from [John Dewey](https://notes.andymatuschak.org/z3
 
 Q. What is “our pedagogical hubris”, per Illich?  
 A. “The belief that man can do what God cannot, namely, **manipulate others for their own salvation**.”
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/zMbCwoVdjsqPNyTRRr3phPN?stackedNotes=z2etsLyP1LJUwNDPCwvRdUG&stackedNotes=zPrYC99kH227c1otipAefyQ&stackedNotes=zMhuu3pPa6FeNGYn3VfGCar&stackedNotes=z3M21hHKkoGYbU3S8bcYBH3)

@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zCyoCsqj8ZNUR7vfYKVCUu7
+---
 Type of Link: 📝 Article
 Author: Andy Matuschak
 Completion Status: To Start
@@ -17,5 +20,3 @@ Cognitivism was formed as part of [The cognitive revolution](https://notes.andy
     - e.g. Levine (1971) asked students to learn rules about geometric shapes and found that students more readily learned the complex rules, irrespective of how much the simple rules were reinforced.
     - Behaviorism struggles here because the student the subject should form simple paired association in the case of the simple rules.
     - He suggested this was because students formed and tested hypotheses about these complex rules (but not the simple ones).
-# Source
-1. Andy link: [Cognitivism](https://notes.andymatuschak.org/zCyoCsqj8ZNUR7vfYKVCUu7)

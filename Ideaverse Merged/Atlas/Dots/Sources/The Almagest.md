@@ -1,13 +1,32 @@
 ---
 up:
   - "[[Ancient Greece MOC]]"
-related: []
+related:
+- '[[Ideaverse Merged/Atlas/Dots/Statements/People''s attributes are domain-specific]]'
 year: 150
 encountered: 2020
 in:
-- "[[Books]]"
-- "[[Sources]]"
+- '[[Ideaverse Merged/Atlas/Maps/Books]]'
+- '[[Ideaverse Merged/Atlas/Maps/Sources]]'
+by:
+  - "[[Ideaverse Merged/Atlas/Dots/Things/Ptolemy (kit)]]"
+created: 2020-05-01
+tags:
+  - source/book
+bookType: NF
+bookCategory: Science
+bookGroup:
+pages: "712"
+image: http://books.google.com/books/content?id=YTbSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+yearXP: 2020
+yearXPL: 2020
+bookStatus: partially read
+rating: "3"
+type: "[[Ideaverse Merged/Atlas/Maps/Books]]"
+aliases:
+- Ptolemy's Almagest
 ---
+![image|150](http://books.google.com/books/content?id=YTbSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 The Almagest is a 2nd-century Greek-language mathematical and astronomical treatise on the apparent motions of the stars and planetary paths, written by Claudius [[Ideaverse Merged/Atlas/Dots/Things/Ptolemy (kit)]]
 
@@ -16,7 +35,7 @@ The Almagest is a 2nd-century Greek-language mathematical and astronomical treat
 - The Almagest shows that: if it practically works, it's more believable
 - The Almagest shows our ability to force fit incorrect solutions, and then believe those solutions
 - The Almagest shows how we conflate some truth in a person, statement, or idea, with total truth 
-	- But that's not the case: [[Ideaverse Merged/Atlas/Notes/Ideas/People's attributes are domain-specific]]
+	- But that's not the case: [[Ideaverse Merged/Atlas/Dots/Statements/People's attributes are domain-specific]]
 - Belief governs reality
 - Even in the face of overwhelming evidence, Belief finds a way
 - The fluid in the ear keeps our equilibrium, 

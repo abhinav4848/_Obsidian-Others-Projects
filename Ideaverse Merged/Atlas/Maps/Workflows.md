@@ -1,8 +1,8 @@
 ---
 up:
-  - "[[Home Pro]]"
+  - "[[Ideaverse Merged/Home Pro]]"
 related:
-  - "[[Collections]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Collections]]"
 created: 2023-01-01
 tags:
   - map
@@ -11,16 +11,16 @@ Each person is different, but these are some workflows for you to consider.
 
 > [!planet]+ ## Atlas Workflows
 > 
-> > [!wandy] Workflow: [[ARC Ideation]]
+> > [!wandy] Workflow: [[Ideaverse Merged/Atlas/Dots/Things/ARC Ideation]]
 > 
 
 > [!calendar]+ ## Calendar Workflows
 > 
-> > [!projector] Workflow: [[First Light, Last Light]]
+> > [!projector] Workflow: [[Ideaverse Merged/Atlas/Dots/Things/First Light, Last Light]]
 
 > [!training]+ ## Efforts Workflows
 > 
-> > [!scatterchart] Workflow: [[Effort Maestro]]
+> > [!scatterchart] Workflow: [[Ideaverse Merged/Atlas/Dots/Things/Effort Maestro]]
 
 
 
@@ -43,28 +43,28 @@ Each person is different, but these are some workflows for you to consider.
 
 
 
-- [[Workflows]]
-- [[Recents]] | [[Recents Visualized]] | [[Maps]]
+- [[Ideaverse Merged/Atlas/Maps/Workflows]]
+- [[Ideaverse Merged/Atlas/Maps/Recents]] | [[Ideaverse Merged/Atlas/Maps/Recents Visualized]] | [[Ideaverse Merged/Atlas/Maps/Maps]]
 - [[I want to...]]
 - IDEATION
 	- Ideation workflow style 1: Ideate
-		- [[Add]], [[Relate]], [[Communicate]]
+		- [[Ideaverse Merged/Atlas/Maps/Add]], [[Ideaverse Merged/Atlas/Maps/Relate]], [[Ideaverse Merged/Atlas/Maps/Communicate]]
 			- loose, brief, for now think about Communicate if stuck
 			- R&R, this&that, and BLANK because...
 			- find more example BLANKS in the online course here.
 	- Ideation workflow style 2: Develop
-		- [[Idea Development]]
+		- [[Ideaverse Merged/Atlas/Maps/Idea Development]]
 	- Ideation workflow style 3: Garden
-		- [[Idea Accretion]], [[Idea Maintenance]]
+		- [[Ideaverse Merged/Atlas/Maps/Idea Accretion]], [[Ideaverse Merged/Atlas/Maps/Idea Maintenance]]
 	- Ideation workflow style 4: Wander, Nourish, and Stimulate
-		- Start with [[Things]] and [[Statements]]
-		- [[Concepts]], [[Questions]], [[Ideaverse Merged/Atlas/Maps/Quotes]]
+		- Start with [[Ideaverse Merged/Atlas/Maps/Things]] and [[Ideaverse Merged/Atlas/Maps/Statements]]
+		- [[Ideaverse Merged/Atlas/Maps/Concepts]], [[Ideaverse Merged/Atlas/Maps/Questions]], [[Ideaverse Merged/Atlas/Maps/Quotes]]
 - JOURNALING & PLANNING
 	- Journal
 		- First Light, Last Light
 		- Review??
 - ACTION
-	- [[Efforts]]
+	- [[Ideaverse Merged/Atlas/Maps/Efforts]]
 		- Use this to keep priorities in order and the quickly adjust your bandwidth as needed.
 	- Action Style 1: Prioritize
 		- Start with `On`. Turn any of them off and switch their rank as needed.

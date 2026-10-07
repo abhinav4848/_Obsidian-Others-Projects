@@ -1,11 +1,24 @@
 ---
 up:
-  - "[[Habits Map]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Habits Map]]"
 related: []
 created: 2020-06-01
 tags:
-  - people
+- people
+- people/p
 dates: 1947 - 2020
+in:
+  - "[[Ideaverse Merged/Atlas/Maps/People]]"
+peopleType:
+  - Notable
+peopleDomain:
+  - Science & Tech
+peopleGroups:
+lifespan: 1947 - 2020
+finalAge: "72"
+image: https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/sites/11339/images/3ocdDMX0TFW3q5JtFbUn_Anders_Ericcson_Headshot_.jpg
+aliases:
+- K. Anders Ericsson
 ---
 Made popular the term [[Ideaverse Merged/Atlas/Dots/Things/Deliberate Practice]], along with Malcolm Gladwell.
 

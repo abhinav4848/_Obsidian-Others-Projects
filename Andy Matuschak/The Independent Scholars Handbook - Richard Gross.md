@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z6Y1zo4evjFNUim1nHtL6Sv
+---
 Type of Link: 📝 Article
 Author: Andy Matuschak
 Completion Status: To Start
@@ -45,6 +48,3 @@ It’s amazing to me how these very real impediments have more or less vanished.
 And funding! Sure, it’s still hard for independent scholars to find funding. Crowdfunding and microgrants have real limits. But the book’s treatment assumes you’re going to be mailing letters to traditional foundations. Makes me awfully grateful for weird-internet-money.
 
 Of course, some of the challenges described in the book are still awfully vivid. Chiefly, for me: the struggle to establish collaborations and a community of peers. The internet is a better campus in many ways, but I deeply envy a great department lunch table.
-
-# Source
-1. https://notes.andymatuschak.org/z6Y1zo4evjFNUim1nHtL6Sv

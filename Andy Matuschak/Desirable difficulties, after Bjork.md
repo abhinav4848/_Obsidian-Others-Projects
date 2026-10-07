@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zRTw8KaPErhSCyC2NYGHyP7?stackedNotes=z7ffiDfqTR9pPcEEUUbCL7C&stackedNotes=zYB7kwEFRu8QALcbzbcoy9T
+---
 # Desirable difficulties, after Bjork
 Training activities can often be made more effective by introducing difficulties.
 
@@ -35,4 +38,3 @@ A. The training timeline may be too short to see improvements which may come fro
 # Reference
 1. Bjork, R. A. (1994). Memory and Metamemory Considerations in the Training of Human Beings. In J. Metcalfe & A. Shimamura (Eds.), Metacognition: Knowing about Knowing (pp. 185–205). MIT Press.
 2. [Pyc, M. A., & Rawson, K. A. (2009). Testing the retrieval effort hypothesis: Does greater difficulty correctly recalling information lead to higher levels of memory? Journal of Memory and Language, 60(4), 437–447](https://notes.andymatuschak.org/z5zckzyAM1DwEQqt94qMpsd)
-3. [Andy Link](https://notes.andymatuschak.org/zRTw8KaPErhSCyC2NYGHyP7?stackedNotes=z7ffiDfqTR9pPcEEUUbCL7C&stackedNotes=zYB7kwEFRu8QALcbzbcoy9T) 

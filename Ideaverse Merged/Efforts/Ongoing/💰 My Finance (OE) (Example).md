@@ -1,14 +1,19 @@
 ---
 up:
-  - "[[Home]]"
+- '[[Ideaverse Merged/Home]]'
+- '[[Ideaverse Merged/Home Pro]]'
 related: []
 created: 2015-01-01
 in: 
-- "[[Maps]]"
+- "[[Ideaverse Merged/Atlas/Maps/Maps]]"
 rank: "3"
+tags:
+  - map
+aliases:
+- My Finance (OE) (Example)
 ---
 Keep tabs on your personal finances. 
-Fuzzy areas like [[🌼 My Health (OE) (Example)]] and [[💰 My Finance (OE) (Example)]] are both maps and efforts.
+Fuzzy areas like [[Ideaverse Merged/Efforts/Ongoing/🌼 My Health (OE) (Example)]] and [[Ideaverse Merged/Efforts/Ongoing/💰 My Finance (OE) (Example)]] are both maps and efforts.
 Here are some areas to consider...
 
 - In
@@ -20,7 +25,7 @@ Here are some areas to consider...
 	- [[My Auto]]
 	- [[My Bills]]
 - Big Out
-	- [[💸 My Taxes 2023 (OE) (Example)]]
+	- [[Ideaverse Merged/Efforts/Ongoing/💸 My Taxes 2023 (OE) (Example)]]
 - Accounts
 	- [[My Accounts]]
 
@@ -37,4 +42,4 @@ You might even find an excellent balance between managing projects and efforts o
 
 ---
 
-Back to: [[Home]]
+Back to: [[Ideaverse Merged/Home Pro]]

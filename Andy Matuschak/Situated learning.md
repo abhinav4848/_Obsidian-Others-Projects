@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zL7XdosCZ9qeCSSCrhcYfwY
+---
 - Perhaps most canonically represented by [[Situated Learning - Lave and Wenger]]. 
 - Expressed more moderately in [The Reflective Practitioner - Donald Schön](https://notes.andymatuschak.org/z5wZoGy72FafNGd1AHgtghs)
 - Allied educational philosophies / methods: [[Constructivism]] (esp. radical constructivism), [Anchored instruction](https://notes.andymatuschak.org/zHZJPK2nrvAzRstzA6XdmoG), [Cognitive apprenticeship](https://notes.andymatuschak.org/zQgeXp15RWkzyiUv9WQsLtA)
@@ -12,5 +15,3 @@
 - Observations
     - [Some activities (piano, cooking) offer a situated venue for targeted practice activities](https://notes.andymatuschak.org/zM1anD1xFyk5aMFM6VXUjUE)
     - [Enabling environments focus on doing what’s enabled](https://notes.andymatuschak.org/z2etsLyP1LJUwNDPCwvRdUG)
-# Source
-1. Andy Link: https://notes.andymatuschak.org/zL7XdosCZ9qeCSSCrhcYfwY

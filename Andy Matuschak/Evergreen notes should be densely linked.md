@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z4EXkuLjdBrBZe7PVAGXc5a?stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zF8xCU4BwXwbmSyp7tmff9i
+---
 # Evergreen notes should be densely linked
 
 Type of Link: 📝 Article
@@ -23,7 +26,3 @@ Luhmann actually argues that…
 You don’t necessarily have to link to notes you’ve already written: [Backlinks can be used to implicitly define nodes in knowledge management systems](https://notes.andymatuschak.org/zL9q21MA7ygsKVfvn6FwBMq). It feels high-friction to stop and add a new note whenever it feels necessary; it’s very freeing to be able to link to a stub. (see also [Evergreen notes permit smooth incremental progress in writing (“incremental writing”)](https://notes.andymatuschak.org/zNqLdKMiTo9EHA9EWYGXs7b)).
 
 Aside from the ongoing value of the captured links, they may help you shepherd your attention while drafting: [Release valves for non-linear thought may support improved linear output](https://notes.andymatuschak.org/zDGk8tvVDD1mbTgpMMB5UGh).
-
-# Reference
-
-1. [https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zF8xCU4BwXwbmSyp7tmff9i](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zF8xCU4BwXwbmSyp7tmff9i)

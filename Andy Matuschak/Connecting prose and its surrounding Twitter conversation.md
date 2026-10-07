@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z4ULp2KUgq3hBCJMWTUnLDX?stackedNotes=zGD1FxbDZd7WnH7NrhRaVyC&stackedNotes=zVYmgUqqnJD1hduFhHYTkKj
+---
 # Connecting prose and its surrounding Twitter conversation
 
 Most people don’t hang out on Slate Star Codex and refresh the page to see new comments. Consequently, the context for writing a comment on most blogs is limited to the moment in which one reads that article. By contrast, [[Twitter is a water cooler]]. It’s a continuous context, not a one-time context like Disqus. Ideas often surf the zeitgeist for quite some time through [Twitter](https://notes.andymatuschak.org/zNJqkMRE6arYvEtMEJN5kUo) streams, continuously “re-upped” by someone new weighing in. Unfortunately, Twitter’s ephemeral nature makes it hard to keep track of a complex conversation, relative to traditional forum presentations.
@@ -10,5 +13,4 @@ Bringing the Twitter social graph into the article context can offer valuable so
 
 ---
 # References
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z7d63BYfJrd81VFE25jkcDd&stackedNotes=z4ULp2KUgq3hBCJMWTUnLDX&stackedNotes=zGD1FxbDZd7WnH7NrhRaVyC&stackedNotes=zVYmgUqqnJD1hduFhHYTkKj)
 2. Conversation with Michael Nielsen, 2019-12-10

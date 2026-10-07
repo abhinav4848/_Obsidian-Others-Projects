@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zKKB5ENRahwftH96H7mijiu?stackedNotes=zRHGYaDyQDBypztBaFYZgtR&stackedNotes=z9u6vyghiV3M1QaGhbYoWtR
+---
 # Tech industry culture rarely produces transformative tools for thought
 
 Why are [[Tools for thought]] so rarely produced by industry work?
@@ -9,5 +12,4 @@ Why are [[Tools for thought]] so rarely produced by industry work?
 ---
 
 # References
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zKKB5ENRahwftH96H7mijiu&stackedNotes=zRHGYaDyQDBypztBaFYZgtR&stackedNotes=z9u6vyghiV3M1QaGhbYoWtR)
 2. Matuschak, A., & Nielsen, M. (2019, October). _How can we develop transformative tools for thought?_ [https://numinous.productions/ttft](https://numinous.productions/ttft)

@@ -1,11 +1,12 @@
 ---
 up:
-  - "[[Efforts]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Efforts]]"
 related: []
 created: 2023-08-19
 rank: "0"
+aliases:
+- LYT Conference (OE) (Example)
 ---
-
 Linked notes needs quality guides for it to grow sustainably
 
 Let's Raise awareness and excitement about link-based thinking.

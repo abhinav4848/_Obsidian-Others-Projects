@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zFuk9QqspNYHAgvzZc33ZGH?stackedNotes=zDXBGEWk7msyonQ2Ngnrf8h&stackedNotes=zB74H9CuWrosEuqve7jZyCo
+---
 # Write about what you read to internalize texts deeply
 If you want to deeply internalize something you’re reading, the best way I know is to write about it: 
 - because [[Understanding requires effortful engagement]]
@@ -19,7 +22,6 @@ Our broad approach is an alternating cycle:
 2. **Process** clusters of those passages and thoughts into lasting notes:  [[How to process reading annotations into evergreen notes]]. 
 
 # Reference
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zFuk9QqspNYHAgvzZc33ZGH&stackedNotes=zDXBGEWk7msyonQ2Ngnrf8h&stackedNotes=zB74H9CuWrosEuqve7jZyCo)
 2. Luhmann, N. (1992). Communicating with Slip Boxes. In A. Kieserling (Ed.), & M. Kuehn (Trans.), *Universität als Milieu: Kleine Schriften* (pp. 53–61). Retrieved from [http://luhmann.surge.sh/communicating-with-slip-boxes](http://luhmann.surge.sh/communicating-with-slip-boxes)
     > It is impossible to think without writing; at least it is impossible in any sophisticated or networked (anschlußfähig) fashion.
 3. Levy, N. (2013). Neuroethics and the Extended Mind. In J. Illes & B. J. Sahakian (Eds.), *Oxford Handbook of Neuroethics* (pp. 285–294). Oxford University Press.

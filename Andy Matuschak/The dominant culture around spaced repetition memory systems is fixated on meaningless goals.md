@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/About_these_notes?stackedNotes=z7d63BYfJrd81VFE25jkcDd&stackedNotes=z4ULp2KUgq3hBCJMWTUnLDX
+---
 # The dominant culture around spaced repetition memory systems is fixated on meaningless goals
 
 [Spaced repetition memory systems make memory a choice](), but retention is not valuable for its own sake. Memory is valuable insofar as it helps people do whatever gives their lives meaning: [[Tools for thought should be evaluated in the context of intrinsically meaningful purposes]]. Unfortunately, the dominant culture around memory systems veers heavily toward memory for its own sake.
@@ -17,6 +20,3 @@ See also:
 - [[Memory system practice sessions are too disconnected from activities you actually care about]]
 - [[Recall rates are a misleading proxy for more meaningful goals of the mnemonic medium]]
 - [The mnemonic medium should be developed in a context where people really need fluency](https://notes.andymatuschak.org/The_mnemonic_medium_should_be_developed_in_a_context_where_people_really_need_fluency) (no access)
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z7d63BYfJrd81VFE25jkcDd&stackedNotes=z4ULp2KUgq3hBCJMWTUnLDX)

@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zR6RRbCfY5rFkiimFnaJZKB?stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zKiPFE1KYieeAJs3cEaCtdf
+---
 # Note-writing practices are generally ineffective
 
 [[Knowledge work should accrete]], but [[Most people take only transient notes]].
@@ -7,5 +10,3 @@ In part because [[Note-writing practices provide weak feedback]], people don’
 Much of what’s written about trying to improve these practices is misguided: [[Better note-taking misses the point; what matters is “better thinking”]]
 
 By contrast: [[Evergreen note-writing as fundamental unit of knowledge work]]
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zKiPFE1KYieeAJs3cEaCtdf)

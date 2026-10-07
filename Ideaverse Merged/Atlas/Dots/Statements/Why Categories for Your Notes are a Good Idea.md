@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Ideaverse Map]]"
+  - "[[Ideaverse Merged/Ideaverse Map]]"
 related: []
 created: 2020-06-01
 ---
@@ -16,13 +16,13 @@ Creating categories is a top-down process. You start with the structure and then
 If a categorizing framework is set up to be fluid, it is not top down. Notes do not have to fit its structure. There is no compromise. In the case of a Home note, it's a pre-existing structure that you can tether to only when you care to. *It adds context without limiting access.* 
 
 Here is that same picture: Wolverine is the note, and your Home note is just another tether:
-![[Atlas/Notes/Vaults/Flight School/Extras/Images/Wolverine-tethered.jpg]]
+![[Ideaverse Merged/x/Images/wolverine-tethered.jpg]]
 
 **Argument 2**
 Static categories are rigid. Our brains are not rigid. Therefore static categories inhibit our knowledge from growing organically.
 
 **Counter**
-This is still assuming that "categories equal top-down oppressive hierarchies."But with Maps of Content (MOCs), it's quite the opposite. MOCs spring up organically as the need arises for them. An example is this kit's note called: [[Ideaverse Map]]; I didn't start with that; I instinctually grasped for it once I felt I had too many notes everywhere. 
+This is still assuming that "categories equal top-down oppressive hierarchies."But with Maps of Content (MOCs), it's quite the opposite. MOCs spring up organically as the need arises for them. An example is this kit's note called: [[Ideaverse Merged/Ideaverse Map]]; I didn't start with that; I instinctually grasped for it once I felt I had too many notes everywhere. 
 
 **Argument 3**
 I don't have categories and I'm doing fine.
@@ -34,7 +34,7 @@ Do you have more than 300 notes or so? You have categories. You just aren't call
 - Do you have "daily notes" or timestamped notes? Certainly seems like a category to me; and a rigid one at that! [^3] 
 If you only have notes that are directly linked to other notes—and nothing else—then you can truly say you have no categories. The price for no categorization is steep.
 
-Please read about the framework most likely to produce a paradigm shift in your knowledge management game: [[Ideaverse Merged/Atlas/Notes/Ideas/MOCs Overview]]. 
+Please read about the framework most likely to produce a paradigm shift in your knowledge management game: [[Ideaverse Merged/Atlas/Dots/Things/MOCs Overview]]. 
 
 ---
 

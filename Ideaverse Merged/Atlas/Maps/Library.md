@@ -1,10 +1,10 @@
 ---
 up:
-  - "[[Home]]"
+  - "[[Ideaverse Merged/Home]]"
 related: 
 created: 2020-01-01
 in:
-  - "[[Maps]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Maps]]"
 updates: By taking the text out of the callouts, we are encouraging you to actually edit the Library note to make it your own
 ---
 
@@ -31,14 +31,14 @@ Navigate your library of maps with a classification system made specifically for
 
 > [!NOTE]+ ### 000 - Knowledge Management
 
-The [[Meta Map]] shows the best practices of knowledge management. I use the [[Ideaverse Map]] to show the power of linked thinking and to empower others to develop their thinking. The [[Mapping MOCs]] is my personal note to wrap my head around the wondrous beauty that MOCs offer. Others include:
+The [[Ideaverse Merged/Atlas/Maps/Meta PKM]] shows the best practices of knowledge management. I use the [[Ideaverse Merged/Ideaverse Map]] to show the power of linked thinking and to empower others to develop their thinking. The [[Mapping MOCs]] is my personal note to wrap my head around the wondrous beauty that MOCs offer. Others include:
 
-- [[Relate]] | [[Logs (Example)]] |  [[I want to...]]
+- [[Ideaverse Merged/Atlas/Maps/Relate]] | [[Ideaverse Merged/Calendar/Logs/Logs (Example)]] |  [[I want to...]]
 - [[All the Maps]] | [[Ideaverse Merged/Atlas/Dots/Things/Commonplace Book]] |  [[Knowledge and memory MOC]]
 
 > [!Milestone]+ ### 100 - Personal Management
 
-The [[Thinking Map]] can galvanize my attention; the [[Concepts]] can flavor it; and the [[Habits Map]] speaks about how to direct it. Hidden within in the [[Ideaverse Merged/Atlas/Dots/Things/Cabin]]. Go to my [[Life Map]] to brush up on [[My Virtues (starter)|My Virtues]] and more.
+The [[Ideaverse Merged/Atlas/Maps/Thinking Map]] can galvanize my attention; the [[Ideaverse Merged/Atlas/Maps/Concepts]] can flavor it; and the [[Ideaverse Merged/Atlas/Maps/Habits Map]] speaks about how to direct it. Hidden within in the [[Ideaverse Merged/Atlas/Dots/Things/Cabin]]. Go to my [[Ideaverse Merged/Atlas/Maps/Life Map]] to brush up on [[Ideaverse Merged/Atlas/Maps/My Virtues (starter)|My Virtues]] and more.
 
 - [[Posture MOC]] | [[Hormesis MOC]] | [[Breathing Exercises MOC]] | Flowcreation MOC
 - People MOC | Family MOC | [[Prominent People (kit)]]
@@ -47,16 +47,16 @@ The [[Thinking Map]] can galvanize my attention; the [[Concepts]] can flavor it;
 
 > [!Puzzle]+ ### 200 - Philosophy, Psychology ; Spirituality, Religion
 
-Is there no limit to this section? I use [[Philosophy MOC (kit)]] as the big note and then point to things like: [[Stoicism MOC]], [[Confucianism MOC]], [[Religion MOC]], [[Taoism MOC]], and whatever else comes up.
+Is there no limit to this section? I use [[Ideaverse Merged/Atlas/Maps/Philosophy MOC (kit)]] as the big note and then point to things like: [[Stoicism MOC]], [[Confucianism MOC]], [[Religion MOC]], [[Taoism MOC]], and whatever else comes up.
 
-[[Psychology MOC (kit)]] is similar but different enough to have its own space.
+[[Ideaverse Merged/Atlas/Maps/Psychology MOC (kit)]] is similar but different enough to have its own space.
 
 > [!User]+ ### 300 - Social Sciences
 
 *The study of human society and of individual relationships in and to society.*
-While this a very important section, I have found it's a bit more intimate, as strange as that sounds, so I'm hesitant to share too much here. The best place to start is the [[People Map]]. along with.
+While this a very important section, I have found it's a bit more intimate, as strange as that sounds, so I'm hesitant to share too much here. The best place to start is the [[Ideaverse Merged/Atlas/Maps/People Map]]. along with.
 
-See also: [[People Map#Prominent People 🌋|Prominent People 🌋]] | Politics | Society | Law | Relationships
+See also: [[Ideaverse Merged/Atlas/Maps/People Map#Prominent People 🌋|Prominent People 🌋]] | Politics | Society | Law | Relationships
 
 > [!Keaton]+ ### 400 - Communications, Language, & Linguistics
 
@@ -66,7 +66,7 @@ A fun section of the library, the 400s contains the underrated and oft-maligned 
 
 > A sharp break from the previous section, the 500s explore the natural world and universe in glorious notes like [[Cosmology MOC]] and [[Math MOC]]. 
 > 
-> See also: Chemistry | Geology | Plants | Animals | [[Systems MOC (kit)]]
+> See also: Chemistry | Geology | Plants | Animals | [[Ideaverse Merged/Atlas/Maps/Systems MOC (kit)]]
 
 > [!Sailboat]+ ### 600 - Applied Sciences
 
@@ -78,7 +78,7 @@ See also: Agriculture | Technology | Medical | [[AI MOC]] | Programming | [[Coll
 > Ah the leisures of life. Remember leisure? Few really do. This section could easily balloon. 
 > 
 > - Art MOC | [[Design MOC]] | Architecture | Painting | 
-> - Film & TV | [[Movies]] 
+> - Film & TV | [[Ideaverse Merged/Atlas/Maps/Movies]] 
 > - Sports | [[Football MOC]] 
 > - Music | [[Jazz MOC]] | [[Vocals MOC]] 
 > - [[Cooking MOC]] | Leisure 
@@ -89,7 +89,7 @@ If folks barely remember leisure, they likely completely forgot about classical 
 
 > [!Fingerprint]+ ### 900 - History & Biography & Geography
 
-I've noticed I'm naturally building up the [[Ancient Greece MOC]], but I haven't cared to build out the [[History MOC]] just yet. The [[Places MOC]] is a peculiarly powerful note that has big things in store for it.
+I've noticed I'm naturally building up the [[Ancient Greece MOC]], but I haven't cared to build out the [[History MOC]] just yet. The [[Ideaverse Merged/Atlas/Maps/Places MOC]] is a peculiarly powerful note that has big things in store for it.
 
 The [[Art & Science Storytelling MOC]] look at some great storytellers of history. 
 
@@ -102,4 +102,4 @@ Please don't go crazy numbering things. We are just using a pre-made map so we c
 >  
 > Plus, it's okay to have some unlinked notes in your own vault. They won't all be built out at once.
 
-Up to [[Home]]
+Up to [[Ideaverse Merged/Home]]

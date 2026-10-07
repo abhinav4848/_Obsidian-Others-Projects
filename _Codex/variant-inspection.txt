@@ -1,0 +1,1414 @@
+
+### +/Do you suffer from note-taking.md | +/Do you suffer from note-taking_.md
+--- +/Do you suffer from note-taking.md
+
++++ +/Do you suffer from note-taking_.md
+
+@@ -1,3 +1,3 @@
+
+ ---
+-up:
++top:
+   - "[[Youtube Publisher 📽]]"
+
+### _attachments/Triangulation-1a (Drawing).md | Atlas/Utilities/Images/Triangulation-1a (Drawing).md | x/Images/Triangulation-1a (Drawing).md
+IDENTICAL
+IDENTICAL
+
+### Atlas/Dots/People/Bill Russell (kit).md | Atlas/Notes/People/Bill Russell (kit).md
+IDENTICAL
+
+### Atlas/Dots/People/Carl Sagan (kit).md | Atlas/Notes/People/Carl Sagan (kit).md
+--- Atlas/Dots/People/Carl Sagan (kit).md
+
++++ Atlas/Notes/People/Carl Sagan (kit).md
+
+@@ -12,3 +12,3 @@
+
+ 
+-When I think of Carl Sagan, I think of [[Ideaverse Merged/Atlas/Dots/People/Mihaly Csikszentmihalyi (kit)]]. What Carl Sagan did for my love of the cosmos, [[Ideaverse Merged/Atlas/Dots/People/Mihaly Csikszentmihalyi (kit)]] did for my love of [[Ideaverse Merged/Atlas/Dots/Things/Flow]]. Both have enriched my life.
++When I think of Carl Sagan, I think of [[Ideaverse Merged/Atlas/Notes/People/Mihaly Csikszentmihalyi (kit)]]. What Carl Sagan did for my love of the cosmos, [[Ideaverse Merged/Atlas/Notes/People/Mihaly Csikszentmihalyi (kit)]] did for my love of [[Ideaverse Merged/Atlas/Notes/Ideas/Flow]]. Both have enriched my life.
+ 
+@@ -26,3 +26,3 @@
+
+ 
+-![[Ideaverse Merged/x/Images/pale-blue-dot-banner.jpg]]
++![[Atlas/Notes/Vaults/Flight School/Extras/Images/pale-blue-dot-banner.jpg]]
+ 
+
+### Atlas/Dots/People/Cassandra.md | Atlas/Notes/People/Cassandra.md
+--- Atlas/Dots/People/Cassandra.md
+
++++ Atlas/Notes/People/Cassandra.md
+
+@@ -1,7 +1,14 @@
+
+ ---
+-up:
++in:
++  - "[[People]]"
++related:
+   - "[[Ideaverse Merged/Atlas/Dots/Things/Some Greek Allusions]]"
+-related: []
+ created: 2020-06-01
+-tags: []
++tags:
++peopleType:
++  - Fictional
++peopleDomain:
++  - Humanities
++peopleGroups:
++image: https://i.pinimg.com/736x/df/95/fb/df95fb542914ba627d240574b9cd5229.jpg
+ ---
+
+### Atlas/Dots/People/Douglas R. Hofstadter.md | Atlas/Notes/People/Douglas R. Hofstadter.md
+--- Atlas/Dots/People/Douglas R. Hofstadter.md
+
++++ Atlas/Notes/People/Douglas R. Hofstadter.md
+
+@@ -1,9 +1,14 @@
+
+ ---
+-up:
++in:
++  - "[[People]]"
++related:
+   - "[[Ideaverse Merged/Atlas/Dots/Things/Chunking]]"
+-related: []
+ created: 2020-06-01
+-tags:
+-  - people
+-dates: 1945 -
++lifespan: 1945 -
++peopleType:
++  - Prominent
++peopleDomain:
++  - Science & Tech
++peopleGroups:
++image: https://www.babelio.com/users/AVT_Douglas-Richard-Hofstadter_6840.jpg
+ ---
+
+### Atlas/Dots/People/K. Anders Ericsson (kit).md | Atlas/Notes/People/K. Anders Ericsson (kit).md
+--- Atlas/Dots/People/K. Anders Ericsson (kit).md
+
++++ Atlas/Notes/People/K. Anders Ericsson (kit).md
+
+@@ -9,3 +9,4 @@
+
+ ---
+-Made popular the term [[Ideaverse Merged/Atlas/Dots/Things/Deliberate Practice]], along with Malcolm Gladwell.
++
++Made popular the term [[Ideaverse Merged/Atlas/Notes/Things/Deliberate Practice]], along with Malcolm Gladwell.
+ 
+
+### Atlas/Dots/People/Mary Wollstonecraft (kit).md | Atlas/Notes/People/Mary Wollstonecraft (kit).md
+IDENTICAL
+
+### Atlas/Dots/People/Mihaly Csikszentmihalyi (kit).md | Atlas/Notes/People/Mihaly Csikszentmihalyi (kit).md
+--- Atlas/Dots/People/Mihaly Csikszentmihalyi (kit).md
+
++++ Atlas/Notes/People/Mihaly Csikszentmihalyi (kit).md
+
+@@ -9,15 +9,15 @@
+
+ ---
++Mihaly Csikszentmihalyi is the author of [[1990 - Flow]] (not included in Ideaverse for Obsidian). Flow remains one of the most influential books on my thinking.
+ 
+-Mihaly Csikszentmihalyi is the author of [[1990 - Flow]] (not included in Ideaverse Lite). Flow remains one of the most influential books on my thinking.
++![[Ideaverse Merged/_attachments/flow-map-original.jpg]]
+ 
+-![[Ideaverse Merged/x/Images/flow-map-original.jpg]]
+ 
+ ## Extra
++### Wiki
++Mihaly Csikszentmihalyi is a Hungarian-American psychologist. He recognized and named the psychological concept of [[Ideaverse Merged/Atlas/Notes/Ideas/Flow]], a highly focused mental state conducive to productivity. He is the Distinguished Professor of Psychology and Management at Claremont Graduate University.
+ 
+-### Wiki
+-
+-Mihaly Csikszentmihalyi is a Hungarian-American psychologist. He recognized and named the psychological concept of [[Ideaverse Merged/Atlas/Dots/Things/Flow]], a highly focused mental state conducive to productivity. He is the Distinguished Professor of Psychology and Management at Claremont Graduate University.
+-
+-> Mihaly Csikszentmihalyi (29 September 1934 – 20 October 2021) was a Hungarian-American psychologist. He recognized and named the psychological concept of flow, a highly focused mental state conducive to productivity.
++> Mihaly Csikszentmihalyi (29 September 1934 – 20 October 2021) was a Hungarian-American psychologist. He recognized and named the psychological concept of flow, a highly focused mental state conducive to productivity. 
+ >
+ > [Wikipedia](https://en.wikipedia.org/wiki/Mihaly%20Csikszentmihalyi)
++
++
+
+### Atlas/Dots/People/Nina Simone (kit).md | Atlas/Notes/People/Nina Simone (kit).md
+--- Atlas/Dots/People/Nina Simone (kit).md
+
++++ Atlas/Notes/People/Nina Simone (kit).md
+
+@@ -9,2 +9,3 @@
+
+ ---
++
+ I absolutely love Nina Simone's song [[Ideaverse Merged/Atlas/Dots/Sources/Sinnerman (song)]]. It's in my top 100.
+
+### Atlas/Dots/People/Wim Hof.md | Atlas/Notes/People/Wim Hof.md
+--- Atlas/Dots/People/Wim Hof.md
+
++++ Atlas/Notes/People/Wim Hof.md
+
+@@ -1,9 +1,12 @@
+
+ ---
+-up:
+-  - "[[People Map]]"
+-related: []
+-created: 2020-06-01
+-tags:
+-  - people
+-dates: 1959 -
++in:
++  - "[[People]]"
++created: 2014-01-01
++peopleType:
++  - Notable
++peopleDomain:
++  - Public Figure
++peopleGroups: 
++lifespan: 1959 -
++image: https://wp.penguin.co.uk/wp-content/uploads/2020/10/Main-Wim-Hof-by-Innerfire.jpg
+ ---
+
+### Atlas/Dots/Sources/+ About Sources.md | Atlas/Notes/Sources/+ About Sources.md
+--- Atlas/Dots/Sources/+ About Sources.md
+
++++ Atlas/Notes/Sources/+ About Sources.md
+
+@@ -2,3 +2,3 @@
+
+ up:
+-  - "[[Meta PKM]]"
++  - "[[Meta Map]]"
+ related: []
+
+### Atlas/Dots/Sources/1984 (book).md | Atlas/Notes/Sources/1984 (book).md
+--- Atlas/Dots/Sources/1984 (book).md
+
++++ Atlas/Notes/Sources/1984 (book).md
+
+@@ -1,9 +1,10 @@
+
+ ---
+-up: []
+-related: 
++up:
++  - "[[Sources Map]]"
++related: []
+ year: 1949
+ encountered: 2000
+-in:
+-  - "[[Books]]"
+-  - "[[Sources]]"
++tags:
++  - source/book
++type: "[[Book]]"
+ ---
+
+### Atlas/Dots/Sources/Analogy as Core (talk).md | Atlas/Notes/Sources/Analogy as Core (talk).md | Atlas/Notes/Sources/X/Analogy as Core (talk).md
+--- Atlas/Dots/Sources/Analogy as Core (talk).md
+
++++ Atlas/Notes/Sources/Analogy as Core (talk).md
+
+@@ -4,8 +4,8 @@
+
+ author:
+-  - "[[Ideaverse Merged/Atlas/Dots/People/Douglas R. Hofstadter]]"
++  - "[[Ideaverse Merged/Atlas/Notes/People/Douglas R. Hofstadter]]"
+ year: 2009
+ encountered:
+-in:
+-  - "[[Speeches]]"
+-  - "[[Sources]]"
++tags:
++  - source/speech
++type: "[[Speech]]"
+ URL: https://www.youtube.com/watch?v=n8m7lFQ3njk
+@@ -14,3 +14,3 @@
+
+ ##### Overview
+-- **What**: In this Presidential Lecture, cognitive scientist [[Ideaverse Merged/Atlas/Dots/People/Douglas R. Hofstadter]] examines the role and contributions of analogy in cognition, using a variety of analogies to illustrate his points. 
++- **What**: In this Presidential Lecture, cognitive scientist [[Ideaverse Merged/Atlas/Notes/People/Douglas R. Hofstadter]] examines the role and contributions of analogy in cognition, using a variety of analogies to illustrate his points. 
+ - **Why**: This is important to me because of it is about how to talk about, and define, thinking—especially figurative language and concepts. 
+--- Atlas/Dots/Sources/Analogy as Core (talk).md
+
++++ Atlas/Notes/Sources/X/Analogy as Core (talk).md
+
+@@ -3,10 +3,12 @@
+
+   - "[[Ideaverse Merged/Atlas/Dots/Things/Concept Expansion]]"
+-author:
++in:
++  - "[[Talks]]"
++by:
+   - "[[Ideaverse Merged/Atlas/Dots/People/Douglas R. Hofstadter]]"
+ year: 2009
+-encountered:
+-in:
+-  - "[[Speeches]]"
+-  - "[[Sources]]"
+-URL: https://www.youtube.com/watch?v=n8m7lFQ3njk
++YearXP: 2020
++tags:
++  - source/speech
++URLs:
++  - https://www.youtube.com/watch?v=n8m7lFQ3njk
+ ---
+@@ -29,3 +31,3 @@
+
+ - By seeing new instances of the word "shadow", we're expanding our sense of what the word "shadow" means.
+-- > *Repeated analogies expand concepts* #source/quote/250
++- > *Repeated analogies expand concepts* 
+ 
+
+### Atlas/Dots/Sources/Atomic Habits (book).md | Atlas/Notes/Sources/Atomic Habits (book).md
+--- Atlas/Dots/Sources/Atomic Habits (book).md
+
++++ Atlas/Notes/Sources/Atomic Habits (book).md
+
+@@ -6,5 +6,5 @@
+
+ encountered: 2019
+-in:
+-- "[[Books]]"
+-- "[[Sources]]"
++tags:
++  - source/book
++type: "[[Book]]"
+ ---
+
+### Atlas/Dots/Sources/Elden Ring.md | Atlas/Notes/Sources/Elden Ring.md | Atlas/Notes/Sources/X/Elden Ring.md
+--- Atlas/Dots/Sources/Elden Ring.md
+
++++ Atlas/Notes/Sources/Elden Ring.md
+
+@@ -7,5 +7,3 @@
+
+   - note/boat🚤
+-in:
+-- "[[Games]]"
+-- "[[Sources]]"
++type: "[[Game]]"
+ ---
+--- Atlas/Dots/Sources/Elden Ring.md
+
++++ Atlas/Notes/Sources/X/Elden Ring.md
+
+@@ -1,4 +1,5 @@
+
+ ---
+-up: []
+-related: []
++up: 
++in: []
++related: 
+ created: 2022-05-01
+@@ -6,6 +7,3 @@
+
+ tags:
+-  - note/boat🚤
+-in:
+-- "[[Games]]"
+-- "[[Sources]]"
++  - note/connect🚤
+ ---
+
+### Atlas/Dots/Sources/Groundhog Day (kit).md | Atlas/Notes/Sources/Groundhog Day (kit).md
+--- Atlas/Dots/Sources/Groundhog Day (kit).md
+
++++ Atlas/Notes/Sources/Groundhog Day (kit).md
+
+@@ -1,8 +1,9 @@
+
+ ---
+-up: []
+-related: 
++up:
++  - "[[Movies MOC]]"
++related: []
+ year: 1993
+-in:
+-  - "[[Movies]]"
+-  - "[[Sources]]"
++tags:
++  - source/movie
++type: "[[Movie]]"
+ URL: https://www.imdb.com/title/tt0107048
+
+### Atlas/Dots/Sources/Obsidian Flight School.md | Atlas/Notes/Sources/Obsidian Flight School.md | Atlas/Notes/Sources/X/Obsidian Flight School.md
+--- Atlas/Dots/Sources/Obsidian Flight School.md
+
++++ Atlas/Notes/Sources/Obsidian Flight School.md
+
+@@ -2,15 +2,11 @@
+
+ up:
+-  - "[[Ideaverse Merged/Atlas/Dots/Sources/The LYT Workshop]]"
+-related:
+-  - "[[Ideaverse Merged/Atlas/Dots/Sources/The LYT Workshop]]"
+-  - "[[Ideaverse Pro]]"
+-  - "[[Writing Original Works]]"
++  - "[[Ideaverse Merged/Atlas/Notes/Sources/The LYT Workshop]]"
++related: []
+ year: 2021
+-in:
+-  - "[[Courses]]"
+-  - "[[Sources]]"
++tags:
++  - source/course
++type: "[[Course]]"
+ URL: https://www.linkingyourthinking.com/obsidian-flight-school
+ ---
+-> [!Video]+ Youtube Video
+-> [Make Notes at the Speed of Thought - YouTube](https://youtu.be/I1RXGhZZ2r0?si=XDYKc2UbcZRTGXeR)
++---
+ 
+--- Atlas/Dots/Sources/Obsidian Flight School.md
+
++++ Atlas/Notes/Sources/X/Obsidian Flight School.md
+
+@@ -2,15 +2,12 @@
+
+ up:
+-  - "[[Ideaverse Merged/Atlas/Dots/Sources/The LYT Workshop]]"
+-related:
+-  - "[[Ideaverse Merged/Atlas/Dots/Sources/The LYT Workshop]]"
+-  - "[[Ideaverse Pro]]"
+-  - "[[Writing Original Works]]"
++  - "[[Ideaverse Merged/Atlas/Notes/Sources/X/The LYT Workshop]]"
++related: []
+ year: 2021
+-in:
++tags:
++  - source/course
++type:
+   - "[[Courses]]"
+-  - "[[Sources]]"
+-URL: https://www.linkingyourthinking.com/obsidian-flight-school
++URLs: https://www.linkingyourthinking.com/obsidian-flight-school
+ ---
+-> [!Video]+ Youtube Video
+-> [Make Notes at the Speed of Thought - YouTube](https://youtu.be/I1RXGhZZ2r0?si=XDYKc2UbcZRTGXeR)
++---
+ 
+
+### Atlas/Dots/Sources/Sinnerman (song).md | Atlas/Notes/Sources/Sinnerman (song).md | Atlas/Notes/Sources/X/Sinnerman (song).md
+--- Atlas/Dots/Sources/Sinnerman (song).md
+
++++ Atlas/Notes/Sources/Sinnerman (song).md
+
+@@ -6,5 +6,5 @@
+
+ year: 1962
+-in:
+-  - "[[Songs]]"
+-  - "[[Sources]]"
++tags:
++  - source/music/100
++type: "[[Song]]"
+ URL: https://en.wikipedia.org/wiki/Sinner_Man
+--- Atlas/Dots/Sources/Sinnerman (song).md
+
++++ Atlas/Notes/Sources/X/Sinnerman (song).md
+
+@@ -1,11 +1,11 @@
+
+ ---
+-up:
+-  - "[[Ideaverse Merged/Atlas/Dots/People/Nina Simone (kit)]]"
+-author:
+-  - "[[Ideaverse Merged/Atlas/Dots/People/Nina Simone (kit)]]"
+-year: 1962
+ in:
+   - "[[Songs]]"
+-  - "[[Sources]]"
+-URL: https://en.wikipedia.org/wiki/Sinner_Man
++by:
++  - "[[Nina Simone]]"
++year: 1962
++tags:
++  - source/music/100
++URLs:
++  - https://en.wikipedia.org/wiki/Sinner_Man
+ ---
+@@ -17,3 +17,3 @@
+
+ 
+-[[Ideaverse Merged/Atlas/Dots/People/Nina Simone (kit)]] recorded her definitive 10-minute-plus version on her 1965 album Pastel Blues, on which the credit is simply given as "Arranged by Nina Simone" .
++[[Nina Simone]] recorded her definitive 10-minute-plus version on her 1965 album Pastel Blues, on which the credit is simply given as "Arranged by Nina Simone" .
+ 
+
+### Atlas/Dots/Sources/The Almagest.md | Atlas/Notes/Sources/The Almagest.md
+--- Atlas/Dots/Sources/The Almagest.md
+
++++ Atlas/Notes/Sources/The Almagest.md
+
+@@ -6,5 +6,5 @@
+
+ encountered: 2020
+-in:
+-- "[[Books]]"
+-- "[[Sources]]"
++tags:
++  - source/book
++type: "[[Book]]"
+ ---
+@@ -40,3 +40,3 @@
+
+ #### Text, pp43-44
+-![[Ideaverse Merged/x/Images/ptolemy-model.png]]
++![[Ideaverse Merged/_attachments/ptolemy-model.png]]
+ The technical ingenuity that Ptolemy's displays in the Almagest is illustrated by his model of the motion in longitude (that is, around the Sun's path or 'ecliptic') of one of the planets Mars, Jupiter or Saturn. The Earth is at 0, and M is the centre of the large (deferent) circle. C is a point on the deferent circle, and is itself the centre of the epicycle on which travels the planet P. E is a point (the equant point) on the line OM (extended), such that OM=ME. C moves around on the deferent circle with a variable angular velocity, such that, viewed from the equant point E, it appears to be travelling uniformly. P moves on the epicycle in such a way that CP is always parallel to the line from O to the 'mean Sun' (reflecting the fact that the Earth-based observer is in reality in motion around the Sun). The ratio of the radii of the circles, the 'eccentrity' OM, and the two angular velocities, are then chosen to fit the motion of the particular planet.
+
+### Atlas/Dots/Sources/The Count of Monte Cristo.md | Atlas/Notes/Sources/Books/The Count of Monte Cristo.md | Atlas/Notes/Sources/The Count of Monte Cristo.md
+--- Atlas/Dots/Sources/The Count of Monte Cristo.md
+
++++ Atlas/Notes/Sources/Books/The Count of Monte Cristo.md
+
+@@ -1,14 +1,28 @@
+
+ ---
+-up:
+-  - "[[Sources]]"
+-related:
+-  - "[[Ideaverse Merged/Atlas/Dots/Things/evaporated in a thousand follies'']]"
+-year: 1844
+-encountered: 2014
+ in:
+   - "[[Books]]"
+-  - "[[Sources]]"
+----
++related:
++  - "[[–evaporated in a thousand follies]]"
++by:
++  - "[[Alexandre Dumas]]"
++publisher: "[[]]"
++published: 1846
++created: 2023-11-29
++tags:
++  - "#source/book"
++bookType: 
++bookCategory: 
++bookGroup: 
++pages: 502
++image: http://books.google.com/books/content?id=RyEEAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
++year: 1844
++yearXP: 2014
++yearXPL: 2014
++bookStatus: read
++rating: 4.7
+ ---
+ 
++![cover|150](http://books.google.com/books/content?id=RyEEAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
++
++Read this in the winter of 2014 in NYC.
+ 
+@@ -19,12 +33 @@
+
+ > [Wikipedia](https://en.wikipedia.org/wiki/The%20Count%20of%20Monte%20Cristo)
+-
+-### Related Notes
+-- [[Ideaverse Merged/Atlas/Dots/Things/evaporated in a thousand follies'']]
+-
+----
+-
+-- Back Matter
+-
+-	- read:: 2014
+-
+----
+--- Atlas/Dots/Sources/The Count of Monte Cristo.md
+
++++ Atlas/Notes/Sources/The Count of Monte Cristo.md
+
+@@ -2,3 +2,3 @@
+
+ up:
+-  - "[[Sources]]"
++  - "[[Sources Map]]"
+ related:
+@@ -7,5 +7,5 @@
+
+ encountered: 2014
+-in:
+-  - "[[Books]]"
+-  - "[[Sources]]"
++tags:
++  - source/book
++type: "[[Book]]"
+ ---
+
+### Atlas/Dots/Sources/The LYT Workshop.md | Atlas/Notes/Sources/The LYT Workshop.md | Atlas/Notes/Sources/X/The LYT Workshop.md
+--- Atlas/Dots/Sources/The LYT Workshop.md
+
++++ Atlas/Notes/Sources/The LYT Workshop.md
+
+@@ -3,11 +3,8 @@
+
+   - "[[Ideaverse Map]]"
+-related:
+-  - "[[Ideaverse Merged/Atlas/Dots/Sources/Obsidian Flight School]]"
+-  - "[[Ideaverse Pro]]"
+-  - "[[Writing Original Works]]"
++related: []
+ year: 2020
+-in:
+-  - "[[Courses]]"
+-  - "[[Sources]]"
+-URL: https://www.linkingyourthinking.com/workshop
++tags:
++  - source/course
++type: "[[Course]]"
++URL: https://www.linkingyourthinking.com/obsidian-flight-school
+ ---
+--- Atlas/Dots/Sources/The LYT Workshop.md
+
++++ Atlas/Notes/Sources/X/The LYT Workshop.md
+
+@@ -3,11 +3,9 @@
+
+   - "[[Ideaverse Map]]"
+-related:
+-  - "[[Ideaverse Merged/Atlas/Dots/Sources/Obsidian Flight School]]"
+-  - "[[Ideaverse Pro]]"
+-  - "[[Writing Original Works]]"
++related: []
+ year: 2020
+-in:
++tags:
++  - source/course
++type:
+   - "[[Courses]]"
+-  - "[[Sources]]"
+-URL: https://www.linkingyourthinking.com/workshop
++URLs: https://www.linkingyourthinking.com/obsidian-flight-school
+ ---
+
+### Atlas/Dots/Sources/Willpower - Robinson et al (paper).md | Atlas/Notes/Sources/Willpower - Robinson et al (paper).md | Atlas/Notes/Sources/X/Willpower - Robinson et al (paper).md
+--- Atlas/Dots/Sources/Willpower - Robinson et al (paper).md
+
++++ Atlas/Notes/Sources/Willpower - Robinson et al (paper).md
+
+@@ -9,5 +9,5 @@
+
+ encountered: 2015
+-in:
+-  - "[[Papers]]"
+-  - "[[Sources]]"
++tags:
++  - source/paper
++type: "[[Paper]]"
+ ---
+--- Atlas/Dots/Sources/Willpower - Robinson et al (paper).md
+
++++ Atlas/Notes/Sources/X/Willpower - Robinson et al (paper).md
+
+@@ -8,6 +8,7 @@
+
+ year: 2010
+-encountered: 2015
+-in:
+-  - "[[Papers]]"
+-  - "[[Sources]]"
++yearXP: 2015
++tags:
++  - source/paper
++type:
++  - "[[Paper]]"
+ ---
+
+### Atlas/Dots/Statements/evaporated in a thousand follies.md | Atlas/Dots/Statements/–evaporated in a thousand follies.md
+--- Atlas/Dots/Statements/evaporated in a thousand follies.md
+
++++ Atlas/Dots/Statements/–evaporated in a thousand follies.md
+
+@@ -2,9 +2,11 @@
+
+ up:
+-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Direction (re Flow)]]"
+-related: []
++  - "[[Ideaverse Merged/Atlas/Dots/Things/Direction (re Flow)]]"
++in:
++  - "[[Ideaverse Merged/Atlas/Maps/Quotes]]"
++by:
++  - "[[Alexandre Dumas]]"
++related:
+ created: 2020-06-01
+-tags:
+-  - source/quote/100
++rank: 4
+ ---
+-
+ Dantes asks, 
+@@ -28,4 +30,4 @@
+
+ 
+-I mash up this concept from [[Alexandre Dumas]] with the Large Hadron Collider in Switzerland in my LYT workshop lesson focused on [[Ideaverse Merged/Atlas/Notes/Ideas/Thought Collisions]].
++I mash up this concept from [[Alexandre Dumas]] with the Large Hadron Collider in Switzerland in my LYT workshop lesson focused on [[Ideaverse Merged/Atlas/Dots/Things/Thought Collisions]].
+ 
+-Over at [[Ideaverse Merged/Atlas/Notes/Ideas/MOCs are Dialectics]], we continue marinating in this pressure cooker of thought.
++Over at [[Ideaverse Merged/Atlas/Dots/Statements/Statements/MOCs are Dialectics]], we continue marinating in this pressure cooker of thought.
+
+### Atlas/Dots/Statements/Why Efforts are Liberating.md | Atlas/Maps/Why Efforts are Liberating.md
+--- Atlas/Dots/Statements/Why Efforts are Liberating.md
+
++++ Atlas/Maps/Why Efforts are Liberating.md
+
+@@ -4,6 +4,9 @@
+
+ related:
+-  - "[[Ideaverse Merged/Atlas/Dots/Statements/Statements/The big differences between efforts and projects]]"
+-  - "[[Ideaverse Merged/Atlas/Dots/Statements/Statements/How ideas and efforts play nicely together]]"
++  - "[[Ideaverse Merged/Atlas/Notes/Ideas/The big differences between efforts and projects]]"
++  - "[[Ideaverse Merged/Atlas/Notes/Ideas/How ideas and efforts play nicely together]]"
+ created: 2021-01-01
++tags:
++  - map
+ ---
++
+ Thinking of your efforts as "efforts"—and not projects—is liberating and empowering because:
+@@ -19,4 +22,4 @@
+
+ 
+-- [[Ideaverse Merged/Atlas/Dots/Statements/Statements/The big differences between efforts and projects]]
+-- [[Ideaverse Merged/Atlas/Dots/Statements/Statements/How ideas and efforts play nicely together]]
+-- [[Ideaverse Merged/Atlas/Dots/Statements/Statements/A deeper dive into how ACE works]]
++- [[Ideaverse Merged/Atlas/Notes/Ideas/The big differences between efforts and projects]]
++- [[Ideaverse Merged/Atlas/Notes/Ideas/How ideas and efforts play nicely together]]
++- [[Ideaverse Merged/Atlas/Notes/Ideas/A deeper dive into how ACE works]]
+
+### Atlas/Dots/X/+ About Atlas.md | Atlas/Notes/X/+ About Atlas.md
+--- Atlas/Dots/X/+ About Atlas.md
+
++++ Atlas/Notes/X/+ About Atlas.md
+
+@@ -2,3 +2,3 @@
+
+ up:
+-  - "[[Meta PKM]]"
++  - "[[Meta Map]]"
+ related: []
+@@ -10,3 +10,3 @@
+
+ 
+-You'll usually navigate to them using your [[Home]] note, but keeping them in a folder away from your ever-growing note collection allows you to maintain them more easily as well as quickly navigate between them using the sidebar. 
++You'll usually navigate to them using your [[Home Pro]] note, but keeping them in a folder away from your ever-growing note collection allows you to maintain them more easily as well as quickly navigate between them using the sidebar. 
+ 
+
+### Atlas/Dots/X/+ About these notes.md | Atlas/Notes/X/+ About these notes.md
+--- Atlas/Dots/X/+ About these notes.md
+
++++ Atlas/Notes/X/+ About these notes.md
+
+@@ -2,3 +2,3 @@
+
+ up:
+-  - "[[Meta PKM]]"
++  - "[[Meta Map]]"
+ related: []
+@@ -12,2 +12,2 @@
+
+ 
+-The extra folder called `X` is where you can stuff older collections of notes you don't really need to see when you twirl into `Atlas/Notes`.
++The extra folder called `X` is where you can stuff collections of notes you don't really need to see when you twirl into `Atlas/Notes`. 
+
+### Atlas/Dots/X/+ Start Here.md | Atlas/Notes/Ideas/+ Start Here.md | Atlas/Notes/Things/+ Start Here.md
+--- Atlas/Dots/X/+ Start Here.md
+
++++ Atlas/Notes/Ideas/+ Start Here.md
+
+@@ -2,3 +2,3 @@
+
+ 
+-Taking a deep breath, you [[Ideaverse Merged/Atlas/Dots/Things/The forest entrance|enter the forest]].
++Taking a deep breath, you [[Ideaverse Merged/Atlas/Notes/Ideas/The forest entrance|enter the forest]].
+ 
+--- Atlas/Dots/X/+ Start Here.md
+
++++ Atlas/Notes/Things/+ Start Here.md
+
+@@ -2,3 +2,3 @@
+
+ 
+-Taking a deep breath, you [[Ideaverse Merged/Atlas/Dots/Things/The forest entrance|enter the forest]].
++Taking a deep breath, you [[Ideaverse Merged/Atlas/Notes/Things/The forest entrance|enter the forest]].
+ 
+
+### Atlas/Notes/Ideas/+ About Ideas.md | Atlas/Notes/Things/+ About Ideas.md
+--- Atlas/Notes/Ideas/+ About Ideas.md
+
++++ Atlas/Notes/Things/+ About Ideas.md
+
+@@ -2,4 +2,3 @@
+
+ up:
+-  - "[[Meta PKM]]"
+-related: []
++  - "[[Meta Map]]"
+ created: 2020-06-01
+
+### Atlas/Utilities/Excalidraw/excalibrain.md | x/Excalidraw/excalibrain.md
+IDENTICAL
+
+### Atlas/Utilities/Templates/Nick Milo's Custom Callouts.md | x/Templates/Nick Milo's Custom Callouts.md
+--- Atlas/Utilities/Templates/Nick Milo's Custom Callouts.md
+
++++ x/Templates/Nick Milo's Custom Callouts.md
+
+@@ -1,4 +1,4 @@
+
+-Please enjoy over 55 custom callouts for you to use and peruse. A version of this is included and already functioning in Ideaverse for Obsidian, but for other vaults, it requires a couple steps to activate them.
++Callouts can bring clarity and a splash of joy to your Ideaverse. Please enjoy over 55 custom callouts for you to use and peruse. A version of this is included and already functioning in Ideaverse Lite, but for other vaults, it requires a couple steps to activate them.
+ 
+-### Purple
++### 1) Purple
+ >[!Calendar]
+@@ -20,3 +20,3 @@
+
+ 
+-### Cyan
++### 2) Cyan
+ > [!Blocks]- Blocks 
+@@ -35,3 +35,3 @@
+
+ 
+-### Orange
++### 3) Orange
+ > [!BOOK]- Book 
+@@ -53,3 +53,3 @@
+
+ 
+-### Yellow
++### 4) Yellow
+ > [!combine]- Combine
+@@ -65,3 +65,3 @@
+
+ 
+-### Grey
++### 5) Grey
+ > [!Box]- Box
+@@ -82,3 +82,3 @@
+
+ 
+-### Pink
++### 6) Pink
+ > [!Activity]- Activity
+@@ -94,3 +94,3 @@
+
+ 
+-### Mint
++### 7) Mint
+ > [!Cable-car]- Cable-car
+@@ -110,3 +110,3 @@
+
+ 
+-### Green
++### 8) Green
+ > [!BIKE]- Bike 
+@@ -126,3 +126,3 @@
+
+ 
+-### Blue
++### 9) Blue
+ > [!Anchor]- Anchor
+@@ -142,3 +142,3 @@
+
+ 
+-### Red
++### 10) Red
+ > [!AWARD]- Award 
+
+### Atlas/Utilities/Templates/Template, Properties, Base.md | x/Templates/Template, Properties, Base.md
+--- Atlas/Utilities/Templates/Template, Properties, Base.md
+
++++ x/Templates/Template, Properties, Base.md
+
+@@ -3,2 +3,3 @@
+
+ related: []
++created: {{date}}
+ ---
+
+### Atlas/Utilities/Templates/Template, Properties, Daily Note (Kit).md | x/Templates/Template, Properties, Daily Note (Kit).md
+IDENTICAL
+
+### Atlas/Utilities/Templates/Template, Properties, Dates Dates Dates (Kit).md | x/Templates/Template, Properties, Dates Dates Dates (Kit).md
+IDENTICAL
+
+### Atlas/Utilities/Templates/Template, Properties, Effort (Kit).md | x/Templates/Template, Properties, Effort (Kit).md
+IDENTICAL
+
+### Atlas/Utilities/Templates/Template, Properties, Source (Kit).md | x/Templates/Template, Properties, Source (Kit).md
+--- Atlas/Utilities/Templates/Template, Properties, Source (Kit).md
+
++++ x/Templates/Template, Properties, Source (Kit).md
+
+@@ -5,4 +5,4 @@
+
+ encountered: 
+-tags:
+-type:
++tags: 
++in:
+ ---
+
+### Efforts/On/Flight School 2.5 (E) (Example).md | Efforts/On/🚀 Flight School 2.5 (E) (Example).md
+--- Efforts/On/Flight School 2.5 (E) (Example).md
+
++++ Efforts/On/🚀 Flight School 2.5 (E) (Example).md
+
+@@ -2,6 +2,6 @@
+
+ up:
+-  - "[[Flight School (OE) (Example)]]"
++  - "[[🚀 Flight School (OE) (Example)]]"
+ related: []
+ created: 2023-07-01
+-rank: "1"
++rank: "2"
+ ---
+
+### Efforts/On/Ideaverse Kit Launch (E) (Example).md | Efforts/On/🌌 Ideaverse Kit Launch (E) (Example).md
+--- Efforts/On/Ideaverse Kit Launch (E) (Example).md
+
++++ Efforts/On/🌌 Ideaverse Kit Launch (E) (Example).md
+
+@@ -2,7 +2,8 @@
+
+ up:
+-  - "[[Ideaverse Kit (OE) (Example)]]"
+-related: 
++  - "[[🌌 Ideaverse Kit (OE) (Example)]]"
++related: []
+ created: 2023-08-19
+-rank: 5.5
++rank: "5"
+ ---
++
+ The Ideaverse for Obsidian can be both efficient and evocative. 
+@@ -23,3 +24,3 @@
+
+ > - A working Home Dashboard that combines Knowledge & Action
+-> - The official release of the ACE Headspace (EDIT: formerly ACE Folder Framework)
++> - The official release of the ACE Folder Framework
+ > 
+@@ -32,3 +33,3 @@
+
+ > 
+-> Here's more secret sauce behind the ACE Headspace (EDIT: formerly ACE Folder Framework)...
++> Here's more secret sauce behind the ACE Folder Framework...
+ > 
+
+### Efforts/On/LYT W12 Production (E) (Example).md | Efforts/On/👨🏻‍🏫 LYT W12 Production (E) (Example).md
+--- Efforts/On/LYT W12 Production (E) (Example).md
+
++++ Efforts/On/👨🏻‍🏫 LYT W12 Production (E) (Example).md
+
+@@ -2,6 +2,6 @@
+
+ up:
+-  - "[[LYT Workshops (OE) (Example)]]"
+-related: 
++  - "[[👨🏻‍🏫 LYT Workshops (OE) (Example)]]"
++related: []
+ created: 2023-08-19
+-rank: 3
++rank: "5"
+ ---
+
+### Efforts/On/UCLA Supercharge Course (E) (Example).md | Efforts/On/👨🏻‍🏫 UCLA Supercharge Course (E) (Example).md
+--- Efforts/On/UCLA Supercharge Course (E) (Example).md
+
++++ Efforts/On/👨🏻‍🏫 UCLA Supercharge Course (E) (Example).md
+
+@@ -2,6 +2,6 @@
+
+ up:
+-  - "[[LYT Workshops (OE) (Example)]]"
++  - "[[👨🏻‍🏫 LYT Workshops (OE) (Example)]]"
+ related: []
+ created: 2023-06-30
+-rank: "3"
++rank: "4"
+ ---
+@@ -9,3 +9,3 @@
+
+ ## Live Sessions
+-Obviously, these are not included in **Ideaverse for Obsidian**, but you can see how I created outlines for each session.
++Obviously, these are not included in **Ideaverse Lite**, but you can see how I created outlines for each session.
+ 
+
+### Efforts/Ongoing/Flight School (OE) (Example).md | Efforts/Ongoing/🚀 Flight School (OE) (Example).md
+--- Efforts/Ongoing/Flight School (OE) (Example).md
+
++++ Efforts/Ongoing/🚀 Flight School (OE) (Example).md
+
+@@ -9,3 +9,3 @@
+
+ ## Current efforts
+-- [[Flight School 2.5 (E) (Example)]]
++- [[🚀 Flight School 2.5 (E) (Example)]]
+ 
+
+### Efforts/Ongoing/Ideaverse Kit (OE) (Example).md | Efforts/Ongoing/🌌 Ideaverse Kit (OE) (Example).md
+--- Efforts/Ongoing/Ideaverse Kit (OE) (Example).md
+
++++ Efforts/Ongoing/🌌 Ideaverse Kit (OE) (Example).md
+
+@@ -6,2 +6,3 @@
+
+ ---
++
+ The Ideaverse Kit carries a responsibility to people trying to be better with their thoughts.
+@@ -11,3 +12,3 @@
+
+ ## Current efforts
+-- [[Ideaverse Kit Launch (E) (Example)]]
++- [[🌌 Ideaverse Kit Launch (E) (Example)]]
+ 
+
+### Efforts/Ongoing/LYT Workshops (OE) (Example).md | Efforts/Ongoing/👨🏻‍🏫 LYT Workshops (OE) (Example).md
+--- Efforts/Ongoing/LYT Workshops (OE) (Example).md
+
++++ Efforts/Ongoing/👨🏻‍🏫 LYT Workshops (OE) (Example).md
+
+@@ -4,3 +4,3 @@
+
+ created: 2023-08-19
+-rank: 3
++rank: "3"
+ ---
+@@ -10,4 +10,4 @@
+
+ ## Workshop Production Hubs
+-- [[LYT W12 Production (E) (Example)]] - Fall 2023
+-- [[UCLA Supercharge Course (E) (Example)]] - Summer 2023
++- [[👨🏻‍🏫 LYT W12 Production (E) (Example)]] - Fall 2023
++- [[👨🏻‍🏫 UCLA Supercharge Course (E) (Example)]] - Summer 2023
+ - [[LYT W11 Production Hub]]
+
+### Efforts/Ongoing/My Finance (OE) (Example).md | Efforts/Ongoing/💰 My Finance (OE) (Example).md
+--- Efforts/Ongoing/My Finance (OE) (Example).md
+
++++ Efforts/Ongoing/💰 My Finance (OE) (Example).md
+
+@@ -2,11 +2,11 @@
+
+ up:
+-  - "[[Home Pro]]"
+-related: 
++  - "[[Home]]"
++related: []
+ created: 2015-01-01
+-tags:
+-  - map
+-rank: 3
++in: 
++- "[[Maps]]"
++rank: "3"
+ ---
+ Keep tabs on your personal finances. 
+-Fuzzy areas like [[My Health (OE) (Example)]] and [[My Finance (OE) (Example)]] are both maps and efforts.
++Fuzzy areas like [[🌼 My Health (OE) (Example)]] and [[💰 My Finance (OE) (Example)]] are both maps and efforts.
+ Here are some areas to consider...
+@@ -22,3 +22,3 @@
+
+ - Big Out
+-	- [[My Taxes 2023 (OE) (Example)]]
++	- [[💸 My Taxes 2023 (OE) (Example)]]
+ - Accounts
+@@ -39,2 +39,2 @@
+
+ 
+-Back to: [[Home Pro]]
++Back to: [[Home]]
+
+### Efforts/Ongoing/My Health (OE) (Example).md | Efforts/Ongoing/🌼 My Health (OE) (Example).md
+--- Efforts/Ongoing/My Health (OE) (Example).md
+
++++ Efforts/Ongoing/🌼 My Health (OE) (Example).md
+
+@@ -2,11 +2,11 @@
+
+ up:
+-  - "[[Home Pro]]"
+-related: 
++  - "[[Home]]"
++related: []
+ created: 2010-01-01
+-tags:
+-  - map
+-rank: 2
++in: 
++- "[[Maps]]"
++rank: "2"
+ ---
+ This is for areas of physical health, wellness, training, and exercise. 
+-Fuzzy areas like [[My Health (OE) (Example)]] and [[My Finance (OE) (Example)]] are both maps and efforts.
++Fuzzy areas like [[🌼 My Health (OE) (Example)]] and [[💰 My Finance (OE) (Example)]] are both maps and efforts.
+ 
+
+### Efforts/Ongoing/My Taxes 2023 (OE) (Example).md | Efforts/Ongoing/💸 My Taxes 2023 (OE) (Example).md
+--- Efforts/Ongoing/My Taxes 2023 (OE) (Example).md
+
++++ Efforts/Ongoing/💸 My Taxes 2023 (OE) (Example).md
+
+@@ -4,5 +4,5 @@
+
+ related:
+-  - "[[My Finance (OE) (Example)]]"
++  - "[[💰 My Finance (OE) (Example)]]"
+ created: 2023-08-19
+-rank: 4
++rank: "1"
+ ---
+
+### Efforts/Ongoing/Newsletter (OE) (Example).md | Efforts/Ongoing/🗞️ Newsletter (OE) (Example).md
+--- Efforts/Ongoing/Newsletter (OE) (Example).md
+
++++ Efforts/Ongoing/🗞️ Newsletter (OE) (Example).md
+
+@@ -4,5 +4,5 @@
+
+ created: 2021-02-01
+-rank: 4
+-tags:
+-  - map
++rank: "4"
++in: 
++- "[[Maps]]"
+ ---
+
+### Efforts/Ongoing/Videos (OE) (Example).md | Efforts/Ongoing/📹 Videos (OE) (Example).md
+--- Efforts/Ongoing/Videos (OE) (Example).md
+
++++ Efforts/Ongoing/📹 Videos (OE) (Example).md
+
+@@ -4,5 +4,5 @@
+
+ created: 2020-01-01
+-rank: 4
+-tags:
+-  - map
++rank: "4"
++in: 
++- "[[Maps]]"
+ ---
+@@ -10,6 +10,4 @@
+
+ 
+-
+-
+-> [!Watch]- ##### Videos on Deck
+-> This filters for `#output/youtube◻️` with a rank above `3`. This may be empty for Ideaverse Pro, but it's not for Nick's personal ideaverse.
++> [!Watch]+ ###### Videos on Deck
++> This filters for `#output/youtube◻️` with a rank above `3`.
+ > 
+@@ -27,3 +25,3 @@
+
+ 
+-> [!Video]+ ##### Published Youtube Videos
++> [!Video]+ ###### Published Youtube Videos
+ > ```dataview
+
+### Efforts/Simmering/LYT Podcast (E) (Example).md | Efforts/Simmering/🎙️ LYT Podcast (E) (Example).md
+--- Efforts/Simmering/LYT Podcast (E) (Example).md
+
++++ Efforts/Simmering/🎙️ LYT Podcast (E) (Example).md
+
+@@ -1,3 +1,3 @@
+
+ ---
+-top:
++up:
+   - "[[Efforts]]"
+
+### Efforts/Simmering/LYT Start Here, Again (E) (Example).md | Efforts/Simmering/📹 LYT Start Here, Again (E) (Example).md
+IDENTICAL
+
+### Efforts/Sleeping/LYT Conference (OE) (Example).md | Efforts/Sleeping/👨‍👩‍👧‍👦 LYT Conference (OE) (Example).md
+IDENTICAL
+
+## pro folder paths
+{
+  "+": 12,
+  "Atlas/Maps": 42,
+  "Atlas/Notes/People": 15,
+  "Atlas/Notes/Sources": 1,
+  "Atlas/Notes/Sources/Books": 16,
+  "Atlas/Notes/Sources/Shows": 82,
+  "Atlas/Notes/Sources/X": 6,
+  "Atlas/Notes/Statements": 82,
+  "Atlas/Notes/Statements/Questions": 1,
+  "Atlas/Notes/Things": 114,
+  "Atlas/Notes/X": 2,
+  "Atlas/Notes/X/Entities": 1,
+  "Atlas/Notes/X/Meta": 8,
+  "Atlas/Notes/X/Quotes": 21,
+  "Atlas/Utilities": 1,
+  "Atlas/Utilities/Excalidraw": 2,
+  "Atlas/Utilities/Images": 40,
+  "Atlas/Utilities/Prompts": 10,
+  "Atlas/Utilities/Scripts": 2,
+  "Atlas/Utilities/Templates": 31,
+  "Calendar/Logs": 2,
+  "Calendar/Notes": 8,
+  "Calendar/Notes/Past Years": 11,
+  "Efforts/Notes/My Newsletters": 7,
+  "Efforts/Notes/UCLA Supercharge Course": 6,
+  "Efforts/On": 4,
+  "Efforts/Ongoing": 8,
+  "Efforts/Simmering": 4,
+  "Efforts/Sleeping": 1,
+  ".": 2
+}
+
+## pro special filenames
+Atlas/Maps/Add.md
+Atlas/Maps/Books.md
+Atlas/Maps/Calendar.md
+Atlas/Maps/Collections.md
+Atlas/Maps/Communicate.md
+Atlas/Maps/Concepts Map.md
+Atlas/Maps/Concepts.md
+Atlas/Maps/Courses.md
+Atlas/Maps/Efforts.md
+Atlas/Maps/Entities.md
+Atlas/Maps/Habits Map.md
+Atlas/Maps/Idea Accretion.md
+Atlas/Maps/Idea Development.md
+Atlas/Maps/Idea Maintenance.md
+Atlas/Maps/Language MOC.md
+Atlas/Maps/Library.md
+Atlas/Maps/Life Map.md
+Atlas/Maps/Maps.md
+Atlas/Maps/Meetings.md
+Atlas/Maps/Meta Map.md
+Atlas/Maps/Movies.md
+Atlas/Maps/My Virtues (starter).md
+Atlas/Maps/People Map.md
+Atlas/Maps/People ROARs.md
+Atlas/Maps/People.md
+Atlas/Maps/Philosophy MOC (kit).md
+Atlas/Maps/Places MOC.md
+Atlas/Maps/Plan and Review.md
+Atlas/Maps/Prompts.md
+Atlas/Maps/Psychology MOC (kit).md
+Atlas/Maps/Questions.md
+Atlas/Maps/Quotes.md
+Atlas/Maps/Recents Visualized.md
+Atlas/Maps/Recents.md
+Atlas/Maps/Relate.md
+Atlas/Maps/Series.md
+Atlas/Maps/Statements.md
+Atlas/Maps/Systems MOC (kit).md
+Atlas/Maps/Templates.md
+Atlas/Maps/Things.md
+Atlas/Maps/Thinking Map.md
+Atlas/Maps/Workflows.md
+Atlas/Notes/Things/+ About Ideas.md
+Atlas/Notes/Things/+ Start Here.md
+Atlas/Notes/Things/About LYT.md
+Atlas/Notes/Things/ACE Headspace.md
+Atlas/Notes/Things/Aikido.md
+Atlas/Notes/Things/Antifragility.md
+Atlas/Notes/Things/ARC Ideation.md
+Atlas/Notes/Things/Art of Link Curation.md
+Atlas/Notes/Things/Attention (re Flow).md
+Atlas/Notes/Things/BOAT notes.md
+Atlas/Notes/Things/Bottom-up thinking.md
+Atlas/Notes/Things/Cabin.md
+Atlas/Notes/Things/Cause and Effect.md
+Atlas/Notes/Things/Chunking.md
+Atlas/Notes/Things/Cobwebs into Cables.md
+Atlas/Notes/Things/Collective Intelligence.md
+Atlas/Notes/Things/Commonplace Book.md
+Atlas/Notes/Things/Complexity (defn).md
+Atlas/Notes/Things/Concept Expansion.md
+Atlas/Notes/Things/Conditions of Flow.md
+Atlas/Notes/Things/Convergence (defn).md
+Atlas/Notes/Things/Cybertron Theme.md
+Atlas/Notes/Things/Data view notes (defn).md
+Atlas/Notes/Things/Deliberate Practice.md
+Atlas/Notes/Things/Dimensions of Reality.md
+Atlas/Notes/Things/Direction (re Flow).md
+Atlas/Notes/Things/Divergence (defn).md
+Atlas/Notes/Things/Effort Maestro.md
+Atlas/Notes/Things/Emergence (defn).md
+Atlas/Notes/Things/Energy (re Flow).md
+Atlas/Notes/Things/Enthusiasm (re Flow).md
+Atlas/Notes/Things/Evergreen notes (defn).md
+Atlas/Notes/Things/Evergreen notes.md
+Atlas/Notes/Things/Feedback Loop.md
+Atlas/Notes/Things/First Light, Last Light.md
+Atlas/Notes/Things/Flow Map.md
+Atlas/Notes/Things/Flow Stoppers.md
+Atlas/Notes/Things/Flow.md
+Atlas/Notes/Things/FlowCreation MOC.md
+Atlas/Notes/Things/FlowCreation Theory.md
+Atlas/Notes/Things/Fluid Frameworks.md
+Atlas/Notes/Things/Fluid Taxonomies.md
+Atlas/Notes/Things/Fluid Thinking.md
+Atlas/Notes/Things/Forcing Function.md
+Atlas/Notes/Things/Four Factors of Flow.md
+Atlas/Notes/Things/Four Virtues.md
+Atlas/Notes/Things/Framing.md
+Atlas/Notes/Things/Future-proofed.md
+Atlas/Notes/Things/Gall's Law.md
+Atlas/Notes/Things/Guiding assumptions for linked notes.md
+Atlas/Notes/Things/Guiding Values of PKM.md
+Atlas/Notes/Things/Habits MOC - Collide.md
+Atlas/Notes/Things/Habits MOC - Gather.md
+Atlas/Notes/Things/Heterarchy.md
+Atlas/Notes/Things/Hormesis.md
+Atlas/Notes/Things/Idea Emergence (defn).md
+Atlas/Notes/Things/Ideaverse for Obsidian - Release Notes.md
+Atlas/Notes/Things/In case of a focus emergency.md
+Atlas/Notes/Things/Levels of Magnification.md
+Atlas/Notes/Things/Like begets like.md
+Atlas/Notes/Things/Lindy Effect.md
+Atlas/Notes/Things/LYT FAQ.md
+Atlas/Notes/Things/LYT Frameworks.md
+Atlas/Notes/Things/LYT Glossary.md
+Atlas/Notes/Things/LYT Mode Theme.md
+Atlas/Notes/Things/Mental Squeeze Point.md
+Atlas/Notes/Things/Meta-Skills for Flowcreation.md
+Atlas/Notes/Things/Method of Loci.md
+Atlas/Notes/Things/MOCs (defn).md
+Atlas/Notes/Things/MOCs Overview.md
+Atlas/Notes/Things/Mountain Top Water Drop.md
+Atlas/Notes/Things/Munger's Mental Models.md
+Atlas/Notes/Things/Natural Selection.md
+Atlas/Notes/Things/Newton's Laws of Motion.md
+Atlas/Notes/Things/No-Face.md
+Atlas/Notes/Things/Note-makers.md
+Atlas/Notes/Things/Note-takers.md
+Atlas/Notes/Things/On having a TODO note.md
+Atlas/Notes/Things/OODA Loop.md
+Atlas/Notes/Things/PKM Planet 1 - What is PKM.md
+Atlas/Notes/Things/Plato's Cave.md
+Atlas/Notes/Things/Priming.md
+Atlas/Notes/Things/Progressive Ideation.md
+Atlas/Notes/Things/Ptolemy (kit).md
+Atlas/Notes/Things/Refraction Thinking.md
+Atlas/Notes/Things/Reps.md
+Atlas/Notes/Things/Rubik's Cube.md
+Atlas/Notes/Things/Seasons.md
+Atlas/Notes/Things/Selfish Gene.md
+Atlas/Notes/Things/Sense of Control.md
+Atlas/Notes/Things/Sense-making sessions.md
+Atlas/Notes/Things/Shadow Clone.md
+Atlas/Notes/Things/Signal to Noise Ratio.md
+Atlas/Notes/Things/Solutions to Flow Stoppers.md
+Atlas/Notes/Things/Some Allusions from Literature.md
+Atlas/Notes/Things/Some Greek Allusions.md
+Atlas/Notes/Things/Sound sensory sensitivity.md
+Atlas/Notes/Things/Spatial Context.md
+Atlas/Notes/Things/Strong opinions, weakly held.md
+Atlas/Notes/Things/Survival of the Fittest.md
+Atlas/Notes/Things/Synthesis.md
+Atlas/Notes/Things/The 3 Phases of MOCs, a coda.md
+Atlas/Notes/Things/The 3 Phases of MOCs.md
+Atlas/Notes/Things/The forest entrance.md
+Atlas/Notes/Things/The Four Intensities of Efforts.md
+Atlas/Notes/Things/The Home note vs The MOC Library.md
+Atlas/Notes/Things/The Id.md
+Atlas/Notes/Things/Thought Collisions.md
+Atlas/Notes/Things/Trust the process (kit).md
+Atlas/Notes/Things/Use it or Lose it.md
+Atlas/Notes/Things/Vulnerability.md
+Atlas/Notes/Things/Words I've used to describe important habits.md
+Atlas/Notes/Things/Wu wei.md
+Atlas/Notes/Things/Yin and Yang.md
+Atlas/Notes/X/Meta/LYT Classification System for Personal Knowledge Management.md
+Atlas/Notes/X/Meta/LYT Standards of Classification.md
+Atlas/Notes/X/Meta/Nick Milo's Pro Custom Callouts.md
+Atlas/Notes/X/Meta/Nick Milo's Starting Custom Callouts.md
+Atlas/Notes/X/Meta/People Classification Master Key.md
+Atlas/Notes/X/Meta/ROAR Master Key.md
+Atlas/Notes/X/Meta/Welcome to Collections.md
+Atlas/Notes/X/Meta/Welcome to Ideaverse Pro.md
+Atlas/Notes/X/Quotes/A still more glorious dawn awaits. Not a sunrise, but a galaxy rise–.md
+Atlas/Notes/X/Quotes/All that you touch is change–.md
+Atlas/Notes/X/Quotes/All you have to do is decide what to do with the time that is given to you.md
+Atlas/Notes/X/Quotes/An eye for an eye will only make the whole world blind.md
+Atlas/Notes/X/Quotes/Be regular and orderly in your life, so that you may be violent and original in your work..md
+Atlas/Notes/X/Quotes/Do what you can, where you are, with what you have..md
+Atlas/Notes/X/Quotes/Everybody has plans until they get hit.md
+Atlas/Notes/X/Quotes/I don't know half of you half as well as I should like–.md
+Atlas/Notes/X/Quotes/If you wish to make an apple pie from scratch–.md
+Atlas/Notes/X/Quotes/Not all those who wander are lost.md
+Atlas/Notes/X/Quotes/Nothing stood in his way, except for whatever emotional upset he choose to hold onto.md
+Atlas/Notes/X/Quotes/Pay attention. Be amazed. Tell about it..md
+Atlas/Notes/X/Quotes/The future is here, but not evenly distributed.md
+Atlas/Notes/X/Quotes/The journey of a thousand miles begins with a single step.md
+Atlas/Notes/X/Quotes/There is no greater agony than bearing an untold story inside you.md
+Atlas/Notes/X/Quotes/There is no story that is not true...If you don't like my story, write your own.md
+Atlas/Notes/X/Quotes/To be or not to be–.md
+Atlas/Notes/X/Quotes/Truth is a matter of the imagination.md
+Atlas/Notes/X/Quotes/Your imagination is your preview of life’s coming attractions..md
+Atlas/Notes/X/Quotes/–a few are so free they are enslaved to pursue their follies.md
+Atlas/Notes/X/Quotes/–people will forget what you said...but people will never forget how you made them feel.md
+
+## lite folder paths
+{
+  "+": 6,
+  "Atlas/Dots/People": 9,
+  "Atlas/Dots/Sources": 15,
+  "Atlas/Dots/Statements": 45,
+  "Atlas/Dots/Things": 147,
+  "Atlas/Dots/X": 4,
+  "Atlas/Maps": 29,
+  "Calendar": 1,
+  "Calendar/Logs": 2,
+  "Calendar/Notes": 4,
+  "Calendar/Notes/Past Years": 11,
+  "Efforts/Notes/My Newsletters": 7,
+  "Efforts/Notes/UCLA Supercharge Course": 6,
+  "Efforts/On": 4,
+  "Efforts/Ongoing": 8,
+  "Efforts/Simmering": 2,
+  "Efforts/Sleeping": 1,
+  ".": 4,
+  "x": 1,
+  "x/Excalidraw": 1,
+  "x/Images": 37,
+  "x/Templates": 7
+}
+
+## lite special filenames
+Atlas/Dots/X/+ About Atlas.md
+Atlas/Dots/X/+ About Dots.md
+Atlas/Dots/X/+ About these notes.md
+Atlas/Dots/X/+ Start Here.md
+Atlas/Maps/Add.md
+Atlas/Maps/Books.md
+Atlas/Maps/Calendar.md
+Atlas/Maps/Communicate.md
+Atlas/Maps/Concepts.md
+Atlas/Maps/Courses.md
+Atlas/Maps/Efforts.md
+Atlas/Maps/Games.md
+Atlas/Maps/Habits Map.md
+Atlas/Maps/Language MOC.md
+Atlas/Maps/Library.md
+Atlas/Maps/Life Map.md
+Atlas/Maps/Maps.md
+Atlas/Maps/Meta PKM.md
+Atlas/Maps/Movies.md
+Atlas/Maps/My Virtues (starter).md
+Atlas/Maps/Papers.md
+Atlas/Maps/People Map.md
+Atlas/Maps/Philosophy MOC (kit).md
+Atlas/Maps/Places MOC.md
+Atlas/Maps/Plan and Review.md
+Atlas/Maps/Psychology MOC (kit).md
+Atlas/Maps/Relate.md
+Atlas/Maps/Songs.md
+Atlas/Maps/Sources.md
+Atlas/Maps/Speeches.md
+Atlas/Maps/Systems MOC (kit).md
+Atlas/Maps/Thinking Map.md
+Atlas/Maps/Views.md

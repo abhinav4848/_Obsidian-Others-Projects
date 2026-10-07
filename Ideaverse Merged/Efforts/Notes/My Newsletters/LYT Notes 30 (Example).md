@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[🗞️ Newsletter (OE) (Example)]]"
+  - "[[Ideaverse Merged/Efforts/Ongoing/🗞️ Newsletter (OE) (Example)]]"
 created: 2021-12-28
 tags:
   - output/newsletter

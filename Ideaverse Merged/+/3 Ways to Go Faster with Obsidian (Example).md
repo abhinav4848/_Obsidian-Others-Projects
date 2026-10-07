@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Communicate]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Communicate]]"
 created: 2023-08-07
 rank: "5"
 tags:

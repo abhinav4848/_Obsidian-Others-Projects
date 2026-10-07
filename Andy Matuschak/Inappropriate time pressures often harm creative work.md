@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z9TuEpnqEtLdy2TWWVicLsU
+---
 # Inappropriate time pressures often harm creative work
  [[Constraints often breed creativity]], but not when the nature of the constraint is simply incompatible with the work at hand. For instance, when you’re not what direction to head next in a design, “Crazy Eights” can help: fold a piece of paper into eight parts, then spend one minute sketching an idea into each part. Great! If you’ve got momentum on a project, setting a timeline can help you make better trade-offs, satisfice into “done”, and sometimes even focus. But if you’re trying to finish up a major creative project before some deadline, and you find yourself in a state that’s incompatible with the deadline, then that time pressure isn’t going to provide helpful focus: it’s going to make you feel like a failure ([[Scarcity mindset]]) and make the work even worse.
 
@@ -16,6 +19,3 @@ Q. Recall the parable of trying to adapt the stats textbook under a tight deadli
 A. … (see note if necessary)
 
 Vaguely related: [[Momentum as explore-exploit heuristic in creative work]]
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/z9TuEpnqEtLdy2TWWVicLsU)

@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zKRrv2DmKp3VyDEp3oXrKXQ
+---
 # The mnemonic medium can be adapted to author an experience which unfolds over time
 [[The mnemonic medium keeps readers in contact with material over time]]. This means that texts in the [[Mnemonic medium]]—particularly the prompts—must be written to be consumed not only in some initial reading session, but on dozens of occasions over the following weeks and months ([[Timeful text]]).
 
@@ -12,5 +15,4 @@ Another approach: we rebrand “the 5-day level” as “level 2”, “the two-
 Yet another approach: [[Mnemonic texts could be serialized in small sections over time, timed to reader recall]]
 
 # Reference
-1. [Andy Link](https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zKRrv2DmKp3VyDEp3oXrKXQ)
 2. [[Execute Program]]'s notes are very specific so I haven't linked them. 

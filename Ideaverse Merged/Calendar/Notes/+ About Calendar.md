@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Meta PKM]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Meta PKM]]"
 created: 2023-08-20
 tags:
   - x/readme
@@ -16,4 +16,4 @@ This folder called "Calendar" is mostly empty because this is just a starter kit
 - Tracking Notes
 - Outputted Materials: Articles, Speeches, etc
 
-Learn more about the [[Calendar]] portal.
+Learn more about the [[Ideaverse Merged/Atlas/Maps/Calendar]] portal.

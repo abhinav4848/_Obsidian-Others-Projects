@@ -1,9 +1,14 @@
 ---
 up:
-  - "[[Home]]"
+- '[[Ideaverse Merged/Home]]'
+- '[[Ideaverse Merged/Home Pro]]'
 created: 2015-01-01
 in: 
-- "[[Maps]]"
+- "[[Ideaverse Merged/Atlas/Maps/Maps]]"
+tags:
+  - map
+aliases:
+- Meta Map
 ---
 Hi Future Self 👋 Here are "best practices" for managing your PKM system. 
 

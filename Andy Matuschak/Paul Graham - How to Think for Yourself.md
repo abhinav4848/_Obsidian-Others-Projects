@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/z5zoV8TdSds59vQEkqp3JEz?stackedNotes=zJSKcfuiq25LpAasw4yK7xk
+URL: https://notes.andymatuschak.org/z5zoV8TdSds59vQEkqp3JEz?stackedNotes=zJSKcfuiq25LpAasw4yK7xk
 ---
 # Paul Graham - How to Think for Yourself
 [How to Think for Yourself](http://paulgraham.com/think.html) #external 
@@ -23,7 +22,3 @@ Few institutional feedback loops for independent-mindedness through adolescence:
 > When you hear someone say something, stop and ask yourself “Is that true?” … The end goal is not to find flaws in the things you’re told, but to find the new ideas that had been concealed by the broken ones. So this game should be an exciting quest for novelty, not a boring protocol for intellectual hygiene.
 
 [[Frame truth-seeking questions in terms of “to what extent” and “in what sense” rather than binaries|Frame truth-seeking questions in terms of “to what extent?” and “in what sense?” rather than binaries]]
-
-
-# References
-1. [Andy Link](https://notes.andymatuschak.org/z5zoV8TdSds59vQEkqp3JEz?stackedNotes=zJSKcfuiq25LpAasw4yK7xk)

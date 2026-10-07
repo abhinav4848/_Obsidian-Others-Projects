@@ -1,4 +1,3 @@
-
-
-# Source
-1. Andy Link: [Human perception](https://notes.andymatuschak.org/zDpsPyKLRFGZowYaHoDpWnJ)
+---
+URL: https://notes.andymatuschak.org/zDpsPyKLRFGZowYaHoDpWnJ
+---

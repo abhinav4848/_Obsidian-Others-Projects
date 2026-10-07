@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zWSH2QNUsrTGP4V15JBaaEv
+---
 # Cognitive scaffolding
 When thinking or doing something new and challenging, one common failure mode is that the smallest possible incremental step might still be too difficult to conceive. In these instances, it’s best to adopt an environment which will erect *cognitive scaffolding* to support part of the cognitive load, enabling that next step. As the actor builds capacity, the scaffolding can be gradually removed, either by him or by his environment. The temporary nature of the scaffolding makes this a subset of mechanisms for augmenting cognition.
 
@@ -12,6 +15,3 @@ One common type of dynamic scaffold is simply a static scaffold, continuously ad
 One particularly important type of dynamic scaffolding is metacognitive supports. Among media forms, games are particularly effective at supporting metacognition. See [[Metacognitive supports as cognitive scaffolding]] and [[Metacognitive supports require dynamic, participatory environments]].
 
 Scaffolding is often discussed in the context of [[Cognitive load theory]] and [[Cognitive apprenticeship]].
-
-# References
-1. [Andy Link](https://notes.andymatuschak.org/zWSH2QNUsrTGP4V15JBaaEv)

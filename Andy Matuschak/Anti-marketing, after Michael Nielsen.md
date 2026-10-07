@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/About_these_notes?stackedNotes=zCMhncA1iSE74MKKYQS5PBZ&stackedNotes=zF9ywLHqHfN5rFuPApiyqmP
+---
 # Anti-marketing, after Michael Nielsen
 
 When speaking publicly, researchers and entrepreneurs alike tend to present the rosiest possible picture of their work. This often leads to harmful over-claiming ([[Pitching out corrupts within]]) and a less personal, more transactional relationship with others. An interesting antidote is to actively practice “anti-marketing”: to make a point of focusing publicly on the _least_ rosy parts of one’s projects—what’s confusing, what’s frustrating, what’s not working.
@@ -28,5 +31,3 @@ Related is [Bret Victor](https://notes.andymatuschak.org/Bret_Victor)’s term 
 
 Q. How does Bret Victor want John Cramer to convince him of his QM interpretation?  
 A. By letting him actively try and fail to refute his interpretation, by making the experience of the book be about engagement with his computational models. ([source](https://dynamicland.org/archive/2016/Transactional_interpretations) #external)
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zCMhncA1iSE74MKKYQS5PBZ&stackedNotes=zF9ywLHqHfN5rFuPApiyqmP)

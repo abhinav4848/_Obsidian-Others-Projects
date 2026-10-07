@@ -1,10 +1,12 @@
 ---
 up:
-  - "[[Efforts]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Efforts]]"
 related:
-  - "[[Ideaverse Merged/Atlas/Dots/Statements/Statements/The big differences between efforts and projects]]"
-  - "[[Ideaverse Merged/Atlas/Dots/Statements/Statements/How ideas and efforts play nicely together]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Statements/The big differences between efforts and projects]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Statements/How ideas and efforts play nicely together]]"
 created: 2021-01-01
+tags:
+  - map
 ---
 Thinking of your efforts as "efforts"—and not projects—is liberating and empowering because:
 
@@ -17,6 +19,6 @@ Thinking of your efforts as "efforts"—and not projects—is liberating and emp
 
 Learn more about efforts:
 
-- [[Ideaverse Merged/Atlas/Dots/Statements/Statements/The big differences between efforts and projects]]
-- [[Ideaverse Merged/Atlas/Dots/Statements/Statements/How ideas and efforts play nicely together]]
-- [[Ideaverse Merged/Atlas/Dots/Statements/Statements/A deeper dive into how ACE works]]
+- [[Ideaverse Merged/Atlas/Dots/Statements/The big differences between efforts and projects]]
+- [[Ideaverse Merged/Atlas/Dots/Statements/How ideas and efforts play nicely together]]
+- [[Ideaverse Merged/Atlas/Dots/Statements/A deeper dive into how ACE works]]

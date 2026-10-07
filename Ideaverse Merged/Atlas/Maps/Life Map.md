@@ -1,10 +1,10 @@
 ---
 up:
-  - "[[Home]]"
+  - "[[Ideaverse Merged/Home]]"
 related: []
 created: 2016-01-01
 in: 
-- "[[Maps]]"
+- "[[Ideaverse Merged/Atlas/Maps/Maps]]"
 ---
 I'm amazed at how many people don't zoom out and consider how to live a good life.
 

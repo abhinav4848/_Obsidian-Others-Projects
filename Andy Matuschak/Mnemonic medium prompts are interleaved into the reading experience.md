@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z59PYkSdPeznr95fco4GRQx?stackedNotes=z4m9Gat7zi9YUmZzQRR7pwt&stackedNotes=zTzb8spnoqzxs3mkvPKprmn
+---
 # Mnemonic medium prompts are interleaved into the reading experience
 
 Type of Link: 📝 Article
@@ -24,7 +27,3 @@ A dependency of this design decision: [The mnemonic medium’s design relies on
 Some questions:
 
 - [How should mnemonic medium review sets be spaced in the text?](https://notes.andymatuschak.org/z7wbDzsbvNe1Qm753vPe6Up)
-
-# Reference
-
-1. [Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k&stackedNotes=zLhoRUyjKU665EY16u4XXJy&stackedNotes=z2hQEhqWkdRLL9JUwfawZZx&stackedNotes=z8ccRLda8BqJafNxjQBpzis&stackedNotes=zES5WRczfGgXptmM9tSCwvy&stackedNotes=zMybAxZcdkJHKSATuSZbEhz&stackedNotes=z59PYkSdPeznr95fco4GRQx&stackedNotes=z4m9Gat7zi9YUmZzQRR7pwt&stackedNotes=zTzb8spnoqzxs3mkvPKprmn)

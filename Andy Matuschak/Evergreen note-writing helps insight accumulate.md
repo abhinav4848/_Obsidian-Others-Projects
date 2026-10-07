@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zR6RRbCfY5rFkiimFnaJZKB?stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNqLdKMiTo9EHA9EWYGXs7b
+---
 # Evergreen note-writing helps insight accumulate
 Much of the day-to-day thinking involved in creative work is simply lost, like sand castles in the tide. Ephemerality can actually be useful in low-fidelity thought, but it’s simply an accidental property in many cases. We should do our serious thinking in the form of [[Andy Matuschak/Evergreen Notes|Evergreen Notes]] so that the thinking accumulates.
 
@@ -14,5 +17,4 @@ And if you can’t write even one atomic note on the idea you have, Spaced repet
 Related: [[Better note-taking misses the point; what matters is “better thinking”]] 
 
 # Reference
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNqLdKMiTo9EHA9EWYGXs7b)=
 2. Simplified: [Evergreen note-writing helps insight accumulate](https://notes.andymatuschak.org/z4EXkuLjdBrBZe7PVAGXc5a) 

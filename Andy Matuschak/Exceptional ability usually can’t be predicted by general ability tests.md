@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zLhoRUyjKU665EY16u4XXJy?stackedNotes=z3CX38AdFzNGcujEwctVj5X&stackedNotes=z5cUVyz3Ffn1y9p5eaZTzBA
+---
 # Exceptional ability usually can’t be predicted by general ability tests
 - “Creativity ratings” of professional architects, mathematicians, and scientists, assigned by a survey of professors, were not significantly correlated with IQ ({MacKinnon}, {1968}). However, entering these professions seems to require high IQ: {98%} of the {140} people covered by the study had IQs in the range {118}-{140}.
 - Master-level chess skill doesn’t seem to be associated with the results of psychometric tests in adults (see review in Grabner et al, 2006)
@@ -16,5 +19,3 @@ A. Children
 
 Q. What are some examples of fields in which exceptional performance is not correlated with psychometric tests?
 A. e.g. chess, architecture
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k&stackedNotes=zLhoRUyjKU665EY16u4XXJy&stackedNotes=z3CX38AdFzNGcujEwctVj5X&stackedNotes=z5cUVyz3Ffn1y9p5eaZTzBA)

@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zBHPw9pNzXjh84EutqH25o1
+---
 # Kintsch, W. (1994). Text comprehension, memory, and learning. American Psychologist, 49(4), 294–303
 
 Excellent classic review paper from [Walter Kintsch](https://notes.andymatuschak.org/z4iLYNrW4FT34UpFsPZtR9h).
@@ -11,5 +14,3 @@ For example, he cites a study which compared advance organizers ([Ausubel, D. P.
 He also suggests that “the best text form” will depend on a reader’s prior knowledge, citing a study which found that low-knowledge readers learn best from high-coherence texts, but the opposite is true for high-knowledge readers. This might be because “the text was so easy for them that they felt they understood it well, without actually being sufficiently challenged to work out all the details. A feeling of understanding at the level of the textbase can conceal incomplete understanding at the level of the situation model.”
 
 He closes by pointing out that “the problem for learning from text is that reading can be too easy: it takes very little effort to read most texts with a good sense of understanding. All too often, however, that understanding is only superficial.”
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/zBHPw9pNzXjh84EutqH25o1) 

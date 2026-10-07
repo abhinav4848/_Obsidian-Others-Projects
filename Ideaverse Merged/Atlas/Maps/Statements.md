@@ -1,10 +1,10 @@
 ---
 in:
-  - "[[Collections]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Collections]]"
 related:
-  - "[[Things]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Things]]"
 down:
-  - "[[Questions]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Questions]]"
   - "[[Ideaverse Merged/Atlas/Maps/Quotes]]"
 tags:
   - "#map/view"
@@ -19,7 +19,7 @@ This note collects all notes in the folder `Statements`.
 >  file.link as "Statements",
 >  (date(today) - file.cday).day as "Days alive"
 >  
-> FROM "Atlas/Notes/Statements" or "Atlas/Notes/Vaults/Ideaverse/Atlas/Notes/Statements"
+> FROM "Ideaverse Merged/Atlas/Dots/Statements" or "Ideaverse Merged/Atlas/Dots/Statements"
 > 
 > SORT file.ctime desc
 > ```

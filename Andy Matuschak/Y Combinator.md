@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zN7KLBKWMTmFqthmFPVSNbP?stackedNotes=zGNVRh1q5gGeF88PbmYu4BB&stackedNotes=z9MxCsvv8DcHndqRECbxrRi
+---
 # Y Combinator
 Y Combinator is a startup incubator which, besides funding, offers its participants a structured environment meant to accelerate both their company and their personal capacity. Many of the activities focus on conveying a honed set of practices and values: e.g. interviews and dinners with successful past founders transmit cultural knowledge almost mythically; a canonical set of books and talks do likewise; the tight Demo Day timeline mandates a certain way of doing; office hours provide direct coaching in the same principles.
 
@@ -6,6 +9,3 @@ Y Combinator is an [[Enabling environment]]: founders regularly report finding 
 Y Combinator is also an [[Enacted experience]]. By structuring their lives around the dinners, milestones, talks, and office hours, founders fairly consistently absorb a certain set of practices and values, and at events like Demo Day, they fairly consistently experience a certain set of emotional experiences. But many of these experiences don’t feel “forced” from the outside; many of the experiences feel like something the founders brought about—even though they wouldn’t have been accessible outside the context of YC ([[Enacted experiences can bootstrap active participation in enabling environments]]). These activities aren’t framed as “practice.” They’re framed as _doing_ ([[Enabling environments focus on creating opportunities for growth and action, not on skill-building]]).
 
 Y Combinator also offers “Startup School,” a pared-down distance learning version of the same program. My impression is that it doesn’t offer the same consistency in enacted experience—but it would be very powerful if it did (see [[Enacted experiences have incredible potential as a mass medium]]).
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zSNDTj75ULnYMo7pGm2Frg7&stackedNotes=z4exmF6rnZTE9GjCnpFBKUT&stackedNotes=zN7KLBKWMTmFqthmFPVSNbP&stackedNotes=zGNVRh1q5gGeF88PbmYu4BB&stackedNotes=z9MxCsvv8DcHndqRECbxrRi)

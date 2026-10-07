@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zDcuS8A5uxGR8hQygsqP83A
+---
 # Zettelkasten
 The 20th-century German sociologist Niklas Luhmann managed to publish 70 books. He credits much of his success to his Zettelkasten, or “slip box.” It’s an unusual system for developing ideas over long periods of time by slowly iterating on thousands of atomic slips of paper, all densely linked to each other. Over time, it evolved into what Luhmann considered to be an independent thought partner in his research, capable of carrying on a conversation with him and eliciting ideas which genuinely surprised him.
 
@@ -10,6 +13,3 @@ Though Luhmann is often mentioned most in association with the concept, it appar
 Arno Schmidt, a modernist German author, used this method extensively and published a book called Zettels Traum (“Slip Dream”) which interpolates scholarly commentary (in a zettel-ish style) with a primary narrative. ([video](https://vimeo.com/6422567), [article](https://www.zinzin.com/observations/2013/who-was-arno-schmidt-and-what-is-zettels-traum-some-evidentiary-fragments/))
 
 See also: [[Similarities and differences between evergreen note-writing and Zettelkasten]]
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/zDcuS8A5uxGR8hQygsqP83A)

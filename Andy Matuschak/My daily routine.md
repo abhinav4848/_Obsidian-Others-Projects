@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zSve33D7x1qe5WUjojDcM9y
+---
 Working independently means the burden and opportunity of creating my own structure. I’ve found ritual and routine essential to guide me.
 
 When my days don’t go well, it’s often because something derailed me in the morning, and I never really got back on track. [The high-order bit for my productivity is whether I complete a deeply-focused morning creative block](https://notes.andymatuschak.org/z2q7U5ZvXeDxXD6vXAbZb9a). So my day is structured around making intense creative mornings happen.
@@ -16,6 +19,3 @@ When my days don’t go well, it’s often because something derailed me in the 
 - ~3 – 6:30: Unstructured time. Napping, socialization, meditating, exercising, reading, more walking.
 - ~6:30 – 8: Cooking, dinner.
 - 8 – 10:30: (If a friend wasn’t over for dinner) piano, reading, time with Sara.
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/zSve33D7x1qe5WUjojDcM9y )

@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zRW4hZmuiYpg2vbedUScDVU
+---
 {[thinkism](https://kk.org/thetechnium/thinkism/) is his blog}: Kevin Kelly’s term for the assumption {AI researchers make that more intelligence or cognitive power will solve a problem, rather than more data or a reframing of the problem}
 
 Q. His conversation opener of choice with strangers?  
@@ -31,5 +34,3 @@ Q. “The main reason to produce something every day”?
 A. Steady production teaches you a spirit of abundance, which lets you let go of good work to reach the great stuff.
 
 “When you find something you really enjoy, {do it slowly}.”
-# Source
-1. Andy Link: https://notes.andymatuschak.org/zRW4hZmuiYpg2vbedUScDVU

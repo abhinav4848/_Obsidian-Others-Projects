@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zSKD44o2VTbQuQYqmjupo4B?stackedNotes=zDGk8tvVDD1mbTgpMMB5UGh
+---
 # Release valves for non-linear thought may support improved linear output
 
 One way to navigate the paradox inherent in [[Prefer linear work products but non-linear working environments]]: by making non-linear structures available for work-in-progress, you create a release valve for tangential thought—which in turn can free the author to focus on their “primary” line of thinking.
@@ -22,4 +25,3 @@ A. Maybe the value of non-linear writing isn’t in the future value of the embe
 
 # References
 Original observation from Nick Barr, 2020-09-25
-1. [Andy Link](https://notes.andymatuschak.org/zSKD44o2VTbQuQYqmjupo4B?stackedNotes=zDGk8tvVDD1mbTgpMMB5UGh) 

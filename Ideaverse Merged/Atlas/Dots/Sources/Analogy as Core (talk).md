@@ -6,11 +6,19 @@ author:
 year: 2009
 encountered:
 in:
-  - "[[Speeches]]"
-  - "[[Sources]]"
+- '[[Ideaverse Merged/Atlas/Maps/Speeches]]'
+- '[[Ideaverse Merged/Atlas/Maps/Sources]]'
+- '[[Talks]]'
 URL: https://www.youtube.com/watch?v=n8m7lFQ3njk
+tags:
+  - source/speech
+type: "[[Ideaverse Merged/Atlas/Maps/Speeches]]"
+by:
+  - "[[Ideaverse Merged/Atlas/Dots/People/Douglas R. Hofstadter]]"
+YearXP: 2020
+URLs:
+  - https://www.youtube.com/watch?v=n8m7lFQ3njk
 ---
-
 ##### Overview
 - **What**: In this Presidential Lecture, cognitive scientist [[Ideaverse Merged/Atlas/Dots/People/Douglas R. Hofstadter]] examines the role and contributions of analogy in cognition, using a variety of analogies to illustrate his points. 
 - **Why**: This is important to me because of it is about how to talk about, and define, thinking—especially figurative language and concepts. 

@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zAb9R6nYuTyN6PBC4rQY9aY?stackedNotes=zCQuiDgcNqncwB6pTvhdRWk&stackedNotes=zPtcwHaKGoLEZRzSoScYXha
+---
 # Spaced repetition systems as catechism
 
 In [James (“Brad”) DeLong - Quantum Country interview - 2019-11-22](https://notes.andymatuschak.org/zWtVMjiuF8n3tNEtyWGwXt4) (no access to link), Brad jokingly suggested that the [[Mnemonic medium]] represents a new kind of “catechism.” It’s an amusing comparison, but it’s also worth pondering seriously!
@@ -36,5 +39,4 @@ Related: [[OS-level spaced repetition system]], [[Unusual applications of spac
 
 ---
 # References
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zCMhncA1iSE74MKKYQS5PBZ&stackedNotes=zHV89H7dqnrvNvwXHBSGog9&stackedNotes=zTYb9ysCATFYCnvay3V5sF2&stackedNotes=zGD1FxbDZd7WnH7NrhRaVyC&stackedNotes=z4ULp2KUgq3hBCJMWTUnLDX&stackedNotes=zKtYU4Uk7aTCGyqHr9Ca3Sb&stackedNotes=zyjePyZ77P2BfdkRBuQB2x&stackedNotes=zKubRcJXKjiCDPsPgJWckkP&stackedNotes=zGNVRh1q5gGeF88PbmYu4BB&stackedNotes=z984ZZLbG4wREM6HAZAovMB&stackedNotes=zN7KLBKWMTmFqthmFPVSNbP&stackedNotes=zC4sWYDcheVSeCxpQPA9w88&stackedNotes=z4exmF6rnZTE9GjCnpFBKUT&stackedNotes=zSNDTj75ULnYMo7pGm2Frg7&stackedNotes=zAb9R6nYuTyN6PBC4rQY9aY&stackedNotes=zCQuiDgcNqncwB6pTvhdRWk&stackedNotes=zPtcwHaKGoLEZRzSoScYXha)
 2. This became a tweet: [Andy Matuschak on Twitter: “In a recent chat with @michael_nielsen and me about https://t.co/lnd5Z3zN1g, @delong suggested that the mnemonic medium is a new kind of catechism. We laughed, but… that’s a pretty interesting lens! (thread)… https://t.co/0KPLPCAwDC”](https://twitter.com/andy_matuschak/status/1201584298656174082)

@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zTnTob5JrFYF9NpU73Zg5a1&stackedNotes=z4aipv9wyMg4qZGANaVjkrJ&stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zBeBbzwU8LAyi2D5jqBJpS&stackedNotes=zCRXo3avHi3fNuw43BHM8ch
+URL: https://notes.andymatuschak.org/zX95uZHiGWNiNTDF3wETWtq?stackedNotes=zBeBbzwU8LAyi2D5jqBJpS&stackedNotes=zCRXo3avHi3fNuw43BHM8ch
 ---
 # Physical cut and paste is a parallel act involving informal intermediate states
 [Larry Tesler](https://notes.andymatuschak.org/zFxLnPYGBKFA2vjFYKViN3f)’s (no note) classic “cut” and “paste” operations are named after physical counterparts an author might employ as he edits a composition. But, as Ted Nelson points out in _Geeks Bearing Gifts_, the digital version is rigidly formal and sequential, whereas the physical activities are inherently parallel and informal. When physically cutting and pasting, you cut up your work, spread it on the floor, and rearrange the pieces. Along the way, they’ll pass through various temporary, “invalid” configurations as you explore the connections.
@@ -16,7 +15,6 @@ Related: [[We lack UI patterns for non-destructive filtering and rearrangement 
 
 ---
 # References
-1. [Andy Link](https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zTnTob5JrFYF9NpU73Zg5a1&stackedNotes=z4aipv9wyMg4qZGANaVjkrJ&stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zBeBbzwU8LAyi2D5jqBJpS&stackedNotes=zCRXo3avHi3fNuw43BHM8ch)
 2. Ted Nelson’s chapter summary for his book, _Geeks Bearing Gifts_: [http://geeks-bearing-gifts.com/gbgContents.html](http://geeks-bearing-gifts.com/gbgContents.html)
 
 > The term “cut and paste”, as used by writers and editors for many years, refers to rearrangement of paper manuscripts by actually cutting them and physically rearranging them on desktop or floor. ==It is a process of parallel contemplation and rearrangement, where you look at all the parts, move pieces around, put them in temporary nonsequential arrangements, and choose a final sequence.==

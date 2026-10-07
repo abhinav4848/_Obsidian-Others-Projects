@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z2MeZGv57tNcz5rh64ebSNz?stackedNotes=zWfTX3cjB1mFZhCJkFGu8aH&stackedNotes=z8Acd5zbstpRqjoHPgRKJW6
+---
 # I should consider asymmetric part-time collaborators
 
 I’ve struggled to find collaborators for my work in part because I’ve implicitly assumed the requirement that they be available full-time—and [[It’s hard for independent researchers to find full-time collaborators]]. I’ve ignored the possibility of collaborating with people who have a full-time job, e.g. meeting once or twice a week in evenings. But a collaboration like that could be quite promising!
@@ -23,5 +26,4 @@ A. e.g. discussion / idea partner, morale boost, selected non-critical-path task
 
 ---
 # References
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zKKB5ENRahwftH96H7mijiu&stackedNotes=zT2CnA38ERsCY2NKGw2thSL&stackedNotes=zCPXepV6zuoDDGosHBY62ai&stackedNotes=zD2oDSCgLEyM4xDhjRLXtuH&stackedNotes=z7RGGgVdDVHXkzJ6BVFKws8&stackedNotes=zG1S2XhBhJa7PWeSkKna2Y2&stackedNotes=z2MeZGv57tNcz5rh64ebSNz&stackedNotes=zWfTX3cjB1mFZhCJkFGu8aH&stackedNotes=z8Acd5zbstpRqjoHPgRKJW6)
 Conversation with [Michael Nielsen](https://notes.andymatuschak.org/Michael_Nielsen), [2022-07-07](https://notes.andymatuschak.org/2022-07-07)

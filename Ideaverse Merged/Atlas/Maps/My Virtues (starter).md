@@ -1,11 +1,11 @@
 ---
 up:
-  - "[[Thinking Map]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Thinking Map]]"
 related: []
 created: 2004-12-15
 evolved: 2021-01-01
 in: 
-- "[[Maps]]"
+- "[[Ideaverse Merged/Atlas/Maps/Maps]]"
 ---
  *"Where attention goes, meaning grows.”* 
 

@@ -1,11 +1,12 @@
 ---
 up:
-  - "[[🌌 Ideaverse Kit (OE) (Example)]]"
+  - "[[Ideaverse Merged/Efforts/Ongoing/🌌 Ideaverse Kit (OE) (Example)]]"
 related: []
 created: 2023-08-19
 rank: "5"
+aliases:
+- Ideaverse Kit Launch (E) (Example)
 ---
-
 The Ideaverse for Obsidian can be both efficient and evocative. 
 
 Without being present, I want to give as much useable value as possible.
@@ -22,7 +23,7 @@ Without being present, I want to give as much useable value as possible.
 > **Ideaverse for Obsidian** launches on Product Hunt on Wed, Aug 30th. You can help by [creating a Product Hunt account](https://www.producthunt.com) ahead of time to support the launch. Here are some things to expect:
 > 
 > - A working Home Dashboard that combines Knowledge & Action
-> - The official release of the ACE Folder Framework
+> - The official release of the ACE Headspace (EDIT: formerly ACE Folder Framework)
 > 
 > In [last week's newsletter](https://ckarchive.com/b/92uzhnhqznmq0t9h0200933), I hinted at why ACE is awesome:
 > 
@@ -31,7 +32,7 @@ Without being present, I want to give as much useable value as possible.
 > - Allow ACE to flex with your life
 > - Manage your efforts with ACE
 > 
-> Here's more secret sauce behind the ACE Folder Framework...
+> Here's more secret sauce behind the ACE Headspace (EDIT: formerly ACE Folder Framework)...
 > 
 > ​
 > 

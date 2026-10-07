@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zGNVRh1q5gGeF88PbmYu4BB?stackedNotes=z9MxCsvv8DcHndqRECbxrRi&stackedNotes=zKubRcJXKjiCDPsPgJWckkP
+---
 # Enacted experiences can bootstrap active participation in enabling environments
 
 [[Enabling environments focus on doing what’s enabled]], but [[Novices in enabling environments often can’t do what’s enabled]]. A well-designed [[Enacted experience]] can allow participants to immediately experience _doing_ what an environment enables.
@@ -9,6 +12,3 @@ By comparison, imagine that the manager hadn’t done this. Someone else asks th
 Unfortunately, [[Enacted experiences are hard to author]] and [[Enacted experiences are hard to distribute]]. Still, [[Enacted experiences have incredible potential as a mass medium]]. I see this as the central promise of media like the Primer: [The Primer++ is embedded in a field, bootstrapping participation through enacted experience](https://notes.andymatuschak.org/zP7xzHHLs9rLZudGvGjmD9k).
 
 [[Situated Learning - Lave and Wenger]] argues a subtle point about what I’m describing here: it’s important that the activity is _legitimate_. The manager’s assigning a feature which really does need to get built, primarily because they want help building it—not primarily as a “training exercise”. The (somewhat implicit) claim is that these sorts of activities will produce more effective transfer and greater identity transformation.
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/zJaSxZHpWr5fq7vQtHUVuMp?stackedNotes=zSNDTj75ULnYMo7pGm2Frg7&stackedNotes=z4exmF6rnZTE9GjCnpFBKUT&stackedNotes=zN7KLBKWMTmFqthmFPVSNbP&stackedNotes=zGNVRh1q5gGeF88PbmYu4BB&stackedNotes=z9MxCsvv8DcHndqRECbxrRi&stackedNotes=zKubRcJXKjiCDPsPgJWckkP)

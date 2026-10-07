@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zEhGSbBPbgmh7Ce1VQS2RPk?stackedNotes=zQ9BWTY2JK6eJvCSqupc7UF&stackedNotes=zJxSaJaCeXZsY7pH2Q6t89t
+---
 # Enacted experiences can create intense personal connection to authored targets
 The creator of an [[Enacted experience]] can induce intense personal connection to a specific experience they have authored. One important consequence: [[Enacted experiences amplify the power of narrative]].
 
@@ -8,6 +11,3 @@ Great movies and books can be quite moving, but the stakes I feel in those media
 Social environments can create intense personal connections, but generally not to specific authored experiences.
 
 Likewise, software environments can create intense personal connections, but they’re usually not to specific authored experiences. Snapchat’s streaks are one interesting counter-example.
-
-# References
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k&stackedNotes=zLhoRUyjKU665EY16u4XXJy&stackedNotes=zTDjZQbKAT9pALtsk2HfePx&stackedNotes=zSK4LyrCbG9zDrdCWmcovUW&stackedNotes=zB92WZZ5baBHKZPPbWMbYEv&stackedNotes=z53zJy6y76MGuJuWW4Qvab9&stackedNotes=zFgK9ArxAXq57iMukRsVVE9&stackedNotes=z96Xr88dMaAGrn3CobJnMUD&stackedNotes=z7nmQ12agpmDmFoonENsQQN&stackedNotes=zHV9RymMTYzjYv8ioA3xaAs&stackedNotes=zEhGSbBPbgmh7Ce1VQS2RPk&stackedNotes=zQ9BWTY2JK6eJvCSqupc7UF&stackedNotes=zJxSaJaCeXZsY7pH2Q6t89t)

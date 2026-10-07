@@ -1,11 +1,11 @@
 ---
 up:
-  - "[[Home]]"
+  - "[[Ideaverse Merged/Home]]"
 related:
   - "[[Ideaverse Merged/Atlas/Dots/Things/Define your time-style]]"
 created: 2023-08-19
 in:
-  - "[[Views]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Views]]"
 ---
 Our ideas and experiences are wrapped up in a linear movement we call **Time**. It's a great way to organize and remember stuff. Here's how you can make Time work for you:
 
@@ -17,4 +17,4 @@ Our ideas and experiences are wrapped up in a linear movement we call **Time**. 
 
 Notes allow you to time travel. It's how Present You can receive messages from Past You and send messages to Future you. 
 
-Need help to [[Define your time-style]]?
+Need help to [[Ideaverse Merged/Atlas/Dots/Things/Define your time-style]]?

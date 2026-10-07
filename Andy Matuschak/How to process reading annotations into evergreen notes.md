@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zKBhqUkoRWoNV72aG21GYst?stackedNotes=zKzUzQENhyEDnuwPUhh2EQM&stackedNotes=zEr7kCcH6zUUroDJBwDj2n5
+---
 # How to process reading annotations into evergreen notes
 It’s important to [[Write about what you read to internalize texts deeply]]. While reading, you’ve marked passages that seem relevant, and you’ve scribbled notes with your thoughts ([[How to collect observations while reading]]). Now we’ll process all that into lasting notes.
 
@@ -14,7 +17,6 @@ Once you have a picture of the concepts at play, you’ll begin an iterative pro
 5. **Loop**
 
 # References
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zFuk9QqspNYHAgvzZc33ZGH&stackedNotes=zDXBGEWk7msyonQ2Ngnrf8h&stackedNotes=zB74H9CuWrosEuqve7jZyCo&stackedNotes=zRbqwbnhmVdfLtKxMCibMoX&stackedNotes=zH7AVUkqYYK7xmoAn8PTpAV&stackedNotes=z2qjVZKqSqrqkhFhvUpPDtd&stackedNotes=zQvbnYfHdG1gARTbtC4pje6&stackedNotes=zKBhqUkoRWoNV72aG21GYst&stackedNotes=zKzUzQENhyEDnuwPUhh2EQM&stackedNotes=zEr7kCcH6zUUroDJBwDj2n5)
 - [Create Zettel from Reading Notes • Zettelkasten Method](https://zettelkasten.de/posts/create-zettel-from-reading-notes/)
     > Second, I find out if a cluster’s main point has too many prerequisites to stand alone. It might be a conclusion which draws from lots of assumptions or from complex models I’d need to explain. I prepare the conclusion first and then branch off into other notes to capture all the necessary ideas. This is where links come in handy: the details point back to the concept note and the concept note mentions its detail branches.
     > 

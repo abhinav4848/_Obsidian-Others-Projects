@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z9vSQjkBVL6dCVC6QhCu4Br?stackedNotes=zPiRwRHQxGfF9Zej765PB8M&stackedNotes=zEmEnm29YT9Lp4mnWzPVQZJ
+---
 # Memory system practice sessions are too disconnected from activities you actually care about
 
 [[Retrieval practice]] in a [[Spaced repetition memory system]] often feels so abstract: trying to remember a bunch of material from various books and papers you read in the past, all jumbled, in the form of questions you’ve answered before, in an artificial environment. Generously, perhaps, it’s a kind of [Deliberate practice, after Ericsson](https://notes.andymatuschak.org/Deliberate_practice%2C_after_Ericsson) (no access), but it often feels like a chore in part because it’s not _doing the thing_, and the practice session’s emotional connection with _doing the thing_ is weak. 
@@ -11,4 +14,3 @@ Related:
 
 # References
 1. Michael discusses this in [Building a better memory system - Michael Nielsen](https://notes.andymatuschak.org/z2QzqNwnFdhaLHv7XoYz5Ki)
-2. [Andy Link](https://notes.andymatuschak.org/z53zJy6y76MGuJuWW4Qvab9?stackedNotes=zKy4FsHTcf8LdkgXkMueeGL&stackedNotes=z9xavmmNq7xvNqzpnJ3HFXx&stackedNotes=z9vSQjkBVL6dCVC6QhCu4Br&stackedNotes=zPiRwRHQxGfF9Zej765PB8M&stackedNotes=zEmEnm29YT9Lp4mnWzPVQZJ) 

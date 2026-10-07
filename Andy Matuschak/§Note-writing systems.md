@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/%C2%A7Note-writing_systems
+URL: https://notes.andymatuschak.org/%C2%A7Note-writing_systems
 ---
 # §Note-writing systems 
 - Principles:
@@ -67,6 +66,3 @@ URLs:
     - Luhmann
     - Christian and Sascha
     - [[How to Take Smart Notes - Ahrens]]
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/%C2%A7Note-writing_systems)

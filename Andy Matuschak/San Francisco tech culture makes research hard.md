@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z3DJpNZe7vVd9fsjNGU4S86
+---
 # San Francisco tech culture makes research hard
 I love San Francisco dearly. I love the optimism, the energy, the earnestness, the ambition. But most of the time, the culture here isn’t really what I need to make progress in my research. Often, it’s actively harmful.
 
@@ -9,6 +12,3 @@ Social capital dynamics here are misaligned with what I’m aiming for. People a
 
 ## Other SF subcultures don’t seem to have this problem
 Rob Ochshorn pointed out something interesting: the Bay Area food culture sure seems to value deliberateness. “Slow food”, after all! Also consider John Muir, an absolute hero of the region, and the associated Sierra Club. It’s interesting that these subcultures can co-exist. Maybe I can give myself an infusion of these “slower” cultures while still playing in the tech scene.
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/z3DJpNZe7vVd9fsjNGU4S86)

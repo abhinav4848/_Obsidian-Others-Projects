@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z7d63BYfJrd81VFE25jkcDd?stackedNotes=z4ULp2KUgq3hBCJMWTUnLDX&stackedNotes=zNGtyWTwns63fhzixGKZ1Bb
+---
 # What’s the big-picture impact of the mnemonic medium on readers
 Say that the [[Mnemonic medium]] helps readers remember what they read. _So what?_
 
@@ -38,6 +41,3 @@ As a first step towards understanding this question, today I’m emailing a batc
 > That is: big-picture, what has all that reviewing done for you? Did it have any impact on, say, follow-up studies? Projects you started? Conversations with colleagues? Your sense of self?
 > 
 > I’ve got lots of quantitative data, and that tells me all about people’s fine-grained memory over time. But ultimately that’s not what matters. I want to understand if/how it enables meaningful experiences in your life. And if it hasn’t, I’d love to know that too! My sincere thanks in advance for anything you might care to share.
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z7d63BYfJrd81VFE25jkcDd&stackedNotes=z4ULp2KUgq3hBCJMWTUnLDX&stackedNotes=zNGtyWTwns63fhzixGKZ1Bb)

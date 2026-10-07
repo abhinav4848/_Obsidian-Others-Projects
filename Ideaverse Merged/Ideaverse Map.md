@@ -1,10 +1,10 @@
 ---
 up:
-  - "[[Home]]"
+  - "[[Ideaverse Merged/Home]]"
 created: 2023-08-30
 obsidianUIMode: preview
 in: 
-- "[[Maps]]"
+- "[[Ideaverse Merged/Atlas/Maps/Maps]]"
 ---
 
 > [!Planet]- ## How to Customize your own Ideaverse.
@@ -28,9 +28,9 @@ in:
 > - [[Ideaverse Merged/Atlas/Dots/Things/What is a note]]
 > 	- [[Ideaverse Merged/Atlas/Dots/Things/What are higher-order notes]]
 > - [[Ideaverse Merged/Atlas/Dots/Things/MOCs Overview]]
-> 	- [[Ideaverse Merged/Atlas/Notes/Ideas/MOCs encourage flexible non-destructive thinking]]
+> 	- [[Ideaverse Merged/Atlas/Dots/Statements/MOCs encourage flexible non-destructive thinking]]
 > - [[Ideaverse Merged/Atlas/Dots/Things/Fluid Frameworks]]
-> 	- [[Ideaverse Merged/Atlas/Notes/Ideas/Why Categories for Your Notes are a Good Idea]]
+> 	- [[Ideaverse Merged/Atlas/Dots/Statements/Why Categories for Your Notes are a Good Idea]]
 > 	- [[Ideaverse Merged/Atlas/Dots/Things/Fluid Taxonomies]]
 
 > [!Joystick]- ## How to make notes (not just take them)
@@ -44,7 +44,7 @@ in:
 > - [[Ideaverse Merged/Atlas/Dots/Things/The 3 Phases of MOCs]]
 > 	- [[Ideaverse Merged/Atlas/Dots/Things/Habits MOC - Gather]]
 > 	- [[Ideaverse Merged/Atlas/Dots/Things/Habits MOC - Collide]]
-> 	- [[Habits Map]] - Navigate
+> 	- [[Ideaverse Merged/Atlas/Maps/Habits Map]] - Navigate
 > - [[Ideaverse Merged/Atlas/Dots/Things/The 3 Phases of MOCs, a coda]]
 > 
 > Basically, MOCs are simple, yet new and profoundly powerful. When they "click" for you, wow, you'll feel your mind supercharged new ability for massive ideation.
@@ -59,26 +59,26 @@ in:
 > In just 3 folders, you can have a folder structure you use for the rest of your life. 
 > 
 > - Learn about the [[Ideaverse Merged/Atlas/Dots/Things/ACE Folder Framework]].
-> 	- [[Ideaverse Merged/Atlas/Notes/Ideas/ACE honors the 3 head spaces of PKM]]
-> 	- [[Ideaverse Merged/Atlas/Notes/Ideas/ACE helps you with context switching]]
+> 	- [[Ideaverse Merged/Atlas/Dots/Statements/ACE honors the 3 head spaces of PKM]]
+> 	- [[Ideaverse Merged/Atlas/Dots/Statements/ACE helps you with context switching]]
 > 	- See how [[Ideaverse Merged/Atlas/Dots/Things/The ACE Folder Framework Flexes For You]].
 > - Learn about the other main folders in the Ideaverse kit that support ACE
-> 	- [[+ About +]]
-> 	- [[+ About x]]
+> 	- [[Ideaverse Merged/+/+ About +]]
+> 	- [[Ideaverse Merged/x/+ About x]]
 > - ---
-> - [[Ideaverse Merged/Atlas/Notes/Ideas/A deeper dive into how ACE works]] + [[Ideaverse Merged/Atlas/Notes/Ideas/Use STIR To Remember More]]
+> - [[Ideaverse Merged/Atlas/Dots/Statements/A deeper dive into how ACE works]] + [[Ideaverse Merged/Atlas/Dots/Statements/Use STIR To Remember More]]
 > 
 
 > [!Play]- ## How to Use "Efforts" instead of "Projects"
 > Why do "projects" feel so wrong when working with ideas? Why does a term like "efforts" feel more truthful? Let's explore the differences and what it might mean for your efforts.
 > 
-> - [[Ideaverse Merged/Atlas/Notes/Ideas/The big differences between efforts and projects]]
-> - [[Ideaverse Merged/Atlas/Notes/Ideas/How ideas and efforts play nicely together]]
-> - [[Ideaverse Merged/Atlas/Maps/Why Efforts are Liberating]]
+> - [[Ideaverse Merged/Atlas/Dots/Statements/The big differences between efforts and projects]]
+> - [[Ideaverse Merged/Atlas/Dots/Statements/How ideas and efforts play nicely together]]
+> - [[Ideaverse Merged/Atlas/Dots/Statements/Why Efforts are Liberating]]
 > - ---
 > - [[Ideaverse Merged/Atlas/Dots/Things/The Four Intensities of Efforts]]
 > - ---
-> - When you're ready, start framing your own [[Efforts]].
+> - When you're ready, start framing your own [[Ideaverse Merged/Atlas/Maps/Efforts]].
 
 ---
 
@@ -88,16 +88,16 @@ in:
 > Note-makers create *living notes* that are able to grow in value and evolve over time. Some people call these kinds of notes "evergreen".
 > 
 > - [[Ideaverse Merged/Atlas/Dots/Things/Evergreen notes]]
-> 	- [[Ideaverse Merged/Atlas/Notes/Ideas/Evergreen notes are things or statements about things]]
-> 	- [[Ideaverse Merged/Atlas/Notes/Ideas/Note-making sharpens your thinking]]
-> 	- [[Ideaverse Merged/Atlas/Notes/Ideas/Linking your thinking encourages leaps of insights]]
-> 	- [[Ideaverse Merged/Atlas/Notes/Ideas/Evergreen notes are antifragile]]
-> 		- [[Ideaverse Merged/Atlas/Notes/Ideas/Evergreen notes compound in value over time]]
-> 	- [[Ideaverse Merged/Atlas/Notes/Ideas/Evergreen notes maximize reusability]]
-> 		- [[Ideaverse Merged/Atlas/Notes/Ideas/Note-making creates unexpected optionality]]
+> 	- [[Ideaverse Merged/Atlas/Dots/Statements/Evergreen notes are things or statements about things]]
+> 	- [[Ideaverse Merged/Atlas/Dots/Statements/Note-making sharpens your thinking]]
+> 	- [[Ideaverse Merged/Atlas/Dots/Statements/Linking your thinking encourages leaps of insights]]
+> 	- [[Ideaverse Merged/Atlas/Dots/Statements/Evergreen notes are antifragile]]
+> 		- [[Ideaverse Merged/Atlas/Dots/Statements/Evergreen notes compound in value over time]]
+> 	- [[Ideaverse Merged/Atlas/Dots/Statements/Evergreen notes maximize reusability]]
+> 		- [[Ideaverse Merged/Atlas/Dots/Statements/Note-making creates unexpected optionality]]
 
 > [!palette]- ## Explore how to use styles with intention
-> - [[Our environment shapes us more than we realize]]
+> - [[Ideaverse Merged/Atlas/Dots/Statements/Our environment shapes us more than we realize]]
 > - [[Ideaverse Merged/x/Templates/Nick Milo's Custom Callouts]]
 
 
@@ -107,6 +107,6 @@ in:
 > - [[Ideaverse Merged/Atlas/Dots/Things/LYT Glossary]]
 > - [[Ideaverse Merged/Atlas/Dots/Things/Guiding Values of PKM]]
 > - [[Ideaverse Merged/Atlas/Dots/Things/Guiding assumptions for linked notes]]
-> - [[Ideaverse Lite - Release Notes]]
+> - [[Ideaverse Merged/Ideaverse Lite - Release Notes]]
 
-Back to [[Home]]
+Back to [[Ideaverse Merged/Home]]

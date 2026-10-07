@@ -1,8 +1,9 @@
 ---
 up: []
 related: []
-year: 
-encountered: 
-tags: 
+year:
+encountered:
+tags:
 in:
+type:
 ---

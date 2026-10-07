@@ -1,8 +1,8 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Evergreen notes]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Things/Evergreen notes]]"
 related:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Note-making sharpens your thinking]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Statements/Note-making sharpens your thinking]]"
 created: 2020-06-01
 ---
 

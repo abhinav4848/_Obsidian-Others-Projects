@@ -1,20 +1,20 @@
 ---
 up:
-  - "[[Sources]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Sources]]"
 author:
   - "[[Bob Bain]]"
 year: 2020
 encountered: 2020-06-13
 in:
   - "[[Articles]]"
-  - "[[Sources]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Sources]]"
 ---
  *Support, Extend, Challenge*
 
 “those verbs emerged from work we did trying to understand active reading to figure out ways to help high school students become active readers about “stuff” teachers were teaching. It occurred to us that all new information or ideas must support, extend, or challenge existing ideas or information you already have and that has led to those verbs being cognitive tools for students” Bob Bain
 
 %%
-This effort to encourage active, engaged thinking relates to the mindset behind Evergreen notes, namely that [[Ideaverse Merged/Atlas/Notes/Ideas/Evergreen notes compound in value over time]].
+This effort to encourage active, engaged thinking relates to the mindset behind Evergreen notes, namely that [[Ideaverse Merged/Atlas/Dots/Statements/Evergreen notes compound in value over time]].
 %%
 
 ---

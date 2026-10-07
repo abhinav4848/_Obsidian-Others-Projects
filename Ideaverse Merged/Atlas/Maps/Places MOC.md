@@ -1,10 +1,10 @@
 ---
 up:
-  - "[[Library]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Library]]"
 related: []
 created: 2023-08-19
 in: 
-- "[[Maps]]"
+- "[[Ideaverse Merged/Atlas/Maps/Maps]]"
 ---
 Welcome to the Places MOC. It is the most under-developed major category for me, but I value having a "map" for "places", it's rather apt.
 

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Trust the process (kit)]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Things/Trust the process (kit)]]"
 related: []
 created: 2014-01-01
 modified: 2022-03-15

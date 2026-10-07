@@ -1,0 +1,3801 @@
+{
+  "mode": "preview",
+  "lyt_duplicate_titles": [],
+  "lyt_exact_duplicate_notes": [],
+  "andy_properties_validated": 331,
+  "andy_transform_idempotent": true,
+  "yaml_errors": [],
+  "links": {
+    "Ideaverse Merged": {
+      "counts": {
+        "resolved": 1663,
+        "missing_file": 425,
+        "missing_heading": 1
+      },
+      "unresolved": [
+        {
+          "source": "Ideaverse Merged/+/3 Ways to Go Faster with Obsidian (Example).md",
+          "target": "Flight School Arrival",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 28,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/+/Do you suffer from note-taking.md",
+          "target": "Youtube Publisher 📽",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 3,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/+/Do you suffer from note-taking.md",
+          "target": "07 July 2023 - Monthly Map",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/+/Do you suffer from note-taking.md",
+          "target": "Youtube Publisher 📽",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 14,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/+/Make straight cuts first.md",
+          "target": "(S) Avid Agility",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 3,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/+/Make straight cuts first.md",
+          "target": "Structure must be earned",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 9,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/People/Bill Russell (kit).md",
+          "target": "NBA (league)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 4,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/People/Carl Sagan (kit).md",
+          "target": "Art & Science Storytelling MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 4,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/People/Carl Sagan (kit).md",
+          "target": "1980 - Cosmos - A Personal Voyage (Carl Sagan)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 46,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/People/Mary Wollstonecraft (kit).md",
+          "target": "Mary Shelley",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 3,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/People/Mary Wollstonecraft (kit).md",
+          "target": "Mary Shelley",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/People/Mary Wollstonecraft (kit).md",
+          "target": "Mary Shelley",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 32,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/People/Mihaly Csikszentmihalyi (kit).md",
+          "target": "1990 - Flow",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 26,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/People/Nina Simone (kit).md",
+          "target": "Music MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 3,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/People/Ursula K. Le Guin.md",
+          "target": "The Left Hand of Darkness",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 16,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/1984 (book).md",
+          "target": "George Orwell",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 15,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/1984 (book).md",
+          "target": "epubli",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 16,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/1984 (book).md",
+          "target": "George Orwell",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 34,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Analogy as Core (talk).md",
+          "target": "Talks",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 11,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Analogy as Core (talk).md",
+          "target": "Albert Einstein",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 80,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book).md",
+          "target": "James Clear",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 15,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book).md",
+          "target": "Penguin",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 16,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book).md",
+          "target": "James Clear",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 41,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book).md",
+          "target": "Peter Guzzardi (literary editor)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 42,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book).md",
+          "target": "Blake Atwood (literary editor)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 42,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book).md",
+          "target": "Robin Dellabough (literary editor)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 42,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book).md",
+          "target": "Anne Barngrover (literary editor)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 42,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book).md",
+          "target": "David Moldawer (literary editor)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 42,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book).md",
+          "target": "Lisa DiMona (literary agent)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 43,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book).md",
+          "target": "Avery (imprint)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 45,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book).md",
+          "target": "Penguin (publisher)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 48,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book).md",
+          "target": "Megan Newman (publ editor)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 49,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book).md",
+          "target": "Mark Manson",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 51,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book).md",
+          "target": "Adam Grant",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 51,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book).md",
+          "target": "Ryan Holiday",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 51,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book).md",
+          "target": "Leo Babauta",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 52,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book).md",
+          "target": "Charles Duhigg",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 52,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book).md",
+          "target": "Nir Eyal",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 52,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book).md",
+          "target": "BJ Fogg",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 52,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book).md",
+          "target": "Tiago Forte",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 52,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book).md",
+          "target": "Josh Kaufman",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 52,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book).md",
+          "target": "Taylor Pearson",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 52,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book).md",
+          "target": "Pete Garceau (cover designer)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 55,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Atomic Habits (book).md",
+          "target": "James Clear",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 77,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Between the World and Me (book).md",
+          "target": "Ta-Nehisi Coates",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 11,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Between the World and Me (book).md",
+          "target": "One World",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 12,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/Don Quixote.md",
+          "target": "Miguel de Cervantes Saavedra",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 6,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/Don Quixote.md",
+          "target": "First Avenue Editions",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 7,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/Don Quixote.md",
+          "target": "William Shakespeare",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 30,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/Don Quixote.md",
+          "target": "Miguel de Cervantes",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 30,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/Don Quixote.md",
+          "target": "Hamlet",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 32,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/Feel-Good Productivity.md",
+          "target": "(S) Feel Good Productivity - Manuscript",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/Feel-Good Productivity.md",
+          "target": "Ali Abdaal",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 7,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/Feel-Good Productivity.md",
+          "target": "Random House",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 8,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/Harold and the Purple Crayon.md",
+          "target": "Crockett Johnson",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 6,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/How to Do Nothing.md",
+          "target": "Jenny Odell",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 6,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/How to Do Nothing.md",
+          "target": "Melville House",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 7,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/It's Your Ship.md",
+          "target": "Leadership MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/It's Your Ship.md",
+          "target": "Captain D. Michael Abrashoff",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 7,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/It's Your Ship.md",
+          "target": "Grand Central Publishing",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 8,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/It's Your Ship.md",
+          "target": "Its-your-ship-written-notes.pdf",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 32,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/The Body Keeps the Score.md",
+          "target": "(S) The Body Keeps the Score Brain, Mind, and Body in the Treatment of Trauma (Book Summary)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/The Body Keeps the Score.md",
+          "target": "Bessel Van Der Kolk, M.D.",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 36,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/The Body Keeps the Score.md",
+          "target": "Viking (imprint)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 40,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/The Body Keeps the Score.md",
+          "target": "Penguin (publisher)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 43,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/The Body Keeps the Score.md",
+          "target": "Judith Herman, M.D.",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 49,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/The Body Keeps the Score.md",
+          "target": "New Scientist",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 49,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/The Body Keeps the Score.md",
+          "target": "Rachel Yehuda, Ph.D.",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 49,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/The Extended Mind.md",
+          "target": "2021 - The Extended Mind",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/The Extended Mind.md",
+          "target": "Annie Murphy Paul",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 7,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/The Extended Mind.md",
+          "target": "Eamon Dolan Books",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 8,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/The Immortality Key.md",
+          "target": "Brian C. Muraresku",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 6,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/The Immortality Key.md",
+          "target": "St. Martin's Press",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 7,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/The Little Prince.md",
+          "target": "1943 - The Little Prince",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/The Little Prince.md",
+          "target": "Antoine de Saint-Exupéry",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 7,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/The Little Prince.md",
+          "target": "1943 - The Little Prince",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 31,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/The Third Wave.md",
+          "target": "Alvin Toffler",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 6,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/The Third Wave.md",
+          "target": "Bantam",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 7,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Books/The Three-Body Problem.md",
+          "target": "Cixin Liu",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 8,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Groundhog Day (kit).md",
+          "target": "Movies MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 3,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Groundhog Day (kit).md",
+          "target": "Samsara",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 22,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Groundhog Day (kit).md",
+          "target": "Bill Murray",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 22,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Groundhog Day (kit).md",
+          "target": "Tao De Ching",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 28,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Groundhog Day (kit).md",
+          "target": "1943 - The Glass Bead Game",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 41,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Groundhog Day (kit).md",
+          "target": "Siddhartha",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 41,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Groundhog Day (kit).md",
+          "target": "Karma",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 43,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Groundhog Day (kit).md",
+          "target": "Dragon and Phoenix",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 43,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Groundhog Day (kit).md",
+          "target": "2018 📺 Russian Doll (kit)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 46,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/12 Angry Men.md",
+          "target": "Sidney Lumet",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 6,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/12 Angry Men.md",
+          "target": "Henry Fonda",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 8,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/12 Angry Men.md",
+          "target": "Lee J. Cobb",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 9,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/12 Angry Men.md",
+          "target": "Martin Balsam",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 10,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/12 Angry Men.md",
+          "target": "Crime",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 18,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/12 Angry Men.md",
+          "target": "Drama",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 19,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/A Few Good Men.md",
+          "target": "Rob Reiner",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 6,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/A Few Good Men.md",
+          "target": "Tom Cruise",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 8,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/A Few Good Men.md",
+          "target": "Jack Nicholson",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 9,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/A Few Good Men.md",
+          "target": "Demi Moore",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 10,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/A Few Good Men.md",
+          "target": "Drama",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 15,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/A Few Good Men.md",
+          "target": "Thriller",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 16,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/Terminator 2 Judgment Day.md",
+          "target": "James Cameron",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 6,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/Terminator 2 Judgment Day.md",
+          "target": "Linda Hamilton",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 9,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/Terminator 2 Judgment Day.md",
+          "target": "Edward Furlong",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 10,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/Terminator 2 Judgment Day.md",
+          "target": "Action",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 18,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/Terminator 2 Judgment Day.md",
+          "target": "Sci-Fi",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 19,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/The Terminator.md",
+          "target": "James Cameron",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 6,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/The Terminator.md",
+          "target": "Linda Hamilton",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 9,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/The Terminator.md",
+          "target": "Michael Biehn",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 10,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/The Terminator.md",
+          "target": "Action",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 18,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/The Terminator.md",
+          "target": "Sci-Fi",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 19,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/Whiplash.md",
+          "target": "Damien Chazelle",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 6,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/Whiplash.md",
+          "target": "Miles Teller",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 8,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/Whiplash.md",
+          "target": "J.K. Simmons",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 9,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/Whiplash.md",
+          "target": "Melissa Benoist",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 10,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/Whiplash.md",
+          "target": "Drama",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 18,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/Whiplash.md",
+          "target": "Music",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 19,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/The Almagest.md",
+          "target": "Ancient Greece MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 3,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/The Almagest.md",
+          "target": "Ideaverse Merged/Atlas/Dots/Statements/People''s attributes are domain-specific",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/The Count of Monte Cristo.md",
+          "target": "Alexandre Dumas",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 12,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/The Count of Monte Cristo.md",
+          "target": "Alexandre Dumas",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 36,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/A deeper dive into how ACE works.md",
+          "target": "Karen Hume",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 115,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/An asymptotic curve models the development of skills, strength, habits, and more.md",
+          "target": "Point of Diminishing Returns",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 15,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/An asymptotic curve models the development of skills, strength, habits, and more.md",
+          "target": "How the LYT System enriches Spaced Repetition",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 20,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/An asymptotic curve models the development of skills, strength, habits, and more.md",
+          "target": "Pareto Principle",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 40,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/Evergreen notes are things or statements about things.md",
+          "target": "Magna Carta",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 18,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/Evergreen notes are things or statements about things.md",
+          "target": "No one is above the law",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 18,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/Evergreen notes are things or statements about things.md",
+          "target": "Protests can invoke radical change",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 18,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/Evergreen notes are things or statements about things.md",
+          "target": "Defining a variable",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 19,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/Evergreen notes are things or statements about things.md",
+          "target": "Understanding variables leads to higher level thinking",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 19,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/Evergreen notes compound in value over time.md",
+          "target": "Benefits of linked thinking",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 15,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/Evergreen notes compound in value over time.md",
+          "target": "The Compound Effect",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 18,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/Habits carry a ton of hidden inertia.md",
+          "target": "Flywheel Effect",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 16,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/Habits carry a ton of hidden inertia.md",
+          "target": "Frankenstein Monster",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 16,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/Habits carry a ton of hidden inertia.md",
+          "target": "Pace Layers",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 18,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/How Atomic Habits fit into the conversation on habits.md",
+          "target": "Our brain's attentional filter responds to Importance and Novelty",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 25,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/Note-making creates unexpected optionality.md",
+          "target": "Benefits of linked thinking",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 27,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/Note-making creates unexpected optionality.md",
+          "target": "Most PKM educators skip note-making to focus on external rewards",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 29,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/People's attributes are domain-specific.md",
+          "target": "Dunning-Kruger Effect",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 12,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/Sensemaking happens by triangulation.md",
+          "target": "Triangulation",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 269,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/Small Wins foster a Sense of Control.md",
+          "target": "Out of Sight, Out of Mind",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 12,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/Small Wins foster a Sense of Control.md",
+          "target": "Activation Energy",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 14,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/Truffle hunters need to keep perspective, so do parachutists.md",
+          "target": "Steen Comer",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 15,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/Use STIR To Remember More.md",
+          "target": "STIR shows the four universal ways we organize and remember",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 16,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/Use STIR To Remember More.md",
+          "target": "Recency Bias",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 36,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/We chronically underestimate how long something takes.md",
+          "target": "Cognitive Bias MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 3,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/What is holding back linked notes (if anything).md",
+          "target": "2023-02-13",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Statements/Without the Odyssey, there is no Ulysses.md",
+          "target": "Kate Bush, Stranger Things, & Idea Emergence",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/ARC Ideation.md",
+          "target": "ARC Framework",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Antifragility.md",
+          "target": "201509091056",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 27,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Attention (re Flow).md",
+          "target": "Poor Diet",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 24,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Benefits of LYT frameworks.md",
+          "target": "thinking through linking",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 49,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Chunking.md",
+          "target": "The Magical Number Seven, Plus or Minus Two",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 23,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Collective Intelligence.md",
+          "target": "Collective Intelligence MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 3,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Commentary on the silliness of trying to maintain an A-Z list of MOCs.md",
+          "target": "Greco-Roman MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 13,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Commentary on the silliness of trying to maintain an A-Z list of MOCs.md",
+          "target": "Cosmology MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 17,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Commentary on the silliness of trying to maintain an A-Z list of MOCs.md",
+          "target": "Building Homes MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 20,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Commonplace Book.md",
+          "target": "Bookshelf 📚",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 11,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Commonplace Book.md",
+          "target": "Figures MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 20,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Concept Expansion.md",
+          "target": "Rhetoric - Redefinition Strategy",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 21,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Concept Expansion.md",
+          "target": "Politics - Co-opt what Freedom means",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 24,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Conditions of Flow.md",
+          "target": "Flow, Insights, and Acting cannot be forced",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 22,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Energy (re Flow).md",
+          "target": "Poor Diet",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 26,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Flow.md",
+          "target": "Flow, Insights, and Acting cannot be forced",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 25,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/FlowCreation Theory.md",
+          "target": "Flow, Insights, and Acting cannot be forced",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 9,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Fluid Taxonomies.md",
+          "target": "Steen Comer",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 8,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Four Factors of Flow.md",
+          "target": "Poor Diet",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 25,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Gall's Law.md",
+          "target": "Structure must be earned",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 12,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Gall's Law.md",
+          "target": "Idea Emergence Levels",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 30,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Habits MOC - Collide.md",
+          "target": "NEW IDEA",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 42,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Habits MOC - Collide.md",
+          "target": "Selfish Gene TK",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 66,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Hormesis.md",
+          "target": "List of Hormetic Stressors",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 20,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Idea Emergence (defn).md",
+          "target": "Idea Emergence",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 16,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/LYT Mode Theme.md",
+          "target": "Ideaverse Merged/Atlas/Dots/Things/LYT Mode Theme#How to Use LYT Mode",
+          "resolved_to": "Ideaverse Merged/Atlas/Dots/Things/LYT Mode Theme.md",
+          "status": "missing_heading",
+          "line": 13,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Levels of Magnification.md",
+          "target": "Lenses of Sensemaking",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 14,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Levels of Magnification.md",
+          "target": "Lens-bending",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 14,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Like begets like.md",
+          "target": "Mirror Neurons",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 25,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/MOCs are Dialectics.md",
+          "target": "The pros and cons of the Hegelian Dialectic",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 21,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/MOCs are Dialectics.md",
+          "target": "Bob Bain",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 27,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/MOCs are Dialectics.md",
+          "target": "Steen Comer",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 31,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Natural Selection.md",
+          "target": "Charles Darwin",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 3,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Newton's Laws of Motion.md",
+          "target": "Isaac Newton",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 7,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/No-Face.md",
+          "target": "Hayao Miyazaki",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 14,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Note-makers.md",
+          "target": "Note-making is good because...",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 6,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/OODA Loop.md",
+          "target": "Nature or Nuture",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 13,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/OODA Loop.md",
+          "target": "Effectively orienting yourself improves your results",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 22,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/On having a TODO note.md",
+          "target": "done",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 13,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/On having a TODO note.md",
+          "target": "done",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 13,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/On having a TODO note.md",
+          "target": "people who are led by a task manager cut off their intuition",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 20,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/PKM Planet 1 - What is PKM.md",
+          "target": "🌍 PKM Planet (OE)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 3,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/PKM Planet 1 - What is PKM.md",
+          "target": "LYT Notes 8",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/PKM Planet 1 - What is PKM.md",
+          "target": "PKM Planet - Archetypes (Backend Brainstorm)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 138,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/PKM Planet 1 - What is PKM.md",
+          "target": "PKM Planet 3 - Note-taking vs note-making",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 139,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Plato's Cave.md",
+          "target": "Plato",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 9,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Plato's Cave.md",
+          "target": "Copernicus",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 11,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Plato's Cave.md",
+          "target": "Gallileo",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 11,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Plato's Cave.md",
+          "target": "Jesus",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 11,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Plato's Cave.md",
+          "target": "1884 - Flatland",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 13,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Progressive Ideation.md",
+          "target": "Organic ideation",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 11,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Ptolemy (kit).md",
+          "target": "Copernicus",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 21,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Ptolemy (kit).md",
+          "target": "Kepler",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 21,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Ptolemy (kit).md",
+          "target": "Kepler didn't think outside the box, he thought outside the circle",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 21,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Refraction Thinking.md",
+          "target": "Lens-bending",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 7,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Refraction Thinking.md",
+          "target": "Lens-bending",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 15,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Refraction Thinking.md",
+          "target": "Concepts are prisms that bend the light around any thought",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 35,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Seasons.md",
+          "target": "Enso",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 21,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Seasons.md",
+          "target": "Ouroboros",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 21,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Seasons.md",
+          "target": "Dragon and Phoenix",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 21,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Shadow Clone.md",
+          "target": "Multiplicity",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 7,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Shadow Clone.md",
+          "target": "Cloning",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 8,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Shadow Clone.md",
+          "target": "doppelgangers",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 35,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Shadow Clone.md",
+          "target": "Doppelganger",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 44,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Shadow Clone.md",
+          "target": "Multithreading",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 45,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Shadow Clone.md",
+          "target": "Multiplicity",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 48,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Shadow Clone.md",
+          "target": "Multiplicity",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 49,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Shadow Clone.md",
+          "target": "Singularity",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 53,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Shadow Clone.md",
+          "target": "Parallel Computing",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 56,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Shadow Clone.md",
+          "target": "Doppelgänger",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 56,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Shadow Clone.md",
+          "target": "Quantum Superposition",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 56,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Some Allusions from Literature.md",
+          "target": "Allusion MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 3,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Some Greek Allusions.md",
+          "target": "Allusion MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 3,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Some Greek Allusions.md",
+          "target": "Mnemosyne",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 20,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Strong opinions, weakly held.md",
+          "target": "Confirmation Bias",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 20,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Synthesis.md",
+          "target": "201408190641",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 20,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/The 3 Phases of MOCs, a coda.md",
+          "target": "Ouroboros",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 9,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/The Home note vs The MOC Library.md",
+          "target": "1942 - Foundation Series (1942-93)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 7,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Trust the process (kit).md",
+          "target": "Speech MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 26,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Using the thesaurus to generate ideas.md",
+          "target": "Word Excursion",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 3,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Using the thesaurus to generate ideas.md",
+          "target": "Facebook does a lot of harm",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 13,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Using the thesaurus to generate ideas.md",
+          "target": "By amplifying the most emotionally-charged posts, Facebook contributes to actual violence",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 14,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Vulnerability.md",
+          "target": "2012 📚Daring Greatly",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 3,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/What are higher-order notes.md",
+          "target": "MOCs concentrate & accelerate idea interaction",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 38,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/Words I've used to describe important habits.md",
+          "target": "Power Actions",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 19,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/You are what you eat.md",
+          "target": "Our Tools Shape Us MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 19,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/evaporated in a thousand follies.md",
+          "target": "Alexandre Dumas",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 11,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Things/evaporated in a thousand follies.md",
+          "target": "Alexandre Dumas",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 36,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/X/Meta/LYT Classification System for Personal Knowledge Management.md",
+          "target": "Meta Map (Nick)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 4,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/X/Meta/LYT Standards of Classification.md",
+          "target": "Mary Shelley",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 112,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/X/Quotes/All you have to do is decide what to do with the time that is given to you.md",
+          "target": "J.R.R. Tolkien",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/X/Quotes/An eye for an eye will only make the whole world blind.md",
+          "target": "Mahatma Gandhi",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/X/Quotes/Be regular and orderly in your life, so that you may be violent and original in your work..md",
+          "target": "Gustave Flaubert",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/X/Quotes/Do what you can, where you are, with what you have..md",
+          "target": "Teddy Roosevelt",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/X/Quotes/Do what you can, where you are, with what you have..md",
+          "target": "Teddy Roosevelt",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 11,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/X/Quotes/Everybody has plans until they get hit.md",
+          "target": "Mike Tyson",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/X/Quotes/I don't know half of you half as well as I should like–.md",
+          "target": "J.R.R. Tolkien",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/X/Quotes/I don't know half of you half as well as I should like–.md",
+          "target": "The Fellowship of the Ring",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 11,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/X/Quotes/Not all those who wander are lost.md",
+          "target": "J.R.R. Tolkien",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/X/Quotes/Not all those who wander are lost.md",
+          "target": "Lord of the Rings (1937-49)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 7,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/X/Quotes/Not all those who wander are lost.md",
+          "target": "The Joy of Thinking + The Rise of the Note-maker 🎤",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 8,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/X/Quotes/Nothing stood in his way, except for whatever emotional upset he choose to hold onto.md",
+          "target": "Steven Pressfield",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/X/Quotes/Nothing stood in his way, except for whatever emotional upset he choose to hold onto.md",
+          "target": "Steven Pressfield",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 11,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/X/Quotes/Pay attention. Be amazed. Tell about it..md",
+          "target": "Mary Oliver",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/X/Quotes/The future is here, but not evenly distributed.md",
+          "target": "William Gibson",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/X/Quotes/The journey of a thousand miles begins with a single step.md",
+          "target": "Laozi",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/X/Quotes/There is no greater agony than bearing an untold story inside you.md",
+          "target": "Maya Angelou",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/X/Quotes/There is no story that is not true...If you don't like my story, write your own.md",
+          "target": "Chinua Achebe",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/X/Quotes/To be or not to be–.md",
+          "target": "William Shakespeare",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/X/Quotes/Your imagination is your preview of life’s coming attractions..md",
+          "target": "Albert Einstein",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/X/Quotes/–a few are so free they are enslaved to pursue their follies.md",
+          "target": "Nick Milo",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/X/Quotes/–people will forget what you said...but people will never forget how you made them feel.md",
+          "target": "Maya Angelou",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Collections.md",
+          "target": "Collections (Nick)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 6,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Collections.md",
+          "target": "Outputs",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 87,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Habits Map.md",
+          "target": "Flywheel Effect",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 57,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Library.md",
+          "target": "Mapping MOCs",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 34,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Library.md",
+          "target": "I want to...",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 36,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Library.md",
+          "target": "All the Maps",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 37,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Library.md",
+          "target": "Knowledge and memory MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 37,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Library.md",
+          "target": "Posture MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 43,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Library.md",
+          "target": "Hormesis MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 43,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Library.md",
+          "target": "Breathing Exercises MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 43,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Library.md",
+          "target": "Prominent People (kit)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 44,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Library.md",
+          "target": "Life Command ⌘",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 45,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Library.md",
+          "target": "Religion MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 50,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Library.md",
+          "target": "Taoism MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 50,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Library.md",
+          "target": "Figures MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 63,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Library.md",
+          "target": "Leadership MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 63,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Library.md",
+          "target": "Cosmology MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 67,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Library.md",
+          "target": "Math MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 67,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Library.md",
+          "target": "Engineering MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 73,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Library.md",
+          "target": "Building Homes MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 73,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Library.md",
+          "target": "Editing Manual MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 73,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Library.md",
+          "target": "AI MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 75,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Library.md",
+          "target": "Collective Intelligence MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 75,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Library.md",
+          "target": "Genetics MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 75,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Library.md",
+          "target": "Design MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 80,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Library.md",
+          "target": "Jazz MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 83,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Library.md",
+          "target": "Ancient Greece MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 92,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Library.md",
+          "target": "Art & Science Storytelling MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 94,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Life Map.md",
+          "target": "My Roles",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 15,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Life Map.md",
+          "target": "My Permissions",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 15,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Life Map.md",
+          "target": "My Environments",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 16,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Life Map.md",
+          "target": "My Tools",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 16,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Life Map.md",
+          "target": "My Experiences",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 17,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Life Map.md",
+          "target": "Life Reflections",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 17,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Life Map.md",
+          "target": "My Virtues",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 18,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Life Map.md",
+          "target": "My Skills",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 18,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Life Map.md",
+          "target": "My Spark List",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 18,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Life Map.md",
+          "target": "My Manifesto",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 19,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Life Map.md",
+          "target": "My Goals",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 19,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Life Map.md",
+          "target": "My Obituary",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 20,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Meta PKM.md",
+          "target": "My PKM MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 19,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Meta PKM.md",
+          "target": "My PKM Folders",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 22,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Meta PKM.md",
+          "target": "My PKM Tags",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 23,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Meta PKM.md",
+          "target": "My PKM Metadata",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 24,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Meta PKM.md",
+          "target": "My PKM Queries",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 25,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Meta PKM.md",
+          "target": "My PKM Workflows - Global Guidelines",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 28,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Meta PKM.md",
+          "target": "My PKM Workflows - Inputs + Oldputs",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 29,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Meta PKM.md",
+          "target": "My PKM Workflows - Outputs",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 30,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/People Map.md",
+          "target": "Family, Friends, and Birthdays",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 41,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/People Map.md",
+          "target": "People by my eras in life",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 43,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/People Map.md",
+          "target": "Entertainment Industry",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 46,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/People Map.md",
+          "target": "Literary Industry",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 47,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Philosophy MOC (kit).md",
+          "target": "Ancient Greece MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 16,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Philosophy MOC (kit).md",
+          "target": "Collective Intelligence MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 17,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Philosophy MOC (kit).md",
+          "target": "Design MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 18,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Philosophy MOC (kit).md",
+          "target": "1952 - The Syntopicon",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 19,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Philosophy MOC (kit).md",
+          "target": "Socrates",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 26,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Philosophy MOC (kit).md",
+          "target": "Plato",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 26,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Philosophy MOC (kit).md",
+          "target": "Aristotle",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 26,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Philosophy MOC (kit).md",
+          "target": "Montaigne",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 27,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Philosophy MOC (kit).md",
+          "target": "Protagoras",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 33,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Philosophy MOC (kit).md",
+          "target": "Gorgias",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 34,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Philosophy MOC (kit).md",
+          "target": "Socrates",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 35,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Philosophy MOC (kit).md",
+          "target": "Democritus",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 36,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Philosophy MOC (kit).md",
+          "target": "Plato",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 37,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Philosophy MOC (kit).md",
+          "target": "Aristotle",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 40,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Philosophy MOC (kit).md",
+          "target": "Juvenal",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 52,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Philosophy MOC (kit).md",
+          "target": "Montaigne",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 55,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Places MOC.md",
+          "target": "Countries I've Been To",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 17,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Places MOC.md",
+          "target": "Travel Purgatory List",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 18,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Places MOC.md",
+          "target": "Journal of My Travels to XYZ",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 21,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Places MOC.md",
+          "target": "Mind Palace XYZ",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 22,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Psychology MOC (kit).md",
+          "target": "Psychology MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 13,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Sources.md",
+          "target": "Source MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 62,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Sources.md",
+          "target": "Bookshelf 📚",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 62,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Systems MOC (kit).md",
+          "target": "Systems ♻️",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 9,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Thinking Map.md",
+          "target": "Thought Unpacking",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 26,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Thinking Map.md",
+          "target": "Thought Enriching",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 26,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Thinking Map.md",
+          "target": "Meditation Jaunts",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 30,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Thinking Map.md",
+          "target": "Brief Meditation Sequences",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 30,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Thinking Map.md",
+          "target": "Mind Palaces",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 31,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Thinking Map.md",
+          "target": "Lucia Stance",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 32,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Thinking Map.md",
+          "target": "Word Excursion",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 35,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Maps/Workflows.md",
+          "target": "I want to...",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 48,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Calendar/Logs/Idea Log (Example).md",
+          "target": "Idea - Flywheel visual",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 14,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Calendar/Logs/Idea Log (Example).md",
+          "target": "a rising tide raises all boats",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 20,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Calendar/Logs/Idea Log (Example).md",
+          "target": "Idea Emergence",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 27,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Calendar/Logs/Idea Log (Example).md",
+          "target": "Creativity is not about the narrowing options, it's about the emergence of ideas",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 42,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Calendar/Logs/Idea Log (Example).md",
+          "target": "The art form around how art forms",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 46,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Calendar/Logs/Idea Log (Example).md",
+          "target": "Kate Bush, Stranger Things, & Idea Emergence",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 49,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Calendar/Logs/Idea Log (Example).md",
+          "target": "Sauna is a Faraday Cage for Super Thinking",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 50,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Calendar/Logs/Logs (Example).md",
+          "target": "Captain's Log",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 16,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Calendar/Logs/Logs (Example).md",
+          "target": "Meetings Log",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 17,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Calendar/Logs/Logs (Example).md",
+          "target": "Media Log",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 18,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Calendar/Logs/Logs (Example).md",
+          "target": "Health Log",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 19,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Calendar/Logs/Logs (Example).md",
+          "target": "Workouts Log 🦾",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 20,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Calendar/Notes/Past Years/2013-03-10 Habit Planning.md",
+          "target": "Lucia Stance",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 44,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Calendar/Notes/Past Years/2013-03-10 Habit Planning.md",
+          "target": "201910011142",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 71,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Calendar/Notes/Past Years/2013-03-10 Habit Planning.md",
+          "target": "201901250999",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 72,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Calendar/Notes/Past Years/2013-03-10 Habit Planning.md",
+          "target": "201406289999",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 73,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Calendar/Notes/Past Years/2013-03-10 Habit Planning.md",
+          "target": "201511121539",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 74,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Calendar/Notes/Past Years/2020-06-13 -  Bob Bain on Reading Comprehension.md",
+          "target": "Bob Bain",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Calendar/Notes/Past Years/2020-06-13 -  Bob Bain on Reading Comprehension.md",
+          "target": "Articles",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 9,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/🌌 Ideaverse Kit (OE) (Example).md",
+          "target": "LYT Kit 8 (E)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 21,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/🌌 Ideaverse Kit (OE) (Example).md",
+          "target": "LYT Kit 7 (E)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 22,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/🌌 Ideaverse Kit (OE) (Example).md",
+          "target": "LYT Kit 6 (E)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 23,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/🌌 Ideaverse Kit (OE) (Example).md",
+          "target": "LYT Kit 5 (E)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 24,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/🌌 Ideaverse Kit (OE) (Example).md",
+          "target": "LYT Kit 4 (E)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 25,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/🌼 My Health (OE) (Example).md",
+          "target": "Physical Training MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 19,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/🌼 My Health (OE) (Example).md",
+          "target": "Nutrition MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 20,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/🌼 My Health (OE) (Example).md",
+          "target": "Sleep MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 21,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/🌼 My Health (OE) (Example).md",
+          "target": "Exercises MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 23,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/🌼 My Health (OE) (Example).md",
+          "target": "Breathing Exercises MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 24,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/🌼 My Health (OE) (Example).md",
+          "target": "Hormesis MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 26,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/🌼 My Health (OE) (Example).md",
+          "target": "Posture MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 27,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/🌼 My Health (OE) (Example).md",
+          "target": "My Medical",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 29,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/🌼 My Health (OE) (Example).md",
+          "target": "Workouts Tracker",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 30,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/🌼 My Health (OE) (Example).md",
+          "target": "Injury Tracker MOC",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 31,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/🌼 My Health (OE) (Example).md",
+          "target": "Body Quirks Tracker",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 32,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/👨🏻‍🏫 LYT Workshops (OE) (Example).md",
+          "target": "LYT W11 Production Hub",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 12,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/👨🏻‍🏫 LYT Workshops (OE) (Example).md",
+          "target": "LYT W10 Production Hub",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 13,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/👨🏻‍🏫 LYT Workshops (OE) (Example).md",
+          "target": "LYT W9 Production Hub",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 14,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/👨🏻‍🏫 LYT Workshops (OE) (Example).md",
+          "target": "LYT W8 Production Hub",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 15,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/👨🏻‍🏫 LYT Workshops (OE) (Example).md",
+          "target": "LYT W7 Production Hub",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 16,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/👨🏻‍🏫 LYT Workshops (OE) (Example).md",
+          "target": "LYT C4 Production Hub",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 17,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/👨🏻‍🏫 LYT Workshops (OE) (Example).md",
+          "target": "LYT C3 Production Hub",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 20,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/👨🏻‍🏫 LYT Workshops (OE) (Example).md",
+          "target": "LYT C2 Production Hub",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 21,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/👨🏻‍🏫 LYT Workshops (OE) (Example).md",
+          "target": "LYT C1 Production Hub",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 22,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/💰 My Finance (OE) (Example).md",
+          "target": "My Investments",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 20,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/💰 My Finance (OE) (Example).md",
+          "target": "My Insurance",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 22,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/💰 My Finance (OE) (Example).md",
+          "target": "My Housing",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 23,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/💰 My Finance (OE) (Example).md",
+          "target": "My Medical",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 24,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/💰 My Finance (OE) (Example).md",
+          "target": "My Auto",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 25,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/💰 My Finance (OE) (Example).md",
+          "target": "My Bills",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 26,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/💰 My Finance (OE) (Example).md",
+          "target": "My Accounts",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 30,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/💰 My Finance (OE) (Example).md",
+          "target": "My Finances 💰 (non-kit)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 35,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/🚀 Flight School (OE) (Example).md",
+          "target": "Flight School 2.0 (E)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 17,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/🚀 Flight School (OE) (Example).md",
+          "target": "Flight School 1.5 (E)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 18,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Ongoing/🚀 Flight School (OE) (Example).md",
+          "target": "Flight School 1.0 (E)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 19,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Sleeping/👨‍👩‍👧‍👦 LYT Conference (OE) (Example).md",
+          "target": "LYT Conference 3 (E) (Example)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 17,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Sleeping/👨‍👩‍👧‍👦 LYT Conference (OE) (Example).md",
+          "target": "LYT Conference 2 (E) (Example)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 18,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Efforts/Sleeping/👨‍👩‍👧‍👦 LYT Conference (OE) (Example).md",
+          "target": "LYT Conference 1 (E) (Example)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 19,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Ideaverse Lite - Release Notes.md",
+          "target": "Articles",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 27,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/x/Prompts/Prompt - Buttressing Blindspots.md",
+          "target": "Prompts MOC (My)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 3,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/x/Prompts/Prompt - Finding Blindspots.md",
+          "target": "Prompts MOC (My)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 3,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/x/Prompts/Prompt - Imaginary Advisors.md",
+          "target": "Prompts MOC (My)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 3,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/x/Prompts/Prompt - Progymnasmata 1 - Fable.md",
+          "target": "Prompts MOC (My)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 3,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/x/Prompts/Prompt - Progymnasmata 2 - Narrative.md",
+          "target": "Prompts MOC (My)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 3,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/x/Prompts/Prompt - Progymnasmata 5 - Refutation.md",
+          "target": "Prompts MOC (My)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 3,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/x/Prompts/Prompt - The Last of the Lens-Benders.md",
+          "target": "Prompts MOC (My)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 3,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/x/Prompts/Prompt - Thought Enriching Machine.md",
+          "target": "Prompts MOC (My)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 3,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/x/Prompts/Prompt - Thought Unpacking Machine.md",
+          "target": "Prompts MOC (My)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 3,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/x/Prompts/Prompt - Thought Unpacking Machine.md",
+          "target": "Thought Unpacking",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 9,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/x/Prompts/Prompt Text, Ideaverse.md",
+          "target": "Prompts MOC (My)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 3,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/Spirited Away.md",
+          "target": "Hayao Miyazaki",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 6,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/Spirited Away.md",
+          "target": "Daveigh Chase",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 8,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/Spirited Away.md",
+          "target": "Suzanne Pleshette",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 9,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/Spirited Away.md",
+          "target": "Miyu Irino",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 10,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/Spirited Away.md",
+          "target": "Animation",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 18,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/Spirited Away.md",
+          "target": "Adventure",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 19,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/Spirited Away.md",
+          "target": "Family",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 20,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/Predator.md",
+          "target": "John McTiernan",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 6,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/Predator.md",
+          "target": "Carl Weathers",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 9,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/Predator.md",
+          "target": "Kevin Peter Hall",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 10,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/Predator.md",
+          "target": "Action",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 18,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/Predator.md",
+          "target": "Adventure",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 19,
+          "kind": "wiki"
+        },
+        {
+          "source": "Ideaverse Merged/Atlas/Dots/Sources/Shows/Predator.md",
+          "target": "Horror",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 20,
+          "kind": "wiki"
+        }
+      ]
+    },
+    "Andy Matuschak": {
+      "counts": {
+        "resolved": 1623,
+        "missing_file": 30,
+        "missing_heading": 1
+      },
+      "unresolved": [
+        {
+          "source": "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
+          "target": "2023-08-01 Patreon letter - Initial experiments in self-explanation support",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 10,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
+          "target": "# 2023-08-01 Patreon letter - Initial experiments in self-explanation support",
+          "resolved_to": "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
+          "status": "missing_heading",
+          "line": 38,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/2023-11-30 Patreon letter - Initial results from highlight-driven prototype.md",
+          "target": "2021-08-24 Patreon letter - Revamping the mnemonic medium around reader control",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 44,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/A pattern language of prompt-writing.md",
+          "target": "Pattern language",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 7,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/A pattern language of prompt-writing.md",
+          "target": "In prompt generation, LLMs lack prompt-writing patterns for complex conceptual material",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 13,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/Cloze deletion prompts seem to produce less understanding than question answer pairs in spaced repetition memory systems.md",
+          "target": "Spaced repetition memory prompts should unambiguously produce a specific answer",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 14,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/Cloze deletion prompts seem to produce less understanding than question answer pairs in spaced repetition memory systems.md",
+          "target": "Prompts must make clear what “shape” of answer they expect",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 14,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/Cloze deletion prompts seem to produce less understanding than question answer pairs in spaced repetition memory systems.md",
+          "target": "The limiting factor in spaced repetition system capacity is writing enough good prompts",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 20,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/Cloze deletion prompts seem to produce less understanding than question answer pairs in spaced repetition memory systems.md",
+          "target": "Cloze deletions can be used to create typical two-sided flashcards",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 20,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/Figma.md",
+          "target": "Figma is a surprisingly general-purpose infinite canvas",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/Figma.md",
+          "target": "Figma’s widget API creates an extensible, composable, sharable infinite canvas environment",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 6,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/Figma.md",
+          "target": "Figma’s copy and paste playground situates instructional media inside the context of use",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 9,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/In the Cells of the Eggplant - Chapman.md",
+          "target": "Scientific progress appears to be slowing down",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 55,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/OS-level spaced repetition system.md",
+          "target": "Spaced repetition may be a helpful tool to incrementally develop inklings for more",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 20,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/Participatory environment.md",
+          "target": "Flow (What is a state of flow?)",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 20,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/Patron letters on memory system experiments.md",
+          "target": "2023-10-26 Patreon letter - On breadth vs. depth in learning",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 10,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/Patron letters on memory system experiments.md",
+          "target": "2023-08-31 Patreon letter - Studying myself studying linear algebra",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 12,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/Patron letters on memory system experiments.md",
+          "target": "2023-08-01 Patreon letter - Initial experiments in self-explanation support",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 13,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/Patron letters on memory system experiments.md",
+          "target": "2023-03-31 Patreon letter - Memory systems and problem-solving practice",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 16,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/Patron letters on memory system experiments.md",
+          "target": "2023-02-28 Patreon letter - Becoming a Wizard-of-Oz learning assistant",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 17,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/Patron letters on memory system experiments.md",
+          "target": "2022-12-27 Patreon letter - Towards impact through intimacy in my memory system research",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 18,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/Patron letters on memory system experiments.md",
+          "target": "2022-10-14 Patreon letter - Lessons from summer 2022’s mnemonic medium prototype",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 19,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/Patron letters on memory system experiments.md",
+          "target": "2022-06-30 Patreon letter - The joyful surprises of user observation",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 21,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/Patron letters on memory system experiments.md",
+          "target": "2022-02-28 Patreon letter - Exponentials and forgetting in Quantum Country",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 23,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/Patron letters on memory system experiments.md",
+          "target": "2021-11-30 Patreon letter - Quantum Country’s suspiciously flat forgetting curves",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 24,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/Patron letters on memory system experiments.md",
+          "target": "2021-09-30 Patreon letter - Architectures for a more flexible mnemonic medium",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 25,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/Patron letters on memory system experiments.md",
+          "target": "2021-08-24 Patreon letter - Revamping the mnemonic medium around reader control",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 26,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/Patron letters on memory system experiments.md",
+          "target": "2021-03-25 Patreon letter - Too easy to be effortless",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 27,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/Patron letters on memory system experiments.md",
+          "target": "2021-02-02 Patreon letter - In search of better questions",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 28,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/Patron letters on memory system experiments.md",
+          "target": "2020-09-30 Patreon letter - The carrying capacity of a regular memory practice; deliberate practice and flow",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 29,
+          "kind": "wiki"
+        },
+        {
+          "source": "Andy Matuschak/Spaced repetition memory prompts should be written to discourage shallow “pattern matching”.md",
+          "target": "Is there a way to detect spaced repetition memory prompts which are likely to be answered through pattern matching",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 17,
+          "kind": "wiki"
+        }
+      ]
+    },
+    "LizardsFromOuterSpace": {
+      "counts": {
+        "resolved": 259,
+        "missing_file": 13
+      },
+      "unresolved": [
+        {
+          "source": "LizardsFromOuterSpace/002- Zettelkasten.md",
+          "target": "130- Design of Perfect Zettelkasten App",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 23,
+          "kind": "wiki"
+        },
+        {
+          "source": "LizardsFromOuterSpace/002- Zettelkasten.md",
+          "target": "133- Simple Zettelkasten Guide",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 24,
+          "kind": "wiki"
+        },
+        {
+          "source": "LizardsFromOuterSpace/002- Zettelkasten.md",
+          "target": "220- Zettelkasten Output Examples",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 26,
+          "kind": "wiki"
+        },
+        {
+          "source": "LizardsFromOuterSpace/002- Zettelkasten.md",
+          "target": "218- Zettelkasten as a Knowledge Explorer",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 27,
+          "kind": "wiki"
+        },
+        {
+          "source": "LizardsFromOuterSpace/002- Zettelkasten.md",
+          "target": "229- Zettelkasten isn’t a Catch All",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 28,
+          "kind": "wiki"
+        },
+        {
+          "source": "LizardsFromOuterSpace/026- Index.md",
+          "target": "168- To Index or Not Index",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 7,
+          "kind": "wiki"
+        },
+        {
+          "source": "LizardsFromOuterSpace/027 - Core Note Functions.md",
+          "target": "first principles",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 2,
+          "kind": "wiki"
+        },
+        {
+          "source": "LizardsFromOuterSpace/043- Concept.md",
+          "target": "4",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 18,
+          "kind": "wiki"
+        },
+        {
+          "source": "LizardsFromOuterSpace/043- Concept.md",
+          "target": "5",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 24,
+          "kind": "wiki"
+        },
+        {
+          "source": "LizardsFromOuterSpace/053- Storing.md",
+          "target": "infoglut",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 4,
+          "kind": "wiki"
+        },
+        {
+          "source": "LizardsFromOuterSpace/053- Storing.md",
+          "target": "summarizing",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 4,
+          "kind": "wiki"
+        },
+        {
+          "source": "LizardsFromOuterSpace/075- The knowledge cycle.md",
+          "target": "The Knowledge cycle Option C.png",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 3,
+          "kind": "wiki"
+        },
+        {
+          "source": "LizardsFromOuterSpace/099- Zettelkasten Model (aka Zettelkasten Principles).md",
+          "target": "114- Zettelksaten is about Knowledge Development",
+          "resolved_to": null,
+          "status": "missing_file",
+          "line": 5,
+          "kind": "wiki"
+        }
+      ]
+    }
+  },
+  "lyt_links_before": {
+    "resolved": 1048,
+    "missing_file": 1281
+  },
+  "removed_valid_targets": []
+}

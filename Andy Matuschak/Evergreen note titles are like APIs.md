@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z4EXkuLjdBrBZe7PVAGXc5a?stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k
+---
 # Evergreen note titles are like APIs
 When [[Andy Matuschak/Evergreen Notes|Evergreen Notes]] are factored and titled well, those titles become an abstraction for the note itself. The entire note’s ideas can then be referenced using that handle (see [[Concept handles, after Alexander]]). In fact, this property itself functions as a kind of litmus: as you develop ideas in notes over time and improve the “APIs,” you’ll be able to write individual notes which abstract over increasingly large subtrees (e.g. [Enacted experiences have incredible potential as a mass medium](https://notes.andymatuschak.org/z984ZZLbG4wREM6HAZAovMB) , [[Evergreen note-writing as fundamental unit of knowledge work]]).
 
@@ -13,6 +16,3 @@ Some effective note “API design” techniques:
 3. Positive inflections/framings ([Prefer positive note titles to promote systematic theory](https://notes.andymatuschak.org/z63PA5ATVi8oyhyLgeGvL3p)- to promote better idea linking and systematic theory)
 
 Related: [Grounded claims, after Qian et al](https://notes.andymatuschak.org/zA1qR46oWJiAvef3zxVWki) 
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k)

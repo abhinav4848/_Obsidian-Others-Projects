@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/zRTbHLYsFnL2hThAZL6tVqD?stackedNotes=z86ZRZ5s5ykUzGD8v8d33ro
+URL: https://notes.andymatuschak.org/zRTbHLYsFnL2hThAZL6tVqD?stackedNotes=z86ZRZ5s5ykUzGD8v8d33ro
 ---
 # Human channel capacity increases with stimulus dimensionality
 For unidimensional stimuli, the [[Channel capacity of humans as information processors]] is only a couple bits, but in everyday life, it seems that we routinely reproduce much more complex stimuli than that. One explanation for this discrepancy is that human channel capacity {increases} with the {dimensionality} of the stimulus.
@@ -18,7 +17,6 @@ Miller conjectures (1956, p. 91) that this effect asymptotes around 10 dimension
 
 ---
 # References
-1. [Andy Link](https://notes.andymatuschak.org/zRTbHLYsFnL2hThAZL6tVqD?stackedNotes=z86ZRZ5s5ykUzGD8v8d33ro)
 Eriksen, C. W., & Hake, H. W. (1955). Absolute judgments as a function of stimulus range and number of stimulus and response categories. Journal of Experimental Psychology, 49(5), 323–332. [https://doi.org/10.1037/h0044211](https://doi.org/10.1037/h0044211)
 
 Hake, H. W., & Garner, W. R. (1951). The effect of presenting various numbers of discrete steps on scale reading accuracy. Journal of Experimental Psychology, 42(5), 358–366. [https://doi.org/10.1037/h0055485](https://doi.org/10.1037/h0055485)

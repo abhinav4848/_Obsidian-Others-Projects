@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/zSoTbuyrXFnDHibaSeEzPRx
+URL: https://notes.andymatuschak.org/zSoTbuyrXFnDHibaSeEzPRx
 ---
 # Adjunct questions
 Questions inserted into a reading experience. These may be presented either before or after the content being tested. When placed after, these produce the [[Testing effect]] on the specific information being tested, as one would expect. But they also produce a more general effect: [[Adjunct questions improve comprehension of related but untested content]]. And there appear to be a [[Pre-testing effect]].
@@ -9,7 +8,6 @@ Related:
 - [[Mnemonic medium prompts are interleaved into the reading experience]]
 
 ## References
-1. [Andy Link](https://notes.andymatuschak.org/zSoTbuyrXFnDHibaSeEzPRx)
 - Reviews
     - [Anderson, R. C., & Biddle, W. B. (1975). On Asking People Questions about What They are Reading. In Psychology of Learning and Motivation (Vol. 9, pp. 89–132). Elsevier](https://notes.andymatuschak.org/zWQxgb82VhMqsuL71KGWHpW)
     - Hamaker, C. (1986). The Effects of Adjunct Questions on Prose Learning. Review of Educational Research, 56(2), 212–242. [https://doi.org/10.3102/00346543056002212](https://doi.org/10.3102/00346543056002212)

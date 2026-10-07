@@ -1,13 +1,27 @@
 ---
 up:
-  - "[[People Map]]"
+- '[[Ideaverse Merged/Atlas/Maps/People Map]]'
+- '[[NBA (league)]]'
 related: []
 created: 2020-06-01
 tags:
   - people
 dates: 1934 - 2022
+in:
+  - "[[Ideaverse Merged/Atlas/Maps/People]]"
+peopleType:
+  - Prominent
+peopleDomain:
+  - Sports
+peopleGroups:
+lifespan: 1934 - 2022
+finalAge: "88"
+culturalEra:
+culturalWorks:
+image: https://images.axios.com/5Pym0CXmT1hIWuIP5RUXFGqwMls=/2022/08/01/1659347033260.jpg
+aliases:
+- Bill Russell
 ---
-
 ### Wiki
 William Felton Russell (February 12, 1934 – July 31, 2022) was an American professional basketball player who played as a center for the Boston Celtics of the National Basketball Association (NBA) from 1956 to 1969. A five-time NBA Most Valuable Player (MVP) and a 12-time NBA All-Star, he was the centerpiece of the Celtics dynasty that won 11 NBA championships during his 13-year career.[2] Russell and Henri Richard of the National Hockey League are tied for the record of the most championships won by an athlete in a North American sports league.[3] Russell is widely considered to be one of the greatest basketball players of all time. He led the San Francisco Dons to two consecutive NCAA championships in 1955 and 1956,[4] and he captained the gold-medal winning U.S. national basketball team at the 1956 Summer Olympics.[5]
 

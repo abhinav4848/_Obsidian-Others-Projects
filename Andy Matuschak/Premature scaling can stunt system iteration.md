@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/About_these_notes?stackedNotes=zKKB5ENRahwftH96H7mijiu
+---
 # Premature scaling can stunt system iteration
 Particularly in Silicon Valley, when one has a prototype or an inkling that works well, the temptation is to scale it out. Make it work for more people and more use cases, turn it into a platform, make the graphs go up and to the right, etc. This is obviously a powerful playbook, but it should be deployed with careful timing because it tends to freeze the conceptual architecture of the system.
 
@@ -14,6 +17,3 @@ Once this playbook becomes the primary goal, your incentives change: your goal w
 One huge advantage to scaling up is that you’ll get far more feedback for your [[Insight through making]] process. It’s true that [[Effective system design requires insights drawn from serious contexts of use]], but it’s possible to create small-scale serious contexts of use which will allow you to answer many core questions about your system. Indeed: technologists often instinctively scale their systems to increase the chances that they’ll get powerful feedback from serious users, but that’s quite a stochastic approach. You can accomplish that goal by carefully structuring your prototyping process. This may be better in the end because [[Insight through making prefers bricolage to big design up front]]. 
 
 Eventually, of course, you’ll need to generalize the system to answer certain questions, but at least in terms of research outcomes, it’s best to make scaling _follow_ the need expressed by those questions. In that sense, it’s an instrumental end, not an ultimate end.
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zKKB5ENRahwftH96H7mijiu)

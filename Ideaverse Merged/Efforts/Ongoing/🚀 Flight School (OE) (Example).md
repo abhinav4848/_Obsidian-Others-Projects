@@ -1,13 +1,15 @@
 ---
 up:
-  - "[[Efforts]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Efforts]]"
 created: 2023-08-19
 rank: "2"
+aliases:
+- Flight School (OE) (Example)
 ---
 Obsidian Flight School helps people think faster (and better) with Obsidian.
 
 ## Current efforts
-- [[🚀 Flight School 2.5 (E) (Example)]]
+- [[Ideaverse Merged/Efforts/On/🚀 Flight School 2.5 (E) (Example)]]
 
 
 ## Previous efforts

@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/About_these_notes?stackedNotes=zCMhncA1iSE74MKKYQS5PBZ&stackedNotes=z4geAr5cERWdJPrdhU5gy3N
+---
 # Peripheral vision
 My physical workspace is full of subtle cues. The books I read or bought most recently are lying out. Papers I’ve accumulated are lying in stacks on my desk, very roughly arranged by their relationship to each other. I notice a broken door every time I walk by it. These cues together give me a kind of “peripheral vision”: when I’m doing one thing, it’s easy for me to fluidly notice other nearby things. So long as the peripheral vision is reasonably dynamic, anyway—[[Unchanging peripheral vision desensitizes]].
 
@@ -25,7 +28,6 @@ All this is part of why I like a [Studio environment](https://notes.andymatusch
 
 ---
 # References
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zCMhncA1iSE74MKKYQS5PBZ&stackedNotes=z4geAr5cERWdJPrdhU5gy3N)
 2. My Twitter thread on this note: [Andy Matuschak on Twitter: “Software interfaces undervalue peripheral vision! (a thread)My physical space is full of subtle cues. Books I read or bought most recently are lying out. Papers are lying in stacks on my desk, roughly arranged by their relationships.… https://t.co/jaLLpxXh3y”](https://twitter.com/andy_matuschak/status/1202663202997170176)
 
 Mark Weiser and John Seely Brown. “Designing Calm Technology”.  

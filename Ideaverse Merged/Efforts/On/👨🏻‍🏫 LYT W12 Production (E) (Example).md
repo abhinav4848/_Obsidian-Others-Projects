@@ -1,14 +1,12 @@
 ---
 up:
-  - "[[👨🏻‍🏫 LYT Workshops (OE) (Example)]]"
+  - "[[Ideaverse Merged/Efforts/Ongoing/👨🏻‍🏫 LYT Workshops (OE) (Example)]]"
 related: []
 created: 2023-08-19
 rank: "5"
+aliases:
+- LYT W12 Production (E) (Example)
 ---
-
-
-
-
 # Things I've Shared Ahead of Time
 
 > [!NOTE]+ From 2023-08-18 Newsletter

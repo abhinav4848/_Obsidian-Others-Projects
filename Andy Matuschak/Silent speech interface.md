@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z2vMujPz4bgD3BwtwbU9U9B?stackedNotes=zWG9EgWoprv9cbXXkhg8YNS&stackedNotes=zFNrLkCqVyTK22wRfDKDsqy
+---
 # Silent speech interface
 
 (see also [my survey article](https://www.patreon.com/posts/prospects-for-69855805) on this subject)
@@ -41,4 +44,3 @@ The best routes I’ve seen seem to be (as of 2022 / 2024):
 Apart from the specific systems above, this book offers a helpful survey:  
 [Freitas, J., Teixeira, A., Dias, M. S., & Silva, S. (2017). An Introduction to Silent Speech Interfaces. Springer International Publishing](https://notes.andymatuschak.org/zAs9mqUkrLpirPjSejPFz3f)
 
-1. [Andy Link](https://notes.andymatuschak.org/z2bSwDuxY2Jbv1ntLKB3SL1?stackedNotes=z2vMujPz4bgD3BwtwbU9U9B&stackedNotes=zWG9EgWoprv9cbXXkhg8YNS&stackedNotes=zFNrLkCqVyTK22wRfDKDsqy)

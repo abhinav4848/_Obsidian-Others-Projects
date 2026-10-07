@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zQgeXp15RWkzyiUv9WQsLtA?stackedNotes=zMdKRBZStQ4tCJJhomSYxvG&stackedNotes=z5wZoGy72FafNGd1AHgtghs
+---
 # The Reflective Practitioner - Donald Schön
 The thesis, much compressed: Practitioners in ill-structured domains (arts, managers, engineers, planners, etc) work in ways which can’t be reduced to technical knowledge and rational procedures, as schools have increasingly tried (and failed) to do. But expertise is real: these practitioners do have important and often consistent kinds of knowledge and methods. Their knowing is tied up in action (“knowing-in-practice”), resisting abstraction and decontextualization. They deal with highly contingent problems by reflecting on the observed consequences of their moves (“reflection-in-action”) and on their approach to the problem (“reflection-on-action”). This iteration is related to scientific experimentation, but generally aims to produce forward momentum, rather than rigorous universal conclusions.
 
@@ -42,6 +45,3 @@ A. Virtual worlds allow practitioners to more fluidly try and reflect on moves; 
 
 Q. Why might managers in hierarchical organizations find it difficult to teach others to do what they do?  
 A. In their day-to-day work, they rarely articulate their intuitive reasoning to others, so they may have little awareness of their reflection-in-action.
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/zMbCwoVdjsqPNyTRRr3phPN?stackedNotes=z2etsLyP1LJUwNDPCwvRdUG&stackedNotes=zPrYC99kH227c1otipAefyQ&stackedNotes=zMhuu3pPa6FeNGYn3VfGCar&stackedNotes=z8aBPhjq7R6o8cwVNjzfDdr&stackedNotes=zQgeXp15RWkzyiUv9WQsLtA&stackedNotes=zMdKRBZStQ4tCJJhomSYxvG&stackedNotes=z5wZoGy72FafNGd1AHgtghs)

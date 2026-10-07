@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zMbCwoVdjsqPNyTRRr3phPN
+---
 # Knowledge work rarely involves deliberate practice
 [[Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do]]. One likely reason is that athletes/musicians engage in [Deliberate practice, after Ericsson](https://notes.andymatuschak.org/Deliberate_practice%2C_after_Ericsson) *(dead link)* —that is, activities focused specifically on improving skills.
 
@@ -11,7 +14,6 @@ See also [§Taking knowledge work seriously (Stripe convergence talk, 2019-12-1
 
 ---
 # References
-1. [Andy Link](https://notes.andymatuschak.org/zMbCwoVdjsqPNyTRRr3phPN)
 2. Ericsson, A., & Pool, R. (2016). _Peak: Secrets from the New Science of Expertise_ (1 edition). Eamon Dolan/Houghton Mifflin Harcourt. [Peak - Ericsson and Pool](https://notes.andymatuschak.org/zEwJDpZiu1YQoXYznxioznL)
 3. [Nielsen, M. A. (2004). Principles of effective research (Technical Note No. 0404). The University of Queensland.](https://notes.andymatuschak.org/zKfPfesQJTAsZw5CATEpPzr)
 > 	Many people don’t spend enough time on self-development. If you stop your development at the level which resulted in your first paper, it’s unlikely you’ll solve any major problems. More realistically, for many people self-development is an incidental thing, something that happens while they’re on the treadmill of trying to solve problems, generate papers, and so on, or while teaching. While such people will develop, it’s unlikely that doing so in such an ad hoc way will let them address the most important problems.

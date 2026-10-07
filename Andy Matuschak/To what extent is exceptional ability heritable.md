@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z3CX38AdFzNGcujEwctVj5X?stackedNotes=z3QKv5mY5mprx5hMJdkHefG&stackedNotes=zF99FY5PtnuKnn8JyQ4qSD8
+---
 # To what extent is exceptional ability heritable?
 Nature or nurture?
 
@@ -21,7 +24,3 @@ A. Sports: height, muscle fiber type distributions, and other highly relevant tr
 Q. How might small heritable variations in ability be amplified into large differences in adult expertise?
 
 A. A child might perform better at something without training due to some heritable trait, which might lead to more practice, hence more expertise.
-
-# Reference
-
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zTn3g4wTm1hbkNFUvLLjpev&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB&stackedNotes=z4EXkuLjdBrBZe7PVAGXc5a&stackedNotes=zNUaiGAXp21eorsER1Jm9yU&stackedNotes=zDh1yhNFQNxDEre12B4zd8k&stackedNotes=zLhoRUyjKU665EY16u4XXJy&stackedNotes=z3CX38AdFzNGcujEwctVj5X&stackedNotes=z3QKv5mY5mprx5hMJdkHefG&stackedNotes=zF99FY5PtnuKnn8JyQ4qSD8)

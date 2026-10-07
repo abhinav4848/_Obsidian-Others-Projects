@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/Pomodoro_technique?stackedNotes=z6yUMNozmk9oamZmKFn5Ldh&stackedNotes=z5411exwfs7LDbNHUJoL7vk
+---
 # Unskillful attention outside of work hours harms attention during work hours
 
 Type of Link: 📝 Article
@@ -22,7 +25,6 @@ A. Feels like I’m resetting my depth of focus each pomo. Whereas if I avoid co
 
 # References
 
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zFuk9QqspNYHAgvzZc33ZGH&stackedNotes=zDXBGEWk7msyonQ2Ngnrf8h&stackedNotes=zB74H9CuWrosEuqve7jZyCo&stackedNotes=zRbqwbnhmVdfLtKxMCibMoX&stackedNotes=zH7AVUkqYYK7xmoAn8PTpAV&stackedNotes=z2qjVZKqSqrqkhFhvUpPDtd&stackedNotes=zQvbnYfHdG1gARTbtC4pje6&stackedNotes=zKBhqUkoRWoNV72aG21GYst&stackedNotes=zKzUzQENhyEDnuwPUhh2EQM&stackedNotes=zME6gV6mc1mQ2KDE5acyho8&stackedNotes=z2iksmfhifvy5a16Abv5MUW&stackedNotes=zHTevHGZQPu8QHpRhUmtsuK&stackedNotes=zSve33D7x1qe5WUjojDcM9y&stackedNotes=z2q7U5ZvXeDxXD6vXAbZb9a&stackedNotes=zWTgG8ddRz5h1WbNMYnrnqX&stackedNotes=zJwcvZbtq2iQwpd63Go9tD4&stackedNotes=Pomodoro_technique&stackedNotes=z6yUMNozmk9oamZmKFn5Ldh&stackedNotes=z5411exwfs7LDbNHUJoL7vk)
 - Craig Mod, [Offscreen Magazine interview](https://craigmod.com/essays/offscreen_interview/):
     
     > If I wake up and touch my phone, I’ve already lost hours. Not because I’m browsing social media for hours, but because the mind has already been agitated, made unquiet, and the context switch back into thoughtfulness can take the whole morning. In other words, the addict part of my brain takes over and contaminates my ability to be contemplative. I lose the grace to dive into other worlds, the worlds of writing or programming or images.

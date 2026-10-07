@@ -1,10 +1,10 @@
 ---
 up:
-  - "[[Library]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Library]]"
 related: []
 created: 2017-01-01
 in: 
-- "[[Maps]]"
+- "[[Ideaverse Merged/Atlas/Maps/Maps]]"
 ---
 It was just easier to completely sanitize this note for public viewing. Put your "psychology concepts" here.
 

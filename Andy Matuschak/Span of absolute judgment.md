@@ -16,7 +16,7 @@ Q. What’s the rough order of magnitude of variation of the span of absolute ju
 A. 10^0
 
 Q. Give an example of an experiment one could do to determine an individual’s span of absolute judgment for some stimulus.  
-A. [assigning numbers to saline concentrations, sizes of shapes, inclinations of lines, etc](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zDcuS8A5uxGR8hQygsqP83A&stackedNotes=zQvwwb95vzcHcpow3GWy5Wi&stackedNotes=zWWh96dE6YZYmDCoo37977X&stackedNotes=z6sX7ZcYdPiya3SzQ5segaq&stackedNotes=zRTbHLYsFnL2hThAZL6tVqD&stackedNotes=zMQK1sFXWbVMbSQAsjSTUvm)
+A. [assigning numbers to saline concentrations, sizes of shapes, inclinations of lines, etc](https://notes.andymatuschak.org/z6sX7ZcYdPiya3SzQ5segaq?stackedNotes=zRTbHLYsFnL2hThAZL6tVqD&stackedNotes=zMQK1sFXWbVMbSQAsjSTUvm)
 
 Q. Humans can only reliably discriminate a stimulus (e.g. saline concentration) into around 7 distinct unidimensional magnitudes. What does Miller (1956) call this limit?  
 A. span of absolute judgment

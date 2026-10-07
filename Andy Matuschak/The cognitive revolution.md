@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zQ7SznVVFocQtB24Db6feG8
+---
 By {the mid twentieth century}, many scholars had pointed out the limitations of [[Behaviorism]]: behavior depends on {non-observable internal phenomena} like {memories and beliefs}, which behaviorists exclude from their experimental methods because {they’re subjective}.
 
 Psychologists began to study these internal phenomena using the [[Transcendental method]] and ideas borrowed from computer science, eventually producing the field of [[Cognitive psychology]] and the theoretical framework of [[Cognitivism]].
@@ -16,5 +19,3 @@ Computing technology inspired a wave of new psychological theories using informa
 
 Q. What’s the significance of the [[Transcendental method]] to [[Cognitive psychology]]?  
 A. It resolved an important paradox: understanding behavior requires understanding internal phenomena, which can’t be directly observed.
-# Source
-1. Andy Link: https://notes.andymatuschak.org/zQ7SznVVFocQtB24Db6feG8

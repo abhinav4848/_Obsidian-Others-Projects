@@ -1,7 +1,6 @@
 ---
 created: {{date}}
 ---
-
 ## Freewrite
 
 

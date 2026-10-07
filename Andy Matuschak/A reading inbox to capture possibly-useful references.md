@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zNQV445UEcyLXVsRVgoVSfv?stackedNotes=zFuk9QqspNYHAgvzZc33ZGH&stackedNotes=zDXBGEWk7msyonQ2Ngnrf8h
+---
 # A reading inbox to capture possibly-useful references
 To avoid a proliferation of anxiety-inducing browser tabs and a terrifying folder of PDFs, it’s important to have an automatic procedure for capturing references to readings which might prove useful.
 
@@ -23,7 +26,6 @@ The reading inbox is an important release valve for things I encounter when on m
 Related: [[Incremental reading]] 
 
 # Reference
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zFuk9QqspNYHAgvzZc33ZGH&stackedNotes=zDXBGEWk7msyonQ2Ngnrf8h) 
 2. [Note-Taking when Reading the Web and RSS • Zettelkasten Method](https://zettelkasten.de/posts/reading-web-rss-note-taking/)
 
 > The Inbox is the place to hold the items we either want to or need to pay attention to. A lot of stuff will never reach our inbox; we can shut off the noise outside.

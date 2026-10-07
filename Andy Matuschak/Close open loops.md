@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zKGjQtsTKgscAoq271ZzKqw?stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zFuk9QqspNYHAgvzZc33ZGH
+---
 # Close open loops
 # Close open Loops
 Tasks left undone, observations left unrecorded, replies yet to be written—these swirl about our minds, as if we’re rehearsing them over and over again to make sure they’re not forgotten. To get rid of this nagging and create a “mind like water” (to use the term in Allen, 2015), build systems to reliably close these open loops.
@@ -12,5 +15,4 @@ Taken together, these properties ensure that when you record a task, *you can s
 See also [[A reading inbox to capture possibly-useful references]] .
 
 # Reference
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zFuk9QqspNYHAgvzZc33ZGH) 
 2. Allen, D. (2015). Getting Things Done: The Art of Stress-Free Productivity.

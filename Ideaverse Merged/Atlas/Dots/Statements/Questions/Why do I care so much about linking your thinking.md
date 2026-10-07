@@ -1,6 +1,6 @@
 ---
 in:
-  - "[[Questions]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Questions]]"
 by: 
 related: 
 created: 2023-11-29

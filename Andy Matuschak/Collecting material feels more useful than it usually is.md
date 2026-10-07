@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zQm6XAB3XXrXLHzF7gahpJ2
+---
 # Collecting material feels more useful than it usually is
 
 Accumulating tabs, saving PDFs, and making bookmarks feels like progress, but we systematically overrate its value. [[Understanding requires effortful engagement]]; you are not likely to draw much understanding from a folder of barely-skimmed PDFs.
@@ -32,4 +35,3 @@ Often a good compromise is to use spaced repetition to cheaply internalize a few
 > The marks which can make a difference to their organisations are on the knowledge workers not on the pieces of paper. This is what it means to inform - to change the form of a person or a device such that they act differently (ideally more effectively) on their environment.
 
 
-1. [Andy Link](https://notes.andymatuschak.org/zQm6XAB3XXrXLHzF7gahpJ2)

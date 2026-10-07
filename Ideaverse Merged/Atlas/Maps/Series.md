@@ -1,10 +1,10 @@
 ---
 in:
-  - "[[Collections]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Collections]]"
 related:
-  - "[[Books]]"
-  - "[[Movies]]"
-  - "[[Series]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Books]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Movies]]"
+  - "[[Ideaverse Merged/Atlas/Maps/Series]]"
 tags:
   - "#map/view"
 created: 2022-01-01

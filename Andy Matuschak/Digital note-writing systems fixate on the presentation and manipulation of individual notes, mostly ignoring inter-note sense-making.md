@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zsRuFxYgckGS81tr2eiBAP
+---
 # Digital note-writing systems fixate on the presentation and manipulation of individual notes, mostly ignoring inter-note sense-making
 
 If I’m writing [[Evergreen notes]] onto physical index cards, I’ll naturally arrange them on my desk as I write them. Several notes that are related will likely end up in a small cluster or pile. Notes which follow from others will probably sit physically to the right of “more fundamental” notes. As I’m writing a new note, I’ll see all the other notes I’ve been writing, physically arranged adjacent to it. This is a kind of [[Peripheral vision]].
@@ -11,5 +14,3 @@ If I read a note some time later, I have the unnerving sense that it’s part of
 ---
 
 This reminds me of the “spatial” Finder in earlier versions of Mac OS, in which each folder would be opened into a new window _and those windows’ positions and sizes would be persisted across sessions._ A given folder would always be in a particular spot once opened, so you could establish ad-hoc arrangements of folders which would persist over time. 
-# References
-1. [Andy Link](https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zsRuFxYgckGS81tr2eiBAP)

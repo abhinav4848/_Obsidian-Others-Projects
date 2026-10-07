@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zUVSwsgstnaSQ5XfxzEjSnF
+---
 # Conversation with others often emphasizes the most well-understood elements of an idea
 
 There’s an unintuitive danger in talking about an emerging idea with others. The clearest, most familiar parts are the ones which you’ll have the easiest time communicating and which your conversation partner will have the easiest time grasping. Often, those notions are already somewhat mainstream or even clichéd; others are likely to have lots of cached thoughts around that idea, and they’ll tend to interpret it incrementally.
@@ -13,6 +16,3 @@ This idea emerged from an early 2018 conversation with Bret Victor. He’d just
 In [this 2016 email](https://dynamicland.org/archive/2016/Representations_for_understanding) (goes outside the andy website) he makes a similar remark.
 
 > A creative person chooses their work by following an internal compass, which they must trust to point in a meaningful and valuable direction.  For me, this compass is a fragile thing, easily confused by interfering magnetic fields.  Any time I'm in a social situation where I'm expected to explain myself -- "no, it's not Internet of Things... no, it's not Augmented Reality... no, it's not Artificial Intelligence...  no, well, I don't know..." -- my compass gets twisted around and I lose all grasp on why I am.  It's an awful feeling, and can sometimes take days to recover.
-
-# References
-1. https://notes.andymatuschak.org/zUVSwsgstnaSQ5XfxzEjSnF 

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Ideaverse Merged/Atlas/Notes/Ideas/Evergreen notes]]"
+  - "[[Ideaverse Merged/Atlas/Dots/Things/Evergreen notes]]"
 related: []
 created: 2020-06-01
 ---
@@ -13,4 +13,4 @@ It's worth noting that evergreen notes take more effort to write than regular no
 
 ---
 
-Continue on to [[Ideaverse Merged/Atlas/Notes/Ideas/Evergreen notes compound in value over time]]
+Continue on to [[Ideaverse Merged/Atlas/Dots/Statements/Evergreen notes compound in value over time]]

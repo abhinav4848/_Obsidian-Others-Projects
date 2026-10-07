@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/z2bSwDuxY2Jbv1ntLKB3SL1
+---
 # Reading texts on computers is unpleasant
 
 > The real growth in the adoption of e-books will happen when the traditional book is deconstructed and reconstructed (textually, behaviourally and commercially) in order to create new paradigms for storing and delivering content in electronic forms. 
@@ -19,4 +22,3 @@ Related but separate:
 ## References
 Carden, M. T. J. (2008). E-Books are not books. Proceeding of the 2008 ACM Workshop on Research Advances in Large Digital Book Repositories - BooksOnline ’08, 9. [https://doi.org/10.1145/1458412.1458416](https://doi.org/10.1145/1458412.1458416)
 
-1. [Andy Link](https://notes.andymatuschak.org/z2bSwDuxY2Jbv1ntLKB3SL1)

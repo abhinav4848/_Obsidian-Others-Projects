@@ -1,14 +1,14 @@
 ---
 up:
-  - "[[Ideaverse Map]]"
+  - "[[Ideaverse Merged/Ideaverse Map]]"
 related: []
 created: 2022-05-11
 modified: 2023-08-25
 ---
 # Ideaverse Lite 1.5 - Release Notes
 ## Major Changes
-- Added [[Home Basic]].
-	- It's a simple and clean home note. It's the non-flashy, but highly functional alternative to [[Home]]. It's intentionally easy to edit, so we expect you to edit it to your personal tastes—just try to keep the formatting simple!
+- Added [[Ideaverse Merged/Home Basic]].
+	- It's a simple and clean home note. It's the non-flashy, but highly functional alternative to [[Ideaverse Merged/Home]]. It's intentionally easy to edit, so we expect you to edit it to your personal tastes—just try to keep the formatting simple!
 - Formally introducing **Folder x**.
 	- *The "x" folder stands for "extras"*. It works incredibly well in Obsidian and in your computer's file folder system as well. 
 	- It's a release valve, an easy way to tuck away those "extra" types of notes, such as "notes about notes" (meta notes, vault-related notes), utility notes, archived notes, and less immediately relevant "placeholder folders" that, while not overly important now, still serve you as a tucked away reminder of a topic or area of simmering or potential interest. 
@@ -19,24 +19,24 @@ modified: 2023-08-25
 	- Renamed `Atlas/Notes` folder to `Atlas/Dots` folder
 		- Renamed `Atlas/Dots/Ideas` folder to `Atlas/Dots/Things` folder
 		- Created a new folder `Atlas/Dots/Statements` and moved all statements there
-		- This is to reflect how [[Ideaverse Merged/Atlas/Notes/Ideas/Evergreen notes are things or statements about things]]
+		- This is to reflect how [[Ideaverse Merged/Atlas/Dots/Statements/Evergreen notes are things or statements about things]]
 - **Metadata power shift** from tags ➡️ properties to organize notes and collections
-	- Notes that had a `type` property for the subtype it was (ex. for sources notes there was `type: Book`) were instead converted into the `in` property and a link to the related note (ex. `[[Books]]`).
-	- `#concept` tag replaced with `in` property to `[[Concepts]]`.
-	- Notes with subtags like `#map/view` were replaced by the `in` property with links to both `[[Maps]]` and `[[Views]]`.
-		- This was also the case for source notes like `#source/article`, which were turned into the links to notes `[[Sources]]` and `[[Articles]]`
+	- Notes that had a `type` property for the subtype it was (ex. for sources notes there was `type: Book`) were instead converted into the `in` property and a link to the related note (ex. `[[Ideaverse Merged/Atlas/Maps/Books]]`).
+	- `#concept` tag replaced with `in` property to `[[Ideaverse Merged/Atlas/Maps/Concepts]]`.
+	- Notes with subtags like `#map/view` were replaced by the `in` property with links to both `[[Ideaverse Merged/Atlas/Maps/Maps]]` and `[[Ideaverse Merged/Atlas/Maps/Views]]`.
+		- This was also the case for source notes like `#source/article`, which were turned into the links to notes `[[Ideaverse Merged/Atlas/Maps/Sources]]` and `[[Articles]]`
 		- For an example on this, you can visit [[Ideaverse Merged/Atlas/Dots/Sources/The Almagest]]
 	- Instead of Dataview queries using tags to search for notes, the new main filter criteria is through a note's `in` property.
-- Quickly and powerfully find your most important notes by using the new [[Maps]] and [[Views]] collection notes
-- Updated [[Ideaverse Map]]
+- Quickly and powerfully find your most important notes by using the new [[Ideaverse Merged/Atlas/Maps/Maps]] and [[Ideaverse Merged/Atlas/Maps/Views]] collection notes
+- Updated [[Ideaverse Merged/Ideaverse Map]]
 	- Added mention of other folders beyond ACE in "How to customize your ACE headspace"
 	- Added new callout under "Extra gifts" for acknowledging the intentional usage of styles in the Ideaverse
-- Simplified the [[Library]] note's formatting.
+- Simplified the [[Ideaverse Merged/Atlas/Maps/Library]] note's formatting.
 	- By taking the text out of the callouts, we are encouraging you to actually edit the Library note to make it your own.
 ## Minor changes
 - Removed `Excalibrain` community plugin due to unexpected behavior on initial load
 - Embedded LYT YouTube videos into relevant notes for further learning
-- Replaced all previous mentions of "Ideaverse for Obsidian" with "Ideaverse Lite" to avoid confusion with [[Ideaverse Pro]]
+- Replaced all previous mentions of "Ideaverse for Obsidian" with "Ideaverse Lite" to avoid confusion with [[Ideaverse Merged/Atlas/Dots/Sources/Ideaverse Pro]]
 - Fixed unrequited notes callouts to still work even if the file name changes
 ## New Notes in this Version
 ```dataview
@@ -59,12 +59,12 @@ sort file.name
 # Ideaverse Lite 1.0 - Release Notes
 *Released 2023-08-30*
 **Headlines**
-- Introduced the [[Home]] note with ACE head spaces.
+- Introduced the [[Ideaverse Merged/Home]] note with ACE head spaces.
 	- Provide multiple examples of 
 	- Provided a basic ARC Framework (Add, Relate, Communicate) for developing ideas into outputs.
 - Introduced the [[Ideaverse Merged/Atlas/Dots/Things/ACE Folder Framework]].
 	- Provided ACE with multiple notes and examples.
-- Introduced a working system for [[Efforts]] based on intensities. 
+- Introduced a working system for [[Ideaverse Merged/Atlas/Maps/Efforts]] based on intensities. 
 	- Provided "Efforts" with multiple examples.
 
 **Details**

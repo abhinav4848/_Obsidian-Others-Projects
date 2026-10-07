@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/Cloze_deletion_prompts_seem_to_produce_less_understanding_than_question%2Fanswer_pairs_in_spaced_repetition_memory_systems?stackedNotes=zSiuztCZ594AZuCweRghcXT&stackedNotes=zENFxxXLVZqyJz2qaXxuy2p
+---
 # Spaced repetition memory prompts should ensure reviewers must retrieve answers from memory
 A [[Spaced repetition memory system]] depends on the [[Testing effect]]: you’ll remember something longer if you have to actually retrieve it from memory than if you’re simply re-exposed to it. So when writing prompts, make sure that the prompt requires the reader to actually retrieve the memory you want to reinforce.
 
@@ -6,6 +9,3 @@ Avoid “leading questions”—questions which imply their own answer—because
 More generally, think of spaced repetition as slowly wearing “grooves” in the mind. When you write questions, you shape the grooves: you’ll reinforce whatever paths light up in a person’s mind when they answer the question. In this sense, true/false questions are weak: they mostly reinforce one binary detail. It’s better to phrase questions to produce vivid, detailed, and specific memory retrieval. Instead of “Which is generally taller: a nimbus cloud or a cumulonimbus cloud?”, you might ask: “Which cloud altitude region(s) do cumulonimbus clouds inhabit?” and “Which is the largest type of cloud?”
 
 Related: [[Desirable difficulties, after Bjork]]
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zTnTob5JrFYF9NpU73Zg5a1&stackedNotes=z4aipv9wyMg4qZGANaVjkrJ&stackedNotes=zX95uZHiGWNiNTDF3wETWtq&stackedNotes=zAt1K9ARQYguinoHH8cfaqQ&stackedNotes=Cloze_deletion_prompts_seem_to_produce_less_understanding_than_question%2Fanswer_pairs_in_spaced_repetition_memory_systems&stackedNotes=zSiuztCZ594AZuCweRghcXT&stackedNotes=zENFxxXLVZqyJz2qaXxuy2p)

@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zKGjQtsTKgscAoq271ZzKqw?stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB
+---
 # Evergreen note-writing as fundamental unit of knowledge work
 If you had to set one metric to use as a leading indicator for yourself as a knowledge worker, the best I know might be the number of Evergreen notes written per day. Note-writing can be a virtuosic skill, but Most people use notes as a bucket for storage or scratch thoughts and Note-writing practices are generally ineffective.
 
@@ -8,6 +11,3 @@ If you had to set one metric to use as a leading indicator for yourself as a kno
 Note-writing helps writing accumulate: these notes are the fuel for the Executable strategy for writing, particularly if you Create speculative outlines while you write.
 
 A caveat: [[Better note-taking misses the point; what matters is “better thinking”]] 
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zR6RRbCfY5rFkiimFnaJZKB)

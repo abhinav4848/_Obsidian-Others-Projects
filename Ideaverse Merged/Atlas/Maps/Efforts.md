@@ -1,9 +1,9 @@
 ---
 up:
-  - "[[Home]]"
+  - "[[Ideaverse Merged/Home]]"
 created: 2023-08-19
 in: 
-- "[[Maps]]"
+- "[[Ideaverse Merged/Atlas/Maps/Maps]]"
 ---
 Keep your priorities in order. Quickly adjust your bandwidth as needed. 
 
@@ -12,7 +12,7 @@ Keep your priorities in order. Quickly adjust your bandwidth as needed.
 > TABLE WITHOUT ID
 > file.link as "",
 >  rank as "Rank"
-> FROM "Efforts/On"
+> FROM "Ideaverse Merged/Efforts/On"
 > SORT rank desc
 > ```
 
@@ -22,7 +22,7 @@ Keep your priorities in order. Quickly adjust your bandwidth as needed.
 > TABLE WITHOUT ID
 > file.link as "",
 > rank as "Rank"
-> FROM "Efforts/Ongoing"
+> FROM "Ideaverse Merged/Efforts/Ongoing"
 > SORT rank desc
 > ```
 
@@ -34,19 +34,19 @@ Keep your priorities in order. Quickly adjust your bandwidth as needed.
 > TABLE WITHOUT ID
 > file.link as "",
 > rank as "Rank"
-> FROM "Efforts/Simmering"
+> FROM "Ideaverse Merged/Efforts/Simmering"
 > SORT rank desc
 > ```
 
 ---
 
 > [!faq]+ Learn more about Efforts
-> - [[Ideaverse Merged/Atlas/Notes/Ideas/A deeper dive into how ACE works]]
-> - [[Ideaverse Merged/Atlas/Maps/Why Efforts are Liberating]]
+> - [[Ideaverse Merged/Atlas/Dots/Statements/A deeper dive into how ACE works]]
+> - [[Ideaverse Merged/Atlas/Dots/Statements/Why Efforts are Liberating]]
 > - [[Ideaverse Merged/Atlas/Dots/Things/The Four Intensities of Efforts]]
-> - [[Ideaverse Merged/Atlas/Notes/Ideas/How ideas and efforts play nicely together]]
-> - [[Ideaverse Merged/Atlas/Notes/Ideas/The big differences between efforts and projects]]
+> - [[Ideaverse Merged/Atlas/Dots/Statements/How ideas and efforts play nicely together]]
+> - [[Ideaverse Merged/Atlas/Dots/Statements/The big differences between efforts and projects]]
 >   
 >   ![[Ideaverse Merged/x/Images/robert-mccall-black-hole-concept-art copy.jpg]]
 
-Back to [[Home]].
+Back to [[Ideaverse Merged/Home]].

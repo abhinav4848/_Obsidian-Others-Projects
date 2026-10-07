@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zEr7kCcH6zUUroDJBwDj2n5?stackedNotes=z79rMNNuLrUj6R8q1CXSpDm&stackedNotes=z6H1QypHEq3vak9sV7XLdKx
+---
 # Create speculative outlines while you write
 When you write a new note, add it to one or more **outlines** you’re maintaining, creating a new one if necessary. Substantially-complete writing projects will naturally emerge.
 
@@ -8,7 +11,6 @@ Maintaining already-written notes in an outline is comparatively easy: just look
 Furthermore, to start a writing project with a blank outline, we need to have a topic and some angle in mind. We can [[Use notes to avoid preconceived conclusions]].
 
 # References
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX&stackedNotes=zKGjQtsTKgscAoq271ZzKqw&stackedNotes=zNQV445UEcyLXVsRVgoVSfv&stackedNotes=zFuk9QqspNYHAgvzZc33ZGH&stackedNotes=zDXBGEWk7msyonQ2Ngnrf8h&stackedNotes=zB74H9CuWrosEuqve7jZyCo&stackedNotes=zRbqwbnhmVdfLtKxMCibMoX&stackedNotes=zH7AVUkqYYK7xmoAn8PTpAV&stackedNotes=z2qjVZKqSqrqkhFhvUpPDtd&stackedNotes=zQvbnYfHdG1gARTbtC4pje6&stackedNotes=zKBhqUkoRWoNV72aG21GYst&stackedNotes=zKzUzQENhyEDnuwPUhh2EQM&stackedNotes=zEr7kCcH6zUUroDJBwDj2n5&stackedNotes=z79rMNNuLrUj6R8q1CXSpDm&stackedNotes=z6H1QypHEq3vak9sV7XLdKx)
 - Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*. [[How to Take Smart Notes - Ahrens]]
     > Developing arguments and ideas bottom-up instead of top-down is the first and most important step to opening ourselves up for insight.
     > 

@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/zKtYU4Uk7aTCGyqHr9Ca3Sb?stackedNotes=zyjePyZ77P2BfdkRBuQB2x&stackedNotes=zY3aLuvtsYS54QnymGKFGwg
+---
 # Powerful enabling environments focus on expert use
 Because an [[Enabling environment]] can help people do new things, it’s tempting to design environments which aspire to help novices enter a discipline, perhaps through simplified versions of its activities. This approach is usually quite limited.
 
@@ -20,7 +23,6 @@ Likewise, Logo enables children to access ideas in differential geometry. This i
 ---
 
 # References
-1. [Andy Link](https://notes.andymatuschak.org/About_these_notes?stackedNotes=zCMhncA1iSE74MKKYQS5PBZ&stackedNotes=zHV89H7dqnrvNvwXHBSGog9&stackedNotes=zTYb9ysCATFYCnvay3V5sF2&stackedNotes=zGD1FxbDZd7WnH7NrhRaVyC&stackedNotes=z4ULp2KUgq3hBCJMWTUnLDX&stackedNotes=zKtYU4Uk7aTCGyqHr9Ca3Sb&stackedNotes=zyjePyZ77P2BfdkRBuQB2x&stackedNotes=zY3aLuvtsYS54QnymGKFGwg)
 Email with Michael Nielsen, 2019/08/23. Re: Transcending the Primer
 
 > If you create Mathematica you’ll certainly be enabling people. But it’ll be secondary to doing kick-ass mathematics / theoretical physics.

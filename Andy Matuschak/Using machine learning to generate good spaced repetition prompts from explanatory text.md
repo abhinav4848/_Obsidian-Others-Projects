@@ -1,6 +1,5 @@
 ---
-URLs:
-  - https://notes.andymatuschak.org/zBcEii9Hf2Rv7vsUSB7pBoP&stackedNotes=zBjh9jUahGSm7VpFtEjvKqT
+URL: https://notes.andymatuschak.org/zBcEii9Hf2Rv7vsUSB7pBoP?stackedNotes=zBjh9jUahGSm7VpFtEjvKqT
 ---
 # Using machine learning to generate good spaced repetition prompts from explanatory text
 
@@ -38,6 +37,3 @@ A challenging research problem. Some notes:
 
 ## Graveyard
 - [Log: experimenting with GPT-3 to generate spaced repetition prompts](https://notes.andymatuschak.org/zTfzyczQDphDRcfSeyun8xa)
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/zBcEii9Hf2Rv7vsUSB7pBoP&stackedNotes=zBjh9jUahGSm7VpFtEjvKqT)

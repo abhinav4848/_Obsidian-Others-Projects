@@ -1,3 +1,6 @@
+---
+URL: https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zTnTob5JrFYF9NpU73Zg5a1&stackedNotes=z4aipv9wyMg4qZGANaVjkrJ
+---
 # My implementation of a reading inbox
 This note describes the system which implements [[A reading inbox to capture possibly-useful references]].
 
@@ -22,6 +25,3 @@ I file e-books by moving them to `~/Documents/Archive` and adding them to Zote
 I save a .bib representing the book to `~/Documents/Archive/Inbox`. I have a Shortcut to make this quick.
 
 I file e-books by moving them to `~/Documents/Archive` then running `file_epub.sh`, which renames them according to their metadata. Then I remove their entry from the `.bib` from the `Inbox` folder.
-
-# Reference
-1. [Andy Link](https://notes.andymatuschak.org/%C2%A7Note-writing_systems?stackedNotes=zTnTob5JrFYF9NpU73Zg5a1&stackedNotes=z4aipv9wyMg4qZGANaVjkrJ)
