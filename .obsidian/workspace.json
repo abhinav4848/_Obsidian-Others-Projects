@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andy Matuschak/Working memory span is mostly independent of item  complexity.md",
+                "file": "Snipd/Data/Unthinkable with Jay Acunzo/Zig When Others Zag _Creativity Series _12_.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Working memory span is mostly independent of item  complexity"
+              "title": "Zig When Others Zag _Creativity Series _12_"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "verified sou",
+                "query": "zig when",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Andy Matuschak/Working memory span is mostly independent of item  complexity.md",
+                "file": "_Codex/Source identity conflicts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,8 +214,16 @@
       "snipd-official:Open Snipd base": false
     }
   },
-  "active": "5bf3f270666cb61f",
+  "active": "e02a589a9b768801",
   "lastOpenFiles": [
+    "Attachments/63883.jpeg",
+    "Snipd/Data/Unthinkable with Jay Acunzo/Zig When Others Zag _Creativity Series _12_.md",
+    "Andy Matuschak/Working memory span is mostly independent of item  complexity.md",
+    "Andy Matuschak/Augmented reading.md",
+    "_Codex/duplicate-headings-applied.json",
+    "_Codex/backups/duplicate-headings-before-20261007T225711Z.zip",
+    "_Codex/duplicate-headings-plan.json",
+    "_Codex/deduplicate_headings.py",
     "_Codex/duplicate-title-inspection.json",
     "_Codex/Andy online sources.md",
     "Andy Matuschak/Methods for bringing dynamic mediums to physical reading contexts.md",
@@ -233,11 +241,6 @@
     "_Codex/andy-online/note.tmp",
     "_Codex/backups/andy-online-sources-and-URL-lists-before-20261007T223306Z.zip",
     "_Codex/andy-online/list-property-plan.json",
-    "_Codex/apply_andy_online_sources_and_lists.py",
-    "_Codex/andy-online/verified-sources.json",
-    "_Codex/andy-online/verified-external-sources.json",
-    "_Codex/andy-online/verified-candidates.json",
-    "_Codex/andy-online/pages/1bcd61d10c58b3386feec57d90c90e35d76d526aa0ee4f14173c574201fd3fba.json",
     "Andy Matuschak/Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do.md",
     "Andy Matuschak/Educational objectives often subvert themselves.md",
     "Andy Matuschak/Asking people questions while they read a text improves performance on untested contents.md",
@@ -258,9 +261,6 @@
     "Andy Matuschak/Knowledge work should accrete.md",
     "Andy Matuschak/A writing inbox for transient and incomplete notes.md",
     "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
-    "Snipd/Data/The Colin and Samir Show/How Ali Abdaal makes $5,741,266.32 a year on YouTube.md",
-    "_Codex/Source identity conflicts.md",
-    "Snipd/Data/NB Hot Topics Podcast/S7 E10_ _Fit Note for the Last GP_ song; Best UTI Abx; Kidney Failure Risk Tool & Death; Phone Empathy & Outcomes.md",
-    "_Codex/Review and recommendations.md"
+    "Snipd/Data/The Colin and Samir Show/How Ali Abdaal makes $5,741,266.32 a year on YouTube.md"
   ]
 }

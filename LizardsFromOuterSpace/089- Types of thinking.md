@@ -2,7 +2,6 @@
 title: "089- Types of thinking"
 ---
 # 089- Types of thinking
-# Types of Thinking
 why try to understand the different types of thinking? What are the different types of thinking?
 
 **Note to Self** be careful about a lot of this not having much research behind it. Pop Psychology in a sense. Think of the lack of evidence for “power poses”, “myers-briggs tests”, and “learning styles”.

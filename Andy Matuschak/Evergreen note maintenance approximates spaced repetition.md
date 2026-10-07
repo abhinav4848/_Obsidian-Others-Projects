@@ -6,7 +6,6 @@ title: "Evergreen note maintenance approximates spaced repetition"
 # Evergreen note maintenance approximates spaced repetition
 Category talked about: Learning, Note taking
 
-# **Evergreen note maintenance approximates spaced repetition**
 Because writing ([[Andy Matuschak/Evergreen Notes|Evergreen Notes]]) requires that we constantly reread and revise our past writing, this type of note-taking approximates spaced repetition.
 
 In particular, the spaced repetition follows your present interests. If you stop reading or writing about a given topic, you’ll mostly never revisit it. If you’re regularly reading or writing about a topic, you’ll revisit that prior material fairly constantly.

@@ -6,7 +6,6 @@ title: "Displacement activity"
 # Displacement activity
 Category talked about: Psychology
 
-# **Displacement activity**
 Displacement activities are self-soothing activities which people (and animals) perform when they’re highly motivated to perform multiple behaviors, as well as when they’re unable to or uncertain how to proceed. The behaviors are also associated with stress and anxiety.
 
 For example, people scratch their heads when they’re not sure which option to choose. Or they respond to urgent emails (or refresh social media) when they’re feeling anxious about challenging intellectual work: see also [[Culturally default behaviors fill spare time with others’ ideas]], [[People prefer doing to thinking]]. Animals tend to groom, preen, or scratch in similar situations.

@@ -15,7 +15,6 @@ from_snipd: true
 title: "1000_ Episode 1,000_ The Story of the Accomplishment of My Ten-Year Goal"
 ---
 # 1000_ Episode 1,000_ The Story of the Accomplishment of My Ten-Year Goal
-# 1000: Episode 1,000: The Story of the Accomplishment of My Ten-Year Goal
 ![Cover](../../../Attachments/42198.jpeg)
 
 ## Episode metadata

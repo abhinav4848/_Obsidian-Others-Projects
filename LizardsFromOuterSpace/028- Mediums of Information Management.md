@@ -2,7 +2,6 @@
 title: "028- Mediums of Information Management"
 ---
 # 028- Mediums of Information Management
-## Mediums of Information Management
 are the different ways we record information or knowledge.
 
 - [Biological Information](https://plato.stanford.edu/entries/information-biological/) is stored and used through DNA, one of the basic forms of order. See [Demon in the Machine](https://www.goodreads.com/en/book/show/37860033-the-demon-in-the-machine).

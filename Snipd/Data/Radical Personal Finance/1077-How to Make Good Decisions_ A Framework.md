@@ -15,7 +15,6 @@ from_snipd: true
 title: "1077-How to Make Good Decisions_ A Framework"
 ---
 # 1077-How to Make Good Decisions_ A Framework
-# 1077-How to Make Good Decisions: A Framework
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F1%2F4%2Ff%2Fd%2F14fd243124a78fb7d959afa2a1bf1c87%2F1077.webp&w=200&h=200)
 
 ## Episode metadata

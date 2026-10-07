@@ -1,0 +1,2527 @@
+{
+  "stats": {
+    "notes_scanned": 1377,
+    "notes_with_duplicate_titles": 250,
+    "duplicate_headings_removed": 252,
+    "heading_links_updated": 0,
+    "files_updated": 250,
+    "collections": {
+      "Andy Matuschak": 46,
+      "Ideaverse Merged": 4,
+      "LizardsFromOuterSpace": 111,
+      "Snipd": 71,
+      "Workflows": 18
+    }
+  },
+  "headings": [
+    {
+      "path": "Andy Matuschak/2021-10-31 Patreon post- Doing-centric explanatory mediums- board game instruction manuals, and an unusual Figma document.md",
+      "kept_heading": "2021-10-31 Patreon post- Doing-centric explanatory mediums- board game instruction manuals, and an unusual Figma document",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "2021-10-31 Patreon post - Doing-centric explanatory mediums: board game instruction manuals, and an unusual Figma document"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/A writing inbox for transient and incomplete notes.md",
+      "kept_heading": "A writing inbox for transient and incomplete notes",
+      "removed_headings": [
+        {
+          "line_in_body": 4,
+          "text": "**A writing inbox for transient and incomplete notes**"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Are literature notes necessary if we have automatic universal backlinks.md",
+      "kept_heading": "Are literature notes necessary if we have automatic universal backlinks",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Are literature notes necessary if we have automatic universal backlinks?"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Better note-taking misses the point; what matters is “better thinking”.md",
+      "kept_heading": "Better note-taking misses the point; what matters is “better thinking”",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "“Better note-taking” misses the point; what matters is “better thinking”"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Brooks, F. P., Jr. (1977). The computer “scientist” as toolsmith- Studies in interactive computer graphics. Information Processing, 625–634.md",
+      "kept_heading": "Brooks, F. P., Jr. (1977). The computer “scientist” as toolsmith- Studies in interactive computer graphics. Information Processing, 625–634",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Brooks, F. P., Jr. (1977). The computer “scientist” as toolsmith: Studies in interactive computer graphics. Information Processing, 625–634."
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Chunks in human cognition.md",
+      "kept_heading": "Chunks in human cognition",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "“Chunks” in human cognition"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Close open loops.md",
+      "kept_heading": "Close open loops",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Close open Loops"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Cloze deletion prompts seem to produce less understanding than question answer pairs in spaced repetition memory systems.md",
+      "kept_heading": "Cloze deletion prompts seem to produce less understanding than question answer pairs in spaced repetition memory systems",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Cloze deletion prompts seem to produce less understanding than question-answer pairs in spaced repetition memory systems"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Cognitive load theory.md",
+      "kept_heading": "Cognitive load theory",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Cognitive load theory"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Constraints often breed creativity.md",
+      "kept_heading": "Constraints often breed creativity",
+      "removed_headings": [
+        {
+          "line_in_body": 4,
+          "text": "**Constraints often breed creativity**"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Constructivism.md",
+      "kept_heading": "Constructivism",
+      "removed_headings": [
+        {
+          "line_in_body": 4,
+          "text": "**Constructivism**"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Deep research requires a slower pace than tech industry work.md",
+      "kept_heading": "Deep research requires a slower pace than tech industry work",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "**Deep research requires a slower pace than tech industry work**"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Displacement activity.md",
+      "kept_heading": "Displacement activity",
+      "removed_headings": [
+        {
+          "line_in_body": 4,
+          "text": "**Displacement activity**"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Dullness and distraction in creative work may arise from the same causes as in meditation.md",
+      "kept_heading": "Dullness and distraction in creative work may arise from the same causes as in meditation",
+      "removed_headings": [
+        {
+          "line_in_body": 5,
+          "text": "**Dullness and distraction in creative work may arise from the same causes as in meditation**"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Edwards, P N (2005) How to Read a Book.md",
+      "kept_heading": "Edwards, P N (2005) How to Read a Book",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Edwards, P. N. (2005). How to Read a Book."
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Evergreen note maintenance approximates spaced repetition.md",
+      "kept_heading": "Evergreen note maintenance approximates spaced repetition",
+      "removed_headings": [
+        {
+          "line_in_body": 4,
+          "text": "**Evergreen note maintenance approximates spaced repetition**"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Evergreen notes should be densely linked.md",
+      "kept_heading": "Evergreen notes should be densely linked",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "**Evergreen notes should be densely linked**"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Flow (What is a state of flow ).md",
+      "kept_heading": "Flow (What is a state of flow )",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Flow (What is a state of flow?)"
+        },
+        {
+          "line_in_body": 5,
+          "text": "Flow (What is a state of flow?)"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Forgetting curve.md",
+      "kept_heading": "Forgetting curve",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "**Forgetting curve**"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Frame truth-seeking questions in terms of “to what extent” and “in what sense” rather than binaries.md",
+      "kept_heading": "Frame truth-seeking questions in terms of “to what extent” and “in what sense” rather than binaries",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Frame truth-seeking questions in terms of “to what extent?” and “in what sense?” rather than binaries"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Generation effect.md",
+      "kept_heading": "Generation effect",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Generation effect"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/How important is it to write your own spaced repetition memory prompts.md",
+      "kept_heading": "How important is it to write your own spaced repetition memory prompts",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "How important is it to write your own spaced repetition memory prompts?"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/How might the mnemonic medium enable readers in genres outside platform knowledge.md",
+      "kept_heading": "How might the mnemonic medium enable readers in genres outside platform knowledge",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "How might the mnemonic medium enable readers in genres outside platform knowledge?"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/How might we situate tools for thought within intrinsically meaningful contexts.md",
+      "kept_heading": "How might we situate tools for thought within intrinsically meaningful contexts",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "How might we situate tools for thought within intrinsically meaningful contexts?"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/How rapidly do people forget practical knowledge.md",
+      "kept_heading": "How rapidly do people forget practical knowledge",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "How rapidly do people forget practical knowledge?"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/How should note tagging practices change with ranked link visualization.md",
+      "kept_heading": "How should note tagging practices change with ranked link visualization",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "How should note tagging practices change with ranked link visualization?"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/It’s hard to hear yourself think.md",
+      "kept_heading": "It’s hard to hear yourself think",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "**It’s hard to hear yourself think**"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Leaps of insight emerge from prior thought.md",
+      "kept_heading": "Leaps of insight emerge from prior thought",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Leaps of insight emerge from prior thought."
+        },
+        {
+          "line_in_body": 8,
+          "text": "Leaps of insight emerge from prior thought"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Less accessible memories are more reinforced by retrieval.md",
+      "kept_heading": "Less accessible memories are more reinforced by retrieval",
+      "removed_headings": [
+        {
+          "line_in_body": 4,
+          "text": "**Less accessible memories are more reinforced by retrieval**"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Messy thought, neat thought.md",
+      "kept_heading": "Messy thought, neat thought",
+      "removed_headings": [
+        {
+          "line_in_body": 4,
+          "text": "Messy thought, neat thought"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Mnemonic medium prompts are interleaved into the reading experience.md",
+      "kept_heading": "Mnemonic medium prompts are interleaved into the reading experience",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "**Mnemonic medium prompts are interleaved into the reading experience**"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Momentum as explore-exploit heuristic in creative work.md",
+      "kept_heading": "Momentum as explore-exploit heuristic in creative work",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "**Momentum as explore-exploit heuristic in creative work**"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/My morning writing practice.md",
+      "kept_heading": "My morning writing practice",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "**My morning writing practice**"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Original thought requires solitude.md",
+      "kept_heading": "Original thought requires solitude",
+      "removed_headings": [
+        {
+          "line_in_body": 4,
+          "text": "**Original thought requires solitude**"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Participatory environment.md",
+      "kept_heading": "Participatory environment",
+      "removed_headings": [
+        {
+          "line_in_body": 4,
+          "text": "**Participatory environment**"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/People prefer doing to thinking.md",
+      "kept_heading": "People prefer doing to thinking",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "People prefer doing to thinking"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/People seem to forget most of what they read, and they mostly don't notice.md",
+      "kept_heading": "People seem to forget most of what they read, and they mostly don't notice",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "People seem to forget most of what they read, and they mostly don’t notice"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Programmable attention.md",
+      "kept_heading": "Programmable attention",
+      "removed_headings": [
+        {
+          "line_in_body": 4,
+          "text": "**Programmable attention**"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Retrieval practice may be less effective without feedback.md",
+      "kept_heading": "Retrieval practice may be less effective without feedback",
+      "removed_headings": [
+        {
+          "line_in_body": 4,
+          "text": "**Retrieval practice may be less effective without feedback**"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Spaced repetition may be a helpful tool to incrementally develop inklings.md",
+      "kept_heading": "Spaced repetition may be a helpful tool to incrementally develop inklings",
+      "removed_headings": [
+        {
+          "line_in_body": 4,
+          "text": "**Spaced repetition may be a helpful tool to incrementally develop inklings**"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Spaced repetition systems can be used to program attention.md",
+      "kept_heading": "Spaced repetition systems can be used to program attention",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Spaced repetition systems can be used to program attention"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Three characteristics of existence.md",
+      "kept_heading": "Three characteristics of existence",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "**Three characteristics of existence**"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/To what extent is exceptional ability heritable.md",
+      "kept_heading": "To what extent is exceptional ability heritable",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "To what extent is exceptional ability heritable?"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Unskillful attention outside of work hours harms attention during work hours.md",
+      "kept_heading": "Unskillful attention outside of work hours harms attention during work hours",
+      "removed_headings": [
+        {
+          "line_in_body": 4,
+          "text": "**Unskillful attention outside of work hours harms attention during work hours**"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Working memory span is mostly independent of item  complexity.md",
+      "kept_heading": "Working memory span is mostly independent of item  complexity",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Working memory span is mostly independent of item complexity"
+        }
+      ]
+    },
+    {
+      "path": "Andy Matuschak/Would spaced repetition memory systems perform better with varied question texts.md",
+      "kept_heading": "Would spaced repetition memory systems perform better with varied question texts",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Would spaced repetition memory systems perform better with varied question texts?"
+        }
+      ]
+    },
+    {
+      "path": "Ideaverse Merged/+/Do you suffer from note-taking.md",
+      "kept_heading": "Do you suffer from note-taking",
+      "removed_headings": [
+        {
+          "line_in_body": 5,
+          "text": "Do you suffer from note-taking?"
+        }
+      ]
+    },
+    {
+      "path": "Ideaverse Merged/Atlas/Dots/Things/Deliberate Practice.md",
+      "kept_heading": "Deliberate Practice",
+      "removed_headings": [
+        {
+          "line_in_body": 22,
+          "text": "Deliberate Practice"
+        }
+      ]
+    },
+    {
+      "path": "Ideaverse Merged/Calendar/Notes/Past Years/2013-03-10 Habit Planning.md",
+      "kept_heading": "2013-03-10 Habit Planning",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Habit Planning"
+        }
+      ]
+    },
+    {
+      "path": "Ideaverse Merged/Calendar/Notes/Past Years/2015-02-20 Habit Formation Research Article.md",
+      "kept_heading": "2015-02-20 Habit Formation Research Article",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Habit Formation Research Article"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/002- Zettelkasten.md",
+      "kept_heading": "002- Zettelkasten",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Zettelkasten"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/004- Zettelkasten and Structure.md",
+      "kept_heading": "004- Zettelkasten and Structure",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Zettelkasten and Structure"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/007- Structuring for Retrieval.md",
+      "kept_heading": "007- Structuring for Retrieval",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Structuring for Retrieval"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/008- Alternative Note Boxes.md",
+      "kept_heading": "008- Alternative Note Boxes",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Alternative Note Boxes"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/009- Note Size.md",
+      "kept_heading": "009- Note Size",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Note Size"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/009a- Paragraph.md",
+      "kept_heading": "009a- Paragraph",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Paragraph"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/026- Index.md",
+      "kept_heading": "026- Index",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Index"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/027 - Core Note Functions.md",
+      "kept_heading": "027 - Core Note Functions",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Core Note Functions"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/028- Mediums of Information Management.md",
+      "kept_heading": "028- Mediums of Information Management",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Mediums of Information Management"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/029- Core Note Functions in Memory.md",
+      "kept_heading": "029- Core Note Functions in Memory",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Core Note Functions in Memory"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/030- Purpose of Note Taking.md",
+      "kept_heading": "030- Purpose of Note Taking",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Purpose of Note Taking"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/031- Information Workflow.md",
+      "kept_heading": "031- Information Workflow",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Information Workflow"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/032- Goal for my Zettelkasten.md",
+      "kept_heading": "032- Goal for my Zettelkasten",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Goal for my Zettelkasten"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/033- Internal vs External Models.md",
+      "kept_heading": "033- Internal vs External Models",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Internal vs. External Models"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/034- Hubs.md",
+      "kept_heading": "034- Hubs",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Hubs"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/040- Generalization.md",
+      "kept_heading": "040- Generalization",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Generalization"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/041- Applicability.md",
+      "kept_heading": "041- Applicability",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "applicability"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/043- Concept.md",
+      "kept_heading": "043- Concept",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Concept"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/044- Model.md",
+      "kept_heading": "044- Model",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Model"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/045- Rule.md",
+      "kept_heading": "045- Rule",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Rule"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/047- Knowledge Work Feedback Loops.md",
+      "kept_heading": "047- Knowledge Work Feedback Loops",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Knowledge Work Feedback Loops"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/048- Zettelkasten Feedback Loop.md",
+      "kept_heading": "048- Zettelkasten Feedback Loop",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Zettelkasten Feedback Loop"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/049- Developing a Model of Storytelling with Zettelkasten.md",
+      "kept_heading": "049- Developing a Model of Storytelling with Zettelkasten",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Developing a Model of Storytelling w/ Zettelkasten"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/050- Connections aren’t immediate.md",
+      "kept_heading": "050- Connections aren’t immediate",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Connections aren’t immediate"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/052- Structure building framework.md",
+      "kept_heading": "052- Structure building framework",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Structure building framework"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/053- Storing.md",
+      "kept_heading": "053- Storing",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Storing"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/054- Archetypes.md",
+      "kept_heading": "054- Archetypes",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Archetypes"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/055- External Models.md",
+      "kept_heading": "055- External Models",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "External Models"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/055- Internal models.md",
+      "kept_heading": "055- Internal models",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Internal models"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/056- Procedural Models.md",
+      "kept_heading": "056- Procedural Models",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Procedural Models"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/058- Mental Models.md",
+      "kept_heading": "058- Mental Models",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Mental Models"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/060- Public Note Repositories.md",
+      "kept_heading": "060- Public Note Repositories",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Public Note Repositories"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/061- Match quality in learning.md",
+      "kept_heading": "061- Match quality in learning",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Match Quality in Learning"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/062- Layers of structure in a physical zettelkasten.md",
+      "kept_heading": "062- Layers of structure in a physical zettelkasten",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Layers of structure in a physical zettelkasten"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/066- Layers of structure.md",
+      "kept_heading": "066- Layers of structure",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Layers of structure"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/066a- PARA structure.md",
+      "kept_heading": "066a- PARA structure",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "PARA structure"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/068- Knowledge work.md",
+      "kept_heading": "068- Knowledge work",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Knowledge work"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/070- Future Skills and Abilities.md",
+      "kept_heading": "070- Future Skills and Abilities",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Future Skills and Abilities"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/071- Future Roles.md",
+      "kept_heading": "071- Future Roles",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Future Roles"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/072- Future Industries.md",
+      "kept_heading": "072- Future Industries",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Future Industries"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/073- Knowledge.md",
+      "kept_heading": "073- Knowledge",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Knowledge"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/076- Prior Knowledge.md",
+      "kept_heading": "076- Prior Knowledge",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Prior Knowledge"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/078- Cognition.md",
+      "kept_heading": "078- Cognition",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Cognition"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/079- Cognitive Skills.md",
+      "kept_heading": "079- Cognitive Skills",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Cognitive Skills"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/080- Attention Abilities.md",
+      "kept_heading": "080- Attention Abilities",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Attention Abilities"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/081- Forming Knowledge.md",
+      "kept_heading": "081- Forming Knowledge",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Forming Knowledge"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/083- Good Judgment.md",
+      "kept_heading": "083- Good Judgment",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Good Judgment"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/084- Good Reasoning.md",
+      "kept_heading": "084- Good Reasoning",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Good Reasoning"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/085- Problem Solving.md",
+      "kept_heading": "085- Problem Solving",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Problem Solving"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/086- Decision making.md",
+      "kept_heading": "086- Decision making",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "decision making"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/087- Communication and Production of Language.md",
+      "kept_heading": "087- Communication and Production of Language",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Communication and Production of Language"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/088- Thinking.md",
+      "kept_heading": "088- Thinking",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Thinking"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/089- Types of thinking.md",
+      "kept_heading": "089- Types of thinking",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Types of Thinking"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/090- Cross Thinking.md",
+      "kept_heading": "090- Cross Thinking",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Cross Thinking"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/091- Three Dimensional Thinking.md",
+      "kept_heading": "091- Three Dimensional Thinking",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Three Dimensional Thinking"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/092- Structure.md",
+      "kept_heading": "092- Structure",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Structure"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/093- Layers of Structure in a Digital Zettelkasten.md",
+      "kept_heading": "093- Layers of Structure in a Digital Zettelkasten",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Layers of Structure in a Digital Zettelkasten"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/098- Effortful Processing Strategies.md",
+      "kept_heading": "098- Effortful Processing Strategies",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Effortful Processing Strategies"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/101- Specialized Knowledge.md",
+      "kept_heading": "101- Specialized Knowledge",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Specialized Knowledge"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/102- General Knowledge.md",
+      "kept_heading": "102- General Knowledge",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "General Knowledge"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/103- Skill.md",
+      "kept_heading": "103- Skill",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Skill"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/104- Procedural Knowledge.md",
+      "kept_heading": "104- Procedural Knowledge",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Procedural Knowledge"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/105- Creative Productivity Project.md",
+      "kept_heading": "105- Creative Productivity Project",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Creative Productivity Project"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/107- Note Identifiers.md",
+      "kept_heading": "107- Note Identifiers",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Note Identifiers"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/109- General Skills.md",
+      "kept_heading": "109- General Skills",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "General Skills"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/110- Sources.md",
+      "kept_heading": "110- Sources",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Sources"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/113- Levels of Development make a Zettelkasten.md",
+      "kept_heading": "113- Levels of Development make a Zettelkasten",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Levels of Development make a Zettelkasten"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/114- Knowledge Development.md",
+      "kept_heading": "114- Knowledge Development",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Knowledge Development"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/115- Specialized Skills.md",
+      "kept_heading": "115- Specialized Skills",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Specialized Skills"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/117- Information Surprisal and Utility.md",
+      "kept_heading": "117- Information Surprisal and Utility",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Information Surprisal and Utility"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/119- Surprising & Useful Information.md",
+      "kept_heading": "119- Surprising & Useful Information",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Surprising and Useful Information"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/120- Surprising & Useless.md",
+      "kept_heading": "120- Surprising & Useless",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Surprising & Useless"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/121- Unsurprising & Useful.md",
+      "kept_heading": "121- Unsurprising & Useful",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Unsurprising & Useful"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/123- Compiling.md",
+      "kept_heading": "123- Compiling",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Compiling"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/126- Effective learning.md",
+      "kept_heading": "126- Effective learning",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Effective Learning"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/129- Links.md",
+      "kept_heading": "129- Links",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Links"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/130- Quality of Connections.md",
+      "kept_heading": "130- Quality of Connections",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Quality of Connections"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/131- Textbook Deconstruction.md",
+      "kept_heading": "131- Textbook Deconstruction",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Textbook Deconstruction"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/139- Developing Knowledge.md",
+      "kept_heading": "139- Developing Knowledge",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Developing Knowledge"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/150- Knowledge Development in Fiction Writing.md",
+      "kept_heading": "150- Knowledge Development in Fiction Writing",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Knowledge Development in Fiction Writing"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/167- Example of a Book Deconstruction.md",
+      "kept_heading": "167- Example of a Book Deconstruction",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Example of a Book Deconstruction"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/168- To Index or Not Index.md",
+      "kept_heading": "168- To Index or Not Index",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "To Index or Not Index"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/170- Utility.md",
+      "kept_heading": "170- Utility",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Utility"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/172- Useful links.md",
+      "kept_heading": "172- Useful links",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Useful Links"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/173- Knowledge Management.md",
+      "kept_heading": "173- Knowledge Management",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Knowledge Management"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/174- Zettelkasten is Learning.md",
+      "kept_heading": "174- Zettelkasten is Learning",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Zettelkasten is Learning"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/175- Linking vs. Embedding in the Zettelkasten.md",
+      "kept_heading": "175- Linking vs. Embedding in the Zettelkasten",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Linking vs. Embedding in the Zettelkasten"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/176- Luhmann and multiple contexts.md",
+      "kept_heading": "176- Luhmann and multiple contexts",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Luhmann and Multiple Contexts"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/185- Bloom's Taxonomy Revised.md",
+      "kept_heading": "185- Bloom's Taxonomy Revised",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Bloom’s Taxonomy Revised"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/186- Understanding.md",
+      "kept_heading": "186- Understanding",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Understanding"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/187- Everything is a remix.md",
+      "kept_heading": "187- Everything is a remix",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Everything is a remix"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/188- Luhmann on Zettelkasten.md",
+      "kept_heading": "188- Luhmann on Zettelkasten",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Luhmann on Zettelkasten"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/189- Deliberate memorization of information.md",
+      "kept_heading": "189- Deliberate memorization of information",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Deliberate Memorization of Information"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/191- Natural Memorization of Information.md",
+      "kept_heading": "191- Natural Memorization of Information",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Natural Memorization of Information"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/193- Meaning.md",
+      "kept_heading": "193- Meaning",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Meaning"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/194- Abstraction and Utility.md",
+      "kept_heading": "194- Abstraction and Utility",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Abstraction and Utility"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/196- Memory Trace.md",
+      "kept_heading": "196- Memory Trace",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Memory Trace"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/197- Retrieval Cues.md",
+      "kept_heading": "197- Retrieval Cues",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Retrieval Cues"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/199- Retrieval Practice.md",
+      "kept_heading": "199- Retrieval Practice",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Retrieval Practice"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/201- ROI of Knowledge Work Tasks.md",
+      "kept_heading": "201- ROI of Knowledge Work Tasks",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "ROI of Knowledge Work Tasks"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/202- Small World Network.md",
+      "kept_heading": "202- Small World Network",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Small World Network"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/203- Zettelkasten Sales Pitch.md",
+      "kept_heading": "203- Zettelkasten Sales Pitch",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Zettelkasten Sales Pitch"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/207- Luhmann on Possibility of Linking.md",
+      "kept_heading": "207- Luhmann on Possibility of Linking",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "**Luhmann on Possibility of Linking**"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/208- Luhmann on using an Index.md",
+      "kept_heading": "208- Luhmann on using an Index",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "**Luhmann on using an Index**"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/209- Knowledge Development Questions.md",
+      "kept_heading": "209- Knowledge Development Questions",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Knowledge Development Questions"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/211- Folgzettel Debate.md",
+      "kept_heading": "211- Folgzettel Debate",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Folgzettel Debate"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/212- Food rules as an example of external model.md",
+      "kept_heading": "212- Food rules as an example of external model",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Food rules as an example of external model"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/213- Reason for Note Sequences.md",
+      "kept_heading": "213- Reason for Note Sequences",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Reason for Note Sequences"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/214- Music as Information.md",
+      "kept_heading": "214- Music as Information",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Music as Information"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/217- Problem of Categorization.md",
+      "kept_heading": "217- Problem of Categorization",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "**Problem of Categorization**"
+        }
+      ]
+    },
+    {
+      "path": "LizardsFromOuterSpace/230- Summarization and Paraphrasing in Note Taking.md",
+      "kept_heading": "230- Summarization and Paraphrasing in Note Taking",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Summarization and Paraphrasing in Note Taking"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/ChooseFI/455 _ Creating Your Entrepreneurial Flywheel _ Nathan Barry.md",
+      "kept_heading": "455 _ Creating Your Entrepreneurial Flywheel _ Nathan Barry",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "455 | Creating Your Entrepreneurial Flywheel | Nathan Barry"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Deep Dive with Ali Abdaal/'Tell People Your Goals!'_ The Secret To Accomplishing Anything - Cliff Weitzman.md",
+      "kept_heading": "'Tell People Your Goals!'_ The Secret To Accomplishing Anything - Cliff Weitzman",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "'Tell People Your Goals!': The Secret To Accomplishing Anything - Cliff Weitzman"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Deep Dive with Ali Abdaal/Conversations with my Team - Ep _1 - Tintin (YouTube Producer).md",
+      "kept_heading": "Conversations with my Team - Ep _1 - Tintin (YouTube Producer)",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Conversations with my Team - Ep #1 - Tintin (YouTube Producer)"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Deep Dive with Ali Abdaal/Entrepreneurship Masterclass_ How to Make $10k - $1M per Month - Daniel Priestley.md",
+      "kept_heading": "Entrepreneurship Masterclass_ How to Make $10k - $1M per Month - Daniel Priestley",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Entrepreneurship Masterclass: How to Make $10k - $1M per Month - Daniel Priestley"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Deep Dive with Ali Abdaal/How to Scale your Startup with Growth Levers_ Matt Lerner.md",
+      "kept_heading": "How to Scale your Startup with Growth Levers_ Matt Lerner",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "How to Scale your Startup with Growth Levers: Matt Lerner"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Entrepreneurs on Fire/How to Amplify Your Webinar Show Up Rates and Sales by Taking Advantage of Conversational Commerce with Paul Ace_ An EOFire Classic from 2021.md",
+      "kept_heading": "How to Amplify Your Webinar Show Up Rates and Sales by Taking Advantage of Conversational Commerce with Paul Ace_ An EOFire Classic from 2021",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "How to Amplify Your Webinar Show Up Rates and Sales by Taking Advantage of Conversational Commerce with Paul Ace: An EOFire Classic from 2021"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Entrepreneurs on Fire/Sales Jiu-Jitsu_ The 4 Secret Black Belt Steps to Increase Your Conversion Rates with Daniel Moskowitz and Elliott Bayev_ An EOFire Classic from 2021.md",
+      "kept_heading": "Sales Jiu-Jitsu_ The 4 Secret Black Belt Steps to Increase Your Conversion Rates with Daniel Moskowitz and Elliott Bayev_ An EOFire Classic from 2021",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Sales Jiu-Jitsu: The 4 Secret Black Belt Steps to Increase Your Conversion Rates with Daniel Moskowitz and Elliott Bayev: An EOFire Classic from 2021"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Entrepreneurs on Fire/Skip The Line with James Altucher_ An EOFire Classic from 2021.md",
+      "kept_heading": "Skip The Line with James Altucher_ An EOFire Classic from 2021",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Skip The Line with James Altucher: An EOFire Classic from 2021"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Founder's Journal/Accelerate Your Career _2_ Learning How to Learn (Classic).md",
+      "kept_heading": "Accelerate Your Career _2_ Learning How to Learn (Classic)",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Accelerate Your Career #2: Learning How to Learn (Classic)"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Founders/_201 Isambard Kingdom Brunel (James Dyson's Hero).md",
+      "kept_heading": "_201 Isambard Kingdom Brunel (James Dyson's Hero)",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "#201 Isambard Kingdom Brunel (James Dyson's Hero)"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Founders/_25 Against the Odds_ An Autobiography by James Dyson.md",
+      "kept_heading": "_25 Against the Odds_ An Autobiography by James Dyson",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "#25 Against the Odds: An Autobiography by James Dyson"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Founders/_299 Steve Jobs (Make Something Wonderful).md",
+      "kept_heading": "_299 Steve Jobs (Make Something Wonderful)",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "#299 Steve Jobs (Make Something Wonderful)"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Founders/_300 James Dyson (Against the Odds).md",
+      "kept_heading": "_300 James Dyson (Against the Odds)",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "#300 James Dyson (Against the Odds)"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Founders/_380 Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words.md",
+      "kept_heading": "_380 Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "#380 Four Hundred Pages of Warren Buffett and Charlie Munger In Their Own Words"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Hidden Brain/Wellness 2.0_ The Art of the Unknown.md",
+      "kept_heading": "Wellness 2.0_ The Art of the Unknown",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Wellness 2.0: The Art of the Unknown"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Hidden Brain/You 2.0_ How to Break Out of a Rut.md",
+      "kept_heading": "You 2.0_ How to Break Out of a Rut",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "You 2.0: How to Break Out of a Rut"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Hidden Brain/You 2.0_ Your Future Is Now.md",
+      "kept_heading": "You 2.0_ Your Future Is Now",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "You 2.0: Your Future Is Now"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/How I Write/Amor Towles_ The Secret to Telling a Great Story.md",
+      "kept_heading": "Amor Towles_ The Secret to Telling a Great Story",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Amor Towles: The Secret to Telling a Great Story"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/How I Write/Sahil Bloom_ How He Turned Twitter Threads Into 1 Million Followers _ How I Write Podcast.md",
+      "kept_heading": "Sahil Bloom_ How He Turned Twitter Threads Into 1 Million Followers _ How I Write Podcast",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Sahil Bloom: How He Turned Twitter Threads Into 1 Million Followers | How I Write Podcast"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Huberman Lab/Ketamine_ Benefits and Risks for Depression, PTSD & Neuroplasticity.md",
+      "kept_heading": "Ketamine_ Benefits and Risks for Depression, PTSD & Neuroplasticity",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Ketamine: Benefits and Risks for Depression, PTSD & Neuroplasticity"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Huberman Lab/LIVE EVENT Q&A_ Dr. Andrew Huberman at the Moore Theatre in Seattle.md",
+      "kept_heading": "LIVE EVENT Q&A_ Dr. Andrew Huberman at the Moore Theatre in Seattle",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "LIVE EVENT Q&A: Dr. Andrew Huberman at the Moore Theatre in Seattle"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Leveling Up with Eric Siu/How To Make $5 Million As a Content Creator _ Ali Abdaal.md",
+      "kept_heading": "How To Make $5 Million As a Content Creator _ Ali Abdaal",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "How To Make $5 Million As a Content Creator | Ali Abdaal"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Lord of the Rings Lorecast/1. The Creation Story_ The Ainulindalë.md",
+      "kept_heading": "1. The Creation Story_ The Ainulindalë",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "1. The Creation Story: The Ainulindalë"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Love Your Work/250. My Zettelkasten_ An Author's Digital Slip-Box Method Example (Using Plain-Text Software).md",
+      "kept_heading": "250. My Zettelkasten_ An Author's Digital Slip-Box Method Example (Using Plain-Text Software)",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "250. My Zettelkasten: An Author's Digital Slip-Box Method Example (Using Plain-Text Software)"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Modern Wisdom/_653 - George Mack - Stop Wasting Your Life On Things That Don’t Matter.md",
+      "kept_heading": "_653 - George Mack - Stop Wasting Your Life On Things That Don’t Matter",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "#653 - George Mack - Stop Wasting Your Life On Things That Don’t Matter"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Modern Wisdom/_685 - Rich Roll - Stop Making Excuses & Transform Your Life.md",
+      "kept_heading": "_685 - Rich Roll - Stop Making Excuses & Transform Your Life",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "#685 - Rich Roll - Stop Making Excuses & Transform Your Life"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/My First Million/He Turned $300_mo Into $3,750,000_mo From GARDENING.md",
+      "kept_heading": "He Turned $300_mo Into $3,750,000_mo From GARDENING",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "He Turned $300/mo Into $3,750,000/mo From GARDENING"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/My First Million/Syed Balkhi_ How He Went From $0 To +$100M Before Age 30.md",
+      "kept_heading": "Syed Balkhi_ How He Went From $0 To +$100M Before Age 30",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Syed Balkhi: How He Went From $0 To +$100M Before Age 30"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Nathan Barry Archive/078_ Sahil Bloom – Using Flywheels to Build Longevity in the Creator Economy.md",
+      "kept_heading": "078_ Sahil Bloom – Using Flywheels to Build Longevity in the Creator Economy",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "078: Sahil Bloom – Using Flywheels to Build Longevity in the Creator Economy"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Naval/How to Get Rich_ Every Episode.md",
+      "kept_heading": "How to Get Rich_ Every Episode",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "How to Get Rich: Every Episode"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/NB Hot Topics Podcast/S7 E10_ _Fit Note for the Last GP_ song; Best UTI Abx; Kidney Failure Risk Tool & Death; Phone Empathy & Outcomes.md",
+      "kept_heading": "S7 E10_ _Fit Note for the Last GP_ song; Best UTI Abx; Kidney Failure Risk Tool & Death; Phone Empathy & Outcomes",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "S7 E10: \"Fit Note for the Last GP\" song; Best UTI Abx; Kidney Failure Risk Tool & Death; Phone Empathy & Outcomes"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Radical Personal Finance/1000_ Episode 1,000_ The Story of the Accomplishment of My Ten-Year Goal.md",
+      "kept_heading": "1000_ Episode 1,000_ The Story of the Accomplishment of My Ten-Year Goal",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "1000: Episode 1,000: The Story of the Accomplishment of My Ten-Year Goal"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Radical Personal Finance/1031-Friday Q&A_ FIRE at 35, Failed Residency Match after Med School, Regret Whole Life Insurance, Preventive Health Screening, etc.md",
+      "kept_heading": "1031-Friday Q&A_ FIRE at 35, Failed Residency Match after Med School, Regret Whole Life Insurance, Preventive Health Screening, etc",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "1031-Friday Q&A: FIRE at 35, Failed Residency Match after Med School, Regret Whole Life Insurance, Preventive Health Screening, etc."
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Radical Personal Finance/1077-How to Make Good Decisions_ A Framework.md",
+      "kept_heading": "1077-How to Make Good Decisions_ A Framework",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "1077-How to Make Good Decisions: A Framework"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Radical Personal Finance/1078-Friday Q&A_ Business Skills, Productive Vacations, Radical Consistency, Appreciating What You Have.md",
+      "kept_heading": "1078-Friday Q&A_ Business Skills, Productive Vacations, Radical Consistency, Appreciating What You Have",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "1078-Friday Q&A: Business Skills, Productive Vacations, Radical Consistency, Appreciating What You Have"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Radical Personal Finance/1125-Leaving a Legacy_ Inheritance, Charity, & Thousand-Year Families_ Interview with Johann Kurtz.md",
+      "kept_heading": "1125-Leaving a Legacy_ Inheritance, Charity, & Thousand-Year Families_ Interview with Johann Kurtz",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "1125-Leaving a Legacy: Inheritance, Charity, & Thousand-Year Families: Interview with Johann Kurtz"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Radical Personal Finance/962_ How to 10x Your Income (The 1000% Formula).md",
+      "kept_heading": "962_ How to 10x Your Income (The 1000% Formula)",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "962: How to 10x Your Income (The 1000% Formula)"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Radical Personal Finance/967_ Friday Q&A_ Fix It Up or Sell It, Are CHSM Shares Tax-Deductible, Financial Discussions in Marriage, Math Academy, Ambleside Online.md",
+      "kept_heading": "967_ Friday Q&A_ Fix It Up or Sell It, Are CHSM Shares Tax-Deductible, Financial Discussions in Marriage, Math Academy, Ambleside Online",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "967: Friday Q&A: Fix It Up or Sell It, Are CHSM Shares Tax-Deductible, Financial Discussions in Marriage, Math Academy, Ambleside Online"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Radical Personal Finance/970_ Embrace Your Privilege.md",
+      "kept_heading": "970_ Embrace Your Privilege",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "970: Embrace Your Privilege"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Radical Personal Finance/971_ Prepare When Times Are Good; Invest When Times Are Bad.md",
+      "kept_heading": "971_ Prepare When Times Are Good; Invest When Times Are Bad",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "971: Prepare When Times Are Good; Invest When Times Are Bad"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Radical Personal Finance/974_ Why I Left the USA - Part 1.md",
+      "kept_heading": "974_ Why I Left the USA - Part 1",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "974: Why I Left the USA - Part 1"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Radical Personal Finance/976_ Why I Left the USA - Part 2, For Adventure.md",
+      "kept_heading": "976_ Why I Left the USA - Part 2, For Adventure",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "976: Why I Left the USA - Part 2, For Adventure"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Radical Personal Finance/Out & About_ Emergency Fund Planning, Credit Cards, and Disability Insurance _ Joshua's Appearance on the _Life Meets Money_ Podcast.md",
+      "kept_heading": "Out & About_ Emergency Fund Planning, Credit Cards, and Disability Insurance _ Joshua's Appearance on the _Life Meets Money_ Podcast",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Out & About: Emergency Fund Planning, Credit Cards, and Disability Insurance | Joshua's Appearance on the \"Life Meets Money\" Podcast"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Stuff You Should Know/Sherlock Holmes_ The Man, The Myth.md",
+      "kept_heading": "Sherlock Holmes_ The Man, The Myth",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Sherlock Holmes: The Man, The Myth"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Stuff You Should Know/What is Collective Hysteria_.md",
+      "kept_heading": "What is Collective Hysteria_",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "What is Collective Hysteria?"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/The Building a Second Brain Podcast/Myth_ Building a Second Brain is just self-help for note-taking nerds.md",
+      "kept_heading": "Myth_ Building a Second Brain is just self-help for note-taking nerds",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Myth: Building a Second Brain is just self-help for note-taking nerds"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/The Danny Miranda Podcast/_421_ Scott H. Young – The Art Of Learning.md",
+      "kept_heading": "_421_ Scott H. Young – The Art Of Learning",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "#421: Scott H. Young – The Art Of Learning"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/The Goal Digger Podcast _ Top Business and Marketing Podcast for Creatives, Entrepreneurs, and Women in Business/584_ The 4 Strategies That Doubled My Affiliate Income Last Year.md",
+      "kept_heading": "584_ The 4 Strategies That Doubled My Affiliate Income Last Year",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "584: The 4 Strategies That Doubled My Affiliate Income Last Year"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/The Knowledge Project/_122 Robert Cialdini - The Principles of Persuasion.md",
+      "kept_heading": "_122 Robert Cialdini - The Principles of Persuasion",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "#122 Robert Cialdini - The Principles of Persuasion"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/The Knowledge Project/Laurie Santos_ The Pursuit of Happiness.md",
+      "kept_heading": "Laurie Santos_ The Pursuit of Happiness",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Laurie Santos: The Pursuit of Happiness"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/The Nick Huber Show/Ep 142_ The Moment That Changed My Life in Business Forever.md",
+      "kept_heading": "Ep 142_ The Moment That Changed My Life in Business Forever",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Ep 142: The Moment That Changed My Life in Business Forever"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/The Personal MBA Audiobook _cHHQqo2_5o4_ 153kbps/(1_3) The Personal MBA Audiobook _cHHQqo2_5o4_ 153kbps.md",
+      "kept_heading": "(1_3) The Personal MBA Audiobook _cHHQqo2_5o4_ 153kbps",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "(1/3) The Personal MBA Audiobook [cHHQqo2_5o4] 153kbps"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/The Peter Attia Drive/_199 - Running, overcoming challenges, and finding success _ Ryan Hall.md",
+      "kept_heading": "_199 - Running, overcoming challenges, and finding success _ Ryan Hall",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "#199 - Running, overcoming challenges, and finding success | Ryan Hall"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/The Peter Attia Drive/_252 ‒ Latest insights on Alzheimer's disease, cancer, exercise, nutrition, and fasting _ Rhonda Patrick, Ph.D.md",
+      "kept_heading": "_252 ‒ Latest insights on Alzheimer's disease, cancer, exercise, nutrition, and fasting _ Rhonda Patrick, Ph.D",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "#252 ‒ Latest insights on Alzheimer's disease, cancer, exercise, nutrition, and fasting | Rhonda Patrick, Ph.D."
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/The Peter Attia Drive/_265 - Time, productivity, and purpose_ insights from Four Thousand Weeks _ Oliver Burkeman.md",
+      "kept_heading": "_265 - Time, productivity, and purpose_ insights from Four Thousand Weeks _ Oliver Burkeman",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "#265 - Time, productivity, and purpose: insights from Four Thousand Weeks | Oliver Burkeman"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/The School of Greatness/Do THIS To Get Rich and STAY Rich (It’s Deceptively SIMPLE!) _ Morgan Housel.md",
+      "kept_heading": "Do THIS To Get Rich and STAY Rich (It’s Deceptively SIMPLE!) _ Morgan Housel",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Do THIS To Get Rich and STAY Rich (It’s Deceptively SIMPLE!) | Morgan Housel"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/The School of Greatness/HACK Your BRAIN to Take Immediate Action_ 90% of HIGH ACHIEVERS Practice THESE HABITS Daily.md",
+      "kept_heading": "HACK Your BRAIN to Take Immediate Action_ 90% of HIGH ACHIEVERS Practice THESE HABITS Daily",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "HACK Your BRAIN to Take Immediate Action: 90% of HIGH ACHIEVERS Practice THESE HABITS Daily"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/The Side Hustle Show/707_ $70k on the Side in 6 Months with Aura Photography.md",
+      "kept_heading": "707_ $70k on the Side in 6 Months with Aura Photography",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "707: $70k on the Side in 6 Months with Aura Photography"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/The Stacking Benjamins Show/How Polluted Is Your Financial Plan_.md",
+      "kept_heading": "How Polluted Is Your Financial Plan_",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "How Polluted Is Your Financial Plan?"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/The Sweaty Startup/407_ Making Money - The skill you need to develop.md",
+      "kept_heading": "407_ Making Money - The skill you need to develop",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "407: Making Money - The skill you need to develop"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/The Tim Ferriss Show/_107_ The Scariest Navy SEAL I've Ever Met...And What He Taught Me.md",
+      "kept_heading": "_107_ The Scariest Navy SEAL I've Ever Met...And What He Taught Me",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "#107: The Scariest Navy SEAL I've Ever Met...And What He Taught Me"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/The Tim Ferriss Show/_648_ James Clear, Atomic Habits — Simple Strategies for Building (and Breaking) Habits, Questions for Personal Mastery and Growth, Tactics for Writin.md",
+      "kept_heading": "_648_ James Clear, Atomic Habits — Simple Strategies for Building (and Breaking) Habits, Questions for Personal Mastery and Growth, Tactics for Writin",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "#648: James Clear, Atomic Habits — Simple Strategies for Building (and Breaking) Habits, Questions for Personal Mastery and Growth, Tactics for Writing and Launching a Mega-Bestseller, Finding Leverage, and More"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/The Tim Ferriss Show/_672_ Seth Godin — The Pursuit of Meaning, The Life-Changing Power of Choosing Your Attitude, Overcoming Rejection, Life Lessons from Zig Ziglar, and.md",
+      "kept_heading": "_672_ Seth Godin — The Pursuit of Meaning, The Life-Changing Power of Choosing Your Attitude, Overcoming Rejection, Life Lessons from Zig Ziglar, and",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "#672: Seth Godin — The Pursuit of Meaning, The Life-Changing Power of Choosing Your Attitude, Overcoming Rejection, Life Lessons from Zig Ziglar, and Committing to Making Positive Change"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/The Tim Ferriss Show/_72_ Triple H on Pre-Fight Rituals, Injury Avoidance, and Floyd Mayweather, Jr.md",
+      "kept_heading": "_72_ Triple H on Pre-Fight Rituals, Injury Avoidance, and Floyd Mayweather, Jr",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "#72: Triple H on Pre-Fight Rituals, Injury Avoidance, and Floyd Mayweather, Jr."
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Unthinkable with Jay Acunzo/Art of the Unfinished _Creativity Series _18_.md",
+      "kept_heading": "Art of the Unfinished _Creativity Series _18_",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Art of the Unfinished [Creativity Series #18]"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Unthinkable with Jay Acunzo/Don't Start with Data _Creativity Series _28_.md",
+      "kept_heading": "Don't Start with Data _Creativity Series _28_",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Don't Start with Data [Creativity Series #28]"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Unthinkable with Jay Acunzo/Process _Intuition Series _5_.md",
+      "kept_heading": "Process _Intuition Series _5_",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Process [Intuition Series #5]"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Unthinkable with Jay Acunzo/Slingshot_ Magic Markers _Creativity Series _19_.md",
+      "kept_heading": "Slingshot_ Magic Markers _Creativity Series _19_",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Slingshot: Magic Markers [Creativity Series #19]"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Unthinkable with Jay Acunzo/That Gut Feeling _Intuition Series _1_.md",
+      "kept_heading": "That Gut Feeling _Intuition Series _1_",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "That Gut Feeling [Intuition Series #1]"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Unthinkable with Jay Acunzo/The Bias to Act _Creativity Series _14_.md",
+      "kept_heading": "The Bias to Act _Creativity Series _14_",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "The Bias to Act [Creativity Series #14]"
+        }
+      ]
+    },
+    {
+      "path": "Snipd/Data/Unthinkable with Jay Acunzo/Zig When Others Zag _Creativity Series _12_.md",
+      "kept_heading": "Zig When Others Zag _Creativity Series _12_",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Zig When Others Zag [Creativity Series #12]"
+        }
+      ]
+    },
+    {
+      "path": "Workflows/01 Obsidian Workflows.md",
+      "kept_heading": "01 Obsidian Workflows",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Obsidian Workflows"
+        }
+      ]
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/005 Active MOC.md",
+      "kept_heading": "005 Active MOC",
+      "removed_headings": [
+        {
+          "line_in_body": 6,
+          "text": "Active MOC"
+        }
+      ]
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/035 Places MOC.md",
+      "kept_heading": "035 Places MOC",
+      "removed_headings": [
+        {
+          "line_in_body": 6,
+          "text": "Places MOC"
+        }
+      ]
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/050 Quotes MOC.md",
+      "kept_heading": "050 Quotes MOC",
+      "removed_headings": [
+        {
+          "line_in_body": 6,
+          "text": "Quotes MOC"
+        }
+      ]
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/070 Journal MOC.md",
+      "kept_heading": "070 Journal MOC",
+      "removed_headings": [
+        {
+          "line_in_body": 5,
+          "text": "Journal MOC"
+        }
+      ]
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/080 Goals MOC.md",
+      "kept_heading": "080 Goals MOC",
+      "removed_headings": [
+        {
+          "line_in_body": 6,
+          "text": "Goals MOC"
+        }
+      ]
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/085 Finances MOC.md",
+      "kept_heading": "085 Finances MOC",
+      "removed_headings": [
+        {
+          "line_in_body": 5,
+          "text": "Finances MOC"
+        }
+      ]
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/090 PKM MOC.md",
+      "kept_heading": "090 PKM MOC",
+      "removed_headings": [
+        {
+          "line_in_body": 6,
+          "text": "PKM MOC"
+        }
+      ]
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/100 Ideas MOC.md",
+      "kept_heading": "100 Ideas MOC",
+      "removed_headings": [
+        {
+          "line_in_body": 6,
+          "text": "Ideas MOC"
+        }
+      ]
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/111 Editing Manual MOC.md",
+      "kept_heading": "111 Editing Manual MOC",
+      "removed_headings": [
+        {
+          "line_in_body": 6,
+          "text": "Editing Manual MOC"
+        }
+      ]
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/201903299997 Thought Enriching.md",
+      "kept_heading": "201903299997 Thought Enriching",
+      "removed_headings": [
+        {
+          "line_in_body": 5,
+          "text": "Thought Enriching"
+        }
+      ]
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/FlowCreation TOC.md",
+      "kept_heading": "FlowCreation TOC",
+      "removed_headings": [
+        {
+          "line_in_body": 8,
+          "text": "Flowcreation TOC"
+        }
+      ]
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Meta-Skills for Flowcreation.md",
+      "kept_heading": "Meta-Skills for Flowcreation",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Meta-skills for Flowcreation"
+        }
+      ]
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/Shadow Clone.md",
+      "kept_heading": "Shadow Clone",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Shadow-Clone"
+        }
+      ]
+    },
+    {
+      "path": "Workflows/03 IMF_AdvancedStarterKit_v2/The Id.md",
+      "kept_heading": "The Id",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "The \"Id\""
+        }
+      ]
+    },
+    {
+      "path": "Workflows/05 On the process of forging evergreen notes/_Incubation/201502201713 Habit Concepts and Theory.md",
+      "kept_heading": "201502201713 Habit Concepts and Theory",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "Habit Concepts and Theory"
+        }
+      ]
+    },
+    {
+      "path": "Workflows/06 Writing Fiction With Obsidian/02 How I Wrote These Docs.md",
+      "kept_heading": "02 How I Wrote These Docs",
+      "removed_headings": [
+        {
+          "line_in_body": 2,
+          "text": "How I Wrote These Docs"
+        }
+      ]
+    },
+    {
+      "path": "Workflows/06 Writing Fiction With Obsidian/We meet our hero.md",
+      "kept_heading": "We meet our hero",
+      "removed_headings": [
+        {
+          "line_in_body": 8,
+          "text": "We Meet Our Hero"
+        }
+      ]
+    }
+  ],
+  "heading_link_repairs": []
+}

@@ -26,7 +26,6 @@ from_snipd: true
 title: "_265 - Time, productivity, and purpose_ insights from Four Thousand Weeks _ Oliver Burkeman"
 ---
 # _265 - Time, productivity, and purpose_ insights from Four Thousand Weeks _ Oliver Burkeman
-# #265 - Time, productivity, and purpose: insights from Four Thousand Weeks | Oliver Burkeman
 ![Cover](../../../Attachments/12243.png)
 
 ## Episode metadata

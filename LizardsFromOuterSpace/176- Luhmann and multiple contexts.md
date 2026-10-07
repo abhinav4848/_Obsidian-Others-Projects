@@ -2,7 +2,6 @@
 title: "176- Luhmann and multiple contexts"
 ---
 # 176- Luhmann and multiple contexts
-# Luhmann and Multiple Contexts
 Luhmann had individual small notes because it was necessary for him to be able to reference notes in multiple contexts in a physical system. Because digital systems are more flexible, it only becomes advantageous to create note chains when you want to be able to reference a section of information in multiple contexts.
 
 **What does multiple contexts mean?** Lets take a hypothetical person, named Bob Loblaw. I know him through work as a co worker. I typically think about him within the work context (context 1), when in reality he exists in multiple contexts.

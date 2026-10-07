@@ -2,7 +2,6 @@
 title: "043- Concept"
 ---
 # 043- Concept
-# Concept
 Concept is “a generalization ([[040- Generalization]]) of a set of objects/nouns. It overlaps with idea, entity, notion, group, etc.” [(Wozniak 2020)](https://supermemo.guru/wiki/Abstract_knowledge). **Concepts** allow you to work with new but familiar objects because you can match them to the “prototypical example” and immediately gain information about them.
 
 If all you’ve used in your life are kitchen table and rocking chairs, then you don’t suddenly become unable to sit when presented with a computer chair. You are able to successfully adapt to the new chair because you have the **concept** of a chair to work with.

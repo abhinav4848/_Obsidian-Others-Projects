@@ -15,7 +15,6 @@ from_snipd: true
 title: "S7 E10_ _Fit Note for the Last GP_ song; Best UTI Abx; Kidney Failure Risk Tool & Death; Phone Empathy & Outcomes"
 ---
 # S7 E10_ _Fit Note for the Last GP_ song; Best UTI Abx; Kidney Failure Risk Tool & Death; Phone Empathy & Outcomes
-# S7 E10: "Fit Note for the Last GP" song; Best UTI Abx; Kidney Failure Risk Tool & Death; Phone Empathy & Outcomes
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fstorage.buzzsprout.com%2Fhzpj9kxhn20jidq8skzh3vtx8ce7%3F.jpg&w=500&h=500)
 
 ## Episode metadata

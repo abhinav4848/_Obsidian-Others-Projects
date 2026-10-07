@@ -6,7 +6,6 @@ tags: #editingmanual #editing
 editing: [[111 Editing Manual MOC|Editing Manual MOC]], [[Editing Manual TOC]]
 
 ---
-# Editing Manual MOC
 [[Editing Manual TOC]]
 
 ## Editing Notes

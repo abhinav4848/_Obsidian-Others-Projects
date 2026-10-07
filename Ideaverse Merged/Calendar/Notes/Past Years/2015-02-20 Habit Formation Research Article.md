@@ -5,7 +5,6 @@ created: 2015-02-20
 title: "2015-02-20 Habit Formation Research Article"
 ---
 # 2015-02-20 Habit Formation Research Article
-# Habit Formation Research Article
 Ref: [Hardwiring happiness: Dr. Rick Hanson at TEDxMarin 2013](evernote:///view/859034/s8/46916500-dcef-48fd-8d10-13c87e013040/46916500-dcef-48fd-8d10-13c87e013040/)
 Ref: Carl Schoonover Questions
 

@@ -2,7 +2,6 @@
 title: "209- Knowledge Development Questions"
 ---
 # 209- Knowledge Development Questions
-# Knowledge Development Questions
 What knowledge is worth developing? How much knowledge should you redevelop in the pursuit of knowledge development? What prior knowledge is worth making explicit in a zettelkasten? What existing developed knowledge is worth including in a zettelkasten?
 
 ### Surprising & Utility Axis

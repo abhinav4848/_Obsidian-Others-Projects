@@ -23,7 +23,6 @@ from_snipd: true
 title: "How to Get Rich_ Every Episode"
 ---
 # How to Get Rich_ Every Episode
-# How to Get Rich: Every Episode
 ![Cover](../../../Attachments/83747.png)
 
 ## Episode metadata

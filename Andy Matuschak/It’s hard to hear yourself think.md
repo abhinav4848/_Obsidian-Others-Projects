@@ -4,7 +4,6 @@ URL:
 title: "It’s hard to hear yourself think"
 ---
 # It’s hard to hear yourself think
-# **It’s hard to hear yourself think**
 Some related notes:
 - [[Original thought requires solitude]]
 - [[Culturally default behaviors fill spare time with others’ ideas]] 

@@ -2,7 +2,6 @@
 title: "066a- PARA structure"
 ---
 # 066a- PARA structure
-# PARA structure
 A Universal System for Organizing Digital Information.
 
 1. A **project** is “a series of tasks linked to a goal, with a deadline.”

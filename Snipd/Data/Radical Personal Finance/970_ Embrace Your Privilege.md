@@ -15,7 +15,6 @@ from_snipd: true
 title: "970_ Embrace Your Privilege"
 ---
 # 970_ Embrace Your Privilege
-# 970: Embrace Your Privilege
 ![Cover](../../../Attachments/13619.jpeg)
 
 ## Episode metadata

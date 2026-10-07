@@ -15,7 +15,6 @@ from_snipd: true
 title: "1031-Friday Q&A_ FIRE at 35, Failed Residency Match after Med School, Regret Whole Life Insurance, Preventive Health Screening, etc"
 ---
 # 1031-Friday Q&A_ FIRE at 35, Failed Residency Match after Med School, Regret Whole Life Insurance, Preventive Health Screening, etc
-# 1031-Friday Q&A: FIRE at 35, Failed Residency Match after Med School, Regret Whole Life Insurance, Preventive Health Screening, etc.
 ![Cover](../../../Attachments/51573.jpeg)
 
 ## Episode metadata

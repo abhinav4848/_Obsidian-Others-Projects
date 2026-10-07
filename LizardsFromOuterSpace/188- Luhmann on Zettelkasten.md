@@ -2,7 +2,6 @@
 title: "188- Luhmann on Zettelkasten"
 ---
 # 188- Luhmann on Zettelkasten
-# Luhmann on Zettelkasten
 > "The problem of reading theoretical texts seems to consist in the fact that **they do not require just short-term memory but also long-term memory** in order to be able to distinguish between what is essential and what is not essential and what is new from what is merely repeated. **But one cannot remember everything**. This would simply be learning by heart. In other words, **one must read very selectively and must be able to extract extensively networked references**. One must be able to understand recursions. But how can one learn these skills, if no instructions can be given; or perhaps only about things that are unusual like “recursion” in the previous sentences as opposed to “must”?
 > 
 > **Perhaps the best method would be to take notes—not excerpts, but condensed reformulations of what has been read**. The re-description of what has already been described leads almost automatically to a training of paying attention to “frames,” or schemata of observation, or even to noticing conditions which lead the text to offer some descriptions but not others. What is not meant, what is excluded when something is asserted? If the text speaks of “human rights,” what is excluded by the author? Non-human rights? Human duties? Or is it comparing cultures or historical times that did not know human rights and could live very well without them?

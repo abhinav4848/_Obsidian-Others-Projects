@@ -7,7 +7,6 @@ title: "Dullness and distraction in creative work may arise from the same causes
 Category talked about: Brain, Note taking
 Score /5: ⭐️⭐️⭐️
 
-# **Dullness and distraction in creative work may arise from the same causes as in meditation**
 It sounds obvious in retrospect: Meditation instructors say all the time that the point is not to achieve attention and awareness just while in explicit meditation sessions, but to bring that same quality of mind to everyday life. I’d understood that in terms of recognizing [Impermanence](Impermanence.md) and [Non-identification](Non-identification.md). But somehow I hadn’t connected that to problems I encounter when doing difficult creative work.
 
 When I’m doing some difficult design or research, it’s very common for me to struggle with feelings of tiredness. I think this is just [[Andy Matuschak/Dullness|Dullness]]. And of course I often experience the progression of distraction -> forgetting -> mind-wandering, as described in [[Andy Matuschak/Moments of consciousness model, after Culadasa|Moments of consciousness model, after Culadasa]].

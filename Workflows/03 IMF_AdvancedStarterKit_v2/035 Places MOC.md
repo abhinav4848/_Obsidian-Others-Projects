@@ -6,7 +6,6 @@ tags: #TOC #travel #places
 Index: [[000 Index|Index]], [[035 Places MOC|Places]]
 
 ---
-# Places MOC
 Welcome to the Places MOC. It is the most under-developed major category for me, but I value having a "map" for "places", it's rather apt.
 
 ### Main Travel Categories

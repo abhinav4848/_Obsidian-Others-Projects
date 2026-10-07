@@ -2,7 +2,6 @@
 title: "174- Zettelkasten is Learning"
 ---
 # 174- Zettelkasten is Learning
-# Zettelkasten is Learning
 Learning is essentially the process of taking in new information, processing it for long term storage, and tying it to your prior knowledge.
 
 Learning, when done right, is going beyond just [rote memorization](https://link.springer.com/referenceworkentry/10.1007%2F978-1-4419-1428-6_245#:~:text=Rote%20memorization%20is%20theoretical%20term,often%20criticized%20as%20poor%20learning.). You are structure building mental models by combining the new information in front of you with what you already know. In [Bloom’s Taxonomy Revised](https://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy/), the cognitive processes involved in learning are: remembering, understanding, applying, analyzing, evaluating, and creating.

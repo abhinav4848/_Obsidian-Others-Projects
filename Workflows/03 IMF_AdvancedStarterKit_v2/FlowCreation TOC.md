@@ -8,7 +8,6 @@ goal: create a "choose your adventure" clickable book to get people thinking abo
 
 
 ---
-# Flowcreation TOC
 *Flowcreation: Choose your own Adventure*
 
 - [[Workflows/03 IMF_AdvancedStarterKit_v2/Flow Map]]

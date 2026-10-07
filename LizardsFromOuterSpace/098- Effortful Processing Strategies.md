@@ -2,7 +2,6 @@
 title: "098- Effortful Processing Strategies"
 ---
 # 098- Effortful Processing Strategies
-# Effortful Processing Strategies 
 are ways you can engage with information in order to better encode it in your memory (making it stick).
 
 - 19d3a1 - Chunking

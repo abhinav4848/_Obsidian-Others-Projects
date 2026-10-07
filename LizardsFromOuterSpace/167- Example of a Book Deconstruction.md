@@ -2,7 +2,6 @@
 title: "167- Example of a Book Deconstruction"
 ---
 # 167- Example of a Book Deconstruction
-# Example of a Book Deconstruction
 See: [[131- Textbook Deconstruction]].
 if you think of a book as a sequence of ideas, then you want to create a “note sequence” of the most important ideas within the book. You also want each idea in the sequence to live as a standalone note such that you can remove it from the context of the book and have it stand on its own. This allows you to reference the note in other ones while still having it make sense when you revisit it in the far future.
 

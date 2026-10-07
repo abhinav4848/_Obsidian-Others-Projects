@@ -26,7 +26,6 @@ dates:: 2011
 people:: D. Memmert, in [Encyclopedia of Creativity (Second Edition)](https://www.sciencedirect.com/referencework/9780123750389/encyclopedia-of-creativity), 2011
 URL:: [Link](https://www.sciencedirect.com/science/article/pii/B9780123750389002077)
 
-#### Deliberate Practice
 The term ‘deliberate practice’ refers to targeted and task-centered training programs based on instructions.
 
 ---

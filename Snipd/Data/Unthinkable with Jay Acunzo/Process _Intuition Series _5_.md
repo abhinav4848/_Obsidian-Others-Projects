@@ -15,7 +15,6 @@ from_snipd: true
 title: "Process _Intuition Series _5_"
 ---
 # Process _Intuition Series _5_
-# Process [Intuition Series #5]
 ![Cover](../../../Attachments/63883.jpeg)
 
 ## Episode metadata

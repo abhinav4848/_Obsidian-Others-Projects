@@ -2,7 +2,6 @@
 title: "029- Core Note Functions in Memory"
 ---
 # 029- Core Note Functions in Memory
-# Core Note Functions in Memory
 because note taking is a solution to memory, you can see the four functions of note taking (storing, sorting, selecting, and summarizing) happening in our brain’s system.
 
 #### Storing

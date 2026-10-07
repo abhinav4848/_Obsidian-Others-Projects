@@ -15,7 +15,6 @@ from_snipd: true
 title: "Accelerate Your Career _2_ Learning How to Learn (Classic)"
 ---
 # Accelerate Your Career _2_ Learning How to Learn (Classic)
-# Accelerate Your Career #2: Learning How to Learn (Classic)
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F193e1644-5cf9-11ec-924b-0f9194ec11a9%2Fimage%2F30b3fec4824c928d8f88701dc49b08744744632053765fe6a69bacd0bc4325c8b7d67ac5939a629ba2a13c485ec57e11f3080ac2c4d0e00276760c897e47e431.jpeg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=200&h=200)
 
 ## Episode metadata

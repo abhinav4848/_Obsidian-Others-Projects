@@ -2,7 +2,6 @@
 title: "049- Developing a Model of Storytelling with Zettelkasten"
 ---
 # 049- Developing a Model of Storytelling with Zettelkasten
-# Developing a Model of Storytelling w/ Zettelkasten
 If you are a writer or screenwriter, you can use the [[002- Zettelkasten]] to develop an external model ([[044- Model]]) of “what makes a good story” and “why we tell stories” over a span of 14 years (or lifetime because your zettelkasten doesn’t disappear).
 
 ### Example Timeline

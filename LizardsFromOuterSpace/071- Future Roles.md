@@ -2,7 +2,6 @@
 title: "071- Future Roles"
 ---
 # 071- Future Roles
-# Future Roles
 In the book _The Future of the Professions: How Technology Will Transform the Work of Human Experts_, author Richard Susskind lays out 12 different roles that will emerge from a “post-professional society”:
 
 - **Craftspeople** - people who “craft” stuff that require a difficult skill set, such that they can’t be easily replaced by para-professionals or crowd sourced.

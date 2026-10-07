@@ -21,7 +21,6 @@ from_snipd: true
 title: "He Turned $300_mo Into $3,750,000_mo From GARDENING"
 ---
 # He Turned $300_mo Into $3,750,000_mo From GARDENING
-# He Turned $300/mo Into $3,750,000/mo From GARDENING
 ![Cover](../../../Attachments/40173.jpeg)
 
 ## Episode metadata

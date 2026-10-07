@@ -15,7 +15,6 @@ from_snipd: true
 title: "971_ Prepare When Times Are Good; Invest When Times Are Bad"
 ---
 # 971_ Prepare When Times Are Good; Invest When Times Are Bad
-# 971: Prepare When Times Are Good; Invest When Times Are Bad
 ![Cover](../../../Attachments/12479.jpeg)
 
 ## Episode metadata

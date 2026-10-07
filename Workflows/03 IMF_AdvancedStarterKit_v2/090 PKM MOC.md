@@ -6,7 +6,6 @@ tags: #PKM #TOC
 links: [[000 Index|Index]] 
 
 ---
-# PKM MOC
 This is where we manage the system of "*Personal Knowledge Management*."
 
 ### Structure of Categories

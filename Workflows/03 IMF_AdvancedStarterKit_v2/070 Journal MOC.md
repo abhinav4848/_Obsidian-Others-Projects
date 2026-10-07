@@ -5,7 +5,6 @@ title: "070 Journal MOC"
 tags: #journal #reflections #faves
 links: [[000 Index|Index]], [[070 Journal MOC|Journal]], [[060 Writings MOC|Writing]]
 
-# Journal MOC
 This is private. I would suggest organizing by chronology, and embedding snippets of your favorite journals in bite-size compilations.
 
 ## Chronology

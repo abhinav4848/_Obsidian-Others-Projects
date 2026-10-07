@@ -2,5 +2,4 @@
 title: "087- Communication and Production of Language"
 ---
 # 087- Communication and Production of Language
-# Communication and Production of Language
 is the last step in the [creative productivity project](https://forum.obsidian.md/t/obsidian-zettelkasten/1999/51) because it doesn’t matter how much [knowledge](https://forum.obsidian.md/t/obsidian-zettelkasten/1999/74) you produce if you can’t effective communicate it to others. This is also necessary for gathering the resources (labor, knowledge, technology) needed to act on your new knowledge to the betterment of all. The better you can do this, the more effective you will be in the world.

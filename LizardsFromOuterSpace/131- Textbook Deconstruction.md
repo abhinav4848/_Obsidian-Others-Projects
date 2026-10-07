@@ -2,7 +2,6 @@
 title: "131- Textbook Deconstruction"
 ---
 # 131- Textbook Deconstruction
-## Textbook Deconstruction
 start out by **asking yourself why** you are reading the textbook? This will dictate what the best approach to taking notes on it will be.
 
 1. Required for your primary field of study? (e.g. Introduction to Psychology textbook for student planning on becoming a Psychologist, see specialized knowledge)

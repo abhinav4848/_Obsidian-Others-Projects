@@ -2,7 +2,6 @@
 title: "031- Information Workflow"
 ---
 # 031- Information Workflow
-# Information Workflow
 **Information Workflow -** is a framework you can use for thinking about how to deal with incoming information in knowledge work.
 
 One way to deal with new information is to break it down into atomized chunks that allow it to be incorporated into a spaced repetition software for memorization. This is the information that you believe to be important because it is required for a school test or you anticipate high usage. This is important because we store memories for later use.

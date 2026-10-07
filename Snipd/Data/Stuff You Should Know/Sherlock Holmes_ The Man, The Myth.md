@@ -21,7 +21,6 @@ from_snipd: true
 title: "Sherlock Holmes_ The Man, The Myth"
 ---
 # Sherlock Holmes_ The Man, The Myth
-# Sherlock Holmes: The Man, The Myth
 ![Cover](../../../Attachments/06582.jpeg)
 
 ## Episode metadata

@@ -15,7 +15,6 @@ from_snipd: true
 title: "974_ Why I Left the USA - Part 1"
 ---
 # 974_ Why I Left the USA - Part 1
-# 974: Why I Left the USA - Part 1
 ![Cover](../../../Attachments/11930.jpeg)
 
 ## Episode metadata

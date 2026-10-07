@@ -5,7 +5,6 @@ created: 2013-03-10
 title: "2013-03-10 Habit Planning"
 ---
 # 2013-03-10 Habit Planning
-# Habit Planning
 ## Habitual Cues
 1. Location
 2. Time

@@ -2,7 +2,6 @@
 title: "150- Knowledge Development in Fiction Writing"
 ---
 # 150- Knowledge Development in Fiction Writing
-# Knowledge Development in Fiction Writing
 **First Question to Answer** is what areas of information do writers develop?
 
 1. Characters

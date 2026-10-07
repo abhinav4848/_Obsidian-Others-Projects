@@ -19,7 +19,6 @@ from_snipd: true
 title: "_122 Robert Cialdini - The Principles of Persuasion"
 ---
 # _122 Robert Cialdini - The Principles of Persuasion
-# #122 Robert Cialdini - The Principles of Persuasion
 ![Cover](../../../Attachments/72412.jpeg)
 
 ## Episode metadata

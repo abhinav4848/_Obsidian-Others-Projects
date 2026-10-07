@@ -34,3 +34,6 @@ The original notes for this pass are saved in the ZIP named in `note-titles-and-
 
 ## URL lists and online sources
 All copied Andy notes have source URLs. All existing `URL` values across the working vault are YAML lists; Andy’s local ReadMe index uses an empty list. `property-types.json` records the authorized List type, with the required native copy in `.obsidian/types.json`. Online evidence and change records live in `andy-online`. Keep existing navigation trails to at most three notes. Preserve captured names after renames.
+
+## Duplicate page-title headings
+Keep one page-title heading matching the captured filename. Remove repeated copies caused by whitespace, capitalization, punctuation, note-number prefixes, or a Snipd episode title already stored in properties. Preserve different section headings and code blocks. The recovery snapshot and changes for this cleanup are recorded in `duplicate-headings-applied.json`.

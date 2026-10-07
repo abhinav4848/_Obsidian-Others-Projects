@@ -2,7 +2,6 @@
 title: "061- Match quality in learning"
 ---
 # 061- Match quality in learning
-# Match Quality in Learning 
 **Match Quality in Learning** is the idea that you want new information being processed by someone to connect with their [prior knowledge](https://tll.mit.edu/guidelines/prior-knowledge) such that they are able to understand the new information being taught.
 
 A very easy way to understand this concept is to think about reading. You don’t hand a student a history textbook before they are able to read. They need to have the prior knowledge of letters and words to understand the textbook.

@@ -4,7 +4,6 @@ URL:
   - "https://notes.andymatuschak.org/z26AXzY1oNUMSENevADMhGV"
 ---
 # Forgetting curve
-# **Forgetting curve**
 Initially characterized by [Hermann Ebbinghaus](https://notes.andymatuschak.org/zXUmVzxexnpvtmR6zpKBxUp), the “forgetting curve” describes a class of related power-law phenomena around forgetting and memory: roughly speaking, memory “retrieval strength” (see [[Two-component model of memory]]) seems to decrease along a power-law curve after initial exposure.
 
 Ebbinghaus’s initial experiments established the forgetting curve in terms of the amount of effort required to *re-learn* nonsense syllables after some time had passed. More time was required as the session interval increased, along what he believed to be an exponential curve.

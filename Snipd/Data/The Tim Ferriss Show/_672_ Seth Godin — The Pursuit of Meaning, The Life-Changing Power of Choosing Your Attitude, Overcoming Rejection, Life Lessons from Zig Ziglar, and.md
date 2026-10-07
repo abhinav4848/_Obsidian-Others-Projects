@@ -33,7 +33,6 @@ from_snipd: true
 title: "_672_ Seth Godin — The Pursuit of Meaning, The Life-Changing Power of Choosing Your Attitude, Overcoming Rejection, Life Lessons from Zig Ziglar, and"
 ---
 # _672_ Seth Godin — The Pursuit of Meaning, The Life-Changing Power of Choosing Your Attitude, Overcoming Rejection, Life Lessons from Zig Ziglar, and
-# #672: Seth Godin — The Pursuit of Meaning, The Life-Changing Power of Choosing Your Attitude, Overcoming Rejection, Life Lessons from Zig Ziglar, and Committing to Making Positive Change
 ![Cover](../../../Attachments/66166.jpeg)
 
 ## Episode metadata

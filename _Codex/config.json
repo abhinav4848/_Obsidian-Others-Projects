@@ -14,7 +14,8 @@
   "markdown_style": {
     "blank_lines_after_headings": false,
     "preserve_code_block_whitespace": true,
-    "first_heading": "captured filename without .md"
+    "first_heading": "captured filename without .md",
+    "duplicate_page_title_headings": false
   },
   "attachments_folder": "Attachments",
   "note_title_property": "title",

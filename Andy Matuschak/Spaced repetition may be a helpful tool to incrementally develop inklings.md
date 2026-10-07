@@ -6,7 +6,6 @@ URL:
 # Spaced repetition may be a helpful tool to incrementally develop inklings
 Category talked about: Learning, Note taking
 
-# **Spaced repetition may be a helpful tool to incrementally develop inklings**
 I’m often struck by an interesting question or notion in conversation or on a walk. In many cases, I can’t write anything terribly insightful on that topic in that moment: I certainly can’t write a good [[Evergreen Notes]]. I don’t have anything useful to say about the notion yet—it just seems awfully interesting.
 
 What action should I take now? How can I arrange to develop that inkling over time? I could create a “to-do” or block out time to think about this question, but that’s often not what’s called for. Instead, often what I need is marination: let’s come back in a few days, see what bubbles up.

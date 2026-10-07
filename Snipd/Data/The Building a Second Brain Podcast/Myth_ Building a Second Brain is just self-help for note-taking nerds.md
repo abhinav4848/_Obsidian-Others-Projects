@@ -15,7 +15,6 @@ from_snipd: true
 title: "Myth_ Building a Second Brain is just self-help for note-taking nerds"
 ---
 # Myth_ Building a Second Brain is just self-help for note-taking nerds
-# Myth: Building a Second Brain is just self-help for note-taking nerds
 ![Cover](../../../Attachments/14985.png)
 
 ## Episode metadata

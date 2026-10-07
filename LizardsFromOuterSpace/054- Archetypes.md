@@ -2,7 +2,6 @@
 title: "054- Archetypes"
 ---
 # 054- Archetypes
-# Archetypes
 # Definition
 An original model or type after which other similar things are patterned; a prototype.
 

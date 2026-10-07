@@ -19,7 +19,6 @@ from_snipd: true
 title: "Wellness 2.0_ The Art of the Unknown"
 ---
 # Wellness 2.0_ The Art of the Unknown
-# Wellness 2.0: The Art of the Unknown
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5982e1b7-239c-4b89-81f9-49df1f33fdae%2F7b38707d-b205-4c6c-8fa0-9d8847ff99a3%2F3000x3000%2Fklaas-butterfly-square.jpg%3Faid%3Drss_feed&w=200&h=200)
 
 ## Episode metadata

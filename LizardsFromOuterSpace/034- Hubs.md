@@ -2,7 +2,6 @@
 title: "034- Hubs"
 ---
 # 034- Hubs
-# Hubs
 **Hubs** are collections of note sequences centered around a theme. You create a hub once you notice a bunch of notes in your index ([[026- Index]]) centered around a topic.
 
 An example in my own zettelkasten ([[002- Zettelkasten]]) is I had the follow index entries

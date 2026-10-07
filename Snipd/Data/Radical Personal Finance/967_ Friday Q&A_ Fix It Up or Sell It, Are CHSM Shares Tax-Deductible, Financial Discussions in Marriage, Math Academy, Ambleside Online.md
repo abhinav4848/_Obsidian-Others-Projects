@@ -15,7 +15,6 @@ from_snipd: true
 title: "967_ Friday Q&A_ Fix It Up or Sell It, Are CHSM Shares Tax-Deductible, Financial Discussions in Marriage, Math Academy, Ambleside Online"
 ---
 # 967_ Friday Q&A_ Fix It Up or Sell It, Are CHSM Shares Tax-Deductible, Financial Discussions in Marriage, Math Academy, Ambleside Online
-# 967: Friday Q&A: Fix It Up or Sell It, Are CHSM Shares Tax-Deductible, Financial Discussions in Marriage, Math Academy, Ambleside Online
 ![Cover](../../../Attachments/32315.jpeg)
 
 ## Episode metadata

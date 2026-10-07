@@ -4,7 +4,6 @@ URL:
 title: "Cognitive load theory"
 ---
 # Cognitive load theory
-# Cognitive load theory
 Originated by [John Sweller](https://notes.andymatuschak.org/zPgXrAJFwMCMLBTZiKaPtvD). See also [[Andy Matuschak/Worked example effect|Worked example effect]].
 
 Q. Central claim?  

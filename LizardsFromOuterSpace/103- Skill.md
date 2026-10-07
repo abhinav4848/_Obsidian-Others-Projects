@@ -2,7 +2,6 @@
 title: "103- Skill"
 ---
 # 103- Skill
-# Skill
 Skill is your ability to do something well. Being an effective worker in life often depends on your ability to execute on a skillset.
 
 You can get ahead in life with your skill sets through two main paths. The first is to become the best in a common skill such that people seek out your services (e.g. best guitarist, amazing writer, etc). The second is to pick a skill set that is a unique combination and involves an important but niche knowledge base. Where you are able to provide a skill that very few people can provide ([Newport, 2016](https://forum.obsidian.md/t/obsidian-zettelkasten/1999/10)).

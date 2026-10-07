@@ -6,7 +6,6 @@ tags: #quotes #MOC
 links: [[000 Index|Index]], [[050 Quotes MOC|Quotes]]
 
 ---
-# Quotes MOC
 Welcome to your "commonplace book" of quotes. Try clicking on #quotes100 to see a couple results. 
 
 ==Note: The majority of links and tags won't work since the associated notes are not provided in the starter kit.==

@@ -23,7 +23,6 @@ from_snipd: true
 title: "_653 - George Mack - Stop Wasting Your Life On Things That Don’t Matter"
 ---
 # _653 - George Mack - Stop Wasting Your Life On Things That Don’t Matter
-# #653 - George Mack - Stop Wasting Your Life On Things That Don’t Matter
 ![Cover](../../../Attachments/48639.jpeg)
 
 ## Episode metadata

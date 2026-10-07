@@ -15,7 +15,6 @@ from_snipd: true
 title: "Don't Start with Data _Creativity Series _28_"
 ---
 # Don't Start with Data _Creativity Series _28_
-# Don't Start with Data [Creativity Series #28]
 ![Cover](../../../Attachments/63883.jpeg)
 
 ## Episode metadata

@@ -15,7 +15,6 @@ from_snipd: true
 title: "Ketamine_ Benefits and Risks for Depression, PTSD & Neuroplasticity"
 ---
 # Ketamine_ Benefits and Risks for Depression, PTSD & Neuroplasticity
-# Ketamine: Benefits and Risks for Depression, PTSD & Neuroplasticity
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F042e6144-725e-11ec-a75d-c38f702aecad%2Fimage%2Fee4f0b7b466ca35620792970d9bce2d2.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=200&h=200)
 
 ## Episode metadata

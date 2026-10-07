@@ -2,7 +2,6 @@
 title: "114- Knowledge Development"
 ---
 # 114- Knowledge Development
-# Knowledge Development
 [[002- Zettelkasten]] is about knowledge development, while wikis are better suited for knowledge management ([[173- Knowledge Management]]).
 
 Part of knowledge development is the generation of useful connections that can be acted upon or provide new information that is relevant. The new information can add context to the existing information. Think of how “dogs” sit in the wider context of both mammals and pets, whereby you link to both in your note on dogs.

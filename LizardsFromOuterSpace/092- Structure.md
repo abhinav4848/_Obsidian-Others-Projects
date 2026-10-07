@@ -2,7 +2,6 @@
 title: "092- Structure"
 ---
 # 092- Structure
-# Structure
 is the arrangement of and relations between the parts or elements of something complex**.**
 
 “Common types of structure include [hierarchies](https://www.wikiwand.com/en/Hierarchy) (a cascade of one-to-many relationships), a [networks](https://www.wikiwand.com/en/Complex_network) featuring many-to-many [links](https://www.wikiwand.com/en/Link_(geometry)), or [latticeworks](https://www.wikiwand.com/en/Lattice_(order)) featuring connections between components that are neighbors in space” - [Wikipedia](https://www.wikiwand.com/en/Structure) 

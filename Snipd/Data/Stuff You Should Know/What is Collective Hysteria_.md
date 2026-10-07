@@ -15,7 +15,6 @@ from_snipd: true
 title: "What is Collective Hysteria_"
 ---
 # What is Collective Hysteria_
-# What is Collective Hysteria?
 ![Cover](../../../Attachments/06582.jpeg)
 
 ## Episode metadata

@@ -19,7 +19,6 @@ from_snipd: true
 title: "_685 - Rich Roll - Stop Making Excuses & Transform Your Life"
 ---
 # _685 - Rich Roll - Stop Making Excuses & Transform Your Life
-# #685 - Rich Roll - Stop Making Excuses & Transform Your Life
 ![Cover](../../../Attachments/48639.jpeg)
 
 ## Episode metadata

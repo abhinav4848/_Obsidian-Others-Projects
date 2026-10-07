@@ -2,7 +2,6 @@
 title: "126- Effective learning"
 ---
 # 126- Effective learning
-# Effective Learning
 Effective Learning means integrating the right amount of information into your knowledge network in as quick a way as possible. It also means learning information in such a way that you won’t forget it when it is needed.
 
 This means creating the pathways out of the right sets of information and connecting those pathways to retrieval cues ([[197- Retrieval Cues]]). The more retrieval cues you connect the pathway to, the more likely it is you’ll remember it when needed.

@@ -15,7 +15,6 @@ from_snipd: true
 title: "584_ The 4 Strategies That Doubled My Affiliate Income Last Year"
 ---
 # 584_ The 4 Strategies That Doubled My Affiliate Income Last Year
-# 584: The 4 Strategies That Doubled My Affiliate Income Last Year
 ![Cover](../../../Attachments/86012.jpeg)
 
 ## Episode metadata

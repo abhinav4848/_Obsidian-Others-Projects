@@ -6,7 +6,6 @@ title: "Programmable attention"
 # Programmable attention
 Category talked about: Learning
 
-# **Programmable attention**
 [[Andy Matuschak/Original thought requires solitude|Michael Nielsen]] has suggested that the review sessions of a [[Spaced Repetition memory system]] don’t just help you remember things: it orchestrates your repeated attention over time across hundreds of tiny tasks, too many to manage by hand. Systems like these are a form of *programmable attention*.
 
 More generally, environments can be designed to modify their occupants attention by e.g. lowering executive overhead, mitigating unhelpful habits or biases, orchestrating the attention of multiple people in concert, distributing known-good attentional strategies, etc. You use simpler forms of programmable attention all the time: inboxes with snooze and alarm features; bots which remind you of things; [[Twitter is a kind of programmable attention]]. What is the core properties of such systems? What is their potential reach?

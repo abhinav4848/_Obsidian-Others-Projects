@@ -4,13 +4,11 @@ URL:
 title: "Leaps of insight emerge from prior thought"
 ---
 # Leaps of insight emerge from prior thought
-# Leaps of insight emerge from prior thought.
 Category talked about: Note taking
 Shelving category: archive
 
 See: [[Ideaverse Merged/Atlas/Dots/Things/Idea Emergence (defn)]]
 
-# Leaps of insight emerge from prior thought
 When looking at someone else’s stroke of genius, you see only the end product. You don’t see how much kindling was burnt before that sudden realization was possible. In part, that’s because even our own epiphanies don’t feel like they emerge as a natural consequence of prior efforts—but they do!
 
 Leaps of insight depend on having accumulated lots of prior thought on those topics. Sometimes that accumulation happens entirely within our subconscious (our “subconscious back burners,” as May-Li would say), but it’s helpful to design our external cognitive systems such that our day-to-day noodling can accrete (see [[Knowledge work should accrete]]).

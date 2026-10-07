@@ -15,7 +15,6 @@ from_snipd: true
 title: "962_ How to 10x Your Income (The 1000% Formula)"
 ---
 # 962_ How to 10x Your Income (The 1000% Formula)
-# 962: How to 10x Your Income (The 1000% Formula)
 ![Cover](../../../Attachments/32315.jpeg)
 
 ## Episode metadata

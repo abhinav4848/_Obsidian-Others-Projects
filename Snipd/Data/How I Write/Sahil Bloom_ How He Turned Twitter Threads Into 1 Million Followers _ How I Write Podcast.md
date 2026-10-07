@@ -21,7 +21,6 @@ from_snipd: true
 title: "Sahil Bloom_ How He Turned Twitter Threads Into 1 Million Followers _ How I Write Podcast"
 ---
 # Sahil Bloom_ How He Turned Twitter Threads Into 1 Million Followers _ How I Write Podcast
-# Sahil Bloom: How He Turned Twitter Threads Into 1 Million Followers | How I Write Podcast
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2Fb72a6a52-2f4c-11ee-920d-73de81dc1df9%2Fimage%2FFINALCOVER.png%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=200&h=200)
 
 ## Episode metadata

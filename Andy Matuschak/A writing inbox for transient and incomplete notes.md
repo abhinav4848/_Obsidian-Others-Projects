@@ -6,7 +6,6 @@ URL:
 # A writing inbox for transient and incomplete notes
 Category talked about: Note taking
 
-# **A writing inbox for transient and incomplete notes**
 Even if you aspires to write [[Evergreen Notes]], most notes begin as transient notes. You should be able to capture thoughts without friction ([[Close open loops]]), then reliably develop them into evergreen notes over time ([[Knowledge work should accrete]]). This implies two important mechanisms:
 
 1. a quick way to capture transient notes which clearly isolates them from evergreen notes; and

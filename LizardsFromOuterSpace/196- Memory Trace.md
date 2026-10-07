@@ -2,7 +2,6 @@
 title: "196- Memory Trace"
 ---
 # 196- Memory Trace
-# Memory Trace
 is a connected set of neurons that get activated when you invoke a specific retrieval cue. They get strengthened on retrieval, hence why we do rote memorization, and get re-consolidated after we retrieve them.
 
 ---

@@ -2,7 +2,6 @@
 title: "211- Folgzettel Debate"
 ---
 # 211- Folgzettel Debate
-# Folgzettel Debate
 Folgzettel translate to “follow-up slip” in english. It represents a note that is an elaboration on the note in front of it. If you had notes “1, 1a, 1b, 1c, 1d” then 1a, 1b, 1c, and 1d would be considered follow up slips. They can either be expanding on the note that comes before it (e.g. 1b expands on 1a) or it expands on the idea at the start of the sequence (e.g. 1d expands in a new way on the idea in 1 not 1c).
 
 Luhmann allowed notes to branch off arbitrarily. So often times he would create a new sub sequence based off a keyword in a note. An example of this would be me branching off a new note from this sequence that talks about the concept of elaboration (e.g. creating a new note sequence starting with 1c, then 1c1, 1c2, 1c3, etc). It is arbitrary because it is not directly related to the original topic “folgzettel”. When you create an arbitrary branch, you also add a link to it in the index because you otherwise wouldn’t know where to look for it in the future.

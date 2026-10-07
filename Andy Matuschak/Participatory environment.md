@@ -6,7 +6,6 @@ title: "Participatory environment"
 # Participatory environment
 Category talked about: Learning
 
-# **Participatory environment**
 In some environments, the core activities are fundamentally active; much of the experience is substantially created through the participants’ efforts. I call these *participatory environments*.
 
 Participatory environments may or may not have been intentionally authored. Media environments are almost always intentionally authored, but many social and natural environments are not. Part of the experience in authored participatory environments may be an [[Enacted experience]].

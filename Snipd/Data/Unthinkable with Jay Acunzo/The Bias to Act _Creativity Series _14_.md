@@ -17,7 +17,6 @@ from_snipd: true
 title: "The Bias to Act _Creativity Series _14_"
 ---
 # The Bias to Act _Creativity Series _14_
-# The Bias to Act [Creativity Series #14]
 ![Cover](../../../Attachments/63883.jpeg)
 
 ## Episode metadata

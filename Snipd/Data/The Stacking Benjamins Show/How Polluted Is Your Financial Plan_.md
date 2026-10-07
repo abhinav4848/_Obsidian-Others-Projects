@@ -15,7 +15,6 @@ from_snipd: true
 title: "How Polluted Is Your Financial Plan_"
 ---
 # How Polluted Is Your Financial Plan_
-# How Polluted Is Your Financial Plan?
 ![Cover](../../../Attachments/69685.jpeg)
 
 ## Episode metadata

@@ -5,7 +5,6 @@ title: "201903299997 Thought Enriching"
 tags: #Mind
 Mind: [[000000000010]]
 
-# Thought Enriching
 *These are the basic foundations of thought and expression. There is still a lot of value in returning to the fundamentals.*
 
 * Part 1, Thought Unpacking [[201906189997]], mostly covers thinking critically and analytically. 

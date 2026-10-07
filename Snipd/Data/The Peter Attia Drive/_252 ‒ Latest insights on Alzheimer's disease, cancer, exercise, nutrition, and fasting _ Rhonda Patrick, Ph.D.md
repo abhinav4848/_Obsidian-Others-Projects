@@ -17,7 +17,6 @@ from_snipd: true
 title: "_252 ‒ Latest insights on Alzheimer's disease, cancer, exercise, nutrition, and fasting _ Rhonda Patrick, Ph.D"
 ---
 # _252 ‒ Latest insights on Alzheimer's disease, cancer, exercise, nutrition, and fasting _ Rhonda Patrick, Ph.D
-# #252 ‒ Latest insights on Alzheimer's disease, cancer, exercise, nutrition, and fasting | Rhonda Patrick, Ph.D.
 ![Cover](../../../Attachments/12243.png)
 
 ## Episode metadata

@@ -15,7 +15,6 @@ from_snipd: true
 title: "407_ Making Money - The skill you need to develop"
 ---
 # 407_ Making Money - The skill you need to develop
-# 407: Making Money - The skill you need to develop
 ![Cover](../../../Attachments/16643.png)
 
 ## Episode metadata

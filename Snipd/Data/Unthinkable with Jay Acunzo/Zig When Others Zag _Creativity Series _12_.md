@@ -17,7 +17,6 @@ from_snipd: true
 title: "Zig When Others Zag _Creativity Series _12_"
 ---
 # Zig When Others Zag _Creativity Series _12_
-# Zig When Others Zag [Creativity Series #12]
 ![Cover](../../../Attachments/63883.jpeg)
 
 ## Episode metadata

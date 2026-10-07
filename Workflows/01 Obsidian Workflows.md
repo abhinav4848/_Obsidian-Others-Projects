@@ -2,7 +2,6 @@
 title: "01 Obsidian Workflows"
 ---
 # 01 Obsidian Workflows
-# Obsidian Workflows 
 One of the most powerful aspects of Obsidian is that it is, in many ways, a framework with which you can build tools for whatever purpose you need. When faced with a blank slate with such great potential, it's easy to have [choice paralysis](https://en.wikipedia.org/wiki/Analysis_paralysis) and not know where to start. So, we've built some examples of how some of us use Obsidian, in hopes that they might provide some helpful starting places. 
 
 [Personal Knowledge Management](https://en.wikipedia.org/wiki/Personal_knowledge_management) is a fertile field, and the methods available for it are numerous and growing by the day. Here we have a couple of methods, but there are as many possible techniques as there are ways of arranging ideas. There is always good discussion going on [our forum](https://forum.obsidian.md/c/knowledge-management/6), and [our Discord server](https://obsidian.md/community). And, be warned, this is a deep rabbit hole that can send you off into many hours of delightful research.

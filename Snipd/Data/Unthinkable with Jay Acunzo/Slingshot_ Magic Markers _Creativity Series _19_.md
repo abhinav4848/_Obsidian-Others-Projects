@@ -17,7 +17,6 @@ from_snipd: true
 title: "Slingshot_ Magic Markers _Creativity Series _19_"
 ---
 # Slingshot_ Magic Markers _Creativity Series _19_
-# Slingshot: Magic Markers [Creativity Series #19]
 ![Cover](../../../Attachments/63883.jpeg)
 
 ## Episode metadata

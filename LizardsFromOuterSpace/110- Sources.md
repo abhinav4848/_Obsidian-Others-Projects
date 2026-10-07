@@ -2,7 +2,6 @@
 title: "110- Sources"
 ---
 # 110- Sources
-# Sources
 **Sources** are the places I go to for feeding information into my Zettelkasten. I have three main sources for information that I feed my zettelkasten:
 
 - **Books** (nonfiction books & textbooks) I have found to be the best sources of new information because not only are the structured nicely but the information is usually of high enough quality because the pain it takes to write and publish a book.

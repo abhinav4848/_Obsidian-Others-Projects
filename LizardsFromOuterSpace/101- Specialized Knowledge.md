@@ -2,7 +2,6 @@
 title: "101- Specialized Knowledge"
 ---
 # 101- Specialized Knowledge
-# Specialized Knowledge
 Specialized Knowledge is the extensive body of knowledge ([[073- Knowledge]]) you have about a subject matter. It would be pathway A in prior knowledge ([[076- Prior Knowledge]]). Typically this is acquired over many years of study. The acquisition of specialized knowledge follows this path:
 
 **Quick Overview**: give you a very basic understanding of a subject matter, a good source for these would be the [Oxford Very Short Introduction Series](https://global.oup.com/academic/content/series/v/very-short-introductions-vsi/?cc=us&lang=en&)

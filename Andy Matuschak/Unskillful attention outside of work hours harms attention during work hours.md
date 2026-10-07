@@ -6,7 +6,6 @@ title: "Unskillful attention outside of work hours harms attention during work h
 # Unskillful attention outside of work hours harms attention during work hours
 Category talked about: 2nd Brain, Learning
 
-# **Unskillful attention outside of work hours harms attention during work hours**
 It’s tempting to work hard on remaining focused and present during one’s work day, but then to relax afterwards. You’re tired and worn out anyway, so what’s the harm in browsing Twitter mindlessly? It’ll help you rest and relax.
 
 Just practically speaking, I’ve found that this is not true. Intentional attention is a way of being. It’s hard to slip into and out of. Newport suggests that by not being careful about attention outside of work hours, one may be “training” one’s brain to demand instant gratification, not deep thought. This relates to the meditative aspiration of “skillful thought” at all times during the day, not just during meditation.

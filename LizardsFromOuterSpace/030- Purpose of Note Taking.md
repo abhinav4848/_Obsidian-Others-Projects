@@ -2,7 +2,6 @@
 title: "030- Purpose of Note Taking"
 ---
 # 030- Purpose of Note Taking
-# Purpose of Note Taking
 Note Taking at its core is an answer to the problem of a restricted human memory system. We do not have the time nor attention span to properly encode and store ([[053- Storing]]) all the information we think will be important. So we make a note of it, with the intention of referencing it later on after we’ve forgotten the details.
 
 ---

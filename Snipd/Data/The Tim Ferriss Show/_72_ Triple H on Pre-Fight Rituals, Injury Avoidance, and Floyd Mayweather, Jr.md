@@ -20,7 +20,6 @@ from_snipd: true
 title: "_72_ Triple H on Pre-Fight Rituals, Injury Avoidance, and Floyd Mayweather, Jr"
 ---
 # _72_ Triple H on Pre-Fight Rituals, Injury Avoidance, and Floyd Mayweather, Jr
-# #72: Triple H on Pre-Fight Rituals, Injury Avoidance, and Floyd Mayweather, Jr.
 ![Cover](../../../Attachments/75745.jpeg)
 
 ## Episode metadata

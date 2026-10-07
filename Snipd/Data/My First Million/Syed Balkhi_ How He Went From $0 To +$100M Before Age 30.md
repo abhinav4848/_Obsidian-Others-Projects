@@ -17,7 +17,6 @@ from_snipd: true
 title: "Syed Balkhi_ How He Went From $0 To +$100M Before Age 30"
 ---
 # Syed Balkhi_ How He Went From $0 To +$100M Before Age 30
-# Syed Balkhi: How He Went From $0 To +$100M Before Age 30
 ![Cover](../../../Attachments/40173.jpeg)
 
 ## Episode metadata

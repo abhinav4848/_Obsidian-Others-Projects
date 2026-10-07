@@ -15,7 +15,6 @@ from_snipd: true
 title: "976_ Why I Left the USA - Part 2, For Adventure"
 ---
 # 976_ Why I Left the USA - Part 2, For Adventure
-# 976: Why I Left the USA - Part 2, For Adventure
 ![Cover](../../../Attachments/71220.jpeg)
 
 ## Episode metadata

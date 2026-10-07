@@ -21,7 +21,6 @@ from_snipd: true
 title: "Do THIS To Get Rich and STAY Rich (It’s Deceptively SIMPLE!) _ Morgan Housel"
 ---
 # Do THIS To Get Rich and STAY Rich (It’s Deceptively SIMPLE!) _ Morgan Housel
-# Do THIS To Get Rich and STAY Rich (It’s Deceptively SIMPLE!) | Morgan Housel
 ![Cover](../../../Attachments/64269.jpeg)
 
 ## Episode metadata

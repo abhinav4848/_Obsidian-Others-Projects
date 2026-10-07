@@ -4,7 +4,6 @@ URL:
 title: "Edwards, P N (2005) How to Read a Book"
 ---
 # Edwards, P N (2005) How to Read a Book
-# Edwards, P. N. (2005). How to Read a Book.
 Not to be confused with [[How to Read a Book - Adler and van Doren]]
 
 General advice on how to read non-fiction effectively. Comments related to [[Write about what you read to internalize texts deeply]]; [[Skilful reading is often non-linear]]; [[The best way to read is highly contextual]].

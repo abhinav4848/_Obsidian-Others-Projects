@@ -21,7 +21,6 @@ from_snipd: true
 title: "Laurie Santos_ The Pursuit of Happiness"
 ---
 # Laurie Santos_ The Pursuit of Happiness
-# Laurie Santos: The Pursuit of Happiness
 ![Cover](../../../Attachments/99453.jpeg)
 
 ## Episode metadata

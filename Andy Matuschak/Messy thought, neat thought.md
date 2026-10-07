@@ -6,7 +6,6 @@ URL:
 # Messy thought, neat thought
 This project has involvement from Andy Matuschak
 
-# Messy thought, neat thought
 MAY-LI KHOE
 - Image
 	![[Andy- Messy thought Neat thought 1.png|The Process of Design Squiggle by Damien Newman, Central Office of Design.]] 

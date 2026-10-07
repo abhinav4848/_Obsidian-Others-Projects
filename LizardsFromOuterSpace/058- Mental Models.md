@@ -2,7 +2,6 @@
 title: "058- Mental Models"
 ---
 # 058- Mental Models
-# Mental Models
 ## Farnham Street
 ### What Are Mental Models?
 Mental models are how we understand the world. Not only do they shape what we think and how we understand but they shape the connections and opportunities that we see. Mental models are how we simplify complexity, why we consider some things more relevant than others, and how we reason.

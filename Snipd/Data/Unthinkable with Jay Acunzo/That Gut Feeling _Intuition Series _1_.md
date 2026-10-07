@@ -15,7 +15,6 @@ from_snipd: true
 title: "That Gut Feeling _Intuition Series _1_"
 ---
 # That Gut Feeling _Intuition Series _1_
-# That Gut Feeling [Intuition Series #1]
 ![Cover](../../../Attachments/63883.jpeg)
 
 ## Episode metadata

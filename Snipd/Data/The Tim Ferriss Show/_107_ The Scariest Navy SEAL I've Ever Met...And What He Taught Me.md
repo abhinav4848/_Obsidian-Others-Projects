@@ -17,7 +17,6 @@ from_snipd: true
 title: "_107_ The Scariest Navy SEAL I've Ever Met...And What He Taught Me"
 ---
 # _107_ The Scariest Navy SEAL I've Ever Met...And What He Taught Me
-# #107: The Scariest Navy SEAL I've Ever Met...And What He Taught Me
 ![Cover](../../../Attachments/66166.jpeg)
 
 ## Episode metadata

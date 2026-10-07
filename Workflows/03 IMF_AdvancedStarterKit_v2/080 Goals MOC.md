@@ -6,7 +6,6 @@ tags: #MOC #planning #goals #review #reflections #metrics #wins
 links: [[000 Index|Index]], [[080 Goals MOC|Goals]] 
 
 ---
-# Goals MOC 
 Welcome to the Goals MOC. This is where you make plans, set goals, review them, and keep track of "wins".
 
 List of Notable Wins MOC

@@ -35,7 +35,6 @@ from_snipd: true
 title: "_299 Steve Jobs (Make Something Wonderful)"
 ---
 # _299 Steve Jobs (Make Something Wonderful)
-# #299 Steve Jobs (Make Something Wonderful)
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F0fe786f2-3d92-11f0-8fb0-e778594b8bf8%2Fimage%2Fb3123fe637dbdfa2bd55f9fbfb386aca.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=200&h=200)
 
 ## Episode metadata

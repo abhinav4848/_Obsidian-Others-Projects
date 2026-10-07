@@ -21,7 +21,6 @@ from_snipd: true
 title: "1125-Leaving a Legacy_ Inheritance, Charity, & Thousand-Year Families_ Interview with Johann Kurtz"
 ---
 # 1125-Leaving a Legacy_ Inheritance, Charity, & Thousand-Year Families_ Interview with Johann Kurtz
-# 1125-Leaving a Legacy: Inheritance, Charity, & Thousand-Year Families: Interview with Johann Kurtz
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F2%2F6%2Ff%2Fb%2F26fb46c8744948ee16c3140a3186d450%2FRPF-black-logo-1400x1400px.jpg&w=200&h=200)
 
 ## Episode metadata

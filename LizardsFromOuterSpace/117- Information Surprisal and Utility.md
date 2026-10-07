@@ -2,7 +2,6 @@
 title: "117- Information Surprisal and Utility"
 ---
 # 117- Information Surprisal and Utility
-# Information Surprisal and Utility
 You want information you communicate to be useful and surprising.
 
 I can spout at you crazy conspiracy theories, which are entertaining due to their level of suprisal but only go so far because of their limited use. You want information that can be useful to you by aiding in the creation of new knowledge ([[074- Creation of Knowledge]]) or supporting the execution of a skill.

@@ -6,7 +6,6 @@ title: "Constraints often breed creativity"
 # Constraints often breed creativity
 Category talked about: Learning
 
-# **Constraints often breed creativity**
 An often-true colloquialism. Helps defeat blank page syndrome.
 
 But:

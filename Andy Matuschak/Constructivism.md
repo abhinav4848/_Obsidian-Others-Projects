@@ -6,7 +6,6 @@ title: "Constructivism"
 # Constructivism
 Category talked about: Learning
 
-# **Constructivism**
 Constructivism has been adopted by so many opposing factions that a consensus definition seems almost mundane: to acquire knowledge, you must actively construct it through experience, interaction, and reflection; you can’t receive it passively. So to teach something, you can’t just _tell_—you have to facilitate that active construction.
 
 This is a pretty reasonable claim, given what we know about long-term memory, schema acquisition, elaboration, depth of processing, and so on. It’s clearly not _exactly_ true as stated, given that simple priming effects do exist. Simple exposure to a word list will increase your likelihood of recognizing those words during [[Tachistoscope]] presentation, so in some sense it must be possible for you to passively absorb information (though probably attention is necessary for this effect to occur). Anyway, one might regard that as a triviality; for the kinds of knowledge we care about, the broad constructivist claim seems to be roughly true, and certainly underappreciated in almost all educational settings.

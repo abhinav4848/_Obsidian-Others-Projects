@@ -23,7 +23,6 @@ from_snipd: true
 title: "HACK Your BRAIN to Take Immediate Action_ 90% of HIGH ACHIEVERS Practice THESE HABITS Daily"
 ---
 # HACK Your BRAIN to Take Immediate Action_ 90% of HIGH ACHIEVERS Practice THESE HABITS Daily
-# HACK Your BRAIN to Take Immediate Action: 90% of HIGH ACHIEVERS Practice THESE HABITS Daily
 ![Cover](../../../Attachments/35423.jpeg)
 
 ## Episode metadata

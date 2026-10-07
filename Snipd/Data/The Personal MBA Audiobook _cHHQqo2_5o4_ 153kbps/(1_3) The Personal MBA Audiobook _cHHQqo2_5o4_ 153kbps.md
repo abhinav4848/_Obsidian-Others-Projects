@@ -30,7 +30,6 @@ from_snipd: true
 title: "(1_3) The Personal MBA Audiobook _cHHQqo2_5o4_ 153kbps"
 ---
 # (1_3) The Personal MBA Audiobook _cHHQqo2_5o4_ 153kbps
-# (1/3) The Personal MBA Audiobook [cHHQqo2_5o4] 153kbps
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fsnipd-public%2Fsideload%2Fsideload_image.png&w=200&h=200)
 
 ## Episode metadata

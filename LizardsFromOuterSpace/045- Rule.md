@@ -2,7 +2,6 @@
 title: "045- Rule"
 ---
 # 045- Rule
-# Rule
 Rule is ": a [040- Generalization](040-%20Generalization.md) of an observed regularity. It overlaps with formula, theorem, principle, proposition, law, statement, and more." (Wozniak 2020).
 
 You use **rules** to get a desired outcome because they point you towards an “action → outcome” relationship that repeats. So you can rely on the rule when you make decisions ([086- Decision making](086-%20Decision%20making.md)) or act in the world.

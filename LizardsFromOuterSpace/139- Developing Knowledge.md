@@ -2,7 +2,6 @@
 title: "139- Developing Knowledge"
 ---
 # 139- Developing Knowledge
-# Developing Knowledge
 What are the different ways we develop knowledge ([[114- Knowledge Development]])?
 
 You can further developing your knowledge base in multiple ways. The two primary forms it takes is the generation of new ideas and the creation of structure.

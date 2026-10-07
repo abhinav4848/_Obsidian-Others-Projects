@@ -15,7 +15,6 @@ from_snipd: true
 title: "Out & About_ Emergency Fund Planning, Credit Cards, and Disability Insurance _ Joshua's Appearance on the _Life Meets Money_ Podcast"
 ---
 # Out & About_ Emergency Fund Planning, Credit Cards, and Disability Insurance _ Joshua's Appearance on the _Life Meets Money_ Podcast
-# Out & About: Emergency Fund Planning, Credit Cards, and Disability Insurance | Joshua's Appearance on the "Life Meets Money" Podcast
 ![Cover](../../../Attachments/32315.jpeg)
 
 ## Episode metadata

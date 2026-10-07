@@ -5,7 +5,6 @@ URL:
 title: "Spaced repetition systems can be used to program attention"
 ---
 # Spaced repetition systems can be used to program attention
-# Spaced repetition systems can be used to program attention
 [[Spaced repetition memory systems make memory a choice]], but the computerized component’s value lies specifically in dynamically scheduling and selecting questions to be reviewed. In some sense, the efficacy of a [[Spaced Repetition memory system]] comes from its power to *program your attention* ([[Programmable attention]]). Think: “{cron} for your mind.” 
 
 Manually making decisions about which cards to review would be far too taxing on a per-card basis. The transaction cost is too high. When that work is mostly outsourced, you can make a coarser decision—to devote your attention to SRS practice for 10 minutes—and then let your attention be directed by the machine within that block.

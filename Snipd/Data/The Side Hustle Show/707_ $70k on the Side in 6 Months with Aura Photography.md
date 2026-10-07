@@ -17,7 +17,6 @@ from_snipd: true
 title: "707_ $70k on the Side in 6 Months with Aura Photography"
 ---
 # 707_ $70k on the Side in 6 Months with Aura Photography
-# 707: $70k on the Side in 6 Months with Aura Photography
 ![Cover](../../../Attachments/24796.jpeg)
 
 ## Episode metadata

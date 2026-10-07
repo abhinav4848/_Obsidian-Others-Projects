@@ -2,7 +2,6 @@
 title: "186- Understanding"
 ---
 # 186- Understanding
-## Understanding
 more broadly is the process of acquiring knowledge about a topic such that you can make predictions about it.
 
 On a **neurological level** this means creating a network of memory traces (chains of neurons) ([[196- Memory Trace]]) such that you can pull to mind all the relevant information on an idea through [spreading activation](https://supermemo.guru/wiki/Spreading_activation). This is done through the natural ([[191- Natural Memorization of Information]]) or [deliberate memorization](https://forum.obsidian.md/t/obsidian-zettelkasten/1999/191) of connections in everyday [learning](https://forum.obsidian.md/t/obsidian-zettelkasten/1999/192). These connections can take the form of knowing the relationship between two concepts or how the new information relates to prior knowledge. You essentially want to create as many retrieval cues ([[197- Retrieval Cues]]) as possible, so that you can pull up the information when needed.

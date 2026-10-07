@@ -20,7 +20,6 @@ from_snipd: true
 title: "How to Scale your Startup with Growth Levers_ Matt Lerner"
 ---
 # How to Scale your Startup with Growth Levers_ Matt Lerner
-# How to Scale your Startup with Growth Levers: Matt Lerner
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fimg.transistor.fm%2Fuuyy_qH0CSq7Tc3OBKsqZqzdAiwn9mFG3xe679ewBDU%2Frs%3Afill%3A0%3A0%3A1%2Fw%3A1400%2Fh%3A1400%2Fq%3A60%2Fmb%3A500000%2FaHR0cHM6Ly9pbWct%2FdXBsb2FkLXByb2R1%2FY3Rpb24udHJhbnNp%2Fc3Rvci5mbS9zaG93%2FLzI0MzY3LzE2NzU3%2FODI5MzEtYXJ0d29y%2Fay5qcGc.jpg&w=200&h=200)
 
 ## Episode metadata

@@ -2,7 +2,6 @@
 title: "107- Note Identifiers"
 ---
 # 107- Note Identifiers
-# Note Identifiers
 One of the main layers of structure ([[066- Layers of structure]]) in a digital zettelkasten is having a [UID](https://www.wikiwand.com/en/Unique_identifier) (Unique Identifier). A UID allows you to **identify** another note within your current one.
 
 All the below mentioned Identifiers work fine but people prefer different ones based on their secondary functions. For example, the secondary function of Time IDs is they immediately tell you when the note was created. Some people like having this feature because they think of their notes in a temporal aspect.

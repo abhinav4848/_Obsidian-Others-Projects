@@ -15,7 +15,6 @@ from_snipd: true
 title: "Ep 142_ The Moment That Changed My Life in Business Forever"
 ---
 # Ep 142_ The Moment That Changed My Life in Business Forever
-# Ep 142: The Moment That Changed My Life in Business Forever
 ![Cover](../../../Attachments/40984.jpeg)
 
 ## Episode metadata

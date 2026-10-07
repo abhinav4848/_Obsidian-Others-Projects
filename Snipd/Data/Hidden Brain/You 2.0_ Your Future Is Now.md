@@ -19,7 +19,6 @@ from_snipd: true
 title: "You 2.0_ Your Future Is Now"
 ---
 # You 2.0_ Your Future Is Now
-# You 2.0: Your Future Is Now
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F5b7d8c77-15ba-4eff-a999-2e725db21db5%2F5da6be39-fd7a-4d15-80cb-9b518d140957%2F3000x3000%2Fhidden-brain-cover.jpg%3Faid%3Drss_feed&w=200&h=200)
 
 ## Episode metadata

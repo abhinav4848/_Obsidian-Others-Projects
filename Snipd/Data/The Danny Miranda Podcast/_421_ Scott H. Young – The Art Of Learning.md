@@ -17,7 +17,6 @@ from_snipd: true
 title: "_421_ Scott H. Young – The Art Of Learning"
 ---
 # _421_ Scott H. Young – The Art Of Learning
-# #421: Scott H. Young – The Art Of Learning
 ![Cover](../../../Attachments/31252.jpeg)
 
 ## Episode metadata

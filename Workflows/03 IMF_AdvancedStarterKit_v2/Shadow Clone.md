@@ -2,7 +2,6 @@
 title: "Shadow Clone"
 ---
 # Shadow Clone
-# Shadow-Clone
 _Divide your energies to accomplish more, at the cost of increasing your fragility, exposure, and vulnerability_
 
 _Like multi-tasking_

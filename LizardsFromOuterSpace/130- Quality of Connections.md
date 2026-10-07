@@ -2,7 +2,6 @@
 title: "130- Quality of Connections"
 ---
 # 130- Quality of Connections
-# Quality of Connections
 Every note you create will be full of terminology. Each term is a connection you can create in a note. Then you can also put in connections to related concepts that aren’t directly mentioned in the note, which you’ll see when I put a “See” or “Related” at the end of the note.
 
 This led me to think about what is the right balance with linking? I imagine that heavily linking my notes, such that every sentence has multiple links, is not only distracting but a waste of time. You want to strike a balance, such that you are only linking the most useful information. You can think about it through the utility & surprisal framework ([[117- Information Surprisal and Utility]]). 

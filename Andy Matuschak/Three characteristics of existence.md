@@ -4,7 +4,6 @@ URL:
 title: "Three characteristics of existence"
 ---
 # Three characteristics of existence
-# **Three characteristics of existence**
 The nature of existence is that all phenomena are {impermanent}, {unsatisfactory}, and {not-self}.
 
 See:

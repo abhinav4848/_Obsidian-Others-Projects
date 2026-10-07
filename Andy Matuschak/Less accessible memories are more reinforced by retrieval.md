@@ -6,7 +6,6 @@ URL:
 # Less accessible memories are more reinforced by retrieval
 Category talked about: Learning
 
-# **Less accessible memories are more reinforced by retrieval**
 Attempting to retrieve a memory which is hard to access will have a greater impact on subsequent retrieval attempts than attempting to retrieve a memory which is easy to access.
 
 Stated as conjecture in [Robert A. Bjork](https://notes.andymatuschak.org/zYPeHVeq311Jh4whSstyeFX) and Bjork (1992), synthesizing a body of empirical research reported elsewhere (which I’ve not surveyed).

@@ -2,7 +2,6 @@
 title: "072- Future Industries"
 ---
 # 072- Future Industries
-# Future Industries
 Alec Ross, in his 2016 book _Industries of the Future_ lays out five trends that will shape the future: [Robotics 6](https://www.theverge.com/21292684/boston-dynamics-spot-robot-on-sale-price), [Advanced Life Sciences 3](https://www.wikiwand.com/en/CRISPR_gene_editing), [Code-ification of Money 3](https://decrypt.co/12641/why-jack-dorsey-is-right-about-bitcoins-future-in-africa), [Cyber Security 1](https://fivebooks.com/best-books/cyber-security-josephine-wolff/), and [Big Data 3](https://podcasts.apple.com/us/podcast/gro-intelligence-ceo-sara-menker-on-ag-tech-future/id1011668648?i=1000447977863). - [Source 3](https://www.wikiwand.com/en/The_Industries_of_the_Future).
 
 **Note** on the source - I actually own this book and took notes on it. But because I suck and didn’t have a zettelkasten ([[002- Zettelkasten]]) at the time, I have no clue where those notes actually are. One of the helpful layers of structure ([[066- Layers of structure]]) of the zettelkasten is the centralization of notes 

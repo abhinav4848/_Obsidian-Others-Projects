@@ -2,7 +2,6 @@
 title: "060- Public Note Repositories"
 ---
 # 060- Public Note Repositories
-# Public Note Repositories
 are collections of peoples personal notes made public. I’m still thinking about the utility of them. On one hand they are a good for showing others a tangible example of how to create a notes collections. My favorite so far is [Andy’s Working Notes](https://notes.andymatuschak.org/About_these_notes) in terms of layout and quality of content.
 
 It is not a particularly desirable way of communicating information to others because they aren’t structured for easy understanding. Instead what you’d want is either a blog (e.g. [Wait But Why](https://waitbutwhy.com/), [Derek Sivers](https://sivers.org/), and [Farnam Street](https://fs.blog/blog/)), site of curated articles (e.g. [thoughtco 10](https://www.thoughtco.com/) or [owlcation 12](https://owlcation.com/)), or small wikis (e.g. [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru), [AskHistorians Wiki](https://www.reddit.com/r/AskHistorians/wiki/index)). While these options are better than a standalone notes collection they are still lacking. Specifically they don’t do the best job of addressing the issue of [match quality in learning](https://forum.obsidian.md/t/obsidian-zettelkasten/1999/62).

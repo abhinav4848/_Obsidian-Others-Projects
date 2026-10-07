@@ -20,7 +20,6 @@ from_snipd: true
 title: "_648_ James Clear, Atomic Habits — Simple Strategies for Building (and Breaking) Habits, Questions for Personal Mastery and Growth, Tactics for Writin"
 ---
 # _648_ James Clear, Atomic Habits — Simple Strategies for Building (and Breaking) Habits, Questions for Personal Mastery and Growth, Tactics for Writin
-# #648: James Clear, Atomic Habits — Simple Strategies for Building (and Breaking) Habits, Questions for Personal Mastery and Growth, Tactics for Writing and Launching a Mega-Bestseller, Finding Leverage, and More
 ![Cover](../../../Attachments/66166.jpeg)
 
 ## Episode metadata

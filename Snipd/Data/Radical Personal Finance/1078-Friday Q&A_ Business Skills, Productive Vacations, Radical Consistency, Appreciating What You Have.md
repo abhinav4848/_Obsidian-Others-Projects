@@ -19,7 +19,6 @@ from_snipd: true
 title: "1078-Friday Q&A_ Business Skills, Productive Vacations, Radical Consistency, Appreciating What You Have"
 ---
 # 1078-Friday Q&A_ Business Skills, Productive Vacations, Radical Consistency, Appreciating What You Have
-# 1078-Friday Q&A: Business Skills, Productive Vacations, Radical Consistency, Appreciating What You Have
 ![Cover](../../../Attachments/32315.jpeg)
 
 ## Episode metadata

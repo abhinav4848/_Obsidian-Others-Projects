@@ -20,7 +20,6 @@ title: "Do you suffer from note-taking"
 > [!Video]- Youtube Video
 > [The Surprising Truth About Note-Taking - YouTube](https://www.youtube.com/watch?v=bDKkwySrg-I)
 
-# Do you suffer from note-taking?
 ## Intro
 %% 
 - Grainy bunker old camcorder footage of Nick that slowly reduces to regular picture 

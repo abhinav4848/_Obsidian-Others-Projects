@@ -4,7 +4,6 @@ URL:
 title: "Chunks in human cognition"
 ---
 # Chunks in human cognition
-# “Chunks” in human cognition
 When considering human information processing capacity, [[Working memory span is mostly independent of item complexity]], so we must distinguish between the *number* of items being processed (a **”chunk”**, limited by [[Span of working memory]]) and the *complexity* of each item (separately limited by [[Andy Matuschak/Span of absolute judgment|Span of absolute judgment]]). —> No need to expand these links any further. 
 
 Miller writes (1956, p. 92):

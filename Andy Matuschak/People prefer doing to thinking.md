@@ -4,7 +4,6 @@ URL:
 title: "People prefer doing to thinking"
 ---
 # People prefer doing to thinking
-# People prefer doing to thinking
 The phrase comes from a paper from Timothy Wilson and colleagues, describing a variety of studies in which participants were asked to sit and think in a bare room for 15 minutes. In one of the studies, the room contained a device they could use to shock themselves, and almost half did—even though they previously answered that they’d pay to avoid a shock!
 
 Related:

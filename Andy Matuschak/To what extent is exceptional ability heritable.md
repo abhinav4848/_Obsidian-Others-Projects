@@ -4,7 +4,6 @@ URL:
 title: "To what extent is exceptional ability heritable"
 ---
 # To what extent is exceptional ability heritable
-# To what extent is exceptional ability heritable?
 Nature or nurture?
 
 This topic tends to be quite political—it’s hard to find even-handed writing on the subject. We can mostly only measure loose indicators, but be careful of the distinction between what’s being measured and what’s being claimed. For instance, Ericsson et al (1993, p. 364–365) present various non-associations between ability tests and expertise, but that’s not at all the same as demonstrating heritability.

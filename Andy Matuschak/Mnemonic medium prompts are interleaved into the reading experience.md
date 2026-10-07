@@ -4,7 +4,6 @@ URL:
 title: "Mnemonic medium prompts are interleaved into the reading experience"
 ---
 # Mnemonic medium prompts are interleaved into the reading experience
-# **Mnemonic medium prompts are interleaved into the reading experience**
 A [Quizlet](https://notes.andymatuschak.org/zNeYdw8ag4qijewtZ3BEc9J)-style implementation of the idea described in [The mnemonic medium supplies expert-authored prompts to remove the burden of prompt-writing](https://notes.andymatuschak.org/zPkuLaEFFPqkcWpLcPzbW6i) would deliver the prompts separately from the text itself. For instance, perhaps you read a text, and then some days later you’re quizzed on its contents. Or perhaps the prompts are supplied at the end of an article, after you’ve read it at all. Our design for the [[Andy Matuschak/Mnemonic medium|Mnemonic medium]] differs from these approaches by interleaving the prompts into the reading experience at a finer granularity.
 
 Some consequences (potential, intended, observed):

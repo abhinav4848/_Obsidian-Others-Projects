@@ -2,7 +2,6 @@
 title: "076- Prior Knowledge"
 ---
 # 076- Prior Knowledge
-# Prior Knowledge
 Prior knowledge is the information you have personally turned into [[073- Knowledge]] through a lifetime of learning. It is the knowledge you use for creative problem solving with the knowledge cycle ([[075- The knowledge cycle]]). There are two paths of acquisition for **prior knowledge**, represented below by A and B.
 ![[Specialized vs General Knowledge.png]]This web represents the body of knowledge out there.
 

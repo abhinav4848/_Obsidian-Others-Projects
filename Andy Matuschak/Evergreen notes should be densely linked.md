@@ -4,7 +4,6 @@ URL:
 title: "Evergreen notes should be densely linked"
 ---
 # Evergreen notes should be densely linked
-# **Evergreen notes should be densely linked**
 If we push ourselves to add lots of links between our notes, that makes us think expansively about what other concepts might be related to what we’re thinking about. It creates pressure to think carefully about how ideas relate to each other (see [[Andy Matuschak/Understanding requires effortful engagement|Understanding requires effortful engagement]] and [[Andy Matuschak/Evergreen notes should be concept-oriented|Evergreen notes should be concept-oriented]]). It’ll also help you internalize the ideas more deeply through [[Andy Matuschak/Elaborative encoding|Elaborative encoding]].
 
 Finding the right links requires reading old notes, so it’s also an organic mechanism for intermittently reviewing the notes we’ve written ([[Andy Matuschak/Evergreen note maintenance approximates spaced repetition|Evergreen note maintenance approximates spaced repetition]]). This may lead to surprising discoveries ([[Andy Matuschak/Notes should surprise you|Notes should surprise you]]).

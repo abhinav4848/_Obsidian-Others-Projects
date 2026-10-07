@@ -2,7 +2,6 @@
 title: "230- Summarization and Paraphrasing in Note Taking"
 ---
 # 230- Summarization and Paraphrasing in Note Taking
-# Summarization and Paraphrasing in Note Taking
 - [[097- Summarization]] is one of the four core note functions
 - Purpose of Summarization in Note Taking?
 - Luhmann recommended Reformulations

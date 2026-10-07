@@ -2,7 +2,6 @@
 title: "002- Zettelkasten"
 ---
 # 002- Zettelkasten
-# Zettelkasten
 Zk is for creating an interlinked network of notes to help you generate new insights/ideas of/into the subject/concept you’re interested in. 
 
 ## Definition

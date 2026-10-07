@@ -17,7 +17,6 @@ from_snipd: true
 title: "How To Make $5 Million As a Content Creator _ Ali Abdaal"
 ---
 # How To Make $5 Million As a Content Creator _ Ali Abdaal
-# How To Make $5 Million As a Content Creator | Ali Abdaal
 ![Cover](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F9c87db06-9390-11ed-8892-db945f862e11%2Fimage%2FLeveling-Up---Podcast-ArtArtboard-3.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=200&h=200)
 
 ## Episode metadata

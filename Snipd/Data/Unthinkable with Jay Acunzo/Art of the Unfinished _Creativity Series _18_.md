@@ -15,7 +15,6 @@ from_snipd: true
 title: "Art of the Unfinished _Creativity Series _18_"
 ---
 # Art of the Unfinished _Creativity Series _18_
-# Art of the Unfinished [Creativity Series #18]
 ![Cover](../../../Attachments/63883.jpeg)
 
 ## Episode metadata

@@ -2,7 +2,6 @@
 title: "070- Future Skills and Abilities"
 ---
 # 070- Future Skills and Abilities
-# Future Skills and Abilities
 Professionals of the future need to adopt more flexibility in how they work.
 
 This means meeting people where they are at, engaging with them over social media or other more preferable platforms [(Susskind 2015, pg 106)](https://forum.obsidian.md/t/obsidian-zettelkasten/1999/10). Imagine being able to instant message your doctor.
