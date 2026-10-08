@@ -8,16 +8,16 @@ episode_publish_date: 2025-11-13
 last_snip_date: 2025-11-13
 episode_duration_minutes: 45
 episode_url: "https://share.snipd.com/episode/a96598c6-ff9b-4556-917c-0e9339b16bc3"
-image_url: "Attachments/40694.jpeg"
+image_url: "Snipd/Attachments/40694.jpeg"
 show_url: "https://share.snipd.com/show/e8542c75-7fc0-4da4-9431-e65c3b7010a2"
-show_image_url: "Attachments/13452.jpeg"
+show_image_url: "Snipd/Attachments/13452.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 title: "707_ $70k on the Side in 6 Months with Aura Photography"
 ---
 # 707_ $70k on the Side in 6 Months with Aura Photography
-![Cover](../../../Attachments/24796.jpeg)
+![Cover](../../Attachments/24796.jpeg)
 
 ## Episode metadata
 - Episode title: 707: $70k on the Side in 6 Months with Aura Photography

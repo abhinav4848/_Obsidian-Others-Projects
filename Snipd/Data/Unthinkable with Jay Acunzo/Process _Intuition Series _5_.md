@@ -6,16 +6,16 @@ episode_publish_date: 2017-02-27
 last_snip_date: 2025-05-30
 episode_duration_minutes: 16
 episode_url: "https://share.snipd.com/episode/9fe8a1c7-7ecd-4ea6-a5cc-802c658ef25e"
-image_url: "Attachments/71638.jpeg"
+image_url: "Snipd/Attachments/71638.jpeg"
 show_url: "https://share.snipd.com/show/f24451b4-1e4a-429d-a98f-776c48582a45"
-show_image_url: "Attachments/71638.jpeg"
+show_image_url: "Snipd/Attachments/71638.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 title: "Process _Intuition Series _5_"
 ---
 # Process _Intuition Series _5_
-![Cover](../../../Attachments/63883.jpeg)
+![Cover](../../Attachments/63883.jpeg)
 
 ## Episode metadata
 - Episode title: Process [Intuition Series #5]

@@ -30,7 +30,7 @@ These are collections across your ideaverse.
 > [!Training]+ ## Efforts Collections
 > > [!Training] [[Ideaverse Merged/Atlas/Maps/Efforts]] 
 
-![[Ideaverse Merged/x/Images/whelan-space-station-1978-narrow.jpg|700]]
+![[Ideaverse Merged/Attachments/whelan-space-station-1978-narrow.jpg|700]]
 
 > [!NOTE] **Collections** are a work in progress because they leverage "Obsidian Properties", which is still under development, with new features still expected. What you see here is very much a test...or as we like to say, a "minimum shareable draft".
 

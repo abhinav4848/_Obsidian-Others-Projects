@@ -6,16 +6,16 @@ episode_publish_date: 2023-06-23
 last_snip_date: 2023-09-29
 episode_duration_minutes: 16
 episode_url: "https://share.snipd.com/episode/c9679a97-8221-4177-a87c-dbe3051249e8"
-image_url: "Attachments/24429.png"
+image_url: "Snipd/Attachments/24429.png"
 show_url: "https://share.snipd.com/show/cbbe6486-a2a9-4979-9de0-108d4d63a9cf"
-show_image_url: "Attachments/24429.png"
+show_image_url: "Snipd/Attachments/24429.png"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 title: "Ep. 219 - 2 Investments That Made Me Into a Multi-Millionaire"
 ---
 # Ep. 219 - 2 Investments That Made Me Into a Multi-Millionaire
-![Cover](../../../Attachments/82871.png)
+![Cover](../../Attachments/82871.png)
 
 ## Episode metadata
 - Episode title: Ep. 219 - 2 Investments That Made Me Into a Multi-Millionaire

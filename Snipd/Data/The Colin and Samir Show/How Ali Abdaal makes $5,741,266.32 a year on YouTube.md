@@ -8,16 +8,16 @@ episode_publish_date: 2023-08-14
 last_snip_date: 2023-08-25
 episode_duration_minutes: 126
 episode_url: "https://share.snipd.com/episode/621f2e9e-dcb9-4f22-9641-bbce4768c53e"
-image_url: "Attachments/20161.jpeg"
+image_url: "Snipd/Attachments/20161.jpeg"
 show_url: "https://share.snipd.com/show/c318a019-361a-4eaf-bfa8-00ba97ad3dae"
-show_image_url: "Attachments/20161.jpeg"
+show_image_url: "Snipd/Attachments/20161.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 19
 from_snipd: true
 title: "How Ali Abdaal makes $5,741,266.32 a year on YouTube"
 ---
 # How Ali Abdaal makes $5,741,266.32 a year on YouTube
-![Cover](../../../Attachments/88455.jpeg)
+![Cover](../../Attachments/88455.jpeg)
 
 ## Episode metadata
 - Episode title: How Ali Abdaal makes $5,741,266.32 a year on YouTube

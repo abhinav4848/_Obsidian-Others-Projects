@@ -6,16 +6,16 @@ episode_publish_date: 2023-10-17
 last_snip_date: 2024-01-27
 episode_duration_minutes: 114
 episode_url: "https://share.snipd.com/episode/02b264a6-9cfe-4988-b9be-a9daacbc9d6f"
-image_url: "Attachments/76654.jpeg"
+image_url: "Snipd/Attachments/76654.jpeg"
 show_url: "https://share.snipd.com/show/4747ab19-99fc-4354-b864-8c994b216eac"
-show_image_url: "Attachments/76654.jpeg"
+show_image_url: "Snipd/Attachments/76654.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 10
 from_snipd: true
 title: "Killing the Poverty Mindset – Epi-3393"
 ---
 # Killing the Poverty Mindset – Epi-3393
-![Cover](../../../Attachments/01184.jpeg)
+![Cover](../../Attachments/01184.jpeg)
 
 ## Episode metadata
 - Episode title: Killing the Poverty Mindset – Epi-3393

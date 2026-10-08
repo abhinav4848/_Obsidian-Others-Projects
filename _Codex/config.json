@@ -31,5 +31,14 @@
   "obsidian_property_types": {
     "URL": "multitext"
   },
-  "url_list_conversion_scope": "All existing URL properties in working vault; all Andy notes receive URL lists"
+  "url_list_conversion_scope": "All existing URL properties in working vault; all Andy notes receive URL lists",
+  "attachments_location": "collection root",
+  "attachment_folders": {
+    "Andy Matuschak": "Andy Matuschak/Attachments",
+    "Snipd": "Snipd/Attachments",
+    "Ideaverse Merged": "Ideaverse Merged/Attachments",
+    "LizardsFromOuterSpace": "LizardsFromOuterSpace/Attachments",
+    "Workflows": "Workflows/Attachments"
+  },
+  "shared_attachment_policy": "One file per collection, shared among notes in that collection"
 }

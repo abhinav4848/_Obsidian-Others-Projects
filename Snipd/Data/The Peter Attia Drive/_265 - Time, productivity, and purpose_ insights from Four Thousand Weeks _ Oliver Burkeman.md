@@ -17,16 +17,16 @@ mentioned_books:
 last_snip_date: 2023-08-30
 episode_duration_minutes: 111
 episode_url: "https://share.snipd.com/episode/a54209ed-48d5-46f3-93fd-0fd752033452"
-image_url: "Attachments/51957.png"
+image_url: "Snipd/Attachments/51957.png"
 show_url: "https://share.snipd.com/show/aca6b50f-6409-4bfc-914c-8fc585e330ba"
-show_image_url: "Attachments/51957.png"
+show_image_url: "Snipd/Attachments/51957.png"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 8
 from_snipd: true
 title: "_265 - Time, productivity, and purpose_ insights from Four Thousand Weeks _ Oliver Burkeman"
 ---
 # _265 - Time, productivity, and purpose_ insights from Four Thousand Weeks _ Oliver Burkeman
-![Cover](../../../Attachments/12243.png)
+![Cover](../../Attachments/12243.png)
 
 ## Episode metadata
 - Episode title: #265 - Time, productivity, and purpose: insights from Four Thousand Weeks | Oliver Burkeman

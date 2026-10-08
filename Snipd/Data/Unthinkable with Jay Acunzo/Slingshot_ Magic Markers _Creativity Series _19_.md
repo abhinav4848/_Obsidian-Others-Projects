@@ -8,16 +8,16 @@ episode_publish_date: 2016-10-10
 last_snip_date: 2025-03-04
 episode_duration_minutes: 8
 episode_url: "https://share.snipd.com/episode/4b0b28ff-5c3b-4c7c-b301-5d66a553a8f9"
-image_url: "Attachments/71638.jpeg"
+image_url: "Snipd/Attachments/71638.jpeg"
 show_url: "https://share.snipd.com/show/f24451b4-1e4a-429d-a98f-776c48582a45"
-show_image_url: "Attachments/71638.jpeg"
+show_image_url: "Snipd/Attachments/71638.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 title: "Slingshot_ Magic Markers _Creativity Series _19_"
 ---
 # Slingshot_ Magic Markers _Creativity Series _19_
-![Cover](../../../Attachments/63883.jpeg)
+![Cover](../../Attachments/63883.jpeg)
 
 ## Episode metadata
 - Episode title: Slingshot: Magic Markers [Creativity Series #19]

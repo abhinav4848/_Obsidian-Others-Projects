@@ -10,7 +10,7 @@ title: "FlowCreation Theory"
 [[Ideaverse Merged/Atlas/Dots/Things/FlowCreation Theory]] is about creating the [[Ideaverse Merged/Atlas/Dots/Things/Conditions of Flow]], not actually Creating Flow, because Flow cannot directly be created. You can only create the conditions of flow, and give yourself the best chance of entering it. %%(Nick, go deeper at [[Flow, Insights, and Acting cannot be forced]] - not included in the Ideaverse for Obsidian)%%
 
 Let's look at the Flow Map with a bunch of extra descriptors added:
-![[Ideaverse Merged/x/Images/flow-map.png]]
+![[Ideaverse Merged/Attachments/flow-map.png]]
 
 There are just two steps:
 1. Find your current state of mind—Maybe ask, "What am I feeling?" or "Where's my head at?" Use the [[Ideaverse Merged/Atlas/Dots/Things/Flow Map]] for this.

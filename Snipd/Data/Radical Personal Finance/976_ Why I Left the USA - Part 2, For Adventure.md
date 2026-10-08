@@ -6,16 +6,16 @@ episode_publish_date: 2023-11-01
 last_snip_date: 2023-11-08
 episode_duration_minutes: 44
 episode_url: "https://share.snipd.com/episode/e2e9ce2a-0fc2-422d-9de5-7a2feba32e1b"
-image_url: "Attachments/88866.jpeg"
+image_url: "Snipd/Attachments/88866.jpeg"
 show_url: "https://share.snipd.com/show/4101b8c0-775b-44c1-8327-b728f73d428c"
-show_image_url: "Attachments/61965.jpeg"
+show_image_url: "Snipd/Attachments/61965.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 4
 from_snipd: true
 title: "976_ Why I Left the USA - Part 2, For Adventure"
 ---
 # 976_ Why I Left the USA - Part 2, For Adventure
-![Cover](../../../Attachments/71220.jpeg)
+![Cover](../../Attachments/71220.jpeg)
 
 ## Episode metadata
 - Episode title: 976: Why I Left the USA - Part 2, For Adventure

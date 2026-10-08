@@ -37,3 +37,6 @@ All copied Andy notes have source URLs. All existing `URL` values across the wor
 
 ## Duplicate page-title headings
 Keep one page-title heading matching the captured filename. Remove repeated copies caused by whitespace, capitalization, punctuation, note-number prefixes, or a Snipd episode title already stored in properties. Preserve different section headings and code blocks. The recovery snapshot and changes for this cleanup are recorded in `duplicate-headings-applied.json`.
+
+## Current attachment locations
+Attachments now live directly under each top-level collection: `Snipd/Attachments`, `Andy Matuschak/Attachments`, `Ideaverse Merged/Attachments`, `LizardsFromOuterSpace/Attachments`, and `Workflows/Attachments`. Links use the collection path or a correct relative Markdown path. Shared images have one file within each collection. Historical recovery maps describe their earlier locations; `attachment-relocation-applied.json` records the current mapping.

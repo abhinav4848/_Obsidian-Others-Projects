@@ -8,16 +8,16 @@ episode_publish_date: 2023-07-31
 last_snip_date: 2024-02-23
 episode_duration_minutes: 53
 episode_url: "https://share.snipd.com/episode/942f0498-2a76-4dd4-bb4a-ce09170bd9b5"
-image_url: "Attachments/03309.jpeg"
+image_url: "Snipd/Attachments/03309.jpeg"
 show_url: "https://share.snipd.com/show/8516809e-50d9-44a2-8830-e78fe1cba070"
-show_image_url: "Attachments/03309.jpeg"
+show_image_url: "Snipd/Attachments/03309.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 6
 from_snipd: true
 title: "078_ Sahil Bloom – Using Flywheels to Build Longevity in the Creator Economy"
 ---
 # 078_ Sahil Bloom – Using Flywheels to Build Longevity in the Creator Economy
-![Cover](../../../Attachments/69019.jpeg)
+![Cover](../../Attachments/69019.jpeg)
 
 ## Episode metadata
 - Episode title: 078: Sahil Bloom – Using Flywheels to Build Longevity in the Creator Economy

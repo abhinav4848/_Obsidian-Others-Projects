@@ -32,4 +32,4 @@ Use your ideaverse to learn about the basics of knowledge management:
 - I want to...learn about LYT and digital gardens » [[Ideaverse Merged/Ideaverse Map]]
 
 
-![[Ideaverse Merged/x/Images/pale-blue-dot-banner.jpg]]
+![[Ideaverse Merged/Attachments/pale-blue-dot-banner.jpg]]

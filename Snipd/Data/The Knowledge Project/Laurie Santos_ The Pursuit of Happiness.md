@@ -12,16 +12,16 @@ mentioned_books:
 last_snip_date: 2022-12-19
 episode_duration_minutes: 105
 episode_url: "https://share.snipd.com/episode/71d78afe-b389-4888-897a-44c0afc7d939"
-image_url: "Attachments/95815.jpeg"
+image_url: "Snipd/Attachments/95815.jpeg"
 show_url: "https://share.snipd.com/show/82276930-d446-4ee1-b204-84198acb5bfc"
-show_image_url: "Attachments/95815.jpeg"
+show_image_url: "Snipd/Attachments/95815.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 2
 from_snipd: true
 title: "Laurie Santos_ The Pursuit of Happiness"
 ---
 # Laurie Santos_ The Pursuit of Happiness
-![Cover](../../../Attachments/99453.jpeg)
+![Cover](../../Attachments/99453.jpeg)
 
 ## Episode metadata
 - Episode title: Laurie Santos: The Pursuit of Happiness

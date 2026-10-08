@@ -58,7 +58,7 @@ In all these examples, the projects have completion dates. They are either compl
 
 # Example
 Image of folder breakdown in Obsidian
- ![](PARA%20Structure.png)
+ ![](Attachments/PARA%20Structure.png)
 
 ## References
 1. [https://fortelabs.co/blog/para/](https://fortelabs.co/blog/para/)

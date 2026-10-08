@@ -10,16 +10,16 @@ mentioned_books:
 last_snip_date: 2023-08-12
 episode_duration_minutes: 60
 episode_url: "https://share.snipd.com/episode/ff027a57-8d3f-469b-a0fb-d86bf240f32b"
-image_url: "Attachments/18854.jpeg"
+image_url: "Snipd/Attachments/18854.jpeg"
 show_url: "https://share.snipd.com/show/68da1931-103e-4fb5-9af5-62bfca51b9b6"
-show_image_url: "Attachments/18854.jpeg"
+show_image_url: "Snipd/Attachments/18854.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 title: "Overcome the Comfort Crisis"
 ---
 # Overcome the Comfort Crisis
-![Cover](../../../Attachments/80741.jpeg)
+![Cover](../../Attachments/80741.jpeg)
 
 ## Episode metadata
 - Episode title: Overcome the Comfort Crisis

@@ -10,16 +10,16 @@ mentioned_books:
 last_snip_date: 2024-01-02
 episode_duration_minutes: 65
 episode_url: "https://share.snipd.com/episode/0a71419b-01cc-4196-a7d3-ed06ea249077"
-image_url: "Attachments/31076.jpeg"
+image_url: "Snipd/Attachments/31076.jpeg"
 show_url: "https://share.snipd.com/show/82276930-d446-4ee1-b204-84198acb5bfc"
-show_image_url: "Attachments/95815.jpeg"
+show_image_url: "Snipd/Attachments/95815.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 title: "_122 Robert Cialdini - The Principles of Persuasion"
 ---
 # _122 Robert Cialdini - The Principles of Persuasion
-![Cover](../../../Attachments/72412.jpeg)
+![Cover](../../Attachments/72412.jpeg)
 
 ## Episode metadata
 - Episode title: #122 Robert Cialdini - The Principles of Persuasion

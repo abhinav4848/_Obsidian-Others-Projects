@@ -8,16 +8,16 @@ episode_publish_date: 2016-08-21
 last_snip_date: 2023-12-21
 episode_duration_minutes: 22
 episode_url: "https://share.snipd.com/episode/f9b328e4-53ec-4560-ab59-06b8eae16be6"
-image_url: "Attachments/71638.jpeg"
+image_url: "Snipd/Attachments/71638.jpeg"
 show_url: "https://share.snipd.com/show/f24451b4-1e4a-429d-a98f-776c48582a45"
-show_image_url: "Attachments/71638.jpeg"
+show_image_url: "Snipd/Attachments/71638.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 3
 from_snipd: true
 title: "Zig When Others Zag _Creativity Series _12_"
 ---
 # Zig When Others Zag _Creativity Series _12_
-![Cover](../../../Attachments/63883.jpeg)
+![Cover](../../Attachments/63883.jpeg)
 
 ## Episode metadata
 - Episode title: Zig When Others Zag [Creativity Series #12]

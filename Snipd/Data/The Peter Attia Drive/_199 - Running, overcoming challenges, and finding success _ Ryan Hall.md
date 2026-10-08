@@ -10,16 +10,16 @@ mentioned_books:
 last_snip_date: 2024-03-04
 episode_duration_minutes: 176
 episode_url: "https://share.snipd.com/episode/b0fdd616-2cb0-4cc1-8672-6e630812cd84"
-image_url: "Attachments/51957.png"
+image_url: "Snipd/Attachments/51957.png"
 show_url: "https://share.snipd.com/show/aca6b50f-6409-4bfc-914c-8fc585e330ba"
-show_image_url: "Attachments/51957.png"
+show_image_url: "Snipd/Attachments/51957.png"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 2
 from_snipd: true
 title: "_199 - Running, overcoming challenges, and finding success _ Ryan Hall"
 ---
 # _199 - Running, overcoming challenges, and finding success _ Ryan Hall
-![Cover](../../../Attachments/12243.png)
+![Cover](../../Attachments/12243.png)
 
 ## Episode metadata
 - Episode title: #199 - Running, overcoming challenges, and finding success | Ryan Hall

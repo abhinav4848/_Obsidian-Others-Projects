@@ -20,4 +20,4 @@ Nielsen, M. (2018). _Augmenting Long-term Memory_. [http://augmentingcognition
 > In practice, I find myself instinctively and unsystematically doing some things as notes, others as Anki questions, and still other things as both. Overall, it works okay, but my sense is that it could be a lot better if I applied more systematic thought and experimentation. Part of the problem is that I don’t have a very good system for note taking, period! If I worked more on that, I suspect the whole thing would get a lot better. Still, it works okay.
 
 Klein - Seeing What Others Don’t (2013)
-![[Klein - Seeing What Others Don’t (2013).png]]
+![[Andy Matuschak/Attachments/Klein - Seeing What Others Don’t (2013).png]]

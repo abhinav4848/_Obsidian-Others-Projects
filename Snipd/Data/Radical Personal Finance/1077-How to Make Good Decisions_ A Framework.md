@@ -8,7 +8,7 @@ episode_duration_minutes: 42
 episode_url: "https://share.snipd.com/episode/35416015-1f0a-4b84-9aad-5897e87525ff"
 image_url: "https://wsrv.nl/?url=https%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F1%2F4%2Ff%2Fd%2F14fd243124a78fb7d959afa2a1bf1c87%2F1077.webp&w=500&h=500"
 show_url: "https://share.snipd.com/show/4101b8c0-775b-44c1-8327-b728f73d428c"
-show_image_url: "Attachments/61965.jpeg"
+show_image_url: "Snipd/Attachments/61965.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true

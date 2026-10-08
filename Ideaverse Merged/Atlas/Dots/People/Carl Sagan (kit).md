@@ -47,7 +47,7 @@ Carl Sagan has earned my highest praise out of basically anyone I know.
 
 The [[1980 - Cosmos - A Personal Voyage (Carl Sagan)|1980 show "Cosmos"]] was an internal inflection point for me. 
 
-![[Ideaverse Merged/x/Images/pale-blue-dot-banner.jpg]]
+![[Ideaverse Merged/Attachments/pale-blue-dot-banner.jpg]]
 
 ## Extra
 ###### Pale Blue Dot: Chapter 3, *The Great Demotions*

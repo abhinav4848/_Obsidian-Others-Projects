@@ -8,16 +8,16 @@ episode_publish_date: 2023-10-27
 last_snip_date: 2023-11-02
 episode_duration_minutes: 88
 episode_url: "https://share.snipd.com/episode/a41b4da1-865d-4b31-9f02-fec9e801f263"
-image_url: "Attachments/41051.jpeg"
+image_url: "Snipd/Attachments/41051.jpeg"
 show_url: "https://share.snipd.com/show/b5fb787f-65e2-4e4d-bcc8-e8aaffeabc7e"
-show_image_url: "Attachments/41051.jpeg"
+show_image_url: "Snipd/Attachments/41051.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 3
 from_snipd: true
 title: "_421_ Scott H. Young – The Art Of Learning"
 ---
 # _421_ Scott H. Young – The Art Of Learning
-![Cover](../../../Attachments/31252.jpeg)
+![Cover](../../Attachments/31252.jpeg)
 
 ## Episode metadata
 - Episode title: #421: Scott H. Young – The Art Of Learning

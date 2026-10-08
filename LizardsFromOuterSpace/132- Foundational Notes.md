@@ -10,6 +10,6 @@ When thinking about basic knowledge, it can be well established and already defi
 
 Notes on structural knowledge are for mapping out an idea, in which you think you’ll forget the map. I will often do this with the use of bullet point lists at the end of notes. An example of this would be [Note 111](https://forum.obsidian.md/t/obsidian-zettelkasten/1999/112), pictured below.
 
-![[Lizard men from space-111.png]]
+![[LizardsFromOuterSpace/Attachments/Lizard men from space-111.png]]
 
 I will often put a #todo at the end of it as a reminder to come back and create notes around the different parts of the map/outline.

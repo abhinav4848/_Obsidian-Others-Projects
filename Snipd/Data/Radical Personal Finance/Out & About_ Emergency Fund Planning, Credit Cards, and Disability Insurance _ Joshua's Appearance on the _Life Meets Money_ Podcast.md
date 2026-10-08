@@ -6,16 +6,16 @@ episode_publish_date: 2020-10-27
 last_snip_date: 2024-06-18
 episode_duration_minutes: 115
 episode_url: "https://share.snipd.com/episode/464f8228-2ff1-4fc7-991f-0b3b17768849"
-image_url: "Attachments/61965.jpeg"
+image_url: "Snipd/Attachments/61965.jpeg"
 show_url: "https://share.snipd.com/show/4101b8c0-775b-44c1-8327-b728f73d428c"
-show_image_url: "Attachments/61965.jpeg"
+show_image_url: "Snipd/Attachments/61965.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 11
 from_snipd: true
 title: "Out & About_ Emergency Fund Planning, Credit Cards, and Disability Insurance _ Joshua's Appearance on the _Life Meets Money_ Podcast"
 ---
 # Out & About_ Emergency Fund Planning, Credit Cards, and Disability Insurance _ Joshua's Appearance on the _Life Meets Money_ Podcast
-![Cover](../../../Attachments/32315.jpeg)
+![Cover](../../Attachments/32315.jpeg)
 
 ## Episode metadata
 - Episode title: Out & About: Emergency Fund Planning, Credit Cards, and Disability Insurance | Joshua's Appearance on the "Life Meets Money" Podcast

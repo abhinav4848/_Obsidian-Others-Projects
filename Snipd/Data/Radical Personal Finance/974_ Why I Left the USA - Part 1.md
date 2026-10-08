@@ -6,16 +6,16 @@ episode_publish_date: 2023-10-30
 last_snip_date: 2023-11-07
 episode_duration_minutes: 60
 episode_url: "https://share.snipd.com/episode/b38c2a1e-39e0-4e5f-aa74-29eaa7dbbaa8"
-image_url: "Attachments/05847.jpeg"
+image_url: "Snipd/Attachments/05847.jpeg"
 show_url: "https://share.snipd.com/show/4101b8c0-775b-44c1-8327-b728f73d428c"
-show_image_url: "Attachments/61965.jpeg"
+show_image_url: "Snipd/Attachments/61965.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 4
 from_snipd: true
 title: "974_ Why I Left the USA - Part 1"
 ---
 # 974_ Why I Left the USA - Part 1
-![Cover](../../../Attachments/11930.jpeg)
+![Cover](../../Attachments/11930.jpeg)
 
 ## Episode metadata
 - Episode title: 974: Why I Left the USA - Part 1

@@ -6,16 +6,16 @@ episode_publish_date: 2016-10-03
 last_snip_date: 2024-01-02
 episode_duration_minutes: 26
 episode_url: "https://share.snipd.com/episode/c8217c45-a52c-468f-83ae-c2e0920c6f0f"
-image_url: "Attachments/71638.jpeg"
+image_url: "Snipd/Attachments/71638.jpeg"
 show_url: "https://share.snipd.com/show/f24451b4-1e4a-429d-a98f-776c48582a45"
-show_image_url: "Attachments/71638.jpeg"
+show_image_url: "Snipd/Attachments/71638.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 3
 from_snipd: true
 title: "Art of the Unfinished _Creativity Series _18_"
 ---
 # Art of the Unfinished _Creativity Series _18_
-![Cover](../../../Attachments/63883.jpeg)
+![Cover](../../Attachments/63883.jpeg)
 
 ## Episode metadata
 - Episode title: Art of the Unfinished [Creativity Series #18]

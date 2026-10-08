@@ -47,7 +47,7 @@ Many people frame quitting in terms of working a job for oneself: “I’m going
 The deeper problem with quitting in order to do something well-defined is that you’ll be limited to paths you can clearly articulate from within your current world—that is, the confining context of a job. The most meaningful paths probably aren’t on that menu.
 
 This line of reasoning nicely echoes @ufotransluscence’s “Becoming a Magician”, which defines extraordinary growth in terms of becoming a version of yourself which seems impossible, even alien. What got you here won’t get you there. [https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/)  
-![](23159.png)
+![](Attachments/23159.png)
 
 One important claim Wolf makes is that yes, of course, stepping off a well-defined career track requires a great deal of privilege. But many—most?—of the people who _could_ take that leap wrongly think of it as a fairy-tale, something only “other people” could do.
 

@@ -16,7 +16,7 @@ Honor it. Keep it relevant. And give as much useable value as possible.
 - [[Ideaverse Merged/Efforts/On/🌌 Ideaverse Kit Launch (E) (Example)]]
 
 > [!Rocket]+ The Ship of the Ideator
-> ![[Ideaverse Merged/x/Images/robert-mccall-space-ship-launch-mid.jpg]]
+> ![[Ideaverse Merged/Attachments/robert-mccall-space-ship-launch-mid.jpg]]
 ## Previous efforts
 This has previously been the 🧰 LYT Kit.
 

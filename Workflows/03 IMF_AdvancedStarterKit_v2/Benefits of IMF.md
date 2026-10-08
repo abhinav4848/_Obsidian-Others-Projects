@@ -17,7 +17,7 @@ The IMF framework is filled with your personalized reminders of important catego
 
 ### Enhances Note Retrieval
 Note retrieval becomes easier when you're staring at many possible access points: your main categories, contexts, maps, and tags. Notes become tethered like Wolverine:
-![[Wolverine tethered.jpg]]
+![[Workflows/Attachments/Wolverine tethered.jpg]]
 
 ### Allievates Overwhelm
 [[Maps of Content]] (MOCs) are your key to adding structure to the chaos, especially as your digital library grows. The ability to sense the tickle of anxiety and build an MOC is oftentimes the difference between a finished project and an abandoned one.

@@ -14,7 +14,7 @@ Q. What antidote does Ken Kocienda suggest to the problem of feeling frustrate
 A. The key question: What’s the most important thing I could be doing right now to make progress on the project? Do that. Don’t worry about the parts that remain frozen. If you keep answering the question, eventually, their time will come. 
 
 Image of the tweet
-![[Andy- Everything takes longer than you think it will.png|Untitled]]
+![[Andy Matuschak/Attachments/Andy- Everything takes longer than you think it will.png|Untitled]]
 
 Embed of the tweet
 ![https://twitter.com/kocienda/status/1422043864970326020](https://twitter.com/kocienda/status/1422043864970326020)

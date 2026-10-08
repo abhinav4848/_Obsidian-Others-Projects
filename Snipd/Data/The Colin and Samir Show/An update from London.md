@@ -6,16 +6,16 @@ episode_publish_date: 2023-07-20
 last_snip_date: 2023-09-04
 episode_duration_minutes: 51
 episode_url: "https://share.snipd.com/episode/1d6e52f3-334e-45e4-ad8c-a656c97da070"
-image_url: "Attachments/20161.jpeg"
+image_url: "Snipd/Attachments/20161.jpeg"
 show_url: "https://share.snipd.com/show/c318a019-361a-4eaf-bfa8-00ba97ad3dae"
-show_image_url: "Attachments/20161.jpeg"
+show_image_url: "Snipd/Attachments/20161.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 title: "An update from London"
 ---
 # An update from London
-![Cover](../../../Attachments/88455.jpeg)
+![Cover](../../Attachments/88455.jpeg)
 
 ## Episode metadata
 - Episode title: An update from London

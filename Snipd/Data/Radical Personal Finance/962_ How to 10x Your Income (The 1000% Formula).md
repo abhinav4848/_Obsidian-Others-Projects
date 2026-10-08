@@ -6,16 +6,16 @@ episode_publish_date: 2023-09-07
 last_snip_date: 2023-10-28
 episode_duration_minutes: 32
 episode_url: "https://share.snipd.com/episode/8bf90b66-9138-4522-8957-192a3fcaa6d5"
-image_url: "Attachments/61965.jpeg"
+image_url: "Snipd/Attachments/61965.jpeg"
 show_url: "https://share.snipd.com/show/4101b8c0-775b-44c1-8327-b728f73d428c"
-show_image_url: "Attachments/61965.jpeg"
+show_image_url: "Snipd/Attachments/61965.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 6
 from_snipd: true
 title: "962_ How to 10x Your Income (The 1000% Formula)"
 ---
 # 962_ How to 10x Your Income (The 1000% Formula)
-![Cover](../../../Attachments/32315.jpeg)
+![Cover](../../Attachments/32315.jpeg)
 
 ## Episode metadata
 - Episode title: 962: How to 10x Your Income (The 1000% Formula)

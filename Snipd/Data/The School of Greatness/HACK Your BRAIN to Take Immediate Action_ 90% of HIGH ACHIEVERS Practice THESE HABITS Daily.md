@@ -14,16 +14,16 @@ mentioned_books:
 last_snip_date: 2024-06-07
 episode_duration_minutes: 80
 episode_url: "https://share.snipd.com/episode/3847f13d-5b0f-4c5b-a7f8-cf7339e03293"
-image_url: "Attachments/22462.jpeg"
+image_url: "Snipd/Attachments/22462.jpeg"
 show_url: "https://share.snipd.com/show/c20d1ab1-f474-4761-93e4-3e85a0d1dbeb"
-show_image_url: "Attachments/84010.jpeg"
+show_image_url: "Snipd/Attachments/84010.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 10
 from_snipd: true
 title: "HACK Your BRAIN to Take Immediate Action_ 90% of HIGH ACHIEVERS Practice THESE HABITS Daily"
 ---
 # HACK Your BRAIN to Take Immediate Action_ 90% of HIGH ACHIEVERS Practice THESE HABITS Daily
-![Cover](../../../Attachments/35423.jpeg)
+![Cover](../../Attachments/35423.jpeg)
 
 ## Episode metadata
 - Episode title: HACK Your BRAIN to Take Immediate Action: 90% of HIGH ACHIEVERS Practice THESE HABITS Daily

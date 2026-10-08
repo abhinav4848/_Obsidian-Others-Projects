@@ -10,16 +10,16 @@ mentioned_books:
 last_snip_date: 2023-10-25
 episode_duration_minutes: 114
 episode_url: "https://share.snipd.com/episode/148fa7b3-e693-472e-adb1-e3148a9c8498"
-image_url: "Attachments/36377.jpeg"
+image_url: "Snipd/Attachments/36377.jpeg"
 show_url: "https://share.snipd.com/show/9d54fd6b-8ff7-41e9-80e6-fb1c01e92949"
-show_image_url: "Attachments/36377.jpeg"
+show_image_url: "Snipd/Attachments/36377.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 20
 from_snipd: true
 title: "_685 - Rich Roll - Stop Making Excuses & Transform Your Life"
 ---
 # _685 - Rich Roll - Stop Making Excuses & Transform Your Life
-![Cover](../../../Attachments/48639.jpeg)
+![Cover](../../Attachments/48639.jpeg)
 
 ## Episode metadata
 - Episode title: #685 - Rich Roll - Stop Making Excuses & Transform Your Life

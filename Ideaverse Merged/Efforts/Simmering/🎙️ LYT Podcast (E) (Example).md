@@ -14,7 +14,7 @@ title: "🎙️ LYT Podcast (E) (Example)"
 # 🎙️ LYT Podcast (E) (Example)
 ## Testing out Podcast names
 > [!camera]- Results from Newsletter and Twitter
-> ![[Ideaverse Merged/x/Images/CleanShot 2023-07-30 at 21.37.43.png]]
+> ![[Ideaverse Merged/Attachments/CleanShot 2023-07-30 at 21.37.43.png]]
 
 
 

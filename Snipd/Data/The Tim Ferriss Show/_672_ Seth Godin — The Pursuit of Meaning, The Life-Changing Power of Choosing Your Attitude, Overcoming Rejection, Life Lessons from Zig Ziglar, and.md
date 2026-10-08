@@ -24,16 +24,16 @@ mentioned_books:
 last_snip_date: 2023-08-11
 episode_duration_minutes: 99
 episode_url: "https://share.snipd.com/episode/fe382814-7a6f-4191-b20f-5bd66a061c81"
-image_url: "Attachments/02041.jpeg"
+image_url: "Snipd/Attachments/02041.jpeg"
 show_url: "https://share.snipd.com/show/58c6e181-d2ff-4da6-a7ee-39414fb72dba"
-show_image_url: "Attachments/02041.jpeg"
+show_image_url: "Snipd/Attachments/02041.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 title: "_672_ Seth Godin — The Pursuit of Meaning, The Life-Changing Power of Choosing Your Attitude, Overcoming Rejection, Life Lessons from Zig Ziglar, and"
 ---
 # _672_ Seth Godin — The Pursuit of Meaning, The Life-Changing Power of Choosing Your Attitude, Overcoming Rejection, Life Lessons from Zig Ziglar, and
-![Cover](../../../Attachments/66166.jpeg)
+![Cover](../../Attachments/66166.jpeg)
 
 ## Episode metadata
 - Episode title: #672: Seth Godin — The Pursuit of Meaning, The Life-Changing Power of Choosing Your Attitude, Overcoming Rejection, Life Lessons from Zig Ziglar, and Committing to Making Positive Change

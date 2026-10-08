@@ -9,7 +9,7 @@ For unidimensional stimuli, the [[Channel capacity of humans as information pro
 For example, Miller’s analysis (1956, p. 85-87) of data from Hake and Garner (1951) and Coonan and Klemmer (unpublished communication with Miller) suggest that human channel capacity for points on a line is between {3.2 and 3.9 bits (10-15 categories)}, whereas data from Klemmer and Frick (1953) suggest that human channel capacity for points in a _square_ is about {4.6 bits (~24 categories)}.
 
 Miller’s figure (1956, p. 88) summarizing the data for independently-varying dimensions:  
-![](28593.png)
+![](Attachments/28593.png)
 
 The channel capacity does not increase linearly with the number of dimensions. In fact, as dimensionality increases, channel capacity for any individual variable reliably {decreases} (Miller, 1956, p. 89), so long as {the number of categories to be judged is greater than the dimensionality} (Erikson, 1955, p. 327-329)
 

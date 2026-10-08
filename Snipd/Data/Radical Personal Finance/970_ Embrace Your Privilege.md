@@ -6,16 +6,16 @@ episode_publish_date: 2023-10-04
 last_snip_date: 2023-10-27
 episode_duration_minutes: 25
 episode_url: "https://share.snipd.com/episode/ef500388-ba2d-4ac9-b8cf-e0ea17b0479d"
-image_url: "Attachments/49413.jpeg"
+image_url: "Snipd/Attachments/49413.jpeg"
 show_url: "https://share.snipd.com/show/4101b8c0-775b-44c1-8327-b728f73d428c"
-show_image_url: "Attachments/61965.jpeg"
+show_image_url: "Snipd/Attachments/61965.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 4
 from_snipd: true
 title: "970_ Embrace Your Privilege"
 ---
 # 970_ Embrace Your Privilege
-![Cover](../../../Attachments/13619.jpeg)
+![Cover](../../Attachments/13619.jpeg)
 
 ## Episode metadata
 - Episode title: 970: Embrace Your Privilege

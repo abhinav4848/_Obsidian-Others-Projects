@@ -6,7 +6,7 @@ created: 2020-06-01
 title: "LYT Mode Theme"
 ---
 # LYT Mode Theme
-![[Ideaverse Merged/x/Images/lyt-mode-graphic-1.jpg]]
+![[Ideaverse Merged/Attachments/lyt-mode-graphic-1.jpg]]
 
 LYT Mode is for "Linking Your Thinking". It invokes sensemaking and lateral thinking. It was designed by [@ceciliamay](https://github.com/ceciliamay) on commission from Nick Milo for the purpose of evolving his Cybertron theme. Cyberpunk-inspired,
 

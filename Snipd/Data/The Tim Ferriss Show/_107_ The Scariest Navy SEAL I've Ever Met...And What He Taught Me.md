@@ -8,16 +8,16 @@ episode_publish_date: 2015-09-25
 last_snip_date: 2025-07-08
 episode_duration_minutes: 152
 episode_url: "https://share.snipd.com/episode/8d970b11-9023-409f-82b8-6f9eeb0e4472"
-image_url: "Attachments/02041.jpeg"
+image_url: "Snipd/Attachments/02041.jpeg"
 show_url: "https://share.snipd.com/show/58c6e181-d2ff-4da6-a7ee-39414fb72dba"
-show_image_url: "Attachments/02041.jpeg"
+show_image_url: "Snipd/Attachments/02041.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 4
 from_snipd: true
 title: "_107_ The Scariest Navy SEAL I've Ever Met...And What He Taught Me"
 ---
 # _107_ The Scariest Navy SEAL I've Ever Met...And What He Taught Me
-![Cover](../../../Attachments/66166.jpeg)
+![Cover](../../Attachments/66166.jpeg)
 
 ## Episode metadata
 - Episode title: #107: The Scariest Navy SEAL I've Ever Met...And What He Taught Me

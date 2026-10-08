@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": false,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "showLineNumber": true
 }

@@ -6,7 +6,7 @@ title: "README"
 ## 1) Quick Access
 Click the Snipd icon in the left navigation bar. This will open up the default Base.
 
-![Snipd Ribbon Icon](../Attachments/29959.png)
+![Snipd Ribbon Icon](Attachments/29959.png)
 
 
 ## 2) Base file - Main Entry Point

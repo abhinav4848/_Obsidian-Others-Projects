@@ -6,16 +6,16 @@ episode_publish_date: 2023-09-29
 last_snip_date: 2023-10-05
 episode_duration_minutes: 60
 episode_url: "https://share.snipd.com/episode/42845af2-6c13-4cb1-8b81-4b6922edf480"
-image_url: "Attachments/12202.jpeg"
+image_url: "Snipd/Attachments/12202.jpeg"
 show_url: "https://share.snipd.com/show/530ff123-c550-45dc-ae0e-bbc49a6228e3"
-show_image_url: "Attachments/12202.jpeg"
+show_image_url: "Snipd/Attachments/12202.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 5
 from_snipd: true
 title: "How Polluted Is Your Financial Plan_"
 ---
 # How Polluted Is Your Financial Plan_
-![Cover](../../../Attachments/69685.jpeg)
+![Cover](../../Attachments/69685.jpeg)
 
 ## Episode metadata
 - Episode title: How Polluted Is Your Financial Plan?

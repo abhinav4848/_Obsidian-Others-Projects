@@ -32,7 +32,7 @@ When cooler thoughts prevail, you can better prioritize. Cool?
 
 > [!Notes]- This data view 🔬 only renders in the downloadable version.
 > You won't be able to see the magic unless you download the kit, but here's kind of what it looks like in "Ideaverse Lite"
-> ![[Ideaverse Merged/x/Images/lyt-kit-example-cooling-pad-.png]]
+> ![[Ideaverse Merged/Attachments/lyt-kit-example-cooling-pad-.png]]
 
 ---
 

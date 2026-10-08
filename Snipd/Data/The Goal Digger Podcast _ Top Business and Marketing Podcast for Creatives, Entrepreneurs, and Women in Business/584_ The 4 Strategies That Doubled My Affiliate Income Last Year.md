@@ -6,16 +6,16 @@ episode_publish_date: 2022-07-20
 last_snip_date: 2023-10-03
 episode_duration_minutes: 35
 episode_url: "https://share.snipd.com/episode/24e0eb06-7834-4f09-9b5c-5304b12ecb85"
-image_url: "Attachments/41910.jpeg"
+image_url: "Snipd/Attachments/41910.jpeg"
 show_url: "https://share.snipd.com/show/a2ad956f-c44c-4c6b-bda5-d5b2a70ed740"
-show_image_url: "Attachments/01208.jpeg"
+show_image_url: "Snipd/Attachments/01208.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 title: "584_ The 4 Strategies That Doubled My Affiliate Income Last Year"
 ---
 # 584_ The 4 Strategies That Doubled My Affiliate Income Last Year
-![Cover](../../../Attachments/86012.jpeg)
+![Cover](../../Attachments/86012.jpeg)
 
 ## Episode metadata
 - Episode title: 584: The 4 Strategies That Doubled My Affiliate Income Last Year

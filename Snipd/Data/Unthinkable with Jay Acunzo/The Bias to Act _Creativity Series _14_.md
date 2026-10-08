@@ -8,16 +8,16 @@ episode_publish_date: 2016-09-04
 last_snip_date: 2023-11-02
 episode_duration_minutes: 24
 episode_url: "https://share.snipd.com/episode/fb744dc4-8004-4f0b-9061-e3ca207a08ac"
-image_url: "Attachments/71638.jpeg"
+image_url: "Snipd/Attachments/71638.jpeg"
 show_url: "https://share.snipd.com/show/f24451b4-1e4a-429d-a98f-776c48582a45"
-show_image_url: "Attachments/71638.jpeg"
+show_image_url: "Snipd/Attachments/71638.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 title: "The Bias to Act _Creativity Series _14_"
 ---
 # The Bias to Act _Creativity Series _14_
-![Cover](../../../Attachments/63883.jpeg)
+![Cover](../../Attachments/63883.jpeg)
 
 ## Episode metadata
 - Episode title: The Bias to Act [Creativity Series #14]

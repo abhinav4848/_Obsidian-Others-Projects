@@ -8,16 +8,16 @@ episode_publish_date: 2023-05-01
 last_snip_date: 2023-08-11
 episode_duration_minutes: 150
 episode_url: "https://share.snipd.com/episode/43ef9567-e729-4e78-add5-fadc259d82f5"
-image_url: "Attachments/51957.png"
+image_url: "Snipd/Attachments/51957.png"
 show_url: "https://share.snipd.com/show/aca6b50f-6409-4bfc-914c-8fc585e330ba"
-show_image_url: "Attachments/51957.png"
+show_image_url: "Snipd/Attachments/51957.png"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 title: "_252 ‒ Latest insights on Alzheimer's disease, cancer, exercise, nutrition, and fasting _ Rhonda Patrick, Ph.D"
 ---
 # _252 ‒ Latest insights on Alzheimer's disease, cancer, exercise, nutrition, and fasting _ Rhonda Patrick, Ph.D
-![Cover](../../../Attachments/12243.png)
+![Cover](../../Attachments/12243.png)
 
 ## Episode metadata
 - Episode title: #252 ‒ Latest insights on Alzheimer's disease, cancer, exercise, nutrition, and fasting | Rhonda Patrick, Ph.D.

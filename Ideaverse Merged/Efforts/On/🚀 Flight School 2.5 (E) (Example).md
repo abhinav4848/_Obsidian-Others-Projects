@@ -28,4 +28,4 @@ Tidy up:
 
 
 > [!Rocket]+ Explore the Ideaverse
-> ![[Ideaverse Merged/x/Images/robert-mccall-A_Decade_of_Achievement_narrow.png]]
+> ![[Ideaverse Merged/Attachments/robert-mccall-A_Decade_of_Achievement_narrow.png]]

@@ -8,7 +8,7 @@ You also see this process happening with memory, where information disappears as
 
 See [Memory Consolidation](https://www.wikiwand.com/en/Memory_consolidation)
 
-![](Generalization.png)
+![](Attachments/Generalization.png)
 # Reference
 1. [Wozniak 2020 19](https://supermemo.guru/wiki/Abstract_knowledge)
 2. [Memory consolidation](https://en.wikipedia.org/wiki/Memory_consolidation)

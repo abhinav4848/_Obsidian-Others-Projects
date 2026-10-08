@@ -14,4 +14,4 @@ If a note has an `in` property that includes a link to `Games`, it will show up 
 
 
 > [!Play]+
-> ![[Ideaverse Merged/x/Images/flight-school-hotkey-wide.jpg]]
+> ![[Ideaverse Merged/Attachments/flight-school-hotkey-wide.jpg]]

@@ -6,16 +6,16 @@ episode_publish_date: 2024-04-30
 last_snip_date: 2024-04-30
 episode_duration_minutes: 10
 episode_url: "https://share.snipd.com/episode/0579d9bc-013b-435e-817d-ee5c7c476136"
-image_url: "Attachments/48121.jpeg"
+image_url: "Snipd/Attachments/48121.jpeg"
 show_url: "https://share.snipd.com/show/d0ef4b93-9f55-4893-ae3f-506efc63ce85"
-show_image_url: "Attachments/48121.jpeg"
+show_image_url: "Snipd/Attachments/48121.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 title: "Ep 142_ The Moment That Changed My Life in Business Forever"
 ---
 # Ep 142_ The Moment That Changed My Life in Business Forever
-![Cover](../../../Attachments/40984.jpeg)
+![Cover](../../Attachments/40984.jpeg)
 
 ## Episode metadata
 - Episode title: Ep 142: The Moment That Changed My Life in Business Forever

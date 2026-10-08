@@ -6,16 +6,16 @@ episode_publish_date: 2024-10-02
 last_snip_date: 2025-11-29
 episode_duration_minutes: 51
 episode_url: "https://share.snipd.com/episode/2849ed79-dcc7-4d02-857e-a3a2083a08bb"
-image_url: "Attachments/32136.jpeg"
+image_url: "Snipd/Attachments/32136.jpeg"
 show_url: "https://share.snipd.com/show/be3dac6f-41f7-4cee-bc7e-5bd4d6705aab"
-show_image_url: "Attachments/26393.jpeg"
+show_image_url: "Snipd/Attachments/26393.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 title: "The Greatest Lie Ever Told"
 ---
 # The Greatest Lie Ever Told
-![Cover](../../../Attachments/21687.jpeg)
+![Cover](../../Attachments/21687.jpeg)
 
 ## Episode metadata
 - Episode title: The Greatest Lie Ever Told

@@ -6,16 +6,16 @@ episode_publish_date: 2024-10-30
 last_snip_date: 2024-10-30
 episode_duration_minutes: 13
 episode_url: "https://share.snipd.com/episode/ef761d18-0314-466a-8013-7d86414c0f4c"
-image_url: "Attachments/55910.png"
+image_url: "Snipd/Attachments/55910.png"
 show_url: "https://share.snipd.com/show/99b38356-2def-4b93-acb8-1c6c219f64dc"
-show_image_url: "Attachments/55910.png"
+show_image_url: "Snipd/Attachments/55910.png"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 title: "407_ Making Money - The skill you need to develop"
 ---
 # 407_ Making Money - The skill you need to develop
-![Cover](../../../Attachments/16643.png)
+![Cover](../../Attachments/16643.png)
 
 ## Episode metadata
 - Episode title: 407: Making Money - The skill you need to develop

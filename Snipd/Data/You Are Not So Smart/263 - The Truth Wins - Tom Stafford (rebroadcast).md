@@ -8,16 +8,16 @@ episode_publish_date: 2023-07-09
 last_snip_date: 2023-08-12
 episode_duration_minutes: 46
 episode_url: "https://share.snipd.com/episode/38a5a4d8-cc3e-474e-9adc-b644e6197637"
-image_url: "Attachments/10930.jpeg"
+image_url: "Snipd/Attachments/10930.jpeg"
 show_url: "https://share.snipd.com/show/b71dac33-26f8-4f04-8bfe-707c4568cbe1"
-show_image_url: "Attachments/10930.jpeg"
+show_image_url: "Snipd/Attachments/10930.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 title: "263 - The Truth Wins - Tom Stafford (rebroadcast)"
 ---
 # 263 - The Truth Wins - Tom Stafford (rebroadcast)
-![Cover](../../../Attachments/61595.jpeg)
+![Cover](../../Attachments/61595.jpeg)
 
 ## Episode metadata
 - Episode title: 263 - The Truth Wins - Tom Stafford (rebroadcast)

@@ -13,7 +13,7 @@ Your launchpad and home base. That's here. That's **home**.
 >   
 > > [!wandy] Workflow: [[Ideaverse Merged/Atlas/Dots/Things/ARC Ideation]]
 >   
-> ![[Ideaverse Merged/x/Images/mckie-ship-and-sea-mid-narrow-.jpg|400]]
+> ![[Ideaverse Merged/Attachments/mckie-ship-and-sea-mid-narrow-.jpg|400]]
 > 
 > > *Want to manage your knowledge?*
 > 
@@ -33,7 +33,7 @@ Your launchpad and home base. That's here. That's **home**.
 >   
 > > [!projector] Workflow: [[Ideaverse Merged/Atlas/Dots/Things/First Light, Last Light]]
 >   
-> ![[Ideaverse Merged/x/Images/robert-mccall-space-ship-launch-narrower.png|400]]
+> ![[Ideaverse Merged/Attachments/robert-mccall-space-ship-launch-narrower.png|400]]
 >   
 > - To capture specific type of things, go to [[Ideaverse Merged/Calendar/Logs/Logs (Example)|Logs]].
 > - To broadly reflect, go to [[Ideaverse Merged/Atlas/Maps/Plan and Review]].
@@ -78,7 +78,7 @@ Your launchpad and home base. That's here. That's **home**.
 > > SORT rank desc
 > > ```
 > 
-> ![[Ideaverse Merged/x/Images/robert-mccall-black-hole-concept-art copy.jpg|400]]
+> ![[Ideaverse Merged/Attachments/robert-mccall-black-hole-concept-art copy.jpg|400]]
 
 ---
 
@@ -189,7 +189,7 @@ Your launchpad and home base. That's here. That's **home**.
 >
 > > [!scatterchart] Workflow: [[Ideaverse Merged/Atlas/Dots/Things/Effort Maestro]]
 
-![[Ideaverse Merged/x/Images/pale-blue-dot-banner.jpg]]
+![[Ideaverse Merged/Attachments/pale-blue-dot-banner.jpg]]
 
 > [!revolve]- # Specialty Maps
 > > [!rocket] Advanced Ideation
@@ -197,7 +197,7 @@ Your launchpad and home base. That's here. That's **home**.
 > > - Dive deeply into [[Ideaverse Merged/Atlas/Maps/Idea Development]]. 
 > > - Keep calm and orderly with [[Ideaverse Merged/Atlas/Maps/Idea Maintenance]].
 > 
-> ![[Ideaverse Merged/x/Images/whelan-the-wave-1994.jpg|200]]
+> ![[Ideaverse Merged/Attachments/whelan-the-wave-1994.jpg|200]]
 > 
 > > [!radar] Neat Views
 > > - Drag [[Ideaverse Merged/Atlas/Maps/Recents]] into the sidebar. 
@@ -210,7 +210,7 @@ Your launchpad and home base. That's here. That's **home**.
 > 
 > Go to [[Ideaverse Merged/Atlas/Maps/Prompts]] for all the current prompts provided.
 > 
-> ![[Ideaverse Merged/x/Images/robert-mccall-space-deep-space-ship-IDV-Pro.jpg|600]]
+> ![[Ideaverse Merged/Attachments/robert-mccall-space-deep-space-ship-IDV-Pro.jpg|600]]
 > 
 > - To prompt your analytical and critical thinking
 > 	- [[Ideaverse Merged/x/Prompts/Prompt - Thought Unpacking Machine]]

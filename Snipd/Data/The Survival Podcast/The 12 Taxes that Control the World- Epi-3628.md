@@ -6,16 +6,16 @@ episode_publish_date: 2025-02-17
 last_snip_date: 2025-03-20
 episode_duration_minutes: 126
 episode_url: "https://share.snipd.com/episode/94e75022-0f22-4aa3-8827-15b32259b9b8"
-image_url: "Attachments/76654.jpeg"
+image_url: "Snipd/Attachments/76654.jpeg"
 show_url: "https://share.snipd.com/show/4747ab19-99fc-4354-b864-8c994b216eac"
-show_image_url: "Attachments/76654.jpeg"
+show_image_url: "Snipd/Attachments/76654.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 2
 from_snipd: true
 title: "The 12 Taxes that Control the World- Epi-3628"
 ---
 # The 12 Taxes that Control the World- Epi-3628
-![Cover](../../../Attachments/01184.jpeg)
+![Cover](../../Attachments/01184.jpeg)
 
 ## Episode metadata
 - Episode title: The 12 Taxes that Control the World- Epi-3628

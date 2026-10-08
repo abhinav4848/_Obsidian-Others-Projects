@@ -14,16 +14,16 @@ mentioned_books:
 last_snip_date: 2025-03-11
 episode_duration_minutes: 216
 episode_url: "https://share.snipd.com/episode/f64d1c8d-38b8-4e13-8558-f35339a6ce39"
-image_url: "Attachments/09892.png"
+image_url: "Snipd/Attachments/09892.png"
 show_url: "https://share.snipd.com/show/fba0bb28-dc65-4d90-a5d3-2894a13c80bc"
-show_image_url: "Attachments/09892.png"
+show_image_url: "Snipd/Attachments/09892.png"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 title: "How to Get Rich_ Every Episode"
 ---
 # How to Get Rich_ Every Episode
-![Cover](../../../Attachments/83747.png)
+![Cover](../../Attachments/83747.png)
 
 ## Episode metadata
 - Episode title: How to Get Rich: Every Episode

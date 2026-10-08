@@ -6,16 +6,16 @@ episode_publish_date: 2024-03-05
 last_snip_date: 2024-05-29
 episode_duration_minutes: 110
 episode_url: "https://share.snipd.com/episode/9b557991-1337-4e06-8296-376749fc935b"
-image_url: "Attachments/44833.jpeg"
+image_url: "Snipd/Attachments/44833.jpeg"
 show_url: "https://share.snipd.com/show/4101b8c0-775b-44c1-8327-b728f73d428c"
-show_image_url: "Attachments/61965.jpeg"
+show_image_url: "Snipd/Attachments/61965.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 3
 from_snipd: true
 title: "1000_ Episode 1,000_ The Story of the Accomplishment of My Ten-Year Goal"
 ---
 # 1000_ Episode 1,000_ The Story of the Accomplishment of My Ten-Year Goal
-![Cover](../../../Attachments/42198.jpeg)
+![Cover](../../Attachments/42198.jpeg)
 
 ## Episode metadata
 - Episode title: 1000: Episode 1,000: The Story of the Accomplishment of My Ten-Year Goal

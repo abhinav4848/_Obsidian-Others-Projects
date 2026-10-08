@@ -6,16 +6,16 @@ episode_publish_date: 2023-08-17
 last_snip_date: 2023-09-10
 episode_duration_minutes: 49
 episode_url: "https://share.snipd.com/episode/7aa3b6ca-2d42-4ebf-95ff-34c7f97817c3"
-image_url: "Attachments/20161.jpeg"
+image_url: "Snipd/Attachments/20161.jpeg"
 show_url: "https://share.snipd.com/show/c318a019-361a-4eaf-bfa8-00ba97ad3dae"
-show_image_url: "Attachments/20161.jpeg"
+show_image_url: "Snipd/Attachments/20161.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 7
 from_snipd: true
 title: "7 habits of highly successful YouTubers"
 ---
 # 7 habits of highly successful YouTubers
-![Cover](../../../Attachments/88455.jpeg)
+![Cover](../../Attachments/88455.jpeg)
 
 ## Episode metadata
 - Episode title: 7 habits of highly successful YouTubers

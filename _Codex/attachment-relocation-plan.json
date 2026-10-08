@@ -1,0 +1,4308 @@
+{
+  "stats": {
+    "original_media_files": 166,
+    "collection_attachment_files": 161,
+    "notes_updated": 111,
+    "references_updated": 272,
+    "shared_across_collections": 0,
+    "unreferenced_files_kept_with_original_collection": 11,
+    "attachment_folders": {
+      "Andy Matuschak": 29,
+      "Snipd": 82,
+      "Ideaverse Merged": 39,
+      "LizardsFromOuterSpace": 4,
+      "Workflows": 7
+    }
+  },
+  "assets": [
+    {
+      "original": "Andy Matuschak/_attachments/06855.png",
+      "sha256": "e012acba305cac906b4e85fb78db5cbc26675bc9853130f91f8819e2aa3b45f2",
+      "destinations": [
+        "Andy Matuschak/Attachments/06855.png"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/10797.png",
+      "sha256": "380b604f5852193921848f4aed86cdf5e157c958da64c5df4353092aed941e18",
+      "destinations": [
+        "Andy Matuschak/Attachments/10797.png"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/12772.png",
+      "sha256": "a13b46e3ebd250c5c0622c9a98b0d314fbdead8d20d5e829e2b0d555fd96fdf8",
+      "destinations": [
+        "Andy Matuschak/Attachments/12772.png"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/20979.png",
+      "sha256": "23ab0b76e4d6991e544cfd26bab922927369168a8239aa13d6778395da1fdce5",
+      "destinations": [
+        "Andy Matuschak/Attachments/20979.png"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/23159.png",
+      "sha256": "c0007d4be38eab21674d5bd012ef7357dec2ddff38a7a2a5b9428920a90894db",
+      "destinations": [
+        "Andy Matuschak/Attachments/23159.png"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/24785.png",
+      "sha256": "a13b46e3ebd250c5c0622c9a98b0d314fbdead8d20d5e829e2b0d555fd96fdf8",
+      "destinations": [
+        "Andy Matuschak/Attachments/12772.png"
+      ],
+      "referencing_collections": []
+    },
+    {
+      "original": "Andy Matuschak/_attachments/26404.png",
+      "sha256": "23ab0b76e4d6991e544cfd26bab922927369168a8239aa13d6778395da1fdce5",
+      "destinations": [
+        "Andy Matuschak/Attachments/20979.png"
+      ],
+      "referencing_collections": []
+    },
+    {
+      "original": "Andy Matuschak/_attachments/28593.png",
+      "sha256": "d7f7702ec31a475dea7e3ac5f6e296243767dad145d8f2bf1ae02afc6ebf39df",
+      "destinations": [
+        "Andy Matuschak/Attachments/28593.png"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/29802.png",
+      "sha256": "1e0205399edfcd9586dfdfba24e216f00b750292ed0c5eb676e3c307560418d6",
+      "destinations": [
+        "Andy Matuschak/Attachments/29802.png"
+      ],
+      "referencing_collections": []
+    },
+    {
+      "original": "Andy Matuschak/_attachments/48569.png",
+      "sha256": "8dc3fb3fb33f4bbb87fca3e95e15d0546083d55ef0891e555c55be777f8f510e",
+      "destinations": [
+        "Andy Matuschak/Attachments/48569.png"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/54970.png",
+      "sha256": "23ab0b76e4d6991e544cfd26bab922927369168a8239aa13d6778395da1fdce5",
+      "destinations": [
+        "Andy Matuschak/Attachments/20979.png"
+      ],
+      "referencing_collections": []
+    },
+    {
+      "original": "Andy Matuschak/_attachments/56984.png",
+      "sha256": "6ae2ef1f3efe564043a8c127edc3d8000eaa3516f48bfd81bf7af01101946771",
+      "destinations": [
+        "Andy Matuschak/Attachments/56984.png"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/64645.png",
+      "sha256": "ab431380e1ae683f4b2c05a1651385337e7d7c4b86e6b913d5f97d72ae9cd0a7",
+      "destinations": [
+        "Andy Matuschak/Attachments/64645.png"
+      ],
+      "referencing_collections": []
+    },
+    {
+      "original": "Andy Matuschak/_attachments/71339.png",
+      "sha256": "1e0205399edfcd9586dfdfba24e216f00b750292ed0c5eb676e3c307560418d6",
+      "destinations": [
+        "Andy Matuschak/Attachments/29802.png"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/87183.png",
+      "sha256": "ab431380e1ae683f4b2c05a1651385337e7d7c4b86e6b913d5f97d72ae9cd0a7",
+      "destinations": [
+        "Andy Matuschak/Attachments/64645.png"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/Adler, van Doren - 1972 - How to Read a Book.pdf",
+      "sha256": "5be733d378b139481187a8ce058d5a1322e0ce919c36d066f582897354260e94",
+      "destinations": [
+        "Andy Matuschak/Attachments/Adler, van Doren - 1972 - How to Read a Book.pdf"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/Agarwal et al - 2008 - Examining the testing effect with open- and closed-book tests.pdf",
+      "sha256": "209752bd276d7007190e07ab5a19e63763617bd822ec625e0854154f8c07be64",
+      "destinations": [
+        "Andy Matuschak/Attachments/Agarwal et al - 2008 - Examining the testing effect with open- and closed-book tests.pdf"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/agency plus automation- designing artificial intelligence into interactive systems (2018).pdf",
+      "sha256": "129612c2701ad1a00cef697b97af396cff39f2f72570d2adf8f82b1d55b4a209",
+      "destinations": [
+        "Andy Matuschak/Attachments/agency plus automation- designing artificial intelligence into interactive systems (2018).pdf"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/Andy- Everything takes longer than you think it will.png",
+      "sha256": "843d9a6a7d1658ef1136c3c8f6ed44d3b6d8028be82c7e0cfea019c1888a7e6e",
+      "destinations": [
+        "Andy Matuschak/Attachments/Andy- Everything takes longer than you think it will.png"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/Andy- Messy thought Neat thought 1.png",
+      "sha256": "5cdd392b0aade92372000ebe460107dd3de5c0ab124dccd009f85938929337ff",
+      "destinations": [
+        "Andy Matuschak/Attachments/Andy- Messy thought Neat thought 1.png"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/Andy- Messy thought Neat thought 2.png",
+      "sha256": "9a6d741b66f7cff4f59cdc6126e593c693e13418516b575178248672af211c1d",
+      "destinations": [
+        "Andy Matuschak/Attachments/Andy- Messy thought Neat thought 2.png"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/Andy- Messy thought Neat thought 3.png",
+      "sha256": "0c8d047c152ce0ad44e89410ce0dbd35407c23a7133a853df420a39ac57ded5e",
+      "destinations": [
+        "Andy Matuschak/Attachments/Andy- Messy thought Neat thought 3.png"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/Andy- Messy thought Neat thought 4.png",
+      "sha256": "e3907b15e3b50b3c2611c6554ec8cc709b4c78039b380ceea6c8f886cb6d3baa",
+      "destinations": [
+        "Andy Matuschak/Attachments/Andy- Messy thought Neat thought 4.png"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/Arnold, McDermott - 2013 - Test-Potentiated Learning.pdf",
+      "sha256": "4e793386fb220041ff5e7a3069be5f86eb651c8df7872682f1590c6d344b127c",
+      "destinations": [
+        "Andy Matuschak/Attachments/Arnold, McDermott - 2013 - Test-Potentiated Learning.pdf"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/channel capacity expands almost linearly with bits-per-chunk.png",
+      "sha256": "9fb9c0ae4d51514d4084233587f9d0e81867500fa51ab3e1deb5ffaf27c95f69",
+      "destinations": [
+        "Andy Matuschak/Attachments/channel capacity expands almost linearly with bits-per-chunk.png"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/Chi et al - 1994 - Eliciting self-explanations improves understanding.pdf",
+      "sha256": "abfb8fa4a373e2c63c210e60688c7a09e9416c1968ba53548f73ca56f7663e00",
+      "destinations": [
+        "Andy Matuschak/Attachments/Chi et al - 1994 - Eliciting self-explanations improves understanding.pdf"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/Dunlosky et al - 2013 - Improving Students’ Learning With Effective Learning Techniques.pdf",
+      "sha256": "f551a6008f7bd8f3bf300c040563d06cdefeff5d80668f79b2688c5010fc82e4",
+      "destinations": [
+        "Andy Matuschak/Attachments/Dunlosky et al - 2013 - Improving Students’ Learning With Effective Learning Techniques.pdf"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/Hamaker - 1986 - The Effects of Adjunct Questions on Prose Learning.pdf",
+      "sha256": "2f3ff47a6d3bc500e413bad16dfa421d070bc4a9b53f4a84cf5ebc910fce0589",
+      "destinations": [
+        "Andy Matuschak/Attachments/Hamaker - 1986 - The Effects of Adjunct Questions on Prose Learning.pdf"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/Klein - Seeing What Others Don’t (2013).png",
+      "sha256": "04a4ab2182fd0b5f5cd0bc23d53c48ae3742d5c85a865eb65222c754953a89b8",
+      "destinations": [
+        "Andy Matuschak/Attachments/Klein - Seeing What Others Don’t (2013).png"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/Pressley et al - 1990 - Sometimes Adults Miss the Main Ideas and Do Not Realize It.pdf",
+      "sha256": "4c7f08d1020dd809973ec0c714b59d35ce8a00959e5239a9a25a79877b643202",
+      "destinations": [
+        "Andy Matuschak/Attachments/Pressley et al - 1990 - Sometimes Adults Miss the Main Ideas and Do Not Realize It.pdf"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/Pressley et al - 1997 - Some of the Reasons Why Preparing for Exams Is So Hard.pdf",
+      "sha256": "1a761dc602987345ce213c226f1b986687f4ee0b736190900d172aa3392791d2",
+      "destinations": [
+        "Andy Matuschak/Attachments/Pressley et al - 1997 - Some of the Reasons Why Preparing for Exams Is So Hard.pdf"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/Pressley, Afflerbach - 1995 - Verbal Protocols of Reading.pdf",
+      "sha256": "ed817a482942e7fe101fd96ddb7938f3d84268b9f6d0f57c4da6be74de2fe305",
+      "destinations": [
+        "Andy Matuschak/Attachments/Pressley, Afflerbach - 1995 - Verbal Protocols of Reading.pdf"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/Simpson et al - 1994 - Elaborative verbal rehearsals and college students' cognitive performance.pdf",
+      "sha256": "7c7e5ccecc6d9da14359e7ae86ae36ed7215a2bf5e96d8cece0cd61f3c790084",
+      "destinations": [
+        "Andy Matuschak/Attachments/Simpson et al - 1994 - Elaborative verbal rehearsals and college students' cognitive performance.pdf"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Andy Matuschak/_attachments/Wyatt et al - 1993 - Comprehension strategies, worth and credibility monitoring, and evaluations.pdf",
+      "sha256": "6db1fe03925523ebaf38a3e05d11d7c25e1155cb17605b3b5422b36f620126a8",
+      "destinations": [
+        "Andy Matuschak/Attachments/Wyatt et al - 1993 - Comprehension strategies, worth and credibility monitoring, and evaluations.pdf"
+      ],
+      "referencing_collections": [
+        "Andy Matuschak"
+      ]
+    },
+    {
+      "original": "Attachments/01184.jpeg",
+      "sha256": "ae16e90dd6576dd469c6bfd58bd981905eb92da26aee458e00174f24c264a276",
+      "destinations": [
+        "Snipd/Attachments/01184.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/01208.jpeg",
+      "sha256": "4fa30865112ebb1426adefc2b045ed0ce002f204576337c7f1a67bb87f0626e6",
+      "destinations": [
+        "Snipd/Attachments/01208.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/02041.jpeg",
+      "sha256": "f966cf187ea90ab80166d0ac1fbd67361859519c8cf1c1b1c99661971221da08",
+      "destinations": [
+        "Snipd/Attachments/02041.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/03309.jpeg",
+      "sha256": "13d5136a6cc9bf616541d2d4ee9a74815677d86f367f415559d1aa395816a1c6",
+      "destinations": [
+        "Snipd/Attachments/03309.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/04049.jpeg",
+      "sha256": "c5a20d0c471416a1bb5d12461d4a7df890313ac4147fa4d3dcb40182a7982494",
+      "destinations": [
+        "Snipd/Attachments/04049.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/05847.jpeg",
+      "sha256": "4346b6e5274487487e9b3e6cd269ae514d1cf9d5899e4ad40443c58620adca95",
+      "destinations": [
+        "Snipd/Attachments/05847.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/05997.jpeg",
+      "sha256": "2f36c06cbf69b4bbcf2068623e7463fb45283cd5cc089c7ca873f062cb88be5d",
+      "destinations": [
+        "Snipd/Attachments/05997.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/06582.jpeg",
+      "sha256": "b9356aaeac492ee9c84779f9bc0e2873a2a48a89b461ed51a61c12257f8f9bb2",
+      "destinations": [
+        "Snipd/Attachments/06582.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/09892.png",
+      "sha256": "228cb0e3dba91bafd9e5dea391be57ac5bfbcf9a0ae2b19de165739526d9905c",
+      "destinations": [
+        "Snipd/Attachments/09892.png"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/10930.jpeg",
+      "sha256": "60ce1c08453b64ebdd542eb27779d1d444d937b9d3a37b6a1c8c5dbeadd883bd",
+      "destinations": [
+        "Snipd/Attachments/10930.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/11930.jpeg",
+      "sha256": "66c16629e82d964f9cc2a265b9e9244fada646e8fcec360dba8fdf5271027c2d",
+      "destinations": [
+        "Snipd/Attachments/11930.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/12202.jpeg",
+      "sha256": "1f83c8cfd0dff89efe2af72e1e133d02e5af63ead03bb88e5eaf104bdd40b03a",
+      "destinations": [
+        "Snipd/Attachments/12202.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/12243.png",
+      "sha256": "76ab52611af4e7310dbc8fc2e035a8b8dbf2e15928171d4855091bd24c8436de",
+      "destinations": [
+        "Snipd/Attachments/12243.png"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/12389.jpeg",
+      "sha256": "1ed7c0c69d9b6744e4436b440d2a330f4155a529e54ec7978060fd08ded3d45e",
+      "destinations": [
+        "Snipd/Attachments/12389.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/12479.jpeg",
+      "sha256": "ae534b36ed2cdf4d648d11d7de2ac30597f792ec7d9e221024658b937c284704",
+      "destinations": [
+        "Snipd/Attachments/12479.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/13452.jpeg",
+      "sha256": "85fd6f776992e9c53db67e8d71224990262214e7e59656f25ab300b2f0cd24e8",
+      "destinations": [
+        "Snipd/Attachments/13452.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/13619.jpeg",
+      "sha256": "cc32c0dab63f13a3c4b25d37e59bafda83a36855346df50d234c861b08fc7e52",
+      "destinations": [
+        "Snipd/Attachments/13619.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/14985.png",
+      "sha256": "f093dadf7c03b0383376a05e7243f3cb29ec8022ce5a89721b152f7282b6f857",
+      "destinations": [
+        "Snipd/Attachments/14985.png"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/16643.png",
+      "sha256": "d3e22cfe3f0421b3d0a6da9192b1e916c568d26b66a877f1a015708b3138baff",
+      "destinations": [
+        "Snipd/Attachments/16643.png"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/18854.jpeg",
+      "sha256": "7ed4342bafebad783669d9376d551420c6e9032997b37dea07ac12a3ff868469",
+      "destinations": [
+        "Snipd/Attachments/18854.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/19569.jpeg",
+      "sha256": "b7ee8bef3b0f9763df1382553bd4edfa838409c326526e838e39a95e0848b18c",
+      "destinations": [
+        "Snipd/Attachments/19569.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/20161.jpeg",
+      "sha256": "3408a1e0de77148b6d464063545171b159f2e3066636c0d1a2b3c1d91946fe7c",
+      "destinations": [
+        "Snipd/Attachments/20161.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/21646.jpeg",
+      "sha256": "1c4141961ebe6ae8ca129f28c0cd98a220c2ffd2b320553b25d0834d2fef33f0",
+      "destinations": [
+        "Snipd/Attachments/21646.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/21687.jpeg",
+      "sha256": "e2294152497bd8eea37c0464b7b63d2ead332006d41825dd7d2069577869c613",
+      "destinations": [
+        "Snipd/Attachments/21687.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/22462.jpeg",
+      "sha256": "051cc670112e228d5a9df40a8491df5369aaf815d0d796c6aa0fd05b22c736bf",
+      "destinations": [
+        "Snipd/Attachments/22462.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/23487.jpeg",
+      "sha256": "4426ec6dcce74811d9a807068e0d33f2da7e4c2c335b43c4da63b29539ee73b4",
+      "destinations": [
+        "Snipd/Attachments/23487.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/24429.png",
+      "sha256": "0d19f839d3d23a5ea66925f834f6d67ed53fd6985618463bc43c5896f3fefc35",
+      "destinations": [
+        "Snipd/Attachments/24429.png"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/24796.jpeg",
+      "sha256": "6690b2989e06e4c1511ce3b2486bf7f68af06f306bc85c8dbe7d22289234b3b2",
+      "destinations": [
+        "Snipd/Attachments/24796.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/25459.jpeg",
+      "sha256": "dd976bfb99a0f615c25b48cda5641833dded223dddd9e26b9870e410a1d3b6c1",
+      "destinations": [
+        "Snipd/Attachments/25459.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/26393.jpeg",
+      "sha256": "d8dca65ed12752ac6db766cd8fc11481d72f6f2d698aee6e98e34222801c6072",
+      "destinations": [
+        "Snipd/Attachments/26393.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/29959.png",
+      "sha256": "984f0269cdf57d613166de6ea859cf75f10795a1cdababc1eeb4d8c37910da78",
+      "destinations": [
+        "Snipd/Attachments/29959.png"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/31076.jpeg",
+      "sha256": "2448d4800a51e2687ece043ff31d53e143ec1a18ac8ab924e6d4fd0553cb0342",
+      "destinations": [
+        "Snipd/Attachments/31076.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/31252.jpeg",
+      "sha256": "b865daf55de3fe1daa0fe95464daaa982c944cd0eefa388972ea1f11f918f407",
+      "destinations": [
+        "Snipd/Attachments/31252.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/32136.jpeg",
+      "sha256": "f6be32a3c29a5482247570d9bc86072c4d10c7eb8266d7b3f45fbb50fff3a072",
+      "destinations": [
+        "Snipd/Attachments/32136.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/32315.jpeg",
+      "sha256": "f38b2edc103f32206e794e13b8be2539b8e6a1345e49ed3fc8905cab4c2c366c",
+      "destinations": [
+        "Snipd/Attachments/32315.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/35102.jpeg",
+      "sha256": "5142910bbebf6aaa8716f4877938d613f312fb273e46bd9d0c1bd47750785d48",
+      "destinations": [
+        "Snipd/Attachments/35102.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/35418.png",
+      "sha256": "ee28004d3634e9441b86e2a5a445e916615794dcd9ef18e768f3303062ec4a3a",
+      "destinations": [
+        "Snipd/Attachments/35418.png"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/35423.jpeg",
+      "sha256": "0091719b26bc60fadc132065f09b680fac4c939ed9793949055994bf62ee0c9f",
+      "destinations": [
+        "Snipd/Attachments/35423.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/36377.jpeg",
+      "sha256": "843c42118bc76cd808a0462648ef0623ef4c3a44bc488f2a5c03b000595203c9",
+      "destinations": [
+        "Snipd/Attachments/36377.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/40173.jpeg",
+      "sha256": "1e40bcf8bb43ef9769fa884d937be615365faf9f7e23599cce4b32344d8bb288",
+      "destinations": [
+        "Snipd/Attachments/40173.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/40694.jpeg",
+      "sha256": "41f61c3443442b710de52144f348638c3b5aa60d073cc4136dff81c2486a8c1b",
+      "destinations": [
+        "Snipd/Attachments/40694.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/40984.jpeg",
+      "sha256": "d5ee0901455b43af5d3380d50678a7513dc6f5a7a4c1fbe4e00fc02efebc65f9",
+      "destinations": [
+        "Snipd/Attachments/40984.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/41051.jpeg",
+      "sha256": "5e6b049786be30bba0012349e61a59ee0e3526a6ccadf655414ede6e5d23b467",
+      "destinations": [
+        "Snipd/Attachments/41051.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/41910.jpeg",
+      "sha256": "3be9e4248064e7bd37b5b062aa4d25d668e601330fec5ad3c29f69764c2b55fa",
+      "destinations": [
+        "Snipd/Attachments/41910.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/42198.jpeg",
+      "sha256": "bade4606041602d21a43531cbea07292d08d3c21eb8806e218dbcd6482619b5c",
+      "destinations": [
+        "Snipd/Attachments/42198.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/44833.jpeg",
+      "sha256": "11c63b3667f786bbd7f11bedfaebe9c1a9d78d5010072e9de6d6c72e602303c6",
+      "destinations": [
+        "Snipd/Attachments/44833.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/48121.jpeg",
+      "sha256": "94528f51ae1571a51434cbcb78f7b65129957eccb8ee31dc36f272b5b770af37",
+      "destinations": [
+        "Snipd/Attachments/48121.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/48639.jpeg",
+      "sha256": "b1505c36030e9864f9a8a1d810006d76240c43d5b80d9e1d5b7f5b6b5d7c462a",
+      "destinations": [
+        "Snipd/Attachments/48639.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/49413.jpeg",
+      "sha256": "ce2541ba7344a4c6fee0e22ddc49ff7a3e20004bcf2f7f7de28cc3e21cda6aa6",
+      "destinations": [
+        "Snipd/Attachments/49413.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/49771.jpeg",
+      "sha256": "2ec4f02560726a43a241385a04b12672398a831376371e3610debdad36e85ecd",
+      "destinations": [
+        "Snipd/Attachments/49771.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/50189.jpeg",
+      "sha256": "bd0f87a3e8da6fc2e8894bfb7e595c883e0352055288e8a72eb2a24d22b88b6c",
+      "destinations": [
+        "Snipd/Attachments/50189.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/51573.jpeg",
+      "sha256": "f7c90d46b16b5dddfdee624a4e1dbd3c6eafab3231d044bf8c9e0a3f82b03788",
+      "destinations": [
+        "Snipd/Attachments/51573.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/51618.jpeg",
+      "sha256": "ff559b9270eaf1a0be7c13e596c9c8647a093e15dc5f2565270e2615362c7480",
+      "destinations": [
+        "Snipd/Attachments/51618.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/51957.png",
+      "sha256": "7ceafe4b9e92ac1794c36f1e9f399ec05c4b1c30cfe561f357c88e3690dd6a09",
+      "destinations": [
+        "Snipd/Attachments/51957.png"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/54109.jpeg",
+      "sha256": "20b46e4f2155bd32075dd28f2cfb0cfb098b500a8172369f90b7d722ebe5ba7c",
+      "destinations": [
+        "Snipd/Attachments/54109.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/55910.png",
+      "sha256": "206037ba10dda9a01b501a5a0515ddaad261c4d03b7f8eb17feae99c069c0f28",
+      "destinations": [
+        "Snipd/Attachments/55910.png"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/61595.jpeg",
+      "sha256": "7b03e8296e88d33e617d4e663f4dd3ff02f683c80459e767c34bbeb37ed681b7",
+      "destinations": [
+        "Snipd/Attachments/61595.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/61965.jpeg",
+      "sha256": "de9f2de4142943d4cfbf4a07205dccca053457ee74c42af7fdc205dd7f9199d2",
+      "destinations": [
+        "Snipd/Attachments/61965.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/63883.jpeg",
+      "sha256": "b186522f1de19257c451e6c3dc442801c75a94e46e15b983f47ea504b88240a1",
+      "destinations": [
+        "Snipd/Attachments/63883.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/64269.jpeg",
+      "sha256": "a1ef03d4dbcac35dd5e2393c2b76e9f9da984bb423887f495dd43b5d076e88c2",
+      "destinations": [
+        "Snipd/Attachments/64269.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/64605.jpeg",
+      "sha256": "e9aa918bb58414a67b9b2ded7617428ed30f0a3c648b3308feb65c236b730cc8",
+      "destinations": [
+        "Snipd/Attachments/64605.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/66166.jpeg",
+      "sha256": "117cd972181467ae866bcb5d1a48dcc83a04ced5abbc0a0740e924bd07d83eea",
+      "destinations": [
+        "Snipd/Attachments/66166.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/69019.jpeg",
+      "sha256": "fee5d12f2b64af72b5ba798cff348befa24cae0848e0e7749bb45ab9fc4b30eb",
+      "destinations": [
+        "Snipd/Attachments/69019.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/69685.jpeg",
+      "sha256": "c2d1fadb450db0da5031e8a6901ad2fbeab0e26cd005d118088c5f784c5a4440",
+      "destinations": [
+        "Snipd/Attachments/69685.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/71220.jpeg",
+      "sha256": "71001bb9545b91859c2705392fff1602e6814a6b459dd6478c23059ad84201c2",
+      "destinations": [
+        "Snipd/Attachments/71220.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/71638.jpeg",
+      "sha256": "4e23c777068e481d1cafa818c73a812389eb29329ada95b786dbadd830df7f40",
+      "destinations": [
+        "Snipd/Attachments/71638.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/72412.jpeg",
+      "sha256": "fb9fefe7996d2bb30ff8686cf4db0c925610d9d590c82224d0553570ea6516f7",
+      "destinations": [
+        "Snipd/Attachments/72412.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/74836.jpeg",
+      "sha256": "c9dcbee1f76235fc5620b543c2ed614e74baec92bca5edf4d27fc8a8fc3f0f06",
+      "destinations": [
+        "Snipd/Attachments/74836.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/75745.jpeg",
+      "sha256": "905da928ed63c5751d98e93022c8d6034afc9293f12af8643ffe23bc4f82e0a8",
+      "destinations": [
+        "Snipd/Attachments/75745.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/76654.jpeg",
+      "sha256": "5c9825216c5d5729b38dc64031c81c137afbd0a8c13b3896b6f887eba449e50c",
+      "destinations": [
+        "Snipd/Attachments/76654.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/80741.jpeg",
+      "sha256": "e21ee1855ce33b8b1d288887b3aa630edb3e5fb51526856fb9cb7f35e14c3a83",
+      "destinations": [
+        "Snipd/Attachments/80741.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/82871.png",
+      "sha256": "0dc1909897466cbe60acf611f83a1e089811eb1f0933dbdada1fa70921789d1d",
+      "destinations": [
+        "Snipd/Attachments/82871.png"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/83747.png",
+      "sha256": "4354608cb7bba64a010a56fb8c9097242872f207e64bfe501e55a8112536da77",
+      "destinations": [
+        "Snipd/Attachments/83747.png"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/84010.jpeg",
+      "sha256": "c3b91d21504c67b7debd282b817260e6657adf98e1149483f90ea49c6ccaa05c",
+      "destinations": [
+        "Snipd/Attachments/84010.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/86012.jpeg",
+      "sha256": "65893e4bd820a5ef6880144424856789eb71f31a1e2e92eb4f01d47c3d442771",
+      "destinations": [
+        "Snipd/Attachments/86012.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/88455.jpeg",
+      "sha256": "d70033c2e3c0042a5d50216eb49682cb8f7ce118ce14615a72e39aaea07b090b",
+      "destinations": [
+        "Snipd/Attachments/88455.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/88866.jpeg",
+      "sha256": "87e83d843b0fedb111184ba38e635c40b2c8712f4738d9ea96d4a7067cc981e8",
+      "destinations": [
+        "Snipd/Attachments/88866.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/89219.jpeg",
+      "sha256": "148bf9348acb768dc7eb50a406b64bca8e71248b50c4938b76b08a46f59c408e",
+      "destinations": [
+        "Snipd/Attachments/89219.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/91708.jpeg",
+      "sha256": "e7938d9ddbca213a02b42697d085ec2b681976296da216ada63368e0a93f6baf",
+      "destinations": [
+        "Snipd/Attachments/91708.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/94413.jpeg",
+      "sha256": "7a407f709618173f1ed51f002956a772aed88815f23cc68d9fe9b3bd692b3e83",
+      "destinations": [
+        "Snipd/Attachments/94413.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/95815.jpeg",
+      "sha256": "e24627de365b9e48b26b9f18320048bff8b7408673ffa928872be37adae78909",
+      "destinations": [
+        "Snipd/Attachments/95815.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Attachments/99453.jpeg",
+      "sha256": "a022bc1eed56c20d7a9186ae9e0d14f193a1d97756dab0832314845f9fd76a0c",
+      "destinations": [
+        "Snipd/Attachments/99453.jpeg"
+      ],
+      "referencing_collections": [
+        "Snipd"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/CleanShot 2023-07-30 at 21.37.43.png",
+      "sha256": "db550705de43aaa046e206f022300e1e61dd53ff9c565332a331c90b5996744a",
+      "destinations": [
+        "Ideaverse Merged/Attachments/CleanShot 2023-07-30 at 21.37.43.png"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/feynman-triangulation-1.png",
+      "sha256": "058a24117deec8091f340bc95aa7196a9fd54ae255d919b6586a0b3d91bff7bb",
+      "destinations": [
+        "Ideaverse Merged/Attachments/feynman-triangulation-1.png"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/feynman-triangulation-2.png",
+      "sha256": "31f0e437a3f80bfb0148404ecf7313a537086f5e2bdbdb60aa4b529dca0a53e2",
+      "destinations": [
+        "Ideaverse Merged/Attachments/feynman-triangulation-2.png"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/feynman-triangulation-3.png",
+      "sha256": "7e5fe086637c6ce384591bf0b8d5288facabf139e0eea75195355eba88bf49d3",
+      "destinations": [
+        "Ideaverse Merged/Attachments/feynman-triangulation-3.png"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/flight-school-hotkey-wide.jpg",
+      "sha256": "fd1870368ca883f5a808eb54c078d0be27a802a60a571570dabc685c3cc77b4e",
+      "destinations": [
+        "Ideaverse Merged/Attachments/flight-school-hotkey-wide.jpg"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/flow-four-factors.png",
+      "sha256": "0dd5e08856d740e9aac637e3a59976e6757e1ba5fb19d2310f202849597fef14",
+      "destinations": [
+        "Ideaverse Merged/Attachments/flow-four-factors.png"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/flow-map-original.jpg",
+      "sha256": "a7b4a1013dd70cf55fe858b560cf18efcba16a50b0861abb034f922fd6c519b2",
+      "destinations": [
+        "Ideaverse Merged/Attachments/flow-map-original.jpg"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/flow-map.png",
+      "sha256": "d68a566d38515c82a9cd75ebff26816623e17e7099feaa3539ab8bc91ecce4af",
+      "destinations": [
+        "Ideaverse Merged/Attachments/flow-map.png"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/flow-zone-channel.jpg",
+      "sha256": "701cee2b168e3bc3bb21d98bdf007d58e570d88fcd228cf03068faa53117de9d",
+      "destinations": [
+        "Ideaverse Merged/Attachments/flow-zone-channel.jpg"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/lyt-crafting-mocs-0.jpg",
+      "sha256": "3a1312f10b1d31b66deb49ce3f6bfa4f856d8f103b24ecd360ed22ca3695ecac",
+      "destinations": [
+        "Ideaverse Merged/Attachments/lyt-crafting-mocs-0.jpg"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/lyt-crafting-mocs-1.jpg",
+      "sha256": "70611ec0c3b0924cb07f7897e4975b90a2b34cf6c73a142f75dafa6848aad7bc",
+      "destinations": [
+        "Ideaverse Merged/Attachments/lyt-crafting-mocs-1.jpg"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/lyt-crafting-mocs-2.jpg",
+      "sha256": "66262cc4ec2eef7ffe83fe8965f6c5c1e170ac787168c6446541f413aafd5849",
+      "destinations": [
+        "Ideaverse Merged/Attachments/lyt-crafting-mocs-2.jpg"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/lyt-crafting-mocs-3.jpg",
+      "sha256": "9a13234283e13ef23d74cbbf65b7ca34c23493aa07712127aac5891999c9f3d8",
+      "destinations": [
+        "Ideaverse Merged/Attachments/lyt-crafting-mocs-3.jpg"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/lyt-crafting-mocs-4.jpg",
+      "sha256": "c66382d8cd42c445baffdb2a7812e18374349b768dc95d2654755a6a6211d517",
+      "destinations": [
+        "Ideaverse Merged/Attachments/lyt-crafting-mocs-4.jpg"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/lyt-crafting-mocs-5.jpg",
+      "sha256": "ba08749342a4aab38269129218d676d5cc6ce78a6b7075073785d52570a4bddc",
+      "destinations": [
+        "Ideaverse Merged/Attachments/lyt-crafting-mocs-5.jpg"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/lyt-kit-example-cooling-pad-.png",
+      "sha256": "922b21c5b066f90fc6560e838009f28f5653726ad9661de7087cfd048dfb4720",
+      "destinations": [
+        "Ideaverse Merged/Attachments/lyt-kit-example-cooling-pad-.png"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/lyt-logo-04.png",
+      "sha256": "1f0ff3c39ff8bac8b229e56c87bf53b07dea186419c8b74854ee31a716eaa156",
+      "destinations": [
+        "Ideaverse Merged/Attachments/lyt-logo-04.png"
+      ],
+      "referencing_collections": []
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/lyt-mapping-the-flexible-flow-of-ideas.jpg",
+      "sha256": "276b7dd26457e5bfed3ee4131671c50a2a2955de0eaddec5f237051d4b6be6fe",
+      "destinations": [
+        "Ideaverse Merged/Attachments/lyt-mapping-the-flexible-flow-of-ideas.jpg"
+      ],
+      "referencing_collections": []
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/lyt-mode-graphic-1.jpg",
+      "sha256": "b3d71224d56f2baa74a0589f90d42c742e9421e4770c68e145f6e9d94d755659",
+      "destinations": [
+        "Ideaverse Merged/Attachments/lyt-mode-graphic-1.jpg"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/lyt-note-links-to-other-notes.png",
+      "sha256": "cf0ff4b4bf933da3513eeef2349491bfdb7a2acd8c1b018fe0517ebb0d21ecee",
+      "destinations": [
+        "Ideaverse Merged/Attachments/lyt-note-links-to-other-notes.png"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/McCall-pen-sketch-narrow.jpg",
+      "sha256": "07d0e7bcf8e4d06fe62753fabfef059fc3c9c900d08689a3f8580720ce5c5871",
+      "destinations": [
+        "Ideaverse Merged/Attachments/McCall-pen-sketch-narrow.jpg"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/mckie-ship-and-sea-mid-narrow-.jpg",
+      "sha256": "9bc1753f7ef241de99b65820b5ac71616d16341162350da67f8c9caf7ee61d38",
+      "destinations": [
+        "Ideaverse Merged/Attachments/mckie-ship-and-sea-mid-narrow-.jpg"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/mckie-ship-and-sea-mid-narrow.jpg",
+      "sha256": "886dec5a9003c54694fd01f663f79be7c63e018d827b0b4dd153d800d2c4e169",
+      "destinations": [
+        "Ideaverse Merged/Attachments/mckie-ship-and-sea-mid-narrow.jpg"
+      ],
+      "referencing_collections": []
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/pale-blue-dot-banner.jpg",
+      "sha256": "ec502b2a9587bb347c14f3aca4d2e57d4de5d149adbc0551bfe5b6cf89362829",
+      "destinations": [
+        "Ideaverse Merged/Attachments/pale-blue-dot-banner.jpg"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/ptolemy-model.png",
+      "sha256": "8958c6aa125c4c5eddc990cb41137624b6eefcb006f985b2dd4d40527de0ff5b",
+      "destinations": [
+        "Ideaverse Merged/Attachments/ptolemy-model.png"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/robert-mccall-A_Decade_of_Achievement_narrow.png",
+      "sha256": "21ccd88648ac831daeb66e15a6cc0255977d61290f534f0ef29aa62755e240fb",
+      "destinations": [
+        "Ideaverse Merged/Attachments/robert-mccall-A_Decade_of_Achievement_narrow.png"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/robert-mccall-black-hole-concept-art copy.jpg",
+      "sha256": "649639ade011fe87422c20305f144e6608054ca0c27b944fc80357a8fa07f0a3",
+      "destinations": [
+        "Ideaverse Merged/Attachments/robert-mccall-black-hole-concept-art copy.jpg"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/robert-mccall-black-hole-concept-art-bottom-IDV-Pro.jpg",
+      "sha256": "f5a0cd0318275b22217037bdc5cf6b5444861ef51f0b6398f0d978b04ce19bdf",
+      "destinations": [
+        "Ideaverse Merged/Attachments/robert-mccall-black-hole-concept-art-bottom-IDV-Pro.jpg"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/robert-mccall-black-hole-concept-art-bottom.jpg",
+      "sha256": "eec3a29958794328ef5029e86991716236588f49ad7160e28b423e548716a876",
+      "destinations": [
+        "Ideaverse Merged/Attachments/robert-mccall-black-hole-concept-art-bottom.jpg"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/robert-mccall-space-deep-space-ship-IDV-Pro.jpg",
+      "sha256": "c600b4d853c1c784ee96a4d3aa84c3d565a1fed34aa1459b34c434907a2d00fc",
+      "destinations": [
+        "Ideaverse Merged/Attachments/robert-mccall-space-deep-space-ship-IDV-Pro.jpg"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/robert-mccall-space-ship-launch-mid.jpg",
+      "sha256": "52439c505743c70d0dee665b78ea254846c5cd06e050347f2b1f1f066c29c66b",
+      "destinations": [
+        "Ideaverse Merged/Attachments/robert-mccall-space-ship-launch-mid.jpg"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/robert-mccall-space-ship-launch-narrow.jpg",
+      "sha256": "adbed73669894f3650b87f7bd758e5c323f65164c0dcb1895b39545cdf0aad6c",
+      "destinations": [
+        "Ideaverse Merged/Attachments/robert-mccall-space-ship-launch-narrow.jpg"
+      ],
+      "referencing_collections": []
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/robert-mccall-space-ship-launch-narrower.png",
+      "sha256": "1b8e14e371463aa15af12602d3a7d76f7d672b7ce9bee3b2790952d7e79206fa",
+      "destinations": [
+        "Ideaverse Merged/Attachments/robert-mccall-space-ship-launch-narrower.png"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/sort-by-file-name-a-to-z.png",
+      "sha256": "d2db0ff9bc2430960c45b075fcb1ff441ebc66d6fc6e148fc33d9bf37cee0552",
+      "destinations": [
+        "Ideaverse Merged/Attachments/sort-by-file-name-a-to-z.png"
+      ],
+      "referencing_collections": []
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/stay-on-target.jpg",
+      "sha256": "c0fcec2e9f0dfedf14dc4d1a003e9b03ff864560ae981d4bf9293ad966adfdb9",
+      "destinations": [
+        "Ideaverse Merged/Attachments/stay-on-target.jpg"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/whelan-space-station-1978-mod.jpg",
+      "sha256": "9075e2a9a3a8e088ba7a01e5aa1bcff6b61929c85fc60744687f9ce513d4a904",
+      "destinations": [
+        "Ideaverse Merged/Attachments/whelan-space-station-1978-mod.jpg"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/whelan-space-station-1978-narrow.jpg",
+      "sha256": "143da7d5e6e3281a61c764a522e7926839eef7712b17ebe02e828f15923db643",
+      "destinations": [
+        "Ideaverse Merged/Attachments/whelan-space-station-1978-narrow.jpg"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/whelan-the-wave-1994.jpg",
+      "sha256": "3d46b6bb5859b6f6ff7f09f5f69367fc443c30c9b499074c37ebfaaac82b2182",
+      "destinations": [
+        "Ideaverse Merged/Attachments/whelan-the-wave-1994.jpg"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "Ideaverse Merged/x/Images/wolverine-tethered.jpg",
+      "sha256": "ceb0b7d863804e45453a6b3a9ad7e0eee13366d1094a1bd0ecd431c90d2ab88c",
+      "destinations": [
+        "Ideaverse Merged/Attachments/wolverine-tethered.jpg"
+      ],
+      "referencing_collections": [
+        "Ideaverse Merged"
+      ]
+    },
+    {
+      "original": "LizardsFromOuterSpace/_attachments/Generalization.png",
+      "sha256": "d34a4d5055d50ca406d8c63ead88240321dacfe013910d9f66842aac4317d4df",
+      "destinations": [
+        "LizardsFromOuterSpace/Attachments/Generalization.png"
+      ],
+      "referencing_collections": [
+        "LizardsFromOuterSpace"
+      ]
+    },
+    {
+      "original": "LizardsFromOuterSpace/_attachments/Lizard men from space-111.png",
+      "sha256": "3f4fa42ef3934743e1302ce43d9551ed5f9244c8c5da0dab2cfc157179c51de3",
+      "destinations": [
+        "LizardsFromOuterSpace/Attachments/Lizard men from space-111.png"
+      ],
+      "referencing_collections": [
+        "LizardsFromOuterSpace"
+      ]
+    },
+    {
+      "original": "LizardsFromOuterSpace/_attachments/PARA Structure.png",
+      "sha256": "5aeb87c7b890b738377e6440a3a3179e562c17328fa3e3fa230b67f66fc153bc",
+      "destinations": [
+        "LizardsFromOuterSpace/Attachments/PARA Structure.png"
+      ],
+      "referencing_collections": [
+        "LizardsFromOuterSpace"
+      ]
+    },
+    {
+      "original": "LizardsFromOuterSpace/_attachments/Specialized vs General Knowledge.png",
+      "sha256": "c4189cc9c6faa7ae76cb16c783c509b266c2f1152e5eda34c192e59d7fb0b607",
+      "destinations": [
+        "LizardsFromOuterSpace/Attachments/Specialized vs General Knowledge.png"
+      ],
+      "referencing_collections": [
+        "LizardsFromOuterSpace"
+      ]
+    },
+    {
+      "original": "Workflows/03 IMF_AdvancedStarterKit_v2/_media/Flow Map - Original.jpg",
+      "sha256": "a7b4a1013dd70cf55fe858b560cf18efcba16a50b0861abb034f922fd6c519b2",
+      "destinations": [
+        "Workflows/Attachments/Flow Map - Original.jpg"
+      ],
+      "referencing_collections": [
+        "Workflows"
+      ]
+    },
+    {
+      "original": "Workflows/03 IMF_AdvancedStarterKit_v2/_media/Flow Map.png",
+      "sha256": "d68a566d38515c82a9cd75ebff26816623e17e7099feaa3539ab8bc91ecce4af",
+      "destinations": [
+        "Workflows/Attachments/Flow Map.png"
+      ],
+      "referencing_collections": [
+        "Workflows"
+      ]
+    },
+    {
+      "original": "Workflows/03 IMF_AdvancedStarterKit_v2/_media/Flow Zone Channel.jpg",
+      "sha256": "701cee2b168e3bc3bb21d98bdf007d58e570d88fcd228cf03068faa53117de9d",
+      "destinations": [
+        "Workflows/Attachments/Flow Zone Channel.jpg"
+      ],
+      "referencing_collections": [
+        "Workflows"
+      ]
+    },
+    {
+      "original": "Workflows/03 IMF_AdvancedStarterKit_v2/_media/four factors of flow.png",
+      "sha256": "0dd5e08856d740e9aac637e3a59976e6757e1ba5fb19d2310f202849597fef14",
+      "destinations": [
+        "Workflows/Attachments/four factors of flow.png"
+      ],
+      "referencing_collections": [
+        "Workflows"
+      ]
+    },
+    {
+      "original": "Workflows/03 IMF_AdvancedStarterKit_v2/_media/stay on target.jpg",
+      "sha256": "c0fcec2e9f0dfedf14dc4d1a003e9b03ff864560ae981d4bf9293ad966adfdb9",
+      "destinations": [
+        "Workflows/Attachments/stay on target.jpg"
+      ],
+      "referencing_collections": [
+        "Workflows"
+      ]
+    },
+    {
+      "original": "Workflows/03 IMF_AdvancedStarterKit_v2/_media/The biochemistry of flow.png",
+      "sha256": "8fd84970a135b16f96c8ef6b6234a1fd56458c0947900de97e9c11991600f240",
+      "destinations": [
+        "Workflows/Attachments/The biochemistry of flow.png"
+      ],
+      "referencing_collections": []
+    },
+    {
+      "original": "Workflows/03 IMF_AdvancedStarterKit_v2/_media/Wolverine tethered.jpg",
+      "sha256": "ceb0b7d863804e45453a6b3a9ad7e0eee13366d1094a1bd0ecd431c90d2ab88c",
+      "destinations": [
+        "Workflows/Attachments/Wolverine tethered.jpg"
+      ],
+      "referencing_collections": [
+        "Workflows"
+      ]
+    }
+  ],
+  "link_changes": [
+    {
+      "note": "Andy Matuschak/2021-10-31 Patreon post- Doing-centric explanatory mediums- board game instruction manuals, and an unusual Figma document.md",
+      "source": "Andy Matuschak/_attachments/12772.png",
+      "destination": "Andy Matuschak/Attachments/12772.png",
+      "before": "12772.png",
+      "after": "Attachments/12772.png",
+      "style": "markdown"
+    },
+    {
+      "note": "Andy Matuschak/2021-10-31 Patreon post- Doing-centric explanatory mediums- board game instruction manuals, and an unusual Figma document.md",
+      "source": "Andy Matuschak/_attachments/87183.png",
+      "destination": "Andy Matuschak/Attachments/64645.png",
+      "before": "87183.png",
+      "after": "Attachments/64645.png",
+      "style": "markdown"
+    },
+    {
+      "note": "Andy Matuschak/2021-10-31 Patreon post- Doing-centric explanatory mediums- board game instruction manuals, and an unusual Figma document.md",
+      "source": "Andy Matuschak/_attachments/20979.png",
+      "destination": "Andy Matuschak/Attachments/20979.png",
+      "before": "20979.png",
+      "after": "Attachments/20979.png",
+      "style": "markdown"
+    },
+    {
+      "note": "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md",
+      "source": "Andy Matuschak/_attachments/Arnold, McDermott - 2013 - Test-Potentiated Learning.pdf",
+      "destination": "Andy Matuschak/Attachments/Arnold, McDermott - 2013 - Test-Potentiated Learning.pdf",
+      "before": "Arnold, McDermott - 2013 - Test-Potentiated Learning.pdf",
+      "after": "Andy Matuschak/Attachments/Arnold, McDermott - 2013 - Test-Potentiated Learning.pdf",
+      "style": "wiki"
+    },
+    {
+      "note": "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md",
+      "source": "Andy Matuschak/_attachments/Pressley et al - 1997 - Some of the Reasons Why Preparing for Exams Is So Hard.pdf",
+      "destination": "Andy Matuschak/Attachments/Pressley et al - 1997 - Some of the Reasons Why Preparing for Exams Is So Hard.pdf",
+      "before": "Pressley et al - 1997 - Some of the Reasons Why Preparing for Exams Is So Hard.pdf",
+      "after": "Andy Matuschak/Attachments/Pressley et al - 1997 - Some of the Reasons Why Preparing for Exams Is So Hard.pdf",
+      "style": "wiki"
+    },
+    {
+      "note": "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md",
+      "source": "Andy Matuschak/_attachments/Agarwal et al - 2008 - Examining the testing effect with open- and closed-book tests.pdf",
+      "destination": "Andy Matuschak/Attachments/Agarwal et al - 2008 - Examining the testing effect with open- and closed-book tests.pdf",
+      "before": "Agarwal et al - 2008 - Examining the testing effect with open- and closed-book tests.pdf",
+      "after": "Andy Matuschak/Attachments/Agarwal et al - 2008 - Examining the testing effect with open- and closed-book tests.pdf",
+      "style": "wiki"
+    },
+    {
+      "note": "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md",
+      "source": "Andy Matuschak/_attachments/Simpson et al - 1994 - Elaborative verbal rehearsals and college students' cognitive performance.pdf",
+      "destination": "Andy Matuschak/Attachments/Simpson et al - 1994 - Elaborative verbal rehearsals and college students' cognitive performance.pdf",
+      "before": "Simpson et al - 1994 - Elaborative verbal rehearsals and college students' cognitive performance.pdf",
+      "after": "Andy Matuschak/Attachments/Simpson et al - 1994 - Elaborative verbal rehearsals and college students' cognitive performance.pdf",
+      "style": "wiki"
+    },
+    {
+      "note": "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md",
+      "source": "Andy Matuschak/_attachments/Hamaker - 1986 - The Effects of Adjunct Questions on Prose Learning.pdf",
+      "destination": "Andy Matuschak/Attachments/Hamaker - 1986 - The Effects of Adjunct Questions on Prose Learning.pdf",
+      "before": "Hamaker - 1986 - The Effects of Adjunct Questions on Prose Learning.pdf",
+      "after": "Andy Matuschak/Attachments/Hamaker - 1986 - The Effects of Adjunct Questions on Prose Learning.pdf",
+      "style": "wiki"
+    },
+    {
+      "note": "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md",
+      "source": "Andy Matuschak/_attachments/Hamaker - 1986 - The Effects of Adjunct Questions on Prose Learning.pdf",
+      "destination": "Andy Matuschak/Attachments/Hamaker - 1986 - The Effects of Adjunct Questions on Prose Learning.pdf",
+      "before": "Hamaker - 1986 - The Effects of Adjunct Questions on Prose Learning.pdf",
+      "after": "Andy Matuschak/Attachments/Hamaker - 1986 - The Effects of Adjunct Questions on Prose Learning.pdf",
+      "style": "wiki"
+    },
+    {
+      "note": "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md",
+      "source": "Andy Matuschak/_attachments/Adler, van Doren - 1972 - How to Read a Book.pdf",
+      "destination": "Andy Matuschak/Attachments/Adler, van Doren - 1972 - How to Read a Book.pdf",
+      "before": "Adler, van Doren - 1972 - How to Read a Book.pdf",
+      "after": "Andy Matuschak/Attachments/Adler, van Doren - 1972 - How to Read a Book.pdf",
+      "style": "wiki"
+    },
+    {
+      "note": "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md",
+      "source": "Andy Matuschak/_attachments/Pressley, Afflerbach - 1995 - Verbal Protocols of Reading.pdf",
+      "destination": "Andy Matuschak/Attachments/Pressley, Afflerbach - 1995 - Verbal Protocols of Reading.pdf",
+      "before": "Pressley, Afflerbach - 1995 - Verbal Protocols of Reading.pdf",
+      "after": "Andy Matuschak/Attachments/Pressley, Afflerbach - 1995 - Verbal Protocols of Reading.pdf",
+      "style": "wiki"
+    },
+    {
+      "note": "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md",
+      "source": "Andy Matuschak/_attachments/Wyatt et al - 1993 - Comprehension strategies, worth and credibility monitoring, and evaluations.pdf",
+      "destination": "Andy Matuschak/Attachments/Wyatt et al - 1993 - Comprehension strategies, worth and credibility monitoring, and evaluations.pdf",
+      "before": "Wyatt et al - 1993 - Comprehension strategies, worth and credibility monitoring, and evaluations.pdf",
+      "after": "Andy Matuschak/Attachments/Wyatt et al - 1993 - Comprehension strategies, worth and credibility monitoring, and evaluations.pdf",
+      "style": "wiki"
+    },
+    {
+      "note": "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md",
+      "source": "Andy Matuschak/_attachments/Pressley et al - 1990 - Sometimes Adults Miss the Main Ideas and Do Not Realize It.pdf",
+      "destination": "Andy Matuschak/Attachments/Pressley et al - 1990 - Sometimes Adults Miss the Main Ideas and Do Not Realize It.pdf",
+      "before": "Pressley et al - 1990 - Sometimes Adults Miss the Main Ideas and Do Not Realize It.pdf",
+      "after": "Andy Matuschak/Attachments/Pressley et al - 1990 - Sometimes Adults Miss the Main Ideas and Do Not Realize It.pdf",
+      "style": "wiki"
+    },
+    {
+      "note": "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
+      "source": "Andy Matuschak/_attachments/Chi et al - 1994 - Eliciting self-explanations improves understanding.pdf",
+      "destination": "Andy Matuschak/Attachments/Chi et al - 1994 - Eliciting self-explanations improves understanding.pdf",
+      "before": "Chi et al - 1994 - Eliciting self-explanations improves understanding.pdf",
+      "after": "Andy Matuschak/Attachments/Chi et al - 1994 - Eliciting self-explanations improves understanding.pdf",
+      "style": "wiki"
+    },
+    {
+      "note": "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
+      "source": "Andy Matuschak/_attachments/Dunlosky et al - 2013 - Improving Students’ Learning With Effective Learning Techniques.pdf",
+      "destination": "Andy Matuschak/Attachments/Dunlosky et al - 2013 - Improving Students’ Learning With Effective Learning Techniques.pdf",
+      "before": "Dunlosky et al - 2013 - Improving Students’ Learning With Effective Learning Techniques.pdf",
+      "after": "Andy Matuschak/Attachments/Dunlosky et al - 2013 - Improving Students’ Learning With Effective Learning Techniques.pdf",
+      "style": "wiki"
+    },
+    {
+      "note": "Andy Matuschak/2023-11-30 Patreon letter - Initial results from highlight-driven prototype.md",
+      "source": "Andy Matuschak/_attachments/agency plus automation- designing artificial intelligence into interactive systems (2018).pdf",
+      "destination": "Andy Matuschak/Attachments/agency plus automation- designing artificial intelligence into interactive systems (2018).pdf",
+      "before": "agency%20plus%20automation-%20designing%20artificial%20intelligence%20into%20interactive%20systems%20(2018).pdf",
+      "after": "Attachments/agency%20plus%20automation-%20designing%20artificial%20intelligence%20into%20interactive%20systems%20%282018%29.pdf",
+      "style": "markdown"
+    },
+    {
+      "note": "Andy Matuschak/Channel capacity of humans as information processors.md",
+      "source": "Andy Matuschak/_attachments/71339.png",
+      "destination": "Andy Matuschak/Attachments/29802.png",
+      "before": "71339.png",
+      "after": "Attachments/29802.png",
+      "style": "markdown"
+    },
+    {
+      "note": "Andy Matuschak/Channel capacity of humans as information processors.md",
+      "source": "Andy Matuschak/_attachments/06855.png",
+      "destination": "Andy Matuschak/Attachments/06855.png",
+      "before": "06855.png",
+      "after": "Attachments/06855.png",
+      "style": "markdown"
+    },
+    {
+      "note": "Andy Matuschak/Deliberate practice doesn’t have to be unenjoyable.md",
+      "source": "Andy Matuschak/_attachments/48569.png",
+      "destination": "Andy Matuschak/Attachments/48569.png",
+      "before": "48569.png",
+      "after": "Attachments/48569.png",
+      "style": "markdown"
+    },
+    {
+      "note": "Andy Matuschak/Everything takes longer than you think it will.md",
+      "source": "Andy Matuschak/_attachments/Andy- Everything takes longer than you think it will.png",
+      "destination": "Andy Matuschak/Attachments/Andy- Everything takes longer than you think it will.png",
+      "before": "Andy- Everything takes longer than you think it will.png",
+      "after": "Andy Matuschak/Attachments/Andy- Everything takes longer than you think it will.png",
+      "style": "wiki"
+    },
+    {
+      "note": "Andy Matuschak/How to Read a Book - Adler and van Doren.md",
+      "source": "Andy Matuschak/_attachments/Adler, van Doren - 1972 - How to Read a Book.pdf",
+      "destination": "Andy Matuschak/Attachments/Adler, van Doren - 1972 - How to Read a Book.pdf",
+      "before": "Adler, van Doren - 1972 - How to Read a Book.pdf",
+      "after": "Andy Matuschak/Attachments/Adler, van Doren - 1972 - How to Read a Book.pdf",
+      "style": "wiki"
+    },
+    {
+      "note": "Andy Matuschak/Human channel capacity increases with bits-per-chunk.md",
+      "source": "Andy Matuschak/_attachments/channel capacity expands almost linearly with bits-per-chunk.png",
+      "destination": "Andy Matuschak/Attachments/channel capacity expands almost linearly with bits-per-chunk.png",
+      "before": "channel capacity expands almost linearly with bits-per-chunk.png",
+      "after": "Andy Matuschak/Attachments/channel capacity expands almost linearly with bits-per-chunk.png",
+      "style": "wiki"
+    },
+    {
+      "note": "Andy Matuschak/Human channel capacity increases with stimulus dimensionality.md",
+      "source": "Andy Matuschak/_attachments/28593.png",
+      "destination": "Andy Matuschak/Attachments/28593.png",
+      "before": "28593.png",
+      "after": "Attachments/28593.png",
+      "style": "markdown"
+    },
+    {
+      "note": "Andy Matuschak/Messy thought, neat thought.md",
+      "source": "Andy Matuschak/_attachments/Andy- Messy thought Neat thought 4.png",
+      "destination": "Andy Matuschak/Attachments/Andy- Messy thought Neat thought 4.png",
+      "before": "Andy- Messy thought Neat thought 4.png",
+      "after": "Andy Matuschak/Attachments/Andy- Messy thought Neat thought 4.png",
+      "style": "wiki"
+    },
+    {
+      "note": "Andy Matuschak/Messy thought, neat thought.md",
+      "source": "Andy Matuschak/_attachments/Andy- Messy thought Neat thought 3.png",
+      "destination": "Andy Matuschak/Attachments/Andy- Messy thought Neat thought 3.png",
+      "before": "Andy- Messy thought Neat thought 3.png",
+      "after": "Andy Matuschak/Attachments/Andy- Messy thought Neat thought 3.png",
+      "style": "wiki"
+    },
+    {
+      "note": "Andy Matuschak/Messy thought, neat thought.md",
+      "source": "Andy Matuschak/_attachments/Andy- Messy thought Neat thought 2.png",
+      "destination": "Andy Matuschak/Attachments/Andy- Messy thought Neat thought 2.png",
+      "before": "Andy- Messy thought Neat thought 2.png",
+      "after": "Andy Matuschak/Attachments/Andy- Messy thought Neat thought 2.png",
+      "style": "wiki"
+    },
+    {
+      "note": "Andy Matuschak/Messy thought, neat thought.md",
+      "source": "Andy Matuschak/_attachments/Andy- Messy thought Neat thought 1.png",
+      "destination": "Andy Matuschak/Attachments/Andy- Messy thought Neat thought 1.png",
+      "before": "Andy- Messy thought Neat thought 1.png",
+      "after": "Andy Matuschak/Attachments/Andy- Messy thought Neat thought 1.png",
+      "style": "wiki"
+    },
+    {
+      "note": "Andy Matuschak/Quit Your Job - Wolf Tivy.md",
+      "source": "Andy Matuschak/_attachments/23159.png",
+      "destination": "Andy Matuschak/Attachments/23159.png",
+      "before": "23159.png",
+      "after": "Attachments/23159.png",
+      "style": "markdown"
+    },
+    {
+      "note": "Andy Matuschak/Some kinds of creative insight depend on long-term memory.md",
+      "source": "Andy Matuschak/_attachments/Klein - Seeing What Others Don’t (2013).png",
+      "destination": "Andy Matuschak/Attachments/Klein - Seeing What Others Don’t (2013).png",
+      "before": "Klein - Seeing What Others Don’t (2013).png",
+      "after": "Andy Matuschak/Attachments/Klein - Seeing What Others Don’t (2013).png",
+      "style": "wiki"
+    },
+    {
+      "note": "Andy Matuschak/Spacing effect.md",
+      "source": "Andy Matuschak/_attachments/10797.png",
+      "destination": "Andy Matuschak/Attachments/10797.png",
+      "before": "10797.png",
+      "after": "Attachments/10797.png",
+      "style": "markdown"
+    },
+    {
+      "note": "Andy Matuschak/Spacing effect.md",
+      "source": "Andy Matuschak/_attachments/56984.png",
+      "destination": "Andy Matuschak/Attachments/56984.png",
+      "before": "56984.png",
+      "after": "Attachments/56984.png",
+      "style": "markdown"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Dots/People/Carl Sagan (kit).md",
+      "source": "Ideaverse Merged/x/Images/pale-blue-dot-banner.jpg",
+      "destination": "Ideaverse Merged/Attachments/pale-blue-dot-banner.jpg",
+      "before": "Ideaverse Merged/x/Images/pale-blue-dot-banner.jpg",
+      "after": "Ideaverse Merged/Attachments/pale-blue-dot-banner.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Dots/People/Mihaly Csikszentmihalyi (kit).md",
+      "source": "Ideaverse Merged/x/Images/flow-map-original.jpg",
+      "destination": "Ideaverse Merged/Attachments/flow-map-original.jpg",
+      "before": "Ideaverse Merged/x/Images/flow-map-original.jpg",
+      "after": "Ideaverse Merged/Attachments/flow-map-original.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Dots/Sources/The Almagest.md",
+      "source": "Ideaverse Merged/x/Images/ptolemy-model.png",
+      "destination": "Ideaverse Merged/Attachments/ptolemy-model.png",
+      "before": "Ideaverse Merged/x/Images/ptolemy-model.png",
+      "after": "Ideaverse Merged/Attachments/ptolemy-model.png",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Dots/Statements/Evergreen notes are things or statements about things.md",
+      "source": "Ideaverse Merged/x/Images/lyt-note-links-to-other-notes.png",
+      "destination": "Ideaverse Merged/Attachments/lyt-note-links-to-other-notes.png",
+      "before": "Ideaverse Merged/x/Images/lyt-note-links-to-other-notes.png",
+      "after": "Ideaverse Merged/Attachments/lyt-note-links-to-other-notes.png",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Dots/Statements/MOCs are both workbenches and maps.md",
+      "source": "Ideaverse Merged/x/Images/lyt-crafting-mocs-5.jpg",
+      "destination": "Ideaverse Merged/Attachments/lyt-crafting-mocs-5.jpg",
+      "before": "Ideaverse Merged/x/Images/lyt-crafting-mocs-5.jpg",
+      "after": "Ideaverse Merged/Attachments/lyt-crafting-mocs-5.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Dots/Statements/MOCs are both workbenches and maps.md",
+      "source": "Ideaverse Merged/x/Images/lyt-crafting-mocs-4.jpg",
+      "destination": "Ideaverse Merged/Attachments/lyt-crafting-mocs-4.jpg",
+      "before": "Ideaverse Merged/x/Images/lyt-crafting-mocs-4.jpg",
+      "after": "Ideaverse Merged/Attachments/lyt-crafting-mocs-4.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Dots/Statements/MOCs are both workbenches and maps.md",
+      "source": "Ideaverse Merged/x/Images/lyt-crafting-mocs-3.jpg",
+      "destination": "Ideaverse Merged/Attachments/lyt-crafting-mocs-3.jpg",
+      "before": "Ideaverse Merged/x/Images/lyt-crafting-mocs-3.jpg",
+      "after": "Ideaverse Merged/Attachments/lyt-crafting-mocs-3.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Dots/Statements/MOCs are both workbenches and maps.md",
+      "source": "Ideaverse Merged/x/Images/lyt-crafting-mocs-2.jpg",
+      "destination": "Ideaverse Merged/Attachments/lyt-crafting-mocs-2.jpg",
+      "before": "Ideaverse Merged/x/Images/lyt-crafting-mocs-2.jpg",
+      "after": "Ideaverse Merged/Attachments/lyt-crafting-mocs-2.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Dots/Statements/MOCs are both workbenches and maps.md",
+      "source": "Ideaverse Merged/x/Images/lyt-crafting-mocs-1.jpg",
+      "destination": "Ideaverse Merged/Attachments/lyt-crafting-mocs-1.jpg",
+      "before": "Ideaverse Merged/x/Images/lyt-crafting-mocs-1.jpg",
+      "after": "Ideaverse Merged/Attachments/lyt-crafting-mocs-1.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Dots/Statements/MOCs are both workbenches and maps.md",
+      "source": "Ideaverse Merged/x/Images/lyt-crafting-mocs-0.jpg",
+      "destination": "Ideaverse Merged/Attachments/lyt-crafting-mocs-0.jpg",
+      "before": "Ideaverse Merged/x/Images/lyt-crafting-mocs-0.jpg",
+      "after": "Ideaverse Merged/Attachments/lyt-crafting-mocs-0.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Dots/Statements/Sensemaking happens by triangulation.md",
+      "source": "Ideaverse Merged/x/Images/feynman-triangulation-3.png",
+      "destination": "Ideaverse Merged/Attachments/feynman-triangulation-3.png",
+      "before": "Ideaverse Merged/x/Images/feynman-triangulation-3.png",
+      "after": "Ideaverse Merged/Attachments/feynman-triangulation-3.png",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Dots/Statements/Sensemaking happens by triangulation.md",
+      "source": "Ideaverse Merged/x/Images/feynman-triangulation-2.png",
+      "destination": "Ideaverse Merged/Attachments/feynman-triangulation-2.png",
+      "before": "Ideaverse Merged/x/Images/feynman-triangulation-2.png",
+      "after": "Ideaverse Merged/Attachments/feynman-triangulation-2.png",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Dots/Statements/Sensemaking happens by triangulation.md",
+      "source": "Ideaverse Merged/x/Images/feynman-triangulation-1.png",
+      "destination": "Ideaverse Merged/Attachments/feynman-triangulation-1.png",
+      "before": "Ideaverse Merged/x/Images/feynman-triangulation-1.png",
+      "after": "Ideaverse Merged/Attachments/feynman-triangulation-1.png",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Dots/Statements/Sensemaking happens by triangulation.md",
+      "source": "Ideaverse Merged/x/Images/feynman-triangulation-3.png",
+      "destination": "Ideaverse Merged/Attachments/feynman-triangulation-3.png",
+      "before": "Ideaverse Merged/x/Images/feynman-triangulation-3.png",
+      "after": "Ideaverse Merged/Attachments/feynman-triangulation-3.png",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Dots/Statements/Sensemaking happens by triangulation.md",
+      "source": "Ideaverse Merged/x/Images/feynman-triangulation-2.png",
+      "destination": "Ideaverse Merged/Attachments/feynman-triangulation-2.png",
+      "before": "Ideaverse Merged/x/Images/feynman-triangulation-2.png",
+      "after": "Ideaverse Merged/Attachments/feynman-triangulation-2.png",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Dots/Statements/Sensemaking happens by triangulation.md",
+      "source": "Ideaverse Merged/x/Images/feynman-triangulation-1.png",
+      "destination": "Ideaverse Merged/Attachments/feynman-triangulation-1.png",
+      "before": "Ideaverse Merged/x/Images/feynman-triangulation-1.png",
+      "after": "Ideaverse Merged/Attachments/feynman-triangulation-1.png",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Dots/Statements/Why Categories for Your Notes are a Good Idea.md",
+      "source": "Ideaverse Merged/x/Images/wolverine-tethered.jpg",
+      "destination": "Ideaverse Merged/Attachments/wolverine-tethered.jpg",
+      "before": "Ideaverse Merged/x/Images/wolverine-tethered.jpg",
+      "after": "Ideaverse Merged/Attachments/wolverine-tethered.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Dots/Things/Benefits of LYT frameworks.md",
+      "source": "Ideaverse Merged/x/Images/wolverine-tethered.jpg",
+      "destination": "Ideaverse Merged/Attachments/wolverine-tethered.jpg",
+      "before": "Ideaverse Merged/x/Images/wolverine-tethered.jpg",
+      "after": "Ideaverse Merged/Attachments/wolverine-tethered.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Dots/Things/Flow Map.md",
+      "source": "Ideaverse Merged/x/Images/flow-map.png",
+      "destination": "Ideaverse Merged/Attachments/flow-map.png",
+      "before": "Ideaverse Merged/x/Images/flow-map.png",
+      "after": "Ideaverse Merged/Attachments/flow-map.png",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Dots/Things/Flow Map.md",
+      "source": "Ideaverse Merged/x/Images/flow-map-original.jpg",
+      "destination": "Ideaverse Merged/Attachments/flow-map-original.jpg",
+      "before": "Ideaverse Merged/x/Images/flow-map-original.jpg",
+      "after": "Ideaverse Merged/Attachments/flow-map-original.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Dots/Things/Flow Map.md",
+      "source": "Ideaverse Merged/x/Images/flow-zone-channel.jpg",
+      "destination": "Ideaverse Merged/Attachments/flow-zone-channel.jpg",
+      "before": "Ideaverse Merged/x/Images/flow-zone-channel.jpg",
+      "after": "Ideaverse Merged/Attachments/flow-zone-channel.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Dots/Things/FlowCreation Theory.md",
+      "source": "Ideaverse Merged/x/Images/flow-map.png",
+      "destination": "Ideaverse Merged/Attachments/flow-map.png",
+      "before": "Ideaverse Merged/x/Images/flow-map.png",
+      "after": "Ideaverse Merged/Attachments/flow-map.png",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Dots/Things/Four Factors of Flow.md",
+      "source": "Ideaverse Merged/x/Images/stay-on-target.jpg",
+      "destination": "Ideaverse Merged/Attachments/stay-on-target.jpg",
+      "before": "Ideaverse Merged/x/Images/stay-on-target.jpg",
+      "after": "Ideaverse Merged/Attachments/stay-on-target.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Dots/Things/Four Factors of Flow.md",
+      "source": "Ideaverse Merged/x/Images/flow-four-factors.png",
+      "destination": "Ideaverse Merged/Attachments/flow-four-factors.png",
+      "before": "Ideaverse Merged/x/Images/flow-four-factors.png",
+      "after": "Ideaverse Merged/Attachments/flow-four-factors.png",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Dots/Things/LYT Mode Theme.md",
+      "source": "Ideaverse Merged/x/Images/lyt-mode-graphic-1.jpg",
+      "destination": "Ideaverse Merged/Attachments/lyt-mode-graphic-1.jpg",
+      "before": "Ideaverse Merged/x/Images/lyt-mode-graphic-1.jpg",
+      "after": "Ideaverse Merged/Attachments/lyt-mode-graphic-1.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Maps/Add.md",
+      "source": "Ideaverse Merged/x/Images/lyt-kit-example-cooling-pad-.png",
+      "destination": "Ideaverse Merged/Attachments/lyt-kit-example-cooling-pad-.png",
+      "before": "Ideaverse Merged/x/Images/lyt-kit-example-cooling-pad-.png",
+      "after": "Ideaverse Merged/Attachments/lyt-kit-example-cooling-pad-.png",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Maps/Collections.md",
+      "source": "Ideaverse Merged/x/Images/whelan-space-station-1978-narrow.jpg",
+      "destination": "Ideaverse Merged/Attachments/whelan-space-station-1978-narrow.jpg",
+      "before": "Ideaverse Merged/x/Images/whelan-space-station-1978-narrow.jpg",
+      "after": "Ideaverse Merged/Attachments/whelan-space-station-1978-narrow.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Maps/Concepts.md",
+      "source": "Ideaverse Merged/x/Images/McCall-pen-sketch-narrow.jpg",
+      "destination": "Ideaverse Merged/Attachments/McCall-pen-sketch-narrow.jpg",
+      "before": "Ideaverse Merged/x/Images/McCall-pen-sketch-narrow.jpg",
+      "after": "Ideaverse Merged/Attachments/McCall-pen-sketch-narrow.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Maps/Efforts.md",
+      "source": "Ideaverse Merged/x/Images/robert-mccall-black-hole-concept-art copy.jpg",
+      "destination": "Ideaverse Merged/Attachments/robert-mccall-black-hole-concept-art copy.jpg",
+      "before": "Ideaverse Merged/x/Images/robert-mccall-black-hole-concept-art copy.jpg",
+      "after": "Ideaverse Merged/Attachments/robert-mccall-black-hole-concept-art copy.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Maps/Games.md",
+      "source": "Ideaverse Merged/x/Images/flight-school-hotkey-wide.jpg",
+      "destination": "Ideaverse Merged/Attachments/flight-school-hotkey-wide.jpg",
+      "before": "Ideaverse Merged/x/Images/flight-school-hotkey-wide.jpg",
+      "after": "Ideaverse Merged/Attachments/flight-school-hotkey-wide.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Maps/Library.md",
+      "source": "Ideaverse Merged/x/Images/whelan-space-station-1978-mod.jpg",
+      "destination": "Ideaverse Merged/Attachments/whelan-space-station-1978-mod.jpg",
+      "before": "Ideaverse Merged/x/Images/whelan-space-station-1978-mod.jpg",
+      "after": "Ideaverse Merged/Attachments/whelan-space-station-1978-mod.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Atlas/Maps/Templates.md",
+      "source": "Ideaverse Merged/x/Images/robert-mccall-black-hole-concept-art-bottom-IDV-Pro.jpg",
+      "destination": "Ideaverse Merged/Attachments/robert-mccall-black-hole-concept-art-bottom-IDV-Pro.jpg",
+      "before": "Ideaverse Merged/x/Images/robert-mccall-black-hole-concept-art-bottom-IDV-Pro.jpg",
+      "after": "Ideaverse Merged/Attachments/robert-mccall-black-hole-concept-art-bottom-IDV-Pro.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Efforts/On/🌌 Ideaverse Kit Launch (E) (Example).md",
+      "source": "Ideaverse Merged/x/Images/robert-mccall-black-hole-concept-art-bottom.jpg",
+      "destination": "Ideaverse Merged/Attachments/robert-mccall-black-hole-concept-art-bottom.jpg",
+      "before": "Ideaverse Merged/x/Images/robert-mccall-black-hole-concept-art-bottom.jpg",
+      "after": "Ideaverse Merged/Attachments/robert-mccall-black-hole-concept-art-bottom.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Efforts/On/🚀 Flight School 2.5 (E) (Example).md",
+      "source": "Ideaverse Merged/x/Images/robert-mccall-A_Decade_of_Achievement_narrow.png",
+      "destination": "Ideaverse Merged/Attachments/robert-mccall-A_Decade_of_Achievement_narrow.png",
+      "before": "Ideaverse Merged/x/Images/robert-mccall-A_Decade_of_Achievement_narrow.png",
+      "after": "Ideaverse Merged/Attachments/robert-mccall-A_Decade_of_Achievement_narrow.png",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Efforts/Ongoing/🌌 Ideaverse Kit (OE) (Example).md",
+      "source": "Ideaverse Merged/x/Images/robert-mccall-space-ship-launch-mid.jpg",
+      "destination": "Ideaverse Merged/Attachments/robert-mccall-space-ship-launch-mid.jpg",
+      "before": "Ideaverse Merged/x/Images/robert-mccall-space-ship-launch-mid.jpg",
+      "after": "Ideaverse Merged/Attachments/robert-mccall-space-ship-launch-mid.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Efforts/Simmering/🎙️ LYT Podcast (E) (Example).md",
+      "source": "Ideaverse Merged/x/Images/CleanShot 2023-07-30 at 21.37.43.png",
+      "destination": "Ideaverse Merged/Attachments/CleanShot 2023-07-30 at 21.37.43.png",
+      "before": "Ideaverse Merged/x/Images/CleanShot 2023-07-30 at 21.37.43.png",
+      "after": "Ideaverse Merged/Attachments/CleanShot 2023-07-30 at 21.37.43.png",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Home Basic.md",
+      "source": "Ideaverse Merged/x/Images/pale-blue-dot-banner.jpg",
+      "destination": "Ideaverse Merged/Attachments/pale-blue-dot-banner.jpg",
+      "before": "Ideaverse Merged/x/Images/pale-blue-dot-banner.jpg",
+      "after": "Ideaverse Merged/Attachments/pale-blue-dot-banner.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Home Pro.md",
+      "source": "Ideaverse Merged/x/Images/robert-mccall-space-deep-space-ship-IDV-Pro.jpg",
+      "destination": "Ideaverse Merged/Attachments/robert-mccall-space-deep-space-ship-IDV-Pro.jpg",
+      "before": "Ideaverse Merged/x/Images/robert-mccall-space-deep-space-ship-IDV-Pro.jpg",
+      "after": "Ideaverse Merged/Attachments/robert-mccall-space-deep-space-ship-IDV-Pro.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Home Pro.md",
+      "source": "Ideaverse Merged/x/Images/whelan-the-wave-1994.jpg",
+      "destination": "Ideaverse Merged/Attachments/whelan-the-wave-1994.jpg",
+      "before": "Ideaverse Merged/x/Images/whelan-the-wave-1994.jpg",
+      "after": "Ideaverse Merged/Attachments/whelan-the-wave-1994.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Home Pro.md",
+      "source": "Ideaverse Merged/x/Images/pale-blue-dot-banner.jpg",
+      "destination": "Ideaverse Merged/Attachments/pale-blue-dot-banner.jpg",
+      "before": "Ideaverse Merged/x/Images/pale-blue-dot-banner.jpg",
+      "after": "Ideaverse Merged/Attachments/pale-blue-dot-banner.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Home Pro.md",
+      "source": "Ideaverse Merged/x/Images/robert-mccall-black-hole-concept-art copy.jpg",
+      "destination": "Ideaverse Merged/Attachments/robert-mccall-black-hole-concept-art copy.jpg",
+      "before": "Ideaverse Merged/x/Images/robert-mccall-black-hole-concept-art copy.jpg",
+      "after": "Ideaverse Merged/Attachments/robert-mccall-black-hole-concept-art copy.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Home Pro.md",
+      "source": "Ideaverse Merged/x/Images/robert-mccall-space-ship-launch-narrower.png",
+      "destination": "Ideaverse Merged/Attachments/robert-mccall-space-ship-launch-narrower.png",
+      "before": "Ideaverse Merged/x/Images/robert-mccall-space-ship-launch-narrower.png",
+      "after": "Ideaverse Merged/Attachments/robert-mccall-space-ship-launch-narrower.png",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Home Pro.md",
+      "source": "Ideaverse Merged/x/Images/mckie-ship-and-sea-mid-narrow-.jpg",
+      "destination": "Ideaverse Merged/Attachments/mckie-ship-and-sea-mid-narrow-.jpg",
+      "before": "Ideaverse Merged/x/Images/mckie-ship-and-sea-mid-narrow-.jpg",
+      "after": "Ideaverse Merged/Attachments/mckie-ship-and-sea-mid-narrow-.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Home.md",
+      "source": "Ideaverse Merged/x/Images/pale-blue-dot-banner.jpg",
+      "destination": "Ideaverse Merged/Attachments/pale-blue-dot-banner.jpg",
+      "before": "Ideaverse Merged/x/Images/pale-blue-dot-banner.jpg",
+      "after": "Ideaverse Merged/Attachments/pale-blue-dot-banner.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Home.md",
+      "source": "Ideaverse Merged/x/Images/robert-mccall-black-hole-concept-art copy.jpg",
+      "destination": "Ideaverse Merged/Attachments/robert-mccall-black-hole-concept-art copy.jpg",
+      "before": "Ideaverse Merged/x/Images/robert-mccall-black-hole-concept-art copy.jpg",
+      "after": "Ideaverse Merged/Attachments/robert-mccall-black-hole-concept-art copy.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Home.md",
+      "source": "Ideaverse Merged/x/Images/robert-mccall-space-ship-launch-narrower.png",
+      "destination": "Ideaverse Merged/Attachments/robert-mccall-space-ship-launch-narrower.png",
+      "before": "Ideaverse Merged/x/Images/robert-mccall-space-ship-launch-narrower.png",
+      "after": "Ideaverse Merged/Attachments/robert-mccall-space-ship-launch-narrower.png",
+      "style": "wiki"
+    },
+    {
+      "note": "Ideaverse Merged/Home.md",
+      "source": "Ideaverse Merged/x/Images/mckie-ship-and-sea-mid-narrow-.jpg",
+      "destination": "Ideaverse Merged/Attachments/mckie-ship-and-sea-mid-narrow-.jpg",
+      "before": "Ideaverse Merged/x/Images/mckie-ship-and-sea-mid-narrow-.jpg",
+      "after": "Ideaverse Merged/Attachments/mckie-ship-and-sea-mid-narrow-.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "LizardsFromOuterSpace/040- Generalization.md",
+      "source": "LizardsFromOuterSpace/_attachments/Generalization.png",
+      "destination": "LizardsFromOuterSpace/Attachments/Generalization.png",
+      "before": "Generalization.png",
+      "after": "Attachments/Generalization.png",
+      "style": "markdown"
+    },
+    {
+      "note": "LizardsFromOuterSpace/066a- PARA structure.md",
+      "source": "LizardsFromOuterSpace/_attachments/PARA Structure.png",
+      "destination": "LizardsFromOuterSpace/Attachments/PARA Structure.png",
+      "before": "PARA%20Structure.png",
+      "after": "Attachments/PARA%20Structure.png",
+      "style": "markdown"
+    },
+    {
+      "note": "LizardsFromOuterSpace/076- Prior Knowledge.md",
+      "source": "LizardsFromOuterSpace/_attachments/Specialized vs General Knowledge.png",
+      "destination": "LizardsFromOuterSpace/Attachments/Specialized vs General Knowledge.png",
+      "before": "Specialized vs General Knowledge.png",
+      "after": "LizardsFromOuterSpace/Attachments/Specialized vs General Knowledge.png",
+      "style": "wiki"
+    },
+    {
+      "note": "LizardsFromOuterSpace/132- Foundational Notes.md",
+      "source": "LizardsFromOuterSpace/_attachments/Lizard men from space-111.png",
+      "destination": "LizardsFromOuterSpace/Attachments/Lizard men from space-111.png",
+      "before": "Lizard men from space-111.png",
+      "after": "LizardsFromOuterSpace/Attachments/Lizard men from space-111.png",
+      "style": "wiki"
+    },
+    {
+      "note": "Snipd/Data/_WhatifAlthist_ _ World History, Philosophy, Culture/The Greatest Lie Ever Told.md",
+      "source": "Attachments/21687.jpeg",
+      "destination": "Snipd/Attachments/21687.jpeg",
+      "before": "../../../Attachments/21687.jpeg",
+      "after": "../../Attachments/21687.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/_WhatifAlthist_ _ World History, Philosophy, Culture/The Greatest Lie Ever Told.md",
+      "source": "Attachments/26393.jpeg",
+      "destination": "Snipd/Attachments/26393.jpeg",
+      "before": "Attachments/26393.jpeg",
+      "after": "Snipd/Attachments/26393.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/_WhatifAlthist_ _ World History, Philosophy, Culture/The Greatest Lie Ever Told.md",
+      "source": "Attachments/32136.jpeg",
+      "destination": "Snipd/Attachments/32136.jpeg",
+      "before": "Attachments/32136.jpeg",
+      "after": "Snipd/Attachments/32136.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Love Your Work/250. My Zettelkasten_ An Author's Digital Slip-Box Method Example (Using Plain-Text Software).md",
+      "source": "Attachments/05997.jpeg",
+      "destination": "Snipd/Attachments/05997.jpeg",
+      "before": "../../../Attachments/05997.jpeg",
+      "after": "../../Attachments/05997.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Love Your Work/250. My Zettelkasten_ An Author's Digital Slip-Box Method Example (Using Plain-Text Software).md",
+      "source": "Attachments/35102.jpeg",
+      "destination": "Snipd/Attachments/35102.jpeg",
+      "before": "Attachments/35102.jpeg",
+      "after": "Snipd/Attachments/35102.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Love Your Work/250. My Zettelkasten_ An Author's Digital Slip-Box Method Example (Using Plain-Text Software).md",
+      "source": "Attachments/35102.jpeg",
+      "destination": "Snipd/Attachments/35102.jpeg",
+      "before": "Attachments/35102.jpeg",
+      "after": "Snipd/Attachments/35102.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Modern Wisdom/_653 - George Mack - Stop Wasting Your Life On Things That Don’t Matter.md",
+      "source": "Attachments/48639.jpeg",
+      "destination": "Snipd/Attachments/48639.jpeg",
+      "before": "../../../Attachments/48639.jpeg",
+      "after": "../../Attachments/48639.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Modern Wisdom/_653 - George Mack - Stop Wasting Your Life On Things That Don’t Matter.md",
+      "source": "Attachments/36377.jpeg",
+      "destination": "Snipd/Attachments/36377.jpeg",
+      "before": "Attachments/36377.jpeg",
+      "after": "Snipd/Attachments/36377.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Modern Wisdom/_653 - George Mack - Stop Wasting Your Life On Things That Don’t Matter.md",
+      "source": "Attachments/36377.jpeg",
+      "destination": "Snipd/Attachments/36377.jpeg",
+      "before": "Attachments/36377.jpeg",
+      "after": "Snipd/Attachments/36377.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Modern Wisdom/_685 - Rich Roll - Stop Making Excuses & Transform Your Life.md",
+      "source": "Attachments/48639.jpeg",
+      "destination": "Snipd/Attachments/48639.jpeg",
+      "before": "../../../Attachments/48639.jpeg",
+      "after": "../../Attachments/48639.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Modern Wisdom/_685 - Rich Roll - Stop Making Excuses & Transform Your Life.md",
+      "source": "Attachments/36377.jpeg",
+      "destination": "Snipd/Attachments/36377.jpeg",
+      "before": "Attachments/36377.jpeg",
+      "after": "Snipd/Attachments/36377.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Modern Wisdom/_685 - Rich Roll - Stop Making Excuses & Transform Your Life.md",
+      "source": "Attachments/36377.jpeg",
+      "destination": "Snipd/Attachments/36377.jpeg",
+      "before": "Attachments/36377.jpeg",
+      "after": "Snipd/Attachments/36377.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/My First Million/He Turned $300_mo Into $3,750,000_mo From GARDENING.md",
+      "source": "Attachments/40173.jpeg",
+      "destination": "Snipd/Attachments/40173.jpeg",
+      "before": "../../../Attachments/40173.jpeg",
+      "after": "../../Attachments/40173.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/My First Million/He Turned $300_mo Into $3,750,000_mo From GARDENING.md",
+      "source": "Attachments/21646.jpeg",
+      "destination": "Snipd/Attachments/21646.jpeg",
+      "before": "Attachments/21646.jpeg",
+      "after": "Snipd/Attachments/21646.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/My First Million/He Turned $300_mo Into $3,750,000_mo From GARDENING.md",
+      "source": "Attachments/21646.jpeg",
+      "destination": "Snipd/Attachments/21646.jpeg",
+      "before": "Attachments/21646.jpeg",
+      "after": "Snipd/Attachments/21646.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/My First Million/Syed Balkhi_ How He Went From $0 To +$100M Before Age 30.md",
+      "source": "Attachments/40173.jpeg",
+      "destination": "Snipd/Attachments/40173.jpeg",
+      "before": "../../../Attachments/40173.jpeg",
+      "after": "../../Attachments/40173.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/My First Million/Syed Balkhi_ How He Went From $0 To +$100M Before Age 30.md",
+      "source": "Attachments/21646.jpeg",
+      "destination": "Snipd/Attachments/21646.jpeg",
+      "before": "Attachments/21646.jpeg",
+      "after": "Snipd/Attachments/21646.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/My First Million/Syed Balkhi_ How He Went From $0 To +$100M Before Age 30.md",
+      "source": "Attachments/21646.jpeg",
+      "destination": "Snipd/Attachments/21646.jpeg",
+      "before": "Attachments/21646.jpeg",
+      "after": "Snipd/Attachments/21646.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Nathan Barry Archive/078_ Sahil Bloom – Using Flywheels to Build Longevity in the Creator Economy.md",
+      "source": "Attachments/69019.jpeg",
+      "destination": "Snipd/Attachments/69019.jpeg",
+      "before": "../../../Attachments/69019.jpeg",
+      "after": "../../Attachments/69019.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Nathan Barry Archive/078_ Sahil Bloom – Using Flywheels to Build Longevity in the Creator Economy.md",
+      "source": "Attachments/03309.jpeg",
+      "destination": "Snipd/Attachments/03309.jpeg",
+      "before": "Attachments/03309.jpeg",
+      "after": "Snipd/Attachments/03309.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Nathan Barry Archive/078_ Sahil Bloom – Using Flywheels to Build Longevity in the Creator Economy.md",
+      "source": "Attachments/03309.jpeg",
+      "destination": "Snipd/Attachments/03309.jpeg",
+      "before": "Attachments/03309.jpeg",
+      "after": "Snipd/Attachments/03309.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Naval/How to Get Rich_ Every Episode.md",
+      "source": "Attachments/83747.png",
+      "destination": "Snipd/Attachments/83747.png",
+      "before": "../../../Attachments/83747.png",
+      "after": "../../Attachments/83747.png",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Naval/How to Get Rich_ Every Episode.md",
+      "source": "Attachments/09892.png",
+      "destination": "Snipd/Attachments/09892.png",
+      "before": "Attachments/09892.png",
+      "after": "Snipd/Attachments/09892.png",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Naval/How to Get Rich_ Every Episode.md",
+      "source": "Attachments/09892.png",
+      "destination": "Snipd/Attachments/09892.png",
+      "before": "Attachments/09892.png",
+      "after": "Snipd/Attachments/09892.png",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/1000_ Episode 1,000_ The Story of the Accomplishment of My Ten-Year Goal.md",
+      "source": "Attachments/42198.jpeg",
+      "destination": "Snipd/Attachments/42198.jpeg",
+      "before": "../../../Attachments/42198.jpeg",
+      "after": "../../Attachments/42198.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/1000_ Episode 1,000_ The Story of the Accomplishment of My Ten-Year Goal.md",
+      "source": "Attachments/61965.jpeg",
+      "destination": "Snipd/Attachments/61965.jpeg",
+      "before": "Attachments/61965.jpeg",
+      "after": "Snipd/Attachments/61965.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/1000_ Episode 1,000_ The Story of the Accomplishment of My Ten-Year Goal.md",
+      "source": "Attachments/44833.jpeg",
+      "destination": "Snipd/Attachments/44833.jpeg",
+      "before": "Attachments/44833.jpeg",
+      "after": "Snipd/Attachments/44833.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/1031-Friday Q&A_ FIRE at 35, Failed Residency Match after Med School, Regret Whole Life Insurance, Preventive Health Screening, etc.md",
+      "source": "Attachments/51573.jpeg",
+      "destination": "Snipd/Attachments/51573.jpeg",
+      "before": "../../../Attachments/51573.jpeg",
+      "after": "../../Attachments/51573.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/1031-Friday Q&A_ FIRE at 35, Failed Residency Match after Med School, Regret Whole Life Insurance, Preventive Health Screening, etc.md",
+      "source": "Attachments/61965.jpeg",
+      "destination": "Snipd/Attachments/61965.jpeg",
+      "before": "Attachments/61965.jpeg",
+      "after": "Snipd/Attachments/61965.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/1031-Friday Q&A_ FIRE at 35, Failed Residency Match after Med School, Regret Whole Life Insurance, Preventive Health Screening, etc.md",
+      "source": "Attachments/54109.jpeg",
+      "destination": "Snipd/Attachments/54109.jpeg",
+      "before": "Attachments/54109.jpeg",
+      "after": "Snipd/Attachments/54109.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/1077-How to Make Good Decisions_ A Framework.md",
+      "source": "Attachments/61965.jpeg",
+      "destination": "Snipd/Attachments/61965.jpeg",
+      "before": "Attachments/61965.jpeg",
+      "after": "Snipd/Attachments/61965.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/1078-Friday Q&A_ Business Skills, Productive Vacations, Radical Consistency, Appreciating What You Have.md",
+      "source": "Attachments/32315.jpeg",
+      "destination": "Snipd/Attachments/32315.jpeg",
+      "before": "../../../Attachments/32315.jpeg",
+      "after": "../../Attachments/32315.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/1078-Friday Q&A_ Business Skills, Productive Vacations, Radical Consistency, Appreciating What You Have.md",
+      "source": "Attachments/61965.jpeg",
+      "destination": "Snipd/Attachments/61965.jpeg",
+      "before": "Attachments/61965.jpeg",
+      "after": "Snipd/Attachments/61965.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/1078-Friday Q&A_ Business Skills, Productive Vacations, Radical Consistency, Appreciating What You Have.md",
+      "source": "Attachments/61965.jpeg",
+      "destination": "Snipd/Attachments/61965.jpeg",
+      "before": "Attachments/61965.jpeg",
+      "after": "Snipd/Attachments/61965.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/962_ How to 10x Your Income (The 1000% Formula).md",
+      "source": "Attachments/32315.jpeg",
+      "destination": "Snipd/Attachments/32315.jpeg",
+      "before": "../../../Attachments/32315.jpeg",
+      "after": "../../Attachments/32315.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/962_ How to 10x Your Income (The 1000% Formula).md",
+      "source": "Attachments/61965.jpeg",
+      "destination": "Snipd/Attachments/61965.jpeg",
+      "before": "Attachments/61965.jpeg",
+      "after": "Snipd/Attachments/61965.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/962_ How to 10x Your Income (The 1000% Formula).md",
+      "source": "Attachments/61965.jpeg",
+      "destination": "Snipd/Attachments/61965.jpeg",
+      "before": "Attachments/61965.jpeg",
+      "after": "Snipd/Attachments/61965.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/967_ Friday Q&A_ Fix It Up or Sell It, Are CHSM Shares Tax-Deductible, Financial Discussions in Marriage, Math Academy, Ambleside Online.md",
+      "source": "Attachments/32315.jpeg",
+      "destination": "Snipd/Attachments/32315.jpeg",
+      "before": "../../../Attachments/32315.jpeg",
+      "after": "../../Attachments/32315.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/967_ Friday Q&A_ Fix It Up or Sell It, Are CHSM Shares Tax-Deductible, Financial Discussions in Marriage, Math Academy, Ambleside Online.md",
+      "source": "Attachments/61965.jpeg",
+      "destination": "Snipd/Attachments/61965.jpeg",
+      "before": "Attachments/61965.jpeg",
+      "after": "Snipd/Attachments/61965.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/967_ Friday Q&A_ Fix It Up or Sell It, Are CHSM Shares Tax-Deductible, Financial Discussions in Marriage, Math Academy, Ambleside Online.md",
+      "source": "Attachments/61965.jpeg",
+      "destination": "Snipd/Attachments/61965.jpeg",
+      "before": "Attachments/61965.jpeg",
+      "after": "Snipd/Attachments/61965.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/970_ Embrace Your Privilege.md",
+      "source": "Attachments/13619.jpeg",
+      "destination": "Snipd/Attachments/13619.jpeg",
+      "before": "../../../Attachments/13619.jpeg",
+      "after": "../../Attachments/13619.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/970_ Embrace Your Privilege.md",
+      "source": "Attachments/61965.jpeg",
+      "destination": "Snipd/Attachments/61965.jpeg",
+      "before": "Attachments/61965.jpeg",
+      "after": "Snipd/Attachments/61965.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/970_ Embrace Your Privilege.md",
+      "source": "Attachments/49413.jpeg",
+      "destination": "Snipd/Attachments/49413.jpeg",
+      "before": "Attachments/49413.jpeg",
+      "after": "Snipd/Attachments/49413.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/971_ Prepare When Times Are Good; Invest When Times Are Bad.md",
+      "source": "Attachments/12479.jpeg",
+      "destination": "Snipd/Attachments/12479.jpeg",
+      "before": "../../../Attachments/12479.jpeg",
+      "after": "../../Attachments/12479.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/971_ Prepare When Times Are Good; Invest When Times Are Bad.md",
+      "source": "Attachments/61965.jpeg",
+      "destination": "Snipd/Attachments/61965.jpeg",
+      "before": "Attachments/61965.jpeg",
+      "after": "Snipd/Attachments/61965.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/971_ Prepare When Times Are Good; Invest When Times Are Bad.md",
+      "source": "Attachments/51618.jpeg",
+      "destination": "Snipd/Attachments/51618.jpeg",
+      "before": "Attachments/51618.jpeg",
+      "after": "Snipd/Attachments/51618.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/974_ Why I Left the USA - Part 1.md",
+      "source": "Attachments/11930.jpeg",
+      "destination": "Snipd/Attachments/11930.jpeg",
+      "before": "../../../Attachments/11930.jpeg",
+      "after": "../../Attachments/11930.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/974_ Why I Left the USA - Part 1.md",
+      "source": "Attachments/61965.jpeg",
+      "destination": "Snipd/Attachments/61965.jpeg",
+      "before": "Attachments/61965.jpeg",
+      "after": "Snipd/Attachments/61965.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/974_ Why I Left the USA - Part 1.md",
+      "source": "Attachments/05847.jpeg",
+      "destination": "Snipd/Attachments/05847.jpeg",
+      "before": "Attachments/05847.jpeg",
+      "after": "Snipd/Attachments/05847.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/976_ Why I Left the USA - Part 2, For Adventure.md",
+      "source": "Attachments/71220.jpeg",
+      "destination": "Snipd/Attachments/71220.jpeg",
+      "before": "../../../Attachments/71220.jpeg",
+      "after": "../../Attachments/71220.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/976_ Why I Left the USA - Part 2, For Adventure.md",
+      "source": "Attachments/61965.jpeg",
+      "destination": "Snipd/Attachments/61965.jpeg",
+      "before": "Attachments/61965.jpeg",
+      "after": "Snipd/Attachments/61965.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/976_ Why I Left the USA - Part 2, For Adventure.md",
+      "source": "Attachments/88866.jpeg",
+      "destination": "Snipd/Attachments/88866.jpeg",
+      "before": "Attachments/88866.jpeg",
+      "after": "Snipd/Attachments/88866.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/Out & About_ Emergency Fund Planning, Credit Cards, and Disability Insurance _ Joshua's Appearance on the _Life Meets Money_ Podcast.md",
+      "source": "Attachments/32315.jpeg",
+      "destination": "Snipd/Attachments/32315.jpeg",
+      "before": "../../../Attachments/32315.jpeg",
+      "after": "../../Attachments/32315.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/Out & About_ Emergency Fund Planning, Credit Cards, and Disability Insurance _ Joshua's Appearance on the _Life Meets Money_ Podcast.md",
+      "source": "Attachments/61965.jpeg",
+      "destination": "Snipd/Attachments/61965.jpeg",
+      "before": "Attachments/61965.jpeg",
+      "after": "Snipd/Attachments/61965.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Radical Personal Finance/Out & About_ Emergency Fund Planning, Credit Cards, and Disability Insurance _ Joshua's Appearance on the _Life Meets Money_ Podcast.md",
+      "source": "Attachments/61965.jpeg",
+      "destination": "Snipd/Attachments/61965.jpeg",
+      "before": "Attachments/61965.jpeg",
+      "after": "Snipd/Attachments/61965.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Speaking of Psychology/Revealing the Hidden Brain, with Shankar Vedantam.md",
+      "source": "Attachments/74836.jpeg",
+      "destination": "Snipd/Attachments/74836.jpeg",
+      "before": "../../../Attachments/74836.jpeg",
+      "after": "../../Attachments/74836.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Speaking of Psychology/Revealing the Hidden Brain, with Shankar Vedantam.md",
+      "source": "Attachments/19569.jpeg",
+      "destination": "Snipd/Attachments/19569.jpeg",
+      "before": "Attachments/19569.jpeg",
+      "after": "Snipd/Attachments/19569.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Speaking of Psychology/Revealing the Hidden Brain, with Shankar Vedantam.md",
+      "source": "Attachments/19569.jpeg",
+      "destination": "Snipd/Attachments/19569.jpeg",
+      "before": "Attachments/19569.jpeg",
+      "after": "Snipd/Attachments/19569.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Stuff You Should Know/10ish Worst Business Decisions Ever.md",
+      "source": "Attachments/06582.jpeg",
+      "destination": "Snipd/Attachments/06582.jpeg",
+      "before": "../../../Attachments/06582.jpeg",
+      "after": "../../Attachments/06582.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Stuff You Should Know/10ish Worst Business Decisions Ever.md",
+      "source": "Attachments/04049.jpeg",
+      "destination": "Snipd/Attachments/04049.jpeg",
+      "before": "Attachments/04049.jpeg",
+      "after": "Snipd/Attachments/04049.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Stuff You Should Know/10ish Worst Business Decisions Ever.md",
+      "source": "Attachments/04049.jpeg",
+      "destination": "Snipd/Attachments/04049.jpeg",
+      "before": "Attachments/04049.jpeg",
+      "after": "Snipd/Attachments/04049.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Stuff You Should Know/Sherlock Holmes_ The Man, The Myth.md",
+      "source": "Attachments/06582.jpeg",
+      "destination": "Snipd/Attachments/06582.jpeg",
+      "before": "../../../Attachments/06582.jpeg",
+      "after": "../../Attachments/06582.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Stuff You Should Know/Sherlock Holmes_ The Man, The Myth.md",
+      "source": "Attachments/04049.jpeg",
+      "destination": "Snipd/Attachments/04049.jpeg",
+      "before": "Attachments/04049.jpeg",
+      "after": "Snipd/Attachments/04049.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Stuff You Should Know/Sherlock Holmes_ The Man, The Myth.md",
+      "source": "Attachments/04049.jpeg",
+      "destination": "Snipd/Attachments/04049.jpeg",
+      "before": "Attachments/04049.jpeg",
+      "after": "Snipd/Attachments/04049.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Stuff You Should Know/What is Collective Hysteria_.md",
+      "source": "Attachments/06582.jpeg",
+      "destination": "Snipd/Attachments/06582.jpeg",
+      "before": "../../../Attachments/06582.jpeg",
+      "after": "../../Attachments/06582.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Stuff You Should Know/What is Collective Hysteria_.md",
+      "source": "Attachments/04049.jpeg",
+      "destination": "Snipd/Attachments/04049.jpeg",
+      "before": "Attachments/04049.jpeg",
+      "after": "Snipd/Attachments/04049.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Stuff You Should Know/What is Collective Hysteria_.md",
+      "source": "Attachments/04049.jpeg",
+      "destination": "Snipd/Attachments/04049.jpeg",
+      "before": "Attachments/04049.jpeg",
+      "after": "Snipd/Attachments/04049.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Art of Manliness/Overcome the Comfort Crisis.md",
+      "source": "Attachments/80741.jpeg",
+      "destination": "Snipd/Attachments/80741.jpeg",
+      "before": "../../../Attachments/80741.jpeg",
+      "after": "../../Attachments/80741.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The Art of Manliness/Overcome the Comfort Crisis.md",
+      "source": "Attachments/18854.jpeg",
+      "destination": "Snipd/Attachments/18854.jpeg",
+      "before": "Attachments/18854.jpeg",
+      "after": "Snipd/Attachments/18854.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Art of Manliness/Overcome the Comfort Crisis.md",
+      "source": "Attachments/18854.jpeg",
+      "destination": "Snipd/Attachments/18854.jpeg",
+      "before": "Attachments/18854.jpeg",
+      "after": "Snipd/Attachments/18854.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Building a Second Brain Podcast/Myth_ Building a Second Brain is just self-help for note-taking nerds.md",
+      "source": "Attachments/14985.png",
+      "destination": "Snipd/Attachments/14985.png",
+      "before": "../../../Attachments/14985.png",
+      "after": "../../Attachments/14985.png",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The Building a Second Brain Podcast/Myth_ Building a Second Brain is just self-help for note-taking nerds.md",
+      "source": "Attachments/35418.png",
+      "destination": "Snipd/Attachments/35418.png",
+      "before": "Attachments/35418.png",
+      "after": "Snipd/Attachments/35418.png",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Building a Second Brain Podcast/Myth_ Building a Second Brain is just self-help for note-taking nerds.md",
+      "source": "Attachments/35418.png",
+      "destination": "Snipd/Attachments/35418.png",
+      "before": "Attachments/35418.png",
+      "after": "Snipd/Attachments/35418.png",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Colin and Samir Show/7 habits of highly successful YouTubers.md",
+      "source": "Attachments/88455.jpeg",
+      "destination": "Snipd/Attachments/88455.jpeg",
+      "before": "../../../Attachments/88455.jpeg",
+      "after": "../../Attachments/88455.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The Colin and Samir Show/7 habits of highly successful YouTubers.md",
+      "source": "Attachments/20161.jpeg",
+      "destination": "Snipd/Attachments/20161.jpeg",
+      "before": "Attachments/20161.jpeg",
+      "after": "Snipd/Attachments/20161.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Colin and Samir Show/7 habits of highly successful YouTubers.md",
+      "source": "Attachments/20161.jpeg",
+      "destination": "Snipd/Attachments/20161.jpeg",
+      "before": "Attachments/20161.jpeg",
+      "after": "Snipd/Attachments/20161.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Colin and Samir Show/An update from London.md",
+      "source": "Attachments/88455.jpeg",
+      "destination": "Snipd/Attachments/88455.jpeg",
+      "before": "../../../Attachments/88455.jpeg",
+      "after": "../../Attachments/88455.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The Colin and Samir Show/An update from London.md",
+      "source": "Attachments/20161.jpeg",
+      "destination": "Snipd/Attachments/20161.jpeg",
+      "before": "Attachments/20161.jpeg",
+      "after": "Snipd/Attachments/20161.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Colin and Samir Show/An update from London.md",
+      "source": "Attachments/20161.jpeg",
+      "destination": "Snipd/Attachments/20161.jpeg",
+      "before": "Attachments/20161.jpeg",
+      "after": "Snipd/Attachments/20161.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Colin and Samir Show/How Ali Abdaal makes $5,741,266.32 a year on YouTube.md",
+      "source": "Attachments/88455.jpeg",
+      "destination": "Snipd/Attachments/88455.jpeg",
+      "before": "../../../Attachments/88455.jpeg",
+      "after": "../../Attachments/88455.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The Colin and Samir Show/How Ali Abdaal makes $5,741,266.32 a year on YouTube.md",
+      "source": "Attachments/20161.jpeg",
+      "destination": "Snipd/Attachments/20161.jpeg",
+      "before": "Attachments/20161.jpeg",
+      "after": "Snipd/Attachments/20161.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Colin and Samir Show/How Ali Abdaal makes $5,741,266.32 a year on YouTube.md",
+      "source": "Attachments/20161.jpeg",
+      "destination": "Snipd/Attachments/20161.jpeg",
+      "before": "Attachments/20161.jpeg",
+      "after": "Snipd/Attachments/20161.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Danny Miranda Podcast/_421_ Scott H. Young – The Art Of Learning.md",
+      "source": "Attachments/31252.jpeg",
+      "destination": "Snipd/Attachments/31252.jpeg",
+      "before": "../../../Attachments/31252.jpeg",
+      "after": "../../Attachments/31252.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The Danny Miranda Podcast/_421_ Scott H. Young – The Art Of Learning.md",
+      "source": "Attachments/41051.jpeg",
+      "destination": "Snipd/Attachments/41051.jpeg",
+      "before": "Attachments/41051.jpeg",
+      "after": "Snipd/Attachments/41051.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Danny Miranda Podcast/_421_ Scott H. Young – The Art Of Learning.md",
+      "source": "Attachments/41051.jpeg",
+      "destination": "Snipd/Attachments/41051.jpeg",
+      "before": "Attachments/41051.jpeg",
+      "after": "Snipd/Attachments/41051.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Goal Digger Podcast _ Top Business and Marketing Podcast for Creatives, Entrepreneurs, and Women in Business/584_ The 4 Strategies That Doubled My Affiliate Income Last Year.md",
+      "source": "Attachments/86012.jpeg",
+      "destination": "Snipd/Attachments/86012.jpeg",
+      "before": "../../../Attachments/86012.jpeg",
+      "after": "../../Attachments/86012.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The Goal Digger Podcast _ Top Business and Marketing Podcast for Creatives, Entrepreneurs, and Women in Business/584_ The 4 Strategies That Doubled My Affiliate Income Last Year.md",
+      "source": "Attachments/01208.jpeg",
+      "destination": "Snipd/Attachments/01208.jpeg",
+      "before": "Attachments/01208.jpeg",
+      "after": "Snipd/Attachments/01208.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Goal Digger Podcast _ Top Business and Marketing Podcast for Creatives, Entrepreneurs, and Women in Business/584_ The 4 Strategies That Doubled My Affiliate Income Last Year.md",
+      "source": "Attachments/41910.jpeg",
+      "destination": "Snipd/Attachments/41910.jpeg",
+      "before": "Attachments/41910.jpeg",
+      "after": "Snipd/Attachments/41910.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Good Financial Cents Show w_ Jeff Rose, CFP®/Ep. 219 - 2 Investments That Made Me Into a Multi-Millionaire.md",
+      "source": "Attachments/82871.png",
+      "destination": "Snipd/Attachments/82871.png",
+      "before": "../../../Attachments/82871.png",
+      "after": "../../Attachments/82871.png",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The Good Financial Cents Show w_ Jeff Rose, CFP®/Ep. 219 - 2 Investments That Made Me Into a Multi-Millionaire.md",
+      "source": "Attachments/24429.png",
+      "destination": "Snipd/Attachments/24429.png",
+      "before": "Attachments/24429.png",
+      "after": "Snipd/Attachments/24429.png",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Good Financial Cents Show w_ Jeff Rose, CFP®/Ep. 219 - 2 Investments That Made Me Into a Multi-Millionaire.md",
+      "source": "Attachments/24429.png",
+      "destination": "Snipd/Attachments/24429.png",
+      "before": "Attachments/24429.png",
+      "after": "Snipd/Attachments/24429.png",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Knowledge Project/_122 Robert Cialdini - The Principles of Persuasion.md",
+      "source": "Attachments/72412.jpeg",
+      "destination": "Snipd/Attachments/72412.jpeg",
+      "before": "../../../Attachments/72412.jpeg",
+      "after": "../../Attachments/72412.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The Knowledge Project/_122 Robert Cialdini - The Principles of Persuasion.md",
+      "source": "Attachments/95815.jpeg",
+      "destination": "Snipd/Attachments/95815.jpeg",
+      "before": "Attachments/95815.jpeg",
+      "after": "Snipd/Attachments/95815.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Knowledge Project/_122 Robert Cialdini - The Principles of Persuasion.md",
+      "source": "Attachments/31076.jpeg",
+      "destination": "Snipd/Attachments/31076.jpeg",
+      "before": "Attachments/31076.jpeg",
+      "after": "Snipd/Attachments/31076.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Knowledge Project/Laurie Santos_ The Pursuit of Happiness.md",
+      "source": "Attachments/99453.jpeg",
+      "destination": "Snipd/Attachments/99453.jpeg",
+      "before": "../../../Attachments/99453.jpeg",
+      "after": "../../Attachments/99453.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The Knowledge Project/Laurie Santos_ The Pursuit of Happiness.md",
+      "source": "Attachments/95815.jpeg",
+      "destination": "Snipd/Attachments/95815.jpeg",
+      "before": "Attachments/95815.jpeg",
+      "after": "Snipd/Attachments/95815.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Knowledge Project/Laurie Santos_ The Pursuit of Happiness.md",
+      "source": "Attachments/95815.jpeg",
+      "destination": "Snipd/Attachments/95815.jpeg",
+      "before": "Attachments/95815.jpeg",
+      "after": "Snipd/Attachments/95815.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Nick Huber Show/Ep 142_ The Moment That Changed My Life in Business Forever.md",
+      "source": "Attachments/40984.jpeg",
+      "destination": "Snipd/Attachments/40984.jpeg",
+      "before": "../../../Attachments/40984.jpeg",
+      "after": "../../Attachments/40984.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The Nick Huber Show/Ep 142_ The Moment That Changed My Life in Business Forever.md",
+      "source": "Attachments/48121.jpeg",
+      "destination": "Snipd/Attachments/48121.jpeg",
+      "before": "Attachments/48121.jpeg",
+      "after": "Snipd/Attachments/48121.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Nick Huber Show/Ep 142_ The Moment That Changed My Life in Business Forever.md",
+      "source": "Attachments/48121.jpeg",
+      "destination": "Snipd/Attachments/48121.jpeg",
+      "before": "Attachments/48121.jpeg",
+      "after": "Snipd/Attachments/48121.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Peter Attia Drive/_199 - Running, overcoming challenges, and finding success _ Ryan Hall.md",
+      "source": "Attachments/12243.png",
+      "destination": "Snipd/Attachments/12243.png",
+      "before": "../../../Attachments/12243.png",
+      "after": "../../Attachments/12243.png",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The Peter Attia Drive/_199 - Running, overcoming challenges, and finding success _ Ryan Hall.md",
+      "source": "Attachments/51957.png",
+      "destination": "Snipd/Attachments/51957.png",
+      "before": "Attachments/51957.png",
+      "after": "Snipd/Attachments/51957.png",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Peter Attia Drive/_199 - Running, overcoming challenges, and finding success _ Ryan Hall.md",
+      "source": "Attachments/51957.png",
+      "destination": "Snipd/Attachments/51957.png",
+      "before": "Attachments/51957.png",
+      "after": "Snipd/Attachments/51957.png",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Peter Attia Drive/_252 ‒ Latest insights on Alzheimer's disease, cancer, exercise, nutrition, and fasting _ Rhonda Patrick, Ph.D.md",
+      "source": "Attachments/12243.png",
+      "destination": "Snipd/Attachments/12243.png",
+      "before": "../../../Attachments/12243.png",
+      "after": "../../Attachments/12243.png",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The Peter Attia Drive/_252 ‒ Latest insights on Alzheimer's disease, cancer, exercise, nutrition, and fasting _ Rhonda Patrick, Ph.D.md",
+      "source": "Attachments/51957.png",
+      "destination": "Snipd/Attachments/51957.png",
+      "before": "Attachments/51957.png",
+      "after": "Snipd/Attachments/51957.png",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Peter Attia Drive/_252 ‒ Latest insights on Alzheimer's disease, cancer, exercise, nutrition, and fasting _ Rhonda Patrick, Ph.D.md",
+      "source": "Attachments/51957.png",
+      "destination": "Snipd/Attachments/51957.png",
+      "before": "Attachments/51957.png",
+      "after": "Snipd/Attachments/51957.png",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Peter Attia Drive/_265 - Time, productivity, and purpose_ insights from Four Thousand Weeks _ Oliver Burkeman.md",
+      "source": "Attachments/12243.png",
+      "destination": "Snipd/Attachments/12243.png",
+      "before": "../../../Attachments/12243.png",
+      "after": "../../Attachments/12243.png",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The Peter Attia Drive/_265 - Time, productivity, and purpose_ insights from Four Thousand Weeks _ Oliver Burkeman.md",
+      "source": "Attachments/51957.png",
+      "destination": "Snipd/Attachments/51957.png",
+      "before": "Attachments/51957.png",
+      "after": "Snipd/Attachments/51957.png",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Peter Attia Drive/_265 - Time, productivity, and purpose_ insights from Four Thousand Weeks _ Oliver Burkeman.md",
+      "source": "Attachments/51957.png",
+      "destination": "Snipd/Attachments/51957.png",
+      "before": "Attachments/51957.png",
+      "after": "Snipd/Attachments/51957.png",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Progressive Property Podcast/From Broke Student to £4.8 Million Portfolio with Ahmed Khan.md",
+      "source": "Attachments/49771.jpeg",
+      "destination": "Snipd/Attachments/49771.jpeg",
+      "before": "../../../Attachments/49771.jpeg",
+      "after": "../../Attachments/49771.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The Progressive Property Podcast/From Broke Student to £4.8 Million Portfolio with Ahmed Khan.md",
+      "source": "Attachments/64605.jpeg",
+      "destination": "Snipd/Attachments/64605.jpeg",
+      "before": "Attachments/64605.jpeg",
+      "after": "Snipd/Attachments/64605.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Progressive Property Podcast/From Broke Student to £4.8 Million Portfolio with Ahmed Khan.md",
+      "source": "Attachments/89219.jpeg",
+      "destination": "Snipd/Attachments/89219.jpeg",
+      "before": "Attachments/89219.jpeg",
+      "after": "Snipd/Attachments/89219.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Rich Roll Podcast/Physiologist Drew Harrisberg On Everything Blood Glucose, Understanding Diabetes & Plant-Based Nutrition Fundamentals.md",
+      "source": "Attachments/12389.jpeg",
+      "destination": "Snipd/Attachments/12389.jpeg",
+      "before": "../../../Attachments/12389.jpeg",
+      "after": "../../Attachments/12389.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The Rich Roll Podcast/Physiologist Drew Harrisberg On Everything Blood Glucose, Understanding Diabetes & Plant-Based Nutrition Fundamentals.md",
+      "source": "Attachments/50189.jpeg",
+      "destination": "Snipd/Attachments/50189.jpeg",
+      "before": "Attachments/50189.jpeg",
+      "after": "Snipd/Attachments/50189.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Rich Roll Podcast/Physiologist Drew Harrisberg On Everything Blood Glucose, Understanding Diabetes & Plant-Based Nutrition Fundamentals.md",
+      "source": "Attachments/94413.jpeg",
+      "destination": "Snipd/Attachments/94413.jpeg",
+      "before": "Attachments/94413.jpeg",
+      "after": "Snipd/Attachments/94413.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The School of Greatness/Build Multiple Income Streams, Habits To Become A Millionaire, and How To Gamify Your Productivity w_Ali Abdaal ﻿EP 1158.md",
+      "source": "Attachments/91708.jpeg",
+      "destination": "Snipd/Attachments/91708.jpeg",
+      "before": "../../../Attachments/91708.jpeg",
+      "after": "../../Attachments/91708.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The School of Greatness/Build Multiple Income Streams, Habits To Become A Millionaire, and How To Gamify Your Productivity w_Ali Abdaal ﻿EP 1158.md",
+      "source": "Attachments/84010.jpeg",
+      "destination": "Snipd/Attachments/84010.jpeg",
+      "before": "Attachments/84010.jpeg",
+      "after": "Snipd/Attachments/84010.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The School of Greatness/Build Multiple Income Streams, Habits To Become A Millionaire, and How To Gamify Your Productivity w_Ali Abdaal ﻿EP 1158.md",
+      "source": "Attachments/84010.jpeg",
+      "destination": "Snipd/Attachments/84010.jpeg",
+      "before": "Attachments/84010.jpeg",
+      "after": "Snipd/Attachments/84010.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The School of Greatness/Do THIS To Get Rich and STAY Rich (It’s Deceptively SIMPLE!) _ Morgan Housel.md",
+      "source": "Attachments/64269.jpeg",
+      "destination": "Snipd/Attachments/64269.jpeg",
+      "before": "../../../Attachments/64269.jpeg",
+      "after": "../../Attachments/64269.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The School of Greatness/Do THIS To Get Rich and STAY Rich (It’s Deceptively SIMPLE!) _ Morgan Housel.md",
+      "source": "Attachments/84010.jpeg",
+      "destination": "Snipd/Attachments/84010.jpeg",
+      "before": "Attachments/84010.jpeg",
+      "after": "Snipd/Attachments/84010.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The School of Greatness/Do THIS To Get Rich and STAY Rich (It’s Deceptively SIMPLE!) _ Morgan Housel.md",
+      "source": "Attachments/23487.jpeg",
+      "destination": "Snipd/Attachments/23487.jpeg",
+      "before": "Attachments/23487.jpeg",
+      "after": "Snipd/Attachments/23487.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The School of Greatness/HACK Your BRAIN to Take Immediate Action_ 90% of HIGH ACHIEVERS Practice THESE HABITS Daily.md",
+      "source": "Attachments/35423.jpeg",
+      "destination": "Snipd/Attachments/35423.jpeg",
+      "before": "../../../Attachments/35423.jpeg",
+      "after": "../../Attachments/35423.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The School of Greatness/HACK Your BRAIN to Take Immediate Action_ 90% of HIGH ACHIEVERS Practice THESE HABITS Daily.md",
+      "source": "Attachments/84010.jpeg",
+      "destination": "Snipd/Attachments/84010.jpeg",
+      "before": "Attachments/84010.jpeg",
+      "after": "Snipd/Attachments/84010.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The School of Greatness/HACK Your BRAIN to Take Immediate Action_ 90% of HIGH ACHIEVERS Practice THESE HABITS Daily.md",
+      "source": "Attachments/22462.jpeg",
+      "destination": "Snipd/Attachments/22462.jpeg",
+      "before": "Attachments/22462.jpeg",
+      "after": "Snipd/Attachments/22462.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Side Hustle Show/707_ $70k on the Side in 6 Months with Aura Photography.md",
+      "source": "Attachments/24796.jpeg",
+      "destination": "Snipd/Attachments/24796.jpeg",
+      "before": "../../../Attachments/24796.jpeg",
+      "after": "../../Attachments/24796.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The Side Hustle Show/707_ $70k on the Side in 6 Months with Aura Photography.md",
+      "source": "Attachments/13452.jpeg",
+      "destination": "Snipd/Attachments/13452.jpeg",
+      "before": "Attachments/13452.jpeg",
+      "after": "Snipd/Attachments/13452.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Side Hustle Show/707_ $70k on the Side in 6 Months with Aura Photography.md",
+      "source": "Attachments/40694.jpeg",
+      "destination": "Snipd/Attachments/40694.jpeg",
+      "before": "Attachments/40694.jpeg",
+      "after": "Snipd/Attachments/40694.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Stacking Benjamins Show/How Polluted Is Your Financial Plan_.md",
+      "source": "Attachments/69685.jpeg",
+      "destination": "Snipd/Attachments/69685.jpeg",
+      "before": "../../../Attachments/69685.jpeg",
+      "after": "../../Attachments/69685.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The Stacking Benjamins Show/How Polluted Is Your Financial Plan_.md",
+      "source": "Attachments/12202.jpeg",
+      "destination": "Snipd/Attachments/12202.jpeg",
+      "before": "Attachments/12202.jpeg",
+      "after": "Snipd/Attachments/12202.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Stacking Benjamins Show/How Polluted Is Your Financial Plan_.md",
+      "source": "Attachments/12202.jpeg",
+      "destination": "Snipd/Attachments/12202.jpeg",
+      "before": "Attachments/12202.jpeg",
+      "after": "Snipd/Attachments/12202.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Survival Podcast/12 Ways to Live Free in an Unfree World – Epi-3410.md",
+      "source": "Attachments/01184.jpeg",
+      "destination": "Snipd/Attachments/01184.jpeg",
+      "before": "../../../Attachments/01184.jpeg",
+      "after": "../../Attachments/01184.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The Survival Podcast/12 Ways to Live Free in an Unfree World – Epi-3410.md",
+      "source": "Attachments/76654.jpeg",
+      "destination": "Snipd/Attachments/76654.jpeg",
+      "before": "Attachments/76654.jpeg",
+      "after": "Snipd/Attachments/76654.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Survival Podcast/12 Ways to Live Free in an Unfree World – Epi-3410.md",
+      "source": "Attachments/76654.jpeg",
+      "destination": "Snipd/Attachments/76654.jpeg",
+      "before": "Attachments/76654.jpeg",
+      "after": "Snipd/Attachments/76654.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Survival Podcast/Killing the Poverty Mindset – Epi-3393.md",
+      "source": "Attachments/01184.jpeg",
+      "destination": "Snipd/Attachments/01184.jpeg",
+      "before": "../../../Attachments/01184.jpeg",
+      "after": "../../Attachments/01184.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The Survival Podcast/Killing the Poverty Mindset – Epi-3393.md",
+      "source": "Attachments/76654.jpeg",
+      "destination": "Snipd/Attachments/76654.jpeg",
+      "before": "Attachments/76654.jpeg",
+      "after": "Snipd/Attachments/76654.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Survival Podcast/Killing the Poverty Mindset – Epi-3393.md",
+      "source": "Attachments/76654.jpeg",
+      "destination": "Snipd/Attachments/76654.jpeg",
+      "before": "Attachments/76654.jpeg",
+      "after": "Snipd/Attachments/76654.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Survival Podcast/The 12 Taxes that Control the World- Epi-3628.md",
+      "source": "Attachments/01184.jpeg",
+      "destination": "Snipd/Attachments/01184.jpeg",
+      "before": "../../../Attachments/01184.jpeg",
+      "after": "../../Attachments/01184.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The Survival Podcast/The 12 Taxes that Control the World- Epi-3628.md",
+      "source": "Attachments/76654.jpeg",
+      "destination": "Snipd/Attachments/76654.jpeg",
+      "before": "Attachments/76654.jpeg",
+      "after": "Snipd/Attachments/76654.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Survival Podcast/The 12 Taxes that Control the World- Epi-3628.md",
+      "source": "Attachments/76654.jpeg",
+      "destination": "Snipd/Attachments/76654.jpeg",
+      "before": "Attachments/76654.jpeg",
+      "after": "Snipd/Attachments/76654.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Sweaty Startup/407_ Making Money - The skill you need to develop.md",
+      "source": "Attachments/16643.png",
+      "destination": "Snipd/Attachments/16643.png",
+      "before": "../../../Attachments/16643.png",
+      "after": "../../Attachments/16643.png",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The Sweaty Startup/407_ Making Money - The skill you need to develop.md",
+      "source": "Attachments/55910.png",
+      "destination": "Snipd/Attachments/55910.png",
+      "before": "Attachments/55910.png",
+      "after": "Snipd/Attachments/55910.png",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Sweaty Startup/407_ Making Money - The skill you need to develop.md",
+      "source": "Attachments/55910.png",
+      "destination": "Snipd/Attachments/55910.png",
+      "before": "Attachments/55910.png",
+      "after": "Snipd/Attachments/55910.png",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Tim Ferriss Show/_107_ The Scariest Navy SEAL I've Ever Met...And What He Taught Me.md",
+      "source": "Attachments/66166.jpeg",
+      "destination": "Snipd/Attachments/66166.jpeg",
+      "before": "../../../Attachments/66166.jpeg",
+      "after": "../../Attachments/66166.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The Tim Ferriss Show/_107_ The Scariest Navy SEAL I've Ever Met...And What He Taught Me.md",
+      "source": "Attachments/02041.jpeg",
+      "destination": "Snipd/Attachments/02041.jpeg",
+      "before": "Attachments/02041.jpeg",
+      "after": "Snipd/Attachments/02041.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Tim Ferriss Show/_107_ The Scariest Navy SEAL I've Ever Met...And What He Taught Me.md",
+      "source": "Attachments/02041.jpeg",
+      "destination": "Snipd/Attachments/02041.jpeg",
+      "before": "Attachments/02041.jpeg",
+      "after": "Snipd/Attachments/02041.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Tim Ferriss Show/_648_ James Clear, Atomic Habits — Simple Strategies for Building (and Breaking) Habits, Questions for Personal Mastery and Growth, Tactics for Writin.md",
+      "source": "Attachments/66166.jpeg",
+      "destination": "Snipd/Attachments/66166.jpeg",
+      "before": "../../../Attachments/66166.jpeg",
+      "after": "../../Attachments/66166.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The Tim Ferriss Show/_648_ James Clear, Atomic Habits — Simple Strategies for Building (and Breaking) Habits, Questions for Personal Mastery and Growth, Tactics for Writin.md",
+      "source": "Attachments/02041.jpeg",
+      "destination": "Snipd/Attachments/02041.jpeg",
+      "before": "Attachments/02041.jpeg",
+      "after": "Snipd/Attachments/02041.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Tim Ferriss Show/_648_ James Clear, Atomic Habits — Simple Strategies for Building (and Breaking) Habits, Questions for Personal Mastery and Growth, Tactics for Writin.md",
+      "source": "Attachments/02041.jpeg",
+      "destination": "Snipd/Attachments/02041.jpeg",
+      "before": "Attachments/02041.jpeg",
+      "after": "Snipd/Attachments/02041.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Tim Ferriss Show/_672_ Seth Godin — The Pursuit of Meaning, The Life-Changing Power of Choosing Your Attitude, Overcoming Rejection, Life Lessons from Zig Ziglar, and.md",
+      "source": "Attachments/66166.jpeg",
+      "destination": "Snipd/Attachments/66166.jpeg",
+      "before": "../../../Attachments/66166.jpeg",
+      "after": "../../Attachments/66166.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The Tim Ferriss Show/_672_ Seth Godin — The Pursuit of Meaning, The Life-Changing Power of Choosing Your Attitude, Overcoming Rejection, Life Lessons from Zig Ziglar, and.md",
+      "source": "Attachments/02041.jpeg",
+      "destination": "Snipd/Attachments/02041.jpeg",
+      "before": "Attachments/02041.jpeg",
+      "after": "Snipd/Attachments/02041.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Tim Ferriss Show/_672_ Seth Godin — The Pursuit of Meaning, The Life-Changing Power of Choosing Your Attitude, Overcoming Rejection, Life Lessons from Zig Ziglar, and.md",
+      "source": "Attachments/02041.jpeg",
+      "destination": "Snipd/Attachments/02041.jpeg",
+      "before": "Attachments/02041.jpeg",
+      "after": "Snipd/Attachments/02041.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Tim Ferriss Show/_72_ Triple H on Pre-Fight Rituals, Injury Avoidance, and Floyd Mayweather, Jr.md",
+      "source": "Attachments/75745.jpeg",
+      "destination": "Snipd/Attachments/75745.jpeg",
+      "before": "../../../Attachments/75745.jpeg",
+      "after": "../../Attachments/75745.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/The Tim Ferriss Show/_72_ Triple H on Pre-Fight Rituals, Injury Avoidance, and Floyd Mayweather, Jr.md",
+      "source": "Attachments/02041.jpeg",
+      "destination": "Snipd/Attachments/02041.jpeg",
+      "before": "Attachments/02041.jpeg",
+      "after": "Snipd/Attachments/02041.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/The Tim Ferriss Show/_72_ Triple H on Pre-Fight Rituals, Injury Avoidance, and Floyd Mayweather, Jr.md",
+      "source": "Attachments/25459.jpeg",
+      "destination": "Snipd/Attachments/25459.jpeg",
+      "before": "Attachments/25459.jpeg",
+      "after": "Snipd/Attachments/25459.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Unthinkable with Jay Acunzo/Art of the Unfinished _Creativity Series _18_.md",
+      "source": "Attachments/63883.jpeg",
+      "destination": "Snipd/Attachments/63883.jpeg",
+      "before": "../../../Attachments/63883.jpeg",
+      "after": "../../Attachments/63883.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Unthinkable with Jay Acunzo/Art of the Unfinished _Creativity Series _18_.md",
+      "source": "Attachments/71638.jpeg",
+      "destination": "Snipd/Attachments/71638.jpeg",
+      "before": "Attachments/71638.jpeg",
+      "after": "Snipd/Attachments/71638.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Unthinkable with Jay Acunzo/Art of the Unfinished _Creativity Series _18_.md",
+      "source": "Attachments/71638.jpeg",
+      "destination": "Snipd/Attachments/71638.jpeg",
+      "before": "Attachments/71638.jpeg",
+      "after": "Snipd/Attachments/71638.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Unthinkable with Jay Acunzo/Behind-the-Scenes Making the Show.md",
+      "source": "Attachments/63883.jpeg",
+      "destination": "Snipd/Attachments/63883.jpeg",
+      "before": "../../../Attachments/63883.jpeg",
+      "after": "../../Attachments/63883.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Unthinkable with Jay Acunzo/Behind-the-Scenes Making the Show.md",
+      "source": "Attachments/71638.jpeg",
+      "destination": "Snipd/Attachments/71638.jpeg",
+      "before": "Attachments/71638.jpeg",
+      "after": "Snipd/Attachments/71638.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Unthinkable with Jay Acunzo/Behind-the-Scenes Making the Show.md",
+      "source": "Attachments/71638.jpeg",
+      "destination": "Snipd/Attachments/71638.jpeg",
+      "before": "Attachments/71638.jpeg",
+      "after": "Snipd/Attachments/71638.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Unthinkable with Jay Acunzo/Don't Start with Data _Creativity Series _28_.md",
+      "source": "Attachments/63883.jpeg",
+      "destination": "Snipd/Attachments/63883.jpeg",
+      "before": "../../../Attachments/63883.jpeg",
+      "after": "../../Attachments/63883.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Unthinkable with Jay Acunzo/Don't Start with Data _Creativity Series _28_.md",
+      "source": "Attachments/71638.jpeg",
+      "destination": "Snipd/Attachments/71638.jpeg",
+      "before": "Attachments/71638.jpeg",
+      "after": "Snipd/Attachments/71638.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Unthinkable with Jay Acunzo/Don't Start with Data _Creativity Series _28_.md",
+      "source": "Attachments/71638.jpeg",
+      "destination": "Snipd/Attachments/71638.jpeg",
+      "before": "Attachments/71638.jpeg",
+      "after": "Snipd/Attachments/71638.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Unthinkable with Jay Acunzo/Process _Intuition Series _5_.md",
+      "source": "Attachments/63883.jpeg",
+      "destination": "Snipd/Attachments/63883.jpeg",
+      "before": "../../../Attachments/63883.jpeg",
+      "after": "../../Attachments/63883.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Unthinkable with Jay Acunzo/Process _Intuition Series _5_.md",
+      "source": "Attachments/71638.jpeg",
+      "destination": "Snipd/Attachments/71638.jpeg",
+      "before": "Attachments/71638.jpeg",
+      "after": "Snipd/Attachments/71638.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Unthinkable with Jay Acunzo/Process _Intuition Series _5_.md",
+      "source": "Attachments/71638.jpeg",
+      "destination": "Snipd/Attachments/71638.jpeg",
+      "before": "Attachments/71638.jpeg",
+      "after": "Snipd/Attachments/71638.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Unthinkable with Jay Acunzo/Slingshot_ Magic Markers _Creativity Series _19_.md",
+      "source": "Attachments/63883.jpeg",
+      "destination": "Snipd/Attachments/63883.jpeg",
+      "before": "../../../Attachments/63883.jpeg",
+      "after": "../../Attachments/63883.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Unthinkable with Jay Acunzo/Slingshot_ Magic Markers _Creativity Series _19_.md",
+      "source": "Attachments/71638.jpeg",
+      "destination": "Snipd/Attachments/71638.jpeg",
+      "before": "Attachments/71638.jpeg",
+      "after": "Snipd/Attachments/71638.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Unthinkable with Jay Acunzo/Slingshot_ Magic Markers _Creativity Series _19_.md",
+      "source": "Attachments/71638.jpeg",
+      "destination": "Snipd/Attachments/71638.jpeg",
+      "before": "Attachments/71638.jpeg",
+      "after": "Snipd/Attachments/71638.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Unthinkable with Jay Acunzo/That Gut Feeling _Intuition Series _1_.md",
+      "source": "Attachments/63883.jpeg",
+      "destination": "Snipd/Attachments/63883.jpeg",
+      "before": "../../../Attachments/63883.jpeg",
+      "after": "../../Attachments/63883.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Unthinkable with Jay Acunzo/That Gut Feeling _Intuition Series _1_.md",
+      "source": "Attachments/71638.jpeg",
+      "destination": "Snipd/Attachments/71638.jpeg",
+      "before": "Attachments/71638.jpeg",
+      "after": "Snipd/Attachments/71638.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Unthinkable with Jay Acunzo/That Gut Feeling _Intuition Series _1_.md",
+      "source": "Attachments/71638.jpeg",
+      "destination": "Snipd/Attachments/71638.jpeg",
+      "before": "Attachments/71638.jpeg",
+      "after": "Snipd/Attachments/71638.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Unthinkable with Jay Acunzo/The Bias to Act _Creativity Series _14_.md",
+      "source": "Attachments/63883.jpeg",
+      "destination": "Snipd/Attachments/63883.jpeg",
+      "before": "../../../Attachments/63883.jpeg",
+      "after": "../../Attachments/63883.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Unthinkable with Jay Acunzo/The Bias to Act _Creativity Series _14_.md",
+      "source": "Attachments/71638.jpeg",
+      "destination": "Snipd/Attachments/71638.jpeg",
+      "before": "Attachments/71638.jpeg",
+      "after": "Snipd/Attachments/71638.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Unthinkable with Jay Acunzo/The Bias to Act _Creativity Series _14_.md",
+      "source": "Attachments/71638.jpeg",
+      "destination": "Snipd/Attachments/71638.jpeg",
+      "before": "Attachments/71638.jpeg",
+      "after": "Snipd/Attachments/71638.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Unthinkable with Jay Acunzo/Zig When Others Zag _Creativity Series _12_.md",
+      "source": "Attachments/63883.jpeg",
+      "destination": "Snipd/Attachments/63883.jpeg",
+      "before": "../../../Attachments/63883.jpeg",
+      "after": "../../Attachments/63883.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/Unthinkable with Jay Acunzo/Zig When Others Zag _Creativity Series _12_.md",
+      "source": "Attachments/71638.jpeg",
+      "destination": "Snipd/Attachments/71638.jpeg",
+      "before": "Attachments/71638.jpeg",
+      "after": "Snipd/Attachments/71638.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/Unthinkable with Jay Acunzo/Zig When Others Zag _Creativity Series _12_.md",
+      "source": "Attachments/71638.jpeg",
+      "destination": "Snipd/Attachments/71638.jpeg",
+      "before": "Attachments/71638.jpeg",
+      "after": "Snipd/Attachments/71638.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/You Are Not So Smart/263 - The Truth Wins - Tom Stafford (rebroadcast).md",
+      "source": "Attachments/61595.jpeg",
+      "destination": "Snipd/Attachments/61595.jpeg",
+      "before": "../../../Attachments/61595.jpeg",
+      "after": "../../Attachments/61595.jpeg",
+      "style": "markdown"
+    },
+    {
+      "note": "Snipd/Data/You Are Not So Smart/263 - The Truth Wins - Tom Stafford (rebroadcast).md",
+      "source": "Attachments/10930.jpeg",
+      "destination": "Snipd/Attachments/10930.jpeg",
+      "before": "Attachments/10930.jpeg",
+      "after": "Snipd/Attachments/10930.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/Data/You Are Not So Smart/263 - The Truth Wins - Tom Stafford (rebroadcast).md",
+      "source": "Attachments/10930.jpeg",
+      "destination": "Snipd/Attachments/10930.jpeg",
+      "before": "Attachments/10930.jpeg",
+      "after": "Snipd/Attachments/10930.jpeg",
+      "style": "property"
+    },
+    {
+      "note": "Snipd/README.md",
+      "source": "Attachments/29959.png",
+      "destination": "Snipd/Attachments/29959.png",
+      "before": "../Attachments/29959.png",
+      "after": "Attachments/29959.png",
+      "style": "markdown"
+    },
+    {
+      "note": "Workflows/03 IMF_AdvancedStarterKit_v2/Benefits of IMF.md",
+      "source": "Workflows/03 IMF_AdvancedStarterKit_v2/_media/Wolverine tethered.jpg",
+      "destination": "Workflows/Attachments/Wolverine tethered.jpg",
+      "before": "Wolverine tethered.jpg",
+      "after": "Workflows/Attachments/Wolverine tethered.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Workflows/03 IMF_AdvancedStarterKit_v2/Flow Map.md",
+      "source": "Workflows/03 IMF_AdvancedStarterKit_v2/_media/Flow Map.png",
+      "destination": "Workflows/Attachments/Flow Map.png",
+      "before": "Flow Map.png",
+      "after": "Workflows/Attachments/Flow Map.png",
+      "style": "wiki"
+    },
+    {
+      "note": "Workflows/03 IMF_AdvancedStarterKit_v2/Flow Map.md",
+      "source": "Workflows/03 IMF_AdvancedStarterKit_v2/_media/Flow Map - Original.jpg",
+      "destination": "Workflows/Attachments/Flow Map - Original.jpg",
+      "before": "Flow Map - Original.jpg",
+      "after": "Workflows/Attachments/Flow Map - Original.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Workflows/03 IMF_AdvancedStarterKit_v2/Flow Map.md",
+      "source": "Workflows/03 IMF_AdvancedStarterKit_v2/_media/Flow Zone Channel.jpg",
+      "destination": "Workflows/Attachments/Flow Zone Channel.jpg",
+      "before": "Flow Zone Channel.jpg",
+      "after": "Workflows/Attachments/Flow Zone Channel.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Workflows/03 IMF_AdvancedStarterKit_v2/FlowCreation Theory.md",
+      "source": "Workflows/03 IMF_AdvancedStarterKit_v2/_media/Flow Map.png",
+      "destination": "Workflows/Attachments/Flow Map.png",
+      "before": "Flow Map.png",
+      "after": "Workflows/Attachments/Flow Map.png",
+      "style": "wiki"
+    },
+    {
+      "note": "Workflows/03 IMF_AdvancedStarterKit_v2/Four Factors of Flow.md",
+      "source": "Workflows/03 IMF_AdvancedStarterKit_v2/_media/stay on target.jpg",
+      "destination": "Workflows/Attachments/stay on target.jpg",
+      "before": "stay on target.jpg",
+      "after": "Workflows/Attachments/stay on target.jpg",
+      "style": "wiki"
+    },
+    {
+      "note": "Workflows/03 IMF_AdvancedStarterKit_v2/Four Factors of Flow.md",
+      "source": "Workflows/03 IMF_AdvancedStarterKit_v2/_media/four factors of flow.png",
+      "destination": "Workflows/Attachments/four factors of flow.png",
+      "before": "four factors of flow.png",
+      "after": "Workflows/Attachments/four factors of flow.png",
+      "style": "wiki"
+    },
+    {
+      "note": "Workflows/03 IMF_AdvancedStarterKit_v2/Why Categories for Your Note Archive are a Good Idea (IMF).md",
+      "source": "Workflows/03 IMF_AdvancedStarterKit_v2/_media/Wolverine tethered.jpg",
+      "destination": "Workflows/Attachments/Wolverine tethered.jpg",
+      "before": "Wolverine tethered.jpg",
+      "after": "Workflows/Attachments/Wolverine tethered.jpg",
+      "style": "wiki"
+    }
+  ],
+  "unreferenced": [
+    "Andy Matuschak/_attachments/24785.png",
+    "Andy Matuschak/_attachments/26404.png",
+    "Andy Matuschak/_attachments/29802.png",
+    "Andy Matuschak/_attachments/54970.png",
+    "Andy Matuschak/_attachments/64645.png",
+    "Ideaverse Merged/x/Images/lyt-logo-04.png",
+    "Ideaverse Merged/x/Images/lyt-mapping-the-flexible-flow-of-ideas.jpg",
+    "Ideaverse Merged/x/Images/mckie-ship-and-sea-mid-narrow.jpg",
+    "Ideaverse Merged/x/Images/robert-mccall-space-ship-launch-narrow.jpg",
+    "Ideaverse Merged/x/Images/sort-by-file-name-a-to-z.png",
+    "Workflows/03 IMF_AdvancedStarterKit_v2/_media/The biochemistry of flow.png"
+  ],
+  "backup": "_Codex/backups/collection-attachments-before-20261008T085906Z.zip",
+  "verification": {
+    "attachment_bytes_preserved": true,
+    "updated_note_bytes_verified": true,
+    "every_original_reference_has_a_verified_destination": true,
+    "original_files_removed_only_after_destination_and_link_verification": true,
+    "changes_rebuilt_from_original_notes_with_strict_path_recognition": true
+  },
+  "note_hashes": {
+    "Andy Matuschak/2021-10-31 Patreon post- Doing-centric explanatory mediums- board game instruction manuals, and an unusual Figma document.md": {
+      "before": "a09c02ff456e6d39015646c837d49e753eed300aa80724e5e68b3882b6b9af33",
+      "after": "d6054fa9540b882bf79082456996ebb8ab6de9d7a4c8bf0a06ed649e2b82fc5f"
+    },
+    "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md": {
+      "before": "51167dccf4fff53cc8acd4f645dea3760f95ef9740b1213b21020745d86194fa",
+      "after": "974fc9fa8e341641310087f14add72e0e5a6dabfeadb5cba8df0bbc5232dece3"
+    },
+    "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md": {
+      "before": "9e754d7478f00a186c382a03ed48188893651466ce948f6f6af8807d37beb23e",
+      "after": "8216d1f0d8dbe74ed362bbc2a85bd59d32ecf892c31f470e4fd8c27cc13ccb69"
+    },
+    "Andy Matuschak/2023-11-30 Patreon letter - Initial results from highlight-driven prototype.md": {
+      "before": "ca656f527d499d358679aeb74e85d02cc72e3f12165138426c2e76c47e445052",
+      "after": "48a3ca220a7adb8d9fa09237c34fcf4817b331c951234471d5730da9733cea5e"
+    },
+    "Andy Matuschak/Channel capacity of humans as information processors.md": {
+      "before": "75616eda6f9ad6269d05b7a61fd6ef04ee171bf6b585c85b35307fb350f15a7c",
+      "after": "b3486ccca957a6ba7632d3e05e1bbcfcd3da33a04dfaae96df5785f5f54c3909"
+    },
+    "Andy Matuschak/Deliberate practice doesn’t have to be unenjoyable.md": {
+      "before": "e36ac735bb0c865ee073c6261f07db56f2ad6ddbea5605b76e885caef8d16a33",
+      "after": "47886cffe4362264625e63916aafda713aae8bbf5ecc32ed92527592115b4482"
+    },
+    "Andy Matuschak/Everything takes longer than you think it will.md": {
+      "before": "18d977b93a4abb46da38eed81f1badd7f1fc29f91f09ffea3f3bad65e4ff3696",
+      "after": "7e71583a7265f0c235acccaa5e4170282b7e1896cc6f957342dbb9e29d8af46f"
+    },
+    "Andy Matuschak/How to Read a Book - Adler and van Doren.md": {
+      "before": "691154d33f4494b7e98e6321d787c27a8356300725afcaf9a1e537a7680501e7",
+      "after": "d3269a654efaf0150d0aca9b7700d56afd3e3b94caddf7087cca37a1d1a435cb"
+    },
+    "Andy Matuschak/Human channel capacity increases with bits-per-chunk.md": {
+      "before": "9dc5c86e40ed0753defd550e2f90d564dc19dbfdc5d223a408e80a5f5623515f",
+      "after": "d1cfe1668e2449ff4f96b36e098ba784f62b8a291a610ca3305f0e28d5a9acb2"
+    },
+    "Andy Matuschak/Human channel capacity increases with stimulus dimensionality.md": {
+      "before": "458c9a8e19c6c9c4a6c0bdda3e6807941da6f633e4a0df6d395bfb13d55edfc0",
+      "after": "a4221bf7334a9e955f63b3287fcf6d6d2a1db0aefa5659e7951ca102bf6e8c35"
+    },
+    "Andy Matuschak/Messy thought, neat thought.md": {
+      "before": "5f6208f8e0133098aee44aecf3e481d2480f02b0f3fbf9e5ed265d75350e3938",
+      "after": "0eec93e04fdfb8e9d4990f66a073caab46d77b953c04f12f2418235ff5126826"
+    },
+    "Andy Matuschak/Quit Your Job - Wolf Tivy.md": {
+      "before": "dc6c273a99cd40eb6c2905e881689ba89a371d71041d2ccab7a99622bd0c1c48",
+      "after": "22e8c8daf9e92bc08621d79e1bdd17f77ac16f1dc36ac4dcbfbd8870e83a6a99"
+    },
+    "Andy Matuschak/Some kinds of creative insight depend on long-term memory.md": {
+      "before": "9ec48daf6fb1579d8ebe0b31e53063a8c437d9a53a3aa9c09123982d8437a66d",
+      "after": "2bdf5a980a1d2949d3e16d5c3e887231a3c820803cc75787644a36832814c4e9"
+    },
+    "Andy Matuschak/Spacing effect.md": {
+      "before": "b062429d5ebe82bfa7c338b01804e6fae5e56b9a5c0d13c9546ee22df82313b8",
+      "after": "21f6618e6f4b419613f0163dea1a67695f2e04fafe510d01dadeac0f5040b5d9"
+    },
+    "Ideaverse Merged/Atlas/Dots/People/Carl Sagan (kit).md": {
+      "before": "e8b396ba46bfeb001a7b48543718161eea372b04d7aba7ee37f115c446a704ea",
+      "after": "b74a445739e3fdc11b71f7d98c177ee7113cdf2fc8a8dec312e0b553b443624a"
+    },
+    "Ideaverse Merged/Atlas/Dots/People/Mihaly Csikszentmihalyi (kit).md": {
+      "before": "5daa55609e6d2565d9b6331a18c8deed4196743b4e69af78040708680f04eb77",
+      "after": "566877c55afd0c165fe3a29bec4e79435fd46980db01aab19b5ac5ab270af772"
+    },
+    "Ideaverse Merged/Atlas/Dots/Sources/The Almagest.md": {
+      "before": "9606cd6b2360e6f286582c111266df36528d59693131c12efa7305d3d35ef2a5",
+      "after": "63a9ceb7e7a7cba9532cd65fc06e1d57b04fcaaceaf4efc0e1074938d8919e30"
+    },
+    "Ideaverse Merged/Atlas/Dots/Statements/Evergreen notes are things or statements about things.md": {
+      "before": "5b5622b3008a356d8281c88ed075997254c05e4e5f2de4ba3c9e2130a2cc64ff",
+      "after": "8c312ea707ff9a0d99cd811fd8a74cf7d7e2dd6cf25fdcc6e53b156b1a358c45"
+    },
+    "Ideaverse Merged/Atlas/Dots/Statements/MOCs are both workbenches and maps.md": {
+      "before": "cc572d600c62cf13e6e2dd70076476205ed4b181ad1f3f0fde3e935fc370c96d",
+      "after": "fbe2ccd8b2f8b6bca796dfc5d657200cc8cf4a7889dc07a6d5effde1d711c6c9"
+    },
+    "Ideaverse Merged/Atlas/Dots/Statements/Sensemaking happens by triangulation.md": {
+      "before": "724737a859b9af0b944ef38f0fcb01e6ae779251aaa321d77726678751713e4a",
+      "after": "23651ebc62ace77a9634e491995dd24b7d4b11630019038c9afbe161ab96cab3"
+    },
+    "Ideaverse Merged/Atlas/Dots/Statements/Why Categories for Your Notes are a Good Idea.md": {
+      "before": "57d0012058c1494effb12d7d12495c0bc17b78192af994b754823e686f95bbc1",
+      "after": "e01cbdb666912091433f3457acac00788c543528bf2cf5ec5945c1fb96e4b756"
+    },
+    "Ideaverse Merged/Atlas/Dots/Things/Benefits of LYT frameworks.md": {
+      "before": "6eaf22dc165b16d7aa5ef3ecf7250daf21a601f1918f1ae328cbab5d451ee51a",
+      "after": "666dcc05c7bad8ded948fc4c0e5a603582455fc40fb36983c9470e53b06a5661"
+    },
+    "Ideaverse Merged/Atlas/Dots/Things/Flow Map.md": {
+      "before": "e2fd6bc1a017eecd2a6d53c805c90a2373d2e6b866874ad47f3ecf9d86d68c82",
+      "after": "3f7ab5a078b6ca7c9abec068fb9323aad61a81a4c502436de273d74f7f9331a7"
+    },
+    "Ideaverse Merged/Atlas/Dots/Things/FlowCreation Theory.md": {
+      "before": "9f9a320500a9883e4cd409cb05d6a58635b8f895c445f2ccc59b833e55e17c02",
+      "after": "720c92b2ee6345f786509b75677c1973d7152d52699c5a8715f5daf1334c3381"
+    },
+    "Ideaverse Merged/Atlas/Dots/Things/Four Factors of Flow.md": {
+      "before": "c4144864f83854203ea66b13cd6cf860804bcb3f67360afc2013e74768fa69bd",
+      "after": "760fa41b8bfeb8af4c8ff1385fab4a86eb0cdabf0d61a6a20d5580f1531e1deb"
+    },
+    "Ideaverse Merged/Atlas/Dots/Things/LYT Mode Theme.md": {
+      "before": "54365c439325a3253158ff284f795d3d9ad3d76becbf39019d8f04ff7ad2534f",
+      "after": "04a58b8e58017e8bded460a042d335f707f2085f6ff2b5c4acac32d2a97052be"
+    },
+    "Ideaverse Merged/Atlas/Maps/Add.md": {
+      "before": "08acb232c2618240c7edc0ce92a9791e669651692df4a7018048a061d5a77164",
+      "after": "97b83e02b4b26158633da5f10cabba52884e823ebc527171ec8c3e655cc19daf"
+    },
+    "Ideaverse Merged/Atlas/Maps/Collections.md": {
+      "before": "23e72345dca28ad3af38f877b64a8da23bb4a7c696a4830d1649275e0d75ee60",
+      "after": "bd19deea37bf8669b433d7b808422bc0b4842961bd4a78faa546dcf56efc351c"
+    },
+    "Ideaverse Merged/Atlas/Maps/Concepts.md": {
+      "before": "032c89ac53e4860a256060105588368408785ce5a6849d7ff6e2287b4a1370f6",
+      "after": "cd605a0f89d5dbf29213596541bc6cbae1c87a5cbdfdcadbb52e8fdd1f6b6c78"
+    },
+    "Ideaverse Merged/Atlas/Maps/Efforts.md": {
+      "before": "4797efe98a95feab8e45343174825da4bbd466dcf429006e3c2b49584e06b456",
+      "after": "e35046d0c14a6576719973eb071fd669f22b45f0b9438074d270b47a77a19fc4"
+    },
+    "Ideaverse Merged/Atlas/Maps/Games.md": {
+      "before": "ba582128aca30e83b50a55ffae0c03800475f7a6fcde92e02e714f4da51c2318",
+      "after": "fdcff696cb641eba3c0d7714997199c8756de3c30f63f27243e0136239b3d18b"
+    },
+    "Ideaverse Merged/Atlas/Maps/Library.md": {
+      "before": "9c879a18b845410053b21599a9225132a1c7e07c918285f4deb98a536a73afbe",
+      "after": "d36b911dd082e5a9a1f9355e2e18bbc338496ad38c388bc83874405b83483721"
+    },
+    "Ideaverse Merged/Atlas/Maps/Templates.md": {
+      "before": "1824065e99f477d1f696bd94d49762efce93cd6872ae281a9e35678318a1179c",
+      "after": "a9e52e970a6ef73a4c9e4a82841cd7a6de968c43714d51d17e068a38a071caea"
+    },
+    "Ideaverse Merged/Efforts/On/🌌 Ideaverse Kit Launch (E) (Example).md": {
+      "before": "9709400c1464cfea03a1f914dc9645ac982a557098086fb6f77af52c68e2f90f",
+      "after": "50a80abd209f513afec3f0462f3dbfe45a0f8f12bad6d1e10e5ba98c016e6fb3"
+    },
+    "Ideaverse Merged/Efforts/On/🚀 Flight School 2.5 (E) (Example).md": {
+      "before": "9815a1e4948abe29e286dbaaaaab641901f03c9e9b0a8b2fdff6eb3cfb3c5e35",
+      "after": "bd461ff88540aee1413db6d931a646071689f88eca108694b8c9c55dcd9bb280"
+    },
+    "Ideaverse Merged/Efforts/Ongoing/🌌 Ideaverse Kit (OE) (Example).md": {
+      "before": "df7902a6b62a521230c907de0b85d4c039b95a03cc0ac7701ae62cf0c4270eb1",
+      "after": "07e7cc71504977a6083b678e1e1b48b766ac657a091aad1151c247e84bbb03c6"
+    },
+    "Ideaverse Merged/Efforts/Simmering/🎙️ LYT Podcast (E) (Example).md": {
+      "before": "347a8c37502b9b393539db75ec4c5cdae20d6d2baa63d77b66531eb684a31e73",
+      "after": "a7f6adef0e8cc296880210035ae514cbca5965e98c1f9fe31ef4cb46bb905c5e"
+    },
+    "Ideaverse Merged/Home Basic.md": {
+      "before": "b6fe6b9e7ecb8663da490d9f3482905d294e7fae5e0e820996c9653dc0e0981b",
+      "after": "b777434c02e3f953375f39927400e1340c79e5f190466ff70467671fbc83adb1"
+    },
+    "Ideaverse Merged/Home Pro.md": {
+      "before": "3060e2621bc0313a91caf2af60bc0097af9f1f0ce947a12cfd8bd5cba2d7bd20",
+      "after": "c9d47c0fceee68c0e9fcf2c0f438c127a4fbfd3f8cfa0e0126ab6e1622fd668b"
+    },
+    "Ideaverse Merged/Home.md": {
+      "before": "d0b2846c21abee1a5de30f270dae9f90e386b00738a2b12d1819bde5bbf88c40",
+      "after": "beaedfff3588ea540b752765d82e4a77ab1a5881451943f636690d096a362107"
+    },
+    "LizardsFromOuterSpace/040- Generalization.md": {
+      "before": "c347d896c37eef2d763272f1713b16de282016e262f1a804dc9239a572c36046",
+      "after": "93a417fbd081ba3fa99049be4c8ba3bb401f246dff2ae8812572a926b1618dc1"
+    },
+    "LizardsFromOuterSpace/066a- PARA structure.md": {
+      "before": "622f65d3848b108e57c948a3d9547df83a2e00e9858bf126b857f2c9f18fea3b",
+      "after": "76e812366ef634a41735ba63e5b006279db848e6dda4472e16994f6ce88bef51"
+    },
+    "LizardsFromOuterSpace/076- Prior Knowledge.md": {
+      "before": "c497535ec9e0ee0ef0e551db82af82e7163287a74d65ed416753b112e66c6092",
+      "after": "6747451511f0e653f367aa3a79a7ff3da389dc11faeae62795b12917187e0a52"
+    },
+    "LizardsFromOuterSpace/132- Foundational Notes.md": {
+      "before": "37676ed605848110c2fae9d4e044e2023801229353cbcc0866cb7b427bf0af9f",
+      "after": "f6bc24e6cb085394fa781f82b18a648aaf06d589a6155263a1ba22e1ce4a0604"
+    },
+    "Snipd/Data/_WhatifAlthist_ _ World History, Philosophy, Culture/The Greatest Lie Ever Told.md": {
+      "before": "f775f02e25c78f3809539c6716a18656e3692ee0201d7c4718febb4621e6d7c9",
+      "after": "6fc8bd2f2a244c046a1a82b1da408ce50491d056e1934ee2f8444f25012d2523"
+    },
+    "Snipd/Data/Love Your Work/250. My Zettelkasten_ An Author's Digital Slip-Box Method Example (Using Plain-Text Software).md": {
+      "before": "c8911a72747e31ac74e684ea6445a8e36e96c3889e5f79700df831133df7deac",
+      "after": "29c12691d4bdf98e01d02355b98821eeb40527fcde88c1468acfd96d0c3bed0e"
+    },
+    "Snipd/Data/Modern Wisdom/_653 - George Mack - Stop Wasting Your Life On Things That Don’t Matter.md": {
+      "before": "3678c81a14e7d3b5329bf9b1a20f74eeea13799c04fdf422f167da48af87d060",
+      "after": "7b3512feff1b2f295f579b9c58dae3c74769c67042c842c941a3dbe0f74b2b30"
+    },
+    "Snipd/Data/Modern Wisdom/_685 - Rich Roll - Stop Making Excuses & Transform Your Life.md": {
+      "before": "f5e50bbbe2ab12c8c1ee8f4df49daca97efa7505d697a03e0034017ed08e958e",
+      "after": "d84b1309e25e63c4f3d5308d5a5ec43daadb42fdbe82c5a2dde3046a3f971349"
+    },
+    "Snipd/Data/My First Million/He Turned $300_mo Into $3,750,000_mo From GARDENING.md": {
+      "before": "2ca776133c6ad222d46324c0fd432116b321f8e3c106602060a0ae64c57ea93b",
+      "after": "4c776ac8ad34e03a5bbce041c8b2aa3800072f429d1b5ecdc2ff39ff72ea73b1"
+    },
+    "Snipd/Data/My First Million/Syed Balkhi_ How He Went From $0 To +$100M Before Age 30.md": {
+      "before": "0a2c9054e305ab0e24e4494f6c92c543a2c80a76774be5ea532cf024250c98a2",
+      "after": "5f8b7f0edc90a23717072951c667a95795732bf638e041ec1e2cf0e0b4f9a55d"
+    },
+    "Snipd/Data/Nathan Barry Archive/078_ Sahil Bloom – Using Flywheels to Build Longevity in the Creator Economy.md": {
+      "before": "c53bb0591b540ad0a041f38443d7fdcc54c6bcc8a734bb5bb74ccd23e990f466",
+      "after": "ecbddea030c2294ad59abcffeefd4a35955c462ca6649e7091bcc5f4f83370b7"
+    },
+    "Snipd/Data/Naval/How to Get Rich_ Every Episode.md": {
+      "before": "9c8ce3f719057916ca57ce35fd47cfcca86b7e30821999f53ea990584347bfc5",
+      "after": "8ebff8984a7a9344d680653ddc3b26c34be3864783485f43cd39123770a07a0b"
+    },
+    "Snipd/Data/Radical Personal Finance/1000_ Episode 1,000_ The Story of the Accomplishment of My Ten-Year Goal.md": {
+      "before": "bec5e19dd612bd153cb13438e51179932b5cc8a0fb2ea0be18614b1dcf74364b",
+      "after": "2fc46114fbc51e8416b570404fd501651bca665d7ae5abca2142497afa51c063"
+    },
+    "Snipd/Data/Radical Personal Finance/1031-Friday Q&A_ FIRE at 35, Failed Residency Match after Med School, Regret Whole Life Insurance, Preventive Health Screening, etc.md": {
+      "before": "baa7cca3d1cbf43149dae44e99ed610d213dfc2530bf3390b9d81fbd2e42589c",
+      "after": "8f82d25c7a3cc342f1152361ef45012cf75b4bc052c5e5979c7b808f48c19f50"
+    },
+    "Snipd/Data/Radical Personal Finance/1077-How to Make Good Decisions_ A Framework.md": {
+      "before": "c5c5694f88d69a1147b7d8d3cba22eeb50000ad3ad07aa591d6e172cf8d7a2a7",
+      "after": "fc904155bb810b43e933b4cb749c33218ef3e4f5bd0316b909c44fb5276355d9"
+    },
+    "Snipd/Data/Radical Personal Finance/1078-Friday Q&A_ Business Skills, Productive Vacations, Radical Consistency, Appreciating What You Have.md": {
+      "before": "3e58715c91eb594e4d2b39e6ec59b34c1054bca636676bb17214720234b89983",
+      "after": "0083716dd768eb14e0fd827ec830c94745237360a6fddc4b3e1fa5634709545d"
+    },
+    "Snipd/Data/Radical Personal Finance/962_ How to 10x Your Income (The 1000% Formula).md": {
+      "before": "afbd2de28c7e0c5a7c46d7689db4422ab7bbe294c46909e3999e2a20db380307",
+      "after": "72380bd477dfbc87f6cbc9fd281c6c16a3ec23415fd8e7f0e5c85ed3a2fbef0f"
+    },
+    "Snipd/Data/Radical Personal Finance/967_ Friday Q&A_ Fix It Up or Sell It, Are CHSM Shares Tax-Deductible, Financial Discussions in Marriage, Math Academy, Ambleside Online.md": {
+      "before": "c68faaeed758bebb6c81a2087bde9f7c0d02fb20eda4cf5c0b22322cd5e9386c",
+      "after": "b5a4caf193ed0b581795ad8fa93bb42b53c67b5ddcca48f185e327465bd17094"
+    },
+    "Snipd/Data/Radical Personal Finance/970_ Embrace Your Privilege.md": {
+      "before": "31e57209e52ce7842d1042c81b3a2ad8d0efcc4cd0134952fda190eb219b64b3",
+      "after": "74fc72f722ec2ff6ac8da2781b543a9fb999b50f24a23a3a6d274498d9cf0998"
+    },
+    "Snipd/Data/Radical Personal Finance/971_ Prepare When Times Are Good; Invest When Times Are Bad.md": {
+      "before": "35420f519ce08217f977ccc825ac31edf17746f80e748bd09d6cc45beece6945",
+      "after": "11f4907387270dd58338ad66bc6c67bb462b76b84b4bbb2a84f2865d4db4b84a"
+    },
+    "Snipd/Data/Radical Personal Finance/974_ Why I Left the USA - Part 1.md": {
+      "before": "bfb6d56b1cf76a3d314d2ed978669c273c33301a2b3f837f013b2f19f6321f1c",
+      "after": "bbd0f74dea6dcd25c8359402bb88f75220cd12211d73f89d89866d69cf17293e"
+    },
+    "Snipd/Data/Radical Personal Finance/976_ Why I Left the USA - Part 2, For Adventure.md": {
+      "before": "bdae47d53d422c1ed09c011bfcc54d718a06f4a16740a1d9a7d6dd4b4d1857f7",
+      "after": "56b05993b5963b258f4dc97162450cd364fdb8bfc2b8b5bee9f3fcff556349f3"
+    },
+    "Snipd/Data/Radical Personal Finance/Out & About_ Emergency Fund Planning, Credit Cards, and Disability Insurance _ Joshua's Appearance on the _Life Meets Money_ Podcast.md": {
+      "before": "a36298cf54dec852bf43ba6259da5026c2feec2005b005e2bc12a52e01a58d79",
+      "after": "d453c15c28217db0ad969eca7ea62764614d9941761b7113ad40e9f773b38735"
+    },
+    "Snipd/Data/Speaking of Psychology/Revealing the Hidden Brain, with Shankar Vedantam.md": {
+      "before": "d3e078e7b8f08ad4740439fd7450c6fa01ceccfd4003e3a925ae9ea8f1bcc92c",
+      "after": "69a2daa1a9ce01b7a77b2b69ea79e95a2d3d626676c7c9e82f8bd5c732fe28bf"
+    },
+    "Snipd/Data/Stuff You Should Know/10ish Worst Business Decisions Ever.md": {
+      "before": "206500748edfccc26d2672a794bec6f036c48922e2d49b6f16356f86a4046e39",
+      "after": "ddd431a2318561b3432d53f4eec9deb449fd448eafa19abc8a502ec80af1f61f"
+    },
+    "Snipd/Data/Stuff You Should Know/Sherlock Holmes_ The Man, The Myth.md": {
+      "before": "7bc659c81ec0a452ed37ac7892161385659915dd879eadbfe2644eb49955ad47",
+      "after": "99168370b364a26e26389cfc278e9c5467b0c03ddafb4e5b2ef6df1409f540b3"
+    },
+    "Snipd/Data/Stuff You Should Know/What is Collective Hysteria_.md": {
+      "before": "bd93fca4b2be264657beec71108bee6eafab85fb1ab21c074cc5f0ae86ea5653",
+      "after": "16ef0d126ff98b18043083a6e9735f887a34cd00935ffe4fa182607c328fcef1"
+    },
+    "Snipd/Data/The Art of Manliness/Overcome the Comfort Crisis.md": {
+      "before": "eb6fff41c940bbd1c396817eaccee5c774ae8837735c6f85623e6d17a73f861d",
+      "after": "ac7ea7a34e292d1eea7c91313bd28d1e7ff4df8bc9938010f4ce5f56fc164c76"
+    },
+    "Snipd/Data/The Building a Second Brain Podcast/Myth_ Building a Second Brain is just self-help for note-taking nerds.md": {
+      "before": "8156a370175fcdcb32dbbc41590c755e3fa1fbbd3f0f309fdb3e68f81d29721a",
+      "after": "1ee17e850bfd6febc2c685e7948bc05e18529a87231e6ff9b6cb3fcc8bcc0228"
+    },
+    "Snipd/Data/The Colin and Samir Show/7 habits of highly successful YouTubers.md": {
+      "before": "59cf9af5752ffcf1a228d681bdb98d50eef8d050b531fbbfc91d1f8833e4ea35",
+      "after": "b75ec4960d7df4c5501c478794ce3ffece7ca069c06c3872f25cb4e339988df0"
+    },
+    "Snipd/Data/The Colin and Samir Show/An update from London.md": {
+      "before": "d00b4a1008e46515e7d9cce23821321b58c01cb91c633bf00c88017e85e8882f",
+      "after": "d82acac5dcfa66d312398bcfa8b14ce2b8b1653363b03f09c001f67b5556b686"
+    },
+    "Snipd/Data/The Colin and Samir Show/How Ali Abdaal makes $5,741,266.32 a year on YouTube.md": {
+      "before": "d5bc5d15a0c8a328e687b34092be39c09501200964ad4a37a83bf00199f930be",
+      "after": "be01725d7dc9864d0ac8f65a21139e69d8f491c4df3850d059c60bd27bc82f2c"
+    },
+    "Snipd/Data/The Danny Miranda Podcast/_421_ Scott H. Young – The Art Of Learning.md": {
+      "before": "eeeeffc8f50b5b986069544796f3f9924eb8f936423db5e17420b5d761b5271a",
+      "after": "2ba7c834e3f31f74d0c4447b0fb715b69313d862685efffbfd8323a393e45796"
+    },
+    "Snipd/Data/The Goal Digger Podcast _ Top Business and Marketing Podcast for Creatives, Entrepreneurs, and Women in Business/584_ The 4 Strategies That Doubled My Affiliate Income Last Year.md": {
+      "before": "e7b57f27592d4d8022363fc3eef2aa2e277d420cd75c8ed37849bd9df90bdd42",
+      "after": "29fdc1b53d785b12630c2a9318a7b160a6c253dfe5ef928653a767a48bcf5c74"
+    },
+    "Snipd/Data/The Good Financial Cents Show w_ Jeff Rose, CFP®/Ep. 219 - 2 Investments That Made Me Into a Multi-Millionaire.md": {
+      "before": "ec08872a115bc0ffa6ae140b7d19ee706ffee7ece08d9b86563639d5bac64343",
+      "after": "805cf62baeb554dec4233def3519b67652df5ebe7b23c5b0566a899d74109eda"
+    },
+    "Snipd/Data/The Knowledge Project/_122 Robert Cialdini - The Principles of Persuasion.md": {
+      "before": "58f20bbaa1151ebd5dc1ceead3b828108178003def880fd69dec103bff665a5f",
+      "after": "89bf721aca35232346e54499a97bac08a0ec542eead016696df153020e8046bc"
+    },
+    "Snipd/Data/The Knowledge Project/Laurie Santos_ The Pursuit of Happiness.md": {
+      "before": "9b29998ed0700a6d08c8d79ed64726e54710131dbd29d1baf576b0316328179e",
+      "after": "5c4a3a9fd6c0c123a22f6e55de5127e6835d4167943ae8ab915a2f0a60672882"
+    },
+    "Snipd/Data/The Nick Huber Show/Ep 142_ The Moment That Changed My Life in Business Forever.md": {
+      "before": "266659a180c604a9e04242b4cd54bd96721eaa9de514837e5e7f0343154333c5",
+      "after": "e7b6f07c0012cc1a43a8a39c17cb416ae933c5eb10f333df5854a545e329fed7"
+    },
+    "Snipd/Data/The Peter Attia Drive/_199 - Running, overcoming challenges, and finding success _ Ryan Hall.md": {
+      "before": "8e78dd919f8ec55e77f9171c2a97cd8b8bcdc899d3e9dfb2b069e1968aff84ad",
+      "after": "adfb37e75fe5c3014b120135fbc07c2c40d18a89f48ed8fed07a580a2ba573c6"
+    },
+    "Snipd/Data/The Peter Attia Drive/_252 ‒ Latest insights on Alzheimer's disease, cancer, exercise, nutrition, and fasting _ Rhonda Patrick, Ph.D.md": {
+      "before": "c0abe96bbc141fba8f69342b485180c98762962ad22fdff263b3a2c2172a6ce0",
+      "after": "ad36dfa21f3087ce3da73a82f3cdbc5dab674ae7863a65a975cf177c037d7f2b"
+    },
+    "Snipd/Data/The Peter Attia Drive/_265 - Time, productivity, and purpose_ insights from Four Thousand Weeks _ Oliver Burkeman.md": {
+      "before": "c78b7d10ced44949434529854c857147e856bcf8d15b3465e4c3f901cda8aecf",
+      "after": "821a382eb6c11785a4950fb774c6e15143f610ca9c384ab14327eaee6b4c820c"
+    },
+    "Snipd/Data/The Progressive Property Podcast/From Broke Student to £4.8 Million Portfolio with Ahmed Khan.md": {
+      "before": "6bfb21b761bd974aca7919c71eb7c7386bfd61224987cbb229a3a925bb85c46c",
+      "after": "9d9591fc8b31055da33dc5e7723a58f6f6fb7775881aee1e4ad8a1f768b9f97b"
+    },
+    "Snipd/Data/The Rich Roll Podcast/Physiologist Drew Harrisberg On Everything Blood Glucose, Understanding Diabetes & Plant-Based Nutrition Fundamentals.md": {
+      "before": "6931522c64cd44ae5bbe244a44a1f38ff17dd1cc1daff4df86f8b62609dab2f1",
+      "after": "46240d1b1d9883d964692666f700fab24647728dc840f93e86494ec5655579ff"
+    },
+    "Snipd/Data/The School of Greatness/Build Multiple Income Streams, Habits To Become A Millionaire, and How To Gamify Your Productivity w_Ali Abdaal ﻿EP 1158.md": {
+      "before": "38017cf59165711754c1c36e577f5469752ef58848de1dfc23fbd5ffcf9787ed",
+      "after": "16586200af2070803d6722db3ba776c4b0e23d021c9a4c76b79c60723f6849b0"
+    },
+    "Snipd/Data/The School of Greatness/Do THIS To Get Rich and STAY Rich (It’s Deceptively SIMPLE!) _ Morgan Housel.md": {
+      "before": "dc00ac7effddd4f2d18c7616aed2ec2b19f7eb18c311414e5de5046083536d9d",
+      "after": "e4e488a177eb0461b0b0324ae990690f4b14545065b052dd416c1d1430f1cfd8"
+    },
+    "Snipd/Data/The School of Greatness/HACK Your BRAIN to Take Immediate Action_ 90% of HIGH ACHIEVERS Practice THESE HABITS Daily.md": {
+      "before": "b9fe903f7735440b4ce19c338f3b372e66b9333ba4ebf51c2ea97c16c0df81eb",
+      "after": "e811bdeffb216b83aea8928c1bab56bb2219a45137b654acf5bf14c9d5b24961"
+    },
+    "Snipd/Data/The Side Hustle Show/707_ $70k on the Side in 6 Months with Aura Photography.md": {
+      "before": "5b29c9e5cd12e1c066a89f752dab3009613faa2950438ba14c058689a20efc41",
+      "after": "be6ee5aa524aefe62832ce7de5a9909246788cbcc4f7261bf45a62ba46cbe935"
+    },
+    "Snipd/Data/The Stacking Benjamins Show/How Polluted Is Your Financial Plan_.md": {
+      "before": "c327e1c96ee7a6ea2add254dac92d354d3fc70d382c3868eca3b1b6e236287a5",
+      "after": "f44eb585ae8b78ba3b56789dc2cda1555541f333c348839ac9e9145959c9391e"
+    },
+    "Snipd/Data/The Survival Podcast/12 Ways to Live Free in an Unfree World – Epi-3410.md": {
+      "before": "ab01855264d7d6ede99460533bfe94b5bb4719ef38fe361da14d321a3f7f32da",
+      "after": "d605dff03582766693de044311979a3dd81c8e322c0e6a7fe574de286467d885"
+    },
+    "Snipd/Data/The Survival Podcast/Killing the Poverty Mindset – Epi-3393.md": {
+      "before": "0294763fa6c6f41d5722736429ca04fb049d363c7a473f7257e846fa4883906d",
+      "after": "0af053b9a8c2c6a54d3a9e0168a346f19ccf1c8dd207827da2d45230c343ca66"
+    },
+    "Snipd/Data/The Survival Podcast/The 12 Taxes that Control the World- Epi-3628.md": {
+      "before": "09b8d1b6e13eb4b7ea401ebe1c21b9b6b6c7f9519d8aa99e873a1813c56b9bb7",
+      "after": "2197fb91619f9aa830cbeda5dc37e3b1be0fb7d572be7d66ed687131e29033d8"
+    },
+    "Snipd/Data/The Sweaty Startup/407_ Making Money - The skill you need to develop.md": {
+      "before": "88023283b0495802d58e2f4763919a77fa26146b26873c1b5220f262dc8eb2ba",
+      "after": "20e3ab49a218936d8eeb648864c4ee7b586c1633071c718ca31872c51ab4c685"
+    },
+    "Snipd/Data/The Tim Ferriss Show/_107_ The Scariest Navy SEAL I've Ever Met...And What He Taught Me.md": {
+      "before": "17d572b3fee5b731e9c0f088558f0bd18fb24ba55d5845fa63a41f7f7387824c",
+      "after": "1ac2d2348625c1c6ddf473e1c8e8cdae8918868116e6d61fc76b0217e8987588"
+    },
+    "Snipd/Data/The Tim Ferriss Show/_648_ James Clear, Atomic Habits — Simple Strategies for Building (and Breaking) Habits, Questions for Personal Mastery and Growth, Tactics for Writin.md": {
+      "before": "4e2530276d96f9476a2f8e047ba1ee1f105464412445459ce3ed6cbe747dced5",
+      "after": "c2e3bdbb37cdba1bda6faf552a6bded43dc29d07873c35bd61d97a400ff79f16"
+    },
+    "Snipd/Data/The Tim Ferriss Show/_672_ Seth Godin — The Pursuit of Meaning, The Life-Changing Power of Choosing Your Attitude, Overcoming Rejection, Life Lessons from Zig Ziglar, and.md": {
+      "before": "f6f9efdcb0a38b5a4d841b59858d8793fe5b8b897d9bf06583d130642d4b2aa5",
+      "after": "1087f04ab474c30b872b72fb9b6355eaf36b8102c3d11864731136888b2d1461"
+    },
+    "Snipd/Data/The Tim Ferriss Show/_72_ Triple H on Pre-Fight Rituals, Injury Avoidance, and Floyd Mayweather, Jr.md": {
+      "before": "eb0d0e2e505b1d32ebd4a307e7ab5f33ad39c679069526cd8da86ecdf55ecbd1",
+      "after": "ed15505457a9c3364fb9f4cd1e340629d3ef8d329ccb75d18044f2097e824e37"
+    },
+    "Snipd/Data/Unthinkable with Jay Acunzo/Art of the Unfinished _Creativity Series _18_.md": {
+      "before": "d4e269e8e287a7f46edf390ca4102b624f42b0cf41d7175502c321b025917150",
+      "after": "fb43e8aadf30a27e4e842496ae171d6a2ac17aa4da9ee302cd2c925227c1dd11"
+    },
+    "Snipd/Data/Unthinkable with Jay Acunzo/Behind-the-Scenes Making the Show.md": {
+      "before": "8126605b76025d2e244f7389c4070ad321e6b9e754bd78140ce9619f5a1d717b",
+      "after": "4c34095a26ac7caf422b06a28513554ddb6787e6f9404fe0bf68221f68268dec"
+    },
+    "Snipd/Data/Unthinkable with Jay Acunzo/Don't Start with Data _Creativity Series _28_.md": {
+      "before": "f9f84940fa1c7fd4b0fa74c0ba2cfb4e794c2729fb70beb736d8030598d99b90",
+      "after": "d268bf54fbf8257e659bf36c9bf7bb5f36a9ccfc2483a03b456a819099d0418d"
+    },
+    "Snipd/Data/Unthinkable with Jay Acunzo/Process _Intuition Series _5_.md": {
+      "before": "1dbba9470893916c603accc92b7c25584646898b0b82b143de6537947a1e39b1",
+      "after": "13c30f13e30f85be11b77775e5b1e0e3f762819b4aeb03943ed96677a69e0256"
+    },
+    "Snipd/Data/Unthinkable with Jay Acunzo/Slingshot_ Magic Markers _Creativity Series _19_.md": {
+      "before": "c418ca47c114c6bd0320cd08ebcb291e6b4442030d2558f5d941a691cfc462ca",
+      "after": "34be734a5135a3a28210f6faec9c6aaf0a915751000033d2bb4ed33f9ce5196f"
+    },
+    "Snipd/Data/Unthinkable with Jay Acunzo/That Gut Feeling _Intuition Series _1_.md": {
+      "before": "4809a7add16a067b10cf9269995512ddbb396a53834d4d4718f7d9b628d8d419",
+      "after": "42120ea985a7e9c56578298a4ff1e07694fef778d9786ac2f04c106bbae6c7e3"
+    },
+    "Snipd/Data/Unthinkable with Jay Acunzo/The Bias to Act _Creativity Series _14_.md": {
+      "before": "f629279c3a4d1fb03a062456dba54785bba1b48b74966059d7de984bee1ff5a0",
+      "after": "f28ca9297ae83960ee19290efcac6b7575b7f8e2780982b8a37e061d79fd95b1"
+    },
+    "Snipd/Data/Unthinkable with Jay Acunzo/Zig When Others Zag _Creativity Series _12_.md": {
+      "before": "632c1c9b0c67b6a3a9c95db844f18c2d5411f4c83fcd453f954afe6b77da59c6",
+      "after": "e761d4e8014a3e1c08a6f46689462b1405019c5e098c7ce4a92224062f9ff0e4"
+    },
+    "Snipd/Data/You Are Not So Smart/263 - The Truth Wins - Tom Stafford (rebroadcast).md": {
+      "before": "f70e98cda92d26df818aeeb641f291db3469dd1b61dfb4f90f35ae90532bc274",
+      "after": "f2a77b351b677f31cd7b45c28dc00e4ce76cf5445516ade2d55fdaf66a26fa80"
+    },
+    "Snipd/README.md": {
+      "before": "c98250819f8a62df39a4c13693dcc80f08c1d5059d61da73fd9eed0ea466c477",
+      "after": "fa7baee82a12e99569c469e88a0bc4273dafa9e354ffea0423fc836f42186e31"
+    },
+    "Workflows/03 IMF_AdvancedStarterKit_v2/Benefits of IMF.md": {
+      "before": "5560926dab6d3176c00fd948a74d49dbbc3907c5ecf691f20eddd53ef75949f6",
+      "after": "d30b5add313a84471194b522cb9e250016924bda0c8b786bf57490116492a77a"
+    },
+    "Workflows/03 IMF_AdvancedStarterKit_v2/Flow Map.md": {
+      "before": "8fa76702c935c110af8d8f49f7991c2fd7c0075b28bf6d4a493bbd2fbc451737",
+      "after": "b1f3c46797cec4f525727f141de04debec63a955a4c4af54108ecda40e549b97"
+    },
+    "Workflows/03 IMF_AdvancedStarterKit_v2/FlowCreation Theory.md": {
+      "before": "c9c1dd036e69f357af2da2390b29f09a5496e8640d310d83d8483a359ae4f0e0",
+      "after": "c48446a3a0ec09e07c53fd6811c54563d758a9b1e51ede2bbb1f23417188a493"
+    },
+    "Workflows/03 IMF_AdvancedStarterKit_v2/Four Factors of Flow.md": {
+      "before": "72f1d7fcba926c02104e9ff96cb63d050896339b7d616a1d04e20fa1facace1a",
+      "after": "965db5495a0cf324e9506e7efe9c9126dbf904e9fe4f1eb32c2445cc7e17b767"
+    },
+    "Workflows/03 IMF_AdvancedStarterKit_v2/Why Categories for Your Note Archive are a Good Idea (IMF).md": {
+      "before": "e94a489b2deaf5cd7dde297a958f3b452a6d3a88129193232aa97df9326aa6f0",
+      "after": "508b02d0ed998875dc17ae115e6a3e03a625517607557a652c823115035f2ed4"
+    }
+  },
+  "corrections": {
+    "prose_preserved_after_restricting_path_recognition": [
+      "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md"
+    ],
+    "restored_from_original_snapshot": true
+  }
+}

@@ -12,16 +12,16 @@ mentioned_books:
 last_snip_date: 2025-10-20
 episode_duration_minutes: 52
 episode_url: "https://share.snipd.com/episode/dc356798-97c9-4235-bd1b-249f289554cf"
-image_url: "Attachments/04049.jpeg"
+image_url: "Snipd/Attachments/04049.jpeg"
 show_url: "https://share.snipd.com/show/145ea529-ce54-40de-ab9d-10dd8b65f7e4"
-show_image_url: "Attachments/04049.jpeg"
+show_image_url: "Snipd/Attachments/04049.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 title: "Sherlock Holmes_ The Man, The Myth"
 ---
 # Sherlock Holmes_ The Man, The Myth
-![Cover](../../../Attachments/06582.jpeg)
+![Cover](../../Attachments/06582.jpeg)
 
 ## Episode metadata
 - Episode title: Sherlock Holmes: The Man, The Myth

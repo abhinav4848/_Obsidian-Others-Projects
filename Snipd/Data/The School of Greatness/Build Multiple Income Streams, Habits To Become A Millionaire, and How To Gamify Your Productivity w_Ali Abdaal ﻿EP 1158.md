@@ -10,9 +10,9 @@ mentioned_books:
 last_snip_date: 2023-09-26
 episode_duration_minutes: 120
 episode_url: "https://share.snipd.com/episode/6c0a3729-9e5a-4bfe-bfac-50c459c84e42"
-image_url: "Attachments/84010.jpeg"
+image_url: "Snipd/Attachments/84010.jpeg"
 show_url: "https://share.snipd.com/show/c20d1ab1-f474-4761-93e4-3e85a0d1dbeb"
-show_image_url: "Attachments/84010.jpeg"
+show_image_url: "Snipd/Attachments/84010.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 20
 from_snipd: true
@@ -20,7 +20,7 @@ title: "Build Multiple Income Streams, Habits To Become A Millionaire, and How T
 ---
 # Build Multiple Income Streams, Habits To Become A Millionaire, and How To Gamify Your Productivity w_Ali Abdaal ﻿EP 1158
 # Build Multiple Income Streams, Habits To Become A Millionaire, and How To Gamify Your Productivity w/Ali Abdaal ﻿EP 1158
-![Cover](../../../Attachments/91708.jpeg)
+![Cover](../../Attachments/91708.jpeg)
 
 ## Episode metadata
 - Episode title: Build Multiple Income Streams, Habits To Become A Millionaire, and How To Gamify Your Productivity w/Ali Abdaal ﻿EP 1158

@@ -6,16 +6,16 @@ episode_publish_date: 2021-04-19
 last_snip_date: 2023-08-07
 episode_duration_minutes: 8
 episode_url: "https://share.snipd.com/episode/3892b553-51e1-436b-914f-339083557659"
-image_url: "Attachments/35418.png"
+image_url: "Snipd/Attachments/35418.png"
 show_url: "https://share.snipd.com/show/d1735f98-30e6-446e-9b1e-9a0ac20453db"
-show_image_url: "Attachments/35418.png"
+show_image_url: "Snipd/Attachments/35418.png"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 title: "Myth_ Building a Second Brain is just self-help for note-taking nerds"
 ---
 # Myth_ Building a Second Brain is just self-help for note-taking nerds
-![Cover](../../../Attachments/14985.png)
+![Cover](../../Attachments/14985.png)
 
 ## Episode metadata
 - Episode title: Myth: Building a Second Brain is just self-help for note-taking nerds

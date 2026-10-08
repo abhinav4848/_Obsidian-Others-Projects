@@ -6,16 +6,16 @@ episode_publish_date: 2024-06-28
 last_snip_date: 2024-10-30
 episode_duration_minutes: 141
 episode_url: "https://share.snipd.com/episode/b5910067-92c6-4b45-a921-495de36f84c5"
-image_url: "Attachments/54109.jpeg"
+image_url: "Snipd/Attachments/54109.jpeg"
 show_url: "https://share.snipd.com/show/4101b8c0-775b-44c1-8327-b728f73d428c"
-show_image_url: "Attachments/61965.jpeg"
+show_image_url: "Snipd/Attachments/61965.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 title: "1031-Friday Q&A_ FIRE at 35, Failed Residency Match after Med School, Regret Whole Life Insurance, Preventive Health Screening, etc"
 ---
 # 1031-Friday Q&A_ FIRE at 35, Failed Residency Match after Med School, Regret Whole Life Insurance, Preventive Health Screening, etc
-![Cover](../../../Attachments/51573.jpeg)
+![Cover](../../Attachments/51573.jpeg)
 
 ## Episode metadata
 - Episode title: 1031-Friday Q&A: FIRE at 35, Failed Residency Match after Med School, Regret Whole Life Insurance, Preventive Health Screening, etc.

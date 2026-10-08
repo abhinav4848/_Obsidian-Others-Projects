@@ -8,7 +8,7 @@ This project has involvement from Andy Matuschak
 
 MAY-LI KHOE
 - Image
-	![[Andy- Messy thought Neat thought 1.png|The Process of Design Squiggle by Damien Newman, Central Office of Design.]] 
+	![[Andy Matuschak/Attachments/Andy- Messy thought Neat thought 1.png|The Process of Design Squiggle by Damien Newman, Central Office of Design.]] 
 
 
     The Process of Design Squiggle by Damien Newman, Central Office of Design.
@@ -17,14 +17,14 @@ MAY-LI KHOE
 The argument seems very related to the age-old “innovative vs. efficient thinking” debate mentioned in Chapter K of The ABCs of How We Learn – in which the conclusion of their research was that both modes of thought are useful, and help each other when alternated, starting with innovative thought. Here’s a little refresher visual from the book:
 
 - Image    
-    ![[Andy- Messy thought Neat thought 2.png|Untitled]]
+    ![[Andy Matuschak/Attachments/Andy- Messy thought Neat thought 2.png|Untitled]]
     
 In design, people alternate between being generative (e.g. “encourage wild ideas!” in a brainstorm), and then focusing down using a more critical or pragmatic lens. This can also be called “creating choices vs. making choices.” I visualize the process of iteration: generating lots of design alternatives, then culling the options down using constraints. It seems like there are hundreds of diagrams of this.
 
 - Image
     *A few more visualizations of the design process. The areas that show widening are generative phases, the narrowing are the moments of editing.*
     
-    ![[Andy- Messy thought Neat thought 3.png|Untitled]]
+    ![[Andy Matuschak/Attachments/Andy- Messy thought Neat thought 3.png|Untitled]]
     
 
 Even creative restaurants that use fresh, local, seasonal ingredients need to have time during the day or at the beginning of the week to experiment with what the local market is providing. They generate new dishes to add to the seasonal menu. But when the doors of the restaurant open to customers, it’s time to focus down on flawless execution, not experimentation.
@@ -33,7 +33,7 @@ In mathematics, I’ve noticed Federico Ardila and other mathematicians use both
 
 - Image
     *From the notebook of Federico Ardila. On the left: messier, earlier work. On the right: work gets copied down as the thoughts solidify.*
-    ![[Andy- Messy thought Neat thought 4.png|Untitled]]
+    ![[Andy Matuschak/Attachments/Andy- Messy thought Neat thought 4.png|Untitled]]
     
 When I spoke to humanities professors Kim Kutz, David Rheinstrom and Eman Elshaikh at Khan Academy last week, they all nodded in strong agreement about how they generate initial thoughts on post-its, and *then* organize them before starting to write. The writing itself then goes through revision after revision. The time spent “writing” is actually mostly spent editing and revising. Research supports the value of revision in writing, which reminds me deeply of what we call “iteration” in design:
 

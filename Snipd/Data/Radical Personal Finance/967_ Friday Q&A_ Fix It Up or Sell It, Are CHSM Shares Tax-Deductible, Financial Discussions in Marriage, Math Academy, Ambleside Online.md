@@ -6,16 +6,16 @@ episode_publish_date: 2023-09-25
 last_snip_date: 2023-10-22
 episode_duration_minutes: 120
 episode_url: "https://share.snipd.com/episode/ee0414e4-5922-480c-9dcf-ce4b72556ada"
-image_url: "Attachments/61965.jpeg"
+image_url: "Snipd/Attachments/61965.jpeg"
 show_url: "https://share.snipd.com/show/4101b8c0-775b-44c1-8327-b728f73d428c"
-show_image_url: "Attachments/61965.jpeg"
+show_image_url: "Snipd/Attachments/61965.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 11
 from_snipd: true
 title: "967_ Friday Q&A_ Fix It Up or Sell It, Are CHSM Shares Tax-Deductible, Financial Discussions in Marriage, Math Academy, Ambleside Online"
 ---
 # 967_ Friday Q&A_ Fix It Up or Sell It, Are CHSM Shares Tax-Deductible, Financial Discussions in Marriage, Math Academy, Ambleside Online
-![Cover](../../../Attachments/32315.jpeg)
+![Cover](../../Attachments/32315.jpeg)
 
 ## Episode metadata
 - Episode title: 967: Friday Q&A: Fix It Up or Sell It, Are CHSM Shares Tax-Deductible, Financial Discussions in Marriage, Math Academy, Ambleside Online

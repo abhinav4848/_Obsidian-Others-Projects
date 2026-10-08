@@ -6,16 +6,16 @@ episode_publish_date: 2014-11-20
 last_snip_date: 2023-10-06
 episode_duration_minutes: 42
 episode_url: "https://share.snipd.com/episode/79037cf2-1b80-464c-b3eb-4be299562267"
-image_url: "Attachments/04049.jpeg"
+image_url: "Snipd/Attachments/04049.jpeg"
 show_url: "https://share.snipd.com/show/145ea529-ce54-40de-ab9d-10dd8b65f7e4"
-show_image_url: "Attachments/04049.jpeg"
+show_image_url: "Snipd/Attachments/04049.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 title: "What is Collective Hysteria_"
 ---
 # What is Collective Hysteria_
-![Cover](../../../Attachments/06582.jpeg)
+![Cover](../../Attachments/06582.jpeg)
 
 ## Episode metadata
 - Episode title: What is Collective Hysteria?

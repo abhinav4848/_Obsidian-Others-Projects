@@ -6,16 +6,16 @@ episode_publish_date: 2017-01-09
 last_snip_date: 2025-05-27
 episode_duration_minutes: 46
 episode_url: "https://share.snipd.com/episode/662697c5-1bba-45df-965a-e8b7f61c92f4"
-image_url: "Attachments/71638.jpeg"
+image_url: "Snipd/Attachments/71638.jpeg"
 show_url: "https://share.snipd.com/show/f24451b4-1e4a-429d-a98f-776c48582a45"
-show_image_url: "Attachments/71638.jpeg"
+show_image_url: "Snipd/Attachments/71638.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 title: "Behind-the-Scenes Making the Show"
 ---
 # Behind-the-Scenes Making the Show
-![Cover](../../../Attachments/63883.jpeg)
+![Cover](../../Attachments/63883.jpeg)
 
 ## Episode metadata
 - Episode title: Behind-the-Scenes Making the Show

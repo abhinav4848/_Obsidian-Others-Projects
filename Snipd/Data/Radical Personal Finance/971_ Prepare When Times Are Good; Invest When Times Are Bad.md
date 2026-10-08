@@ -6,16 +6,16 @@ episode_publish_date: 2023-10-09
 last_snip_date: 2023-10-10
 episode_duration_minutes: 41
 episode_url: "https://share.snipd.com/episode/5c377bc9-2d85-462f-8252-e264e60e3cd6"
-image_url: "Attachments/51618.jpeg"
+image_url: "Snipd/Attachments/51618.jpeg"
 show_url: "https://share.snipd.com/show/4101b8c0-775b-44c1-8327-b728f73d428c"
-show_image_url: "Attachments/61965.jpeg"
+show_image_url: "Snipd/Attachments/61965.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 title: "971_ Prepare When Times Are Good; Invest When Times Are Bad"
 ---
 # 971_ Prepare When Times Are Good; Invest When Times Are Bad
-![Cover](../../../Attachments/12479.jpeg)
+![Cover](../../Attachments/12479.jpeg)
 
 ## Episode metadata
 - Episode title: 971: Prepare When Times Are Good; Invest When Times Are Bad

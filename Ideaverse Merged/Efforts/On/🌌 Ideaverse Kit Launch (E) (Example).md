@@ -14,7 +14,7 @@ The Ideaverse for Obsidian can be both efficient and evocative.
 Without being present, I want to give as much useable value as possible.
 
 > [!Rocket]+ Your Ideaverse allows you access to ideas across time and space
-> ![[Ideaverse Merged/x/Images/robert-mccall-black-hole-concept-art-bottom.jpg]]
+> ![[Ideaverse Merged/Attachments/robert-mccall-black-hole-concept-art-bottom.jpg]]
 
 
 # Things I've Shared Ahead of Time

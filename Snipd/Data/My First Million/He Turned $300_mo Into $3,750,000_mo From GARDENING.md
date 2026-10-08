@@ -12,16 +12,16 @@ mentioned_books:
 last_snip_date: 2024-05-31
 episode_duration_minutes: 69
 episode_url: "https://share.snipd.com/episode/a3df13b2-9101-4f0b-8aa3-d09a43798edc"
-image_url: "Attachments/21646.jpeg"
+image_url: "Snipd/Attachments/21646.jpeg"
 show_url: "https://share.snipd.com/show/a3bc85ac-9318-431c-9821-7a14a7408e4b"
-show_image_url: "Attachments/21646.jpeg"
+show_image_url: "Snipd/Attachments/21646.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 2
 from_snipd: true
 title: "He Turned $300_mo Into $3,750,000_mo From GARDENING"
 ---
 # He Turned $300_mo Into $3,750,000_mo From GARDENING
-![Cover](../../../Attachments/40173.jpeg)
+![Cover](../../Attachments/40173.jpeg)
 
 ## Episode metadata
 - Episode title: He Turned $300/mo Into $3,750,000/mo From GARDENING

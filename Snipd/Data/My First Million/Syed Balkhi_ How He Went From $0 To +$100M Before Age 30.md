@@ -8,16 +8,16 @@ episode_publish_date: 2023-08-17
 last_snip_date: 2023-09-20
 episode_duration_minutes: 79
 episode_url: "https://share.snipd.com/episode/d98a0a25-dd5c-4770-b86a-53719976e45d"
-image_url: "Attachments/21646.jpeg"
+image_url: "Snipd/Attachments/21646.jpeg"
 show_url: "https://share.snipd.com/show/a3bc85ac-9318-431c-9821-7a14a7408e4b"
-show_image_url: "Attachments/21646.jpeg"
+show_image_url: "Snipd/Attachments/21646.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 11
 from_snipd: true
 title: "Syed Balkhi_ How He Went From $0 To +$100M Before Age 30"
 ---
 # Syed Balkhi_ How He Went From $0 To +$100M Before Age 30
-![Cover](../../../Attachments/40173.jpeg)
+![Cover](../../Attachments/40173.jpeg)
 
 ## Episode metadata
 - Episode title: Syed Balkhi: How He Went From $0 To +$100M Before Age 30

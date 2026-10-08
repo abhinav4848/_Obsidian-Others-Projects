@@ -27,7 +27,7 @@ title: "Mihaly Csikszentmihalyi (kit)"
 # Mihaly Csikszentmihalyi (kit)
 Mihaly Csikszentmihalyi is the author of [[1990 - Flow]] (not included in Ideaverse for Obsidian). Flow remains one of the most influential books on my thinking.
 
-![[Ideaverse Merged/x/Images/flow-map-original.jpg]]
+![[Ideaverse Merged/Attachments/flow-map-original.jpg]]
 
 
 ## Extra

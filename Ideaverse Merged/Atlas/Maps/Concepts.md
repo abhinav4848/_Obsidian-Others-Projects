@@ -24,7 +24,7 @@ Starting some days, I'll consider how to apply three *strategic* mental models: 
 For my work as an editor/AE in TV, I know to improve my craft means the steady application of getting  [[Ideaverse Merged/Atlas/Dots/Things/Reps|Reps]], creating the conditions for [[Ideaverse Merged/Atlas/Dots/Things/Flow]], which involves environmental  [[Ideaverse Merged/Atlas/Dots/Things/Forcing Function|Forcing Functions]], and considering when I can multitask [[Ideaverse Merged/Atlas/Dots/Things/Shadow Clone]]. 
 
 > [!Connect]- A single concept opens up new ways of looking at the world
-> ![[Ideaverse Merged/x/Images/McCall-pen-sketch-narrow.jpg]]
+> ![[Ideaverse Merged/Attachments/McCall-pen-sketch-narrow.jpg]]
 
 [[Ideaverse Merged/Atlas/Dots/Things/Natural Selection]] is one of the mega-concepts. It helps me decipher the signal from the noise through the mechanism of considering the [[Ideaverse Merged/Atlas/Dots/Things/Lindy Effect]], along with [[Ideaverse Merged/Atlas/Dots/Things/Hormesis]] and [[Ideaverse Merged/Atlas/Dots/Things/Antifragility]]—and also more broadly [[Ideaverse Merged/Atlas/Dots/Things/Cause and Effect]]. This reminds me of [[Ideaverse Merged/Atlas/Dots/Things/Concept Expansion]].
 

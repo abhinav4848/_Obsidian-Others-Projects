@@ -8,16 +8,16 @@ episode_publish_date: 2023-10-17
 last_snip_date: 2024-01-29
 episode_duration_minutes: 48
 episode_url: "https://share.snipd.com/episode/368f3765-d17e-49dc-a948-51eb6177f95e"
-image_url: "Attachments/89219.jpeg"
+image_url: "Snipd/Attachments/89219.jpeg"
 show_url: "https://share.snipd.com/show/1081b0ab-c1d9-4586-8670-15642cc32f91"
-show_image_url: "Attachments/64605.jpeg"
+show_image_url: "Snipd/Attachments/64605.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 2
 from_snipd: true
 title: "From Broke Student to £4.8 Million Portfolio with Ahmed Khan"
 ---
 # From Broke Student to £4.8 Million Portfolio with Ahmed Khan
-![Cover](../../../Attachments/49771.jpeg)
+![Cover](../../Attachments/49771.jpeg)
 
 ## Episode metadata
 - Episode title: From Broke Student to £4.8 Million Portfolio with Ahmed Khan

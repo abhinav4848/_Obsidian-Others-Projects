@@ -9,7 +9,7 @@ One of Ericsson’s classic attributes of [[Andy Matuschak/Deliberate practice|
 I think his claim is wrong both descriptively and normatively.
 
 In Ericsson (1993), the evidence he presents for this claim comes from a diary study of violinists. Solo practice gets 7.2 for pleasure. That's lower than playing for fun (8.3) but similar to solo performance (7.3), and higher than music theory (6.1) or the grand mean (6.5).  
-![](48569.png)
+![](Attachments/48569.png)
 
 Hyllegard and Yamamoto (2005) do a review and find that: “only 4% [of DP activities](https://notes.andymatuschak.org/z5Rvwe2Wo2UvxHxLujUWnsa?stackedNotes=zTkRoDEXnMQqwb6uDxyA8Us&stackedNotes=zTgkGMCSgQes6NL1kCFZpEC) received low ratings for inherent enjoyment or pleasure in practice”. (They suggest that this might be because of methodological problems in all those studies, but I don't find their conjectures very compelling)
 

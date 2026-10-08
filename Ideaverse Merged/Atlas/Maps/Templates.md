@@ -83,7 +83,7 @@ Templates are growing in importance. Why? Largely because of [[Ideaverse Merged/
 > 	- [[Ideaverse Merged/x/Templates/Lorem 50 add-on]] - Around 50 words of Latin dummy text
 > 	- [[Ideaverse Merged/x/Templates/Lorem 500 Add-on]] - Around 500 words of Latin dummy text
 
-![[Ideaverse Merged/x/Images/robert-mccall-black-hole-concept-art-bottom-IDV-Pro.jpg|695]]
+![[Ideaverse Merged/Attachments/robert-mccall-black-hole-concept-art-bottom-IDV-Pro.jpg|695]]
 
 Note: Add these templates to your Templates folder as needed. If you're unfamiliar with templates, you can review Obsidian's documentation [here](https://help.obsidian.md/Plugins/Templates).
 

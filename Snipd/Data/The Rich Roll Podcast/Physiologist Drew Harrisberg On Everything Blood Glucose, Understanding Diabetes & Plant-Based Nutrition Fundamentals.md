@@ -12,16 +12,16 @@ mentioned_books:
 last_snip_date: 2023-12-21
 episode_duration_minutes: 126
 episode_url: "https://share.snipd.com/episode/2280e4a2-5c5b-4b56-85ba-30b6156ac6b0"
-image_url: "Attachments/94413.jpeg"
+image_url: "Snipd/Attachments/94413.jpeg"
 show_url: "https://share.snipd.com/show/e8d66ef6-b573-46f2-902b-a064e953ab50"
-show_image_url: "Attachments/50189.jpeg"
+show_image_url: "Snipd/Attachments/50189.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 2
 from_snipd: true
 title: "Physiologist Drew Harrisberg On Everything Blood Glucose, Understanding Diabetes & Plant-Based Nutrition Fundamentals"
 ---
 # Physiologist Drew Harrisberg On Everything Blood Glucose, Understanding Diabetes & Plant-Based Nutrition Fundamentals
-![Cover](../../../Attachments/12389.jpeg)
+![Cover](../../Attachments/12389.jpeg)
 
 ## Episode metadata
 - Episode title: Physiologist Drew Harrisberg On Everything Blood Glucose, Understanding Diabetes & Plant-Based Nutrition Fundamentals

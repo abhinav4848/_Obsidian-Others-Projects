@@ -12,16 +12,16 @@ mentioned_books:
 last_snip_date: 2024-01-02
 episode_duration_minutes: 76
 episode_url: "https://share.snipd.com/episode/4069c59d-b6c1-4891-8ad0-31f1b466fd57"
-image_url: "Attachments/23487.jpeg"
+image_url: "Snipd/Attachments/23487.jpeg"
 show_url: "https://share.snipd.com/show/c20d1ab1-f474-4761-93e4-3e85a0d1dbeb"
-show_image_url: "Attachments/84010.jpeg"
+show_image_url: "Snipd/Attachments/84010.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 4
 from_snipd: true
 title: "Do THIS To Get Rich and STAY Rich (It’s Deceptively SIMPLE!) _ Morgan Housel"
 ---
 # Do THIS To Get Rich and STAY Rich (It’s Deceptively SIMPLE!) _ Morgan Housel
-![Cover](../../../Attachments/64269.jpeg)
+![Cover](../../Attachments/64269.jpeg)
 
 ## Episode metadata
 - Episode title: Do THIS To Get Rich and STAY Rich (It’s Deceptively SIMPLE!) | Morgan Housel

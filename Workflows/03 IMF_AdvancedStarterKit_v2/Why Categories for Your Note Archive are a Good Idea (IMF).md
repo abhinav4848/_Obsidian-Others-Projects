@@ -17,7 +17,7 @@ Creating categories is a top-down process. You start with the structure and then
 If a categorizing framework is set up to be fluid, it is not top down. Notes do not have to fit its structure. There is no compromise. In the case of an index, it's a pre-existing structure that you can tether to only when you care to. *It adds context without limiting access.* 
 
 Here is that same picture: Wolverine is the note, and your index is just another tether:
-![[Wolverine tethered.jpg]]
+![[Workflows/Attachments/Wolverine tethered.jpg]]
 
 **Argument 2**
 Static categories are rigid. Our brains are not rigid. Therefore static categories inhibit our knowledge from growing organically.

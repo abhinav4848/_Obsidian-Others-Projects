@@ -4,11 +4,11 @@ title: "Flow Map"
 # Flow Map
 The [[Workflows/03 IMF_AdvancedStarterKit_v2/Flow Map]] is Dr. Mihaly Csikszentmihalyi's way to describe where [[Workflows/03 IMF_AdvancedStarterKit_v2/Flow]] takes place in regards to the variables: Challenge and Skill. However he came about plotting the two variables against each, it's a landmark discovery. It's a lodestar to which I keep returning. It's the foundation much of my thinking and to my carving of that theory to practical, moment-to-moment application.
 
-![[Flow Zone Channel.jpg]]
+![[Workflows/Attachments/Flow Zone Channel.jpg]]
 
 Later on, Dr. Mihaly used this version to show the different states of mind plotted on the map of Challenge vs Skill.
 
-![[Flow Map - Original.jpg]]
+![[Workflows/Attachments/Flow Map - Original.jpg]]
 
 ### What is my Contribution to Flow Theory?
 My contribution to Flow Theory is just to expand on using the Flow Map as a practical tool to adjust one’s state of mind as needed—usually to create the [[Workflows/03 IMF_AdvancedStarterKit_v2/Conditions of Flow]] ([[Workflows/03 IMF_AdvancedStarterKit_v2/FlowCreation Theory]]).
@@ -25,7 +25,7 @@ So you can use the Flow Map as a "State of Mind" Map—a useful guide to manage 
 Say, someone is anxious: they can point to "Anxiety" on the Flow Map and then have a few ideas how to get closer to "Optimal Experience" (Flow). See below:
 
 The obvious answer for creating the [[Workflows/03 IMF_AdvancedStarterKit_v2/Conditions of Flow]] is to reduce the level of Challenge or to increase the level of Skill (as the map above shows).
-![[Flow Map.png]]
+![[Workflows/Attachments/Flow Map.png]]
 
 The less obvious answer is *HOW*. That's about developing some awareness and skills, along with having some tools and tactics handy. See more about that at [[Workflows/03 IMF_AdvancedStarterKit_v2/FlowCreation Theory]]. 
 

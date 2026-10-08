@@ -14,16 +14,16 @@ mentioned_books:
 last_snip_date: 2023-08-12
 episode_duration_minutes: 121
 episode_url: "https://share.snipd.com/episode/85b09eb6-1f9f-4a61-9b19-e7c9d9e98fb2"
-image_url: "Attachments/36377.jpeg"
+image_url: "Snipd/Attachments/36377.jpeg"
 show_url: "https://share.snipd.com/show/9d54fd6b-8ff7-41e9-80e6-fb1c01e92949"
-show_image_url: "Attachments/36377.jpeg"
+show_image_url: "Snipd/Attachments/36377.jpeg"
 episode_export_date: "2025-11-30T03:30:26"
 snips_count: 1
 from_snipd: true
 title: "_653 - George Mack - Stop Wasting Your Life On Things That Don’t Matter"
 ---
 # _653 - George Mack - Stop Wasting Your Life On Things That Don’t Matter
-![Cover](../../../Attachments/48639.jpeg)
+![Cover](../../Attachments/48639.jpeg)
 
 ## Episode metadata
 - Episode title: #653 - George Mack - Stop Wasting Your Life On Things That Don’t Matter
