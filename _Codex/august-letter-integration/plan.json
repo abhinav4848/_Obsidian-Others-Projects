@@ -1,0 +1,139 @@
+{
+  "note": "Andy Matuschak/2023-08-01 Patreon letter - Initial experiments in self-explanation support.md",
+  "files": [
+    {
+      "path": "Andy Matuschak/2023-08-01 Patreon letter - Initial experiments in self-explanation support.md",
+      "heading_blank_lines_removed": 3
+    },
+    {
+      "path": "Andy Matuschak/Comprehension - Kintsch.md",
+      "heading_blank_lines_removed": 0
+    },
+    {
+      "path": "Andy Matuschak/Kintsch, W. (1994). Text comprehension, memory, and learning. American Psychologist, 49(4), 294–303.md",
+      "heading_blank_lines_removed": 0
+    },
+    {
+      "path": "Andy Matuschak/Patron letters on memory system experiments.md",
+      "heading_blank_lines_removed": 0
+    },
+    {
+      "path": "_Codex/config.json",
+      "heading_blank_lines_removed": 0
+    },
+    {
+      "path": "_Codex/README.md",
+      "heading_blank_lines_removed": 0
+    },
+    {
+      "path": "_Codex/Patreon letter links.md",
+      "heading_blank_lines_removed": 0
+    }
+  ],
+  "letter_links_converted": [
+    {
+      "URL": "https://notes.andymatuschak.org/zY3RYK9gJ6eDnq27vSwBDQh",
+      "target": "Patron letters on memory system experiments",
+      "alias": "Patron letters on memory system experiments"
+    },
+    {
+      "URL": "https://notes.andymatuschak.org/zLButXjJvGCpWKHzqhXEhhm",
+      "target": "2023-06-30 Patreon letter - Reading comprehension and memory systems",
+      "alias": "But in the past few months, I’ve come to believe"
+    },
+    {
+      "URL": "https://notes.andymatuschak.org/zLButXjJvGCpWKHzqhXEhhm",
+      "target": "2023-06-30 Patreon letter - Reading comprehension and memory systems",
+      "alias": "in last month’s essay"
+    }
+  ],
+  "bibliographic_links_converted": 2,
+  "concept_links_added": 2,
+  "native_footnotes": 3,
+  "author_prose_preserved": true,
+  "private_notice_preserved": true,
+  "upper_index_preserved": true,
+  "assets": [
+    {
+      "source_URL": "http://andymatuschak.org/files/papers/McNamara%20-%202004%20-%20SERT.pdf",
+      "fetch_URL": "https://andymatuschak.org/files/papers/McNamara%20-%202004%20-%20SERT.pdf",
+      "destination": "Andy Matuschak/Attachments/McNamara - 2004 - SERT - Self-Explanation Reading Training.pdf",
+      "sha256": "6cc7bc699c4d1b38b6466caf08e03c3ba614296a515a21de4cd2138d4d0fce08",
+      "cache": "_Codex/august-letter-integration/cache/89c88e9d4457c87ca2279857b3f17b2dd080a9823eca13d00a9d8d54bbf6cf00.bin"
+    },
+    {
+      "source_URL": "http://andymatuschak.org/files/papers/Wiggins,%20McTighe%20-%202005%20-%20Understanding%20by%20design.pdf",
+      "fetch_URL": "https://andymatuschak.org/files/papers/Wiggins,%20McTighe%20-%202005%20-%20Understanding%20by%20design.pdf",
+      "destination": "Andy Matuschak/Attachments/Wiggins, McTighe - 2005 - Understanding by Design.pdf",
+      "sha256": "6b2d6059a04367eeed0aae97d1641052513068f8b8d106fdad0daf838682f332",
+      "cache": "_Codex/august-letter-integration/cache/deba54bc082b5e28244bc7603ff683f5b3a879b99df49f7cf5544d05a11fb341.bin"
+    },
+    {
+      "source_URL": "http://andymatuschak.org/files/papers/Kintsch%20-%201998%20-%20Comprehension.pdf",
+      "fetch_URL": "https://andymatuschak.org/files/papers/Kintsch%20-%201998%20-%20Comprehension.pdf",
+      "destination": "Andy Matuschak/Attachments/Kintsch - 1998 - Comprehension - A Paradigm for Cognition.pdf",
+      "sha256": "a79ccc029269669814d02bc9133bc8fe30c6f42cd9a458eb872c4194af990f3e",
+      "cache": "_Codex/august-letter-integration/cache/bc0b2a19d93f1a1dbf9ba8e924ebefd2f5166f2732449bd6b487cc13b2631065.bin"
+    },
+    {
+      "source_URL": "http://andymatuschak.org/files/papers/Kintsch%20-%201994%20-%20Text%20comprehension,%20memory,%20and%20learning.pdf",
+      "fetch_URL": "https://andymatuschak.org/files/papers/Kintsch%20-%201994%20-%20Text%20comprehension,%20memory,%20and%20learning.pdf",
+      "destination": "Andy Matuschak/Attachments/Kintsch - 1994 - Text comprehension, memory, and learning.pdf",
+      "sha256": "371d701023cad4f66e6d3f266f2028a518dbb5f0b117311164ccaa98a619c5e6",
+      "cache": "_Codex/august-letter-integration/cache/a94a68f3358256f0c306307e73a277869c05cd8a62c9fc2599243c2686cc269d.bin"
+    },
+    {
+      "source_URL": "https://notes.andymatuschak.org/BearImages/DE1145CF-7623-4081-9C1F-FCA234C7B2AB/image.png.webp",
+      "fetch_URL": "https://notes.andymatuschak.org/BearImages/DE1145CF-7623-4081-9C1F-FCA234C7B2AB/image.png.webp",
+      "destination": "Andy Matuschak/Attachments/Andy- Initial experiments in self-explanation support 1.webp",
+      "sha256": "3df84be8b615677db803e821bcf43d0e928f34817a96fd7ccf790842e04a3090",
+      "cache": "_Codex/august-letter-integration/cache/32367c557320bc088bbdb3a69ff050e3eb9d20e5ae2873548883eb2ad7518075.bin"
+    },
+    {
+      "source_URL": "https://notes.andymatuschak.org/BearImages/DE1145CF-7623-4081-9C1F-FCA234C7B2AB/image%202.png",
+      "fetch_URL": "https://notes.andymatuschak.org/BearImages/DE1145CF-7623-4081-9C1F-FCA234C7B2AB/image%202.png",
+      "destination": "Andy Matuschak/Attachments/Andy- Initial experiments in self-explanation support 2.png",
+      "sha256": "9fa55484d9f345938ada6b8dd60635a41d64cd46f30aeb300fea146f86405720",
+      "cache": "_Codex/august-letter-integration/cache/7f51372e1ad5936e736576a393faccd7c1bf4bd2aa918a0f255e2b04bbc528a6.bin"
+    }
+  ],
+  "existing_Chi_PDF_reused": true,
+  "Chi_PDF_sha256": "abfb8fa4a373e2c63c210e60688c7a09e9416c1968ba53548f73ca56f7663e00",
+  "hashes": [
+    {
+      "path": "Andy Matuschak/2023-08-01 Patreon letter - Initial experiments in self-explanation support.md",
+      "before": "036ea5ae860f7d060303f76d8c71f536110b41bb6a5d716a5fadde0e9c261a1c",
+      "after": "8b662392eab784c92ce592abbe56bdb01b25effe143e221a4370f87c5a7b59b7"
+    },
+    {
+      "path": "Andy Matuschak/Comprehension - Kintsch.md",
+      "before": "5769b817479ceb81cf4aeb9d02b84bfcec798f49514848fd9b74b670d7866201",
+      "after": "77b6360af0da1bbd14d1feb9888f91dfb92dae51114e1a114f162341ffa0c0e1"
+    },
+    {
+      "path": "Andy Matuschak/Kintsch, W. (1994). Text comprehension, memory, and learning. American Psychologist, 49(4), 294–303.md",
+      "before": "644fe71ad137818e845401f2602ea28d5c40450a9e454236e7a4bcd7a7450160",
+      "after": "580faec0daf0f8d0c2599f82e1bbbc5cbab92cc7c3f5be8c56eef46bf9534b9a"
+    },
+    {
+      "path": "Andy Matuschak/Patron letters on memory system experiments.md",
+      "before": "3054c1bc1cad78422af5f2b7639ec4acb78b3d8e243216bb3c03f495eb29e3cb",
+      "after": "b0eb614c18f65eb0e5ec8c19921749540c521219f0a38120f0855a7aa6faddb7"
+    },
+    {
+      "path": "_Codex/config.json",
+      "before": "8d0a8f66facbda5f0c7a6fbb1ba209c72d894c2c9e74c69a45ddfaf16aee4bf0",
+      "after": "65ea54c30cd262351c912c278f6658a38b083cf196337b259e07b5d7f5b390fd"
+    },
+    {
+      "path": "_Codex/README.md",
+      "before": "7d3d9aa3d0725a4d9eedbcc0cc191b063aa7f1d243b9931a5cee7efa8bfbabc5",
+      "after": "4f273e341310e394927c34d668b9a422cb8951caf1d654b1a92d7aee37a88df6"
+    },
+    {
+      "path": "_Codex/Patreon letter links.md",
+      "before": "206735b6ae55f2becacb562030ea973876d820bf2b676ac347fadf74fce7cb63",
+      "after": "b4b2059ab2c7a64a96ddbe760a62727b6dadca310b630ee75fe9bb77ca2f01d5"
+    }
+  ]
+}

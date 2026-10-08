@@ -1,0 +1,79 @@
+{
+  "checked_at": "2026-10-08T12:20:14.336410+00:00",
+  "note": "Andy Matuschak/2023-08-01 Patreon letter - Initial experiments in self-explanation support.md",
+  "assets": [
+    {
+      "source_URL": "http://andymatuschak.org/files/papers/McNamara%20-%202004%20-%20SERT.pdf",
+      "fetch_URL": "https://andymatuschak.org/files/papers/McNamara%20-%202004%20-%20SERT.pdf",
+      "filename": "McNamara - 2004 - SERT - Self-Explanation Reading Training.pdf",
+      "resolved_URL": "https://andymatuschak.org/files/papers/McNamara%20-%202004%20-%20SERT.pdf",
+      "HTTP_status": 200,
+      "Content_Type": "application/pdf",
+      "status": "downloaded",
+      "bytes": 248018,
+      "sha256": "6cc7bc699c4d1b38b6466caf08e03c3ba614296a515a21de4cd2138d4d0fce08",
+      "cache": "_Codex/august-letter-integration/cache/89c88e9d4457c87ca2279857b3f17b2dd080a9823eca13d00a9d8d54bbf6cf00.bin"
+    },
+    {
+      "source_URL": "http://andymatuschak.org/files/papers/Wiggins,%20McTighe%20-%202005%20-%20Understanding%20by%20design.pdf",
+      "fetch_URL": "https://andymatuschak.org/files/papers/Wiggins,%20McTighe%20-%202005%20-%20Understanding%20by%20design.pdf",
+      "filename": "Wiggins, McTighe - 2005 - Understanding by Design.pdf",
+      "resolved_URL": "https://andymatuschak.org/files/papers/Wiggins,%20McTighe%20-%202005%20-%20Understanding%20by%20design.pdf",
+      "HTTP_status": 200,
+      "Content_Type": "application/pdf",
+      "status": "downloaded",
+      "bytes": 5265025,
+      "sha256": "6b2d6059a04367eeed0aae97d1641052513068f8b8d106fdad0daf838682f332",
+      "cache": "_Codex/august-letter-integration/cache/deba54bc082b5e28244bc7603ff683f5b3a879b99df49f7cf5544d05a11fb341.bin"
+    },
+    {
+      "source_URL": "http://andymatuschak.org/files/papers/Kintsch%20-%201998%20-%20Comprehension.pdf",
+      "fetch_URL": "https://andymatuschak.org/files/papers/Kintsch%20-%201998%20-%20Comprehension.pdf",
+      "filename": "Kintsch - 1998 - Comprehension - A Paradigm for Cognition.pdf",
+      "resolved_URL": "https://andymatuschak.org/files/papers/Kintsch%20-%201998%20-%20Comprehension.pdf",
+      "HTTP_status": 200,
+      "Content_Type": "application/pdf",
+      "status": "downloaded",
+      "bytes": 20047255,
+      "sha256": "a79ccc029269669814d02bc9133bc8fe30c6f42cd9a458eb872c4194af990f3e",
+      "cache": "_Codex/august-letter-integration/cache/bc0b2a19d93f1a1dbf9ba8e924ebefd2f5166f2732449bd6b487cc13b2631065.bin"
+    },
+    {
+      "source_URL": "http://andymatuschak.org/files/papers/Kintsch%20-%201994%20-%20Text%20comprehension,%20memory,%20and%20learning.pdf",
+      "fetch_URL": "https://andymatuschak.org/files/papers/Kintsch%20-%201994%20-%20Text%20comprehension,%20memory,%20and%20learning.pdf",
+      "filename": "Kintsch - 1994 - Text comprehension, memory, and learning.pdf",
+      "resolved_URL": "https://andymatuschak.org/files/papers/Kintsch%20-%201994%20-%20Text%20comprehension,%20memory,%20and%20learning.pdf",
+      "HTTP_status": 200,
+      "Content_Type": "application/pdf",
+      "status": "downloaded",
+      "bytes": 2358796,
+      "sha256": "371d701023cad4f66e6d3f266f2028a518dbb5f0b117311164ccaa98a619c5e6",
+      "cache": "_Codex/august-letter-integration/cache/a94a68f3358256f0c306307e73a277869c05cd8a62c9fc2599243c2686cc269d.bin"
+    },
+    {
+      "source_URL": "https://notes.andymatuschak.org/BearImages/DE1145CF-7623-4081-9C1F-FCA234C7B2AB/image.png.webp",
+      "fetch_URL": "https://notes.andymatuschak.org/BearImages/DE1145CF-7623-4081-9C1F-FCA234C7B2AB/image.png.webp",
+      "filename": "Andy- Initial experiments in self-explanation support 1.webp",
+      "resolved_URL": "https://notes.andymatuschak.org/BearImages/DE1145CF-7623-4081-9C1F-FCA234C7B2AB/image.png.webp",
+      "HTTP_status": 200,
+      "Content_Type": "image/webp",
+      "status": "downloaded",
+      "bytes": 58090,
+      "sha256": "3df84be8b615677db803e821bcf43d0e928f34817a96fd7ccf790842e04a3090",
+      "cache": "_Codex/august-letter-integration/cache/32367c557320bc088bbdb3a69ff050e3eb9d20e5ae2873548883eb2ad7518075.bin"
+    },
+    {
+      "source_URL": "https://notes.andymatuschak.org/BearImages/DE1145CF-7623-4081-9C1F-FCA234C7B2AB/image%202.png",
+      "fetch_URL": "https://notes.andymatuschak.org/BearImages/DE1145CF-7623-4081-9C1F-FCA234C7B2AB/image%202.png",
+      "filename": "Andy- Initial experiments in self-explanation support 2.png",
+      "resolved_URL": "https://notes.andymatuschak.org/BearImages/DE1145CF-7623-4081-9C1F-FCA234C7B2AB/image%202.png",
+      "HTTP_status": 200,
+      "Content_Type": "image/png",
+      "status": "downloaded",
+      "bytes": 571672,
+      "sha256": "9fa55484d9f345938ada6b8dd60635a41d64cd46f30aeb300fea146f86405720",
+      "cache": "_Codex/august-letter-integration/cache/7f51372e1ad5936e736576a393faccd7c1bf4bd2aa918a0f255e2b04bbc528a6.bin"
+    }
+  ],
+  "reused_existing_PDF": "Andy Matuschak/Attachments/Chi et al - 1994 - Eliciting self-explanations improves understanding.pdf"
+}

@@ -43,3 +43,6 @@ Attachments now live directly under each top-level collection: `Snipd/Attachment
 
 ## Patreon letter links
 The existing Patreon-letter index is complete with 15 source-linked summary notes. All 19 letters have verified Andy and Patreon addresses in URL lists. Existing captured prose and personal remarks were retained; article links were made internal where identity was verified. See `Patreon letter links.md` and `patreon-import` for evidence and recovery records.
+
+## Full Patreon captures and August letter integration
+The user supplied full-text captures to replace the 15 summary notes. The lower index section is now labelled Previously missing letters. The August 1 letter uses existing local notes, collection attachments, and native footnotes while preserving the author’s prose. Recovery and verified downloads are recorded in `august-letter-integration`.

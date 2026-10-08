@@ -1,0 +1,798 @@
+{
+  "letters": [
+    {
+      "date": "2023-11-30",
+      "lines": 121,
+      "assets": [],
+      "footnote_candidates": [
+        {
+          "line": 12,
+          "text": "1. You can point the wand at anything and say “make sure I know this.”"
+        },
+        {
+          "line": 13,
+          "text": "2. You can wave the wand over a section and ask “did I miss anything important?”"
+        },
+        {
+          "line": 17,
+          "text": "1. You have a special purple highlighter. When you mark text with it, spaced repetition prompts about those ideas will be added to future review sessions."
+        },
+        {
+          "line": 18,
+          "text": "2. At the end of each section, you can press a button to take a second pass over “suggested highlights”. This button marks phrases corresponding to all the details which the author thought w"
+        }
+      ],
+      "tail": "That’s enough research agenda for several lifetimes, of course. But I articulate all this here as a way of helping myself resist the cultural forces surrounding me in San Francisco. Those forces demand that if I find an idea—like highlight-driven memory prompts—I should focus aggressively on scaling it to apply to as many places and people as possible. There’s merit in that, of course! I certainly want to use this special highlighter everywhere. "
+    },
+    {
+      "date": "2023-10-26",
+      "lines": 120,
+      "assets": [],
+      "footnote_candidates": [
+        {
+          "line": 68,
+          "text": "1. I’m quite unsure of what I find important, and I’m skimming to map a space. This is fine, so long as it’s intentional!"
+        },
+        {
+          "line": 69,
+          "text": "2. I’m reading in a low-energy state, and I don’t feel like exerting effort at the moment. This is fine when reading for entertainment."
+        },
+        {
+          "line": 70,
+          "text": "3. I’m fooling myself, imagining that I’m understanding and retaining the material “well enough” without extra support. This is rarely true for ideas I actually care about."
+        },
+        {
+          "line": 112,
+          "text": "1. Naturalistic environments often don’t reliably or clearly surface conceptual gaps. And if you have a nuanced conceptual understanding at the moment, the naturalistic environment often won"
+        },
+        {
+          "line": 113,
+          "text": "2. Memory systems can help you more rapidly “bootstrap” yourself to the point where you can use that material naturalistically."
+        },
+        {
+          "line": 114,
+          "text": "3. When an idea is beautiful or striking, it’s often meaningful to deepen your engagement with it, even if your immediate projects have no use for it."
+        }
+      ],
+      "tail": "But I think these objections do point to important problems with memory systems. Review often feels boring and detached from things I actually care about. Too often, I’m captivated by a discussion of an idea, but when the associated prompts arise in my memory system, I’m left cold. And skill-related practice often feels like it’s much less effective than it could be because I’m not doing those tasks in the real environment where that knowledge wi"
+    },
+    {
+      "date": "2023-09-30",
+      "lines": 153,
+      "assets": [
+        {
+          "image": false,
+          "label": "It’s a favorite study practice",
+          "URL": "https://andymatuschak.org/files/papers/Dunlosky%20et%20al%20-%202013%20-%20Improving%20Students%E2%80%99%20Learning%20With%20Effective%20Learning%20Techniques.pdf#page=15"
+        },
+        {
+          "image": false,
+          "label": "isn’t actually better understood or remembered",
+          "URL": "https://andymatuschak.org/files/papers/Dunlosky%20et%20al%20-%202013%20-%20Improving%20Students%E2%80%99%20Learning%20With%20Effective%20Learning%20Techniques.pdf#page=17"
+        },
+        {
+          "image": false,
+          "label": "a typical intervention",
+          "URL": "http://andymatuschak.org/files/papers/Chi%20et%20al%20-%201994%20-%20Eliciting%20self-explanations%20improves%20understanding.pdf"
+        },
+        {
+          "image": false,
+          "label": "Effective readers are demanding",
+          "URL": "http://andymatuschak.org/files/papers/Wyatt%20et%20al%20-%201993%20-%20Comprehension%20strategies,%20worth%20and%20credibility%20monitoring,%20and%20evaluations.pdf"
+        }
+      ],
+      "footnote_candidates": [
+        {
+          "line": 19,
+          "text": "1. Retrieval practice of poorly-comprehended conceptual material usually doesn’t actually work; you can parrot but can’t use the knowledge."
+        },
+        {
+          "line": 20,
+          "text": "2. When retrieval practice feels dogmatic—like “guessing the teacher’s password”—that’s often _because_ of comprehension gaps. This is especially true when someone else writes the prompts."
+        },
+        {
+          "line": 21,
+          "text": "3. Retrieval practice (and problem-solving practice) are unpleasant and indirect ways to diagnose and fix comprehension gaps."
+        },
+        {
+          "line": 28,
+          "text": "1. As you read a text, you have a magic highlighter. You can use it to mark anything important, anything you want to make sure you understand and remember. Maybe you can jot a few extra word"
+        },
+        {
+          "line": 29,
+          "text": "2. Future practice sessions will include tasks which reinforce and elaborate the ideas you highlighted."
+        },
+        {
+          "line": 30,
+          "text": "3. When you finish reading a section, you can press a button to highlight other important details which you _didn’t_ mark (in a different color, say). These “extra” (“suggested”? “shadow”?) "
+        },
+        {
+          "line": 108,
+          "text": "1. **Text to curated highlights:** Given a text, what are the most important details to understand, and what highlights would draw one’s attention most appropriately to those details?"
+        },
+        {
+          "line": 109,
+          "text": "2. **Highlights to tasks:** Given a set of highlights-in-context (and, potentially, emphasis remarks), construct a set of practice tasks."
+        },
+        {
+          "line": 110,
+          "text": "3. **Semantic highlight diff:** Given a set of user highlights-in-context, determine which of the curated highlights’ conceptual matter is not “covered”?"
+        },
+        {
+          "line": 116,
+          "text": "1. Text to curated highlights: Paralleling the original mnemonic medium, an expert constructs an “ideal” set of practice tasks and maps them (many-to-many) to an “ideal” set of highlights."
+        },
+        {
+          "line": 117,
+          "text": "2. Highlights to tasks: Given a user’s highlights, we use traditional NLP tools like latent semantic analysis to identify “semantically matching” expert highlights. Readers are given the cor"
+        },
+        {
+          "line": 118,
+          "text": "3. Semantic highlight diff: Compute the set difference between the expert’s “curated highlights” and the ones identified in (2)."
+        },
+        {
+          "line": 126,
+          "text": "1. Text to curated highlights: A surprisingly good start. Usually includes 10-20% unimportant details (even when I ask the model to include an importance rating), and omits a handful of impo"
+        },
+        {
+          "line": 127,
+          "text": "2. Highlights to tasks: The most difficult of the tasks. I believe that much of this will come down to articulating a philosophy of instructional design, or a “pattern language” for review. "
+        },
+        {
+          "line": 128,
+          "text": "3. Semantic highlight diff: Surprisingly difficult for the model. It particularly struggles with user highlights which aren’t in the set of “curated” highlights—it wants to make spurious map"
+        },
+        {
+          "line": 133,
+          "text": "1. Text to curated highlights: constructed by me, as described in the simple model above."
+        },
+        {
+          "line": 134,
+          "text": "2. Highlights to tasks: as described in the simple model above, but I’ll match reader highlights to my curated highlights by hand, rather than using LSA or similar."
+        },
+        {
+          "line": 135,
+          "text": "3. Semantic highlight diff: I’ll just do it by hand."
+        },
+        {
+          "line": 145,
+          "text": "1. The mnemonic medium [[Andy Matuschak/2021-08-24 Patreon letter - Revamping the mnemonic medium around reader control|feels unpleasantly authoritarian in many contexts]]; the locus of cont"
+        },
+        {
+          "line": 146,
+          "text": "2. Comprehension gaps are routine; [[Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems|practicing others’ prompts doesn’t work and feels oppressive when thi"
+        },
+        {
+          "line": 147,
+          "text": "3. “Mere” retrieval practice of conceptual material often produces brittle understanding which transfers poorly; [[Andy Matuschak/2023-05-31 Patreon letter - Fluid practice for fluid underst"
+        }
+      ],
+      "tail": "It’s safe to assume that this new design will fail, too, but I’m feeling optimistic that it will fail in interesting and instructive ways.\n\n---\n\nMy thanks to Elliott Jin for facilitating my initial test and for extended discussion of these ideas! Thanks also to Joe Edelman for helpful discussion."
+    },
+    {
+      "date": "2023-08-31",
+      "lines": 132,
+      "assets": [
+        {
+          "image": false,
+          "label": "as the self-explanation literature has found",
+          "URL": "https://andymatuschak.org/files/papers/McNamara%20-%202004%20-%20SERT.pdf#page=19"
+        },
+        {
+          "image": false,
+          "label": "John R. Anderson’s “Learning and Memory”, chapter 9",
+          "URL": "https://andymatuschak.org/files/papers/Anderson%20-%202000%20-%20Learning%20and%20memory.pdf#page=334"
+        }
+      ],
+      "footnote_candidates": [
+        {
+          "line": 58,
+          "text": "1. **Check comprehension:** ensure that you actually read and understood the text."
+        },
+        {
+          "line": 59,
+          "text": "2. **Facilitate skill acquisition:** practice applying what you’ve learned to induce patterns, reinforce long-term memory, and build procedural automaticity."
+        },
+        {
+          "line": 60,
+          "text": "3. **Stimulate elaboration:** induce you to draw connections, notice additional properties, think creatively. This promotes both richer understanding and higher memory stability."
+        },
+        {
+          "line": 131,
+          "text": "[^1]: For a good summary of this process, see [John R. Anderson’s “Learning and Memory”, chapter 9](https://andymatuschak.org/files/papers/Anderson%20-%202000%20-%20Learning%20and%20memory.p"
+        },
+        {
+          "line": 132,
+          "text": "[^2]: Michael Nielsen’s “[Using spaced repetition systems to see through a piece of mathematics](https://cognitivemedium.com/srs-mathematics)” is very stimulating here, but I’m not yet quite"
+        }
+      ],
+      "tail": "Thanks to Gary Bernhardt, Elliott Jin, and Russel Simmons for helpful discussion of these topics.\n\n\n[^1]: For a good summary of this process, see [John R. Anderson’s “Learning and Memory”, chapter 9](https://andymatuschak.org/files/papers/Anderson%20-%202000%20-%20Learning%20and%20memory.pdf#page=334).  \n[^2]: Michael Nielsen’s “[Using spaced repetition systems to see through a piece of mathematics](https://cognitivemedium.com/srs-mathematics)” i"
+    },
+    {
+      "date": "2023-06-30",
+      "lines": 157,
+      "assets": [
+        {
+          "image": false,
+          "label": "In one of the seminal experiments on adult reading comprehension, Michael Pressley and colleagues asked",
+          "URL": "http://andymatuschak.org/files/papers/Pressley%20et%20al%20-%201990%20-%20Sometimes%20Adults%20Miss%20the%20Main%20Ideas%20and%20Do%20Not%20Realize%20It.pdf"
+        },
+        {
+          "image": false,
+          "label": "actively publishing professors are often quite sophisticated",
+          "URL": "http://andymatuschak.org/files/papers/Wyatt%20et%20al%20-%201993%20-%20Comprehension%20strategies,%20worth%20and%20credibility%20monitoring,%20and%20evaluations.pdf"
+        },
+        {
+          "image": false,
+          "label": "we can learn plenty by studying their behavior",
+          "URL": "http://andymatuschak.org/files/papers/Pressley,%20Afflerbach%20-%201995%20-%20Verbal%20Protocols%20of%20Reading.pdf"
+        },
+        {
+          "image": false,
+          "label": "Prior research",
+          "URL": "http://andymatuschak.org/files/papers/Hamaker%20-%201986%20-%20The%20Effects%20of%20Adjunct%20Questions%20on%20Prose%20Learning.pdf"
+        },
+        {
+          "image": false,
+          "label": "There’s evidence",
+          "URL": "http://andymatuschak.org/files/papers/Hamaker%20-%201986%20-%20The%20Effects%20of%20Adjunct%20Questions%20on%20Prose%20Learning.pdf"
+        },
+        {
+          "image": false,
+          "label": "elaborative vocal rehearsal",
+          "URL": "http://andymatuschak.org/files/papers/Simpson%20et%20al%20-%201994%20-%20Elaborative%20verbal%20rehearsals%20and%20college%20students'%20cognitive%20performance.pdf"
+        },
+        {
+          "image": false,
+          "label": "it seems",
+          "URL": "http://andymatuschak.org/files/papers/Agarwal%20et%20al%20-%202008%20-%20Examining%20the%20testing%20effect%20with%20open-%20and%20closed-book%20tests.pdf"
+        },
+        {
+          "image": false,
+          "label": "this review",
+          "URL": "http://andymatuschak.org/files/papers/Pressley%20et%20al%20-%201997%20-%20Some%20of%20the%20Reasons%20Why%20Preparing%20for%20Exams%20Is%20So%20Hard.pdf"
+        },
+        {
+          "image": false,
+          "label": "Arnold and McDermott, “Test-Potentiated Learning: Distinguishing Between Direct and Indirect Effects of Tests” (2013)",
+          "URL": "http://andymatuschak.org/files/papers/Arnold,%20McDermott%20-%202013%20-%20Test-Potentiated%20Learning.pdf"
+        }
+      ],
+      "footnote_candidates": [
+        {
+          "line": 72,
+          "text": "1. **specific backward effects:** actively recalling information makes it more likely that you’ll be able to recall that information in the future"
+        },
+        {
+          "line": 73,
+          "text": "2. **general backward effects:** the questions induce mental review and deeper processing of the surrounding text and related ideas; poor performance may cause you to re-read the text[[Andy "
+        },
+        {
+          "line": 74,
+          "text": "3. **specific forward effects:** in the subsequent text, you’ll be more attentive to the kinds of things the questions ask about; you’ll have better recall for related later material[[Andy M"
+        },
+        {
+          "line": 75,
+          "text": "4. **general forward effects:** you’ll pay more attention in general, including to unrelated material; you may read more slowly and carefully if you learn you performed poorly"
+        },
+        {
+          "line": 151,
+          "text": "## Footnotes"
+        },
+        {
+          "line": 152,
+          "text": "1. Thanks to Gwern for finding the fulltext here and for [documenting that search as a case study](https://gwern.net/search#pressley-et-al-1989)."
+        },
+        {
+          "line": 153,
+          "text": "2. For more, see the bibliographic litany in [this review](http://andymatuschak.org/files/papers/Pressley%20et%20al%20-%201997%20-%20Some%20of%20the%20Reasons%20Why%20Preparing%20for%20Exams"
+        },
+        {
+          "line": 154,
+          "text": "3. Video of this should be available in the coming weeks, alongside a more traditional interview."
+        },
+        {
+          "line": 155,
+          "text": "4. The latter claim isn’t discussed in Hamaker’s review, but I’ve heard lots of reports like this from mnemonic medium readers. Interestingly, I haven’t yet found studies exhibiting this eff"
+        },
+        {
+          "line": 156,
+          "text": "5. The latter claim isn’t discussed in Hamaker’s review, and it’s not as well studied as some of the other effects I’ve mentioned, but it’s usually called “test-potentiated learning” or the "
+        },
+        {
+          "line": 157,
+          "text": "6. This belief-building process is part of why the experience of “just parroting back answers” so harmful. It’s not just that it feels like you’re wasting time in that moment, or that you’re"
+        }
+      ],
+      "tail": "2. For more, see the bibliographic litany in [this review](http://andymatuschak.org/files/papers/Pressley%20et%20al%20-%201997%20-%20Some%20of%20the%20Reasons%20Why%20Preparing%20for%20Exams%20Is%20So%20Hard.pdf) (PDF: [[Andy Matuschak/Attachments/Pressley et al - 1997 - Some of the Reasons Why Preparing for Exams Is So Hard.pdf]]), page 9, first paragraph.\n3. Video of this should be available in the coming weeks, alongside a more traditional int"
+    },
+    {
+      "date": "2023-05-31",
+      "lines": 91,
+      "assets": [],
+      "footnote_candidates": [
+        {
+          "line": 51,
+          "text": "1. a theory of knowledge: what it means to understand something in a particular context;"
+        },
+        {
+          "line": 52,
+          "text": "2. a theory of learning: how to construct concrete activities which produce and maintain those understandings; and"
+        },
+        {
+          "line": 53,
+          "text": "3. a theory of the medium: how to instantiate those activities in an item as it will be presented by an existing memory system, and in the context of a review session (i.e. possibly on a pho"
+        },
+        {
+          "line": 86,
+          "text": "# Footnotes"
+        }
+      ],
+      "tail": "1 Alex’s professional life has been undergoing some significant upheaval, so his studies have been on pause recently. We may resume in time, and/or I may start working with another student.\n\n2 This relates to a gripe I have about the recent gush of “AI tutors”: they lack a clear theory of instruction. Some of them are told to quiz you with boring problems; others seem simply told to “be a world-class tutor and answer the student’s questions.” Wha"
+    },
+    {
+      "date": "2023-03-31",
+      "lines": 90,
+      "assets": [
+        {
+          "image": false,
+          "label": "recently ran a relevant series of experiments",
+          "URL": "http://andymatuschak.org/files/papers/O'Day%20-%202019%20-%20Improving%20Problem%20Solving%20with%20Retrieval-Based%20Learning.pdf"
+        },
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/A2BEADA8-B664-4F47-818C-9E1DEE5580B1/8654D806-F4F3-414C-890B-00F47F61A0F6.png"
+        },
+        {
+          "image": false,
+          "label": "Yeo and Fazio observed",
+          "URL": "http://andymatuschak.org/files/papers/Yeo,%20Fazio%20-%202019%20-%20The%20optimal%20learning%20strategy%20depends%20on%20learning%20goals%20and%20processes2.pdf"
+        },
+        {
+          "image": false,
+          "label": "The claim",
+          "URL": "http://andymatuschak.org/files/papers/Sweller%20-%201988%20-%20Cognitive%20load%20during%20problem%20solving.pdf"
+        },
+        {
+          "image": false,
+          "label": "suggests",
+          "URL": "http://andymatuschak.org/files/papers/Sweller%20-%201988%20-%20Cognitive%20load%20during%20problem%20solving.pdf"
+        },
+        {
+          "image": false,
+          "label": "desirable difficulties",
+          "URL": "http://andymatuschak.org/files/papers/Bjork%20-%201994%20-%20Memory%20and%20Metamemory.pdf"
+        },
+        {
+          "image": false,
+          "label": "undesirable difficulties",
+          "URL": "http://andymatuschak.org/files/papers/Chen%20et%20al%20-%202018%20-%20Undesirable%20difficulty%20effects%20in%20the%20learning%20of%20high-element%20interactivity.pdf"
+        },
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/A2BEADA8-B664-4F47-818C-9E1DEE5580B1/BD1CB52C-31FD-4A4A-B6DF-BBE8B75BDE78.png"
+        }
+      ],
+      "footnote_candidates": [],
+      "tail": "It’s hard not to start wondering: could a large language model do some or all of this? I don’t think I’m doing anything terribly special, though I’m certainly drawing on my subject matter experience in both physics and education. A sufficiently good model could also help with the question of how to handle topics which don’t come with ready-made problem sets and discussion questions. There are now six zillion “AI tutor” startups in flight, but non"
+    },
+    {
+      "date": "2023-02-28",
+      "lines": 98,
+      "assets": [
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/025CD4E9-D5B0-49ED-9903-5DFDD5F1F93C/9950FE12-3DA6-4068-BA5D-D7DCF0584E2B.png"
+        }
+      ],
+      "footnote_candidates": [],
+      "tail": "One thing this experience is: intense. Intense, for both of us! Alex is trying to learn difficult material and contribute to an open question, on a very ambitious time frame. And I’m trying to make a transformative difference in his learning experience through second-party interventions. Both tasks feel awfully overwhelming. An air of commiseration helps the project, I think, but the strain is honestly quite palpable, alongside the constant sense"
+    },
+    {
+      "date": "2022-12-27",
+      "lines": 104,
+      "assets": [],
+      "footnote_candidates": [],
+      "tail": "This letter grew directly from a series of conversations with Michael Nielsen, and much of its thinking is due to him. I’m particularly grateful to Michael for the central observation that I’ve been slipping into issues of scale, the emphasis on small-N methods, and the [idea](https://michaelnotebook.com/bbms/index.html) of memory coaching.\n\nI’d also like to thank Rob Ochshorn, Joe Edelman, and Joël Franusic for thoughtful comments.\n\n[Feedback on"
+    },
+    {
+      "date": "2022-10-14",
+      "lines": 137,
+      "assets": [
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/765E63CA-8F7D-46C9-8443-0063A2E23D37/11DF1DDD-0FD7-488C-B4C1-F7D737E16957.png"
+        }
+      ],
+      "footnote_candidates": [],
+      "tail": "Meanwhile, I’ll start producing design concepts around the more conceptual problems and opportunities I’ve described above. We’ll see where that goes.\n\n---\n\nI’d like to thank [Taylor Rogalski](https://twitter.com/tayroga) for helpful discussions around prompt-centric vs. idea-centric interaction design. My thanks also to [Hammad Bashir](https://twitter.com/HammadTime), who joined me in implementing this most recent design."
+    },
+    {
+      "date": "2022-06-30",
+      "lines": 93,
+      "assets": [
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/93AF164C-31FC-4476-A815-5F0EBEEDD7C0/B519CD82-DAFC-4D66-9609-FC1DC17715E5.png"
+        },
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/93AF164C-31FC-4476-A815-5F0EBEEDD7C0/E1A9DF4B-CE0D-4F95-8A1D-3C189F5EE699.png"
+        }
+      ],
+      "footnote_candidates": [],
+      "tail": "---\n\nMy sincere thanks to all who met with me to try this demo, in-person and online, and to those who sent me notes on their experiences.\n\nMuch of the actionable insight occupying my attention has come from generous design crit sessions, rather than from user testing. More on that in a future letter—when I have new design work to share—but I’ll offer pre-emptive thanks here to Rob Ochshorn, Gray Crawford, Niko Klein, Joe Edelman, Yiliu Shen-Burk"
+    },
+    {
+      "date": "2022-02-28",
+      "lines": 167,
+      "assets": [
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/411F06DD-8236-4C35-A527-721329D206C2/000173.png"
+        },
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/411F06DD-8236-4C35-A527-721329D206C2/000029.png"
+        },
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/411F06DD-8236-4C35-A527-721329D206C2/000021.png"
+        },
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/411F06DD-8236-4C35-A527-721329D206C2/000033.png"
+        },
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/411F06DD-8236-4C35-A527-721329D206C2/00003a.png"
+        },
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/411F06DD-8236-4C35-A527-721329D206C2/000005.png"
+        },
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/411F06DD-8236-4C35-A527-721329D206C2/00000f.png"
+        },
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/411F06DD-8236-4C35-A527-721329D206C2/000007.png"
+        },
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/411F06DD-8236-4C35-A527-721329D206C2/000037.png"
+        },
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/411F06DD-8236-4C35-A527-721329D206C2/00000d.png"
+        },
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/411F06DD-8236-4C35-A527-721329D206C2/000012.png"
+        },
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/411F06DD-8236-4C35-A527-721329D206C2/00000f%20%281%29.png.webp"
+        },
+        {
+          "image": false,
+          "label": "Butler (2010)",
+          "URL": "http://andymatuschak.org/files/Butler%20-%202010%20-%20Repeated%20Testing%20Produces%20Superior%20Transfer%20of%20Learning%20Relative%20to%20Repeated.pdf"
+        }
+      ],
+      "footnote_candidates": [
+        {
+          "line": 68,
+          "text": "1. Memory: If you practice as suggested, you’ll durably remember ~everything."
+        },
+        {
+          "line": 69,
+          "text": "2. Cost: It won’t take that much time."
+        },
+        {
+          "line": 70,
+          "text": "3. Counterfactual: If you _don’t_ practice, you’ll forget."
+        },
+        {
+          "line": 71,
+          "text": "4. Transfer: And this durable recall transfers into real understanding and ability outside of artificial practice sessions."
+        },
+        {
+          "line": 167,
+          "text": "[1] Of course there are many prior experiments on this question, mostly in a laboratory setting; see e.g. [Butler (2010)](http://andymatuschak.org/files/Butler%20-%202010%20-%20Repeated%20Te"
+        }
+      ],
+      "tail": "---\n\nThanks to Gary Bernhardt, Michael Nielsen, and Giacomo Randozzo for helpful discussions on these topics.\n\n[1] Of course there are many prior experiments on this question, mostly in a laboratory setting; see e.g. [Butler (2010)](http://andymatuschak.org/files/Butler%20-%202010%20-%20Repeated%20Testing%20Produces%20Superior%20Transfer%20of%20Learning%20Relative%20to%20Repeated.pdf) for a review."
+    },
+    {
+      "date": "2021-11-30",
+      "lines": 173,
+      "assets": [
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/9CB8451B-819C-4061-994D-7ABD8D82C9B1/DC46166B-25E1-4EB0-A99F-3361787C3C36.png"
+        }
+      ],
+      "footnote_candidates": [
+        {
+          "line": 33,
+          "text": "1. What’s the counterfactual? Without the review mechanisms, to what extent do people remember the text’s key details?"
+        },
+        {
+          "line": 34,
+          "text": "2. Is Quantum Country’s current schedule too short? Too long? For which readers and questions?"
+        }
+      ],
+      "tail": "I think my next step here is to dig deeper into the literature, which does include numerous memory experiments focused on conceptual knowledge and transfer learning. Perhaps some of those methods or discussions can help me here.\n\n---\n\nThanks to Gary Bernhardt for helpful discussions about this topic. And thank you to you all for your ongoing support, which makes it possible for me to conduct long-term studies like this. We’re about 3/4 of the way"
+    },
+    {
+      "date": "2021-09-30",
+      "lines": 142,
+      "assets": [
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/1BB5CB14-FFE8-4F92-9A27-871FD803FA50/F2CD4351-8104-42E5-A450-8F1CC76E0B32.png"
+        },
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/1BB5CB14-FFE8-4F92-9A27-871FD803FA50/Screen%20Recording%202021-09-30%20at%205.01.13%20PM.gif"
+        },
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/1BB5CB14-FFE8-4F92-9A27-871FD803FA50/CE6E08C4-768A-4A1B-9CD0-EBED26BB35B7.png"
+        },
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/1BB5CB14-FFE8-4F92-9A27-871FD803FA50/BB8CD15D-F4C5-485D-B5D5-DDD63CE85E8B.png"
+        },
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/1BB5CB14-FFE8-4F92-9A27-871FD803FA50/81CAF882-2684-4155-8D91-F2526E9A5C44.png"
+        },
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/1BB5CB14-FFE8-4F92-9A27-871FD803FA50/763E65FE-89C5-4FBF-B305-2EEC3422B899.png"
+        },
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/1BB5CB14-FFE8-4F92-9A27-871FD803FA50/8688B11D-EF7F-44BD-BA7B-FF042EBE4882.png"
+        },
+        {
+          "image": true,
+          "label": "",
+          "URL": "https://notes.andymatuschak.org/BearImages/1BB5CB14-FFE8-4F92-9A27-871FD803FA50/Screen%20Shot%202021-09-30%20at%2010.48.18%20PM%202.png"
+        }
+      ],
+      "footnote_candidates": [
+        {
+          "line": 22,
+          "text": "1. Reading a **guided primer** to gain one’s footing in an unfamiliar subject of significant personal interest. [Quantum Country](https://quantum.country/) is a good example if your interest"
+        },
+        {
+          "line": 23,
+          "text": "2. Extracting pearls from **important publications** relevant to a creative project or interest. For instance, if you’re a machine learning researcher, you probably studied the GPT-3 paper w"
+        },
+        {
+          "line": 24,
+          "text": "3. Consulting a **reference**, almanac, or handbook for information on a specific question. This would include Wikipedia and many articles on [Our World in Data](https://ourworldindata.org/)"
+        },
+        {
+          "line": 25,
+          "text": "4. Reading for **edification**. New Yorker articles; reflective blog posts; general-audience non-fiction like _Sapiens_ or _Thinking, Fast and Slow_ (assuming those topics aren’t a creative "
+        },
+        {
+          "line": 142,
+          "text": "[1] I should note that [RemNote](https://www.remnote.io/) has been pursuing a similar idea commercially. I’ve not used the product in my own work, but I was impressed by their recent redesig"
+        }
+      ],
+      "tail": "I’d like to thank Ozzie Kirkby for prototypes and discussions which contributed to the ideas presented in this post. Thanks also to Nick Barr, Sara LaHue, Marcos Ojeda, Taylor Rogalski for helpful feedback and discussion. Finally, thanks to all of you for the ongoing support which makes this work possible.\n\n---\n\n[1] I should note that [RemNote](https://www.remnote.io/) has been pursuing a similar idea commercially. I’ve not used the product in my"
+    },
+    {
+      "date": "2021-08-24",
+      "lines": 75,
+      "assets": [
+        {
+          "image": false,
+          "label": "the Interplanetary Filesystem (IPFS) paper",
+          "URL": "https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf"
+        }
+      ],
+      "footnote_candidates": [],
+      "tail": "---\n\nI’d like to thank Ozzie Kirkby for prototyping ideas around this problem with me this summer; Nick Barr, Ty Jung, and Taylor Rogalski for extended discussions and whiteboarding; and Gary Wolf for valuable correspondence on this topic.\n\nAnd I’d like to thank all of you, Patreon sponsors, for your kind support. It’s quite remarkable to have the opportunity to pursue open-ended exploration like this. Your contributions make it possible, and I’m"
+    },
+    {
+      "date": "2021-03-25",
+      "lines": 69,
+      "assets": [],
+      "footnote_candidates": [],
+      "tail": "SuperMemo models something like the effect I’m describing with “item complexity,” but because each user makes their own databases, it must estimate each item’s complexity from just a few point samples. The mnemonic medium’s shared questions create an interesting opportunity: item complexities can be estimated by pooling many prior users’ attempts, and a new user’s pre-existing proficiency with the material can be estimated by comparing their in-e"
+    },
+    {
+      "date": "2021-02-02",
+      "lines": 76,
+      "assets": [],
+      "footnote_candidates": [],
+      "tail": "All this blather about questions isn’t just idle rumination. I have a few projects about to take flight for which my questions are quite inadequate!\n\nI’m collaborating now with an economics professor on a class in which we’re running a randomized controlled trial around mnemonic-medium-like interactions. We’ve got the core mechanics up and running, so now the question is: what, exactly, should we be measuring in the course of the class? I mean, y"
+    },
+    {
+      "date": "2020-09-30",
+      "lines": 53,
+      "assets": [],
+      "footnote_candidates": [],
+      "tail": "\nI’m not sure how to thread this needle. I’m worried that a discussion framed around efficiency and carrying capacities takes us in a dutiful direction. Perhaps it’s possible to reject the oughta/wanna dichotomy by designing activities which yield enduring benefits but which also appeal emotionally, even in the moment.\n\nFor inspiration, I’ll leave you with pianist Nahre Sol, who has has many videos on her YouTube channel depicting how she makes r"
+    }
+  ],
+  "assets": {
+    "https://andymatuschak.org/files/papers/Dunlosky%20et%20al%20-%202013%20-%20Improving%20Students%E2%80%99%20Learning%20With%20Effective%20Learning%20Techniques.pdf#page=15": [
+      "2023-09-30 Patreon letter - Highlight-driven practice and comprehension support"
+    ],
+    "https://andymatuschak.org/files/papers/Dunlosky%20et%20al%20-%202013%20-%20Improving%20Students%E2%80%99%20Learning%20With%20Effective%20Learning%20Techniques.pdf#page=17": [
+      "2023-09-30 Patreon letter - Highlight-driven practice and comprehension support"
+    ],
+    "http://andymatuschak.org/files/papers/Chi%20et%20al%20-%201994%20-%20Eliciting%20self-explanations%20improves%20understanding.pdf": [
+      "2023-09-30 Patreon letter - Highlight-driven practice and comprehension support"
+    ],
+    "http://andymatuschak.org/files/papers/Wyatt%20et%20al%20-%201993%20-%20Comprehension%20strategies,%20worth%20and%20credibility%20monitoring,%20and%20evaluations.pdf": [
+      "2023-09-30 Patreon letter - Highlight-driven practice and comprehension support",
+      "2023-06-30 Patreon letter - Reading comprehension and memory systems"
+    ],
+    "https://andymatuschak.org/files/papers/McNamara%20-%202004%20-%20SERT.pdf#page=19": [
+      "2023-08-31 Patreon letter - Studying myself studying linear algebra"
+    ],
+    "https://andymatuschak.org/files/papers/Anderson%20-%202000%20-%20Learning%20and%20memory.pdf#page=334": [
+      "2023-08-31 Patreon letter - Studying myself studying linear algebra"
+    ],
+    "http://andymatuschak.org/files/papers/Pressley%20et%20al%20-%201990%20-%20Sometimes%20Adults%20Miss%20the%20Main%20Ideas%20and%20Do%20Not%20Realize%20It.pdf": [
+      "2023-06-30 Patreon letter - Reading comprehension and memory systems"
+    ],
+    "http://andymatuschak.org/files/papers/Pressley,%20Afflerbach%20-%201995%20-%20Verbal%20Protocols%20of%20Reading.pdf": [
+      "2023-06-30 Patreon letter - Reading comprehension and memory systems"
+    ],
+    "http://andymatuschak.org/files/papers/Hamaker%20-%201986%20-%20The%20Effects%20of%20Adjunct%20Questions%20on%20Prose%20Learning.pdf": [
+      "2023-06-30 Patreon letter - Reading comprehension and memory systems",
+      "2023-06-30 Patreon letter - Reading comprehension and memory systems"
+    ],
+    "http://andymatuschak.org/files/papers/Simpson%20et%20al%20-%201994%20-%20Elaborative%20verbal%20rehearsals%20and%20college%20students'%20cognitive%20performance.pdf": [
+      "2023-06-30 Patreon letter - Reading comprehension and memory systems"
+    ],
+    "http://andymatuschak.org/files/papers/Agarwal%20et%20al%20-%202008%20-%20Examining%20the%20testing%20effect%20with%20open-%20and%20closed-book%20tests.pdf": [
+      "2023-06-30 Patreon letter - Reading comprehension and memory systems"
+    ],
+    "http://andymatuschak.org/files/papers/Pressley%20et%20al%20-%201997%20-%20Some%20of%20the%20Reasons%20Why%20Preparing%20for%20Exams%20Is%20So%20Hard.pdf": [
+      "2023-06-30 Patreon letter - Reading comprehension and memory systems"
+    ],
+    "http://andymatuschak.org/files/papers/Arnold,%20McDermott%20-%202013%20-%20Test-Potentiated%20Learning.pdf": [
+      "2023-06-30 Patreon letter - Reading comprehension and memory systems"
+    ],
+    "http://andymatuschak.org/files/papers/O'Day%20-%202019%20-%20Improving%20Problem%20Solving%20with%20Retrieval-Based%20Learning.pdf": [
+      "2023-03-31 Patreon letter - Memory systems and problem-solving practice"
+    ],
+    "https://notes.andymatuschak.org/BearImages/A2BEADA8-B664-4F47-818C-9E1DEE5580B1/8654D806-F4F3-414C-890B-00F47F61A0F6.png": [
+      "2023-03-31 Patreon letter - Memory systems and problem-solving practice"
+    ],
+    "http://andymatuschak.org/files/papers/Yeo,%20Fazio%20-%202019%20-%20The%20optimal%20learning%20strategy%20depends%20on%20learning%20goals%20and%20processes2.pdf": [
+      "2023-03-31 Patreon letter - Memory systems and problem-solving practice"
+    ],
+    "http://andymatuschak.org/files/papers/Sweller%20-%201988%20-%20Cognitive%20load%20during%20problem%20solving.pdf": [
+      "2023-03-31 Patreon letter - Memory systems and problem-solving practice",
+      "2023-03-31 Patreon letter - Memory systems and problem-solving practice"
+    ],
+    "http://andymatuschak.org/files/papers/Bjork%20-%201994%20-%20Memory%20and%20Metamemory.pdf": [
+      "2023-03-31 Patreon letter - Memory systems and problem-solving practice"
+    ],
+    "http://andymatuschak.org/files/papers/Chen%20et%20al%20-%202018%20-%20Undesirable%20difficulty%20effects%20in%20the%20learning%20of%20high-element%20interactivity.pdf": [
+      "2023-03-31 Patreon letter - Memory systems and problem-solving practice"
+    ],
+    "https://notes.andymatuschak.org/BearImages/A2BEADA8-B664-4F47-818C-9E1DEE5580B1/BD1CB52C-31FD-4A4A-B6DF-BBE8B75BDE78.png": [
+      "2023-03-31 Patreon letter - Memory systems and problem-solving practice"
+    ],
+    "https://notes.andymatuschak.org/BearImages/025CD4E9-D5B0-49ED-9903-5DFDD5F1F93C/9950FE12-3DA6-4068-BA5D-D7DCF0584E2B.png": [
+      "2023-02-28 Patreon letter - Becoming a Wizard-of-Oz learning assistant"
+    ],
+    "https://notes.andymatuschak.org/BearImages/765E63CA-8F7D-46C9-8443-0063A2E23D37/11DF1DDD-0FD7-488C-B4C1-F7D737E16957.png": [
+      "2022-10-14 Patreon letter - Lessons from summer 2022’s mnemonic medium prototype"
+    ],
+    "https://notes.andymatuschak.org/BearImages/93AF164C-31FC-4476-A815-5F0EBEEDD7C0/B519CD82-DAFC-4D66-9609-FC1DC17715E5.png": [
+      "2022-06-30 Patreon letter - The joyful surprises of user observation"
+    ],
+    "https://notes.andymatuschak.org/BearImages/93AF164C-31FC-4476-A815-5F0EBEEDD7C0/E1A9DF4B-CE0D-4F95-8A1D-3C189F5EE699.png": [
+      "2022-06-30 Patreon letter - The joyful surprises of user observation"
+    ],
+    "https://notes.andymatuschak.org/BearImages/411F06DD-8236-4C35-A527-721329D206C2/000173.png": [
+      "2022-02-28 Patreon letter - Exponentials and forgetting in Quantum Country"
+    ],
+    "https://notes.andymatuschak.org/BearImages/411F06DD-8236-4C35-A527-721329D206C2/000029.png": [
+      "2022-02-28 Patreon letter - Exponentials and forgetting in Quantum Country"
+    ],
+    "https://notes.andymatuschak.org/BearImages/411F06DD-8236-4C35-A527-721329D206C2/000021.png": [
+      "2022-02-28 Patreon letter - Exponentials and forgetting in Quantum Country"
+    ],
+    "https://notes.andymatuschak.org/BearImages/411F06DD-8236-4C35-A527-721329D206C2/000033.png": [
+      "2022-02-28 Patreon letter - Exponentials and forgetting in Quantum Country"
+    ],
+    "https://notes.andymatuschak.org/BearImages/411F06DD-8236-4C35-A527-721329D206C2/00003a.png": [
+      "2022-02-28 Patreon letter - Exponentials and forgetting in Quantum Country"
+    ],
+    "https://notes.andymatuschak.org/BearImages/411F06DD-8236-4C35-A527-721329D206C2/000005.png": [
+      "2022-02-28 Patreon letter - Exponentials and forgetting in Quantum Country"
+    ],
+    "https://notes.andymatuschak.org/BearImages/411F06DD-8236-4C35-A527-721329D206C2/00000f.png": [
+      "2022-02-28 Patreon letter - Exponentials and forgetting in Quantum Country"
+    ],
+    "https://notes.andymatuschak.org/BearImages/411F06DD-8236-4C35-A527-721329D206C2/000007.png": [
+      "2022-02-28 Patreon letter - Exponentials and forgetting in Quantum Country"
+    ],
+    "https://notes.andymatuschak.org/BearImages/411F06DD-8236-4C35-A527-721329D206C2/000037.png": [
+      "2022-02-28 Patreon letter - Exponentials and forgetting in Quantum Country"
+    ],
+    "https://notes.andymatuschak.org/BearImages/411F06DD-8236-4C35-A527-721329D206C2/00000d.png": [
+      "2022-02-28 Patreon letter - Exponentials and forgetting in Quantum Country"
+    ],
+    "https://notes.andymatuschak.org/BearImages/411F06DD-8236-4C35-A527-721329D206C2/000012.png": [
+      "2022-02-28 Patreon letter - Exponentials and forgetting in Quantum Country"
+    ],
+    "https://notes.andymatuschak.org/BearImages/411F06DD-8236-4C35-A527-721329D206C2/00000f%20%281%29.png.webp": [
+      "2022-02-28 Patreon letter - Exponentials and forgetting in Quantum Country"
+    ],
+    "http://andymatuschak.org/files/Butler%20-%202010%20-%20Repeated%20Testing%20Produces%20Superior%20Transfer%20of%20Learning%20Relative%20to%20Repeated.pdf": [
+      "2022-02-28 Patreon letter - Exponentials and forgetting in Quantum Country"
+    ],
+    "https://notes.andymatuschak.org/BearImages/9CB8451B-819C-4061-994D-7ABD8D82C9B1/DC46166B-25E1-4EB0-A99F-3361787C3C36.png": [
+      "2021-11-30 Patreon letter - Quantum Country’s suspiciously flat forgetting curves"
+    ],
+    "https://notes.andymatuschak.org/BearImages/1BB5CB14-FFE8-4F92-9A27-871FD803FA50/F2CD4351-8104-42E5-A450-8F1CC76E0B32.png": [
+      "2021-09-30 Patreon letter - Architectures for a more flexible mnemonic medium"
+    ],
+    "https://notes.andymatuschak.org/BearImages/1BB5CB14-FFE8-4F92-9A27-871FD803FA50/Screen%20Recording%202021-09-30%20at%205.01.13%20PM.gif": [
+      "2021-09-30 Patreon letter - Architectures for a more flexible mnemonic medium"
+    ],
+    "https://notes.andymatuschak.org/BearImages/1BB5CB14-FFE8-4F92-9A27-871FD803FA50/CE6E08C4-768A-4A1B-9CD0-EBED26BB35B7.png": [
+      "2021-09-30 Patreon letter - Architectures for a more flexible mnemonic medium"
+    ],
+    "https://notes.andymatuschak.org/BearImages/1BB5CB14-FFE8-4F92-9A27-871FD803FA50/BB8CD15D-F4C5-485D-B5D5-DDD63CE85E8B.png": [
+      "2021-09-30 Patreon letter - Architectures for a more flexible mnemonic medium"
+    ],
+    "https://notes.andymatuschak.org/BearImages/1BB5CB14-FFE8-4F92-9A27-871FD803FA50/81CAF882-2684-4155-8D91-F2526E9A5C44.png": [
+      "2021-09-30 Patreon letter - Architectures for a more flexible mnemonic medium"
+    ],
+    "https://notes.andymatuschak.org/BearImages/1BB5CB14-FFE8-4F92-9A27-871FD803FA50/763E65FE-89C5-4FBF-B305-2EEC3422B899.png": [
+      "2021-09-30 Patreon letter - Architectures for a more flexible mnemonic medium"
+    ],
+    "https://notes.andymatuschak.org/BearImages/1BB5CB14-FFE8-4F92-9A27-871FD803FA50/8688B11D-EF7F-44BD-BA7B-FF042EBE4882.png": [
+      "2021-09-30 Patreon letter - Architectures for a more flexible mnemonic medium"
+    ],
+    "https://notes.andymatuschak.org/BearImages/1BB5CB14-FFE8-4F92-9A27-871FD803FA50/Screen%20Shot%202021-09-30%20at%2010.48.18%20PM%202.png": [
+      "2021-09-30 Patreon letter - Architectures for a more flexible mnemonic medium"
+    ],
+    "https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf": [
+      "2021-08-24 Patreon letter - Revamping the mnemonic medium around reader control"
+    ]
+  }
+}

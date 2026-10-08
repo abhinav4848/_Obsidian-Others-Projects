@@ -1,0 +1,74 @@
+{
+  "checked_at": "2026-10-08T12:21:38.134177+00:00",
+  "active_media_checked": 161,
+  "assets": [
+    {
+      "filename": "McNamara - 2004 - SERT - Self-Explanation Reading Training.pdf",
+      "source_URL": "http://andymatuschak.org/files/papers/McNamara%20-%202004%20-%20SERT.pdf",
+      "sha256": "6cc7bc699c4d1b38b6466caf08e03c3ba614296a515a21de4cd2138d4d0fce08",
+      "existing_byte_matches": [],
+      "kind": "PDF",
+      "pages": 30,
+      "valid_PDF": true,
+      "title_found_in_first_pages": true
+    },
+    {
+      "filename": "Wiggins, McTighe - 2005 - Understanding by Design.pdf",
+      "source_URL": "http://andymatuschak.org/files/papers/Wiggins,%20McTighe%20-%202005%20-%20Understanding%20by%20design.pdf",
+      "sha256": "6b2d6059a04367eeed0aae97d1641052513068f8b8d106fdad0daf838682f332",
+      "existing_byte_matches": [],
+      "kind": "PDF",
+      "pages": 382,
+      "valid_PDF": true,
+      "title_found_in_first_pages": true
+    },
+    {
+      "filename": "Kintsch - 1998 - Comprehension - A Paradigm for Cognition.pdf",
+      "source_URL": "http://andymatuschak.org/files/papers/Kintsch%20-%201998%20-%20Comprehension.pdf",
+      "sha256": "a79ccc029269669814d02bc9133bc8fe30c6f42cd9a458eb872c4194af990f3e",
+      "existing_byte_matches": [],
+      "kind": "PDF",
+      "pages": 486,
+      "valid_PDF": true,
+      "title_found_in_first_pages": true
+    },
+    {
+      "filename": "Kintsch - 1994 - Text comprehension, memory, and learning.pdf",
+      "source_URL": "http://andymatuschak.org/files/papers/Kintsch%20-%201994%20-%20Text%20comprehension,%20memory,%20and%20learning.pdf",
+      "sha256": "371d701023cad4f66e6d3f266f2028a518dbb5f0b117311164ccaa98a619c5e6",
+      "existing_byte_matches": [],
+      "kind": "PDF",
+      "pages": 10,
+      "valid_PDF": true,
+      "title_found_in_first_pages": true
+    },
+    {
+      "filename": "Andy- Initial experiments in self-explanation support 1.webp",
+      "source_URL": "https://notes.andymatuschak.org/BearImages/DE1145CF-7623-4081-9C1F-FCA234C7B2AB/image.png.webp",
+      "sha256": "3df84be8b615677db803e821bcf43d0e928f34817a96fd7ccf790842e04a3090",
+      "existing_byte_matches": [],
+      "kind": "image",
+      "width": 820,
+      "height": 545,
+      "pixel_sha256": "df8fe99896864c0c82d56bf719be28a992ba1f4abdbb42886ef57155b7217fdf",
+      "dhash": 5526533158848732364,
+      "format": "WEBP",
+      "existing_pixel_matches": [],
+      "similar_local_images": []
+    },
+    {
+      "filename": "Andy- Initial experiments in self-explanation support 2.png",
+      "source_URL": "https://notes.andymatuschak.org/BearImages/DE1145CF-7623-4081-9C1F-FCA234C7B2AB/image%202.png",
+      "sha256": "9fa55484d9f345938ada6b8dd60635a41d64cd46f30aeb300fea146f86405720",
+      "existing_byte_matches": [],
+      "kind": "image",
+      "width": 1230,
+      "height": 708,
+      "pixel_sha256": "0d08e8007912df7f5a1898348f28f2a28598e2a69dd42b4b09317cc3618a008d",
+      "dhash": 15191458372395648710,
+      "format": "PNG",
+      "existing_pixel_matches": [],
+      "similar_local_images": []
+    }
+  ]
+}

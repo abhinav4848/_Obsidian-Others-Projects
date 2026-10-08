@@ -2,6 +2,9 @@
 title: "Patreon letter links"
 ---
 # Patreon letter links
+The user has replaced the 15 summary notes with existing full-text captures. The previous summary import is recorded below as history; the current index labels these Previously missing letters.
+
+## Initial summary import
 Added 15 clearly labelled summaries for the missing letters in the existing index. All 19 indexed letter links now resolve to local notes. The original full text remains at the source addresses in each note’s `URL` list.
 
 Verified both Andy’s note address and the original Patreon address for each letter using [the letter index](https://notes.andymatuschak.org/zY3RYK9gJ6eDnq27vSwBDQh) and [the Patreon sitemap](https://www.patreon.com/quantumcountry/sitemap). Dates and captured titles follow the existing vault index, including where Patreon publication dates differ.

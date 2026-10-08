@@ -2,6 +2,7 @@
 URL:
   - "https://notes.andymatuschak.org/zES5WRczfGgXptmM9tSCwvy"
   - "https://notes.andymatuschak.org/Comprehension_-_Kintsch"
+  - "https://andymatuschak.org/files/papers/Kintsch%20-%201998%20-%20Comprehension.pdf"
 title: "Comprehension - Kintsch"
 ---
 # Comprehension - Kintsch
@@ -10,3 +11,6 @@ A (1998) monograph on a theory for a [[Cognitive psychology]] model for compre
 I’ve just done [[Inspectional reading]] so far. Chapter 8 (on long-term short-term memory) seems particularly interesting and relevant to my work. The rest is probably a notch too low-level for my purposes, though it looks very interesting. Chapter 9 is quite relevant, too: it tries to provide a more mechanistic definition of deep and shallow understanding.
 
 Kintsch, W. (1998). Comprehension: A paradigm for cognition. Cambridge University Press.
+
+## References
+- [[Andy Matuschak/Attachments/Kintsch - 1998 - Comprehension - A Paradigm for Cognition.pdf]]

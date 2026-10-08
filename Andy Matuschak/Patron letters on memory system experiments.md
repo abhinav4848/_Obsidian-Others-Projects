@@ -33,7 +33,7 @@ _Private index; not to be shared publicly_
 
 Missing some earlier stuff I don’t have included in this site…
 
-## Notes created by Codex
+## Previously missing letters
 - [[2023-10-26 Patreon letter - On breadth vs. depth in learning]]
 - [[2023-08-31 Patreon letter - Studying myself studying linear algebra]]
 - [[2023-08-01 Patreon letter - Initial experiments in self-explanation support]]
@@ -48,4 +48,4 @@ Missing some earlier stuff I don’t have included in this site…
 - [[2021-08-24 Patreon letter - Revamping the mnemonic medium around reader control]]
 - [[2021-03-25 Patreon letter - Too easy to be effortless]]
 - [[2021-02-02 Patreon letter - In search of better questions]]
-- [[2020-09-30 Patreon letter - The carrying capacity of a regular memory practice; deliberate practice and flow]]
+- [[2020-09-30 Patreon letter - The carrying capacity of a regular memory practice; deliberate practice and flow]] 

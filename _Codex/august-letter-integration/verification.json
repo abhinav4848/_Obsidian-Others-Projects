@@ -1,0 +1,17 @@
+{
+  "verified_at": "2026-10-08T12:26:40.539478+00:00",
+  "letter_internal_links_resolved": 14,
+  "new_PDFs": 4,
+  "new_images": 2,
+  "existing_PDFs_reused": 1,
+  "download_integrity_verified": true,
+  "PDFs_and_images_validated": true,
+  "source_URLs_added_to_existing_reference_notes": 2,
+  "native_footnotes_resolved": 3,
+  "author_prose_and_caveats_preserved": true,
+  "private_notice_preserved": true,
+  "letter_properties_preserved": true,
+  "blank_lines_after_changed_note_headings": 0,
+  "index_change_limited_to_lower_heading": true,
+  "backup": "_Codex/backups/august-letter-integration-before-20261008T122534Z.zip"
+}
