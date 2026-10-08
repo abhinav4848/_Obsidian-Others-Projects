@@ -40,5 +40,12 @@
     "LizardsFromOuterSpace": "LizardsFromOuterSpace/Attachments",
     "Workflows": "Workflows/Attachments"
   },
-  "shared_attachment_policy": "One file per collection, shared among notes in that collection"
+  "shared_attachment_policy": "One file per collection, shared among notes in that collection",
+  "andy_patreon_letters": {
+    "index": "Andy Matuschak/Patron letters on memory system experiments.md",
+    "scope": "Letters linked by the existing index",
+    "missing_note_content": "Clearly labelled summary with verified Andy and Patreon URL properties",
+    "preserve_existing_captured_text": true,
+    "source_evidence": "_Codex/patreon-import/sources.json"
+  }
 }

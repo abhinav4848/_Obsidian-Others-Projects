@@ -1,0 +1,326 @@
+{
+  "new_notes": [
+    "Andy Matuschak/2023-10-26 Patreon letter - On breadth vs. depth in learning.md",
+    "Andy Matuschak/2023-08-31 Patreon letter - Studying myself studying linear algebra.md",
+    "Andy Matuschak/2023-08-01 Patreon letter - Initial experiments in self-explanation support.md",
+    "Andy Matuschak/2023-03-31 Patreon letter - Memory systems and problem-solving practice.md",
+    "Andy Matuschak/2023-02-28 Patreon letter - Becoming a Wizard-of-Oz learning assistant.md",
+    "Andy Matuschak/2022-12-27 Patreon letter - Towards impact through intimacy in my memory system research.md",
+    "Andy Matuschak/2022-10-14 Patreon letter - Lessons from summer 2022’s mnemonic medium prototype.md",
+    "Andy Matuschak/2022-06-30 Patreon letter - The joyful surprises of user observation.md",
+    "Andy Matuschak/2022-02-28 Patreon letter - Exponentials and forgetting in Quantum Country.md",
+    "Andy Matuschak/2021-11-30 Patreon letter - Quantum Country’s suspiciously flat forgetting curves.md",
+    "Andy Matuschak/2021-09-30 Patreon letter - Architectures for a more flexible mnemonic medium.md",
+    "Andy Matuschak/2021-08-24 Patreon letter - Revamping the mnemonic medium around reader control.md",
+    "Andy Matuschak/2021-03-25 Patreon letter - Too easy to be effortless.md",
+    "Andy Matuschak/2021-02-02 Patreon letter - In search of better questions.md",
+    "Andy Matuschak/2020-09-30 Patreon letter - The carrying capacity of a regular memory practice; deliberate practice and flow.md"
+  ],
+  "existing_notes_updated": [
+    "Andy Matuschak/2023-05-31 Patreon letter - Fluid practice for fluid understanding.md",
+    "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md",
+    "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
+    "Andy Matuschak/2023-11-30 Patreon letter - Initial results from highlight-driven prototype.md",
+    "Andy Matuschak/Patron letters on memory system experiments.md",
+    "Andy Matuschak/People often struggle to remember details of prose text because they never processed them in the first place.md",
+    "Andy Matuschak/Worked example effect.md"
+  ],
+  "links_converted": [
+    {
+      "file": "Andy Matuschak/2023-05-31 Patreon letter - Fluid practice for fluid understanding.md",
+      "source_URL": "https://www.patreon.com/posts/80865178",
+      "target": "2023-03-31 Patreon letter - Memory systems and problem-solving practice",
+      "label": "I helped study physics earlier this year"
+    },
+    {
+      "file": "Andy Matuschak/2023-05-31 Patreon letter - Fluid practice for fluid understanding.md",
+      "source_URL": "https://notes.andymatuschak.org/z8d1Rq2d13fdQCjQiWzJybD?stackedNotes=z21VhT726p7bX8JcGM41QSA&stackedNotes=zY3RYK9gJ6eDnq27vSwBDQh",
+      "target": "Patron letters on memory system experiments",
+      "label": "2"
+    },
+    {
+      "file": "Andy Matuschak/2023-05-31 Patreon letter - Fluid practice for fluid understanding.md",
+      "source_URL": "https://notes.andymatuschak.org/z8d1Rq2d13fdQCjQiWzJybD?stackedNotes=z21VhT726p7bX8JcGM41QSA&stackedNotes=zY3RYK9gJ6eDnq27vSwBDQh",
+      "target": "Patron letters on memory system experiments",
+      "label": "3"
+    },
+    {
+      "file": "Andy Matuschak/2023-05-31 Patreon letter - Fluid practice for fluid understanding.md",
+      "source_URL": "https://www.patreon.com/posts/towards-impact-76438674",
+      "target": "2022-12-27 Patreon letter - Towards impact through intimacy in my memory system research",
+      "label": "Intimacy and rapid experimentation still"
+    },
+    {
+      "file": "Andy Matuschak/2023-05-31 Patreon letter - Fluid practice for fluid understanding.md",
+      "source_URL": "https://www.patreon.com/posts/73309142",
+      "target": "2022-10-14 Patreon letter - Lessons from summer 2022’s mnemonic medium prototype",
+      "label": "last October’s letter (“Lessons from summer 2022’s mnemonic medium prototype”)"
+    },
+    {
+      "file": "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md",
+      "source_URL": "https://www.patreon.com/posts/80865178",
+      "target": "2023-03-31 Patreon letter - Memory systems and problem-solving practice",
+      "label": "I’ve been thinking about the problem of reading comprehension since my work with Alex a few months ago"
+    },
+    {
+      "file": "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md",
+      "source_URL": "https://www.patreon.com/posts/80865178",
+      "target": "2023-03-31 Patreon letter - Memory systems and problem-solving practice",
+      "label": "I tried to help Alex by giving him a memory system"
+    },
+    {
+      "file": "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md",
+      "source_URL": "https://notes.andymatuschak.org/zLButXjJvGCpWKHzqhXEhhm",
+      "target": "2023-06-30 Patreon letter - Reading comprehension and memory systems",
+      "label": "4"
+    },
+    {
+      "file": "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md",
+      "source_URL": "https://notes.andymatuschak.org/zLButXjJvGCpWKHzqhXEhhm",
+      "target": "2023-06-30 Patreon letter - Reading comprehension and memory systems",
+      "label": "5"
+    },
+    {
+      "file": "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md",
+      "source_URL": "https://notes.andymatuschak.org/zLButXjJvGCpWKHzqhXEhhm",
+      "target": "2023-06-30 Patreon letter - Reading comprehension and memory systems",
+      "label": "6"
+    },
+    {
+      "file": "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md",
+      "source_URL": "https://www.patreon.com/posts/83882597",
+      "target": "2023-05-31 Patreon letter - Fluid practice for fluid understanding",
+      "label": "Last month I wrote about"
+    },
+    {
+      "file": "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md",
+      "source_URL": "https://www.patreon.com/posts/83882597",
+      "target": "2023-05-31 Patreon letter - Fluid practice for fluid understanding",
+      "label": "discussed"
+    },
+    {
+      "file": "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
+      "source_URL": "https://notes.andymatuschak.org/zURU4gC8m6fr2ybewgBpvpz",
+      "target": "2023-08-01 Patreon letter - Initial experiments in self-explanation support",
+      "label": "Last month"
+    },
+    {
+      "file": "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
+      "source_URL": "https://notes.andymatuschak.org/zFcmVJAwG2YaEvJVxDM6Emc#:~:text=Act%20on%20ideas%2C%20rather%20than%20acting%20on%20prompts%3F",
+      "target": "2022-10-14 Patreon letter - Lessons from summer 2022’s mnemonic medium prototype",
+      "label": "learned from my user research"
+    },
+    {
+      "file": "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
+      "source_URL": "https://notes.andymatuschak.org/z21VhT726p7bX8JcGM41QSA#:~:text=Language%20models%20and%20ideas%20as%20primitives",
+      "target": "2023-05-31 Patreon letter - Fluid practice for fluid understanding",
+      "label": "an idea-centric practice system, which I believe may have other benefits"
+    },
+    {
+      "file": "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
+      "source_URL": "https://notes.andymatuschak.org/zFcmVJAwG2YaEvJVxDM6Emc#:~:text=be%20filed!%20Oops.-,Incrementalism,-Expressivity%20aside%2C%20there%E2%80%99s",
+      "target": "2022-10-14 Patreon letter - Lessons from summer 2022’s mnemonic medium prototype",
+      "label": "I observed"
+    },
+    {
+      "file": "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
+      "source_URL": "https://notes.andymatuschak.org/zCh4yPnzh6Y8WfCtUp9oWQw",
+      "target": "2023-08-31 Patreon letter - Studying myself studying linear algebra",
+      "label": "last month’s studies"
+    },
+    {
+      "file": "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
+      "source_URL": "https://notes.andymatuschak.org/zURU4gC8m6fr2ybewgBpvpz#:~:text=And%20there%E2%80%99s%20a%20funny%20thing%20that%20happens%3A%20the%20shading%20is%20somehow%20viscerally%20rewarding!%20It%20feels%20good%20to%20%E2%80%9Cfill%20up%E2%80%9D%20the%20sidebar%2C%20to%20%E2%80%9Ccolor%20in%E2%80%9D%20all%20the%20%E2%80%9Cgood%20bits%E2%80%9D.",
+      "target": "2023-08-01 Patreon letter - Initial experiments in self-explanation support",
+      "label": "color in"
+    },
+    {
+      "file": "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
+      "source_URL": "https://notes.andymatuschak.org/zM6bNwCLbGwMQFdHqoEYgfr#:~:text=Incomplete%20absorption",
+      "target": "2023-03-31 Patreon letter - Memory systems and problem-solving practice",
+      "label": "I worked with a student earlier this year"
+    },
+    {
+      "file": "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
+      "source_URL": "https://notes.andymatuschak.org/zNXS7UkMmGYTFRyJCeLnEoH#:~:text=And%20so%20maybe,think%20that%E2%80%99s%20enough.",
+      "target": "2021-08-24 Patreon letter - Revamping the mnemonic medium around reader control",
+      "label": "I observed"
+    },
+    {
+      "file": "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
+      "source_URL": "https://notes.andymatuschak.org/zNXS7UkMmGYTFRyJCeLnEoH",
+      "target": "2021-08-24 Patreon letter - Revamping the mnemonic medium around reader control",
+      "label": "feels unpleasantly authoritarian in many contexts"
+    },
+    {
+      "file": "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
+      "source_URL": "https://notes.andymatuschak.org/z21VhT726p7bX8JcGM41QSA",
+      "target": "2023-05-31 Patreon letter - Fluid practice for fluid understanding",
+      "label": "more fluid practice would likely produce more fluid understanding"
+    },
+    {
+      "file": "Andy Matuschak/2023-11-30 Patreon letter - Initial results from highlight-driven prototype.md",
+      "source_URL": "https://notes.andymatuschak.org/zFcmVJAwG2YaEvJVxDM6Emc",
+      "target": "2022-10-14 Patreon letter - Lessons from summer 2022’s mnemonic medium prototype",
+      "label": "I encountered in my prototypes late last year"
+    },
+    {
+      "file": "Andy Matuschak/2023-11-30 Patreon letter - Initial results from highlight-driven prototype.md",
+      "source_URL": "https://notes.andymatuschak.org/zHvSKAg1fENkZwYsyuTVXq",
+      "target": "2023-02-28 Patreon letter - Becoming a Wizard-of-Oz learning assistant",
+      "label": "earlier this year"
+    },
+    {
+      "file": "Andy Matuschak/2023-11-30 Patreon letter - Initial results from highlight-driven prototype.md",
+      "source_URL": "https://notes.andymatuschak.org/zURU4gC8m6fr2ybewgBpvpz",
+      "target": "2023-08-01 Patreon letter - Initial experiments in self-explanation support",
+      "label": "Most interventions are quite obtrusive"
+    },
+    {
+      "file": "Andy Matuschak/2023-11-30 Patreon letter - Initial results from highlight-driven prototype.md",
+      "source_URL": "https://notes.andymatuschak.org/z21VhT726p7bX8JcGM41QSA",
+      "target": "2023-05-31 Patreon letter - Fluid practice for fluid understanding",
+      "label": "varying prompts and escalating their complexity"
+    },
+    {
+      "file": "Andy Matuschak/2023-11-30 Patreon letter - Initial results from highlight-driven prototype.md",
+      "source_URL": "https://notes.andymatuschak.org/zM6bNwCLbGwMQFdHqoEYgfr",
+      "target": "2023-03-31 Patreon letter - Memory systems and problem-solving practice",
+      "label": "problem-solving practice"
+    },
+    {
+      "file": "Andy Matuschak/2023-11-30 Patreon letter - Initial results from highlight-driven prototype.md",
+      "source_URL": "https://notes.andymatuschak.org/zCh4yPnzh6Y8WfCtUp9oWQw",
+      "target": "2023-08-31 Patreon letter - Studying myself studying linear algebra",
+      "label": "Procedurally-focused problems often fail to clearly identify conceptual issues"
+    },
+    {
+      "file": "Andy Matuschak/People often struggle to remember details of prose text because they never processed them in the first place.md",
+      "source_URL": "https://notes.andymatuschak.org/zM6bNwCLbGwMQFdHqoEYgfr",
+      "target": "2023-03-31 Patreon letter - Memory systems and problem-solving practice",
+      "label": "2023-03-31 Patreon letter - Memory systems and problem-solving practice"
+    },
+    {
+      "file": "Andy Matuschak/Worked example effect.md",
+      "source_URL": "https://notes.andymatuschak.org/zM6bNwCLbGwMQFdHqoEYgfr",
+      "target": "2023-03-31 Patreon letter - Memory systems and problem-solving practice",
+      "label": "2023-03-31 Patreon letter - Memory systems and problem-solving practice"
+    }
+  ],
+  "malformed_links_repaired": 1,
+  "files": [
+    {
+      "path": "Andy Matuschak/2023-10-26 Patreon letter - On breadth vs. depth in learning.md",
+      "before_sha256": null,
+      "after_sha256": "78ab7373362c8a1317d458be39c4500c3bebb9c14b6b4ee558d4c62a414a1427"
+    },
+    {
+      "path": "Andy Matuschak/2023-08-31 Patreon letter - Studying myself studying linear algebra.md",
+      "before_sha256": null,
+      "after_sha256": "35cad7af1790ac80ccd213eb4c6a4c14a8fa3657a6e468309dcf26f106f0c949"
+    },
+    {
+      "path": "Andy Matuschak/2023-08-01 Patreon letter - Initial experiments in self-explanation support.md",
+      "before_sha256": null,
+      "after_sha256": "6a0b890f95294f600f7751dfc7d38bc02299f7da0655a5bb6390a78e387e7757"
+    },
+    {
+      "path": "Andy Matuschak/2023-03-31 Patreon letter - Memory systems and problem-solving practice.md",
+      "before_sha256": null,
+      "after_sha256": "8749325522743fa9b457f544d3efc4b8fd836843d8132c757a77adfb5f84b2b4"
+    },
+    {
+      "path": "Andy Matuschak/2023-02-28 Patreon letter - Becoming a Wizard-of-Oz learning assistant.md",
+      "before_sha256": null,
+      "after_sha256": "e15f23d50b0f0d4009e64fb45fc7ac444fcf5cefc6af03648102d4b0b9057853"
+    },
+    {
+      "path": "Andy Matuschak/2022-12-27 Patreon letter - Towards impact through intimacy in my memory system research.md",
+      "before_sha256": null,
+      "after_sha256": "30225714ef0a41a067a5c68333ff6c7604366c9be120eb8f1f6be104ee8a100b"
+    },
+    {
+      "path": "Andy Matuschak/2022-10-14 Patreon letter - Lessons from summer 2022’s mnemonic medium prototype.md",
+      "before_sha256": null,
+      "after_sha256": "ea4e8ad623b8fa167d4f76ec38cacbbfde4668fd77926398d8abab2f22c204f5"
+    },
+    {
+      "path": "Andy Matuschak/2022-06-30 Patreon letter - The joyful surprises of user observation.md",
+      "before_sha256": null,
+      "after_sha256": "e39f6c106a8ae1701640e403ac3e2abc49e296f2af54f456a373cb7954032835"
+    },
+    {
+      "path": "Andy Matuschak/2022-02-28 Patreon letter - Exponentials and forgetting in Quantum Country.md",
+      "before_sha256": null,
+      "after_sha256": "a6a5a1047e1eec17356454aee89d66a29ac62dd3b9de40de2e7537d65de64a6a"
+    },
+    {
+      "path": "Andy Matuschak/2021-11-30 Patreon letter - Quantum Country’s suspiciously flat forgetting curves.md",
+      "before_sha256": null,
+      "after_sha256": "c604cf784f0ecfe5c2acfdb7c3c91e8644dc8c95f3b8b6beeb25d8e7f71d8ed2"
+    },
+    {
+      "path": "Andy Matuschak/2021-09-30 Patreon letter - Architectures for a more flexible mnemonic medium.md",
+      "before_sha256": null,
+      "after_sha256": "797e96a4dc9ab50e08a9f377c087dec204473f2e1e03c36f2267c36b15b1388a"
+    },
+    {
+      "path": "Andy Matuschak/2021-08-24 Patreon letter - Revamping the mnemonic medium around reader control.md",
+      "before_sha256": null,
+      "after_sha256": "91ae6b2d28b497b234c4f6ab49bcecf39522d85791370b8dcf7145e01cc98031"
+    },
+    {
+      "path": "Andy Matuschak/2021-03-25 Patreon letter - Too easy to be effortless.md",
+      "before_sha256": null,
+      "after_sha256": "56a6e36ce15a7437ef20a4681a7ffa5322cb3a94c13eb3ba152a608ed800a396"
+    },
+    {
+      "path": "Andy Matuschak/2021-02-02 Patreon letter - In search of better questions.md",
+      "before_sha256": null,
+      "after_sha256": "c702cbfcbdc617099a4645d5023ee841860c53141c95df5bd33c5bdf3362bcae"
+    },
+    {
+      "path": "Andy Matuschak/2020-09-30 Patreon letter - The carrying capacity of a regular memory practice; deliberate practice and flow.md",
+      "before_sha256": null,
+      "after_sha256": "19193465aa3a336afbe8a0dc41c06895742a2fabbfe2cd67b1465e9c4601ca5f"
+    },
+    {
+      "path": "Andy Matuschak/2023-05-31 Patreon letter - Fluid practice for fluid understanding.md",
+      "before_sha256": "41b305e19a4c13e084cfa173c495b3559a1a897b1b8492a24238f4577ef75396",
+      "after_sha256": "c4af9f2776961c0ef6fa0e2e1caa5e7213e6960984c2a398b7b6010a3e03b287"
+    },
+    {
+      "path": "Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems.md",
+      "before_sha256": "974fc9fa8e341641310087f14add72e0e5a6dabfeadb5cba8df0bbc5232dece3",
+      "after_sha256": "6256b71c3f81bab012ebac41e332fac885e8d1f36789d26c4c272dc40222ed1a"
+    },
+    {
+      "path": "Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support.md",
+      "before_sha256": "8216d1f0d8dbe74ed362bbc2a85bd59d32ecf892c31f470e4fd8c27cc13ccb69",
+      "after_sha256": "1cb5eea74560c57bd91df530744969e09801a3d0fa0f42b5f98b2d8bc2b5d434"
+    },
+    {
+      "path": "Andy Matuschak/2023-11-30 Patreon letter - Initial results from highlight-driven prototype.md",
+      "before_sha256": "48a3ca220a7adb8d9fa09237c34fcf4817b331c951234471d5730da9733cea5e",
+      "after_sha256": "7414fd66e8bdf7e86d36481c557c963c643451420518a9766524b57749c96e1d"
+    },
+    {
+      "path": "Andy Matuschak/Patron letters on memory system experiments.md",
+      "before_sha256": "716dec155d8a0a5bd8cdfa9c1d0a51c4a10049db3b070cfd879c2b5778ef6a89",
+      "after_sha256": "7e4a0f14366ad2f834506dc4d75ad72f9593148a829512bf32f250575d024063"
+    },
+    {
+      "path": "Andy Matuschak/People often struggle to remember details of prose text because they never processed them in the first place.md",
+      "before_sha256": "7ca05cd26e1beef22f8931e946efda5761ff91e4301c27e6daed100bf8d4f9db",
+      "after_sha256": "ca390c05a018e3f91a16841fd759332c43bf79092b17f85cdf23746cf79fc9ed"
+    },
+    {
+      "path": "Andy Matuschak/Worked example effect.md",
+      "before_sha256": "4183c89a3e9d957851f5d7340c6119dd69c977044ea8742655afa128d7bcc4d6",
+      "after_sha256": "1ff18deb7525e9b41330f107674ba0dc1432b07556e7ae6208ba4667caf2b2bc"
+    }
+  ],
+  "backup": "_Codex/backups/patreon-links-before-20261008T120008Z.zip",
+  "applied_at": "2026-10-08T12:00:08.852435+00:00",
+  "content_mode": "Source-linked summaries for missing letters; existing captured bodies preserved"
+}

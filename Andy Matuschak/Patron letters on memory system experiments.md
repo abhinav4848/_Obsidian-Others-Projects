@@ -1,5 +1,6 @@
 ---
 URL:
+  - "https://notes.andymatuschak.org/zY3RYK9gJ6eDnq27vSwBDQh"
   - "https://notes.andymatuschak.org/z8d1Rq2d13fdQCjQiWzJybD?stackedNotes=z21VhT726p7bX8JcGM41QSA&stackedNotes=zY3RYK9gJ6eDnq27vSwBDQh"
 title: "Patron letters on memory system experiments"
 ---
@@ -31,3 +32,20 @@ _Private index; not to be shared publicly_
 - [[2020-09-30 Patreon letter - The carrying capacity of a regular memory practice; deliberate practice and flow]]
 
 Missing some earlier stuff I don’t have included in this site…
+
+## Notes created by Codex
+- [[2023-10-26 Patreon letter - On breadth vs. depth in learning]]
+- [[2023-08-31 Patreon letter - Studying myself studying linear algebra]]
+- [[2023-08-01 Patreon letter - Initial experiments in self-explanation support]]
+- [[2023-03-31 Patreon letter - Memory systems and problem-solving practice]]
+- [[2023-02-28 Patreon letter - Becoming a Wizard-of-Oz learning assistant]]
+- [[2022-12-27 Patreon letter - Towards impact through intimacy in my memory system research]]
+- [[2022-10-14 Patreon letter - Lessons from summer 2022’s mnemonic medium prototype]]
+- [[2022-06-30 Patreon letter - The joyful surprises of user observation]]
+- [[2022-02-28 Patreon letter - Exponentials and forgetting in Quantum Country]]
+- [[2021-11-30 Patreon letter - Quantum Country’s suspiciously flat forgetting curves]]
+- [[2021-09-30 Patreon letter - Architectures for a more flexible mnemonic medium]]
+- [[2021-08-24 Patreon letter - Revamping the mnemonic medium around reader control]]
+- [[2021-03-25 Patreon letter - Too easy to be effortless]]
+- [[2021-02-02 Patreon letter - In search of better questions]]
+- [[2020-09-30 Patreon letter - The carrying capacity of a regular memory practice; deliberate practice and flow]]

@@ -40,3 +40,6 @@ Keep one page-title heading matching the captured filename. Remove repeated copi
 
 ## Current attachment locations
 Attachments now live directly under each top-level collection: `Snipd/Attachments`, `Andy Matuschak/Attachments`, `Ideaverse Merged/Attachments`, `LizardsFromOuterSpace/Attachments`, and `Workflows/Attachments`. Links use the collection path or a correct relative Markdown path. Shared images have one file within each collection. Historical recovery maps describe their earlier locations; `attachment-relocation-applied.json` records the current mapping.
+
+## Patreon letter links
+The existing Patreon-letter index is complete with 15 source-linked summary notes. All 19 letters have verified Andy and Patreon addresses in URL lists. Existing captured prose and personal remarks were retained; article links were made internal where identity was verified. See `Patreon letter links.md` and `patreon-import` for evidence and recovery records.

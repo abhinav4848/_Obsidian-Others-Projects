@@ -1,0 +1,18 @@
+{
+  "verified_at": "2026-10-08T12:02:12.937478+00:00",
+  "new_summary_notes": 15,
+  "indexed_letters_resolved": 19,
+  "verified_Andy_sources": 19,
+  "verified_Patreon_sources": 19,
+  "links_converted": 30,
+  "existing_notes_updated": 7,
+  "malformed_references_repaired": 1,
+  "existing_prose_preserved": true,
+  "unrelated_properties_preserved": true,
+  "existing_attachments_unchanged": true,
+  "index_body_preserved": true,
+  "URL_properties_using_lists": 477,
+  "blank_lines_after_headings": 0,
+  "unexpected_Andy_file_changes": 0,
+  "configuration_backup": "_Codex/backups/patreon-config-before-20261008T120212Z.zip"
+}

@@ -10,7 +10,7 @@ Per [[How to Read a Book - Adler and van Doren]], this is an “elementary read
 
 Of course, separately, people will often struggle to remember details because they didn’t *understand* those details—they didn’t know what the prose *meant*, and that makes it much more difficult to remember, particularly if the recall task requires even the mildest of [[Transfer learning]].
 
-See [2023-03-31 Patreon letter - Memory systems and problem-solving practice](https://notes.andymatuschak.org/zM6bNwCLbGwMQFdHqoEYgfr) for Andy Matuschak’s observations of this with a student.
+See [[Andy Matuschak/2023-03-31 Patreon letter - Memory systems and problem-solving practice|2023-03-31 Patreon letter - Memory systems and problem-solving practice]] for Andy Matuschak’s observations of this with a student.
 
 [[Asking people questions while they read a text improves performance on untested contents]]; it’s proposed that this is in part because these questions put the reader into a more attentive state. See also [[The mnemonic medium may push readers to read more slowly and attentively]] .
 
