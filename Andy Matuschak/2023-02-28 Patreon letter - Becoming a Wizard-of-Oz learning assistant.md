@@ -5,14 +5,13 @@ URL:
 title: "2023-02-28 Patreon letter - Becoming a Wizard-of-Oz learning assistant"
 ---
 # 2023-02-28 Patreon letter - Becoming a Wizard-of-Oz learning assistant
-_Private copy; not to be shared publicly; part of [Patron letters on memory system experiments](https://notes.andymatuschak.org/zY3RYK9gJ6eDnq27vSwBDQh)_
+_Private copy; not to be shared publicly; part of [[Andy Matuschak/Patron letters on memory system experiments|Patron letters on memory system experiments]]_
 
-As [I described in December](https://www.patreon.com/posts/towards-impact-76438674?cid=101503603), I’m experimenting with some unusual (for me) new research methods. Data analysis and stacks of user interviews have given me a ten-thousand foot view of learning in action. Now I’m taking the opposite approach. I’m diving in close, trying to understand the emotional and practical consequences of individual learning actions and design decisions, over time.
+As [[Andy Matuschak/2022-12-27 Patreon letter - Towards impact through intimacy in my memory system research|I described in December]], I’m experimenting with some unusual (for me) new research methods. Data analysis and stacks of user interviews have given me a ten-thousand foot view of learning in action. Now I’m taking the opposite approach. I’m diving in close, trying to understand the emotional and practical consequences of individual learning actions and design decisions, over time.
 
 To restate my (admittedly ludicrous) aspiration: I’d like to invent an utterly transformative environment for learning and growth. I want to induce an uncanny, almost alien, feeling of effortlessness and proficiency. So far, I’ve chased that goal by building and iterating on scalable systems. But now, before systematizing or scaling anything else, I aim to produce that uncanny sensation _for a single person_. I want to make one person feel that they’ve been granted impossible superpowers. Then if I can do it again, and again, I hope I’ll see how to bottle that lightning in a system—a much more powerful system than I could create by iterating “in system space.” If nothing else, I expect this N-of-1 approach will produce some unusual insights along the way.
 
 ## Meet Alex
-
 So, for the past month, I’ve been acting as a “personal learning assistant / coach” for Alex (name and gender randomized). He’s a creative and driven adult, employed at a startup. Last year, through friends, he met some people working on an obscure problem in physics. Alex became absolutely obsessed. He decided that he _had_ to try to contribute. There was just one “small” problem: he hadn’t studied much advanced physics.
 
 In December, Alex embarked on a six-month quest of full-time study. He aims to understand the state of the art and to become a competent participant in conversations about this problem. He hired two tutors (one for math, one for physics) and began to work through related papers and textbooks.
@@ -22,7 +21,6 @@ I suggested that I’d ride alongside his learning process, like a little daemon
 It’s an uncomfortable arrangement for me… and that’s good, I think. My practice, my experience, and my culture fixate on abstraction and systematization. Some part of me objects that N-of-1 insights are “fake”, that I’m not “doing real work” when I hack together bespoke one-offs for a single user. It’s been gratifying (and challenging) to confront these preconceptions, to stretch my practice in new directions. Happily, now four weeks into this experiment, I feel more richly connected to the design space in many ways than I have in years.
 
 ## The force of a live project
-
 As I listened to Alex’s plans and to his tutoring sessions, the first thing I noticed was the constant force exerted by his project—the papers he wants to understand but can’t, the arguments he can’t evaluate.
 
 Here’s an illustrative example: Alex’s tutoring sessions are largely driven by a list of questions he’s brought, not by the tutor prescribing what he should learn next. Alex’s questions aren’t abstract or academic. They’re live blockers for something he cares about immensely. His project drives the learning loop: deciding the next thing to learn, assessing when it’s understood well enough, choosing to move on. And this particular project demands deep understanding at every step.
@@ -42,7 +40,6 @@ But speaking now as a designer, I’m trying to create environments which can he
 So the first big insight I’ve gotten from my work with Alex is: wow, okay, _this_ is the pressure I want. Fiery Learning. He’s driven by a project which demands that he understands difficult material. His emotional connection to the project pushes him to _truly_ understand the material, rather than just “get through it” as in Syllabus Learning. And unlike in Exploration Learning, this project insists on understanding in great detail. This is a _demanding_ pattern of learning. Alex is truly struggling without augmentation. He would very much like help. He’s taking the race car out on a punishing track, trying to beat a formidable time. Any slight changes in performance become extremely salient; any small difficulties become major irritants. It’s an intensely high-signal, high-energy context for me as a designer.
 
 ## Tutoring transcripts as powerful design inputs
-
 One of the first interventions I proposed was: suppose I give you a special purple highlighter and pen. Now as you read, and as you write in your notepad, you get a new power. If something seems particularly important or interesting, just write with your purple pen or mark it with your purple highlighter. Then, magically (through my Wizard-of-Oz efforts), you’ll find that your memory system includes lots of prompts about that material, to ensure that you internalize it.
 
 But at least when we started, the material which felt most salient to Alex wasn’t from a textbook or his own notes—it was from his tutoring sessions. Thankfully, he records every session with Otter, so he was able to send me audio with associated transcripts. What incredible material these are for a designer of a learning system! The conversational format externalizes much that would otherwise remain invisible to me, trapped inside Alex’s head.
@@ -62,7 +59,6 @@ One final note on these tutoring sessions. For Alex, the recordings were _alread
 Part of Alex’s comment there, by the way, is about the importance for him of _reviewing_ his tutoring sessions. Before we started collaborating, he was already carefully going back through the transcripts, noting where he was still confused, and writing his own memory prompts. He expressed some initial suspicion of me writing the prompts for him: “Will that make me lazy?” Maybe. There really are trade-offs here. It’s complicated. Empirically, he’s been eager to use the prompts I’ve written for him. I’m hoping to understand some of these trade-offs better over time.
 
 ## Talk-aloud review sessions
-
 Another revelation for me came in the form of a fifteen-minute video clip. I wanted to understand how the prompts I was writing felt, a few weeks later. Where were they boring? Helpful? Off-target? Could Alex notice the way a single prompt had influenced his practical facility? So, at first, I asked for feedback, suggested he make some notes while he did his memory system reviews. These were somewhat helpful, but I wanted a lot more detail. I also worried those notes were a little too filtered, a little too detached. So I asked Alex if he’d be willing to use the iOS screen recorder to talk aloud while he did his review session.
 
 And: absolute _magic!_ I felt I was accessing a new level of insight about the practice of writing memory system prompts for someone else. Historically, I’ve gotten live per-prompt reactions from readers on their initial pass through a mnemonic essay. Those observations have been quite instructive, but they’re also limited—those readers don’t have enough distance on the prompts. From Alex, I get per-prompt reactions like:
@@ -81,12 +77,11 @@ One common theme in Alex’s feedback is just how hard it is to really _nail_ th
 
 On a more mundane note, these recorded sessions seem like a good way to make low-hanging improvements to memory systems, by eliciting and working through a fine-grained friction log. For example: with a number of prompts, Alex noticed that he felt an impulse to move on without really thinking about them, because there was an imposing wall of text. This makes total sense in hindsight. He’s using Anki, and—I think because it was designed for vocabulary words—it has truly awful default typography for prose. More structurally, there really should be a hierarchical separation between the “answer” one is supposed to check, and a longer explanation one could read for more detail if one wants. When both are presented with the same appearance, the answer appears enormous. (We noticed the same problem in Quantum Country and put explanations behind a disclosable section on the backs of cards.) So I did a quick typography polish pass, and I styled extended explanation differently. I’ve included a before/after below; Alex reports that these prompts now feel much better.
 
-![](https://notes.andymatuschak.org/BearImages/025CD4E9-D5B0-49ED-9903-5DFDD5F1F93C/9950FE12-3DA6-4068-BA5D-D7DCF0584E2B.png)
+![[Andy Matuschak/Attachments/Andy- Becoming a Wizard-of-Oz learning assistant 1.png]]
 
 Stuff like that is easy. It’s not important, exactly. But a lot more iteration of that kind will help us see the actual boundary conditions of these systems much more clearly, without distortions from needless impediments.
 
 ## Next
-
 It’s only been a few weeks; I’m still getting my footing; we’re still figuring out the right way to work together. I certainly haven’t yet produced anything approaching a transformative augmentation. But I’m excited, I’m prototyping at a faster pace than I have in a long time, and I feel I’m learning a great deal, even if I can’t articulate much of that very concretely yet.
 
 My immediate next challenge is to find a good way to “get inside” Alex’s learning loop. In our first couple rounds, he might articulate a question on Monday, have a tutoring session on Tuesday, get prompts about it from me on Wednesday, review them for the first time on Thursday, and get feedback in front of me by Friday. We’ve tightened that by a couple days, and daily conversations about his plans and barriers are helping me respond more quickly. Part of the trouble is that I’m building prototypes as I go, and of course that takes time. Maybe once my [armory](https://www.patreon.com/posts/armories-for-52549432) is a bit better established, it’ll feel easier to keep up.

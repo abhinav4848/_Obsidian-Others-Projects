@@ -5,14 +5,13 @@ URL:
 title: "2022-12-27 Patreon letter - Towards impact through intimacy in my memory system research"
 ---
 # 2022-12-27 Patreon letter - Towards impact through intimacy in my memory system research
-_Private copy; not to be shared publicly; part of [Patron letters on memory system experiments](https://notes.andymatuschak.org/zY3RYK9gJ6eDnq27vSwBDQh)_
+_Private copy; not to be shared publicly; part of [[Andy Matuschak/Patron letters on memory system experiments|Patron letters on memory system experiments]]_
 
-Reflecting on my work with the mnemonic medium, I notice that I’m making good progress on questions of breadth and scale, but not nearly enough along the much more important axes of depth and impact. That’s not for lack of trying—my attempts to explore the latter keep fizzling. But I think I understand better now why that is, and at least partially what to do about it. In the new year, I’d like to aggressively reorient my work towards traction on this central question: _how to make a radically more powerful memory system, one which makes it easy to build a deep, flexible, and durable understanding of complex conceptual material?_
+Reflecting on my work with the [[Andy Matuschak/Mnemonic medium|mnemonic medium]], I notice that I’m making good progress on questions of breadth and scale, but not nearly enough along the much more important axes of depth and impact. That’s not for lack of trying—my attempts to explore the latter keep fizzling. But I think I understand better now why that is, and at least partially what to do about it. In the new year, I’d like to aggressively reorient my work towards traction on this central question: _how to make a radically more powerful memory system, one which makes it easy to build a deep, flexible, and durable understanding of complex conceptual material?_
 
 In this letter, I’ll lay out the situation and describe my best thinking on what to do about it. Beyond helping myself understand, my aim here is to create a good context for conversations with others who can help me improve my plans. I’m still quite confused about many of the points I discuss here, so this should be read as a provisional, interim discussion—but hopefully a useful one on the way to a better path.
 
 ## Why I’m excited about memory systems
-
 Since this is a letter about my progress being off-target, it’s worth carefully re-articulating the aspiration that drives me here.
 
 I’ve spent almost a decade exploring how we might use computers (and specifically dynamic mediums) to create exceptionally high-growth environments. I’ve done projects around discovery learning in microworlds, computer-supported collaborative learning, mastery learning, ML-driven personalized learning, and so on. But my personal experiences with memory systems have been so vivid that all the other mechanisms I spent years investigating seem laughably weak by comparison. Memory systems conjure a powerful sense of vertigo for me. I feel like a caveman who’s stumbled on a box of simple machines. I might not understand the principles of mechanical advantage, but even primitive fumbling produces startling results!
@@ -26,7 +25,6 @@ I’m reminded of the move from analog to digital computers. When components acc
 With that glowing description, one might imagine that memory systems just need to be popularized, “scaled”, rough edges removed. But there are good reasons for memory systems’ limited adoption. In my view, the most important problem is that it’s very difficult to do what I just described—to reinforce arbitrary material with them. One must develop a specialized skill to do this at all; I’ve spent years accumulating strategies for digesting different kinds of ideas into memory system prompts. And it’s not enough to just help readers develop those skills. Even for me, writing these prompts takes so much time and mental energy that I cover only a fraction of the knowledge I find meaningful. To make matters worse, it’s especially tough to use memory systems well with unfamiliar material—which is of course when they’re most useful. As a non-expert, my prompts often emphasize the wrong elements, or miss the forest for the trees, or fail to encode enough connective tissue to support rich understanding.
 
 ## Why I’m excited about the mnemonic medium as an avenue for more powerful memory systems
-
 Prompt-writing involves productive struggle, and I’m sure that contributes enormously to deep understanding. Sometimes there’s no way around this work: many of my most valuable prompts draw connections to personal experience. Yet I believe we can do much more with much less. Today’s memory systems “make memory a choice”—but it’s a stark choice between moderate-cost/high-benefit and no-cost/no-benefit. We can design systems which offer intermediate points. More importantly, I believe we’re nowhere near the efficient frontier. We can both lower the costs _and also radically increase the benefits._
 
 Ideally: as I learn new material, rich representations of that knowledge are continuously encoded into my memory system. This system not only helps me reliably remember what I learned, but it actually deepens my understanding of the material over time. The whole process integrates naturally into my intellectual life, with so little burden that it can be applied pervasively. This ideal may be beyond reach, but if we can make something which comes close, it’s tough to imagine that such a system would not “change the thought patterns of civilization”.
@@ -48,7 +46,6 @@ The mnemonic medium also makes it much easier to run iterative experiments. For 
 There are dozens of improvement ideas I’d like to explore, and questions I’d like to answer—some about cognition and efficacy, others about emotion and feel. Ideally, the mnemonic medium would support rapid cycles of iteration towards a much better memory system. But I’m writing this letter because I haven’t yet managed to create the right environment to iterate on the most important questions. In fact, Quantum Country’s fourth essay implements the “practice exercise” idea I just described—and I haven’t managed to understand its impact, at all.
 
 ## Struggling to push for depth
-
 Over the past two years, most of my progress has been in solving problems specific to the mnemonic medium’s conceptual design. That is: problems with using expert-written memory system prompts, and with embedding memory systems into different kinds of texts in different kinds of situations. This is good and necessary! Such problems are central to the idea and must be solved to make the medium work.
 
 But as I’ve made more progress here, I’ve slipped into solving increasingly peripheral problems—making the medium work for non-experts, in increasingly casual scenarios. I’m straying towards issues of scale, and away from my central aim: _how to make a radically more powerful memory system, one which makes it easy to build a deep, flexible, and durable understanding of complex conceptual material?_
@@ -68,7 +65,6 @@ There’s an important distinction to recognize here—one that’s quite alien 
 To find the form of a system with the highest ceiling on its power, I want to design for (and with) demanding experts, in difficult situations. I want a close, collaborative relationship, not an arms-length “vendor” relationship.
 
 ## Sketching a path forward
-
 Now that I’ve articulated this aspiration—this shift to depth over breadth—how should I go about actually making it happen? My leading idea is to collaborate closely with a small group of people as they try to deeply understand a topic of great interest, with the help of a memory system. I’ll choose people who are already expert practitioners with today’s memory systems, and who are excited to collaborate on much better memory systems for the future. My aim is to form an intimate, nuanced picture of readers’ cognitive and emotional experiences—then to use that to [drive an insight-through-making loop](https://numinous.productions/ttft/#how-to-invent-hindu-arabic-numerals).
 
 A few concrete practices I’d like to try:

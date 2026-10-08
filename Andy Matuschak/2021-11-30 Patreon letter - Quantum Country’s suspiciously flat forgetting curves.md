@@ -5,7 +5,7 @@ URL:
 title: "2021-11-30 Patreon letter - Quantum Country’s suspiciously flat forgetting curves"
 ---
 # 2021-11-30 Patreon letter - Quantum Country’s suspiciously flat forgetting curves
-_Private copy; not to be shared publicly; part of [Patron letters on memory system experiments](https://notes.andymatuschak.org/zY3RYK9gJ6eDnq27vSwBDQh)_
+_Private copy; not to be shared publicly; part of [[Andy Matuschak/Patron letters on memory system experiments|Patron letters on memory system experiments]]_
 
 Since 2019, I’ve been running a series of randomized controlled experiments on [Quantum Country](https://quantum.country/) readers. The main reason I haven’t published these is that I don’t understand what’s going on. Readers are forgetting very slowly. Too slowly! I’ve been crossing off theories with each experiment, but the data seem to defy a core assumption of memory systems: that we forget more and more over time, along a steep curve. This has left me awfully confused all year, but I now have one theory which might explain what’s going on. If I’m right, it’ll mean that general-purpose memory systems won’t be able to reuse the ==approaches== which traditional vocabulary-focused memory systems have used to evaluate and improve themselves.
 
@@ -125,7 +125,7 @@ We don’t have enough data to extract trustworthy forgetting curves on a per-qu
 
 So questions vary in difficulty, but don’t seem to decline in recall rates as more time passes. What should we take from this? Sure, we could schedule “hard” prompts earlier, but would that actually do anything? Except for the ten hardest prompts, this data shows no improvement in recall with shorter intervals.
 
-One way to interpret this is that the main thing here is that people just need to practice. The timing is not terribly important. Indeed, [we previously found](https://www.patreon.com/posts/too-easy-to-be-49250309) that once the median reader remembers an answer after a delay (of any length), their recall rate over the following year of reviews is 95%!
+One way to interpret this is that the main thing here is that people just need to practice. The timing is not terribly important. Indeed, [[Andy Matuschak/2021-03-25 Patreon letter - Too easy to be effortless|we previously found]] that once the median reader remembers an answer after a delay (of any length), their recall rate over the following year of reviews is 95%!
 
 But I find myself simply not believing this data. The forgetting curves are too flat. This just doesn’t reflect my experience. If I don’t practice something I’ve learned for two months, I’m much less likely to remember it than I would be one week later. Our data suggest that after the first successful delayed recall, we could safely delay subsequent reviews for many months. I just don’t buy it.
 
@@ -133,7 +133,7 @@ What’s going on here?
 
 **My theory: cuing effects**  
 I think the picture gets clearer if you look at a specific question. Consider this question (which has ~75th %ile in-essay recall accuracy):  
-![](https://notes.andymatuschak.org/BearImages/9CB8451B-819C-4061-994D-7ABD8D82C9B1/DC46166B-25E1-4EB0-A99F-3361787C3C36.png)
+![[Andy Matuschak/Attachments/Andy- Quantum Country’s suspiciously flat forgetting curves 1.png]]
 
 This task strongly shapes the retrieval you perform: it makes you look for connections between the normalization condition and measurement probabilities. You might have instant access to this answer; but you might also consider the question on the spot and infer that this is the only reasonable answer.
 

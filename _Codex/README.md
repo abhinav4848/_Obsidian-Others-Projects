@@ -46,3 +46,6 @@ The existing Patreon-letter index is complete with 15 source-linked summary note
 
 ## Full Patreon captures and August letter integration
 The user supplied full-text captures to replace the 15 summary notes. The lower index section is now labelled Previously missing letters. The August 1 letter uses existing local notes, collection attachments, and native footnotes while preserving the author’s prose. Recovery and verified downloads are recorded in `august-letter-integration`.
+
+## Remaining Patreon letter integration
+The same integration is complete for the other 18 indexed letters. Captured prose and URL-list properties were preserved. Existing article notes are linked internally; cited PDFs and images use Andy Matuschak/Attachments with the established filenames. Native footnotes and heading spacing are standardized. See Remaining letter integration.md and letters-integration for verification and recovery records.

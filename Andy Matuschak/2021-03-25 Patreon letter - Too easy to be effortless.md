@@ -5,7 +5,7 @@ URL:
 title: "2021-03-25 Patreon letter - Too easy to be effortless"
 ---
 # 2021-03-25 Patreon letter - Too easy to be effortless
-_Private copy; not to be shared publicly; part of [Patron letters on memory system experiments](https://notes.andymatuschak.org/zY3RYK9gJ6eDnq27vSwBDQh)_
+_Private copy; not to be shared publicly; part of [[Andy Matuschak/Patron letters on memory system experiments|Patron letters on memory system experiments]]_
 
 Now that a few Orbit experiments are in flight, I’ve spent much of the last month digging back into data from [Quantum Country](https://quantum.country/). I’m struck by a surprising problem: _basically everyone remembers basically everything, basically all the time_.
 
@@ -57,7 +57,7 @@ Just by focusing on too-easy questions, it’s pretty easy to imagine cutting th
 
 The data I’ve presented don’t have much to say about the counterfactual. If the intervals had been twice what they are, would we see only a bit more forgetting, or would we see bedlam? I’ve been running controlled experiments along these lines, and they’ve been producing very interesting and confusing results… which will have to wait for another time.
 
-**Scheduling for the mnemonic medium versus existing SRS modalities**  
+**Scheduling for the [[Andy Matuschak/Mnemonic medium|mnemonic medium]] versus existing SRS modalities**  
 Almost all work around spaced repetition systems—both academic and commercial—has focused on definitions: vocabulary for language learners, terminology for medical students, people and events for history classes, etc. This kind of knowledge tends to be arbitrary and disconnected, and so I suspect it’s forgotten much more rapidly.
 
 Quantum Country’s schedule is pretty aggressive. We start at a five-day interval and grow by 2-3x on each repetition. By default, Anki starts at a one-day interval and grows by 1.8x. And yet we’re still seeing very little forgetting. I don’t think the problem is that Anki’s wildly conservative: I think it’s that conceptual knowledge, introduced in a narrative arc and thoroughly connected to prior knowledge, has very different memory dynamics from vocabulary words. Scheduling for the mnemonic medium should probably look quite different from scheduling for traditional spaced repetition systems.

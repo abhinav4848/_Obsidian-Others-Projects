@@ -8,7 +8,6 @@ When considering human information processing capacity, [[Working memory span i
 
 Miller writes (1956, p. 92):
 > I have fallen into the custom of distinguishing between bits of information and chunks of information. Then I can say that the number of bits of information is constant for absolute judgment and the number of chunks of information is constant for immediate memory.
-> 
 
 Critically: [[Human channel capacity increases with bits-per-chunk]] and [[Andy Matuschak/Recoding can increase chunk size|Recoding can increase chunk size]].
 

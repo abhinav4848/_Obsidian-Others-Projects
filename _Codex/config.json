@@ -47,7 +47,12 @@
     "missing_note_content": "User-supplied full-text copies replaced the summary notes; preserve captured prose",
     "preserve_existing_captured_text": true,
     "source_evidence": "_Codex/patreon-import/sources.json",
-    "integration_record": "_Codex/august-letter-integration/applied.json"
+    "integration_record": "_Codex/august-letter-integration/applied.json",
+    "integration_records": [
+      "_Codex/august-letter-integration/applied.json",
+      "_Codex/letters-integration/applied.json"
+    ],
+    "footnotes": "Native Obsidian Markdown footnotes under Footnotes"
   },
   "andy_attachment_naming": {
     "papers": "Author(s) - Year - Title.pdf",

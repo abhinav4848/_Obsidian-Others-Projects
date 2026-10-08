@@ -1,0 +1,23 @@
+{
+  "verified_at": "2026-10-08T12:41:13.402596+00:00",
+  "letters": 18,
+  "external_links_converted": 28,
+  "concept_links_added": 28,
+  "native_footnotes": 13,
+  "heading_blank_lines_removed": 41,
+  "PDFs_downloaded": 8,
+  "images_downloaded": 27,
+  "PDF_sources_reused": 11,
+  "local_targets_checked": 64,
+  "checks": [
+    "Captured prose preserved",
+    "Properties and page titles preserved",
+    "Footnote references and definitions match",
+    "New local links resolve",
+    "Final attachments match validated downloads",
+    "No duplicate downloads",
+    "August letter, index, previous attachments and other Andy files unchanged"
+  ],
+  "native_asset_validation": "_Codex/letters-integration/asset-validation.json",
+  "backup": "_Codex/backups/remaining-letters-before-20261008T124009Z.zip"
+}

@@ -5,16 +5,15 @@ URL:
 title: "2021-09-30 Patreon letter - Architectures for a more flexible mnemonic medium"
 ---
 # 2021-09-30 Patreon letter - Architectures for a more flexible mnemonic medium
-_Private copy; not to be shared publicly; part of [Patron letters on memory system experiments](https://notes.andymatuschak.org/zY3RYK9gJ6eDnq27vSwBDQh)_
+_Private copy; not to be shared publicly; part of [[Andy Matuschak/Patron letters on memory system experiments|Patron letters on memory system experiments]]_
 
 _I thought I’d try something different for this month’s update—sharing some rough in-progress design work. The tension here is that it takes a huge amount of work to legibly present a design process to others, especially when large swaths of it are unresolved. Good storytelling requires lots of renderings you wouldn’t otherwise have made. Designers who work for agencies or on very large teams at product companies are used to paying this heavy tax, but it doesn’t make sense for me working solo. Thankfully, you all have a great deal of context, so I hope you’ll bear with me and bring your imaginations. That said, though much of this discussion is conceptual, it will rely on actual pictures of interfaces, and so there’s no audio version of this post._
 
-[Last month I introduced a key design problem with the mnemonic medium](https://www.patreon.com/posts/revamping-medium-55309960?cid=66935664): it puts the author in the driver’s seat, assuming you want to read—and memorize!—linearly and completely. This is appropriate in some situations, but in many contexts readers will (appropriately) want to drive, reading selectively and strategically.
+[[Andy Matuschak/2021-08-24 Patreon letter - Revamping the mnemonic medium around reader control|Last month I introduced a key design problem with the mnemonic medium]]: it puts the author in the driver’s seat, assuming you want to read—and memorize!—linearly and completely. This is appropriate in some situations, but in many contexts readers will (appropriately) want to drive, reading selectively and strategically.
 
 I’ve been rethinking the primitives of the medium to make this possible. The goal is to avoid making several different “modes” of the medium, but rather to identify some elemental representations which can be recombined in different ways in different situations, by both author and reader. When you find the right abstractions, it feels a bit like carving “with the grain” of the universe—more like discovering something that already is than creating something new. VisiCalc cells have that energy; so do files and folders; so do Beziér curves and their corresponding pen tools; Photoshop layers; etc.
 
 ## Reading scenarios and behavioral axes
-
 Finding such a primitive usually means identifying some pattern common to many kinds of activities. So I’ve been analyzing a variety of reading situations, trying to perceive some shared structure in the differences.
 
 Four scenarios have emerged as useful anchors. These aren’t collectively exhaustive, of course, but they span a large space and illustrate some of the problem’s texture:
@@ -24,7 +23,7 @@ Four scenarios have emerged as useful anchors. These aren’t collectively exhau
 3. Consulting a **reference**, almanac, or handbook for information on a specific question. This would include Wikipedia and many articles on [Our World in Data](https://ourworldindata.org/). But it might also include handbooks like “[The Great CEO Within](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/mobilebasic)”, which is structured to be read piecemeal in response to your situation’s needs.
 4. Reading for **edification**. New Yorker articles; reflective blog posts; general-audience non-fiction like _Sapiens_ or _Thinking, Fast and Slow_ (assuming those topics aren’t a creative focus for you). These are usually read with a light touch, in large part for enjoyment.
 
-_Should_ the mnemonic medium target all these different situations? It’s not clear to me. The benefit is much more obvious for primers, for instance, than for edification reading. Practically speaking, it would be easiest to focus on “linchpin” texts with a large number of readers who have consistent interests. But one principle I’ve learned in design is that while the 80/20 principle is useful, it’s often quite valuable to design for a much larger scope than you intend to immediately implement. The latter approach can help you find more general primitives, primitives which you can “grow into”. 80/20-ing often produces architectures which will make future expansion difficult. Worse—once implemented, limited architectures sometimes constrain how you can _think_ about pursuing future expansion. The trick, of course, is to figure out exactly where to place the bounds on your problem. The design problem becomes much more difficult as you expand the scope, and often much less connected to the pressures of some authentic situation in which you’ll be prototyping. Should I try to produce a design architecture which incorporates future machine-learning-based prompt generation interactions? Which integrates fully with the rest of one’s personal knowledge management system? For the moment, I choose to answer “no”, but I’ll try to handle a large range of different reading contexts. These are all scenarios for which I feel expert-authored spaced repetition prompts could be tremendously useful.
+_Should_ the [[Andy Matuschak/Mnemonic medium|mnemonic medium]] target all these different situations? It’s not clear to me. The benefit is much more obvious for primers, for instance, than for edification reading. Practically speaking, it would be easiest to focus on “linchpin” texts with a large number of readers who have consistent interests. But one principle I’ve learned in design is that while the 80/20 principle is useful, it’s often quite valuable to design for a much larger scope than you intend to immediately implement. The latter approach can help you find more general primitives, primitives which you can “grow into”. 80/20-ing often produces architectures which will make future expansion difficult. Worse—once implemented, limited architectures sometimes constrain how you can _think_ about pursuing future expansion. The trick, of course, is to figure out exactly where to place the bounds on your problem. The design problem becomes much more difficult as you expand the scope, and often much less connected to the pressures of some authentic situation in which you’ll be prototyping. Should I try to produce a design architecture which incorporates future machine-learning-based prompt generation interactions? Which integrates fully with the rest of one’s personal knowledge management system? For the moment, I choose to answer “no”, but I’ll try to handle a large range of different reading contexts. These are all scenarios for which I feel expert-authored spaced repetition prompts could be tremendously useful.
 
 One important axis of variation in these scenarios is completeness. If you’re reading a guided primer or studying an important publication, you may want to remember all the key details. But if you’re consulting a reference like Wikipedia, you’re probably reading quite non-linearly, focusing only on a few sections of the text—and the memory system should behave accordingly. Likewise, you’re usually less interested in completeness when reading for edification: you may read the whole essay front to back, but you mostly just care about a few high-level “take-aways”. Note that these latter two situations differ in the nature of their incompleteness: reference readers will want a memory system which supports selectivity and non-linearity, while edification readers will want a memory system which supports higher granularity and a lower level of detail.
 
@@ -35,7 +34,6 @@ A final axis I’d like to introduce: readers’ propensity to write their own p
 So we’d like to identify primitives for the mnemonic medium which can be used in different ways—by both readers and authors—to address different positions on these axes.
 
 ## Workflows and primitive desiderata
-
 One way to think about this is to consider typical workflows for different positions:
 
 - when completeness is high, “add all prompts in section/page” is the common-case interaction… but those prompts may get refined iteratively in future review sessions
@@ -61,13 +59,13 @@ Because some low-completeness workflows will involve readers quickly scanning an
 
 In [his 2019 paper “Agency plus automation,”](https://www.pnas.org/content/116/6/1844) Jeffrey Heer identifies an important pattern for designing artificial intelligence into interactive interfaces: shared representations which can be created by either human or machine. This allows the machine to suggest possible domain actions which can be fluidly adapted/adopted by the user, and for the user’s actions to be understood in the same terms by the ML system. Google’s search result suggestions (as seen below, excerpted from Heer's paper) are a good simple example. This principle may apply directly if we pursue ML-based prompt generation in the future, but even in the present, it applies well to the problem of co-mingling author and reader prompts. _Author prompts should be the same “kind of thing" as reader prompts._ Readers should be able to co-opt and alter author prompts with minimal ceremony, just as they do with Google search results suggestions.
 
-![](https://notes.andymatuschak.org/BearImages/1BB5CB14-FFE8-4F92-9A27-871FD803FA50/F2CD4351-8104-42E5-A450-8F1CC76E0B32.png)
+![[Andy Matuschak/Attachments/Andy- Architectures for a more flexible mnemonic medium 1.png]]
 
 There’s a related cluster of desiderata for a list representation, which I’ll summarize as _fluidity_. Given a list of potential prompts (either by author or by ML model), readers should be able to quickly choose the ones they want and make any necessary edits. If a reader discovers while writing a prompt that it actually wants to be two prompts, this shouldn’t involve moving through multiple “screens” or “modes.” Prompts are like sentences, and they’re often edited holistically; when writing or editing a prompt, I should always maintain “[peripheral vision](https://notes.andymatuschak.org/Peripheral_vision)” of its “neighbors”, just like editing a sentence in a paragraph in a text editor.
 
-For the last two years I’ve been [writing prompts in plaintext files in a text editor](https://notes.andymatuschak.org/z4mAF1uBV96r72e4NjLcDaujEyTPGiUQJEj8C), and I’ve come to really value the flexibility that comes with seeing and editing multiple prompts fluidly and simultaneously.[1] I’d like to bring this fluidity to embedded reading contexts, but with more structure than my freeform text files. I’ve been particularly inspired by to-do list apps, which often feature the fluidity of a continuous textual canvas. Apple’s Reminders does roughly what I have in mind:
+For the last two years I’ve been [writing prompts in plaintext files in a text editor](https://notes.andymatuschak.org/z4mAF1uBV96r72e4NjLcDaujEyTPGiUQJEj8C), and I’ve come to really value the flexibility that comes with seeing and editing multiple prompts fluidly and simultaneously.[^1] I’d like to bring this fluidity to embedded reading contexts, but with more structure than my freeform text files. I’ve been particularly inspired by to-do list apps, which often feature the fluidity of a continuous textual canvas. Apple’s Reminders does roughly what I have in mind:
 
-![](https://notes.andymatuschak.org/BearImages/1BB5CB14-FFE8-4F92-9A27-871FD803FA50/Screen%20Recording%202021-09-30%20at%205.01.13%20PM.gif)
+![[Andy Matuschak/Attachments/Andy- Architectures for a more flexible mnemonic medium 2.gif]]
 
 A related benefit of the continuous textual canvas metaphor is that it suggests a malleable interchange format. You should be able to select many prompts and copy them—they’re just Markdown, perhaps with some extra markup. So you can paste them into Twitter, or into a PDF annotation, or into a source file’s comment section, or whatever. And you can likewise copy plaintext prompts from such places and paste them into Orbit. Complex prompt “generators” can be implemented as macros in your editor of choice. I think such malleability may lead to surprising user behaviors.
 
@@ -76,10 +74,9 @@ Even though it’s often not appropriate to impose tests on readers, _section br
 Separately, Quantum Country readers reported a few interesting implications of embedded interactions at section breaks. Those review sessions provide a sense of safety: if you’re feeling unsteady while reading, you can take some comfort in knowing that a review will soon reassure you that you understood what you were meant to—and if not, that you’ll get some feedback on what needs more attention. For some readers, the embedded reviews create a visceral sense of “progress” while reading: the reviews help them feel their progress in understanding the topic. For other readers, the embedded reviews help them regulate their reading: “I finished this section and thought I understood—but answering these questions, I found I had absorbed absolutely none of it! So I went back and re-read more carefully.” Of course, these effects are double-edged. They’re helpful if your stance towards the text is explicitly one of a diligent student; they’re representative of the medium’s inappropriate imposition when you’re reading more casually or tactically.
 
 ## Solution sketches
-
 I’ve been exploring the space of representations which might satisfy all those properties. It’s always an iterative process, and what I’ll show here is certainly interim work.
 
-![](https://notes.andymatuschak.org/BearImages/1BB5CB14-FFE8-4F92-9A27-871FD803FA50/CE6E08C4-768A-4A1B-9CD0-EBED26BB35B7.png)
+![[Andy Matuschak/Attachments/Andy- Architectures for a more flexible mnemonic medium 3.png]]
 
 First, we should do no harm to the primer scenario. For texts like Quantum Country, we’d still like the “default” reading behavior to involve the interleaved review breaks, and to result in “saving” all the prompts encountered. But in the context of these defaults, we’d still like to offer more control. If a question doesn’t seem meaningful, you shouldn’t be studying it. If you’d like to reword a question, you should be able to do so. If you’d like to add a prompt of your own, you should have that ability.
 
@@ -99,11 +96,11 @@ My approach here is:
 
 The practical upshot: readers get the current default behavior with zero additional interactions, but they have a smooth gradient of opportunities to modify that behavior before, during, and after the review.
 
-![](https://notes.andymatuschak.org/BearImages/1BB5CB14-FFE8-4F92-9A27-871FD803FA50/BB8CD15D-F4C5-485D-B5D5-DDD63CE85E8B.png)
+![[Andy Matuschak/Attachments/Andy- Architectures for a more flexible mnemonic medium 4.png]]
 
 You’ll notice that the latter screenshot demonstrates a list-style interface. The idea is that it’s a continuous textual canvas, like the Apple Reminders interface above. And so writing new prompts is an inline experience, not a modal one:
 
-![](https://notes.andymatuschak.org/BearImages/1BB5CB14-FFE8-4F92-9A27-871FD803FA50/81CAF882-2684-4155-8D91-F2526E9A5C44.png)
+![[Andy Matuschak/Attachments/Andy- Architectures for a more flexible mnemonic medium 5.png]]
 
 The same list representation can be naturally repurposed in the Orbit app as a “library” view, for iteratively refining prompts over time or writing new ones.
 
@@ -115,17 +112,17 @@ For these latter scenarios, I think an inline contextual interaction will be val
 
 Rather than insisting on precise inline ranges, one interesting approach is to introduce an inline sigil which indicates “prompts are available covering this general vicinity”. General, synthesis-oriented questions might appear in one of these sigils at the end of several paragraphs introducing the concept.
 
-![](https://notes.andymatuschak.org/BearImages/1BB5CB14-FFE8-4F92-9A27-871FD803FA50/763E65FE-89C5-4FBF-B305-2EEC3422B899.png)
+![[Andy Matuschak/Attachments/Andy- Architectures for a more flexible mnemonic medium 6.png]]
 
 Note the same list representation repeated in the popover behind the sigil.
 
 Another somewhat more outlandish approach is to allow readers to select anything at all, and we’ll simply display all prompts associated with that vicinity—and the synthesis-oriented prompts I mention are associated with large text ranges. Readers can pick and choose which make sense.
 
-![](https://notes.andymatuschak.org/BearImages/1BB5CB14-FFE8-4F92-9A27-871FD803FA50/8688B11D-EF7F-44BD-BA7B-FF042EBE4882.png)
+![[Andy Matuschak/Attachments/Andy- Architectures for a more flexible mnemonic medium 7.png]]
 
 Yet another approach is a persistent sidebar which again recapitulates the list representation, but in a fuzzily-anchored, Google Docs comments-inspired layout. Orbit’s art direction is too overbearing for this kind of persistent presentation.
 
-![](https://notes.andymatuschak.org/BearImages/1BB5CB14-FFE8-4F92-9A27-871FD803FA50/Screen%20Shot%202021-09-30%20at%2010.48.18%20PM%202.png)
+![[Andy Matuschak/Attachments/Andy- Architectures for a more flexible mnemonic medium 8.png]]
 
 Irrespective of which path we pursue, it should be possible to write your own contextually-anchored prompts anytime the inspiration strikes you, even if there aren’t any author-provided prompts nearby.
 
@@ -139,4 +136,5 @@ I’d like to thank Ozzie Kirkby for prototypes and discussions which contribute
 
 ---
 
-[1] I should note that [RemNote](https://www.remnote.io/) has been pursuing a similar idea commercially. I’ve not used the product in my own work, but I was impressed by their recent redesign, which streamlined a bunch of formality which previously felt overbearing. My primary interest remains prompts in the context of communications media, so I’m very happy to see these folks making progress on prompt-writing environments in the context of personal notes!
+## Footnotes
+[^1]: I should note that [RemNote](https://www.remnote.io/) has been pursuing a similar idea commercially. I’ve not used the product in my own work, but I was impressed by their recent redesign, which streamlined a bunch of formality which previously felt overbearing. My primary interest remains prompts in the context of communications media, so I’m very happy to see these folks making progress on prompt-writing environments in the context of personal notes!

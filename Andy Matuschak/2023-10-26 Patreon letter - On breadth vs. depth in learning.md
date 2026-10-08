@@ -5,7 +5,7 @@ URL:
 title: "2023-10-26 Patreon letter - On breadth vs. depth in learning"
 ---
 # 2023-10-26 Patreon letter - On breadth vs. depth in learning
-_Private copy; not to be shared publicly; part of [Patron letters on memory system experiments](https://notes.andymatuschak.org/zY3RYK9gJ6eDnq27vSwBDQh)_
+_Private copy; not to be shared publicly; part of [[Andy Matuschak/Patron letters on memory system experiments|Patron letters on memory system experiments]]_
 
 There’s a funny downside to doing all this research on memory and comprehension—a sort of loss of innocence. I’ve viscerally internalized just how poorly I’ll understand and retain complex ideas when I read in my default “casual” gear. And I’ve learned something about methods which produce deeper and sturdier understandings: memory systems, active reading practices, elaborative notes, and so on.
 
@@ -16,7 +16,6 @@ The second problem is a new sense of finitude and scarcity. It takes a long time
 How should I contend with these problems? How should I think about the tradeoffs between breadth and depth—or quantity and quality—in my reading? My observations will be necessarily personal, focused on my own proclivities and priorities. But people often write me with similar questions, and I hope this will help.
 
 ## Against a naive “efficiency mindset”
-
 I want to begin by observing that there’s something very wrong with the way these discussions often go: they frame the issue as a simple optimization problem. “How can I read as many books as possible?” or “I have ten hours per week of study time; how can I learn as much as possible to a satisficing level of depth?”
 
 If taken too seriously, this stance is corrosive to the kinds of authentic curiosity and creative engagement that produce good work, good insight, and—for me—a good life.
@@ -32,8 +31,7 @@ Another problem is that I’m often not quite sure what my aim _is_—I’m expl
 Both of these problems require making trade-offs in favor of breadth. Now that I’ve grounded the concerns in meaning, I’m more comfortable exploring how we might “optimize”. If I’ve exhausted the most compelling sources for my present aims, or if I’m not sure what my aim _is_, or if I’m reading with low energy, how should I orchestrate my reading to support my creative practice and my search for beauty?
 
 ## Mapping a space
-
-When I dove into the reading comprehension intervention literature, I didn’t know enough about the space to know what I wanted to read carefully. For the first week or two, I was just sniffing around, my questions too vague to articulate well. In this time, I certainly wasn’t studying deeply. I was sifting through dozens of papers, making (mostly mental) notes of key words, people, and concepts. And I was paying attention to my internal reactions (“Boring!”; “Ooh…”; “Dubious.”; etc) to help me get a clearer sense of what I really wanted to know.
+When I dove into the [[Andy Matuschak/Reading comprehension|reading comprehension]] intervention literature, I didn’t know enough about the space to know what I wanted to read carefully. For the first week or two, I was just sniffing around, my questions too vague to articulate well. In this time, I certainly wasn’t studying deeply. I was sifting through dozens of papers, making (mostly mental) notes of key words, people, and concepts. And I was paying attention to my internal reactions (“Boring!”; “Ooh…”; “Dubious.”; etc) to help me get a clearer sense of what I really wanted to know.
 
 I mostly prioritized breadth during this time. I was honest with myself: I knew I wasn’t absorbing much. I wrote some notes and memory prompts here and there, almost as signposts, but my goal was to begin to roughly chart the space. I wanted to know what the main “territories” are, how they relate to each other, and where the main ideas might be found within those regions. Eventually, some questions cohered, though they were still quite broad:
 
@@ -52,7 +50,6 @@ The full “dynamic range” of my speed across this exercise was quite wide. In
 In my introduction, I mentioned two problems: I often feel like I “should” be reading in slower gears all the time; when reading slowly, I feel anxious about how little ground I can cover. My literature review example illustrates one way I think about resolving these problems. When I’m not sure what my aim is, I don’t need to feel like I should be reading in a slower gear. In fact, in this situation, I should mostly be reading quite shallowly, trying to build an index and to inform my sense of what matters. I can cover lots of ground in this mode, and I can cheaply triangulate a smaller pile of higher-quality works for more careful study. It’s also a mode I can use constructively when I’m low on energy. Critically, though, I don’t delude myself into thinking that I’m learning much at the object level. Once I have a clearer sense of my aims, my heightened emotional connection to those sharpened questions makes it easy to set aside quality time for slow, careful reading. Then, when I’ve exhausted the most compelling sources, I’m best served by speeding up again, grazing over wider swaths until I find ideas worth lingering over again.
 
 ## No need to count cards
-
 When I started using memory systems, I felt a chronic optimizer’s anxieties: which material should I add to my memory system, given the cost of review? In how much detail? Happily, I don’t worry much about this anymore. Now I view review time as more or less “free”. I’ll illustrate with a few examples.
 
 The first essay of Quantum Country is about 25,000 words long and contains 112 prompts. Let’s call it one for every 225 words. A typical reader will take about four hours to read that essay. With the current schedule, they’ll spend about an hour reviewing those prompts in the first year, and a small fraction of that time thereafter.
@@ -76,7 +73,6 @@ So I don’t worry about the time costs of review anymore. But two variants of t
 Another much more salient version of the “time cost of review” concern is the _emotional_ cost of review. For example, when I’m first engaging with a topic, I often have a poor sense of what’s important, and of how much reinforcement will be necessary. A few months later, I’ll often run into a glut of prompts written during that early naïveté, and I’ll find myself bored and emotionally disconnected, wanting to do something else. That’s certainly not how I want review sessions to feel. I’m not worried about the cost of reviewing a given prompt in terms of time; I worry much more in terms of the damage which unsuitable prompts can do to my relationship with review.
 
 ## Shifting the gumption frontier
-
 Educational technology designers often talk in terms of shifting a [Pareto frontier](https://en.wikipedia.org/wiki/Pareto_frontier) in learning. That is, if you have some fixed amount of time, and you use the best methods available, you can learn a given topic to some level of depth. But if we develop new methods, we can expand that limit, so that you’ll be able to learn to a deeper level in the same amount of time. Conversely, if you want to learn some material to a fixed level, new technology may lower the time required for the best-available route.
 
 I think this framing can often be improved by replacing the time axis with “gumption” or “energy” or “enthusiasm.”
@@ -87,10 +83,9 @@ I listen to most podcasts and talks at 2-3x speed. This isn’t primarily becaus
 
 Personalized learning systems like Khan Academy aim to optimize learning by algorithmically ranking exercises so that each student works on the best-available task at a given time. This is usually framed in terms of learning more per unit time. But again, I think the more important issue is gumption. Nothing saps enthusiasm like a long string of problems you can already solve fluently. You may also quickly lose gumption if you’re asked to tackle problems significantly beyond your level of development. Now, when we reframe the issue in terms of gumption, rather than time, we can also see that a good solution will require more than estimating the probability of a successful answer. It makes us ask how we might orchestrate activities which are meaningful and rewarding for the student.
 
-My enthusiasm for the mnemonic medium and for [my recent highlighter-based memory system proposal](https://notes.andymatuschak.org/zPNoWjs5jQ7iMDpxxBtjSbg) draws on a similar logic. Yes, it takes time and expertise to write good memory prompts. But in many cases, the more decisive bottleneck is gumption. Comprehensive prompt-writing often feels disruptive and draining; in many situations, I don’t write nearly as many prompts as I would care to review. I’d love to shift that Pareto frontier—to reach a given level of depth with a lower tax on my gumption, or to increase my depth of study for a given level of enthusiasm.
+My enthusiasm for the [[Andy Matuschak/Mnemonic medium|mnemonic medium]] and for [[Andy Matuschak/2023-09-30 Patreon letter - Highlight-driven practice and comprehension support|my recent highlighter-based memory system proposal]] draws on a similar logic. Yes, it takes time and expertise to write good memory prompts. But in many cases, the more decisive bottleneck is gumption. Comprehensive prompt-writing often feels disruptive and draining; in many situations, I don’t write nearly as many prompts as I would care to review. I’d love to shift that Pareto frontier—to reach a given level of depth with a lower tax on my gumption, or to increase my depth of study for a given level of enthusiasm.
 
 ## Learning by doing vs. “book learning”
-
 I grew up as a programmer. And, like most programmers, I absolutely loved “learning by doing”. Rather than reading a reference manual on a new language, I’d just dive in, try to implement something in it, and learn just-in-time when I encountered issues. This method was great for me in a number of ways. It gave me rapid feedback loops and rapid rewards. It kept my learning activities more closely connected to my actual goal (writing programs). When I did engage in “book learning”, I’d be especially motivated because I’d be doing so in response to some specific issue I’d encountered. And all the hands-on effort helped cognitively, too: to build fluency in a practical skill like programming, we must induce and learn patterns across many experiences.
 
 What kinds of material can be learned in this way? What kinds of problems arise in this style of learning? I don’t yet have good answers to these questions. For now, I’ll share a few sketchy observations.

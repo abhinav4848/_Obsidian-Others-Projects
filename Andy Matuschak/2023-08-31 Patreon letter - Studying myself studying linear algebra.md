@@ -5,11 +5,11 @@ URL:
 title: "2023-08-31 Patreon letter - Studying myself studying linear algebra"
 ---
 # 2023-08-31 Patreon letter - Studying myself studying linear algebra
-_Private copy; not to be shared publicly; part of [Patron letters on memory system experiments](https://notes.andymatuschak.org/zY3RYK9gJ6eDnq27vSwBDQh)_
+_Private copy; not to be shared publicly; part of [[Andy Matuschak/Patron letters on memory system experiments|Patron letters on memory system experiments]]_
 
-After the past few months digging into research on [problem-solving practice](https://www.patreon.com/posts/fluid-practice-83882597) and [reading comprehension](https://www.patreon.com/posts/reading-and-85345515), I felt lost in a fog of abstraction. I needed to ground all those ideas in something real and concrete. Are these all just threshold effects? Do these problems basically just go away with moderate reading strategy skills and appropriately-leveled problem sets? If so, what issues remain?
+After the past few months digging into research on [[Andy Matuschak/2023-05-31 Patreon letter - Fluid practice for fluid understanding|problem-solving practice]] and [[Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems|reading comprehension]], I felt lost in a fog of abstraction. I needed to ground all those ideas in something real and concrete. Are these all just threshold effects? Do these problems basically just go away with moderate reading strategy skills and appropriately-leveled problem sets? If so, what issues remain?
 
-So this month, rather than observing another student, I decided to observe myself. _What important barriers remain in my learning experience—even when I use my memory system, apply “expert” reading comprehension strategies, and solve every exercise?_ I want to create an alien sense of ease and confidence when learning from an explanatory text. [Alex, the student I worked with a few months ago, had troubles](https://www.patreon.com/posts/memory-systems-80865178) which seemed to be rooted in reading comprehension and a need for more problem-solving scaffolds. If I make it past those issues, where do my systems and strategies fall short?
+So this month, rather than observing another student, I decided to observe myself. _What important barriers remain in my learning experience—even when I use my memory system, apply “expert” [[Andy Matuschak/Reading comprehension|reading comprehension]] strategies, and solve every exercise?_ I want to create an alien sense of ease and confidence when learning from an explanatory text. [[Andy Matuschak/2023-03-31 Patreon letter - Memory systems and problem-solving practice|Alex, the student I worked with a few months ago, had troubles]] which seemed to be rooted in reading comprehension and a need for more problem-solving scaffolds. If I make it past those issues, where do my systems and strategies fall short?
 
 As it happens, I’ve been looking for a good excuse to study linear algebra. My last attempt was about 17 years ago at Caltech. I’d attended a liberal arts-focused secondary school, which left me wildly unprepared for Caltech’s theory-laden math program. I absorbed very little. These days, when I dig into computer graphics and machine learning papers, I’m often frustrated: my fragmentary understanding of linear algebra spreads like contagion into fragmentary understanding of ideas in graphics and machine learning. I’d really like to understand these topics more solidly!
 
@@ -20,15 +20,13 @@ I chose [Jim Hefferon’s _Linear Algebra_](https://hefferon.net/linearalgebra/i
 I emerged with what feels like a strong understanding of the material. But my internal experience was far from “an alien sense of ease and confidence”. I felt unsupported in a number of important ways by the learning environment I’d created. Happily, many of these observations point to interesting paths for future prototyping and exploration.
 
 ## Comprehension support
-
 Before I can worry about building rich understanding or reinforcing my long-term memory, I need to ensure that I simply comprehend what the text is saying.
 
-I’ve built habits around [reading comprehension strategies like questioning and elaborating the text](https://www.patreon.com/posts/reading-and-85345515). These put me in a better position than many readers, but I know from past experience that they’re not enough: I still often discover that I’ve missed important points from the text.
+I’ve built habits around [[Andy Matuschak/2023-06-30 Patreon letter - Reading comprehension and memory systems|reading comprehension strategies like questioning and elaborating the text]]. These put me in a better position than many readers, but I know from past experience that they’re not enough: I still often discover that I’ve missed important points from the text.
 
 For this book, though, I had extra help from my memory system and the problem sets. Let’s look at the impact of those supports on my reading comprehension.
 
 ### Prompt-writing and comprehension support
-
 My reading comprehension is much more reliable when I’m writing thorough memory prompts about a text. The process puts me into an active state of mind. I’m on the lookout for anything that seems important; I’m less likely to gloss over key details. And in order to transform those details into retrieval tasks, I usually need to comprehend them in at least some basic way.
 
 That’s all great. But I do notice a few important limitations.
@@ -37,22 +35,20 @@ That’s all great. But I do notice a few important limitations.
 
 **Prompts create obligations.** I want to make sure that I comprehend everything that the author says. But I don’t necessarily want to sign up to repeatedly practice everything the author says. When I lean heavily on memory prompts to reinforce my comprehension, I’ll often feel burdened later by the density of prompts. I’ll find I don’t care about many of the finer details, or that those details are adequately reinforced by later synthesis prompts. I can delete the excess prompts, of course, but there’s a small cost to each deletion decision. And it takes a lot of work to write all those “unnecessary” prompts—much more than, for instance, just explaining the text aloud to myself as I read. Some of that effort produces a more elaborated understanding, but much of it feels like wasted energy.
 
-**Shallow prompts, shallow comprehension.** When a key definition is provided, it’s easy to write a prompt by simply paraphrasing the definition as given in the text. And that’s a problem because it’s easy to paraphrase without comprehension, [as the self-explanation literature has found](https://andymatuschak.org/files/papers/McNamara%20-%202004%20-%20SERT.pdf#page=19). Now, prompts which simply paraphrase the text usually aren’t very good. Prompts often need to distill and elaborate to be effective. So one could respond to my complaint by saying: “just write better prompts!” Sure. But I’ll point out that the medium doesn’t help me do the right thing here. It’s easy to inadvertently write shallow prompts, and to avoid that, I need to both apply constant monitoring—difficult when learning new material—and also spend more effort on prompt-writing—but it’s not always obvious when it’s “worth it”.
+**Shallow prompts, shallow comprehension.** When a key definition is provided, it’s easy to write a prompt by simply paraphrasing the definition as given in the text. And that’s a problem because it’s easy to paraphrase without comprehension, [as the self-explanation literature has found](https://andymatuschak.org/files/papers/McNamara%20-%202004%20-%20SERT.pdf#page=19) (PDF: [[Andy Matuschak/Attachments/McNamara - 2004 - SERT - Self-Explanation Reading Training.pdf#page=19]]). Now, prompts which simply paraphrase the text usually aren’t very good. Prompts often need to distill and elaborate to be effective. So one could respond to my complaint by saying: “just write better prompts!” Sure. But I’ll point out that the medium doesn’t help me do the right thing here. It’s easy to inadvertently write shallow prompts, and to avoid that, I need to both apply constant monitoring—difficult when learning new material—and also spend more effort on prompt-writing—but it’s not always obvious when it’s “worth it”.
 
 ### The mnemonic medium and comprehension support
+If prompt-writing is an important comprehension strategy, that seems to pose a problem for the [mnemonic medium](https://numinous.productions/ttft/#introducing-mnemonic-medium), where prompts are written by others. Now, the embedded memory prompts do (inadvertently) act as a kind of basic comprehension check. If a prompt about a passage you just read seems baffling, that’s unlikely to be an issue with forgetting. You probably skimmed over the relevant material. The embedded prompts have indirect effects, too: many readers have reported that after discovering that their comprehension was so poor, they start reading more carefully (as the [[Andy Matuschak/Adjunct questions improve comprehension of related but untested content|adjunct question]] literature predicts).
 
-If prompt-writing is an important comprehension strategy, that seems to pose a problem for the [mnemonic medium](https://numinous.productions/ttft/#introducing-mnemonic-medium), where prompts are written by others. Now, the embedded memory prompts do (inadvertently) act as a kind of basic comprehension check. If a prompt about a passage you just read seems baffling, that’s unlikely to be an issue with forgetting. You probably skimmed over the relevant material. The embedded prompts have indirect effects, too: many readers have reported that after discovering that their comprehension was so poor, they start reading more carefully (as the [adjunct question](https://notes.andymatuschak.org/z4m9Gat7zi9YUmZzQRR7pwt) literature predicts).
-
-But we designed the embedded review interface with memory practice in mind, not comprehension checks. I’ve observed enough mnemonic medium readers to see that memory failures and comprehension failures feel _very_ different.
+But we designed the embedded review interface with memory practice in mind, not comprehension checks. I’ve observed enough [[Andy Matuschak/Mnemonic medium|mnemonic medium]] readers to see that memory failures and comprehension failures feel _very_ different.
 
 Memory failures usually feel like uncovering something you _once knew_ but have since forgotten: “Ah… where did the imaginary term go again? (Reveal answer) Oops, it’s in the upper right cell. OK, better review that again.” Or: “I didn’t remember that, but I don’t _care_ about remembering that. (Delete)” Readers are more comfortable declaring that they don’t care about something when they know what that something _is_.
 
 By contrast, comprehension failures often feel arbitrary and capricious: “I don’t really know what this is talking about. (Reveal answer) O…kay? I don’t get it.” The interface presents two buttons: “Remembered” and “Forgotten.” Both of these feel bad to this reader. They feel they’re “supposed” to click “Forgotten”, but they also know that this will just make the exact same question reappear at the end of the session. They don’t _want_ to review this question again: they know it won’t be any less confusing next time, and because they don’t understand the answer, they don’t value knowing it. They know that if they answer the prompt “correctly” when it’s repeated, it’ll only be because they’re parroting without understanding, and parroting feels bad. They can click “Remembered” to “make the prompt go away”, but that doesn’t feel good either: maybe it’s important? And they don’t necessarily want to sign up to answer it again in the future.
 
-If we’re going to use adjunct questions as comprehension checks, I think we’ll want to differentiate them more from retrieval practice prompts, probably in both content and interface design.
+If we’re going to use adjunct questions as comprehension checks, I think we’ll want to differentiate them more from [[Andy Matuschak/Retrieval practice|retrieval practice]] prompts, probably in both content and interface design.
 
 ### Problem sets and comprehension support
-
 With my recent literature reviews fresh in my mind, I noticed that problem sets (in this and other university-level texts) seem to serve three distinct goals:
 
 1. **Check comprehension:** ensure that you actually read and understood the text.
@@ -74,7 +70,6 @@ You could argue that this is just a flaw in the textbook—that a problem set sh
 **Got the answer, missed the point.** In a few cases, a problem was constructed so that it could be straightforwardly solved by applying some property that was discussed in the text. I’d solve it laboriously, and get the same answer, but I’d missed the point. To notice this happening, I needed to not just check my answers but to retrace the steps of every solution, comparing them to my own and watching out for important differences.
 
 ## Skill acquisition
-
 When we learn to do something new, a very interesting transition occurs. At first, we think explicitly about the various objects and actions at play. There’s often explicit verbal rehearsal: “To perform Gaussian elimination, there are three operations I can use…” But with practice, we learn patterns. Then we “just know” what to do, without the feeling of active retrieval: “Alright, halve this equation, then use it to knock out the first term of the other one…”[^1]
 
 In my experience, retrieval practice doesn’t cause this transition by itself, though it seems to make the transition easier. Maybe that’s because reliable long-term memory for the relevant declarative knowledge reduces working memory load. Problem-solving practice is the traditional way to produce this transition. That mostly worked quite well for me, but I’ll mention a few challenges which seem like interesting opportunities for improvement:
@@ -95,7 +90,7 @@ This linear algebra book’s problem sets did that for me. Many of the problems 
 But the problem sets were mostly focused on problem-solving practice in service of skill acquisition. Perhaps more than straight memory support, I’d like to answer dozens more new questions which encourage elaboration and inference, perhaps one or two per review session, for weeks. Ideally, these questions would slowly increase the transfer distance involved.
 
 ## Remembering what I’ve learned
-Having gone to all this effort, I’d like to make sure that I remember what I’ve learned, for the long term. My memory practice will help with this. But there are a number of interesting issues, some of which we first discussed in “[Fluid practice for fluid understanding](https://www.patreon.com/posts/fluid-practice-83882597).”
+Having gone to all this effort, I’d like to make sure that I remember what I’ve learned, for the long term. My memory practice will help with this. But there are a number of interesting issues, some of which we first discussed in “[[Andy Matuschak/2023-05-31 Patreon letter - Fluid practice for fluid understanding|Fluid practice for fluid understanding]].”
 
 **To what extent is explicit retrieval practice obviated by good problems?** Many of my prompts aim to make me retrieve a single detail: e.g. what is the definition of singularity? But if I solve a problem which requires using that definition, then that problem also makes me retrieve it from long-term memory, which will make it more stable in a similar way—or better, via elaboration. The problem-solving task is likely to feel less rote, more authentically interesting. But it also takes more time and effort than a simple flashcard interaction. How should we think about this tradeoff? Which kinds of prompt are best practiced in focused isolation, rather than through integrative practice? Does the answer vary with familiarity?
 
@@ -112,7 +107,6 @@ Having gone to all this effort, I’d like to make sure that I remember what I�
 **Prompt-writing is a lot of work.** I’d estimate that prompt-writing consumed around 2 of the 20 hours I spent on these sections. A 10% tax doesn’t seem so bad, given the comprehension and long-term memory benefits. But prompt-writing requires much more mental effort than mere reading, and more than much of the problem-solving. It felt like at least a third of the overall effort, and in some sections as much as half.
 
 ## Some high-order bits
-
 That was a lot of detail. Stepping back a moment, if I had a magic wand, these are my main wishes:
 - Some “quickly check my comprehension of this passage” interaction. Perhaps a series of lightweight questions can push me to distill and lightly interpret key ideas, without feeling like dull rehearsal. Problem solving and retrieval practice are much more enjoyable and effective in the absence of glaring comprehension gaps.
 - An easy way to orchestrate skill-acquisition-oriented problem-solving practice so that it’s smeared out over time.
@@ -128,5 +122,6 @@ If I got these wishes, I think I’d feel something closer to an “alien sense 
 Thanks to Gary Bernhardt, Elliott Jin, and Russel Simmons for helpful discussion of these topics.
 
 
-[^1]: For a good summary of this process, see [John R. Anderson’s “Learning and Memory”, chapter 9](https://andymatuschak.org/files/papers/Anderson%20-%202000%20-%20Learning%20and%20memory.pdf#page=334).  
+## Footnotes
+[^1]: For a good summary of this process, see [John R. Anderson’s “Learning and Memory”, chapter 9](https://andymatuschak.org/files/papers/Anderson%20-%202000%20-%20Learning%20and%20memory.pdf#page=334) (PDF: [[Andy Matuschak/Attachments/Anderson - 2000 - Learning and memory.pdf#page=334]]).  
 [^2]: Michael Nielsen’s “[Using spaced repetition systems to see through a piece of mathematics](https://cognitivemedium.com/srs-mathematics)” is very stimulating here, but I’m not yet quite able to connect the dots myself.
